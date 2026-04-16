@@ -80,12 +80,14 @@ def geo_summary(geo):
     return " / ".join(parts) if parts else "none"
 
 # ─── Header ───────────────────────────────────────────────────────────────────
-hdr_left, hdr_right = st.columns([3, 1])
-with hdr_left:
-    st.title("🌿 Climate Policy RAG")
-    st.caption("Native American Climate Policy Assistant · AZ / NM / OK")
-with hdr_right:
-    st.write("")
+st.title("🌿 Climate Policy RAG")
+st.caption("Native American Climate Policy Assistant · AZ / NM / OK")
+
+# Cloud mode: API key comes from Streamlit Secrets — no input shown
+# Local mode: show password input so developer can enter key without restarting
+if _IS_CLOUD:
+    api_key = os.environ.get("PORTKEY_API_KEY", "")
+else:
     api_key = st.text_input("Portkey API Key",
                             value=os.environ.get("PORTKEY_API_KEY", ""),
                             type="password", label_visibility="collapsed",
