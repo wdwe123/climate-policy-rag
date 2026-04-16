@@ -1,0 +1,5 @@
+[TABLE]
+| CLIMATE DIVISION | County | Irrigation District | Nrcs - Resource Areas | Tribe | Short-term Indicators | Long-term Indicators |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 | Maricopa; Pinal | . Aguila ID; Arlington ID; . Adaman IWDD; . Buckeye WCDD; Chandler Heights IDD; Clearwater Farms I; . Clearwater farms II; Harquahala Valley IDD; Maricopa Water District; . New Magma IDD; Peninsula Ditch ID; .Queen Creek ID; Roosevelt WCD; . Roosevelt ID; Salt River Project; St Johns ID; . San Tan I | . Upper Sonoran Desert; Middle Sonoran Desert; . Lower Sonoran Desert; . Mogollon Transition; Chaparral Grasslands; . Mogollon Transition; Pinyon-Juniper-Chaparral; . Mexican Oak-Pine Forest; and Oak Savannah; Chihuahuan-Sonoran; Semi-Desert Grasslands | . Ak-Chin; Ft McDowell; . Gila Bend; . Gila River; . Salt River Pima-; Maricopa; . San Carlos; . Tohono O'odham | . 3-month SPI; 6-month SPI; 12-month SPI | 24-month SPI; 36-month SPI; 48-month SPI; Aravaipa Creek near Mammoth; flow; Santa Cruz River near Laveen; flow; Sycamore Creek near Fort; McDowell flow |
+[/TABLE]

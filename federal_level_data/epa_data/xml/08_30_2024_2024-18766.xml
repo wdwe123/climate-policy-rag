@@ -1,0 +1,2124 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">ENVIRONMENTAL PROTECTION AGENCY</AGENCY>
+                <CFR>40 CFR Parts 60 and 63</CFR>
+                <DEPDOC>[EPA-HQ-OAR-2022-0879; FRL-8899-02-OAR]</DEPDOC>
+                <RIN>RIN 2060-AV40</RIN>
+                <SUBJECT>National Emission Standards for Hazardous Air Pollutants: Reciprocating Internal Combustion Engines and New Source Performance Standards: Internal Combustion Engines; Electronic Reporting</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Environmental Protection Agency (EPA).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Environmental Protection Agency (EPA) is finalizing amendments to the National Emission Standards for Hazardous Air Pollutants (NESHAP) for Reciprocating Internal Combustion Engines (RICE), the New Source Performance Standards (NSPS) for Stationary Compression Ignition (CI) Internal Combustion Engines, and the NSPS for Stationary Spark Ignition (SI) Internal Combustion Engines, to add electronic reporting provisions. The addition of electronic reporting provisions will provide for simplified reporting by sources and enhance availability of data on sources to the EPA and the public. In addition, a small number of clarifications and corrections to these rules are being finalized to provide clarification and correct inadvertent and other minor errors in the Code of Federal Regulations (CFR), particularly related to tables.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This final rule is effective on August 30, 2024.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The EPA has established a docket for this action under Docket ID No. EPA-HQ-OAR-2022-0879. All documents in the docket are listed on the 
+                        <E T="03">https://www.regulations.gov</E>
+                         website. Although listed, some information is not publicly available, 
+                        <E T="03">e.g.,</E>
+                         Confidential Business Information (CBI) or other information whose disclosure is restricted by statute. Certain other material, such as copyrighted material, is not placed on the internet and will be publicly available only in hard copy form. Publicly available docket materials are available electronically through 
+                        <E T="03">https://www.regulations.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Christopher Werner, Sector Policies and Programs Division (D243-01), Office of Air Quality Planning and Standards, U.S. Environmental Protection Agency, 109 T.W. Alexander Drive, P.O. Box 12055, RTP, North Carolina 27711; telephone number: (919) 541-5133; and email address: 
+                        <E T="03">werner.christopher@epa.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P>
+                    <E T="03">Organization of this document.</E>
+                     The information in this preamble is organized as follows:
+                </P>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. General Information</FP>
+                    <FP SOURCE="FP1-2">A. Does this action apply to me?</FP>
+                    <FP SOURCE="FP1-2">B. Where can I get a copy of this document and other related information?</FP>
+                    <FP SOURCE="FP1-2">C. Judicial Review and Administrative Review</FP>
+                    <FP SOURCE="FP-2">II. Background</FP>
+                    <FP SOURCE="FP-2">III. What changes did we propose and what changes are we finalizing?</FP>
+                    <FP SOURCE="FP1-2">A. Summary of Actions Proposed</FP>
+                    <FP SOURCE="FP1-2">B. Electronic Reporting</FP>
+                    <FP SOURCE="FP1-2">C. Clarifications to Table 4 in NSPS Subpart IIII</FP>
+                    <FP SOURCE="FP1-2">D. Correction of Inadvertent Errors in NESHAP Subpart ZZZZ</FP>
+                    <FP SOURCE="FP1-2">E. Clarifications to the Oil Change Requirement in NESHAP Subpart ZZZZ</FP>
+                    <FP SOURCE="FP1-2">F. Other Requests for Comments</FP>
+                    <FP SOURCE="FP1-2">G. Effective Date and Compliance Dates</FP>
+                    <FP SOURCE="FP-2">IV. Summary of Cost, Environmental, and Economic Impacts</FP>
+                    <FP SOURCE="FP1-2">A. What are the air quality impacts?</FP>
+                    <FP SOURCE="FP1-2">B. What are the cost impacts?</FP>
+                    <FP SOURCE="FP1-2">C. What are the economic impacts?</FP>
+                    <FP SOURCE="FP1-2">D. What are the benefits?</FP>
+                    <FP SOURCE="FP-2">V. Statutory and Executive Order Reviews</FP>
+                    <FP SOURCE="FP1-2">A. Executive Order 12866: Regulatory Planning and Review and Executive Order 14094: Modernizing Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">B. Paperwork Reduction Act (PRA)</FP>
+                    <FP SOURCE="FP1-2">C. Regulatory Flexibility Act (RFA)</FP>
+                    <FP SOURCE="FP1-2">D. Unfunded Mandates Reform Act (UMRA)</FP>
+                    <FP SOURCE="FP1-2">E. Executive Order 13132: Federalism</FP>
+                    <FP SOURCE="FP1-2">F. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</FP>
+                    <FP SOURCE="FP1-2">G. Executive Order 13045: Protection of Children From Environmental Health Risks and Safety Risks</FP>
+                    <FP SOURCE="FP1-2">H. Executive Order 13211: Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use</FP>
+                    <FP SOURCE="FP1-2">I. National Technology Transfer and Advancement Act (NTTAA)</FP>
+                    <FP SOURCE="FP1-2">J. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations and Executive Order 14096: Revitalizing our Nation's Commitment to Environmental Justice for All</FP>
+                    <FP SOURCE="FP1-2">K. Congressional Review Act (CRA)</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. General Information</HD>
+                <HD SOURCE="HD2">A. Does this action apply to me?</HD>
+                <P>
+                    Categories and entities potentially regulated by this action include industries using stationary engines, including both compression and spark ignition internal combustion engines, such as: Electric power generation, transmission, or distribution; Medical and surgical hospitals; Natural gas transmission; Crude petroleum and 
+                    <PRTPAGE P="70506"/>
+                    natural gas production; Natural gas liquids producers; and National security. North American Industry Classification System Codes of potentially regulated industries may include 2211, 622110, 48621, 211111, 211112, and 92811. This list is not intended to be exhaustive, but rather to provide a guide for readers regarding entities likely to be affected by the action for the source category listed. To determine whether your facility is affected, you should examine the applicability criteria in the rules. If you have any questions regarding the applicability of any aspect of this action, please contact the person listed in the preceding 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                     section of this preamble.
+                </P>
+                <HD SOURCE="HD2">B. Where can I get a copy of this document and other related information?</HD>
+                <P>
+                    In addition to being available in the docket, an electronic copy of this final action is available on the internet at 
+                    <E T="03">https://www.epa.gov/stationary-engines</E>
+                    . Following publication in the 
+                    <E T="04">Federal Register</E>
+                    <E T="03">,</E>
+                     the EPA will post the 
+                    <E T="04">Federal Register</E>
+                     version of the final rule and key technical documents at this same website.
+                </P>
+                <HD SOURCE="HD2">C. Judicial Review and Administrative Review</HD>
+                <P>Under Clean Air Act (CAA) section 307(b)(1), judicial review of this final action is available only by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit (the court) by October 29, 2024. Under CAA section 307(b)(2), the requirements established by this final rule may not be challenged separately in any civil or criminal proceedings brought by the EPA to enforce the requirements.</P>
+                <P>
+                    Section 307(d)(7)(B) of the CAA further provides that â[o]nly an objection to a rule or procedure which was raised with reasonable specificity during the period for public comment (including any public hearing) may be raised during judicial review.â This section also provides a mechanism for the EPA to convene a proceeding for reconsideration, â[i]f the person raising an objection can demonstrate to the EPA that it was impracticable to raise such objection within [the period for public comment] or if the grounds for such objection arose after the period for public comment, (but within the time specified for judicial review) and if such objection is of central relevance to the outcome of the rule.â Any person seeking to make such a demonstration to us should submit a Petition for Reconsideration to the Office of the Administrator, U.S. Environmental Protection Agency, Room 3000, WJC West Building, 1200 Pennsylvania Ave. NW, Washington, DC 20460, with a copy to both the person listed in the preceding 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                     section, and the Associate General Counsel for the Air and Radiation Law Office, Office of General Counsel (Mail Code 2344A), U.S. Environmental Protection Agency, 1200 Pennsylvania Ave. NW, Washington, DC 20460.
+                </P>
+                <HD SOURCE="HD1">II. Background</HD>
+                <P>Stationary engines are used in a variety of applications from generating electricity to powering pumps and compressors in power and manufacturing plants. They are also used in the event of an emergency such as fire or flood. The key air pollutants the EPA regulates from these sources include formaldehyde, acetaldehyde, acrolein, methanol, polycyclic aromatic hydrocarbon, volatile organic compounds, carbon monoxide, nitrogen oxides, particulate matter, sulfur dioxide, and hydrocarbons.</P>
+                <P>A CI engine, or diesel engine, is a type of engine in which the fuel injected into the combustion chamber is ignited by a heat resulting from the compression of gases inside the cylinder. A SI engine is a type of engine in which the fuel-air mixture in the combustion chamber is ignited by a spark from a spark plug.</P>
+                <P>The NESHAP for RICE is codified in 40 CFR part 63, subpart ZZZZ, which was first promulgated in 2004. The NSPS for Stationary CI Internal Combustion Engines (ICE) is codified in 40 CFR part 60, subpart IIII, which was first promulgated in 2006. The NSPS for Stationary SI Internal Combustion Engines is codified in 40 CFR part 60, subpart JJJJ, which was first promulgated in 2008. All have been amended several times since promulgation.</P>
+                <HD SOURCE="HD1">III. What changes did we propose and what changes are we finalizing?</HD>
+                <HD SOURCE="HD2">A. Summary of Actions Proposed</HD>
+                <P>
+                    On June 26, 2023 (88 FR 41361), the EPA proposed the following pursuant to CAA sections 111 and 112: addition of requirements for electronic reporting to 40 CFR part 60, subpart IIII, 40 CFR part 60, subpart JJJJ, and 40 CFR part 63, subpart ZZZZ; clarifications to table 4 in 40 CFR part 60, subpart IIII due to incorrect display in the CFR; the correction of inadvertent errors in 40 CFR part 63, subpart ZZZZ, specifically in 40 CFR 63.6625(j) the need to reference additional line items in table 2d; and clarifications to the oil change requirements for certain engines as referenced in 40 CFR part 63, subpart ZZZZ, tables 2c and 2d. The following sections discuss the proposed changes in more detail, along with significant comments received and the EPA's response to those comments, and the final amendments to the rules, including any changes to what was proposed that are being made as a result of comments received. For additional comments and responses, please see the document, 
+                    <E T="03">Summary of Public Comments and EPA's Responses National Emission Standards for Hazardous Air Pollutants: Reciprocating Internal Combustion Engines and New Source Performance Standards: Internal Combustion Engines; Electronic Reporting,</E>
+                     available in the docket for this action. The EPA also solicited comments to aid in its consideration of the appropriate next steps following remand of the provisions specifying that emergency engines can operate for up to 50 hours per year to mitigate local transmission and/or distribution limitations to avert potential voltage collapse or line overloads that could lead to the interruption of power supply in a local area or region by the court. The EPA appreciates the comments and information that were provided during the public comment period and will consider them as it assesses the appropriate path forward but is not responding to these comments or taking further action on these provisions at this time.
+                </P>
+                <HD SOURCE="HD2">B. Electronic Reporting</HD>
+                <P>
+                    The EPA proposed that owners and operators of stationary engines subject to NSPS subparts IIII or JJJJ, or NESHAP subpart ZZZZ, submit electronic copies of certain initial notifications of compliance, performance test reports, Notification of Compliance Status (NOCS), and annual and semiannual compliance reports through the EPA's Central Data Exchange (CDX) using the Compliance and Emissions Data Reporting Interface (CEDRI). A description of the electronic data submission process was provided in the memorandum 
+                    <E T="03">Electronic Reporting Requirements for New Source Performance Standards (NSPS) and National Emission Standards for Hazardous Air Pollutants (NESHAP) Rules</E>
+                     and was placed in the docket at the time of proposal. The EPA proposed that the initial notification of compliance be submitted through CEDRI, that performance test results collected using test methods that are supported by the EPA's Electronic Reporting Tool (ERT) as listed on the 
+                    <PRTPAGE P="70507"/>
+                    ERT websiteâ
+                    <SU>1</SU>
+                    <FTREF/>
+                     at the time of the test be submitted in the format generated through the use of the ERT or an electronic file consistent with the extensible markup language (XML) schema on the ERT website, and that other performance test results be submitted in portable document format (PDF) using the attachment module of the ERT. The EPA also proposed that NOCS for NESHAP subpart ZZZZ be submitted as a PDF upload in CEDRI.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        â
+                        <E T="03">https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    For annual and semiannual compliance reports, the EPA proposed that owners and operators use the appropriate spreadsheet template to submit information to CEDRI. Draft versions of the proposed templates for these reports were included in the docket at the time of proposal.
+                    <SU>2</SU>
+                    <FTREF/>
+                     The EPA specifically requested comment on the content, layout, and overall design of the templates.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âSee 
+                        <E T="03">60.4214d3_annual_report_bulk_upload_template_ICRDraft.xlsx, 60.4245e3_annual_report_bulk_upload_template_ICRDraft.xlsx, and 63.6650_h_and_i Compliance Report Template_ICRDraft.xlsm,</E>
+                         available at Docket ID. No. EPA-HQ-OAR-2022-0879.
+                    </P>
+                </FTNT>
+                <P>Additionally, the EPA identified two broad circumstances in which electronic reporting extensions may be provided. These circumstances were: (1) outages of the EPA's CDX or CEDRI which preclude an owner or operator from accessing the system and submitting required reports and (2) force majeure events, which are defined as events that will be or have been caused by circumstances beyond the control of the affected facility, its contractors, or any entity controlled by the affected facility that prevent an owner or operator from complying with the requirement to submit a report electronically. Examples of force majeure events are acts of nature, acts of war or terrorism, or equipment failure or safety hazards beyond the control of the facility. The EPA provided these potential extensions to protect owners and operators from noncompliance in cases where they cannot successfully submit a report by the reporting deadline for reasons outside of their control. In both circumstances, the decision to accept the claim of needing additional time to report is within the discretion of the Administrator, and reporting should occur as soon as possible.</P>
+                <P>
+                    As described in the proposed rulemaking, the electronic submittal of the reports addressed in this final rule will increase the usefulness of the data contained in those reports, is in keeping with current trends in data availability and transparency, will further assist in the protection of public health and the environment, will improve compliance by facilitating the ability of regulated facilities to demonstrate compliance with requirements and by facilitating the ability of delegated State, local, Tribal, and territorial air agencies and the EPA to assess and determine compliance, and will ultimately reduce burden on regulated facilities, delegated air agencies, and the EPA. Electronic reporting eliminates paper-based, manual processes, thereby saving time and resources, simplifying data entry, eliminating redundancies, minimizing data reporting errors, and providing data quickly and accurately to the affected facilities, air agencies, the EPA, and the public. Moreover, electronic reporting is consistent with the EPA's planâ
+                    <SU>3</SU>
+                    <FTREF/>
+                     to implement Executive Order 13563 and is in keeping with the EPA's agency-wide policyâ
+                    <SU>4</SU>
+                    <FTREF/>
+                     developed in response to the White House's Digital Government Strategy.
+                    <SU>5</SU>
+                    <FTREF/>
+                     For more information on the benefits of electronic reporting, see the memorandum 
+                    <E T="03">Electronic Reporting Requirements for New Source Performance Standards (NSPS) and National Emission Standards for Hazardous Air Pollutants (NESHAP) Rules,</E>
+                     available in the docket for this action.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âEPA's Final Plan for Periodic Retrospective Reviews, August 2011. Available at: 
+                        <E T="03">https://www.regulations.gov/document?D=EPA-HQ-OA-2011-0156-0154.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âE-Reporting Policy Statement for EPA Regulations, September 2013. Available at: 
+                        <E T="03">https://www.epa.gov/sites/production/files/2016-03/documents/epa-ereporting-policy-statement-2013-09-30.pdf.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âDigital Government: Building a 21st Century Platform to Better Serve the American People, May 2012. Available at: 
+                        <E T="03">https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html.</E>
+                    </P>
+                </FTNT>
+                <P>As part of the electronic reporting effort, reporting requirements in NESHAP subpart ZZZZ were clarified and adjusted to be consistent for all engine types as well as to provide specificity in units of measure and to provide consistency between the NSPS and the NESHAP. With these changes, the regulatory text in 40 CFR part 63, subpart ZZZZ at 40 CFR 63.6650 now includes all the applicable data elements required by 40 CFR 63.10(e)(3), and the general provisions applicability table is being revised to reflect that 40 CFR 63.10(e)(3) is no longer applicable.</P>
+                <P>We received comments both in support of, and opposed to, the addition of electronic reporting provisions, as well as several comments regarding the draft electronic reporting templates that were made available in the docket. In response to these comments, we made some clarifying changes to the templates. We address and respond to these comments in detail in the response to comment document available in the docket for this action.</P>
+                <P>One clarifying change made in response to comments was to alter the regulatory text and the corresponding entry in the final reporting template for subpart ZZZZ to require the year the engine was constructed, rather than the specific date. Additionally, if the exact year is unknown, an estimate can be provided.</P>
+                <P>The Department of Defense (DoD) commented that all templates provided for review have a requirement to provide the latitude and longitude of the engine in decimal degrees reported to the fifth decimal place, but due to the present-day public availability of electronic data files, DoD is concerned that disclosing the location of certain engines used by the commenter can compromise national security. The comment requested the EPA consider including an option for template latitude and longitude data fields that would allow an installation to label critical system geolocation data as âconfidentialâ or ânational security information.â By offering such an option, the commenter's national security data would not be disclosed or retrievable through publicly available agency (Federal/state/local/tribal) electronic data systems.</P>
+                <P>
+                    The EPA agrees that the exact location of engines should not be reported if the location should remain confidential due to national security concerns. The EPA has clarified for the final rule that if disclosure of the exact location of an engine that is owned by or operated by or for an agency of the Federal Government that is responsible for national defense would be a threat to national security, the filer may claim a national security exemption, which will allow the latitude and longitude fields in the reporting template to be left blank. A corresponding revision is also being made to the regulatory text. It should be noted that the reports still contain the address of the facility at which the engine(s) are located.
+                    <SU>6</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âThe comment also suggested that the EPA should establish criteria for access to precise geolocation of sources in all appropriate stationary engine (NESHAP and NSPS) rules. The EPA does not find it necessary to adopt such criteria at this time, particularly since facility address data is still required to be reported but will work with other agencies to address this issue in the future if it becomes appropriate.
+                    </P>
+                </FTNT>
+                <PRTPAGE P="70508"/>
+                <HD SOURCE="HD2">C. Clarifications to Table 4 in NSPS Subpart IIII</HD>
+                <P>Since it was originally published in the CFR, âTable 4 to Subpart IIII of Part 60âEmission Standards for Stationary Fire Pump Enginesâ has been confusing to the public because it shows blank cells for the CO standard for certain engine model years. The table intended to show that the same CO standard applies for all model years. The table was not intended to be displayed in this manner and the current version simply reflects a mismatch between what was submitted by the EPA and what was able to be shown in the CFR. The EPA invited comment on whether any other aspect of this table was confusing or incorrect (it was shown as table 1 in the preamble of the proposal), but we did not solicit comment on any proposed changes to the standards themselves.</P>
+                <P>We received comment supporting the clarified table and further suggesting that the units of the engine emission standards be added, similar to how the units are currently shown in tables 1 and 2 of 40 CFR part 60, subpart IIII, to prevent any potential confusion regarding the applicable emission standards. We agree that this suggestion would provide further clarification and prevent additional confusion. We are, therefore, finalizing the clarifications to this table as proposed and additionally placing units in the column heading of the table as shown in table 1 of this document.</P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,r50,12,12,12">
+                    <TTITLE>Table 1âClarified Version of âTable 4 to Subpart IIII of Part 60âEmission Standards For Stationary Fire Pump Enginesâ</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Maximum engine power</CHED>
+                        <CHED H="1">Model year(s)</CHED>
+                        <CHED H="1">
+                            Emission standards for stationary fire pump
+                            <LI>engines in g/KW-hr</LI>
+                            <LI>(g/HP-hr)</LI>
+                        </CHED>
+                        <CHED H="2">
+                            NMHC + NO
+                            <E T="0732">X</E>
+                        </CHED>
+                        <CHED H="2">CO</CHED>
+                        <CHED H="2">PM</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">KW&lt;8 (HP&lt;11)</ENT>
+                        <ENT>2010 and earlier</ENT>
+                        <ENT>10.5 (7.8)</ENT>
+                        <ENT>8.0 (6.0)</ENT>
+                        <ENT>1.0 (0.75)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">KW&lt;8 (HP&lt;11)</ENT>
+                        <ENT>2011 +</ENT>
+                        <ENT>7.5 (5.6)</ENT>
+                        <ENT>8.0 (6.0)</ENT>
+                        <ENT>0.40 (0.30)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8â¤KW&lt;19 (11â¤HP&lt;25)</ENT>
+                        <ENT>2010 and earlier</ENT>
+                        <ENT>9.5 (7.1)</ENT>
+                        <ENT>6.6 (4.9)</ENT>
+                        <ENT>0.80 (0.60)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8â¤KW&lt;19 (11â¤HP&lt;25)</ENT>
+                        <ENT>2011 +</ENT>
+                        <ENT>7.5 (5.6)</ENT>
+                        <ENT>6.6 (4.9)</ENT>
+                        <ENT>0.40 (0.30)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">19â¤KW&lt;37 (25â¤HP&lt;50)</ENT>
+                        <ENT>2010 and earlier</ENT>
+                        <ENT>9.5 (7.1)</ENT>
+                        <ENT>5.5 (4.1)</ENT>
+                        <ENT>0.80 (0.60)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">19â¤KW&lt;37 (25â¤HP&lt;50)</ENT>
+                        <ENT>2011 +</ENT>
+                        <ENT>7.5 (5.6)</ENT>
+                        <ENT>5.5 (4.1)</ENT>
+                        <ENT>0.30 (0.22)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">37â¤KW&lt;56 (50â¤HP&lt;75)</ENT>
+                        <ENT>2010 and earlier</ENT>
+                        <ENT>10.5 (7.8)</ENT>
+                        <ENT>5.0 (3.7)</ENT>
+                        <ENT>0.80 (0.60)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">37â¤KW&lt;56 (50â¤HP&lt;75)</ENT>
+                        <ENT>
+                            2011 +â
+                            <SU>1</SU>
+                        </ENT>
+                        <ENT>4.7 (3.5)</ENT>
+                        <ENT>5.0 (3.7)</ENT>
+                        <ENT>0.40 (0.30)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">56â¤KW&lt;75 (75â¤HP&lt;100)</ENT>
+                        <ENT>2010 and earlier</ENT>
+                        <ENT>10.5 (7.8)</ENT>
+                        <ENT>5.0 (3.7)</ENT>
+                        <ENT>0.80 (0.60)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">56â¤KW&lt;75 (75â¤HP&lt;100)</ENT>
+                        <ENT>
+                            2011 +â
+                            <SU>1</SU>
+                        </ENT>
+                        <ENT>4.7 (3.5)</ENT>
+                        <ENT>5.0 (3.7)</ENT>
+                        <ENT>0.40 (0.30)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">75â¤KW&lt;130 (100â¤HP&lt;175)</ENT>
+                        <ENT>2009 and earlier</ENT>
+                        <ENT>10.5 (7.8)</ENT>
+                        <ENT>5.0 (3.7)</ENT>
+                        <ENT>0.80 (0.60)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">75â¤KW&lt;130 (100â¤HP&lt;175)</ENT>
+                        <ENT>
+                            2010 +â
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>4.0 (3.0)</ENT>
+                        <ENT>5.0 (3.7)</ENT>
+                        <ENT>0.30 (0.22)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">130â¤KW&lt;225 (175â¤HP&lt;300)</ENT>
+                        <ENT>2008 and earlier</ENT>
+                        <ENT>10.5 (7.8)</ENT>
+                        <ENT>3.5 (2.6)</ENT>
+                        <ENT>0.54 (0.40)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">130â¤KW&lt;225 (175â¤HP&lt;300)</ENT>
+                        <ENT>
+                            2009 +â
+                            <SU>3</SU>
+                        </ENT>
+                        <ENT>4.0 (3.0)</ENT>
+                        <ENT>3.5 (2.6)</ENT>
+                        <ENT>0.20 (0.15)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">225â¤KW&lt;450 (300â¤HP&lt;600)</ENT>
+                        <ENT>2008 and earlier</ENT>
+                        <ENT>10.5 (7.8)</ENT>
+                        <ENT>3.5 (2.6)</ENT>
+                        <ENT>0.54 (0.40)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">225â¤KW&lt;450 (300â¤HP&lt;600)</ENT>
+                        <ENT>
+                            2009 +â
+                            <SU>3</SU>
+                        </ENT>
+                        <ENT>4.0 (3.0)</ENT>
+                        <ENT>3.5 (2.6)</ENT>
+                        <ENT>0.20 (0.15)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">450â¤KWâ¤560 (600â¤HPâ¤750)</ENT>
+                        <ENT>2008 and earlier</ENT>
+                        <ENT>10.5 (7.8)</ENT>
+                        <ENT>3.5 (2.6)</ENT>
+                        <ENT>0.54 (0.40)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">450â¤KWâ¤560 (600â¤HPâ¤750)</ENT>
+                        <ENT>2009 +</ENT>
+                        <ENT>4.0 (3.0)</ENT>
+                        <ENT>3.5 (2.6)</ENT>
+                        <ENT>0.20 (0.15)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">KW&gt;560 (HP&gt;750)</ENT>
+                        <ENT>2007 and earlier</ENT>
+                        <ENT>10.5 (7.8)</ENT>
+                        <ENT>3.5 (2.6)</ENT>
+                        <ENT>0.54 (0.40)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">KW&gt;560 (HP&gt;750)</ENT>
+                        <ENT>2008 +</ENT>
+                        <ENT>6.4 (4.8)</ENT>
+                        <ENT>3.5 (2.6)</ENT>
+                        <ENT>0.20 (0.15)</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>1</SU>
+                        âFor model years 2011-2013, manufacturers, owners, and operators of fire pump stationary CI ICE in this engine power category with a rated speed of greater than 2,650 revolutions per minute (rpm) may comply with the emission limitations for 2010 model year engines.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>2</SU>
+                        âFor model years 2010-2012, manufacturers, owners, and operators of fire pump stationary CI ICE in this engine power category with a rated speed of greater than 2,650 rpm may comply with the emission limitations for 2009 model year engines.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>3</SU>
+                        âIn model years 2009-2011, manufacturers of fire pump stationary CI ICE in this engine power category with a rated speed of greater than 2,650 rpm may comply with the emission limitations for 2008 model year engines.
+                    </TNOTE>
+                </GPOTABLE>
+                <HD SOURCE="HD2">D. Correction of Inadvertent Errors in NESHAP Subpart ZZZZ</HD>
+                <P>
+                    As it appeared in the CFR at the time of the proposal, table 2d in 40 CFR part 63, subpart ZZZZ correctly indicated multiple SI engine types for which oil change requirements apply. Specifically, table 2d's items numbers 5, 6, 7, 8, 10, 11, and 13 all indicated SI engine types for which these requirements apply. When this table was last revised,
+                    <SU>7</SU>
+                    <FTREF/>
+                     corresponding changes to 40 CFR 63.6625(j) were inadvertently not made. As a result, the version of 40 CFR 63.6625(j), which specifies that an oil analysis program can be used to extend the oil change requirements, referred to an incorrect set of table 2d's item numbers. Therefore, the EPA proposed to amend 40 CFR 63.6625(j) to include the correct list of table 2d's item numbers, specifically 5, 6, 7, 8, 10, 11, and 13, that indicate SI engine types for which oil change requirements apply.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        â78 FR 6709 (January 30, 2013).
+                    </P>
+                </FTNT>
+                <P>We received no comments opposing this correction and received only one comment in general support of it. Therefore, we are finalizing the correction as proposed.</P>
+                <HD SOURCE="HD2">E. Clarifications to the Oil Change Requirement in NESHAP Subpart ZZZZ</HD>
+                <P>As indicated in tables 2c and 2d of 40 CFR part 63, subpart ZZZZ, several types of CI and SI engines are subject to oil change requirements. The number of hours of operation allowed between oil changes stated in the requirement vary by engine type. However, in each instance, the requirement that appeared in the CFR at the time of the proposal was phrased in the form: âChange oil and filter every X,XXX hours of operation or annually, whichever comes first.â</P>
+                <P>
+                    The EPA receives frequent inquiries from regulated entities regarding these provisions, most often revolving around the meaning of the term âannually.â For example, regulated entities sometimes inquire whether âannuallyâ means âevery calendar year.â In such a case, the inquiry amounts to essentially whether an oil change could hypothetically be conducted on January 1, 2019, and the next oil change could then be conducted on December 31, 2020, since 2020 is the calendar year that falls immediately after 2019 (this assumes of course that X,XXX hours of 
+                    <PRTPAGE P="70509"/>
+                    operation has not occurred). In such a scenario, however, these two hypothetical oil changes will have actually occurred almost exactly 2 years apart, minus a day.
+                </P>
+                <P>
+                    This is not what the EPA intended with the use of the term âannuallyâ in tables 2c and 2d of 40 CFR part 63, subpart ZZZZ. It is important for oil changes to occur as close as possible to 12 months apart to minimize emissions, absent use of the oil analysis programs afforded by 40 CFR 63.6625(i) and (j). The same language of âannuallyâ also appears in these tables related to items such as spark plug, air cleaner, and hose and belt inspections, and similar concerns about emissions and engine reliability apply. Therefore, the EPA proposed to replace each instance of use of the term âannuallyâ in tables 2c and 2d with the term âevery 12 months.ââ
+                    <SU>8</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âAdditionally, the same language of âannuallyâ also in appears in a separate location in subpart ZZZZ, namely in the subsection on management practices applicable to existing stationary non-emergency CI RICE with a site rating of more than 300 HP located on an offshore vessel that is an area source of HAP and is a nonroad vehicle that is an Outer Continental Shelf source as defined in 40 CFR 55.2. Similar concerns apply to the engines affected by this subsection (40 CFR 63.6603). So we, likewise, proposed to replace each instance of the term âannuallyâ with the term âevery 12 monthsâ there.
+                    </P>
+                </FTNT>
+                <P>
+                    The EPA received a number of comments on this issue, which are detailed in the response to comment document available in the docket. While some comments were generally supportive of the EPA's proposed change, commenters asked for additional flexibility beyond that afforded by the proposed language, mainly due to concerns about performing oil changes within a tight window in the case of unforeseen events or due to scheduling concerns for maintenance personnel or contractor availability. Most commenters favored an additional month of flexibility beyond the 12-month deadline.
+                    <SU>9</SU>
+                    <FTREF/>
+                     After considering these comments, we are making adjustments to the final language to state âwithin 1 year + 30 days of the previous changeâ (and, in the case of items such as spark plug, air cleaner, and hose and belt inspections, âwithin 1 year + 30 days of the previous inspectionâ) in lieu of the current âannually.â The EPA continues to believe that it is appropriate for oil changes to be performed annually (
+                    <E T="03">i.e.,</E>
+                     after 365 days) but is balancing the need for timely oil changes for proper emissions control against the practical concerns raised by commenters regarding scheduling oil changes in a tight window. Pursuant to this revised text, an oil change could hypothetically be conducted on June 1, 2025, and the next oil change could then be conducted anywhere from June 2, 2025, to July 1, 2026, and be in compliance with the regulations. The EPA also finds that this revised language will address the request by some commenters for more clarity as to the deadline for oil changes. As explained at proposal, it is worthwhile to note that the EPA occasionally receives questions as to whether regulated entities that adopt the oil analysis program in 40 CFR 63.6625(i) or (j) must change the oil filter on a more frequent basis than the oil is changed even when the oil analysis program indicates condemning limits have not yet been reached for Total Acid or Total Base Number, viscosity, and percent water content. We are clarifying that regulated entities that adopt the oil analysis program must change the oil filter for these generators when changing the oil and are not required to change the filter prior to changing the oil. We received no comments opposing this clarification. The intention of the EPA's regulations is that the oil filter should always be changed whenever the engine oil is changed, and we are finalizing the proposed changes to the regulatory text to this effect. Also please note that nothing in the EPA's regulations prevents the owner and operator from changing the oil or the oil filter sooner than condemning limits have been reached, if desired.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âThe EPA also is making it clear that we do not prohibit changing the oil earlier than 12 months if entities desire to do so (since this was raised in some comments).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">F. Other Requests for Comments</HD>
+                <P>In addition to general comments on the proposal, we also asked for comments on the reporting template that was placed in the docket for this action. Several commenters suggested changes to the template and after considering these comments we have made minor clarifying changes to the template. These comments and our responses are discussed more fully in the response to comment document available in the docket for this action. A final template is also available in the docket for this action.</P>
+                <P>
+                    The EPA also requested comments on the provisions specifying that emergency engines can operate for up to 50 hours per year to mitigate local transmission and/or distribution limitations to avert potential voltage collapse or line overloads that could lead to the interruption of power supply in a local area or region. These provisions appear in the NESHAPâ
+                    <SU>10</SU>
+                    <FTREF/>
+                     and both NSPSâ
+                    <SU>11</SU>
+                    <FTREF/>
+                     and are often referred to as the â50-hour provisions.â The EPA did not propose any changes to the 50-hour provisions, but as discussed in the proposal, solicited comments to aid in its consideration of the appropriate next steps following remand of the provisions by the court. The EPA appreciates the comments and information that were provided during the public comment period and is considering them as we assess the appropriate path forward. However, the EPA did not propose and is not finalizing, any changes to the 50-hour provisions at this time; and we have not addressed those comments in the response to comments document for this final rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        â40 CFR 63.6640(f)(4)(ii).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        â40 CFR 60.4211(f)(3)(i), 40 CFR 60.4243(d)(3)(i).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">G. Effective Date and Compliance Dates</HD>
+                <P>As stated in the proposal, the EPA's experience with other industries and entities that are required to convert reporting mechanisms, install necessary hardware and software, become familiar with the process of submitting performance test results electronically through the EPA's CEDRI, test these new electronic submission capabilities, reliably employ electronic reporting, and convert logistics of reporting processes to different time-reporting parameters shows that a time period of a minimum of 90 days, but more typically 180 days, is generally necessary to successfully complete these changes. Due to the diverse nature of the stationary engine sector, the EPA proposed to allow 180 days from the date of the final rule for all electronic reporting provisions, and where a semiannual or annual report template is newly required, 180 days or 1 year from the date that the report template is made available on CEDRI, whichever is later, for compliance with the proposed electronic reporting requirements. For all other proposed requirements, because they are non-substantive edits simply to clarify existing requirements, the EPA proposed to make compliance effective immediately upon promulgation of the final rule.</P>
+                <P>
+                    We received some comments asking for a longer compliance timeframe. The majority of these are addressed in the response to comment document available in the docket for this action, but in general, the commenters that asked for additional time to comply were generally mistaken about the steps required to make their systems compatible with electronic reporting. For sources that were already required to submit the annual reports via an 
+                    <PRTPAGE P="70510"/>
+                    electronic template to CEDRI prior to this rulemaking (
+                    <E T="03">i.e.,</E>
+                     emergency stationary CI ICE subject to reporting under 40 CFR 60.4214(d) in 40 CFR part 60, subpart IIII, emergency stationary SI ICE subject to reporting under 40 CFR 60.4245(e) in 40 CFR part 60, subpart JJJJ, and emergency stationary RICE subject to reporting under 40 CFR 63.6650(h) in 40 CFR part 63, subpart ZZZZ) the EPA determined that 180 days is sufficient time to adjust to the revised electronic template and accommodate the new reporting elements. For all other sources, the EPA determined that the additional year after the reporting template becomes available in CEDRI is necessary for these sources to begin electronic reporting. As discussed in the response to comments document, the EPA considers a year to be an adequate amount of time for these sources to adjust to electronic reporting. We are therefore finalizing the compliance timeframe as proposed.
+                </P>
+                <P>Pursuant to CAA sections 111(b)(1)(B) and 112(i), the revisions to the rules being promulgated in this action are effective on August 30, 2024. The compliance date for affected sources to comply with the amendments pertaining to electronic reporting is 180 days after the effective date of the rule, or, where electronic reporting is newly required for semiannual or annual compliance reports, 1 year from the date that the respective report template is made available on CEDRI, whichever is later.</P>
+                <HD SOURCE="HD1">IV. Summary of Cost, Environmental, and Economic Impacts</HD>
+                <HD SOURCE="HD2">A. What are the air quality impacts?</HD>
+                <P>No air quality impacts are expected to result from this rulemaking.</P>
+                <HD SOURCE="HD2">B. What are the cost impacts?</HD>
+                <P>The EPA estimated costs for this action are based on the results of the analysis for information collection activities, as presented in the Paperwork Reduction Act (PRA) section and accompanying Information Collection Request (ICR) documents in the docket.</P>
+                <P>
+                    When assessed over the first 3 years of compliance, the incremental costs for both NSPS (subpart IIII and subpart JJJJ) are estimated to be negative, 
+                    <E T="03">i.e.,</E>
+                     reflect a cost savings, for all 3 years. For the NESHAP (subpart ZZZZ), the incremental cost is estimated to have costs in 2025 followed by cost savings in 2026 and 2027. When viewed on an overall basis (
+                    <E T="03">i.e.,</E>
+                     all subparts considered), undiscounted costs for the final rule, in 2021$, are $18.0 million in 2025, ($38.0 million) in 2026, and ($38.2 million) in 2027, with parentheses indicating negative values, 
+                    <E T="03">i.e.,</E>
+                     cost savings. Although the EPA also anticipates that the final rule will continue to result in cost savings in years beyond 2027 for all subparts, we have not estimated the magnitude or duration of these cost savings. These estimates are consistent with our experience that electronic reporting reduces burden on regulated entities (and the EPA) by eliminating paper-based processes and providing data quickly and accurately.
+                </P>
+                <P>
+                    More details on cost impact analyses for the final rule can be found in the 
+                    <E T="03">âWhat are the economic impacts?â</E>
+                     section of this preamble as well as in section 2 of the memorandum, 
+                    <E T="03">Economic Impact and Small Business Analysis for the National Emission Standards for Hazardous Air Pollutants: Reciprocating Internal Combustion Engines and New Source Performance Standards: Internal Combustion Engines; Electronic Reporting Amendments,</E>
+                     which is also available in the docket for this action.
+                </P>
+                <HD SOURCE="HD2">C. What are the economic impacts?</HD>
+                <P>
+                    The EPA conducted economic impact analyses for the final rule, as detailed in the memorandum, 
+                    <E T="03">Economic Impact and Small Business Analysis for the National Emission Standards for Hazardous Air Pollutants: Reciprocating Internal Combustion Engines and New Source Performance Standards: Internal Combustion Engines; Electronic Reporting Amendments,</E>
+                     which is available in the docket for this action.
+                </P>
+                <P>
+                    Costs were estimated for the first 3 years following this action. Correspondingly, a 3-year period from 2025 to 2027 was selected as the best measure of the economic impacts of this action. This allowed for a reasonable and consistent timeframe over which to examine impacts of this action from a present value (PV) perspective. The PV in 2021 dollars is a cost saving of approximately $53.8 million using a 2 percent discount rate, a cost saving of approximately $51.8 using a 3 percent discount rate, and a cost saving of approximately $44.5 million using a 7 percent discount rate.
+                    <E T="51">12â13</E>
+                    <FTREF/>
+                     The equivalent annualized value (EAV), in 2021 dollars, is a cost saving of approximately $18.7 million using a discount rate of 2 percent, a cost saving of approximately $18.3 using a discount rate of 3 percent, and a cost saving of approximately $16.9 million using a discount rate of 7 percent. The amendments to 40 CFR part 60, subparts IIII and JJJJ have estimated cost savings for respondents in each year. We conducted an analysis assessing the impacts of the costs associated with the amendments to 40 CFR part 63, subpart ZZZZ. As shown in the supporting statement to 40 CFR part 63, subpart ZZZZ, the amendments to ZZZZ have estimated costs of $32 per respondent for the first year and cost savings thereafter. As described the economic impact analysis, for the first year such costs are less than 0.1 percent of the average affected entity's payroll, and we conclude that it is reasonable to assume that such costs represent less than 0.1 percent of sales for the average affected entity.
+                    <SU>14</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âPresent value and equivalent annualized value calculations can be found in 
+                        <E T="03">RICEâfinalâeconomic analysis.xls,</E>
+                         a spreadsheet that includes the basis for the economic impacts that was generated by the EPA for this analysis report. This spreadsheet can be found in the docket for this rule.
+                    </P>
+                    <P>
+                        <SU>13</SU>
+                        âResults using the 2 percent discount rate were not included in the proposal for this action. The 2003 version of OMB's Circular A-4 had generally recommended 3 percent and 7 percent as default rates to discount social costs and benefits. The analysis of the proposed rule used these two recommended rates. In November 2023, OMB finalized an update to Circular A-4, in which it recommended the general application of a 2 percent rate to discount social costs and benefits (subject to regular updates), which is an estimate of consumption-based discount rate. We include cost results calculated using a 2 percent discount rate consistent with the update to Circular A-4 (OMB, 2023).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âThe memorandum titled 
+                        <E T="03">Economic Impact and Small Business Analysis for the Final National Emission Standards for Hazardous Air Pollutants: Reciprocating Internal Combustion Engines and New Source Performance Standards: Internal Combustion Engines; Electronic Reporting Amendment</E>
+                         is available in the docket for this action.
+                    </P>
+                </FTNT>
+                <P>Given the results of the analysis, these economic impacts are relatively small for affected industries and entities impacted by this rule, and there will not be substantial impacts on the markets for affected products. The costs of the rule are not expected to result in a significant market impact, regardless of whether they are passed on to the purchaser or absorbed by the firms.</P>
+                <HD SOURCE="HD2">D. What are the benefits?</HD>
+                <P>The EPA is not making changes to the emission limits and estimates that the final requirements for electronic reporting are not economically significant. Because these amendments are not considered economically significant, as defined by Executive Order 12866, and because no emission reductions were projected, we are not estimating any benefits from reducing emissions.</P>
+                <HD SOURCE="HD1">V. Statutory and Executive Order Reviews</HD>
+                <P>
+                    Additional information about these statutes and Executive orders can be 
+                    <PRTPAGE P="70511"/>
+                    found at 
+                    <E T="03">https://www.epa.gov/laws-regulations/laws-and-executive-orders.</E>
+                </P>
+                <HD SOURCE="HD2">A. Executive Order 12866: Regulatory Planning and Review and Executive Order 14094: Modernizing Regulatory Review</HD>
+                <P>This action is not a significant regulatory action as defined in Executive Order 12866, as amended by Executive Order 14094, and was therefore not subject to a requirement for Executive Order 12866 review.</P>
+                <HD SOURCE="HD2">B. Paperwork Reduction Act (PRA)</HD>
+                <P>The information collection activities in this rule have been submitted for approval to the Office of Management and Budget (OMB) under the PRA. The Information Collection Request (ICR) document that the EPA prepared has been assigned EPA ICR numbers 2196.08, 2227.07, and 1975.12 for NSPS subparts IIII and JJJJ, and NESHAP subpart ZZZZ, respectively. You can find a copy of the ICR in the docket for this rule, and it is briefly summarized here. The information collection requirements are not enforceable until OMB approves them.</P>
+                <P>The amendments mainly add electronic reporting provisions to the rules. In general, the changes do not result in regulated entities needing to submit anything additional electronically that is not currently submitted via paper copies, and this is therefore expected to lessen the recordkeeping and reporting burden. The information is collected to assure compliance with 40 CFR part 60, subparts IIII and JJJJ and 40 CFR part 63, subpart ZZZZ.</P>
+                <P>
+                    <E T="03">Respondents/affected entities:</E>
+                     Owners and operators of stationary RICE at either a major or area source of HAP emissions (NESHAP subpart ZZZZ); existing and new manufacturers, owners, and operators of stationary CI internal combustion engines (NSPS subpart IIII); existing and new manufacturers, owners, and operators of stationary SI internal combustion engines (NSPS subpart JJJJ).
+                </P>
+                <P>
+                    <E T="03">Respondents' obligation to respond:</E>
+                     Mandatory.
+                </P>
+                <P>
+                    <E T="03">Estimated number of respondents:</E>
+                     915,781 (ZZZZ); 207,360 (IIII); 19,835 (JJJJ).
+                </P>
+                <P>
+                    <E T="03">Frequency of response:</E>
+                     Varies by rule and by type of response.
+                </P>
+                <P>
+                    <E T="03">Total estimated burden:</E>
+                     (61,799) (ZZZZ); (95,928) (IIII); (1,144) (JJJJ) hours (per year). Burden is defined at 5 CFR 1320.3(b). Note: parentheses indicate a reduction in burden, 
+                    <E T="03">i.e.,</E>
+                     a reduced number of hours as a result of the addition of electronic reporting to the rules.
+                </P>
+                <P>
+                    <E T="03">Total estimated cost:</E>
+                     ($7,581,151) (ZZZZ); ($11,688,145) (IIII); ($140,379) (JJJJ) (per year), includes $0 annualized capital or operation &amp; maintenance costs. Note: parentheses indicate a reduction in cost as a result of the addition of electronic reporting to the rules.
+                </P>
+                <P>
+                    An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB control numbers for the EPA's regulations in 40 CFR are listed in 40 CFR part 9. When OMB approves this ICR, the Agency will announce that approval in the 
+                    <E T="04">Federal Register</E>
+                     and publish a technical amendment to 40 CFR part 9 to display the OMB control number for the approved information collection activities contained in this final rule.
+                </P>
+                <HD SOURCE="HD2">C. Regulatory Flexibility Act (RFA)</HD>
+                <P>
+                    I certify that this action will not have a significant economic impact on a substantial number of small entities under the RFA. The small entities subject to the requirements of this action are small businesses, small governmental jurisdictions and small non-profits across a range of sectors, that own or operate stationary engines (
+                    <E T="03">e.g.,</E>
+                     for generating electricity in remote areas or when electricity supply is temporarily interrupted), including but not limited to: Electric power generation, transmission, or distribution; Medical and surgical hospitals; Natural gas transmission; Crude petroleum and natural gas production; Natural gas liquids producers; and National security.
+                </P>
+                <P>
+                    The amendments to 40 CFR part 60, subparts IIII and JJJJ have estimated cost savings for respondents by reducing reporting burdens. We conducted analysis assessing the impacts of the costs associated with the amendments to 40 CFR part 63, subpart ZZZZ. As shown in the supporting statement to 40 CFR part 63, subpart ZZZZ, this subpart has estimated costs of $32 per respondent in 1 year, and cost savings in following years. We estimate that this compliance cost of $32 per respondent is well below a 1 percent impact relative to payroll or sales for affected small entities.
+                    <SU>15</SU>
+                    <FTREF/>
+                     While there is some uncertainty in these estimates, due to the range of entities that may own or operate stationary engines, there is a large margin before the impacts would approach a 1 percent impact for a substantial number of small entities. Details of this analysis are presented in the memorandum titled 
+                    <E T="03">Economic Impact and Small Business Analysis for the National Emission Standards for Hazardous Air Pollutants: Reciprocating Internal Combustion Engines and New Source Performance Standards: Internal Combustion Engines; Electronic Reporting Amendment,</E>
+                     which is available in the docket for this action.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âFor example, for an entity with $32,000 in payroll, the compliance cost would represent an impact of 0.1% relative to payroll.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">D. Unfunded Mandates Reform Act (UMRA)</HD>
+                <P>This action does not contain an unfunded mandate of $100 million or more as described in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely affect small governments. This action will reduce reporting costs for all sources, although we did estimate some initial costs (well under $100 million in the aggregate) for some sources.</P>
+                <HD SOURCE="HD2">E. Executive Order 13132: Federalism</HD>
+                <P>This action does not have federalism implications. It will not have substantial direct effects on the states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among the various levels of government.</P>
+                <HD SOURCE="HD2">F. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</HD>
+                <P>This action does not have tribal implications as specified in Executive Order 13175. While some Tribes could be impacted by this amendment, this rulemaking would reduce the compliance costs for owners and operators of stationary engines. Thus, Executive Order 13175 does not apply to this action.</P>
+                <HD SOURCE="HD2">G. Executive Order 13045: Protection of Children From Environmental Health Risks and Safety Risks</HD>
+                <P>The EPA interprets Executive Order 13045 as applying only to those regulatory actions that concern environmental health or safety risks that the EPA has reason to believe may disproportionately affect children, per the definition of âcovered regulatory actionâ in section 2-202 of the Executive Order.</P>
+                <P>
+                    Therefore, this action is not subject to Executive Order 13045 because it does not concern an environmental health risk or safety risk. Since this action does not concern human health, the EPA's Policy on Children's Health also does not apply.
+                    <PRTPAGE P="70512"/>
+                </P>
+                <HD SOURCE="HD2">H. Executive Order 13211: Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use</HD>
+                <P>This action is not subject to Executive Order 13211, because it is not a significant regulatory action under Executive Order 12866.</P>
+                <HD SOURCE="HD2">I. National Technology Transfer and Advancement Act (NTTAA)</HD>
+                <P>This rulemaking does not involve technical standards.</P>
+                <HD SOURCE="HD2">J. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations and Executive Order 14096: Revitalizing Our Nation's Commitment to Environmental Justice for All</HD>
+                <P>The EPA believes that this type of action does not concern human health or environmental conditions and therefore cannot be evaluated with respect to potentially disproportionate and adverse effects on communities with environmental justice concerns. This is because this action involves the addition of electronic reporting and therefore is not expected to change emissions.</P>
+                <HD SOURCE="HD2">K. Congressional Review Act (CRA)</HD>
+                <P>This action is subject to the CRA, and the EPA will submit a rule report to each House of the Congress and to the Comptroller General of the United States. This action is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects</HD>
+                    <CFR>40 CFR Part 60</CFR>
+                    <P>Environmental protection, Administrative practice and procedure, Air pollution control, Reporting and recordkeeping requirements.</P>
+                    <CFR>40 CFR Part 63</CFR>
+                    <P>Environmental protection, Administrative practice and procedure, Air pollution control, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <SIG>
+                    <NAME>Michael S. Regan,</NAME>
+                    <TITLE>Administrator.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, title 40, chapter I, parts 60 and 63 of the Code of Federal Regulations are amended as follows:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 60âSTANDARDS OF PERFORMANCE FOR NEW STATIONARY SOURCES</HD>
+                </PART>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>1. The authority citation for part 60 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P>
+                            42 U.S.C. 7401 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart IIIIâStandards of Performance for Stationary Compression Ignition Internal Combustion Engines</HD>
+                </SUBPART>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>2. Amend Â§â60.4214 by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraph (a)(1) introductory text and paragraph (d)(3); and</AMDPAR>
+                    <AMDPAR>b. Adding paragraphs (f), (g), (h), (i), and (j).</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â60.4214</SECTNO>
+                        <SUBJECT>What are my notification, reporting, and recordkeeping requirements if I am an owner or operator of a stationary CI internal combustion engine?</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>(1) Submit an initial notification as required in Â§â60.7(a)(1). The notification must include the information in paragraphs (a)(1)(i) through (v) of this section. Beginning on February 26, 2025, submit the notification electronically according to paragraph (g) of this section.</P>
+                        <STARS/>
+                        <P>(d) * * *</P>
+                        <P>
+                            (3) The annual report must be submitted electronically using the subpart specific reporting form in the Compliance and Emissions Data Reporting Interface (CEDRI) that is accessed through EPA's Central Data Exchange (CDX) (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). However, if the reporting form specific to this subpart is not available in CEDRI at the time that the report is due, the written report must be submitted to the Administrator at the appropriate address listed in Â§â60.4. Beginning on February 26, 2025, submit annual report electronically according to paragraph (g) of this section.
+                        </P>
+                        <STARS/>
+                        <P>(f) Beginning on February 26, 2025, within 60 days after the date of completing each performance test required by this subpart, you must submit the results of the performance test required under this section following the procedures specified in paragraphs (f)(1) and (2) of this section.</P>
+                        <P>
+                            (1) 
+                            <E T="03">Data collected using test methods supported by the EPA's Electronic Reporting Tool (ERT) as listed on the EPA's ERT website (https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert) at the time of the test.</E>
+                             Submit the results of the performance test to the EPA via the Compliance and Emissions Data Reporting Interface (CEDRI), according to paragraph (g) of this section. The data must be submitted in a file format generated using the EPA's ERT. Alternatively, you may submit an electronic file consistent with the extensible markup language (XML) schema listed on the EPA's ERT website.
+                        </P>
+                        <P>
+                            (2) 
+                            <E T="03">Data collected using test methods that are not supported by the EPA's ERT as listed on the EPA's ERT website at the time of the test.</E>
+                             The results of the performance test must be included as an attachment in the ERT or an alternate electronic file consistent with the XML schema listed on the EPA's ERT website. Submit the ERT generated package or alternative file to the EPA via CEDRI according to paragraph (g) of this section.
+                        </P>
+                        <P>
+                            (g) If you are required to submit notifications or reports following the procedure specified in this paragraph (g), you must submit notifications or reports to the EPA via the Compliance and Emissions Data Reporting Interface (CEDRI), which can be accessed through the EPA's Central Data Exchange (CDX) (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). The EPA will make all the information submitted through CEDRI available to the public without further notice to you. Do not use CEDRI to submit information you claim as CBI. Although we do not expect persons to assert a claim of CBI, if you wish to assert a CBI claim for some of the information in the report or notification, you must submit a complete file in the format specified in this subpart, including information claimed to be CBI, to the EPA following the procedures in paragraphs (g)(1) and (2) of this section. Clearly mark the part or all of the information that you claim to be CBI. Information not marked as CBI may be authorized for public release without prior notice. Information marked as CBI will not be disclosed except in accordance with procedures set forth in 40 CFR part 2. All CBI claims must be asserted at the time of submission. Anything submitted using CEDRI cannot later be claimed CBI. Furthermore, under CAA section 114(c), emissions data is not entitled to confidential treatment, and the EPA is required to make emissions data available to the public. Thus, emissions data will not be protected as CBI and will be made publicly available. You must submit the same file submitted to the CBI office with the CBI omitted to the EPA via the EPA's CDX as described earlier in this paragraph (g).
+                        </P>
+                        <P>
+                            (1) The preferred method to receive CBI is for it to be transmitted electronically using email attachments, File Transfer Protocol, or other online file sharing services. Electronic submissions must be transmitted directly to the OAQPS CBI Office at the email address 
+                            <E T="03">oaqpscbi@epa.gov,</E>
+                             and as described in paragraph (g) of this section, should include clear CBI markings. ERT files should be flagged to 
+                            <PRTPAGE P="70513"/>
+                            the attention of the Group Leader, Measurement Policy Group; all other files should be flagged to the attention of the Stationary Compression Ignition Internal Combustion Engine Sector Lead. If assistance is needed with submitting large electronic files that exceed the file size limit for email attachments, and if you do not have your own file sharing service, please email 
+                            <E T="03">oaqpscbi@epa.gov</E>
+                             to request a file transfer link.
+                        </P>
+                        <P>(2) If you cannot transmit the file electronically, you may send CBI information through the postal service to the following address: OAQPS Document Control Officer (C404-02), OAQPS, U.S. Environmental Protection Agency, 109 T.W. Alexander Drive, P.O. Box 12055, Research Triangle Park, North Carolina 27711. ERT files should be sent to the attention of the Group Leader, Measurement Policy Group, and all other files should be sent to the attention of the Stationary Compression Ignition Internal Combustion Engine Sector Lead. The mailed CBI material should be double wrapped and clearly marked. Any CBI markings should not show through the outer envelope.</P>
+                        <P>(h) If you are required to electronically submit a report through CEDRI in the EPA's CDX, you may assert a claim of EPA system outage for failure to timely comply with that reporting requirement. To assert a claim of EPA system outage, you must meet the requirements outlined in paragraphs (h)(1) through (7) of this section.</P>
+                        <P>(1) You must have been or will be precluded from accessing CEDRI and submitting a required report within the time prescribed due to an outage of either the EPA's CEDRI or CDX systems.</P>
+                        <P>(2) The outage must have occurred within the period of time beginning five business days prior to the date that the submission is due.</P>
+                        <P>(3) The outage may be planned or unplanned.</P>
+                        <P>(4) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in reporting.</P>
+                        <P>(5) You must provide to the Administrator a written description identifying:</P>
+                        <P>(i) The date(s) and time(s) when CDX or CEDRI was accessed and the system was unavailable;</P>
+                        <P>(ii) A rationale for attributing the delay in reporting beyond the regulatory deadline to EPA system outage;</P>
+                        <P>(iii) A description of measures taken or to be taken to minimize the delay in reporting; and</P>
+                        <P>(iv) The date by which you propose to report, or if you have already met the reporting requirement at the time of the notification, the date you reported.</P>
+                        <P>(6) The decision to accept the claim of EPA system outage and allow an extension to the reporting deadline is solely within the discretion of the Administrator.</P>
+                        <P>(7) In any circumstance, the report must be submitted electronically as soon as possible after the outage is resolved.</P>
+                        <P>(i) If you are required to electronically submit a report through CEDRI in the EPA's CDX, you may assert a claim of force majeure for failure to timely comply with that reporting requirement. To assert a claim of force majeure, you must meet the requirements outlined in paragraphs (i)(1) through (5) of this section.</P>
+                        <P>
+                            (1) You may submit a claim if a force majeure event is about to occur, occurs, or has occurred or there are lingering effects from such an event within the period of time beginning five business days prior to the date the submission is due. For the purposes of this section, a force majeure event is defined as an event that will be or has been caused by circumstances beyond the control of the affected facility, its contractors, or any entity controlled by the affected facility that prevents you from complying with the requirement to submit a report electronically within the time period prescribed. Examples of such events are acts of nature (
+                            <E T="03">e.g.,</E>
+                             hurricanes, earthquakes, or floods), acts of war or terrorism, or equipment failure or safety hazard beyond the control of the affected facility (
+                            <E T="03">e.g.,</E>
+                             large scale power outage).
+                        </P>
+                        <P>(2) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in reporting.</P>
+                        <P>(3) You must provide to the Administrator:</P>
+                        <P>(i) A written description of the force majeure event;</P>
+                        <P>(ii) A rationale for attributing the delay in reporting beyond the regulatory deadline to the force majeure event;</P>
+                        <P>(iii) A description of measures taken or to be taken to minimize the delay in reporting; and</P>
+                        <P>(iv) The date by which you propose to report, or if you have already met the reporting requirement at the time of the notification, the date you reported.</P>
+                        <P>(4) The decision to accept the claim of force majeure and allow an extension to the reporting deadline is solely within the discretion of the Administrator.</P>
+                        <P>(5) In any circumstance, the reporting must occur as soon as possible after the force majeure event occurs.</P>
+                        <P>(j) Any records required to be maintained by this subpart that are submitted electronically via the EPA's CEDRI may be maintained in electronic format. This ability to maintain electronic copies does not affect the requirement for facilities to make records, data, and reports available upon request to a delegated air agency or the EPA as part of an on-site compliance evaluation.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>3. Revise table 4 to subpart IIII of part 60 to read as follows:</AMDPAR>
+                    <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,r50,12,12,12">
+                        <TTITLE>Table 4 to Subpart IIII of Part 60âEmission Standards for Stationary Fire Pump Engines</TTITLE>
+                        <TDESC>[As stated in Â§Â§â60.4202(d) and 60.4205(c), you must comply with the following emission standards for stationary fire pump engines]</TDESC>
+                        <BOXHD>
+                            <CHED H="1">Maximum engine power</CHED>
+                            <CHED H="1">Model year(s)</CHED>
+                            <CHED H="1">
+                                Emission standards for stationary fire pump 
+                                <LI>engines in g/KW-hr </LI>
+                                <LI>(g/HP-hr)</LI>
+                            </CHED>
+                            <CHED H="2">
+                                NMHC + NO
+                                <E T="0732">X</E>
+                            </CHED>
+                            <CHED H="2">CO</CHED>
+                            <CHED H="2">PM</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">KW&lt;8 (HP&lt;11)</ENT>
+                            <ENT>2010 and earlier</ENT>
+                            <ENT>10.5 (7.8)</ENT>
+                            <ENT>8.0 (6.0)</ENT>
+                            <ENT>1.0 (0.75)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">KW&lt;8 (HP&lt;11)</ENT>
+                            <ENT>2011 +</ENT>
+                            <ENT>7.5 (5.6)</ENT>
+                            <ENT>8.0 (6.0)</ENT>
+                            <ENT>0.40 (0.30)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">8â¤KW&lt;19 (11â¤HP&lt;25)</ENT>
+                            <ENT>2010 and earlier</ENT>
+                            <ENT>9.5 (7.1)</ENT>
+                            <ENT>6.6 (4.9)</ENT>
+                            <ENT>0.80 (0.60)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">8â¤KW&lt;19 (11â¤HP&lt;25)</ENT>
+                            <ENT>2011 +</ENT>
+                            <ENT>7.5 (5.6)</ENT>
+                            <ENT>6.6 (4.9)</ENT>
+                            <ENT>0.40 (0.30)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">19â¤KW&lt;37 (25â¤HP&lt;50)</ENT>
+                            <ENT>2010 and earlier</ENT>
+                            <ENT>9.5 (7.1)</ENT>
+                            <ENT>5.5 (4.1)</ENT>
+                            <ENT>0.80 (0.60)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">19â¤KW&lt;37 (25â¤HP&lt;50)</ENT>
+                            <ENT>2011 +</ENT>
+                            <ENT>7.5 (5.6)</ENT>
+                            <ENT>5.5 (4.1)</ENT>
+                            <ENT>0.30 (0.22)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">37â¤KW&lt;56 (50â¤HP&lt;75)</ENT>
+                            <ENT>2010 and earlier</ENT>
+                            <ENT>10.5 (7.8)</ENT>
+                            <ENT>5.0 (3.7)</ENT>
+                            <ENT>0.80 (0.60)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">37â¤KW&lt;56 (50â¤HP&lt;75)</ENT>
+                            <ENT>
+                                2011 +â
+                                <SU>1</SU>
+                            </ENT>
+                            <ENT>4.7 (3.5)</ENT>
+                            <ENT>5.0 (3.7)</ENT>
+                            <ENT>0.40 (0.30)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">56â¤KW&lt;75 (75â¤HP&lt;100)</ENT>
+                            <ENT>2010 and earlier</ENT>
+                            <ENT>10.5 (7.8)</ENT>
+                            <ENT>5.0 (3.7)</ENT>
+                            <ENT>0.80 (0.60)</ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="70514"/>
+                            <ENT I="01">56â¤KW&lt;75 (75â¤HP&lt;100)</ENT>
+                            <ENT>
+                                2011 +â
+                                <SU>1</SU>
+                            </ENT>
+                            <ENT>4.7 (3.5)</ENT>
+                            <ENT>5.0 (3.7)</ENT>
+                            <ENT>0.40 (0.30)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">75â¤KW&lt;130 (100â¤HP&lt;175)</ENT>
+                            <ENT>2009 and earlier</ENT>
+                            <ENT>10.5 (7.8)</ENT>
+                            <ENT>5.0 (3.7)</ENT>
+                            <ENT>0.80 (0.60)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">75â¤KW&lt;130 (100â¤HP&lt;175)</ENT>
+                            <ENT>
+                                2010 +â
+                                <SU>2</SU>
+                            </ENT>
+                            <ENT>4.0 (3.0)</ENT>
+                            <ENT>5.0 (3.7)</ENT>
+                            <ENT>0.30 (0.22)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">130â¤KW&lt;225 (175â¤HP&lt;300)</ENT>
+                            <ENT>2008 and earlier</ENT>
+                            <ENT>10.5 (7.8)</ENT>
+                            <ENT>3.5 (2.6)</ENT>
+                            <ENT>0.54 (0.40)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">130â¤KW&lt;225 (175â¤HP&lt;300)</ENT>
+                            <ENT>
+                                2009 +â
+                                <SU>3</SU>
+                            </ENT>
+                            <ENT>4.0 (3.0)</ENT>
+                            <ENT>3.5 (2.6)</ENT>
+                            <ENT>0.20 (0.15)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">225â¤KW&lt;450 (300â¤HP&lt;600)</ENT>
+                            <ENT>2008 and earlier</ENT>
+                            <ENT>10.5 (7.8)</ENT>
+                            <ENT>3.5 (2.6)</ENT>
+                            <ENT>0.54 (0.40)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">225â¤KW&lt;450 (300â¤HP&lt;600)</ENT>
+                            <ENT>
+                                2009 +â
+                                <SU>3</SU>
+                            </ENT>
+                            <ENT>4.0 (3.0)</ENT>
+                            <ENT>3.5 (2.6)</ENT>
+                            <ENT>0.20 (0.15)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">450â¤KWâ¤560 (600â¤HPâ¤750)</ENT>
+                            <ENT>2008 and earlier</ENT>
+                            <ENT>10.5 (7.8)</ENT>
+                            <ENT>3.5 (2.6)</ENT>
+                            <ENT>0.54 (0.40)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">450â¤KWâ¤560 (600â¤HPâ¤750)</ENT>
+                            <ENT>2009 +</ENT>
+                            <ENT>4.0 (3.0)</ENT>
+                            <ENT>3.5 (2.6)</ENT>
+                            <ENT>0.20 (0.15)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">KW&gt;560 (HP&gt;750)</ENT>
+                            <ENT>2007 and earlier</ENT>
+                            <ENT>10.5 (7.8)</ENT>
+                            <ENT>3.5 (2.6)</ENT>
+                            <ENT>0.54 (0.40)</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">KW&gt;560 (HP&gt;750)</ENT>
+                            <ENT>2008 +</ENT>
+                            <ENT>6.4 (4.8)</ENT>
+                            <ENT>3.5 (2.6)</ENT>
+                            <ENT>0.20 (0.15)</ENT>
+                        </ROW>
+                        <TNOTE>
+                            <SU>1</SU>
+                            âFor model years 2011-2013, manufacturers, owners and operators of fire pump stationary CI ICE in this engine power category with a rated speed of greater than 2,650 revolutions per minute (rpm) may comply with the emission limitations for 2010 model year engines.
+                        </TNOTE>
+                        <TNOTE>
+                            <SU>2</SU>
+                            âFor model years 2010-2012, manufacturers, owners and operators of fire pump stationary CI ICE in this engine power category with a rated speed of greater than 2,650 rpm may comply with the emission limitations for 2009 model year engines.
+                        </TNOTE>
+                        <TNOTE>
+                            <SU>3</SU>
+                            âIn model years 2009-2011, manufacturers of fire pump stationary CI ICE in this engine power category with a rated speed of greater than 2,650 rpm may comply with the emission limitations for 2008 model year engines.
+                        </TNOTE>
+                    </GPOTABLE>
+                    <STARS/>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart JJJJâStandards of Performance for Stationary Spark Ignition Internal Combustion Engines</HD>
+                </SUBPART>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>4. Amend Â§â60.4245 by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraph (c) introductory text, paragraphs (d), and (e)(3); and</AMDPAR>
+                    <AMDPAR>b. Adding paragraphs (f), (g), (h), (i), and (j).</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â60.4245</SECTNO>
+                        <SUBJECT>What are my notification, reporting, and recordkeeping requirements if I am an owner or operator of a stationary SI internal combustion engine?</SUBJECT>
+                        <STARS/>
+                        <P>(c) Owners and operators of stationary SI ICE greater than or equal to 500 HP that have not been certified by an engine manufacturer to meet the emission standards in Â§â60.4231 must submit an initial notification as required in Â§â60.7(a)(1). The notification must include the information in paragraphs (c)(1) through (5) of this section. Beginning on February 26, 2025 submit the notification electronically according to paragraph (g) of this section.</P>
+                        <STARS/>
+                        <P>(d) Owners and operators of stationary SI ICE that are subject to performance testing must submit a copy of each performance test as conducted in Â§â60.4244 within 60 days after the test has been completed. Performance test reports using EPA Method 18, EPA Method 320, or ASTM D6348-03 (incorporated by referenceâsee 40 CFR 60.17) to measure VOC require reporting of all QA/QC data. For Method 18, report results from sections 8.4 and 11.1.1.4; for Method 320, report results from sections 8.6.2, 9.0, and 13.0; and for ASTM D6348-03 report results of all QA/QC procedures in Annexes 1-7. Beginning on February 26, 2025, performance tests must be reported electronically according to paragraph (f) of this section.</P>
+                        <P>(e) * * *</P>
+                        <P>
+                            (3) The annual report must be submitted electronically using the subpart specific reporting form in the Compliance and Emissions Data Reporting Interface (CEDRI) that is accessed through EPA's Central Data Exchange (CDX) (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). However, if the reporting form specific to this subpart is not available in CEDRI at the time that the report is due, the written report must be submitted to the Administrator at the appropriate address listed in Â§â60.4. Beginning on February 26, 2025, submit annual report electronically according to paragraph (g) of this section.
+                        </P>
+                        <P>
+                            (f) Beginning on February 26, 2025, within 60 days after the date of completing each performance test, you must submit the results following the procedures specified in paragraph (g) of this section. Data collected using test methods that are supported by the EPA's Electronic Reporting Tool (ERT) as listed on the EPA's ERT website (
+                            <E T="03">https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert</E>
+                            ) at the time of the test must be submitted in a file format generated using the EPA's ERT. Alternatively, you may submit an electronic file consistent with the extensible markup language (XML) schema listed on the EPA's ERT website. Data collected using test methods that are not supported by the EPA's ERT as listed on the EPA's ERT website at the time of the test must be included as an attachment in the ERT or an alternate electronic file.
+                        </P>
+                        <P>
+                            (g) If you are required to submit notifications or reports following the procedure specified in this paragraph (g), you must submit notifications or reports to the EPA via the Compliance and Emissions Data Reporting Interface (CEDRI), which can be accessed through the EPA's Central Data Exchange (CDX) (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). The EPA will make all the information submitted through CEDRI available to the public without further notice to you. Do not use CEDRI to submit information you claim as CBI. Although we do not expect persons to assert a claim of CBI, if you wish to assert a CBI claim for some of the information in the report or notification, you must submit a complete file in the format specified in this subpart, including information claimed to be CBI, to the EPA following the procedures in paragraphs (g)(1) and (2) of this section. Clearly mark the part or all of the information that you claim to be CBI. Information not marked as CBI may be authorized for public release without prior notice. Information marked as CBI will not be disclosed except in accordance with procedures set forth in 40 CFR part 2. All CBI claims must be asserted at the time of submission. Anything submitted using CEDRI cannot later be claimed CBI. Furthermore, under CAA section 114(c), emissions data is not entitled to confidential treatment, and the EPA is required to make emissions data 
+                            <PRTPAGE P="70515"/>
+                            available to the public. Thus, emissions data will not be protected as CBI and will be made publicly available. You must submit the same file submitted to the CBI office with the CBI omitted to the EPA via the EPA's CDX as described earlier in this paragraph (g).
+                        </P>
+                        <P>
+                            (1) The preferred method to receive CBI is for it to be transmitted electronically using email attachments, File Transfer Protocol, or other online file sharing services. Electronic submissions must be transmitted directly to the OAQPS CBI Office at the email address 
+                            <E T="03">oaqpscbi@epa.gov,</E>
+                             and as described in paragraph (g) of this section, should include clear CBI markings. ERT files should be flagged to the attention of the Group Leader, Measurement Policy Group; all other files should be flagged to the attention of the Stationary Spark Ignition Internal Combustion Engine Sector Lead. If assistance is needed with submitting large electronic files that exceed the file size limit for email attachments, and if you do not have your own file sharing service, please email 
+                            <E T="03">oaqpscbi@epa.gov</E>
+                             to request a file transfer link.
+                        </P>
+                        <P>(2) If you cannot transmit the file electronically, you may send CBI information through the postal service to the following address: OAQPS Document Control Officer (C404-02), OAQPS, U.S. Environmental Protection Agency, 109 T.W. Alexander Drive, P.O. Box 12055, Research Triangle Park, North Carolina 27711. ERT files should be sent to the attention of the Group Leader, Measurement Policy Group, and all other files should be sent to the attention of the Stationary Spark Ignition Internal Combustion Engine Sector Lead. The mailed CBI material should be double wrapped and clearly marked. Any CBI markings should not show through the outer envelope.</P>
+                        <P>(h) If you are required to electronically submit a report through CEDRI in the EPA's CDX, you may assert a claim of EPA system outage for failure to timely comply with that reporting requirement. To assert a claim of EPA system outage, you must meet the requirements outlined in paragraphs (h)(1) through (7) of this section.</P>
+                        <P>(1) You must have been or will be precluded from accessing CEDRI and submitting a required report within the time prescribed due to an outage of either the EPA's CEDRI or CDX systems.</P>
+                        <P>(2) The outage must have occurred within the period of time beginning five business days prior to the date that the submission is due.</P>
+                        <P>(3) The outage may be planned or unplanned.</P>
+                        <P>(4) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in reporting.</P>
+                        <P>(5) You must provide to the Administrator a written description identifying:</P>
+                        <P>(i) The date(s) and time(s) when CDX or CEDRI was accessed and the system was unavailable;</P>
+                        <P>(ii) A rationale for attributing the delay in reporting beyond the regulatory deadline to EPA system outage;</P>
+                        <P>(iii) A description of measures taken or to be taken to minimize the delay in reporting; and</P>
+                        <P>(iv) The date by which you propose to report, or if you have already met the reporting requirement at the time of the notification, the date you reported.</P>
+                        <P>(6) The decision to accept the claim of EPA system outage and allow an extension to the reporting deadline is solely within the discretion of the Administrator.</P>
+                        <P>(7) In any circumstance, the report must be submitted electronically as soon as possible after the outage is resolved.</P>
+                        <P>(i) If you are required to electronically submit a report through CEDRI in the EPA's CDX, you may assert a claim of force majeure for failure to timely comply with that reporting requirement. To assert a claim of force majeure, you must meet the requirements outlined in paragraphs (i)(1) through (5) of this section.</P>
+                        <P>
+                            (1) You may submit a claim if a force majeure event is about to occur, occurs, or has occurred or there are lingering effects from such an event within the period of time beginning five business days prior to the date the submission is due. For the purposes of this section, a force majeure event is defined as an event that will be or has been caused by circumstances beyond the control of the affected facility, its contractors, or any entity controlled by the affected facility that prevents you from complying with the requirement to submit a report electronically within the time period prescribed. Examples of such events are acts of nature (
+                            <E T="03">e.g.,</E>
+                             hurricanes, earthquakes, or floods), acts of war or terrorism, or equipment failure or safety hazard beyond the control of the affected facility (
+                            <E T="03">e.g.,</E>
+                             large scale power outage).
+                        </P>
+                        <P>(2) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in reporting.</P>
+                        <P>(3) You must provide to the Administrator:</P>
+                        <P>(i) A written description of the force majeure event;</P>
+                        <P>(ii) A rationale for attributing the delay in reporting beyond the regulatory deadline to the force majeure event;</P>
+                        <P>(iii) A description of measures taken or to be taken to minimize the delay in reporting; and</P>
+                        <P>(iv) The date by which you propose to report, or if you have already met the reporting requirement at the time of the notification, the date you reported.</P>
+                        <P>(4) The decision to accept the claim of force majeure and allow an extension to the reporting deadline is solely within the discretion of the Administrator.</P>
+                        <P>(5) In any circumstance, the reporting must occur as soon as possible after the force majeure event occurs.</P>
+                        <P>(j) Any records required to be maintained by this subpart that are submitted electronically via the EPA's CEDRI may be maintained in electronic format. This ability to maintain electronic copies does not affect the requirement for facilities to make records, data, and reports available upon request to a delegated air agency or the EPA as part of an on-site compliance evaluation.</P>
+                    </SECTION>
+                </REGTEXT>
+                <PART>
+                    <HD SOURCE="HED">PART 63âNATIONAL EMISSION STANDARDS FOR HAZARDOUS AIR POLLUTANTS FOR SOURCE CATEGORIES</HD>
+                </PART>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>5. The authority citation for part 63 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                             42 U.S.C. 7401 
+                            <E T="03">et seq.</E>
+                              
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart ZZZZâNational Emission Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines</HD>
+                </SUBPART>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>6. Amend Â§â63.6603 by revising paragraphs (c)(1) through (4) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6603</SECTNO>
+                        <SUBJECT>What emission limitations, operating limitations, and other requirements must I meet if I own or operate an existing stationary RICE located at an area source of HAP emissions?</SUBJECT>
+                        <STARS/>
+                        <P>(c) * * *</P>
+                        <P>(1) Change oil every 1,000 hours of operation or within 1 year + 30 days of the previous change, whichever comes first. Sources have the option to utilize an oil analysis program as described in Â§â63.6625(i) in order to extend the specified oil change requirement.</P>
+                        <P>
+                            (2) Inspect and clean air filters every 750 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary.
+                            <PRTPAGE P="70516"/>
+                        </P>
+                        <P>(3) Inspect fuel filters and belts, if installed, every 750 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary.</P>
+                        <P>(4) Inspect all flexible hoses every 1,000 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>7. Amend Â§â63.6620 by adding paragraph (j) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6620</SECTNO>
+                        <SUBJECT>What performance tests and other procedures must I use?</SUBJECT>
+                        <STARS/>
+                        <P>
+                            (j) Beginning on February 26, 2025, within 60 days after the date of completing each performance test required by this subpart, you must submit the results of the performance test following the procedure specified in Â§â63.9(k). Data collected using test methods supported by the EPA's Electronic Reporting Tool (ERT) as listed on the EPA's ERT website (
+                            <E T="03">https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert</E>
+                            ) at the time of the test must be submitted in a file format generated using the EPA's ERT. Alternatively, you may submit an electronic file consistent with the extensible markup language (XML) schema listed on the EPA's ERT website. Data collected using test methods that are not supported by the EPA's ERT as listed on the EPA's ERT website at the time of the test must be included as an attachment in the ERT or alternate electronic file.
+                        </P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>8. Amend Â§â63.6625 by:</AMDPAR>
+                    <AMDPAR>a. Adding paragraph (a)(5); and</AMDPAR>
+                    <AMDPAR>b. Revising paragraphs (i) and (j).</AMDPAR>
+                    <P>The additions and revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â63.6625</SECTNO>
+                        <SUBJECT>What are my monitoring, installation, collection, operation, and maintenance requirements?</SUBJECT>
+                        <STARS/>
+                        <P>(a) * * *</P>
+                        <P>(5) Beginning on February 26, 2025, within 60 days after the date of completing each continuous emissions monitoring system (CEMS) performance evaluation (as defined in Â§â63.2) that includes a relative accuracy test audit (RATA), you must submit the results of the performance evaluation following the procedures specified in Â§â63.9(k). The results of performance evaluations of CEMS measuring RATA pollutants that are supported by the EPA's ERT as listed on the EPA's ERT website at the time of the evaluation must be submitted in a file format generated using the EPA's ERT. Alternatively, you may submit an electronic file consistent with the XML schema listed on the EPA's ERT website. The results of performance evaluations of CEMS measuring RATA pollutants that are not supported by the EPA's ERT as listed on the EPA's ERT website at the time of the evaluation must be included as an attachment in the ERT or alternate electronic file.</P>
+                        <STARS/>
+                        <P>(i) If you own or operate a stationary CI engine that is subject to the work, operation or management practices in items 1 or 2 of table 2c to this subpart or in items 1 or 4 of table 2d to this subpart, you have the option of utilizing an oil analysis program in order to extend the specified oil and filter change requirement in tables 2c and 2d to this subpart. The oil analysis must be performed at the same frequency specified for changing the oil and filter in table 2c or 2d to this subpart. The analysis program must at a minimum analyze the following three parameters: Total Base Number, viscosity, and percent water content. The condemning limits for these parameters are as follows: Total Base Number is less than 30 percent of the Total Base Number of the oil when new; viscosity of the oil has changed by more than 20 percent from the viscosity of the oil when new; or percent water content (by volume) is greater than 0.5. If all of these condemning limits are not exceeded, the engine owner or operator is not required to change the oil and filter. If any of the limits are exceeded, the engine owner or operator must change the oil and filter within 2 business days of receiving the results of the analysis; if the engine is not in operation when the results of the analysis are received, the engine owner or operator must change the oil and filter within 2 business days or before commencing operation, whichever is later. The owner or operator must keep records of the parameters that are analyzed as part of the program, the results of the analysis, and the oil and filter changes for the engine. The analysis program must be part of the maintenance plan for the engine.</P>
+                        <P>(j) If you own or operate a stationary SI engine that is subject to the work, operation or management practices in items 6, 7, or 8 of table 2c to this subpart or in items 5, 6, 7, 8, 10, 11, or 13 of table 2d to this subpart, you have the option of utilizing an oil analysis program in order to extend the specified oil and filter change requirement in tables 2c and 2d to this subpart. The oil analysis must be performed at the same frequency specified for changing the oil and filter in table 2c or 2d to this subpart. The analysis program must at a minimum analyze the following three parameters: Total Acid Number, viscosity, and percent water content. The condemning limits for these parameters are as follows: Total Acid Number increases by more than 3.0 milligrams of potassium hydroxide (KOH) per gram from Total Acid Number of the oil when new; viscosity of the oil has changed by more than 20 percent from the viscosity of the oil when new; or percent water content (by volume) is greater than 0.5. If all of these condemning limits are not exceeded, the engine owner or operator is not required to change the oil and filter. If any of the limits are exceeded, the engine owner or operator must change the oil and filter within 2 business days of receiving the results of the analysis; if the engine is not in operation when the results of the analysis are received, the engine owner or operator must change the oil and filter within 2 business days or before commencing operation, whichever is later. The owner or operator must keep records of the parameters that are analyzed as part of the program, the results of the analysis, and the oil and filter changes for the engine. The analysis program must be part of the maintenance plan for the engine.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>9. Amend Â§â63.6645 by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraphs (b), (c), (d), (e), (h)(2) introductory text; and</AMDPAR>
+                    <AMDPAR>b. Adding paragraphs (h)(2)(i) and (ii).</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â63.6645</SECTNO>
+                        <SUBJECT>What notifications must I submit and when?</SUBJECT>
+                        <STARS/>
+                        <P>(b) As specified in Â§â63.9(b)(2), if you start up your stationary RICE with a site rating of more than 500 brake HP located at a major source of HAP emissions before the effective date of this subpart, you must submit an initial notification not later than December 13, 2004, or no later than 120 days after the source becomes subject to this subpart, whichever is later. Beginning on February 26, 2025, submit the notification electronically in portable document format (PDF) consistent with Â§â63.9(k).</P>
+                        <P>
+                            (c) If you start up your new or reconstructed stationary RICE with a site rating of more than 500 brake HP located at a major source of HAP emissions on or after August 16, 2004, you must submit an initial notification not later than 120 days after you become subject to this subpart. Beginning on February 26, 2025, submit the notification electronically in PDF consistent with Â§â63.9(k).
+                            <PRTPAGE P="70517"/>
+                        </P>
+                        <P>(d) As specified in Â§â63.9(b)(2), if you start up your stationary RICE with a site rating of equal to or less than 500 brake HP located at a major source of HAP emissions before the effective date of this subpart and you are required to submit an initial notification, you must submit an initial notification not later than July 16, 2008, or no later than 120 days after the source becomes subject to this subpart, whichever is later. Beginning on February 26, 2025, submit the notification electronically in PDF consistent with Â§â63.9(k).</P>
+                        <P>(e) If you start up your new or reconstructed stationary RICE with a site rating of equal to or less than 500 brake HP located at a major source of HAP emissions on or after March 18, 2008, and you are required to submit an initial notification, you must submit an initial notification not later than 120 days after you become subject to this subpart. Beginning on February 26, 2025, submit the notification electronically in PDF consistent with Â§â63.9(k).</P>
+                        <STARS/>
+                        <P>(h) * * *</P>
+                        <P>(2) Before February 26, 2025, for each initial compliance demonstration required in table 5 to this subpart that includes a performance test conducted according to the requirements in table 3 to this subpart, you must submit the Notification of Compliance Status, including the performance test results, before the close of business on the 60th day following the completion of the performance test according to Â§â63.10(d)(2). Beginning on February 26, 2025, for each initial compliance demonstration required in table 5 to this subpart that includes a performance test conducted according to the requirements in table 3 to this subpart, you must submit the Notification of Compliance Status, including a summary of the performance test results, in PDF to the EPA via the Compliance and Emissions Data Reporting Interface (CEDRI), before the close of business on the 60th day following the completion of the performance test following the procedure specified in Â§â63.9(k), except any Confidential Business Information (CBI) is to be submitted according to paragraphs (h)(2)(i) and (ii) of this section. Do not use CEDRI to submit information you claim as CBI. Although we do not expect persons to assert a claim of CBI, if you wish to assert a CBI claim for some of the information in the report, you must submit a complete file, including information claimed to be CBI, to the EPA following the procedures in paragraphs (h)(2)(i) and (ii) of this section. Clearly mark the part or all of the information that you claim to be CBI. Information not marked as CBI may be authorized for public release without prior notice. Information marked as CBI will not be disclosed except in accordance with procedures set forth in 40 CFR part 2. All CBI claims must be asserted at the time of submission. Anything submitted using CEDRI cannot later be claimed CBI. Furthermore, under CAA section 114(c), emissions data is not entitled to confidential treatment, and the EPA is required to make emissions data available to the public. Thus, emissions data will not be protected as CBI and will be made publicly available. You must submit the same file submitted to the CBI office with the CBI omitted to the EPA via the EPA's CDX as described earlier in this paragraph (h)(2).</P>
+                        <P>
+                            (i) The preferred method to receive CBI is for it to be transmitted electronically using email attachments, File Transfer Protocol, or other online file sharing services. Electronic submissions must be transmitted directly to the OAQPS CBI Office at the email address 
+                            <E T="03">oaqpscbi@epa.gov,</E>
+                             and as described in paragraph (h)(2) of this section, should include clear CBI markings and be flagged to the attention of the Reciprocating Internal Combustion Engine Sector Lead. If assistance is needed with submitting large electronic files that exceed the file size limit for email attachments, and if you do not have your own file sharing service, please email 
+                            <E T="03">oaqpscbi@epa.gov</E>
+                             to request a file transfer link.
+                        </P>
+                        <P>(ii) If you cannot transmit the file electronically, you may send CBI information through the postal service to the following address: OAQPS Document Control Officer (C404-02), OAQPS, U.S. Environmental Protection Agency, 109 T.W. Alexander Drive, P.O. Box 12055, Research Triangle Park, North Carolina 27711, Attention Reciprocating Internal Combustion Engine Sector Lead. The mailed CBI material should be double wrapped and clearly marked. Any CBI markings should not show through the outer envelope.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>10. Amend Â§â63.6650 by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraph (c) introductory text and paragraph (c)(4);</AMDPAR>
+                    <AMDPAR>b. Adding paragraphs (c)(7) through (9);</AMDPAR>
+                    <AMDPAR>c. Revising paragraphs (d), (e) introductory text, paragraphs (e)(2), (3), and (5) through (7);</AMDPAR>
+                    <AMDPAR>d. Removing and reserving paragraph (e)(9);</AMDPAR>
+                    <AMDPAR>e. Adding paragraph (e)(13);</AMDPAR>
+                    <AMDPAR>f. Revising paragraphs (f), (h)(1)(iii), (ix), and (h)(3); and</AMDPAR>
+                    <AMDPAR>g. Adding paragraph (i).</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â63.6650</SECTNO>
+                        <SUBJECT>What reports must I submit and when?</SUBJECT>
+                        <STARS/>
+                        <P>(c) The Compliance report must contain the information in paragraphs (c)(1) through (8) of this section.</P>
+                        <STARS/>
+                        <P>(4) If you had a malfunction during the reporting period, the compliance report must include the starting and ending date and time, the duration (in hours), and a brief description for each malfunction which occurred during the reporting period and which caused or may have caused any applicable emission limitation to be exceeded. The report must also include a description of actions taken by an owner or operator during a malfunction of an affected source to minimize emissions in accordance with Â§â63.6605(b), including actions taken to correct a malfunction.</P>
+                        <STARS/>
+                        <P>(7) Engine site rating in brake HP, year construction of the engine commenced (as defined in Â§â63.2, where the exact year is not known, provide the best estimate), and type of engine (CI, SI 2SLB, SI 4SLB, or SI 4SRB).</P>
+                        <P>(8) Latitude and longitude of the engine in decimal degrees reported to the fifth decimal place.</P>
+                        <P>(9) An engine can be claimed as exempt from reporting coordinates (latitude/longitude) via CEDRI if:</P>
+                        <P>(i) During the reporting period, the engine will be owned by, or operated by or for, an agency of the Federal Government responsible for national defense; and</P>
+                        <P>(ii) The agency determines that disclosing the coordinates to the general public would be a threat to national security.</P>
+                        <P>(d) For each deviation from an emission or operating limitation that occurs for a stationary RICE where you are not using a CMS to comply with the emission or operating limitations in this subpart, the Compliance report must contain the information in paragraphs (c)(1) through (8) of this section and the information in paragraphs (d)(1) and (2) of this section.</P>
+                        <P>(1) The total operating time (in hours) of the stationary RICE at which the deviation occurred during the reporting period.</P>
+                        <P>
+                            (2) Information on the number, duration (in hours), and cause of deviations (including unknown cause, if applicable), as applicable, and the corrective action taken.
+                            <PRTPAGE P="70518"/>
+                        </P>
+                        <P>(3) A description of any changes in processes, or controls since the last reporting period.</P>
+                        <P>(e) For each deviation from an emission or operating limitation occurring for a stationary RICE where you are using a CMS to comply with the emission and operating limitations in this subpart, you must include information in paragraphs (c)(1) through (8) and (e)(1) through (13) of this section.</P>
+                        <STARS/>
+                        <P>(2) The start and end date and time and the duration (in hours) that each CMS was inoperative, except for zero (low-level) and high-level checks.</P>
+                        <P>(3) The start and end date and time and the duration (in hours) that each CMS was out-of-control, including the information in Â§â63.8(c)(8).</P>
+                        <STARS/>
+                        <P>(5) A summary of the total duration (in hours) of the deviation during the reporting period, and the total duration as a percent of the total source operating time during that reporting period.</P>
+                        <P>(6) A breakdown of the total duration (in hours) of the deviations during the reporting period into those that are due to control equipment problems, process problems, other known causes, and other unknown causes.</P>
+                        <P>(7) A summary of the total duration (in hours) of CMS downtime during the reporting period, and the total duration of CMS downtime as a percent of the total operating time of the stationary RICE at which the CMS downtime occurred during that reporting period.</P>
+                        <STARS/>
+                        <P>(13) The total operating time of the stationary RICE at which the deviation occurred during the reporting period.</P>
+                        <P>(f) Each affected source that has obtained a title V operating permit pursuant to 40 CFR part 70 or 71 must report all deviations as defined in this subpart in the semiannual monitoring report required by 40 CFR 70.6 (a)(3)(iii)(A) or 40 CFR 71.6(a)(3)(iii)(A). If an affected source submits a Compliance report pursuant to table 7 of this subpart along with, or as part of, the semiannual monitoring report required by 40 CFR 70.6(a)(3)(iii)(A) or 40 CFR 71.6(a)(3)(iii)(A), and the Compliance report includes all required information concerning deviations from any emission or operating limitation in this subpart, submission of the Compliance report shall be deemed to satisfy any obligation to report the same deviations in the semiannual monitoring report. However, submission of a Compliance report shall not otherwise affect any obligation the affected source may have to report deviations from permit requirements to the permit authority. Beginning on February 26, 2025, the semiannual and annual compliance report required in table 7 of this subpart must be submitted according to paragraph (i) of this section. Only those elements required under this subpart are required to be submitted according to paragraph (i) of this section.</P>
+                        <STARS/>
+                        <P>(h) * * *</P>
+                        <P>(1) * * *</P>
+                        <P>(iii) Engine site rating in brake HP, year construction of the engine commenced (as defined in Â§â63.2, where the exact year is not known, provide the best estimate), and type of engine (CI, SI 2SLB, SI 4SLB, or SI 4SRB).</P>
+                        <STARS/>
+                        <P>(ix) If there were deviations from the fuel requirements in Â§â63.6604 that apply to the engine (if any), information on the number, duration (in hours), and cause of deviations, and the corrective action taken.</P>
+                        <STARS/>
+                        <P>
+                            (3) Before February 26, 2025, the annual report must be submitted electronically using the subpart specific reporting form in the Compliance and Emissions Data Reporting Interface (CEDRI) that is accessed through EPA's Central Data Exchange (CDX) (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). However, if the reporting form specific to this subpart is not available in CEDRI at the time that the report is due, the written report must be submitted to the Administrator at the appropriate address listed in Â§â63.13. Beginning on February 26, 2025, the annual report must be submitted according to paragraph (i) of this section.
+                        </P>
+                        <P>
+                            (i) Beginning on February 26, 2025 for the annual report specified in Â§â63.6650(h) and February 26, 2025 or one year after the report becomes available in CEDRI, whichever is later for all other semiannual or annual reports, submit all semiannual and annual subsequent compliance reports using the appropriate electronic report template on the CEDRI website (
+                            <E T="03">https://www.epa.gov/electronic-reporting-air-emissions/cedri</E>
+                            ) for this subpart and following the procedure specified in Â§â63.9(k), except any CBI must be submitted according to the procedures in Â§â63.6645(h). The date report templates become available will be listed on the CEDRI website. Unless the Administrator or delegated state agency or other authority has approved a different schedule for submission of reports, the report must be submitted by the deadline specified in this subpart, regardless of the method in which the report is submitted.
+                        </P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>11. Amend Â§â63.6655 by revising paragraph (a)(2) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6655</SECTNO>
+                        <SUBJECT>What records must I keep?</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>
+                            (2) Records of the occurrence and duration (in hours) of each malfunction of operation (
+                            <E T="03">i.e.,</E>
+                             process equipment) or the air pollution control and monitoring equipment.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>12. Amend Â§â63.6670 by adding paragraph (c)(6) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6670</SECTNO>
+                        <SUBJECT>Who implements and enforces this subpart?</SUBJECT>
+                        <STARS/>
+                        <P>(c) * * *</P>
+                        <P>(6) Approval of an alternative to any electronic reporting to the EPA required by this subpart.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>
+                        13. Revise Table 2c to subpart ZZZZ of part 63 to read as follows:
+                        <PRTPAGE P="70519"/>
+                    </AMDPAR>
+                    <GPOTABLE COLS="3" OPTS="L2,p7,7/8,i1" CDEF="s75,r75,r75">
+                        <TTITLE>
+                            Table 2
+                            <E T="01">c</E>
+                             to Subpart ZZZZ of Part 63âRequirements for Existing Compression Ignition Stationary RICE Located at a Major Source of HAP Emissions and Existing Spark Ignition Stationary RICE â¤500 HP Located at a Major Source of HAP Emissions
+                        </TTITLE>
+                        <TDESC>[As stated in Â§Â§â63.6600, 63.6602, and 63.6640, you must comply with the following requirements for existing compression ignition stationary RICE located at a major source of HAP emissions and existing spark ignition stationary RICE â¤500 HP located at a major source of HAP emissions]</TDESC>
+                        <BOXHD>
+                            <CHED H="1" O="L">For each . . .</CHED>
+                            <CHED H="1" O="L">You must meet the following requirement, except during periods of startup . . .</CHED>
+                            <CHED H="1" O="L">During periods of startup you must . . .</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">
+                                1. Emergency stationary CI RICE and black start stationary CI RICEâ
+                                <SU>1</SU>
+                            </ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 500 hours of operation or within 1 year + 30 days of the previous change, whichever comes firstâ
+                                <SU>2</SU>
+                                .
+                                <LI O="xl">b. Inspect air cleaner every 1,000 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary;</LI>
+                            </ENT>
+                            <ENT>
+                                Minimize the engine's time spent at idle and minimize the engine's startup time at startup to a period needed for appropriate and safe loading of the engine, not to exceed 30 minutes, after which time the non-startup emission limitations apply.
+                                <SU>3</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>
+                                c. Inspect all hoses and belts every 500 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessaryâ
+                                <SU>3</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">2. Non-Emergency, non-black start stationary CI RICE &lt;100 HP</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 1,000 hours of operation or within 1 year + 30 days of the previous change, whichever comes firstâ
+                                <SU>2</SU>
+                                .
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect air cleaner every 1,000 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary;</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>
+                                c. Inspect all hoses and belts every 500 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessaryâ
+                                <SU>3</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">3. Non-Emergency, non-black start CI stationary RICE 100â¤HPâ¤300 HP</ENT>
+                            <ENT>
+                                Limit concentration of CO in the stationary RICE exhaust to 230 ppmvd or less at 15 percent O
+                                <E T="0732">2</E>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">4. Non-Emergency, non-black start CI stationary RICE 300&lt;HPâ¤500</ENT>
+                            <ENT O="xl">
+                                a. Limit concentration of CO in the stationary RICE exhaust to 49 ppmvd or less at 15 percent O
+                                <E T="0732">2</E>
+                                ; or
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>b. Reduce CO emissions by 70 percent or more</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">5. Non-Emergency, non-black start stationary CI RICE &gt;500 HP</ENT>
+                            <ENT O="xl">
+                                a. Limit concentration of CO in the stationary RICE exhaust to 23 ppmvd or less at 15 percent O
+                                <E T="0732">2</E>
+                                ; or
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>b. Reduce CO emissions by 70 percent or more</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">
+                                6. Emergency stationary SI RICE and black start stationary SI RICE.
+                                <SU>1</SU>
+                            </ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 500 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>2</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect spark plugs every 1,000 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary;</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>
+                                c. Inspect all hoses and belts every 500 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessaryâ
+                                <SU>3</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">7. Non-Emergency, non-black start stationary SI RICE &lt;100 HP that are not 2SLB stationary RICE</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 1,440 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>2</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>b. Inspect spark plugs every 1,440 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>
+                                c. Inspect all hoses and belts every 1,440 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessaryâ
+                                <SU>3</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">8. Non-Emergency, non-black start 2SLB stationary SI RICE &lt;100 HP</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 4,320 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>2</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect spark plugs every 4,320 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary;</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>
+                                c. Inspect all hoses and belts every 4,320 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessaryâ
+                                <SU>3</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">9. Non-emergency, non-black start 2SLB stationary RICE 100â¤HPâ¤500</ENT>
+                            <ENT>
+                                Limit concentration of CO in the stationary RICE exhaust to 225 ppmvd or less at 15 percent O
+                                <E T="0732">2</E>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">10. Non-emergency, non-black start 4SLB stationary RICE 100â¤HPâ¤500</ENT>
+                            <ENT>
+                                Limit concentration of CO in the stationary RICE exhaust to 47 ppmvd or less at 15 percent O
+                                <E T="0732">2</E>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">11. Non-emergency, non-black start 4SRB stationary RICE 100â¤HPâ¤500</ENT>
+                            <ENT>
+                                Limit concentration of formaldehyde in the stationary RICE exhaust to 10.3 ppmvd or less at 15 percent O
+                                <E T="0732">2</E>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="70520"/>
+                            <ENT I="01">12. Non-emergency, non-black start stationary RICE 100â¤HPâ¤500 which combusts landfill or digester gas equivalent to 10 percent or more of the gross heat input on an annual basis</ENT>
+                            <ENT>
+                                Limit concentration of CO in the stationary RICE exhaust to 177 ppmvd or less at 15 percent O
+                                <E T="0732">2</E>
+                            </ENT>
+                        </ROW>
+                        <TNOTE>
+                            <SU>1</SU>
+                            âIf an emergency engine is operating during an emergency and it is not possible to shut down the engine in order to perform the work practice requirements on the schedule required in table 2c of this subpart, or if performing the work practice on the required schedule would otherwise pose an unacceptable risk under Federal, state, or local law, the work practice can be delayed until the emergency is over or the unacceptable risk under Federal, state, or local law has abated. The work practice should be performed as soon as practicable after the emergency has ended or the unacceptable risk under Federal, state, or local law has abated. Sources must report any failure to perform the work practice on the schedule required and the Federal, state or local law under which the risk was deemed unacceptable.
+                        </TNOTE>
+                        <TNOTE>
+                            <SU>2</SU>
+                            âSources have the option to utilize an oil analysis program as described in Â§â63.6625(i) or (j) in order to extend the specified oil change requirement in table 2c of this subpart.
+                        </TNOTE>
+                        <TNOTE>
+                            <SU>3</SU>
+                            âSources can petition the Administrator pursuant to the requirements of 40 CFR 63.6(g) for alternative work practices.
+                        </TNOTE>
+                    </GPOTABLE>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>14. Revise Table 2d to subpart ZZZZ of part 63 to read as follows:</AMDPAR>
+                    <GPOTABLE COLS="3" OPTS="L2,p7,7/8,i1" CDEF="s75,r75,r75">
+                        <TTITLE>
+                            Table 2
+                            <E T="01">d</E>
+                             to Subpart ZZZZ of Part 63âRequirements for Existing Stationary RICE Located at Area Sources of HAP Emissions
+                        </TTITLE>
+                        <TDESC>[As stated in Â§Â§â63.6603 and 63.6640, you must comply with the following requirements for existing stationary RICE located at area sources of HAP emissions:]</TDESC>
+                        <BOXHD>
+                            <CHED H="1" O="L">For each . . .</CHED>
+                            <CHED H="1" O="L">You must meet the following requirement, except during periods of startup . . .</CHED>
+                            <CHED H="1" O="L">During periods of startup you must . . .</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">1. Non-Emergency, non-black start CI stationary RICE â¤300 HP</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 1,000 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                                <LI O="xl">b. Inspect air cleaner every 1,000 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary;</LI>
+                            </ENT>
+                            <ENT>Minimize the engine's time spent at idle and minimize the engine's startup time at startup to a period needed for appropriate and safe loading of the engine, not to exceed 30 minutes, after which time the non-startup emission limitations apply.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 500 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">2. Non-Emergency, non-black start CI stationary RICE 300&lt;HPâ¤500</ENT>
+                            <ENT O="xl">
+                                a. Limit concentration of CO in the stationary RICE exhaust to 49 ppmvd at 15 percent O
+                                <E T="0732">2</E>
+                                ; or
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>b. Reduce CO emissions by 70 percent or more</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">3. Non-Emergency, non-black start CI stationary RICE &gt;500 HP</ENT>
+                            <ENT O="xl">
+                                a. Limit concentration of CO in the stationary RICE exhaust to 23 ppmvd at 15 percent O
+                                <E T="0732">2</E>
+                                ; or
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>b. Reduce CO emissions by 70 percent or more</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01" O="xl">
+                                4. Emergency stationary CI RICE and black start stationary CI RICE.
+                                <SU>2</SU>
+                            </ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 500 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect air cleaner every 1,000 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary; and</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 500 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01" O="xl">
+                                5. Emergency stationary SI RICE; black start stationary SI RICE; non-emergency, non-black start 4SLB stationary RICE &gt;500 HP that operate 24 hours or less per calendar year; non-emergency, non-black start 4SRB stationary RICE &gt;500 HP that operate 24 hours or less per calendar year.
+                                <SU>2</SU>
+                            </ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 500 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                                <LI O="xl">b. Inspect spark plugs every 1,000 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary; and</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 500 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">6. Non-emergency, non-black start 2SLB stationary RICE</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 4,320 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect spark plugs every 4,320 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary; and</ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="70521"/>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 4,320 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">7. Non-emergency, non-black start 4SLB stationary RICE â¤500 HP</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 1,440 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect spark plugs every 1,440 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary; and</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 1,440 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">8. Non-emergency, non-black start 4SLB remote stationary RICE &gt;500 HP</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 2,160 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect spark plugs every 2,160 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary; and</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 2,160 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">9. Non-emergency, non-black start 4SLB stationary RICE &gt;500 HP that are not remote stationary RICE and that operate more than 24 hours per calendar year</ENT>
+                            <ENT>Install an oxidation catalyst to reduce HAP emissions from the stationary RICE</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">10. Non-emergency, non-black start 4SRB stationary RICE â¤500 HP</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 1,440 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect spark plugs every 1,440 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary; and</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 1,440 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">11. Non-emergency, non-black start 4SRB remote stationary RICE &gt;500 HP</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 2,160 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl">b. Inspect spark plugs every 2,160 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary; and</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 2,160 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">12. Non-emergency, non-black start 4SRB stationary RICE &gt;500 HP that are not remote stationary RICE and that operate more than 24 hours per calendar year</ENT>
+                            <ENT>Install NSCR to reduce HAP emissions from the stationary RICE</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">13. Non-emergency, non-black start stationary RICE which combusts landfill or digester gas equivalent to 10 percent or more of the gross heat input on an annual basis</ENT>
+                            <ENT O="xl">
+                                a. Change oil and filter every 1,440 hours of operation or within 1 year + 30 days of the previous change, whichever comes first;â
+                                <SU>1</SU>
+                                <LI O="xl">b. Inspect spark plugs every 1,440 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary; and</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT>c. Inspect all hoses and belts every 1,440 hours of operation or within 1 year + 30 days of the previous inspection, whichever comes first, and replace as necessary</ENT>
+                        </ROW>
+                        <TNOTE>
+                            <SU>1</SU>
+                            âSources have the option to utilize an oil analysis program as described in Â§â63.6625(i) or (j) in order to extend the specified oil change requirement in table 2d of this subpart.
+                        </TNOTE>
+                        <TNOTE>
+                            <SU>2</SU>
+                            âIf an emergency engine is operating during an emergency and it is not possible to shut down the engine in order to perform the management practice requirements on the schedule required in table 2d of this subpart, or if performing the management practice on the required schedule would otherwise pose an unacceptable risk under Federal, state, or local law, the management practice can be delayed until the emergency is over or the unacceptable risk under Federal, state, or local law has abated. The management practice should be performed as soon as practicable after the emergency has ended or the unacceptable risk under Federal, state, or local law has abated. Sources must report any failure to perform the management practice on the schedule required and the Federal, state or local law under which the risk was deemed unacceptable.
+                        </TNOTE>
+                    </GPOTABLE>
+                    <PRTPAGE P="70522"/>
+                    <STARS/>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>15. Revise Table 7 to subpart ZZZZ of part 63 to read as follows:</AMDPAR>
+                    <GPOTABLE COLS="4" OPTS="L2,i1" CDEF="s50,xs80,r50,r50">
+                        <TTITLE>Table 7 to Subpart ZZZZ of Part 63âRequirements for Reports</TTITLE>
+                        <TDESC>[As stated in Â§â63.6650, you must comply with the following requirements for reports:]</TDESC>
+                        <BOXHD>
+                            <CHED H="1" O="L">For each . . .</CHED>
+                            <CHED H="1" O="L">
+                                You must submit
+                                <LI>a . . .</LI>
+                            </CHED>
+                            <CHED H="1" O="L">The report must contain . . .</CHED>
+                            <CHED H="1" O="L">You must submit the report . . .</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">1. Existing non-emergency, non-black start stationary RICE 100â¤HPâ¤500 located at a major source of HAP; existing non-emergency, non-black start stationary CI RICE &gt;500 HP located at a major source of HAP; existing non-emergency 4SRB stationary RICE &gt;500 HP located at a major source of HAP; existing non-emergency, non-black start stationary CI RICE &gt;300 HP located at an area source of HAP; new or reconstructed non-emergency stationary RICE &gt;500 HP located at a major source of HAP; and new or reconstructed non-emergency 4SLB stationary RICE 250â¤HPâ¤500 located at a major source of HAP</ENT>
+                            <ENT>Compliance report</ENT>
+                            <ENT O="xl">
+                                a. If there are no deviations from any emission limitations or operating limitations that apply to you, a statement that there were no deviations from the emission limitations or operating limitations during the reporting period. If there were no periods during which the CMS, including CEMS and CPMS, was out-of-control, as specified in Â§â63.8(c)(7), a statement that there were not periods during which the CMS was out-of-control during the reporting period; or
+                                <LI O="xl">b. If you had a deviation from any emission limitation or operating limitation during the reporting period, the information in Â§â63.6650(d). If there were periods during which the CMS, including CEMS and CPMS, was out-of-control, as specified in Â§â63.8(c)(7), the information in Â§â63.6650(e); or</LI>
+                            </ENT>
+                            <ENT>
+                                i. Semiannually according to the requirements in Â§â63.6650(b)(1)-(5) and (i) for engines that are not limited use stationary RICE subject to numerical emission limitations; and ii. Annually according to the requirements in Â§â63.6650(b)(6)-(9) and (i) for engines that are limited use stationary RICE subject to numerical emission limitations.
+                                <LI>i. Semiannually according to the requirements in Â§â63.6650(b) and (i).</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl"/>
+                            <ENT>c. If you had a malfunction during the reporting period, the information in Â§â63.6650(c)(4)</ENT>
+                            <ENT>i. Semiannually according to the requirements in Â§â63.6650(b) and (i).</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">2. New or reconstructed non-emergency stationary RICE that combusts landfill gas or digester gas equivalent to 10 percent or more of the gross heat input on an annual basis</ENT>
+                            <ENT>Report</ENT>
+                            <ENT O="xl">a. The fuel flow rate of each fuel and the heating values that were used in your calculations, and you must demonstrate that the percentage of heat input provided by landfill gas or digester gas, is equivalent to 10 percent or more of the gross heat input on an annual basis; and</ENT>
+                            <ENT>i. Annually, according to the requirements in Â§â63.6650.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl"/>
+                            <ENT O="xl">b. The operating limits provided in your federally enforceable permit, and any deviations from these limits; and</ENT>
+                            <ENT>i. See item 2.a.i.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl"/>
+                            <ENT>c. Any problems or errors suspected with the meters</ENT>
+                            <ENT>i. See item 2.a.i.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">3. Existing non-emergency, non-black start 4SLB and 4SRB stationary RICE &gt;500 HP located at an area source of HAP that are not remote stationary RICE and that operate more than 24 hours per calendar year</ENT>
+                            <ENT>Compliance report</ENT>
+                            <ENT>a. The results of the annual compliance demonstration, if conducted during the reporting period</ENT>
+                            <ENT>i. Semiannually according to the requirements in Â§â63.6650(b)(1)-(5) and (i).</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">4. Emergency stationary RICE that operate for the purposes specified in Â§â63.6640(f)(4)(ii)</ENT>
+                            <ENT>Report</ENT>
+                            <ENT>a. The information in Â§â63.6650(h)(1)</ENT>
+                            <ENT>i. Annually according to the requirements in Â§â63.6650(h)(2)-(3) and (i).</ENT>
+                        </ROW>
+                    </GPOTABLE>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>16. Revise Table 8 to subpart ZZZZ of part 63 to read as follows:</AMDPAR>
+                    <GPOTABLE COLS="4" OPTS="L2,nj,i1" CDEF="s50,r50,xs80,r50">
+                        <TTITLE>Table 8 to Subpart ZZZZ of Part 63âApplicability of General Provisions to Subpart ZZZZ</TTITLE>
+                        <TDESC>[As stated in Â§â63.6665, you must comply with the following applicable general provisions]</TDESC>
+                        <BOXHD>
+                            <CHED H="1">General provisions citation</CHED>
+                            <CHED H="1">Subject of citation</CHED>
+                            <CHED H="1">Applies to subpart</CHED>
+                            <CHED H="1">Explanation</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">Â§â63.1</ENT>
+                            <ENT>General applicability of the General Provisions</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.2</ENT>
+                            <ENT>Definitions</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Additional terms defined in Â§â63.6675.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.3</ENT>
+                            <ENT>Units and abbreviations</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.4</ENT>
+                            <ENT>Prohibited activities and circumvention</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="70523"/>
+                            <ENT I="01">Â§â63.5</ENT>
+                            <ENT>Construction and reconstruction</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(a)</ENT>
+                            <ENT>Applicability</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(b)(1)-(4)</ENT>
+                            <ENT>Compliance dates for new and reconstructed sources</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(b)(5)</ENT>
+                            <ENT>Notification</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(b)(6)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(b)(7)</ENT>
+                            <ENT>Compliance dates for new and reconstructed area sources that become major sources</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(c)(1)-(2)</ENT>
+                            <ENT>Compliance dates for existing sources</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(c)(3)-(4)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(c)(5)</ENT>
+                            <ENT>Compliance dates for existing area sources that become major sources</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(d)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(e)</ENT>
+                            <ENT>Operation and maintenance</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(f)(1)</ENT>
+                            <ENT>Applicability of standards</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(f)(2)</ENT>
+                            <ENT>Methods for determining compliance</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(f)(3)</ENT>
+                            <ENT>Finding of compliance</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(g)(1)-(3)</ENT>
+                            <ENT>Use of alternate standard</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(h)</ENT>
+                            <ENT>Opacity and visible emission standards</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart ZZZZ does not contain opacity or visible emission standards.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(i)</ENT>
+                            <ENT>Compliance extension procedures and criteria</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(j)</ENT>
+                            <ENT>Presidential compliance exemption</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(a)(1)-(2)</ENT>
+                            <ENT>Performance test dates</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Subpart ZZZZ contains performance test dates at Â§Â§â63.6610, 63.6611, and 63.6612.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(a)(3)</ENT>
+                            <ENT>CAA section 114 authority</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(b)(1)</ENT>
+                            <ENT>Notification of performance test</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.7(b)(1) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(b)(2)</ENT>
+                            <ENT>Notification of rescheduling</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.7(b)(2) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(c)</ENT>
+                            <ENT>Quality assurance/test plan</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.7(c) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(d)</ENT>
+                            <ENT>Testing facilities</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(e)(1)</ENT>
+                            <ENT>Conditions for conducting performance tests</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart ZZZZ specifies conditions for conducting performance tests at Â§â63.6620.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(e)(2)</ENT>
+                            <ENT>Conduct of performance tests and reduction of data</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Subpart ZZZZ specifies test methods at Â§â63.6620.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(e)(3)</ENT>
+                            <ENT>Test run duration</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(e)(4)</ENT>
+                            <ENT>Administrator may require other testing under section 114 of the CAA</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(f)</ENT>
+                            <ENT>Alternative test method provisions</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(g)</ENT>
+                            <ENT>Performance test data analysis, recordkeeping, and reporting</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(h)</ENT>
+                            <ENT>Waiver of tests</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(a)(1)</ENT>
+                            <ENT>Applicability of monitoring requirements</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Subpart ZZZZ contains specific requirements for monitoring at Â§â63.6625.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(a)(2)</ENT>
+                            <ENT>Performance specifications</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(a)(3)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(a)(4)</ENT>
+                            <ENT>Monitoring for control devices</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(b)(1)</ENT>
+                            <ENT>Monitoring</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(b)(2)-(3)</ENT>
+                            <ENT>Multiple effluents and multiple monitoring systems</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(1)</ENT>
+                            <ENT>Monitoring system operation and maintenance</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(1)(i)</ENT>
+                            <ENT>Routine and predictable SSM</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(1)(ii)</ENT>
+                            <ENT>SSM not in Startup Shutdown Malfunction Plan</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(1)(iii)</ENT>
+                            <ENT>Compliance with operation and maintenance requirements</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(2)-(3)</ENT>
+                            <ENT>Monitoring system installation</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(4)</ENT>
+                            <ENT>Continuous monitoring system (CMS) requirements</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that subpart ZZZZ does not require Continuous Opacity Monitoring System (COMS).</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(5)</ENT>
+                            <ENT>COMS minimum procedures</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart ZZZZ does not require COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(6)-(8)</ENT>
+                            <ENT>CMS requirements</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that subpart ZZZZ does not require COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="70524"/>
+                            <ENT I="01">Â§â63.8(d)</ENT>
+                            <ENT>CMS quality control</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(e)</ENT>
+                            <ENT>CMS performance evaluation</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except for Â§â63.8(e)(5)(ii), which applies to COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl"/>
+                            <ENT O="xl"/>
+                            <ENT>Except that Â§â63.8(e) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(f)(1)-(5)</ENT>
+                            <ENT>Alternative monitoring method</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.8(f)(4) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(f)(6)</ENT>
+                            <ENT>Alternative to relative accuracy test</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.8(f)(6) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(g)</ENT>
+                            <ENT>Data reduction</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that provisions for COMS are not applicable. Averaging periods for demonstrating compliance are specified at Â§Â§â63.6635 and 63.6640.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(a)</ENT>
+                            <ENT>Applicability and State delegation of notification requirements</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(b)(1)-(5)</ENT>
+                            <ENT>Initial notifications</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.9(b)(3) is reserved.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl"/>
+                            <ENT O="xl"/>
+                            <ENT>Except that Â§â63.9(b) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(c)</ENT>
+                            <ENT>Request for compliance extension</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.9(c) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(d)</ENT>
+                            <ENT>Notification of special compliance requirements for new sources</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.9(d) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(e)</ENT>
+                            <ENT>Notification of performance test</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.9(e) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(f)</ENT>
+                            <ENT>Notification of visible emission (VE)/opacity test</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart ZZZZ does not contain opacity or VE standards.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(g)(1)</ENT>
+                            <ENT>Notification of performance evaluation</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.9(g) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(g)(2)</ENT>
+                            <ENT>Notification of use of COMS data</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart ZZZZ does not contain opacity or VE standards.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(g)(3)</ENT>
+                            <ENT>Notification that criterion for alternative to RATA is exceeded</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>
+                                If alternative is in use.
+                                <LI>Except that Â§â63.9(g) only applies as specified in Â§â63.6645.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(h)(1)-(6)</ENT>
+                            <ENT>Notification of compliance status</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that notifications for sources using a CEMS are due 30 days after completion of performance evaluations. Â§â63.9(h)(4) is reserved.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="22">â</ENT>
+                            <ENT O="xl"/>
+                            <ENT O="xl"/>
+                            <ENT>Except that Â§â63.9(h) only applies as specified in Â§â63.6645.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(i)</ENT>
+                            <ENT>Adjustment of submittal deadlines</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(j)</ENT>
+                            <ENT>Change in previous information</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(k)</ENT>
+                            <ENT>Electronic reporting procedures</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Only as specified in Â§Â§â63.9(j), 63.6620, 63.6625, 63.6645, and 63.6650.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(a)</ENT>
+                            <ENT>Administrative provisions for recordkeeping/reporting</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(1)</ENT>
+                            <ENT>Record retention</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that the most recent 2 years of data do not have to be retained on site.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(i)-(v)</ENT>
+                            <ENT>Records related to SSM</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(vi)-(xi)</ENT>
+                            <ENT>Records</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(xii)</ENT>
+                            <ENT>Record when under waiver</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(xiii)</ENT>
+                            <ENT>Records when using alternative to RATA</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>For CO standard if using RATA alternative.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(xiv)</ENT>
+                            <ENT>Records of supporting documentation</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(3)</ENT>
+                            <ENT>Records of applicability determination</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(c)</ENT>
+                            <ENT>Additional records for sources using CEMS</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.10(c)(2)-(4) and (9) are reserved.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(1)</ENT>
+                            <ENT>General reporting requirements</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(2)</ENT>
+                            <ENT>Report of performance test results</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(3)</ENT>
+                            <ENT>Reporting opacity or VE observations</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart ZZZZ does not contain opacity or VE standards.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(4)</ENT>
+                            <ENT>Progress reports</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(5)</ENT>
+                            <ENT>Startup, shutdown, and malfunction reports</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(e)(1) and (2)(i)</ENT>
+                            <ENT>Additional CMS Reports</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(e)(2)(ii)</ENT>
+                            <ENT>COMS-related report</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart ZZZZ does not require COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="70525"/>
+                            <ENT I="01">Â§â63.10(e)(3)</ENT>
+                            <ENT>Excess emission and parameter exceedances reports</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Excess emissions and exceedance reporting is specified in Â§â63.6650.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(e)(4)</ENT>
+                            <ENT>Reporting COMS data</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart ZZZZ does not require COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(f)</ENT>
+                            <ENT>Waiver for recordkeeping/reporting</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.11</ENT>
+                            <ENT>Flares</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.12</ENT>
+                            <ENT>State authority and delegations</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.13</ENT>
+                            <ENT>Addresses</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.14</ENT>
+                            <ENT>Incorporation by reference</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.15</ENT>
+                            <ENT>Availability of information</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                    </GPOTABLE>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2024-18766 Filed 8-29-24; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6560-50-P</BILCOD>
+        </RULE>

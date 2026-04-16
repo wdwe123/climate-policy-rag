@@ -1,0 +1,5 @@
+[TABLE]
+| Moderate (Voluntary Reductions) | State Government Will: | Communities/Utilities Need to: | Individuals Need to: |
+| --- | --- | --- | --- |
+|  | Communicate conditions,; promote general; conservation tips, provide; information on drought; mitigation and response; options; Require State facilities; (including universities) to reduce; water use by 5%; Implement other reductions; consistent with and similar to; Iocal community reductions; Enhan | Implement Conservation; Programs -- focus on measures; that are especially visible to the; public; . Require restaurants to; provide water only upon; request (table tent; program); Require hotel/motels to; implement linen & towel; replacement programs; Communicate drought level &; conditions; Increa | Implement conservation; practices to voluntarily reduce; water use; Install low-water use; landscaping; . Repair leaks in irrigation; system; . Reset irrigation timers; seasonally; . Implement water; harvesting techniques; Avoid outdoor watering; during hottest part of the; day; . Eliminate runoff f |
+[/TABLE]

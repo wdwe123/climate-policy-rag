@@ -1,0 +1,663 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">ENVIRONMENTAL PROTECTION AGENCY</AGENCY>
+                <CFR>40 CFR Part 60</CFR>
+                <DEPDOC>[EPA-HQ-OAR-2010-0115; FRL-9701-9]</DEPDOC>
+                <RIN>RIN 2060-AQ23</RIN>
+                <SUBJECT>Method 16C for the Determination of Total Reduced Sulfur Emissions From Stationary Sources</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Environmental Protection Agency (EPA).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>This action promulgates Method 16C for measuring total reduced sulfur (TRS) emissions from stationary sources. Method 16C offers the advantages of real-time data collection and uses procedures that are already in use for measuring other pollutants. Method 16C will be a testing option that is used at the discretion of the tester.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This final rule is effective on July 30, 2012.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The EPA has established a docket for this action under Docket ID No. EPA-HQ-OAR-2010-0115. All documents in the docket are listed in the 
+                        <E T="03">http://www.regulations.gov</E>
+                         index. Although listed in the index, some information is not publicly available, e.g., confidential business information (CBI) or other information whose disclosure is restricted by statute. Certain other material, such as copyrighted material, is not placed on the Internet and will be publicly available only in hard copy form. Publicly available docket materials are 
+                        <PRTPAGE P="44489"/>
+                        available either electronically at 
+                        <E T="03">www.regulations.gov</E>
+                         or in hard copy at the Air Docket, EPA/DC, EPA West, Room 3334, 1301 Constitution Avenue NW., Washington, DC. The Docket Facility and the Public Reading Room are open from 8:30 a.m. to 4:30 p.m., Monday through Friday, excluding legal holidays. The telephone number for the Public Reading Room is (202) 566-1744, and the telephone number for the Air Docket is (202) 566-1742.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Mr. Foston Curtis, Office of Air Quality Planning and Standards, Air Quality Assessment Division, Measurement Technology Group (E143-02), U.S. Environmental Protection Agency, Research Triangle Park, North Carolina 27711; telephone number: (919) 541-1063; fax number: (919) 541-0516; email address: 
+                        <E T="03">curtis.foston@epa.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. General Information</FP>
+                    <FP SOURCE="FP1-2">A. Does this action apply to me?</FP>
+                    <FP SOURCE="FP1-2">B. Where can I obtain a copy of this action?</FP>
+                    <FP SOURCE="FP1-2">C. Judicial Review</FP>
+                    <FP SOURCE="FP-2">II. Background</FP>
+                    <FP SOURCE="FP-2">III. Summary of Method 16C</FP>
+                    <FP SOURCE="FP-2">IV. Public Comments on Proposed Method 16C</FP>
+                    <FP SOURCE="FP-2">V. Statutory and Executive Order Reviews</FP>
+                    <FP SOURCE="FP1-2">A. Executive Order 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">B. Paperwork Reduction Act</FP>
+                    <FP SOURCE="FP1-2">C. Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">D. Unfunded Mandates Reform Act</FP>
+                    <FP SOURCE="FP1-2">E. Executive Order 13132: Federalism</FP>
+                    <FP SOURCE="FP1-2">F. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</FP>
+                    <FP SOURCE="FP1-2">G. Executive Order 13045: Protection of Children From Environmental Health Risks and Safety Risks</FP>
+                    <FP SOURCE="FP1-2">H. Executive Order 13211: Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use</FP>
+                    <FP SOURCE="FP1-2">I. National Technology Transfer and Advancement Act</FP>
+                    <FP SOURCE="FP1-2">J. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low- Income Populations</FP>
+                    <FP SOURCE="FP1-2">K. Congressional Review Act</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. General Information</HD>
+                <HD SOURCE="HD2">A. Does this action apply to me?</HD>
+                <P>Method 16C applies to TRS measurement from kraft pulp mills subject to Subpart BB of the New Source Performance Standards (NSPS). The methods required under Subpart BB for TRS are sometimes used under the petroleum refineries NSPS (Subpart J). Method 16C may also be applicable to sources regulated by state and local regulations that adopt the Subpart BB testing requirements.</P>
+                <P>Regulated Entities. Categories and entities potentially affected include the following:</P>
+                <GPOTABLE COLS="3" OPTS="L2,tp0,i1" CDEF="s25,6,xs80">
+                    <TTITLE>â</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Category</CHED>
+                        <CHED H="1">
+                            NAICSâ
+                            <SU>a</SU>
+                        </CHED>
+                        <CHED H="1">Examples of regulated entities</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Industry</ENT>
+                        <ENT>322110</ENT>
+                        <ENT>Kraft Pulp Mills.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Industry</ENT>
+                        <ENT>324110</ENT>
+                        <ENT>Petroleum Refineries.</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>a</SU>
+                        âNorth American Industry Classification System.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>
+                    This table is not intended to be exhaustive, but rather to provide a guide for readers regarding entities likely to be affected by this action. This table lists examples of the types of entities the EPA is now aware could potentially be affected by this final action. Other types of entities not listed could also be affected. If you have any questions regarding the applicability of this action to a particular entity, consult the person listed in the preceding 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                     section.
+                </P>
+                <HD SOURCE="HD2">B. Where can I obtain a copy of this action?</HD>
+                <P>
+                    In addition to being available in the docket, an electronic copy of this rule will also be available on the Worldwide Web (www) through the Technology Transfer Network (TTN). Following the Administrator's signature, a copy of the final rule will be placed on the TTN's policy and guidance page for newly proposed or promulgated rules at 
+                    <E T="03">http://www.epa.gov/ttn/oarpg.</E>
+                     The TTN provides information and technology exchange in various areas of air pollution control.
+                </P>
+                <HD SOURCE="HD2">C. Judicial Review</HD>
+                <P>Under section 307(b)(1) of the Clean Air Act (CAA), judicial review of this final rule is available by filing a petition for review in the U.S. Court of Appeals for the District of Columbia Circuit by September 28, 2012. Under section 307(d)(7)(B) of the CAA, only an objection to this final rule that was raised with reasonable specificity during the period for public comment can be raised during judicial review. Moreover, under section 307(b)(2) of the CAA, the requirements established by this action may not be challenged separately in any civil or criminal proceedings brought by EPA to enforce these requirements.</P>
+                <HD SOURCE="HD1">II. Background</HD>
+                <P>
+                    Method 16C was proposed in the 
+                    <E T="04">Federal Register</E>
+                     on September 2, 2010, with a public comment period that ended November 1, 2010. Two comment letters were received from the public.
+                </P>
+                <HD SOURCE="HD1">III. Summary of Method 16C</HD>
+                <P>
+                    Method 16C uses the sampling procedures of Method 16A and the analytical procedures of Method 6C to measure TRS. Total reduced sulfur is defined as hydrogen sulfide, methyl mercaptan, dimethyl sulfide, and dimethyl disulfide. As in Method 16A, the sample is collected from the source through a heated probe and immediately conditioned in a citrate buffer scrubber. The conditioned sample is oxidized in a tube furnace to convert TRS to sulfur dioxide (SO
+                    <E T="52">2</E>
+                    ). The oxidized sample is then analyzed for SO
+                    <E T="52">2</E>
+                     using a real-time SO
+                    <E T="52">2</E>
+                     analyzer as in Method 6C.
+                </P>
+                <P>This method may be used as an alternative to Methods 16, 16A, and 16B for determining TRS. Its use has been allowed on a case-by-case basis and, based on our experience, it is a good alternative. Method 16C offers advantages over currently required methods by supplying real-time data in the field using analyzers and procedures that are currently used for other pollutants. Performance checks contained in the method ensure that bias and calibration precision are periodically checked and maintained.</P>
+                <P>This rule will not require the use of Method 16C but will allow it as an alternative method at the discretion of the user. This method does not impact testing stringency; data are collected under the same conditions and time intervals as the current methods.</P>
+                <HD SOURCE="HD1">IV. Public Comments on Proposed Method 16C</HD>
+                <P>
+                    Two public comment letters were received on the proposed rule. The comments pointed out contradictions in different sections of the method for the analyzer calibration error test and the system bias check. In one instance, the analyzer calibration acceptance criterion was listed as 5 percent and in another place it was listed as 2 percent. The rule was corrected to state that 5 percent is the correct criterion for this test. For the system bias check, unclear language was amended to specifically state that the pre-test bias check is mandatory, not optional. An additional comment led to the dropping of the sample correction for moisture since it is not needed for most analyzers. The public comments are addressed in the Summary of Comments and Responses Document that has been added to the docket.
+                    <PRTPAGE P="44490"/>
+                </P>
+                <HD SOURCE="HD1">V. Statutory and Executive Order Reviews</HD>
+                <HD SOURCE="HD2">A. Executive Order 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</HD>
+                <P>This action is not a âsignificant regulatory actionâ under the terms of Executive Order 12866 (58 FR 51735, October 4, 1993) and is, therefore, not subject to review under Executive Orders 12866 and 13563 (76 FR 3821, January 21, 2011).</P>
+                <HD SOURCE="HD2">B. Paperwork Reduction Act</HD>
+                <P>
+                    This action does not impose an information collection burden under the provisions of the 
+                    <E T="03">Paperwork Reduction Act,</E>
+                     44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                     Burden is defined at 5 CFR 1320.3(b). This final rule does not add information collection requirements beyond those currently required under the applicable regulations. This final rule adds an alternative test method that may be used at the discretion of the source.
+                </P>
+                <HD SOURCE="HD2">C. Regulatory Flexibility Act</HD>
+                <P>The Regulatory Flexibility Act (RFA) generally requires an agency to prepare a regulatory flexibility analysis of any rule subject to notice and comment rulemaking requirements under the Administrative Procedure Act or any other statute unless the agency certifies that the rule will not have a significant economic impact on a substantial number of small entities. Small entities include small businesses, small organizations, and small governmental jurisdictions.</P>
+                <P>For purposes of assessing the impacts of this rule on small entities, small entity is defined as: (1) A small business as defined by the Small Business Administration's (SBA) regulations at 13 CFR 121.201; (2) a small governmental jurisdiction that is a government of a city, county, town, school district or special district with a population of less than 50,000; and (3) a small organization that is any not-for-profit enterprise which is independently owned and operated and is not dominant in its field.</P>
+                <P>After considering the economic impacts of this final rule on small entities, I certify that this action will not have a significant economic impact on a substantial number of small entities. This final rule will not impose any requirements on small entities because Method 16C is not a required test method but may be used at the discretion of the source. Any small entity choosing to use Method 16C would likely do so because it is less burdensome or more advantageous than the other methods allowed.</P>
+                <HD SOURCE="HD2">D. Unfunded Mandates Reform Act</HD>
+                <P>This action contains no federal mandates under the provisions of Title II of the Unfunded Mandates Reform Act of 1995 (UMRA), 2 U.S.C. 1531-1538 for State, local, or tribal governments or the private sector. This action imposes no enforceable duty on any State, local or tribal governments or the private sector. Therefore, this action is not subject to the requirements of sections 202 or 205 of the UMRA. This action is also not subject to the requirements of section 203 of UMRA because it contains no regulatory requirements that might significantly or uniquely affect small governments. Any small entity choosing to use Method 16C would likely do so because it is less burdensome or more advantageous than the other methods allowed.</P>
+                <HD SOURCE="HD2">E. Executive Order 13132: Federalism</HD>
+                <P>This action does not have federalism implications. It will not have substantial direct effects on the states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among the various levels of government, as specified in Executive Order 13132. This final rule adds Method 16C for use as a new alternative method. Thus, Executive Order 13132 does not apply to this action.</P>
+                <HD SOURCE="HD2">F. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</HD>
+                <P>This action does not have tribal implications, as specified in Executive Order 13175 (65 FR 67249, November 9, 2000). This final rule provides an additional testing option for measuring pollutants to what is currently mandated. It does not add any new requirements and does not affect pollutant emissions or air quality. Thus, Executive Order 13175 does not apply to this action.</P>
+                <HD SOURCE="HD2">G. Executive Order 13045: Protection of Children From Environmental Health Risks and Safety Risks</HD>
+                <P>The EPA interprets EO 13045 (62 FR 19885, April 23, 1997) as applying only to those regulatory actions that concern health or safety risks, such that the analysis required under section 5-501 of the EO has the potential to influence the regulation. This action is not subject to EO 13045 because it does not establish an environmental standard intended to mitigate health or safety risks.</P>
+                <HD SOURCE="HD2">H. Executive Order 13211: Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use</HD>
+                <P>This rule is not subject to Executive Order 13211 (66 FR 28355 (May 22, 2001)), because it is not a significant regulatory action under Executive Order 12866.</P>
+                <HD SOURCE="HD2">I. National Technology Transfer and Advancement Act</HD>
+                <P>Section 12(d) of the National Technology Transfer and Advancement Act of 1995 (âNTTAAâ), Public Law 104-113, 12(d)(15 U.S.C. 272 note) directs the EPA to use voluntary consensus standards in its regulatory activities unless to do so would be inconsistent with applicable law or otherwise impractical. Voluntary consensus standards are technical standards (e.g., materials specifications, test methods, sampling procedures, and business practices) that are developed or adopted by voluntary consensus standards bodies. The NTTAA directs the EPA to provide Congress, through OMB, explanations when the Agency decides not to use available and applicable voluntary consensus standards.</P>
+                <P>This action does not involve technical standards. Therefore, the EPA did not consider the use of any voluntary consensus standards.</P>
+                <HD SOURCE="HD2">J. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</HD>
+                <P>Executive Order (EO) 12898 (59 FR 7629 (Feb. 16, 1994)) establishes federal executive policy on environmental justice. Its main provision directs federal agencies, to the greatest extent practicable and permitted by law, to make environmental justice part of their mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of their programs, policies, and activities on minority populations and low-income populations in the United States.</P>
+                <P>
+                    The EPA has determined that this final rule will not have disproportionately high and adverse human health or environmental effects on minority or low-income populations because it does not affect the level of protection provided to human health or the environment. This final rule does not relax the control measures on sources regulated by the rule and, therefore, will not cause emissions increases from these sources.
+                    <PRTPAGE P="44491"/>
+                </P>
+                <HD SOURCE="HD2">K. Congressional Review Act</HD>
+                <P>
+                    The Congressional Review Act, 5 U.S.C. 801 
+                    <E T="03">et seq.,</E>
+                     as added by the Small Business Regulatory Enforcement Fairness Act of 1996, generally provides that before a rule may take effect, the agency promulgating the rule must submit a rule report, which includes a copy of the rule, to each House of the Congress and to the Comptroller General of the United States. The EPA will submit a report containing this rule and other required information to the U.S. Senate, the U.S. House of Representatives, and the Comptroller General of the United States prior to publication of the rule in the 
+                    <E T="04">Federal Register</E>
+                    . A major rule cannot take effect until 60 days after it is published in the 
+                    <E T="04">Federal Register</E>
+                    . This action is not a âmajor ruleâ as defined by 5 U.S.C. 804(2). This rule will be effective on July 30, 2012.
+                </P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 40 CFR Part 60</HD>
+                    <P>Administrative practice and procedures, Air pollution control, Intergovernmental relations, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <SIG>
+                    <DATED>Dated: July 23, 2012.</DATED>
+                    <NAME>Lisa P. Jackson,</NAME>
+                    <TITLE>Administrator.</TITLE>
+                </SIG>
+                <P>For the reasons set out in the preamble, Title 40, Chapter I of the Code of Federal Regulations is amended as follows:</P>
+                <REGTEXT TITLE="40" PART="60">
+                    <PART>
+                        <HD SOURCE="HED">PART 60âSTANDARDS OF PERFORMANCE FOR NEW STATIONARY SOURCES</HD>
+                    </PART>
+                    <AMDPAR>1. The authority citation for part 60 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P> 42 U.S.C. 7401-7601.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>2. Amend Appendix A-6 to Part 60 by adding âMethod 16Câ in alphanumeric order to read as follows:</AMDPAR>
+                    <HD SOURCE="HD1">Appendix A-6 to Part 60âTest Methods 16 Through 18</HD>
+                    <EXTRACT>
+                        <STARS/>
+                        <HD SOURCE="HD1">Method 16CâDetermination of Total Reduced Sulfur Emissions From Stationary Sources</HD>
+                        <HD SOURCE="HD2">1.0âScope and Application</HD>
+                        <HD SOURCE="HD3">What is Method 16C?</HD>
+                        <P>Method 16C is a procedure for measuring total reduced sulfur (TRS) in stationary source emissions using a continuous instrumental analyzer. Quality assurance and quality control requirements are included to assure that you, the tester, collect data of known quality. You must document your adherence to these specific requirements for equipment, supplies, sample collection and analysis, calculations, and data analysis. This method does not completely describe all equipment, supplies, and sampling and analytical procedures you will need but refers to other methods for some of the details. Therefore, to obtain reliable results, you should also have a thorough knowledge of these additional test methods which are found in appendix A to this part:</P>
+                        <P>(a) Method 6CâDetermination of Sulfur Dioxide Emissions from Stationary Sources (Instrumental Analyzer Procedure)</P>
+                        <P>(b) Method 7EâDetermination of Nitrogen Oxides Emissions from Stationary Sources (Instrumental Analyzer Procedure)</P>
+                        <P>(c) Method 16AâDetermination of Total Reduced Sulfur Emissions from Stationary Sources (Impinger Technique)</P>
+                        <P>1.1âAnalytes. What does Method 16C determine?</P>
+                        <GPOTABLE COLS="2" OPTS="L2,tp0,i1" CDEF="s25,9">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Analyte</CHED>
+                                <CHED H="1">CAS No.</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="22">Total reduced sulfur including:</ENT>
+                                <ENT>N/A</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="02">
+                                    Dimethyl disulfide (DMDS), [(CH
+                                    <E T="52">3</E>
+                                    )
+                                    <E T="52">2</E>
+                                    S
+                                    <E T="52">2</E>
+                                    ]
+                                </ENT>
+                                <ENT>62-49-20</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="02">
+                                    Dimethyl sulfide (DMS), [(CH
+                                    <E T="52">3</E>
+                                    )
+                                    <E T="52">2</E>
+                                    S]
+                                </ENT>
+                                <ENT>75-18-3</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="02">
+                                    Hydrogen sulfide (H
+                                    <E T="52">2</E>
+                                    S)
+                                </ENT>
+                                <ENT>7783-06-4</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="02">
+                                    Methyl mercaptan (MeSH), (CH
+                                    <E T="52">4</E>
+                                    S)
+                                </ENT>
+                                <ENT>74-93-1</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    Reported as: Sulfur dioxide (SO
+                                    <E T="52">2</E>
+                                    )
+                                </ENT>
+                                <ENT>7449-09-5</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <P>1.2âApplicability. This method is applicable for determining TRS emissions from recovery furnaces (boilers), lime kilns, and smelt dissolving tanks at kraft pulp mills, and from other sources when specified in an applicable subpart of the regulations.</P>
+                        <P>1.3âData Quality Objectives. Adherence to the requirements described in Method 16C will enhance the quality of the data obtained.</P>
+                        <HD SOURCE="HD2">2.0âSummary of Method</HD>
+                        <P>
+                            2.1âAn integrated gas sample is extracted from the stack. The SO
+                            <E T="52">2</E>
+                             is removed selectively from the sample using a citrate buffer solution. The TRS compounds are then thermally oxidized to SO
+                            <E T="52">2</E>
+                             and determined as SO
+                            <E T="52">2</E>
+                             by an instrumental analyzer. This method is a combination of the sampling procedures of Method 16A and the analytical procedures of Method 6C (referenced in Method 7E), with minor modifications to facilitate their use together.
+                        </P>
+                        <HD SOURCE="HD2">3.0âDefinitions</HD>
+                        <P>
+                            <E T="03">Analyzer calibration error, Calibration curve, Calibration gas, Low-level gas, Mid-level gas, High-level gas, Calibration drift, Calibration span, Data recorder, Direct calibration mode, Gas analyzer, Interference check, Measurement system, Response time, Run, System calibration mode, System performance check,</E>
+                             and 
+                            <E T="03">Test</E>
+                             are the same as used in Methods 16A and 6C.
+                        </P>
+                        <HD SOURCE="HD2">4.0âInterferences</HD>
+                        <P>
+                            4.1âReduced sulfur compounds other than those defined as TRS, if present, may be measured by this method. Compounds like carbonyl sulfide, which is partially oxidized to SO
+                            <E T="52">2</E>
+                             and may be present in a lime kiln exit stack, would be a positive interferent. Interferences may vary among instruments, and instrument-specific interferences must be evaluated through the interference check.
+                        </P>
+                        <P>
+                            4.2âParticulate matter from the lime kiln stack gas (primarily calcium carbonate) can cause a negative bias if it is allowed to enter the citrate scrubber; the particulate matter will cause the pH to rise and H
+                            <E T="52">2</E>
+                            S to be absorbed before oxidation. Proper use of the particulate filter, described in Section 6.1.3 of Method 16A, will eliminate this interference.
+                        </P>
+                        <HD SOURCE="HD2">5.0âSafety</HD>
+                        <P>5.1âDisclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user to establish appropriate safety and health practices before performing this test method.</P>
+                        <P>5.2âHydrogen Sulfide. Hydrogen sulfide is a flammable, poisonous gas with the odor of rotten eggs. Hydrogen sulfide is extremely hazardous and can cause collapse, coma, and death within a few seconds of one or two inhalations at sufficient concentrations. Low concentrations irritate the mucous membranes and may cause nausea, dizziness, and headache after exposure. It is the responsibility of the user of this test method to establish appropriate safety and health practices.</P>
+                        <HD SOURCE="HD2">6.0âEquipment and Supplies</HD>
+                        <HD SOURCE="HD3">What do I need for the measurement system?</HD>
+                        <P>The measurement system is similar to those applicable components in Methods 16A and 6C. Modifications to the apparatus are accepted provided the performance criteria in Section 13.0 are met.</P>
+                        <P>
+                            6.1âProbe. Teflon tubing, 6.4-mm (
+                            <FR>1/4</FR>
+                             in.) diameter, sequentially wrapped with heat-resistant fiber strips, a rubberized heat tape (plug at one end), and heat-resistant adhesive tape. A flexible thermocouple or other suitable temperature measuring device must be placed between the Teflon tubing and the fiber strips so that the temperature can be monitored to prevent softening of the probe. The probe must be sheathed in stainless steel to provide in-stack rigidity. A series of bored-out stainless steel fittings placed at the front of the sheath will prevent moisture and particulate from entering between the probe and sheath. A 6.4-mm (
+                            <FR>1/4</FR>
+                             in.) Teflon elbow (bored out) must be attached to the inlet of the probe, and a 2.54 cm (1 in.) piece of Teflon tubing must be attached at the open end of the elbow to permit the opening of the probe to be turned away from the particulate stream; this will reduce the amount of particulate drawn into the sampling train. The probe is depicted in Figure 16A-2 of Method 16A.
+                        </P>
+                        <P>
+                            6.2âProbe Brush. Nylon bristle brush with handle inserted into a 3.2-mm (
+                            <FR>1/8</FR>
+                             in.) Teflon tubing. The Teflon tubing should be long enough to pass the brush through the length of the probe.
+                        </P>
+                        <P>
+                            6.3âParticulate Filter. 50-mm Teflon filter holder and a 1- to 2-Î¼m porosity, Teflon filter (may be available through Savillex Corporation, 5325 Highway 101, Minnetonka, Minnesota 55343, or other suppliers of filters). The filter holder must be maintained in a hot box at a temperature sufficient to prevent moisture condensation. A temperature of 121âÂ°C (250âÂ°F) was found to 
+                            <PRTPAGE P="44492"/>
+                            be sufficient when testing a lime kiln under sub-freezing ambient conditions.
+                        </P>
+                        <P>
+                            6.4âSO
+                            <E T="52">2</E>
+                             Scrubber. Three 300-ml Teflon segmented impingers connected in series with flexible, thick-walled, Teflon tubing. (Impinger parts and tubing may be available through Savillex or other suppliers.) The first two impingers contain 100 ml of citrate buffer, and the third impinger is initially dry. The tip of the tube inserted into the solution should be constricted to less than 3 mm (
+                            <FR>1/8</FR>
+                             in.) ID and should be immersed to a depth of at least 5 cm (2 in.).
+                        </P>
+                        <P>
+                            6.5âCombustion Tube. Quartz glass tubing with an expanded combustion chamber 2.54 cm (1 in.) in diameter and at least 30.5 cm (12 in.) long. The tube ends should have an outside diameter of 0.6 cm (
+                            <FR>1/4</FR>
+                             in.) and be at least 15.3 cm (6 in.) long. This length is necessary to maintain the quartz-glass connector near ambient temperature and thereby avoid leaks. Alternative combustion tubes are acceptable provided they are shown to combust TRS at concentrations encountered during tests.
+                        </P>
+                        <P>6.6âFurnace. A furnace of sufficient size to enclose the combustion chamber of the combustion tube with a temperature regulator capable of maintaining the temperature at 800 Â± 100âÂ°C (1472 Â± 180âÂ°F). The furnace operating temperature should be checked with a thermocouple to ensure accuracy.</P>
+                        <P>6.7âSampling Pump. A leak-free pump is required to pull the sample gas through the system at a flow rate sufficient to minimize the response time of the measurement system and must be constructed of material that is non-reactive to the gas it contacts. For dilution-type measurement systems, an eductor pump may be used to create a vacuum that draws the sample through a critical orifice at a constant rate.</P>
+                        <P>6.8âCalibration Gas Manifold. The calibration gas manifold must allow the introduction of calibration gases either directly to the gas analyzer in direct calibration mode or into the measurement system, at the probe, in system calibration mode, or both, depending upon the type of system used. In system calibration mode, the system must be able to flood the sampling probe and vent excess gas. Alternatively, calibration gases may be introduced at the calibration valve following the probe. Maintain a constant pressure in the gas manifold. For in-stack dilution-type systems, a gas dilution subsystem is required to transport large volumes of purified air to the sample probe, and a probe controller is needed to maintain the proper dilution ratio.</P>
+                        <P>
+                            6.9âSample Gas Manifold. The sample gas manifold diverts a portion of the sample to the analyzer, delivering the remainder to the by-pass discharge vent. The manifold should also be able to introduce calibration gases directly to the analyzer. The manifold must be made of material that is non-reactive to SO
+                            <E T="52">2</E>
+                             and be configured to safely discharge the bypass gas.
+                        </P>
+                        <P>
+                            6.10âSO
+                            <E T="52">2</E>
+                             Analyzer. You must use an instrument that uses an ultraviolet, non-dispersive infrared, fluorescence, or other detection principle to continuously measure SO
+                            <E T="52">2</E>
+                             in the gas stream provided it meets the performance specifications in Section 13.0.
+                        </P>
+                        <P>6.11âData Recording. A strip chart recorder, computerized data acquisition system, digital recorder, or data logger for recording measurement data must be used.</P>
+                        <HD SOURCE="HD2">7.0âReagents and Standards</HD>
+                        <NOTE>
+                            <HD SOURCE="HED">Note:</HD>
+                            <P>Unless otherwise indicated, all reagents must conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society. When such specifications are not available, the best available grade must be used.</P>
+                        </NOTE>
+                        <P>
+                            7.1âWater. Deionized distilled water must conform to ASTM Specification D 1193-77 or 91 Type 3 (incorporated by referenceâsee Â§â60.17). The KMnO
+                            <E T="52">4</E>
+                             test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
+                        </P>
+                        <P>7.2âCitrate Buffer. Dissolve 300 g of potassium citrate (or 284 g of sodium citrate) and 41 g of anhydrous citric acid in 1 liter of water (200 ml is needed per test). Adjust the pH to between 5.4 and 5.6 with potassium citrate or citric acid, as required.</P>
+                        <P>7.3âCalibration Gas. Refer to Section 7.1 of Method 7E (as applicable) for the calibration gas requirements. Example calibration gas mixtures are listed below.</P>
+                        <P>
+                            (a) SO
+                            <E T="52">2</E>
+                             in nitrogen (N
+                            <E T="52">2</E>
+                            ).
+                        </P>
+                        <P>
+                            (b) SO
+                            <E T="52">2</E>
+                             in air.
+                        </P>
+                        <P>
+                            (c) SO
+                            <E T="52">2</E>
+                             and carbon dioxide (CO
+                            <E T="52">2</E>
+                            ) in N
+                            <E T="52">2</E>
+                            .
+                        </P>
+                        <P>
+                            (d) SO
+                            <E T="52">2</E>
+                             and oxygen (O
+                            <E T="52">2</E>
+                            ) in N
+                            <E T="52">2</E>
+                            .
+                        </P>
+                        <P>
+                            (e) SO
+                            <E T="52">2</E>
+                            /CO
+                            <E T="52">2</E>
+                            /O
+                            <E T="52">2</E>
+                             gas mixture in N
+                            <E T="52">2</E>
+                            .
+                        </P>
+                        <P>
+                            (f) CO
+                            <E T="52">2</E>
+                            /NO
+                            <E T="52">X</E>
+                             gas mixture in N
+                            <E T="52">2.</E>
+                        </P>
+                        <P>
+                            (g) CO
+                            <E T="52">2</E>
+                            /SO
+                            <E T="52">2</E>
+                            /NO
+                            <E T="52">X</E>
+                             gas mixture in N
+                            <E T="52">2.</E>
+                        </P>
+                        <FP>
+                            For fluorescence-based analyzers, the O
+                            <E T="52">2</E>
+                             and CO
+                            <E T="52">2</E>
+                             concentrations of the calibration gases as introduced to the analyzer must be within 1.0 percent (absolute) O
+                            <E T="52">2</E>
+                             and 1.0 percent (absolute) CO
+                            <E T="52">2</E>
+                             of the O
+                            <E T="52">2</E>
+                             and CO
+                            <E T="52">2</E>
+                             concentrations of the effluent samples as introduced to the analyzer. Alternatively, for fluorescence-based analyzers, use calibration blends of SO
+                            <E T="52">2</E>
+                             in air and the nomographs provided by the vendor to determine the quenching correction factor (the effluent O
+                            <E T="52">2</E>
+                             and CO
+                            <E T="52">2</E>
+                             concentrations must be known). This requirement does not apply to ambient-level fluorescence analyzers that are used in conjunction with sample dilution systems. Alternatively, H
+                            <E T="52">2</E>
+                            S in O
+                            <E T="52">2</E>
+                             or air may be used to calibrate the analyzer through the tube furnace.
+                        </FP>
+                        <P>
+                            7.4âSystem Performance Check Gas. You must use H
+                            <E T="52">2</E>
+                            S (100 ppmv or less) stored in aluminum cylinders with the concentration certified by the manufacturer. Hydrogen sulfide in nitrogen is more stable than H
+                            <E T="52">2</E>
+                            S in air, but air may be used as the balance gas. 
+                            <E T="04">Note:</E>
+                             Alternatively, H
+                            <E T="52">2</E>
+                            S recovery gas generated from a permeation device gravimetrically calibrated and certified at some convenient operating temperature may be used. The permeation rate of the device must be such that at the appropriate dilution gas flow rate, an H
+                            <E T="52">2</E>
+                            S concentration can be generated in the range of the stack gas or within 20 percent of the emission standard.
+                        </P>
+                        <P>7.5âInterference Check. Examples of test gases for the interference check are listed in Table 7E-3 of Method 7E.</P>
+                        <HD SOURCE="HD2">8.0âSample Collection, Preservation, Storage, and Transport</HD>
+                        <P>8.1âPre-sampling Tests. Before measuring emissions, perform the following procedures:</P>
+                        <P>(a) Calibration gas verification,</P>
+                        <P>(b) Calibration error test,</P>
+                        <P>(c) System performance check,</P>
+                        <P>(d) Verification that the interference check has been satisfied.</P>
+                        <P>8.1.1âCalibration Gas Verification. Obtain a certificate from the gas manufacturer documenting the quality of the gas. Confirm that the manufacturer certification is complete and current. Ensure that your calibration gas certifications have not expired. This documentation should be available on-site for inspection. To the extent practicable, select a high-level gas concentration that will result in the measured emissions being between 20 and 100 percent of the calibration span.</P>
+                        <P>8.1.2âAnalyzer Calibration Error Test. After you have assembled, prepared, and calibrated your sampling system and analyzer, you must conduct a 3-point analyzer calibration error test before the first run and again after any failed system performance check or failed drift test to ensure the calibration is acceptable. Introduce the low-, mid-, and high-level calibration gases sequentially to the analyzer in direct calibration mode. For each calibration gas, calculate the analyzer calibration error using Equation 16C-1 in Section 12.2. The calibration error for the low-, mid-, and high-level gases must not exceed 5.0 percent or 0.5 ppmv. If the calibration error specification is not met, take corrective action and repeat the test until an acceptable 3-point calibration is achieved.</P>
+                        <P>
+                            8.1.3âSystem Performance Check. A system performance check is done (1) to validate the sampling train components and procedure (prior to testing), and (2) to validate a test run (after a run). You must conduct a performance check in the field prior to testing, and after each 3-hour run or after three 1-hour runs. A performance check consists of sampling and analyzing a known concentration of H
+                            <E T="52">2</E>
+                            S (system performance check gas) and comparing the analyzed concentration to the known concentration. To conduct the system performance check, mix the system performance check gas (Section 7.4) and ambient air, that has been conditioned to remove moisture and sulfur-containing gases, in a dilution system such as that shown in Figure 16A-3 of Method 16A. Alternatively, ultra-high purity (UHP) grade air may be used. Adjust the gas flow rates to generate an H
+                            <E T="52">2</E>
+                            S concentration in the range of the stack gas or within 20 percent of the applicable standard and an oxygen concentration greater than 1 percent at a total flow rate of at least 2.5 liters/min (5.3 ft3/hr). Use Equation 16A-3 from Method 16A to calculate the concentration of system performance check gas generated. Calibrate the flow rate from both gas sources with a soap bubble flow meter so that the diluted concentration of H
+                            <E T="52">2</E>
+                            S can be accurately calculated. Alternatively, mass flow controllers with documented calibrations may be used if UHP grade air is being used. Sample duration should be sufficiently long to ensure a stable response from the analyzer. 
+                            <PRTPAGE P="44493"/>
+                            Analyze in the same manner as the emission samples. Collect the sample through the probe of the sampling train using a manifold or other suitable device that will ensure extraction of a representative sample. The TRS sample concentration measured between system performance checks is corrected by the average of the pre- and post-system performance checks.
+                        </P>
+                        <P>8.1.4âInterference Check. Same as in Method 7E, Section 8.2.7.</P>
+                        <P>8.2âMeasurement System Preparation.</P>
+                        <P>
+                            8.2.1âFor the SO
+                            <E T="52">2</E>
+                             scrubber, measure 100 ml of citrate buffer into the first and second impingers; leave the third impinger empty. Immerse the impingers in an ice bath, and locate them as close as possible to the filter heat box. The connecting tubing should be free of loops. Maintain the probe and filter temperatures sufficiently high to prevent moisture condensation, and monitor with a suitable temperature sensor. Prepare the oxidation furnace and maintain at 800 Â± 100Â°C (1472 Â± 180Â°F).
+                        </P>
+                        <P>8.2.2âCitrate Scrubber Conditioning Procedure. Condition the citrate buffer scrubbing solution by pulling stack gas through the Teflon impingers as described in Section 8.4.1.</P>
+                        <P>8.3âPretest Procedures. After the complete measurement system has been set up at the site and deemed to be operational, the following procedures must be completed before sampling is initiated.</P>
+                        <P>8.3.1âLeak-Check. Appropriate leak-check procedures must be employed to verify the integrity of all components, sample lines, and connections. For components upstream of the sample pump, attach the probe end of the sample line to a manometer or vacuum gauge, start the pump and pull a vacuum greater than 50 mm (2 in.) Hg, close off the pump outlet, and then stop the pump and ascertain that there is no leak for 1 minute. For components after the pump, apply a slight positive pressure and check for leaks by applying a liquid (detergent in water, for example) at each joint. Bubbling indicates the presence of a leak. </P>
+                        <P>8.3.2âInitial System Performance Check. A system performance check using the test gas (Section 7.4) is performed prior to testing to validate the sampling train components and procedure.</P>
+                        <P>8.4âSample Collection and Analysis.</P>
+                        <P>8.4.1âAfter performing the required pretest procedures described in Section 8.1, insert the sampling probe into the test port ensuring that no dilution air enters the stack through the port. Condition the sampling system and citrate buffer solution for a minimum of 15 minutes before beginning analysis. Begin sampling and analysis. A source test consists of three test runs. A test run shall consist of a single sample collected over a 3-hour period or three separate 1-hour samples collected over a period not to exceed six hours.</P>
+                        <P>8.5âPost-Run Evaluations.</P>
+                        <P>8.5.1âSystem Performance Check. Perform a post-run system performance check before replacing the citrate buffer solution and particulate filter and before the probe is cleaned. The check results must not exceed the 100 Â± 20 percent limit set forth in Section 13.2. If this limit is exceeded, the intervening run is considered invalid. However, if the recovery efficiency is not in the 100 Â± 20 percent range, but the results do not affect the compliance or noncompliance status of the affected facility, the Administrator may decide to accept the results of the compliance test.</P>
+                        <P>8.5.2âCalibration Drift. After a run or series of runs, not to exceed a 24-hour period after initial calibration, perform a calibration drift test using a calibration gas (preferably the level that best approximates the sample concentration) in direct calibration mode. This drift must not differ from the initial calibration error percent by more than 3.0 percent or 0.5 ppm. If the drift exceeds this limit, the intervening run or runs are considered valid, but a new analyzer calibration error test must be performed and passed before continuing sampling.</P>
+                        <HD SOURCE="HD2">9.0âQuality Control</HD>
+                        <GPOTABLE COLS="3" OPTS="L2,tp0,i1" CDEF="xs80,r50,r50">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Section</CHED>
+                                <CHED H="1">Quality control measure</CHED>
+                                <CHED H="1">Effect</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="01">8.1.2</ENT>
+                                <ENT>Analyzer calibration error test</ENT>
+                                <ENT>Establishes initial calibration accuracy within 5.0%.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">8.1.3, 8.5.1</ENT>
+                                <ENT>System performance check</ENT>
+                                <ENT>Ensures accuracy of sampling/analytical procedure to 100 Â± 20%.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">8.5.2</ENT>
+                                <ENT>Calibration drift test</ENT>
+                                <ENT>Ensures calibration drift is within 3.0%.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">8.1.4</ENT>
+                                <ENT>Interference check</ENT>
+                                <ENT>Checks for analytical interferences.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">8.3</ENT>
+                                <ENT>Sampling equipment leak-check</ENT>
+                                <ENT>Ensures accurate measurement of sample gas flow rate, sample volume.</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <HD SOURCE="HD2">10.0âCalibration</HD>
+                        <P>10.1âCalibrate the system using the gases described in Section 7.3. Perform the initial 3-point calibration error test as described in Section 8.1.2 before you start the test. The specification in Section 13 must be met. Conduct an initial system performance test described in Section 8.1.3 as well before the test to validate the sampling components and procedures before sampling. After the test commences, a system performance check is required after each run. You must include a copy of the manufacturer's certification of the calibration gases used in the testing as part of the test report. This certification must include the 13 documentation requirements in the EPA Traceability Protocol for Assay and Certification of Gaseous Calibration Standards, September 1997, as amended August 25, 1999.</P>
+                        <HD SOURCE="HD2">11.0âAnalytical Procedure</HD>
+                        <P>Because sample collection and analysis are performed together (see Section 8.0), additional discussion of the analytical procedure is not necessary.</P>
+                        <HD SOURCE="HD2">12.0âCalculations and Data Analysis</HD>
+                        <P>12.1âNomenclature.</P>
+                        <FP SOURCE="FP-2">ACE = Analyzer calibration error, percent of calibration span.</FP>
+                        <FP SOURCE="FP-2">CD = Calibration drift, percent.</FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">Dir</E>
+                             = Measured concentration of a calibration gas (low, mid, or high) when introduced in direct calibration mode, ppmv.
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">H2S</E>
+                             = Concentration of the system performance check gas, ppmv H
+                            <E T="52">2</E>
+                            S.
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">M</E>
+                             = Average of initial and final system calibration bias check responses for the upscale calibration gas, ppmv.
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">MA</E>
+                             = Actual concentration of the upscale calibration gas, ppmv.
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">O</E>
+                             = Average of the initial and final system calibration bias check responses from the low-level (or zero) calibration gas, ppmv.
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">OA</E>
+                             = Actual concentration of the low-level calibration gas, ppmv.
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">S</E>
+                             = Measured concentration of the system performance gas when introduced in system calibration mode, ppmv H
+                            <E T="52">2</E>
+                            S.
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">V</E>
+                             = Manufacturer certified concentration of a calibration gas (low, mid, or high), ppmv SO
+                            <E T="52">2</E>
+                            .
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">SO2</E>
+                             = Unadjusted sample SO
+                            <E T="52">2</E>
+                             concentration, ppmv.
+                        </FP>
+                        <FP SOURCE="FP-2">
+                            C
+                            <E T="52">TRS</E>
+                             = Total reduced sulfur concentration corrected for system performance, ppmv.
+                        </FP>
+                        <FP SOURCE="FP-2">DF = Dilution system (if used) dilution factor, dimensionless.</FP>
+                        <FP SOURCE="FP-2">SP = System performance, percent.</FP>
+                    </EXTRACT>
+                    <P>12.2âAnalyzer Calibration Error. Use Equation 16C-1 to calculate the analyzer calibration error for the low-, mid-, and high-level calibration gases.</P>
+                    <GPH SPAN="3" DEEP="28">
+                        <GID>ER30JY12.175</GID>
+                    </GPH>
+                    <PRTPAGE P="44494"/>
+                    <P>12.3âSystem Performance Check. Use Equation 16C-2 to calculate the system performance.</P>
+                    <GPH SPAN="3" DEEP="28">
+                        <GID>ER30JY12.176</GID>
+                    </GPH>
+                    <P>
+                        12.4âCalibration Drift. Use Equation 16C-3 to calculate the calibration drift at a single concentration level after a run or series of runs (not to exceed a 24-hr period) from initial calibration. Compare the single-level calibration gas error (ACE
+                        <E T="52">n</E>
+                        ) to the original error obtained for that gas in the initial analyzer calibration error test (ACE
+                        <E T="52">i</E>
+                        ).
+                    </P>
+                    <GPH SPAN="3" DEEP="15">
+                        <GID>ER30JY12.177</GID>
+                    </GPH>
+                    <P>
+                        12.5âTRS Concentration as SO
+                        <E T="52">2</E>
+                        . For each sample or test run, calculate the arithmetic average of SO
+                        <E T="52">2</E>
+                         concentration values (e.g., 1-minute averages). Then calculate the sample TRS concentration by adjusting the average value of C
+                        <E T="52">SO2</E>
+                         for system performance using Equation 16C-4a if you use a non-zero gas as your low-level calibration gas, or Equation 16C-4b if you use a zero gas as your low-level calibration gas.
+                    </P>
+                    <GPH SPAN="3" DEEP="73">
+                        <GID>ER30JY12.178</GID>
+                    </GPH>
+                    <HD SOURCE="HD2">13.0âMethod Performance</HD>
+                    <P>
+                        13.1âAnalyzer Calibration Error. At each calibration gas level (low, mid, and high), the calibration error must either not exceed 5.0 percent of the calibration gas concentration or |C
+                        <E T="52">Dir</E>
+                        âC
+                        <E T="52">v</E>
+                        | must be â¤0.5 ppmv.
+                    </P>
+                    <P>
+                        13.2âSystem Performance. Each system performance check must not deviate from the system performance gas concentration by more than 20 percent. Alternatively, the results are acceptable if |C
+                        <E T="52">s</E>
+                        âC
+                        <E T="52">H2S</E>
+                        | is â¤0.5 ppmv.
+                    </P>
+                    <P>
+                        13.3âCalibration Drift. The calibration drift at the end of any run or series of runs within a 24-hour period must not differ by more than 3.0 percent from the original ACE at the test concentration level or |ACEiâACE
+                        <E T="52">n</E>
+                        | must not exceed 0.5 ppmv.
+                    </P>
+                    <P>13.4âInterference Check. For the analyzer, the total interference response (i.e., the sum of the interference responses of all tested gaseous components) must not be greater than 2.5 percent of the calibration span. Any interference is also acceptable if the sum of the responses does not exceed 0.5 ppmv for a calibration span of 5 to 10 ppmv, or 0.2 ppmv for a calibration span &lt;5 ppmv.</P>
+                    <HD SOURCE="HD2">14.0âPollution Prevention [Reserved]</HD>
+                    <HD SOURCE="HD2">15.0âWaste Management [Reserved]</HD>
+                    <HD SOURCE="HD2">16.0âReferences</HD>
+                    <EXTRACT>
+                        <FP SOURCE="FP-2">1. The references are the same as in Section 16.0 of Method 16, Section 17.0 of Method 16A, and Section 17.0 of Method 6C.</FP>
+                        <FP SOURCE="FP-2">2. National Council of the Paper Industry for Air and Stream Improvement, Inc,. A Study of TRS Measurement Methods. Technical Bulletin No. 434. New York, NY. May 1984. 12p.</FP>
+                        <FP SOURCE="FP-2">3. Margeson, J.H., J.E. Knoll, and M.R. Midgett. A Manual Method for TRS Determination. Draft available from the authors. Source Branch, Quality Assurance Division, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711.</FP>
+                    </EXTRACT>
+                    <HD SOURCE="HD2">17.0âTables, Diagrams, Flowcharts, and Validation Data [Reserved]</HD>
+                    <STARS/>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2012-18513 Filed 7-27-12; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6560-50-P</BILCOD>
+        </RULE>

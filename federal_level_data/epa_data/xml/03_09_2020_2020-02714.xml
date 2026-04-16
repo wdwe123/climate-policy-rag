@@ -1,0 +1,1772 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">ENVIRONMENTAL PROTECTION AGENCY</AGENCY>
+                <CFR>40 CFR Part 63</CFR>
+                <DEPDOC>[EPA-HQ-OAR-2017-0688; FRL-10005-14-OAR]</DEPDOC>
+                <RIN>RIN 2060-AT00</RIN>
+                <SUBJECT>National Emission Standards for Hazardous Air Pollutants: Stationary Combustion Turbines Residual Risk and Technology Review</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Environmental Protection Agency (EPA).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>This action finalizes the residual risk and technology review (RTR) conducted for the Stationary Combustion Turbines source category regulated under national emission standards for hazardous air pollutants (NESHAP). In addition, we are taking final action addressing requirements during periods of startup, shutdown, and malfunction (SSM) and to add electronic reporting requirements. The EPA is finalizing our proposed determination that the risks from this source category due to emissions of air toxics are acceptable and that the existing NESHAP provides an ample margin of safety to protect public health. The EPA is also finalizing our proposed determination that we identified no new cost-effective controls under the technology review that would achieve further emissions reductions from the source category.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This final rule is effective on March 9, 2020. The incorporation by reference (IBR) of certain publications listed in the rule is approved by the Director of the Federal Register as of March 9, 2020.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The U.S. Environmental Protection Agency (EPA) has established a docket for this action under Docket ID No. EPA-HQ-OAR-2017-0688. All documents in the docket are listed on the 
+                        <E T="03">https://www.regulations.gov/</E>
+                         website. Although listed, some information is not publicly available, 
+                        <E T="03">e.g.,</E>
+                         confidential business information or other information whose disclosure is restricted by statute. Certain other material, such as copyrighted material, is not placed on the internet and will be publicly available only in hard copy form. Publicly available docket materials are available either electronically through 
+                        <E T="03">https://www.regulations.gov/,</E>
+                         or in hard copy at the EPA Docket Center, WJC West Building, Room Number 3334, 1301 Constitution Ave. NW, Washington, DC. The Public Reading Room hours of operation are 8:30 a.m. to 4:30 p.m. Eastern Standard Time (EST), Monday through Friday. The telephone number for the Public Reading Room is (202) 566-1744, and the telephone number for the EPA Docket Center is (202) 566-1742.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        For questions about this final action, contact Melanie King, Sector Policies and Programs Division (D243-01), Office of Air Quality Planning and Standards, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina 27711; telephone number: (919) 541-2469; fax number: (919) 541-4991; and email address: 
+                        <E T="03">king.melanie@epa.gov.</E>
+                         For specific information regarding the risk modeling methodology, contact Mark Morris, Health and Environmental Impacts Division (C539-02), Office of Air Quality Planning and Standards, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina 27711; telephone number: (919) 541-5416; and email address: 
+                        <E T="03">morris.mark@epa.gov.</E>
+                         For information about the applicability of the Stationary Combustion Turbines NESHAP to a particular entity, contact Sara Ayres, Office of Enforcement and Compliance Assurance, U.S. Environmental Protection Agency, 77 West Jackson Boulevard (Mail Code E-19J), Chicago, Illinois 60604; telephone number: (312) 353-6266; and email address: 
+                        <E T="03">ayres.sara@epa.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P SOURCE="NPAR">
+                    <E T="03">Preamble acronyms and abbreviations.</E>
+                     We use multiple acronyms and terms in this preamble. While this list may not be exhaustive, to ease the reading of this preamble and for reference purposes, the EPA defines the following terms and acronyms here: 
+                </P>
+                <EXTRACT>
+                    <FP SOURCE="FP-1">ANSIâAmerican National Standards Institute</FP>
+                    <FP SOURCE="FP-1">ASMEâAmerican Society of Mechanical Engineers</FP>
+                    <FP SOURCE="FP-1">BACTâbest available control technology</FP>
+                    <FP SOURCE="FP-1">CAAâClean Air Act</FP>
+                    <FP SOURCE="FP-1">CAERâCombined Air Emissions Reporting</FP>
+                    <FP SOURCE="FP-1">CDXâCentral Data Exchange</FP>
+                    <FP SOURCE="FP-1">CEDRIâCompliance and Emissions Data Reporting Interface</FP>
+                    <FP SOURCE="FP-1">CEMSâcontinuous emissions monitoring systems</FP>
+                    <FP SOURCE="FP-1">CFRâCode of Federal Regulations</FP>
+                    <FP SOURCE="FP-1">CMSâcontinuous monitoring system</FP>
+                    <FP SOURCE="FP-1">EPAâEnvironmental Protection Agency</FP>
+                    <FP SOURCE="FP-1">ERTâElectronic Reporting Tool</FP>
+                    <FP SOURCE="FP-1">FTIRâFourier transform infrared</FP>
+                    <FP SOURCE="FP-1">HAPâhazardous air pollutants(s)</FP>
+                    <FP SOURCE="FP-1">HQâhazard quotient</FP>
+                    <FP SOURCE="FP-1">IBRâincorporation by reference</FP>
+                    <FP SOURCE="FP-1">kmâkilometer</FP>
+                    <FP SOURCE="FP-1">LAERâlowest achievable emission rate</FP>
+                    <FP SOURCE="FP-1">MACTâmaximum achievable control technology</FP>
+                    <FP SOURCE="FP-1">MIRâmaximum individual risk</FP>
+                    <FP SOURCE="FP-1">NAICSâNorth American Industry Classification System</FP>
+                    <FP SOURCE="FP-1">NESHAPânational emission standards for hazardous air pollutants</FP>
+                    <FP SOURCE="FP-1">NOxâoxides of nitrogen</FP>
+                    <FP SOURCE="FP-1">NTTAAâNational Technology Transfer and Advancement Act</FP>
+                    <FP SOURCE="FP-1">
+                        O
+                        <E T="52">2</E>
+                        âoxygen
+                    </FP>
+                    <FP SOURCE="FP-1">OMBâOffice of Management and Budget</FP>
+                    <FP SOURCE="FP-1">PB-HAPâhazardous air pollutant known to be persistent and bio-accumulative in the environment</FP>
+                    <FP SOURCE="FP-1">ppbvdâparts per billion by volume, dry basis</FP>
+                    <FP SOURCE="FP-1">PRAâPaperwork Reduction Act</FP>
+                    <FP SOURCE="FP-1">PTCâperformance test code</FP>
+                    <FP SOURCE="FP-1">
+                        RACTâreasonably available control technology
+                        <PRTPAGE P="13525"/>
+                    </FP>
+                    <FP SOURCE="FP-1">RBLCâRACT/BACT/LAER Clearinghouse</FP>
+                    <FP SOURCE="FP-1">RELârecommended exposure limit</FP>
+                    <FP SOURCE="FP-1">RFAâRegulatory Flexibility Act</FP>
+                    <FP SOURCE="FP-1">RTRâresidual risk and technology review</FP>
+                    <FP SOURCE="FP-1">SCRâselective catalytic reduction</FP>
+                    <FP SOURCE="FP-1">SSMâstartup, shutdown, and malfunction</FP>
+                    <FP SOURCE="FP-1">TOSHIâtarget organ-specific hazard index</FP>
+                    <FP SOURCE="FP-1">tpyâtons per year</FP>
+                    <FP SOURCE="FP-1">UMRAâUnfunded Mandates Reform Act</FP>
+                    <FP SOURCE="FP-1">U.S.âUnited States</FP>
+                    <FP SOURCE="FP-1">U.S.C.âUnited States Code</FP>
+                    <FP SOURCE="FP-1">v.âversus</FP>
+                    <FP SOURCE="FP-1">VCSâvoluntary consensus standard</FP>
+                    <FP SOURCE="FP-1">XMLâextensible markup language</FP>
+                </EXTRACT>
+                <P>
+                    <E T="03">Background information.</E>
+                     On April 12, 2019, the EPA proposed the RTR for the Stationary Combustion Turbines NESHAP as well as amendments addressing periods of SSM and requiring electronic reporting. In this action, we are finalizing certain decisions and revisions for the rule. We summarize some of the more significant comments we timely received regarding the proposed rule and provide our responses in this preamble. A summary of all other public comments on the proposal and the EPA's responses to those comments is available in the 
+                    <E T="03">National Emission Standards for Hazardous Air Pollutants from Stationary Combustion Turbines (40 CFR part 63, subpart YYYY), Residual Risk and Technology Review, Final Amendments, Summary of Public Comments and Responses on Proposed Rule,</E>
+                     Docket ID No. EPA-HQ-OAR-2017-0688. A âtrack changesâ version of the regulatory language that incorporates the changes in this action is available in the docket.
+                </P>
+                <P>At this time, the EPA is not finalizing the proposed removal of the administrative stay of the effectiveness of the standards for new lean premix and diffusion flame gas-fired turbines to allow for additional time to review the public comments on the proposed removal of the stay, as well as a petition to delist the Stationary Combustion Turbines source category that was filed in August 2019. This final rule does not include responses to comments on lifting the stay. The EPA is still reviewing the comments on lifting the stay and will respond to them in any subsequent action.</P>
+                <P>
+                    <E T="03">Organization of this document.</E>
+                     The information in this preamble is organized as follows:
+                </P>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. General Information</FP>
+                    <FP SOURCE="FP1-2">A. Does this action apply to me?</FP>
+                    <FP SOURCE="FP1-2">B. Where can I get a copy of this document and other related information?</FP>
+                    <FP SOURCE="FP1-2">C. Judicial Review and Administrative Reconsideration</FP>
+                    <FP SOURCE="FP-2">II. Background</FP>
+                    <FP SOURCE="FP1-2">A. What is the statutory authority for this action?</FP>
+                    <FP SOURCE="FP1-2">B. What is the Stationary Combustion Turbines source category and how does the NESHAP regulate HAP emissions from the source category?</FP>
+                    <FP SOURCE="FP1-2">C. What changes did we propose for the Stationary Combustion Turbines source category in our April 12, 2019, proposal?</FP>
+                    <FP SOURCE="FP-2">III. What is included in this final rule?</FP>
+                    <FP SOURCE="FP1-2">A. What are the final rule amendments based on the risk review for the Stationary Combustion Turbines source category?</FP>
+                    <FP SOURCE="FP1-2">B. What are the final rule amendments based on the technology review for the Stationary Combustion Turbines source category?</FP>
+                    <FP SOURCE="FP1-2">C. What are the final rule amendments addressing emissions during periods of SSM?</FP>
+                    <FP SOURCE="FP1-2">D. What other changes have been made to the NESHAP?</FP>
+                    <FP SOURCE="FP1-2">E. What are the effective and compliance dates of the standards?</FP>
+                    <FP SOURCE="FP-2">IV. What is the rationale for our final decisions and amendments for the Stationary Combustion Turbines source category?</FP>
+                    <FP SOURCE="FP1-2">A. Residual Risk Review for the Stationary Combustion Turbines Source Category</FP>
+                    <FP SOURCE="FP1-2">B. Technology Review for the Stationary Combustion Turbines Source Category</FP>
+                    <FP SOURCE="FP1-2">C. SSM for the Stationary Combustion Turbines Source Category</FP>
+                    <FP SOURCE="FP1-2">D. Electronic Reporting Requirements for the Stationary Combustion Turbines Source Category</FP>
+                    <FP SOURCE="FP-2">V. Summary of Cost, Environmental, and Economic Impacts and Additional Analyses Conducted</FP>
+                    <FP SOURCE="FP1-2">A. What are the affected facilities?</FP>
+                    <FP SOURCE="FP1-2">B. What are the air quality impacts?</FP>
+                    <FP SOURCE="FP1-2">C. What are the cost impacts?</FP>
+                    <FP SOURCE="FP1-2">D. What are the economic impacts?</FP>
+                    <FP SOURCE="FP1-2">E. What are the benefits?</FP>
+                    <FP SOURCE="FP1-2">F. What analysis of environmental justice did we conduct?</FP>
+                    <FP SOURCE="FP1-2">G. What analysis of children's environmental health did we conduct?</FP>
+                    <FP SOURCE="FP-2">VI. Statutory and Executive Order Reviews</FP>
+                    <FP SOURCE="FP1-2">A. Executive Orders 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">B. Executive Order 13771: Reducing Regulations and Controlling Regulatory Costs</FP>
+                    <FP SOURCE="FP1-2">C. Paperwork Reduction Act (PRA)</FP>
+                    <FP SOURCE="FP1-2">D. Regulatory Flexibility Act (RFA)</FP>
+                    <FP SOURCE="FP1-2">E. Unfunded Mandates Reform Act (UMRA)</FP>
+                    <FP SOURCE="FP1-2">F. Executive Order 13132: Federalism</FP>
+                    <FP SOURCE="FP1-2">G. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</FP>
+                    <FP SOURCE="FP1-2">H. Executive Order 13045: Protection of Children From Environmental Health Risks and Safety Risks</FP>
+                    <FP SOURCE="FP1-2">I. Executive Order 13211: Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use</FP>
+                    <FP SOURCE="FP1-2">J. National Technology Transfer and Advancement Act (NTTAA) and 1 CFR Part 51</FP>
+                    <FP SOURCE="FP1-2">K. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</FP>
+                    <FP SOURCE="FP1-2">L. Congressional Review Act (CRA)</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. General Information</HD>
+                <HD SOURCE="HD2">A. Does this action apply to me?</HD>
+                <P>
+                    <E T="03">Regulated entities.</E>
+                     Categories and entities potentially regulated by this action are shown in Table 1 of this preamble.
+                </P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s100,r100">
+                    <TTITLE>Table 1âNESHAP and Industrial Source Categories Affected by This Final Action</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">NESHAP and source category</CHED>
+                        <CHED H="1">
+                            NAICSâ
+                            <SU>1</SU>
+                             code
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Stationary Combustion Turbines</ENT>
+                        <ENT>2211, 486210, 211111, 211113, 221.</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>1</SU>
+                        âNorth American Industry Classification System.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>
+                    Table 1 of this preamble is not intended to be exhaustive, but rather to provide a guide for readers regarding entities likely to be affected by the final action for the source category listed. To determine whether your facility is affected, you should examine the applicability criteria in the appropriate NESHAP. If you have any questions regarding the applicability of any aspect of this NESHAP, please contact the appropriate person listed in the preceding 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                     section of this preamble.
+                </P>
+                <HD SOURCE="HD2">B. Where can I get a copy of this document and other related information?</HD>
+                <P>
+                    In addition to being available in the docket, an electronic copy of this final action will also be available on the internet. Following signature by the EPA Administrator, the EPA will post a copy of this final action at: 
+                    <E T="03">https://www.epa.gov/stationary-sources-air-pollution/stationary-combustion-turbines-national-emission-standards.</E>
+                     Following publication in the 
+                    <E T="04">Federal Register</E>
+                    , the EPA will post the 
+                    <E T="04">
+                        Federal 
+                        <PRTPAGE P="13526"/>
+                        Register
+                    </E>
+                     version and key technical documents at this same website.
+                </P>
+                <P>
+                    Additional information is available on the RTR website at 
+                    <E T="03">https://www.epa.gov/stationary-sources-air-pollution/risk-and-technology-review-national-emissions-standards-hazardous.</E>
+                     This information includes an overview of the RTR program and links to project websites for the RTR source categories.
+                </P>
+                <HD SOURCE="HD2">C. Judicial Review and Administrative Reconsideration</HD>
+                <P>Under Clean Air Act (CAA) section 307(b)(1), judicial review of the final actions is available only by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit (the court) by May 8, 2020. Under CAA section 307(b)(2), the requirements established by this final rule may not be challenged separately in any civil or criminal proceedings brought by the EPA to enforce the requirements.</P>
+                <P>
+                    Section 307(d)(7)(B) of the CAA further provides that only an objection to a rule or procedure which was raised with reasonable specificity during the period for public comment (including any public hearing) may be raised during judicial review. This section also provides a mechanism for the EPA to reconsider the rule if the person raising an objection can demonstrate to the Administrator that it was impracticable to raise such objection within the period for public comment or if the grounds for such objection arose after the period for public comment (but within the time specified for judicial review) and if such objection is of central relevance to the outcome of the rule. Any person seeking to make such a demonstration should submit a Petition for Reconsideration to the Office of the Administrator, U.S. EPA, Room 3000, EPA WJC South Building, 1200 Pennsylvania Ave. NW, Washington, DC 20460, with a copy to both the person(s) listed in the preceding 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                     section, and the Associate General Counsel for the Air and Radiation Law Office, Office of General Counsel (Mail Code 2344A), U.S. EPA, 1200 Pennsylvania Ave. NW, Washington, DC 20460.
+                </P>
+                <HD SOURCE="HD1">II. Background</HD>
+                <HD SOURCE="HD2">A. What is the statutory authority for this action?</HD>
+                <P>Section 112 of the CAA establishes a two-stage regulatory process to address emissions of hazardous air pollutants (HAP) from stationary sources. In the first stage, we must identify categories of sources emitting one or more of the HAP listed in CAA section 112(b) and then promulgate technology-based NESHAP for those sources. âMajor sourcesâ are those that emit, or have the potential to emit, any single HAP at a rate of 10 tons per year (tpy) or more, or 25 tpy or more of any combination of HAP. For major sources, these standards are commonly referred to as maximum achievable control technology (MACT) standards and must reflect the maximum degree of emission reductions of HAP achievable (after considering cost, energy requirements, and non-air quality health and environmental impacts). In developing MACT standards, CAA section 112(d)(2) directs the EPA to consider the application of measures, processes, methods, systems, or techniques, including, but not limited to those that reduce the volume of or eliminate HAP emissions through process changes, substitution of materials, or other modifications; enclose systems or processes to eliminate emissions; collect, capture, or treat HAP when released from a process, stack, storage, or fugitive emissions point; are design, equipment, work practice, or operational standards; or any combination of the above.</P>
+                <P>For these MACT standards, the statute specifies certain minimum stringency requirements, which are referred to as MACT floor requirements, and which may not be based on cost considerations. See CAA section 112(d)(3). For new sources, the MACT floor cannot be less stringent than the emission control achieved in practice by the best-controlled similar source. The MACT standards for existing sources can be less stringent than floors for new sources, but they cannot be less stringent than the average emission limitation achieved by the best-performing 12 percent of existing sources in the category or subcategory (or the best-performing five sources for categories or subcategories with fewer than 30 sources). In developing MACT standards, we must also consider control options that are more stringent than the floor under CAA section 112(d)(2). We may establish standards more stringent than the floor, based on the consideration of the cost of achieving the emissions reductions, any non-air quality health and environmental impacts, and energy requirements.</P>
+                <P>
+                    In the second stage of the regulatory process, the CAA requires the EPA to undertake two different analyses, which we refer to as the technology review and the residual risk review. Under the technology review, we must review the technology-based standards and revise them âas necessary (taking into account developments in practices, processes, and control technologies)â no less frequently than every 8 years, pursuant to CAA section 112(d)(6). Under the residual risk review, we must evaluate the risk to public health remaining after application of the technology-based standards and revise the standards, if necessary, to provide an ample margin of safety to protect public health or to prevent, taking into consideration costs, energy, safety, and other relevant factors, an adverse environmental effect. The residual risk review is required within 8 years after promulgation of the technology-based standards, pursuant to CAA section 112(f). In conducting the residual risk review, if the EPA determines that the current standards provide an ample margin of safety to protect public health, it is not necessary to revise the MACT standards pursuant to CAA section 112(f).
+                    <SU>1</SU>
+                    <FTREF/>
+                     For more information on the statutory authority for this rule, see 84 FR 15046.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âThe court has affirmed this approach of implementing CAA section 112(f)(2)(A): 
+                        <E T="03">NRDC</E>
+                         v. 
+                        <E T="03">EPA,</E>
+                         529 F.3d 1077, 1083 (DC Cir. 2008) (âIf EPA determines that the existing technology-based standards provide an âample margin of safety,â then the Agency is free to readopt those standards during the residual risk rulemaking.â).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. What is the Stationary Combustion Turbines source category and how does the NESHAP regulate HAP emissions from the source category?</HD>
+                <P>The EPA promulgated the Stationary Combustion Turbines NESHAP on March 5, 2004 (69 FR 10512). The standards are codified at 40 CFR part 63, subpart YYYY, and apply to stationary combustion turbines at major sources of HAP. The stationary combustion turbine industry consists of facilities that own and operate stationary combustion turbines. The source category covered by this MACT standard currently includes 243 facilities. Stationary combustion turbines are typically located at power plants, compressor stations, landfills and industrial facilities such as chemical plants.</P>
+                <P>
+                    Stationary combustion turbines have been divided into the following eight subcategories: (1) Emergency stationary combustion turbines, (2) stationary combustion turbines which burn landfill or digester gas equivalent to 10 percent or more of the gross heat input on an annual basis or where gasified municipal solid waste is used to generate 10 percent or more of the gross heat input to the stationary combustion turbine on an annual basis, (3) stationary combustion turbines of less than 1 megawatt rated peak power output, (4) stationary lean premix combustion turbines when firing gas 
+                    <PRTPAGE P="13527"/>
+                    and when firing oil at sites where all turbines fire oil no more than an aggregate total of 1,000 hours annually (also referred to herein as âlean premix gas-fired turbinesâ), (5) stationary lean premix combustion turbines when firing oil at sites where all turbines fire oil more than an aggregate total of 1,000 hours annually (also referred to herein as âlean premix oil-fired turbinesâ), (6) stationary diffusion flame combustion turbines when firing gas and when firing oil at sites where all turbines fire oil no more than an aggregate total of 1,000 hours annually (also referred to herein as âdiffusion flame gas-fired turbinesâ), (7) stationary diffusion flame combustion turbines when firing oil at sites where all turbines fire oil more than an aggregate total of 1,000 hours annually (also referred to herein as âdiffusion flame oil-fired turbinesâ), and (8) stationary combustion turbines operated on the North Slope of Alaska (defined as the area north of the Arctic Circle (latitude 66.5 degrees North)).
+                </P>
+                <P>The sources of emissions are the exhaust gases from combustion of gaseous and liquid fuels in a stationary combustion turbine. The HAP that are present in the exhaust gases from stationary combustion turbines include formaldehyde, toluene, benzene, and acetaldehyde. Metallic HAP are present in the exhaust from distillate oil-fired turbines; these metallic HAP are generally carried over from the fuel constituents.</P>
+                <P>
+                    The NESHAP requires new or reconstructed stationary combustion turbines in the lean premix gas-fired, lean premix oil-fired, diffusion flame gas-fired, and diffusion flame oil-fired subcategories to meet a formaldehyde limit of 91 parts per billion by volume, dry basis (ppbvd) at 15-percent oxygen (O
+                    <E T="52">2</E>
+                    ). Compliance is demonstrated through initial and annual performance testing and continuous monitoring of operating parameters. The requirements of the rule are currently under a stay of effectiveness for new lean premix and diffusion flame gas-fired turbines.
+                </P>
+                <HD SOURCE="HD2">C. What changes did we propose for the Stationary Combustion Turbines source category in our April 12, 2019, proposal?</HD>
+                <P>
+                    On April 12, 2019, the EPA published a proposed rule in the 
+                    <E T="04">Federal Register</E>
+                     for the Stationary Combustion Turbines NESHAP, 40 CFR part 63, subpart YYYY, that took into consideration the RTR analyses. In the proposed rule, we proposed to find that risks from the Stationary Combustion Turbines source category due to emissions of air toxics are acceptable and that the existing NESHAP provides an ample margin of safety to protect public health. No new cost-effective controls were identified in the technology review for the proposed rule. The EPA also proposed to eliminate the exemption for periods of SSM, and our risk analysis assumed removal of that exemption. We proposed a new requirement to electronically submit performance test results and semiannual compliance reports. Finally, we proposed to remove the stay of the standards for new lean premix and diffusion flame gas-fired turbines. We did not propose any revisions to the emission standards based on our RTR.
+                </P>
+                <HD SOURCE="HD1">III. What is included in this final rule?</HD>
+                <P>This action finalizes the EPA's determinations pursuant to the RTR provisions of CAA section 112 for the Stationary Combustion Turbines source category. This action also finalizes other changes to the NESHAP, including amendments to the SSM provisions and the addition of electronic reporting requirements. This action reflects changes to the April 19, 2019, proposal in consideration of comments received during the public comment period described in section IV of this preamble.</P>
+                <P>
+                    As stated previously, the EPA is not finalizing the proposed removal of the stay of the effectiveness of the standards for new lean premix and diffusion flame gas-fired turbines at this time. The EPA received numerous comments on the proposed stay indicating that 180 days is not sufficient time for owners and operators to conduct all of the activities that are needed for their turbines to come into compliance with the standards, which include the design, procurement, and installation of emission controls and parametric monitoring equipment that can fit within existing sites (as compared to new facilities where the controls are incorporated into the facility design), performance testing, and implementation of procedures for monitoring, recordkeeping, and reporting. More time is needed to review these comments on the removal of the stay. In addition, the EPA received a petition to delist the Stationary Combustion Turbines source category from regulation under CAA section 112 in August 2019. As discussed in more detail in the April 12, 2019, proposal, the EPA proposed to delist certain subcategories of stationary combustion turbines in 2004 under CAA section 112(c)(9)(B) and stayed the effectiveness of the standards for those subcategories, pending the outcome of the proposed delisting. A subsequent 2007 decision by the courtâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     held that the EPA has no authority to delist subcategories under CAA section 112(c)(9)(B). Consequently, the EPA proposed to remove the stay in the April 12, 2019, proposal. In recognition of the EPA's inability to delist subcategories under CAA section 112(c)(9)(B), the new August 2019 petition requests delisting of the entire Stationary Combustion Turbines source category and provides an assessment of the risks for the entire source category. A copy of the petition is in the docket for this rulemaking (Docket ID No. EPA-HQ-OAR-2017-0688). The EPA is in the process of reviewing the petition and has not made a determination regarding whether the information included in the petition supports delisting the entire source category, but notes that the petitioners provided an analysis of the risks from the source category and, based on their analysis, the petitioners concluded that a demonstration can be made that delisting is appropriate under CAA section 112(c)(9)(B). The EPA has determined that it would be reasonable to delay taking final action on the stay until we have made a determination regarding the source category delisting petition, so that turbine owners and operators do not make expenditures on emission controls and performance testing that will not be required if the source category is delisted. Such expenditures would be wasteful and unwarranted if the source category is delisted. Moreover, the EPA has no legal obligation to lift the stay in this RTR rulemaking. Although the EPA often uses the RTR rulemaking vehicle to revise or update various aspects of a NESHAP, as it did here with respect to its proposal to eliminate a stay provision in the rule, the EPA did not do so nor is the EPA required to do so under CAA section 112(d)(6) or (f)(4).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        â
+                        <E T="03">NRDC</E>
+                         v. 
+                        <E T="03">EPA,</E>
+                         489 F.3d 1364 (D.C. Cir. 2007).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">A. What are the final rule amendments based on the risk review for the Stationary Combustion Turbines source category?</HD>
+                <P>
+                    We are finalizing our proposed finding that risks remaining after implementation of the existing MACT standards for this source category (as revised in this action to remove the SSM exemption) are acceptable. We are also finalizing our proposed determination that the current NESHAP (as revised in this action to remove the SSM exemption) provides an ample margin of safety to protect public health. Therefore, we are not finalizing any revisions to the numerical emission 
+                    <PRTPAGE P="13528"/>
+                    limits based on these analyses conducted under CAA section 112(f).
+                </P>
+                <HD SOURCE="HD2">B. What are the final rule amendments based on the technology review for the Stationary Combustion Turbines source category?</HD>
+                <P>We determined that there are no developments in practices, processes, and control technologies that warrant revisions to the MACT standards for this source category. Therefore, we are not finalizing revisions to the MACT standards under CAA section 112(d)(6).</P>
+                <HD SOURCE="HD2">C. What are the final rule amendments addressing emissions during periods of SSM?</HD>
+                <P>
+                    In its 2008 decision in 
+                    <E T="03">Sierra Club</E>
+                     v. 
+                    <E T="03">EPA,</E>
+                     551 F.3d 1019 (D.C. Cir. 2008), the court vacated portions of two provisions in the EPA's CAA section 112 regulations governing the emissions of HAP during periods of SSM. Specifically, the court vacated the SSM exemption contained in 40 CFR 63.6(f)(1) and 40 CFR 63.6(h)(1), holding that under section 302(k) of the CAA, emissions standards or limitations must be continuous in nature and that the SSM exemption violates the CAA's requirement that some CAA section 112 standards apply continuously.
+                </P>
+                <P>
+                    We have eliminated the SSM exemption in this rule. Consistent with 
+                    <E T="03">Sierra Club</E>
+                     v. 
+                    <E T="03">EPA,</E>
+                     the EPA has established standards in this rule that apply at all times. We have also revised Table 7 (the General Provisions applicability table) in several respects as is explained in more detail in the proposal. For example, we have eliminated the incorporation of the General Provisions' requirement that the source develop an SSM plan. We have also eliminated and revised certain recordkeeping and reporting requirements that are related to the SSM exemption as described in detail in the proposed rule and in section IV.C of this preamble.
+                </P>
+                <HD SOURCE="HD2">D. What other changes have been made to the NESHAP?</HD>
+                <P>
+                    The EPA is requiring owners and operators of stationary combustion turbine facilities to submit electronic copies of certain required performance test results and semiannual compliance reports through the EPA's Central Data Exchange (CDX) using the Compliance and Emissions Data Reporting Interface (CEDRI). The final rule requires that performance test results collected using test methods that are supported by the EPA's Electronic Reporting Tool (ERT) as listed on the ERT websiteâ
+                    <SU>3</SU>
+                    <FTREF/>
+                     at the time of the test be submitted in the format generated through the use of the ERT and that other performance test results be submitted in portable document format using the attachment module of the ERT. The test methods required by 40 CFR part 63, subpart YYYY that are currently supported by the ERT are EPA Methods 3A and 4 of 40 CFR part 60, appendix A. For periodic compliance reports, the final rule requires that owners and operators use the appropriate spreadsheet template to submit information to CEDRI. The final version of the template for these reports is located on the CEDRI website.
+                    <SU>4</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        â
+                        <E T="03">https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        â
+                        <E T="03">https://www.epa.gov/electronic-reporting-air-emissions/compliance-and-emissions-data-reporting-interface-cedri.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    The electronic submittal of the reports addressed in this rulemaking will increase the usefulness of the data contained in those reports, is in keeping with current trends in data availability and transparency, will further assist in the protection of public health and the environment, will improve compliance by facilitating the ability of regulated facilities to demonstrate compliance with requirements and by facilitating the ability of delegated state, local, tribal, and territorial air agencies and the EPA to assess and determine compliance, and will ultimately reduce burden on regulated facilities, delegated air agencies, and the EPA. Electronic reporting also eliminates paper-based, manual processes, thereby saving time and resources, simplifying data entry, eliminating redundancies, minimizing data reporting errors, and providing data quickly and accurately to the affected facilities, air agencies, the EPA, and the public. For a more thorough discussion of electronic reporting, see the memorandum, 
+                    <E T="03">Electronic Reporting Requirements for New Source Performance Standards (NSPS) and National Emission Standards for Hazardous Air Pollutants (NESHAP) Rules,</E>
+                     available in Docket ID No. EPA-HQ-OAR-2017-0688.
+                </P>
+                <HD SOURCE="HD2">E. What are the effective and compliance dates of the standards?</HD>
+                <P>The revisions to the MACT standards being promulgated in this action are effective on March 9, 2020. The compliance date for affected sources to comply with the amendments pertaining to SSM and electronic reporting is 180 days after the effective date of the final rule. As discussed elsewhere in this preamble, we are adding a requirement that performance test results and semiannual compliance reports be submitted electronically, and we are changing the requirements for periods of SSM by removing the exemption from the requirement to meet the emission standards during periods of SSM and promulgating an operational standard for startup. Our experience with similar industries that are required to convert reporting mechanisms to install necessary hardware and software, become familiar with the process of submitting performance test results and compliance reports electronically through the EPA's CEDRI, test these new electronic submission capabilities, and reliably employ electronic reporting shows that a time period of a minimum of 90 days and, more typically, 180 days, is generally necessary to successfully accomplish these revisions. Our experience with similar industries further shows that this sort of regulated facility generally requires a time period of 180 days to read and understand the amended rule requirements; to evaluate their operations to ensure that they can meet the standards during periods of startup and shutdown as defined in the rule and make any necessary adjustments; and to update their operation, maintenance, and monitoring plans to reflect the revised requirements. The EPA recognizes the confusion that multiple different compliance dates for individual requirements would create and the additional burden such an assortment of dates would impose. From our assessment of the timeframe needed for compliance with the entirety of the revised requirements, the EPA considers a period of 180 days to be the most expeditious compliance period practicable and, thus, is requiring that affected sources must be in compliance with all of the revised requirements within 180 days of the regulation's effective date. All affected facilities would have to continue to meet the current requirements of 40 CFR part 63, subpart YYYY, until the applicable compliance date of the amended rule.</P>
+                <HD SOURCE="HD1">IV. What is the rationale for our final decisions and amendments for the Stationary Combustion Turbines source category?</HD>
+                <P>
+                    For each issue, this section provides a description of what we proposed and what we are finalizing for the issue, the EPA's rationale for the final decisions and amendments, and a summary of key comments and responses. For all comments not discussed in this preamble, comment summaries and the EPA's responses can be found in the comment summary and response document available in the docket.
+                    <PRTPAGE P="13529"/>
+                </P>
+                <HD SOURCE="HD2">A. Residual Risk Review for the Stationary Combustion Turbines Source Category</HD>
+                <HD SOURCE="HD3">1. What did we propose pursuant to CAA section 112(f) for the Stationary Combustion Turbines source category?</HD>
+                <P>
+                    Pursuant to CAA section 112(f), the EPA conducted a residual risk review and presented the results of this review, along with our proposed decisions regarding risk acceptability and ample margin of safety, in the April 12, 2019, proposed rule for 40 CFR part 63, subpart YYYY (84 FR 15046). The results of the risk assessment for the proposal are presented briefly below in Table 2 of this preamble. More detail is in the residual risk technical support document, 
+                    <E T="03">Residual Risk Assessment for the Stationary Combustion Turbines Source Category in Support of the 2019 Risk and Technology Review Proposed Rule,</E>
+                     available in the docket for this rulemaking (Docket ID No. EPA-HQ-OAR-2017-0688).
+                </P>
+                <GPOTABLE COLS="10" OPTS="L2,p7,7/8,i1" CDEF="9C,9C,9C,9C,9C,9C,9C,9C,9C,r50">
+                    <TTITLE>Table 2âStationary Combustion Turbines Inhalation Risk Assessment Results</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">
+                            Number of 
+                            <LI>
+                                facilitiesâ
+                                <E T="0731">1</E>
+                            </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Maximum individual 
+                            <LI>cancer risk </LI>
+                            <LI>
+                                (in 1 million)â
+                                <E T="0731">2</E>
+                            </LI>
+                        </CHED>
+                        <CHED H="2" O="L">Based on . . .</CHED>
+                        <CHED H="3">
+                            Actual 
+                            <LI>emissions </LI>
+                            <LI>level</LI>
+                        </CHED>
+                        <CHED H="3">
+                            Allowable 
+                            <LI>emissions </LI>
+                            <LI>level</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Population at 
+                            <LI>increased risk of </LI>
+                            <LI>cancer â¥1-in-1 million</LI>
+                        </CHED>
+                        <CHED H="2" O="L">Based on . . .</CHED>
+                        <CHED H="3">
+                            Actual 
+                            <LI>emissions </LI>
+                            <LI>level</LI>
+                        </CHED>
+                        <CHED H="3">
+                            Allowable 
+                            <LI>emissions </LI>
+                            <LI>level</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Annual cancer 
+                            <LI>incidence </LI>
+                            <LI>(cases per year)</LI>
+                        </CHED>
+                        <CHED H="2" O="L">Based on . . .</CHED>
+                        <CHED H="3">
+                            Actual 
+                            <LI>emissions </LI>
+                            <LI>level</LI>
+                        </CHED>
+                        <CHED H="3">
+                            Allowable 
+                            <LI>emissions </LI>
+                            <LI>level</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Maximum chronic 
+                            <LI>noncancer </LI>
+                            <LI>
+                                TOSHIâ
+                                <E T="0731">3</E>
+                            </LI>
+                        </CHED>
+                        <CHED H="2" O="L">Based on . . .</CHED>
+                        <CHED H="3">
+                            Actual 
+                            <LI>emissions </LI>
+                            <LI>level</LI>
+                        </CHED>
+                        <CHED H="3">
+                            Allowable 
+                            <LI>emissions </LI>
+                            <LI>level</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Maximum 
+                            <LI>screening acute </LI>
+                            <LI>
+                                noncancer HQâ
+                                <E T="0731">4</E>
+                            </LI>
+                        </CHED>
+                        <CHED H="2">Based on actual emissions level</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">253</ENT>
+                        <ENT>3</ENT>
+                        <ENT>3</ENT>
+                        <ENT>42,000</ENT>
+                        <ENT>42,000</ENT>
+                        <ENT>0.04</ENT>
+                        <ENT>0.04</ENT>
+                        <ENT>0.04</ENT>
+                        <ENT>0.04</ENT>
+                        <ENT>
+                            HQ
+                            <E T="0732">REL</E>
+                             = 2 (acrolein), HQ
+                            <E T="0732">AEGL-1</E>
+                             = 0.07
+                        </ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>1</SU>
+                        âNumber of facilities evaluated in the risk analysis.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>2</SU>
+                        âMaximum individual excess lifetime cancer risk due to HAP emissions from the source category.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>3</SU>
+                        âMaximum target organ specific hazard index (TOSHI). The target organ system with the highest TOSHI for the source category is respiratory. The respiratory TOSHI was calculated using the California Environmental Protection Agency chronic recommended exposure limit (REL) for acrolein. The EPA is in the process of updating the Integrated Risk Information System reference concentration for acrolein.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>4</SU>
+                        âThe maximum estimated acute exposure concentration was divided by available short-term threshold values to develop an array of hazard quotient (HQ) values. HQ values shown use the lowest available acute threshold value, which in most cases is the REL. When an HQ exceeds 1, we also show the HQ using the next lowest available acute dose-response value.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>The results of the proposal inhalation risk modeling using actual and allowable emissions data, as shown in Table 2 of this preamble, indicate that the maximum lifetime individual cancer risk (MIR) is 3-in-1 million, the maximum chronic noncancer TOSHI is 0.04, and the maximum screening acute noncancer HQ (off-facility site) is 2 (driven by acrolein). Only one facility has an HQ (REL) that exceeds 1. At proposal, the total annual cancer incidence (national) from these facilities was estimated to be 0.04 excess cancer cases per year, or one case in every 25 years. The facility-wide maximum lifetime cancer MIR was estimated to be 2,000-in-1 million at proposal, driven by ethylene oxide emissions from chemical manufacturing. At proposal, the total estimated cancer incidence from whole facility emissions was estimated to be 0.7 excess cancer cases per year, or one excess case in every 1 to 2 years. Approximately 2.8 million people were estimated to have cancer risks above 1-in-1 million from exposure to HAP emitted from both MACT and non-MACT sources at the facilities in the source category. The estimated maximum chronic noncancer TOSHI based on facility-wide emissions is 4 (respiratory), driven by emissions of chlorine from chemical manufacturing, and approximately 360 people are exposed to a TOSHI above 1.</P>
+                <P>At proposal, potential multipathway human health risks were estimated using a three-tier screening assessment of the persistent bio-accumulative HAP (PB-HAP) emitted by facilities in this source category. The only pollutants with elevated Tier 1 and Tier 2 screening values were arsenic (cancer), cadmium (noncancer), and mercury (noncancer). The Tier 3 screening values for these pollutants were low. For cancer, the Tier 3 screening value for arsenic was 4. For noncancer, the Tier 3 screening value for cadmium was less than 1, and the screening value for mercury was 1.</P>
+                <P>Several environmental HAP are emitted by sources within this source category: Arsenic, dioxins/furans, and polycyclic organic matter. Therefore, at proposal we conducted a three-tier screening assessment of the potential adverse environmental risks associated with emissions of these pollutants. Based on this assessment (through Tier 2), there were no exceedances of any of the ecological benchmarks evaluated for any of the pollutants, and we proposed that we do not expect an adverse environmental effect as a result of HAP emissions from this source category.</P>
+                <P>We weighed all health risk factors, including those shown in Table 2 of this preamble, in our risk acceptability determination and proposed that the residual risks from the Stationary Combustion Turbines source category are acceptable (section IV.B.1 of proposal preamble, 84 FR 15062, April 12, 2019). We then considered whether 40 CFR part 63, subpart YYYY provides an ample margin of safety to protect public health and prevents, taking into consideration costs, energy, safety, and other relevant factors, an adverse environmental effect. In considering whether the standards should be tightened to provide an ample margin of safety to protect public health, we considered all health factors evaluated in the risk assessment and evaluated the cost and feasibility of available control technologies and other measures (including the controls, measures, and costs reviewed under the technology review) that could be applied to this source category to further reduce the risks (or potential risks) due to emissions of HAP identified in our risk assessment. In this analysis, we considered the results of the technology review, risk assessment, and other aspects of our MACT rule review to determine whether there are any emission reduction measures necessary to provide an ample margin of safety with respect to the risks associated with these emissions. Our risk analysis indicated the risks from the source category are low for both cancer and noncancer health effects, and, therefore, any risk reductions from further available control options would result in minimal health benefits. Moreover, as noted in our discussion of the technology review, no additional cost-effective measures were identified for reducing HAP emissions from affected sources in the Stationary Combustion Turbines source category. Thus, we determined that the current Stationary Combustion Turbines NESHAP provides an ample margin of safety to protect public health.</P>
+                <P>
+                    Our technology review focused on identifying developments in practices, processes, and control technologies that 
+                    <PRTPAGE P="13530"/>
+                    have occurred since the Stationary Combustion Turbines NESHAP was originally promulgated in 2004. Our review of the developments in technology for the Stationary Combustion Turbines source category did not reveal any changes that require revisions to the emission standards. The only add-on HAP emission control technology identified in the original NESHAP rulemaking was an oxidation catalyst. No new or improved add-on control technologies that reduce HAP emissions from turbines were identified during the technology review. Our review also did not identify any new or improved operation and maintenance practices, process changes, pollution prevention approaches, or testing and monitoring techniques for stationary combustion turbines. Therefore, we determined that no revisions are necessary pursuant to CAA section 112(d)(6).
+                </P>
+                <HD SOURCE="HD3">2. How did the risk review change for the Stationary Combustion Turbines source category?</HD>
+                <P>
+                    The only change in the risk assessment for the final rule is that the EPA modeled an additional 46 turbines that were identified in a public comment (Docket ID Item No. EPA-HQ-OAR-2017-0688-0116) as subject to the Stationary Combustion Turbines NESHAP. The emissions data used to model those additional turbines and the results of the modeling are discussed in the memorandum titled 
+                    <E T="03">Emissions Data Used in Modeling Files for Additional Turbines for Stationary Combustion Turbines Risk and Technology Review (RTR),</E>
+                     which is in the docket for this rulemaking (Docket ID No. EPA-HQ-OAR-2017-0688). The modeling input files are also available in the docket. The risks for the additional turbines were all lower than the risks for the turbines modeled for the proposed rule, so the additional risk analysis did not result in changes to our proposed decisions on risk acceptability, ample margin of safety, and adverse environmental effect.
+                </P>
+                <HD SOURCE="HD3">3. What key comments did we receive on the risk review, and what are our responses?</HD>
+                <P>
+                    We received comments in support of and against the proposed residual risk review and our determination that no revisions were warranted under CAA section 112(f)(2) for the Stationary Combustion Turbines source category. Generally, the comments that were not supportive of the determination from the risk review suggested changes to the underlying risk assessment methodology. For example, some commenters stated that the EPA should lower the acceptability benchmark so that risks below 100-in-1 million are unacceptable, include emissions outside of the source categories in question in the risk assessment, and assume that pollutants with noncancer health risks have no safe level of exposure. After review of all the comments received, we determined that no changes were necessary. The comments and our specific responses can be found in the document, 
+                    <E T="03">National Emission Standards for Hazardous Air Pollutants from Stationary Combustion Turbines (40 CFR part 63, subpart YYYY) Residual Risk and Technology Review, Final Amendments: Summary of Public Comments and Responses on Proposed Rule,</E>
+                     available in the docket for this action (Docket ID No. EPA-HQ-OAR-2017-0688).
+                </P>
+                <HD SOURCE="HD3">4. What is the rationale for our final approach and final decisions for the risk review?</HD>
+                <P>As noted in our proposal, the EPA sets standards under CAA section 112(f)(2) using a two-step standard-setting approach, with an analytical first step to make a risk-acceptability determination that considers all health information, including risk estimation uncertainty, and includes a presumptive limit on MIR of approximately 1-in-10 thousand (see 54 FR 38045, September 14, 1989). We weigh all health risk factors in our risk acceptability determination, including the cancer MIR, cancer incidence, the maximum cancer TOSHI, the maximum acute noncancer HQ, the extent of noncancer risks, the distribution of cancer and noncancer risks in the exposed population, and the risk estimation uncertainties.</P>
+                <P>Since proposal, neither the risk assessment nor our determinations regarding risk acceptability, ample margin of safety, or adverse environmental effects have changed, even considering the additional 46 turbines modeled. Therefore, for the reasons explained in the proposed rule, we determined that the risks from this source category are acceptable, and the current standards provide an ample margin of safety to protect public health and prevent an adverse environmental effect. Therefore, we are not revising this subpart to require additional controls pursuant to CAA section 112(f)(2) based on the residual risk review, and we are readopting the existing standards under CAA section 112(f)(2).</P>
+                <HD SOURCE="HD2">B. Technology Review for the Stationary Combustion Turbines Source Category</HD>
+                <HD SOURCE="HD3">1. What did we propose pursuant to CAA section 112(d)(6) for the Stationary Combustion Turbines source category?</HD>
+                <P>
+                    Pursuant to CAA section 112(d)(6), we conducted a technology review, which focused on identifying and evaluating developments in practices, processes, and control technologies for control of HAP emissions from stationary combustion turbines. No cost-effective developments in practices, processes, or control technologies were identified in our technology review to warrant revisions to the standards. More information concerning our technology review can be found in the 
+                    <E T="03">Technology Review for Stationary Combustion Turbines Risk and Technology Review (RTR)</E>
+                     memorandum, which is in the docket for this action (Docket ID No. EPA-HQ-OAR-2017-0688), and in the preamble for the proposed rule (84 FR 15046).
+                </P>
+                <HD SOURCE="HD3">2. How did the technology review change for the Stationary Combustion Turbines source category?</HD>
+                <P>The technology review has not changed since the proposal.</P>
+                <HD SOURCE="HD3">3. What key comments did we receive on the technology review, and what are our responses?</HD>
+                <P>
+                    We received both supportive and adverse comments on the proposed technology review. Most commenters supported the EPA's proposed technology review determination. The summarized comments and the EPA's responses are provided in the 
+                    <E T="03">National Emission Standards for Hazardous Air Pollutants from Stationary Combustion Turbines (40 CFR part 63, subpart YYYY), Residual Risk and Technology Review, Final Amendments, Summary of Public Comments and Responses on Proposed Rule</E>
+                     document referenced in section IV.A.3 of the preamble. The most significant adverse comments and the EPA's responses are also provided below.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     One commenter stated that the EPA reviewed only the technology used to limit formaldehyde in the technology review and does not evaluate selective catalytic reduction (SCR) or any other of the technologies identified as âdevelopmentsâ within the meaning of CAA section 112(d)(6), which is unlawful and arbitrary.
+                </P>
+                <P>
+                    The commenter stated that the EPA ignored other HAP controls in the technology reviewâsuch as wet controls (water or steam injection), lean premixed combustion, and SCRâwithout any rational explanation. The 
+                    <PRTPAGE P="13531"/>
+                    commenter noted that the EPA is aware of evidence showing that SCR can and does reduce HAP, such as benzene. The commenter cited a 2016 study, 
+                    <E T="03">Catalytic Destruction of a Surrogate Organic Hazardous Air Pollutant as a Potential Co-benefit for Coal-fired Selective Catalyst Reduction Systems</E>
+                     (C.W. Lee et al.), which found that âsignificant destruction of benzene occurred under a broad range of SCR operating conditions, suggesting that a large number of coalfired utility boilers which are equipped with SCR for NO
+                    <E T="52">X</E>
+                     control have potential to achieve reduction of organic HAP emissions as a co-benefit.â
+                </P>
+                <P>The commenter stated that the EPA must consider ways to reduce emissions through developments such as: Methods to assure more efficient use of turbines; use of lower HAP fuels; and/or alternative energy generation altogether through renewables and/or battery storage systems. According to the commenter, the EPA must consider battery storage in particular because this has the potential to increase efficiency and reduce emissions, and to reduce all of the turbine-based risks the EPA found to zero by reducing the emissions completely if paired with a renewable energy source such as solar. The commenter stated that the EPA does not evaluate or take into account any of these developments, and this is unlawful, arbitrary, and capricious under CAA section 112(d)(6).</P>
+                <P>The commenter noted that there are also developments in volatile organic compounds, acid gas, and metal controls, leak detection and repair, and monitoring that the EPA must consider and ensure that the standards âtak[e] into accountâ for this source category and these facilities. The commenter stated that since the EPA finalized the original standards, the EPA has recognized such developments in other contexts. The commenter concluded that the EPA would violate CAA section 112(d)(6) by failing to consider and account for the âdevelopmentsâ in fenceline monitoring, leak detection and repair, and pollution controlsâparticularly where data show significant health risks from a range of emitted pollutants, including cancer, chronic noncancer, and acute risk. The commenter stated that refusing to consider these developments is also arbitrary. The commenter explained that many facilities that include turbines are similar to refineries, in their significant potential for leaks and emission spikes that cause health and safety threats, and in their complexity. The commenter concluded that all of the developments discussed are readily available, would improve emission control, reduce health risks and refusing to consider them and revise the standards to âaccountâ for them would be unlawful and arbitrary.</P>
+                <P>Conversely, another commenter stated that, setting aside whether fenceline monitoring technology constitutes a âdevelopmentâ under CAA section 112(d)(6), it would be arbitrary and capricious to adopt fenceline monitoring requirements for stationary combustion turbines as part of this RTR. Fenceline monitoring is used to identify sources of fugitive emissions. According to the commenter, stationary combustion turbines do not have fugitive HAP emissions. According to the commenter, even if some combustion turbine facilities may also contain other equipment with the potential for fugitive emissions, such as natural gas transmission pipelines, that other equipment is not part of the source category under review here and cannot be the basis for new requirements adopted pursuant to CAA section 112(d)(6) review for combustion turbines.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     The EPA disagrees with the commenter that it only reviewed technologies used to limit formaldehyde emissions. As discussed in the memorandum, 
+                    <E T="03">Technology Review for Stationary Combustion Turbines Risk and Technology Review (RTR)</E>
+                     (Docket ID Item No. EPA-HQ-OAR-2017-0688-0066), the EPA reviewed a variety of sources of information during the technology review. Those sources of information included the EPA's RACT/BACT/LAER Clearinghouse (RBLC), construction and operating permits for stationary combustion turbines, information provided by owners and operators of stationary combustion turbines, and manufacturers of emission control technologies and testing equipment. The review was not limited to technologies that limit formaldehyde emissions, as evidenced by the RBLC search criteria documented in Appendix A of the memorandum and the questions asked of industry stakeholders described in Appendix B of the memorandum.
+                </P>
+                <P>
+                    The 2016 study cited by the commenter as evidence that SCR reduces HAP such as benzene evaluated the HAP reductions from SCR applied to simulated coal combustion flue gases. The chemical composition of the coal combustion flue gases is very different from the chemical composition of the exhaust from stationary combustion turbines, and there is no evidence provided that the use of SCR in coal combustion exhaust and the resulting catalytic chemical reactions that cause the destruction of benzene would occur in the same way if SCR is applied to stationary combustion turbines. The information provided to the EPA regarding âdual-purposeâ catalysts that include SCR for nitrogen oxides (NOx) removal and oxidation for carbon monoxide (CO) and HAP removal indicates that the HAP reduction occurs due to the oxidation and not from the SCR.
+                    <SU>5</SU>
+                    <FTREF/>
+                     The commenter did not provide any evidence that water or steam injection would reduce HAP emissions, or that fuels that lead to lower HAP emissions have been developed. Lean premix combustion is not a new technology (and is one of the subcategories established in the original 2004 40 CFR part 63, subpart YYYY rulemaking) and the commenter did not provide any evidence that there have been any developments in the technology. As discussed in the memorandum cited above, the trade organization representing gas turbine manufacturers indicated that there have not been any changes in turbine design since the 2004 rulemaking. We disagree that the EPA must consider alternative energy generation altogether through renewables and/or battery storage and that the use of batteries if paired with renewable energy such as solar would reduce emissions completely. The commenter's suggested technology (renewables and batteries) is not a revision to the emissions standard for the Stationary Combustion Turbines source category, which is what the EPA is required to review and revise as appropriate, under CAA section 112(d)(6). The commenter is suggesting elimination of combustion turbines as a source category and that is beyond the scope of this rulemaking. Even if such an approach were an appropriate ârevisionâ of the emission standards for combustion turbines under CAA section 112(d)(6), the commenter did not provide any information to show that using renewables or battery storage has been demonstrated on the scale that would be needed to replace the generation produced by the combustion turbines subject to subpart YYYY.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âSee the memorandum, 
+                        <E T="03">Technology Review for Stationary Combustion Turbines Risk and Technology Review (RTR)</E>
+                         (Docket ID Item No. EPA-HQ-OAR-2017-0688-0066).
+                    </P>
+                </FTNT>
+                <P>
+                    Regarding the comment that the EPA should consider leak detection and repair and fenceline monitoring requirements, the EPA notes that those requirements were included in the NESHAP for Petroleum Refineries (40 CFR part 63, subpart CC). Those requirements for refineries target refinery MACT-regulated fugitive emission sources (
+                    <E T="03">e.g.,</E>
+                     storage tanks, 
+                    <PRTPAGE P="13532"/>
+                    equipment leaks, and wastewater). Fenceline monitoring, as discussed in the preamble to the proposed Petroleum Refinery rule (79 FR 36920), may identify significant increases in emissions, but small increases in emissions are unlikely to impact the fenceline concentrations. Fenceline monitoring would not be beneficial for the Stationary Combustion Turbines source category because stationary turbines have very low fugitive HAP emissions and their operation does not involve storage and transport of large volumes of volatile organic materials unlike the refinery sector. The potential for fugitive volatile organic HAP emissions, as a result of the reduced amount of transport and the reduced storage of volatile organic materials, is vastly lower.
+                </P>
+                <HD SOURCE="HD3">4. What is the rationale for our final approach for the technology review?</HD>
+                <P>
+                    We evaluated all of the comments on the EPA's technology review and determined that no changes to the review are needed based on the comments. For the reasons explained in the proposed rule, we determined that no cost-effective developments in practices, processes, or control technologies were identified in our technology review to warrant revisions to the standards. More information concerning our technology review and how we evaluate cost effectiveness can be found in the 
+                    <E T="03">Technology Review for Stationary Combustion Turbines Risk and Technology Review (RTR)</E>
+                     memorandum, which is in the docket for this action (Docket ID No. EPA-HQ-OAR-2017-0688), and in the preamble for the proposed rule (84 FR 15046). Therefore, pursuant to CAA section 112(d)(6), we are finalizing our technology review as proposed.
+                </P>
+                <HD SOURCE="HD2">C. SSM Provisions for the Stationary Combustion Turbines Source Category</HD>
+                <HD SOURCE="HD3">1. What did we propose for the Stationary Combustion Turbines source category?</HD>
+                <P>
+                    In its 2008 decision in 
+                    <E T="03">Sierra Club</E>
+                     v. 
+                    <E T="03">EPA,</E>
+                     551 F.3d 1019 (D.C. Cir. 2008), the court vacated portions of two provisions in the EPA's CAA section 112 General Provisions regulations governing the emissions of HAP during periods of SSM. Specifically, the court vacated the SSM exemption contained in 40 CFR 63.6(f)(1) and 40 CFR 63.6(h)(1), holding that under section 302(k) of the CAA, emissions standards or limitations must be continuous in nature and that the SSM exemption violates the CAA's requirement that some CAA section 112 standards apply continuously.
+                </P>
+                <P>
+                    The EPA proposed to revise provisions related to SSM that are not consistent with the requirement that standards apply at all times. More information concerning our proposal on SSM can be found in the proposed rule (84 FR 15046). As discussed in the proposal, the EPA proposed an operational standard in lieu of a numeric emission limit during periods of startup, in accordance with CAA section 112(h). The EPA proposed that during turbine startup, owners and operators must minimize the turbine's time spent at idle or holding at low load levels and minimize the turbine's startup time to a period needed for appropriate and safe loading of the turbine, not to exceed 1 hour for simple cycle stationary combustion turbines and 3 hours for combined cycle stationary combustion turbines, after which time the formaldehyde emission limitation of 91 ppbvd at 15-percent O
+                    <E T="52">2</E>
+                     would apply. We did not propose a different standard that would apply during shutdown.
+                </P>
+                <HD SOURCE="HD3">2. How did the SSM provisions change for the Stationary Combustion Turbines source category?</HD>
+                <P>In the final rule, we revised aspects of the operational standard for startup from the proposal based on public comments. We removed the language specifying that the owner or operator must minimize the turbine's time spent at idle or holding at low levels and minimize the turbine's startup time to a period needed for appropriate and safe loading of the turbine. We have also added a definition for startup that is specific to stationary combustion turbines, rather than using the general definition in the General Provisions (subpart A) of 40 CFR part 63. The definition specifies that startup begins at the first firing of fuel in the stationary combustion turbine.</P>
+                <P>
+                    In response to comments regarding the proposed operational standard for startup and the proposed conclusion that a standard for shutdown is not necessary, the EPA evaluated Acid Rain Program hourly emissions data for stationary combustion turbines from 2018.
+                    <SU>6</SU>
+                    <FTREF/>
+                     The stabilization of NOx emissions, an indicator of stable combustion and post-combustion processes, was used to determine startup and shutdown times for turbines subject to 40 CFR part 63, subpart YYYY. Based on the Acid Rain Program emissions data, the EPA determined that the majority of turbine startup times were less than 1 hour for simple cycle turbines and the majority of startup times were less than 3 hours for combined cycle turbines. Upper prediction limits for the best performers for startup time were also determined following statistical methods used to define upper prediction limits for MACT emission standards (
+                    <E T="03">e.g.,</E>
+                     methods detailed in the memorandum, 
+                    <E T="03">CO CEMS MACT Floor Analysis August 2012 for the Industrial, Commercial, and Institutional Boilers and Process Heaters National Emission Standards for Hazardous Air Pollutants Major Source,</E>
+                     Docket ID Item No. EPA-HQ-OAR-2002-0058-3877). Upper prediction limits were less than 1 hour for simple cycle turbines and less than 3 hours for combined cycle turbines regardless of startup type (
+                    <E T="03">i.e.,</E>
+                     cold, warm, and hot starts). Additionally, the majority of shutdown times were less than 30 minutes for both simple cycle and combined cycle turbines. Finally, utilizing oxidation catalyst had minimal effect on startup and shutdown times.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âSee the memorandum titled 
+                        <E T="03">Stationary combustion turbine startups and shutdowns based on Acid Rain Program CEMS data,</E>
+                         which can be found in the rulemaking docket (Docket ID No. EPA-HQ-OAR-2017-0688).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">3. What key comments did we receive on the SSM provisions, and what are our responses?</HD>
+                <P>
+                    <E T="03">Comment:</E>
+                     Commenters stated that the proposed rule does not define what constitutes the period of startup, including the beginning and the ending. The commenters added that 40 CFR part 63 defines startup as âthe setting in operation of an affected source or portion of an affected source for any purpose.â The commenters stated that this definition is vague and does not specify when startup ends. The commenters suggested that the EPA provide a definition of startup as it applies to simple cycle and combined cycle combustion turbines. A commenter also stated that some combined cycle combustion turbines can operate in simple cycle mode. Therefore, the EPA also needs to address these types of turbines in the definitions or the standard itself, according to the commenter. A commenter added that the definition used in the standard should not interfere with the definition of startup in other parts of the CAA or in operating permits, nor should it constrain normal operations. The commenter specifically suggested that the EPA revise the operational standard to apply only upon the first firing of fuel in the combustion turbine.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The EPA agrees with the commenters that it would be appropriate to define startup as beginning at the first firing of fuel in the stationary combustion turbine and to 
+                    <PRTPAGE P="13533"/>
+                    specify when the startup standard ends. The EPA has specified different startup times for simple cycle and combined cycle turbines, as discussed elsewhere in this section. For simple cycle turbines, the EPA has specified in the final rule that startup ends when the stationary combustion turbine has reached stable operation or after 1 hour, whichever is less. For combined cycle turbines, startup ends when the stationary combustion turbine has reached stable operation or after 3 hours, whichever is less. If a turbine in a combined cycle configuration is operating as a simple cycle turbine, it must follow the requirements for simple cycle turbines. Regarding the comment that the definition should not interfere with the definition of startup in other parts of the CAA or in operating permits or constrain normal operations, the EPA does not anticipate any interference. As discussed elsewhere in this section, the standard is based on turbine startup times gathered from emissions data, and it also allows the turbine to take longer to start up if needed (while requiring that the turbine meet the applicable formaldehyde limit).
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     Many commenters expressed support for the establishment of the operational standard during startup operations but asserted that the EPA must allow more time for certain startup operations for combined cycle stationary combustion turbines. Some commenters stated that they believe the record does not demonstrate the feasibility of a 3-hour startup time for combined cycle units. They added that it appears the 3-hour limit was taken from a document from the Gas Turbine Association (Docket ID Item No. EPA-HQ-OAR-2017-0688-0033). These commenters stated that while this document discusses a period of 3 hours for startup, the document also discusses the wide range of variability in the time needed. Several commenters explained that the startup time for a combined cycle turbine is impacted by its integration with other site facilities and the type of startup. Some commenters cited specific instances when additional startup time beyond what was proposed for combined cycle turbines may be expected, including:
+                </P>
+                <P>â¢ Startups following extended downtime or a unit turnaround which commenters asserted may take up to 10 hours. A commenter provided a list of nine major steps for startup following a unit turnaround in their comment letter to support the need for additional startup time;</P>
+                <P>â¢ startup involving combined heat and power units as the startup typically involves purging and setup of the heat recovery steam generator, followed by gas speed-up and loading, followed by the steam turbine speedup and loading;</P>
+                <P>
+                    â¢ various types of startup including a âwarmâ start (
+                    <E T="03">i.e.,</E>
+                     when the steam turbine first stage or reheat inner metal temperature is between 400 and 700 degrees Fahrenheit) and a âcoldâ start (
+                    <E T="03">i.e.,</E>
+                     when the steam turbine first stage or reheat inner metal temperature is less than 400 degrees Fahrenheit). One commenter reviewed operating data from 2017-2019 for some of its stationary combined cycle combustion turbines, noting that 32 out of 82 âwarmâ startups exceeded a 3-hour duration with an average duration of 3.3-4 hours, and all 23 of the âcoldâ startups exceeded the 3-hour duration with an average duration of 5-6 hours. Another commenter stated that member companies will be submitting facility-specific data showing the impact of startup type on duration;
+                </P>
+                <P>â¢ startup involving gas fuel turbines integrated with other systems associated with multiple boilers to produce electricity and steam for a large manufacturing complex; and</P>
+                <P>â¢ pre-startup commissioning activities and initial startup at liquid natural gas terminals.</P>
+                <FP>These commenters suggested that the EPA provide additional time in the startup operational standard for combined cycle turbines.</FP>
+                <P>
+                    Some commenters suggested that 4 hours be provided in the standard. Other commenters suggested that the EPA allow 5.5 hours as the baseline with provisions for site-specific requests for additional time. Some commenters suggested that the final action should provide a procedure for the EPA or state permitting authorities to provide application of an alternative standard for combined cycle turbines if an operator demonstrates that it is needed. A commenter suggested that the EPA allow between 6-8 hours in the standard. Another commenter suggested that the EPA allow up to 10 hours in the standard. One commenter suggested that, consistent with their state operating permit requirements and due to the unique nature of their operations, the EPA should allow up to 12 hours in the standard. Another commenter added that the EPA could provide different time frames if they differentiated between different startup types (
+                    <E T="03">i.e.,</E>
+                     provide the most time for cold startups and the least time for hot startups).
+                </P>
+                <P>Alternatively, other commenters suggested that the EPA could maintain the 3-hour standard for combined cycle turbines but allow a more extended startup time to facilities if they document the need for the additional startup time; maintain associated records; provide semi-annual reporting; and take steps during the startup to minimize emissions consistent with good air pollution control practices.</P>
+                <P>Commenters suggested the standard should require that owners and operators of combined cycle units minimize the time the turbines spend at idle or low load operations, and that they complete the startup process while operating the equipment in a manner consistent with good air pollution control practices for minimizing emissions, rather than having the EPA impose a one-size-fits-all hour limit. One commenter suggested that the end of the startup period should be when the unit begins to operate in ânormal modeâ as signaled from the turbine control system. Commenters also suggested that if the EPA maintains an hour limit, the standard should be amended to exclude malfunctions encountered during startup from the calculation of the startup time as such events could cause sources to exceed the window.</P>
+                <P>
+                    One commenter recommended that the final rule not supersede site-specific requirements with a one-size-fits-all approach. The commenter suggested that the final standard include approved procedural work practices to provide additional assurance of an efficient and expeditious startup process (
+                    <E T="03">i.e.,</E>
+                     a procedural startup work practice could specify that ammonia injection would begin when the catalyst temperature meets a certain minimum temperature). According to the commenter, these procedural work practices can be maintained, submitted, and approved by the administrator outside of the air permit to minimize permit changes similar to the way quality assurance/quality control manuals are handled.
+                </P>
+                <P>One commenter suggested that if a more generic startup requirement cannot not be implemented, the EPA should address any imposition of a time limit for startup of a reconstructed combined cycle unit on a case-by-case basis in recognition of the diverse combined cycle plant designs and how such designs impact the rate at which startup can be achieved.</P>
+                <P>
+                    As with the proposed operational standard for combined cycle turbines, several commenters expressed support for the proposed operational standard for simple cycle turbines during startup but expressed concern with the amount of time provided for startup. Commenters noted that 1 hour for a simple cycle turbine is sufficient in most cases, however, the commenter explained that the EPA should provide 
+                    <PRTPAGE P="13534"/>
+                    additional time for extenuating circumstances including the startup of associated post-combustion control technology which can take over an hour to warm-up and achieve the required destruction rate. One commenter added that initial commissioning or maintenance may require additional startup time. The commenter suggested that the EPA allow longer startup times and require facilities utilizing a longer startup time to document the circumstance in their periodic report to ensure there was a reasonable basis.
+                </P>
+                <P>Similarly, other commenters stated that more time should be provided for simple cycle turbines and suggested that the EPA provide 2 hours consistent with some state permits. One commenter asserted that the federal requirements should not contradict state operating permit conditions already in place which provide more time than the proposed rule. Commenters stated that the final action should provide a procedure for the EPA or state permitting authority to provide application of an alternative standard if an operator demonstrates that it is needed.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     In the final action, the definition of startup is specified to begin at the initial combustion of fuel in the turbine. Other operations prior to this event are not included in the time period allocated for startup in this rule.
+                </P>
+                <P>
+                    In response to the comments that the proposed time limit for startup in the operational standard for startup was not sufficient, as discussed previously in this section, the EPA reviewed continuous emission monitoring systems (CEMS) data from 2018 for 182 turbines subject to 40 CFR part 63, subpart YYYY. This includes both simple and combined cycle turbines representing a range of different designs. The analysis is documented in the memorandum titled 
+                    <E T="03">Stationary Combustion Turbine Startups and Shutdowns Based on Acid Rain Program CEMS Data,</E>
+                     which can be found in the rulemaking docket (Docket ID No. EPA-HQ-OAR-2017-0688). As discussed in the memorandum, the stabilization of NO
+                    <E T="52">X</E>
+                     emission rates indicates stable operation (
+                    <E T="03">i.e.,</E>
+                     of combustion and post-combustion controls) and was used to determine the length of startup and shutdown periods. For simple cycle turbines, 90 percent of startups were less than 1 hour for stabilization of emissions for all startup types (
+                    <E T="03">i.e.,</E>
+                     âcold,â âwarm,â âhotâ; turbine out of operation for more than 48 hours, 8-48 hours, and 0-8 hours, respectively). For combined cycle turbines, 90 percent of âwarmâ and âhotâ startups were less than 3 hours and 72 percent of âcoldâ startups were less than 3 hours.
+                </P>
+                <P>
+                    In a second part of the analysis, the EPA reviewed CEMS data from 2018 for turbines with oxidation catalyst. For simple cycle turbines with oxidation catalyst, 80 percent of cold startups, 76 percent of warm startups, and 93 percent of hot startups were less than 1 hour. For combined cycle turbines with oxidation catalyst, at least 93 percent of startups were less than 3 hours for each startup type. Finally, in all cases the 99-percent upper prediction limits for startup of turbines were within the proposed time limits (at most 0.92 hours for cold starts for simple cycle turbines with oxidation catalyst and 2.93 hours for cold starts for combined cycle turbines subject to 40 CFR part 63, subpart YYYY). Upper prediction limits were determined for the best performing turbines in terms of startup time based on NO
+                    <E T="52">X</E>
+                     emission stabilization.
+                </P>
+                <P>
+                    As noted in the memorandum, NO
+                    <E T="52">X</E>
+                     emissions were not used as a surrogate for HAP emissions. Rather, NO
+                    <E T="52">X</E>
+                     emissions were only used as an indicator for when stabilization of combustion and post-combustion processes may occur. Collectively, the analyses demonstrate that time limits in the proposed operational standards for startup are justified. Furthermore, upper prediction limits for the startup time to stabilization of NO
+                    <E T="52">X</E>
+                     emissions were near the startup time limits of 1 hour for simple cycle turbines and 3 hours for combined cycle turbines, suggesting that the startup time limits are generally neither too short nor too long with respect to emissions stabilization.
+                </P>
+                <P>Based on the review of CEMS data, the EPA determined that the proposed time limits for the application of the operational standard for startup are reasonable and consistent with what the best performers achieve. Therefore, the EPA is not changing the proposed time limits based on public comments. Regarding the comments that the EPA should address time limits on a case-by-case basis, if situations occur that warrant an alternative standard, the owner/operator can request an alternative standard pursuant to the requirements specified in CAA section 112(h)(3) and 40 CFR 63.6(g).</P>
+                <P>
+                    <E T="03">Comment:</E>
+                     Commenters stated that the requirement within the proposed operational standard to âminimize the turbine's time spent at idle or holding at low load levelsâ is problematic in their opinion.
+                </P>
+                <P>
+                    One commenter stated that greater clarity is needed between what is termed âstartupâ and what is termed âidleâ in the process. The commenter explained that startup by its very nature begins at âlow load levelsâ before the turbine is safely loaded and questioned where is the dividing line between which levels are considered startup and which levels are considered idle, or, alternatively, at what point in time do low load levels of startup become idle low load levels? The commenter stated that implicit in the proposed distinction seems to be the assumption that operators would run a turbine at âidleâ for unknown reasons during the startup process. The commenter asserted that this is contrary to generally accepted operating practices. See, 
+                    <E T="03">e.g.,</E>
+                      
+                    <E T="03">Sierra Club</E>
+                     v. 
+                    <E T="03">EPA,</E>
+                     884 F.3d 1185, 1203 (D.C. Cir. 2018) (âBoiler operators lack incentives to combust fuel for no useful purpose, simply as a means to avoid engaging pollution controls, so presumably they do not tarry in heating their equipment to that point.â).
+                </P>
+                <P>
+                    One commenter stated that the terms âidleâ and âholding at low load levelsâ have not been defined. The commenter asserted that without defining these terms and how the EPA intends for units to measure compliance with the operational standard, it is unclear what standards combustion turbine operators need to meet outside of their existing permit terms. The commenter stated that the proposed language in Table 1 to 40 CFR part 63, subpart YYYY, therefore, creates confusion as to whether these combustion turbines can continue to operate as intended. Other commenters explained that combustion turbines are often designed, built, permitted, and operated to be load-following and to sometimes idle or be held at low load, when necessary, to enable faster ramping as support for intermittent renewable resources (
+                    <E T="03">e.g.,</E>
+                     solar panels). A commenter stated that some operators may need to hold a combustion turbine at low load to allow the heat recovery steam generator and steam turbine associated with a combined cycle to reach normal operating temperature. According to the commenter, the metal in the steam turbine must be warmed in a controlled manner to allow the proper expansion of moving parts. The commenter stated that once the heat recovery steam generator and steam turbine metal are properly warmed and expanded, the combined cycle can, at that time, ramp up load to meet demand. The commenter contended that any artificial restrictions on the amount of minimum operating time allowed may require turbine operators to risk damaging critical equipment. The commenter added that good engineering practices require testing at low loads following a planned maintenance outage to ensure 
+                    <PRTPAGE P="13535"/>
+                    the equipment is operating safely and performing as expected. The commenter stated that some manufacturers require this type of testing as part of contractual agreement. Therefore, the commenter suggested that the operational standard be revised as follows: âDuring turbine startup, you must minimize the turbine's time needed to achieve the operating limitations provided in Table 2, taking into account the appropriate and safe loading of the turbine and auxiliary equipment, not to exceed 1 hour for simple cycle stationary combustion turbines and 3 hours for combined cycle stationary combustion turbines, after which time the operating limitation and continuous compliance requirements in Table 2 and 5 apply.â Another commenter provided an example of a Prevention of Significant Deterioration permit that has specifically authorized operation at low loads in order to provide fast-ramping capacity to support the integration of renewable resources (
+                    <E T="03">e.g.,</E>
+                     Maricopa County Air Quality Permit Department, Title V Permit No. V95-007, âOcotillo PSD Permitâ). The commenter noted that the permit conditions clearly distinguish between âstartupâ and operation at low load. The commenter also noted that the EPA's Environmental Appeals Board reviewed and approved the Prevention of Significant Deterioration limits in this permit.
+                </P>
+                <P>One commenter suggested that the EPA amend the proposed language to allow adequate time to ensure safe loading of the turbine even if it is beyond the otherwise applicable startup time limits.</P>
+                <P>Another commenter stated that, at a minimum, the standard should not be written to prohibit low loads, especially if the unit is equipped with an oxidation catalyst and can meet its 4-hour average catalyst inlet temperature operating limit during low load operation.</P>
+                <P>One commenter recommended that the EPA either eliminate the proposed requirement, âminimize the turbine's time spent at idle or holding at low load levelsâ or clarify the proposed language by replacing the phrase âtime spent at idle or holding at low load levelsâ with the phrase âoperating time outside normal operations.â</P>
+                <P>Other commenters concluded that the EPA should not finalize this requirement as part of the operational standard.</P>
+                <P>One commenter encouraged the EPA to revise the operational standard for startup in a manner that distinguishes between continuous, stable operation at low loads and true startup conditions.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     Based on these comments, the EPA is not finalizing the proposed requirement to minimize a turbine's time spent at idle or holding at low load levels. As stated by the commenters, some turbines are designed and permitted to operate at idle or low load conditions. For the final rule, there will not be an operational requirement to minimize time spent operating in an idle or low load status. Operation in such a status (except during startup) will be treated as normal operation and will not have a separate standard. As discussed elsewhere in this section, the EPA has clarified the definition for startup to distinguish the beginning and end of the startup operational standard.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     One commenter noted that 40 CFR 63.6125 states, âIf you are operating a stationary combustion turbine that is required to comply with the formaldehyde emission limitation and you use an oxidation catalyst emission control device, you must monitor on a continuous basis your catalyst inlet temperature in order to comply with the operating limitation in Table 2 and as specified in Table 5 of this subpart.â The commenter then pointed out that Tables 2 and 5 refer to the calculation of a 4-hour rolling average catalyst inlet temperature. The commenter explained that the catalyst must achieve a certain inlet temperature before formaldehyde emissions are controlled, so the inlet temperature monitoring should begin at the conclusion of startup. The commenter suggested that the EPA clarify that the calculation of the 4-hour rolling average begins at the start of the first full clock hour after startup.
+                </P>
+                <P>
+                    For the same reasons (
+                    <E T="03">i.e.,</E>
+                     turbines using an oxidation catalyst will need time to reach the desired temperature), other commenters suggested that the EPA clarify that the operating limitations in Table 2 do not apply during startup. These commenters also suggested that the operating limits in Table 2 not apply during shutdown as the inlet temperature may fall below the desired level as the combustion turbine transitions out of operation.
+                </P>
+                <P>One commenter also requested that the EPA clarify that the demonstration of continuous compliance with the operating limits specified in Table 5 do not include hours containing SSM in the calculation. The commenter recommended that the EPA revise the operating limitations in Table 5 of 40 CFR part 63, subpart YYYY to include the following language, âAny hour during which the startup work practice standard is applicable or during which shutdown or malfunction occurs must not be included in the calculation to demonstrate continuous compliance with the operating limitation.â</P>
+                <P>
+                    <E T="03">Response:</E>
+                     The EPA agrees with the commenter that the catalyst inlet temperature operating limitation should not apply during startup, since the catalyst needs time to heat up to the required temperature. The EPA has revised the rule to reflect this change. The EPA does not agree that the catalyst inlet temperature recorded during periods of shutdown should not be included in the 4-hour rolling average catalyst inlet temperature used for compliance with the catalyst inlet temperature operating limitation. Our information is that shutdown periods are usually brief and there is no information that the catalyst temperature would fall below the required levels while the turbine is still operating. Since compliance with the operating limitation is demonstrated on a 4-hour rolling average, factoring in brief periods of shutdown should not result in exceedances of the operating limitation.
+                </P>
+                <P>
+                    With respect to malfunctions, the EPA is not establishing separate emission standards for periods of malfunction and the formaldehyde emission standards and the associated catalyst inlet temperature monitoring requirements apply during periods of malfunction. Therefore, we did not accept the commenter's recommendation that the catalyst inlet temperature during a malfunction should be excluded from the calculation of the 4-hour rolling average catalyst inlet temperature. The EPA also notes that catalyst inlet temperatures may not be affected by all types of malfunction. In addition, as discussed in the proposed rule, if a source fails to comply with a requirement as a result of a malfunction event, the EPA would determine an appropriate response and if the EPA determines in a particular case that an enforcement action against a source for violation of an emission standard is warranted, the source can raise any and all defenses in that enforcement action. Administrative and judicial procedures for addressing exceedances of the standards fully recognize that violations may occur despite good faith efforts to comply and can accommodate those situations. 
+                    <E T="03">U.S. Sugar Corp.</E>
+                     v. 
+                    <E T="03">EPA,</E>
+                     830 F.3d 579, 606-610 (2016).
+                </P>
+                <HD SOURCE="HD3">4. What is the rationale for our final approach for the SSM provisions?</HD>
+                <P>
+                    For the reasons explained in the proposed rule (84 FR 15046), these amendments revise provisions related to SSM that are not consistent with the requirement that the standards must apply at all times. We evaluated all of the comments received on the EPA's 
+                    <PRTPAGE P="13536"/>
+                    proposed amendments to the SSM provisions and made some changes to the proposed amendments for the reasons stated above and in the 
+                    <E T="03">Summary of Public Comments and Responses</E>
+                     document. We are finalizing the proposed amendments to revise provisions related to SSM, as revised based on public comments.
+                </P>
+                <HD SOURCE="HD2">D. Electronic Reporting Requirements for the Stationary Combustion Turbines Source Category</HD>
+                <HD SOURCE="HD3">1. What did we propose for the Stationary Combustion Turbines source category?</HD>
+                <P>The April 12, 2019, proposal included requirements for owners and operators of stationary combustion turbines subject to 40 CFR part 63, subpart YYYY to submit electronic copies of required performance test results and semiannual compliance reports through the EPA's CDX using CEDRI. The original 2004 rule did not include any requirements for electronic reporting.</P>
+                <HD SOURCE="HD3">2. How did the electronic reporting requirements change for the Stationary Combustion Turbines source category?</HD>
+                <P>The proposed amendments to require owners and operators to submit performance test results and semiannual compliance reports through the EPA's CDX using CEDRI are being finalized with minor corrections and clarifications. The language at 40 CFR 63.6150(a) was amended from the proposal to specify that the electronic report submitted semiannually also incorporates the excess emissions and monitoring system performance reports. The delegation of authority provision at 40 CFR 63.6170(c) was amended to specify that the EPA does not delegate the authority to modify electronic reporting requirements to states, to ensure that the reported information is submitted to the EPA. Table 7 of 40 CFR part 63, subpart YYYY was modified to make inapplicable the requirements in 40 CFR 63.13 for submission of additional copies to the EPA Regional office for electronically submitted reports.</P>
+                <HD SOURCE="HD3">3. What key comments did we receive on the electronic reporting requirements, and what are our responses?</HD>
+                <P>
+                    <E T="03">Comment:</E>
+                     Commenters stated that the electronic reporting provisions should clarify the electronic reporting requirements as they relate to reports submitted to state agencies and should consider the increase in burden if owners/operators must submit reports to both entities rather than submitting one combined report to their delegated authority.
+                </P>
+                <P>One commenter stated that as proposed, the owner/operator would be required to submit one report to the EPA through the CEDRI system and then be required to prepare a written report for state agencies such as the Texas Commission on Environmental Quality to satisfy the regulatory reporting obligation, thus creating a redundant reporting requirement. The commenter requested that the final rule clarify whether the electronic reporting requirement also applies to affected sources that are not currently required to submit copies of reports to the EPA because they are located in states like Texas that have received delegation for NESHAP under 40 CFR part 63.</P>
+                <P>
+                    One commenter stated that when developing electronic reporting provisions, the EPA should work with other regulatory authorities (
+                    <E T="03">i.e.,</E>
+                     states, local agencies) to establish comparable or compatible electronic systems. The commenter noted that companies reporting electronically to the EPA will likely still have to submit hardcopy reports to other agencies that do not have electronic systems, thereby reducing or eliminating any burden savings associated with EPA electronic reporting. In one example, based on the template structure, an annual number for landfill gas fuel rate and heating values would be supplied to the EPA but monthly values would still have to be supplied to the state.
+                </P>
+                <P>One commenter stated that if the EPA finalizes a requirement for submission of electronic reports to CEDRI, the EPA should make inapplicable the requirement in 40 CFR 63.13 for submission of additional copies to the EPA Regional office. According to the commenter, submission to CEDRI should be deemed compliance with that requirement, because EPA Regional employees can access the reports on CEDRI. The commenter recommended that the EPA also should include a procedure for state agencies to similarly opt out of receiving a paper copy.</P>
+                <P>Similarly, one commenter noted that the EPA did not add an additional burden related to the requirement to report emissions test data using the ERT within the Supporting Statement for the Information Collection Request. The commenter stated that most state or local permitting authorities will still require submittal of a paper copy of the test report, so the ERT entry and electronic submittal to the EPA does not replace the submittal of a test report to the local agency.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     To clarify the EPA's intent that electronic reporting is required for all sources subject to the subpart, regardless of state, local, or tribal reporting requirements, the final rule has been amended at 63.6170(c) to add (6), that the EPA does not delegate authority for electronic reporting requirements. The EPA is not delegating the authority in order to ensure that the information required to be reported is received by the EPA. The reported information is needed for several purposes, including assessing compliance, developing emission factors (in the case of emissions data), and future reviews of the NESHAP. Table 7 has been revised for the final rule to reflect that 63.13(a) is only applicable to those reports not required to be submitted electronically.
+                </P>
+                <P>We acknowledge that certain sources may be required to submit a report electronically through CEDRI and a hard copy report to an air agency that has delegation to enforce the NESHAP. The ERT is designed to provide PDF or printed copies of reports, and these copies can be mailed to an air agency that does not wish to use the EPA's electronic reporting system. The burden associated with creating an emission test report is incorporated in the cost of the emission test presented in the Supporting Statement for the Information Collection Request (Docket ID Item No. EPA-HQ-OAR-2017-0688-0073). This includes the development of the test report through the ERT.</P>
+                <P>The EPA routinely discusses electronic reporting with air agencies and EPA Regional offices. Quarterly calls are conducted with EPA Regional offices to provide information that will be helpful in their outreach efforts to the air agencies in their regions. The EPA has performed demonstrations of the CEDRI reporting program and the ERT for EPA Regional offices and their associated air agencies, as well as for air agency groups like the Mid-Atlantic Regional Air Management Association.</P>
+                <P>
+                    Additionally, through the E-Enterprise's Combined Air Emissions Reporting (CAER) project, the EPA is working with air agencies to streamline multiple emissions reporting processes. Currently, air emissions information is collected by the EPA and air agencies through numerous separate regulations, in a variety of formats, according to different reporting schedules, and using multiple routes of data transfer. The CAER project seeks to reduce the cost to industry and government for providing and managing important environmental data. More information on CAER can be found at: 
+                    <E T="03">https://www.epa.gov/e-enterprise/e-enterprise-combined-air-emissions-reporting-caer.</E>
+                    <PRTPAGE P="13537"/>
+                </P>
+                <HD SOURCE="HD3">4. What is the rationale for our final approach for the electronic reporting requirements?</HD>
+                <P>
+                    The EPA evaluated all of the comments on the proposed electronic reporting requirements for this subpart. For the reasons explained in the proposed rule and this final rule, including the document in the docket summarizing the public comments and our responses,
+                    <SU>7</SU>
+                    <FTREF/>
+                     we are finalizing the amendments with minor changes.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        â
+                        <E T="03">National Emission Standards for Hazardous Air Pollutants from Stationary Combustion Turbines (40 CFR part 63, subpart YYYY) Residual Risk and Technology Review, Final Amendments, Summary of Public Comments and Responses on Proposed Rule,</E>
+                         January 2020.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">V. Summary of Cost, Environmental, and Economic Impacts and Additional Analyses Conducted</HD>
+                <HD SOURCE="HD2">A. What are the affected facilities?</HD>
+                <P>
+                    The EPA has identified 777 turbines at 243 facilities that are currently subject to the Stationary Combustion Turbines NESHAP. We are projecting that 51 new stationary combustion turbines at 20 facilities will become subject to the NESHAP over the next 3 years. The 51 new turbines include 48 natural gas-fired units, one oil-fired unit, and two landfill gas or digester gas-fired units. More information about the number of new turbines projected over the next 3 years can be found in the 
+                    <E T="03">Projected Number of Turbine Units and Facilities Subject to the Stationary Combustion Turbine National Emission Standards for Hazardous Air (NESHAP)</E>
+                     memorandum in the docket for this rulemaking (Docket ID No. EPA-HQ-OAR-2017-0688).
+                </P>
+                <HD SOURCE="HD2">B. What are the air quality impacts?</HD>
+                <P>The baseline emissions of HAP for 777 stationary combustion turbines at 243 facilities subject to 40 CFR part 63, subpart YYYY are estimated to be 5,466 tpy. The HAP that is emitted in the largest quantity is formaldehyde. The final amendments will require turbines subject to the Stationary Combustion Turbines NESHAP to operate without the SSM exemption. We were unable to quantify emission reductions associated with eliminating the SSM exemption. However, eliminating the SSM exemption will reduce emissions by requiring facilities to meet the applicable standard during periods of SSM. We are not making any other revisions to the emission limits, so there are no other air quality impacts as a result of the final amendments.</P>
+                <HD SOURCE="HD2">C. What are the cost impacts?</HD>
+                <P>Owners or operators of stationary combustion turbines that are subject to the amendments to 40 CFR part 63, subpart YYYY, will incur costs to review the final rule. Nationwide annual costs associated with reviewing the final rule are estimated to be a total of $42,362 (2017 dollars) for the first year after the final rule only, or approximately $174 (2017 dollars) per facility. We do not expect that the amendments revising the SSM provisions and requiring electronic reporting will impose additional burden and may result in a cost savings.</P>
+                <HD SOURCE="HD2">D. What are the economic impacts?</HD>
+                <P>Economic impact analyses focus on changes in market prices and output levels. If changes in market prices and output levels in the primary markets are significant enough, impacts on other markets may also be examined. Both the magnitude of costs needed to comply with a proposed rule and the distribution of these costs among affected facilities can have a role in determining how the market will change in response to a proposed rule. The total costs associated with reviewing the final rule are estimated to be $42,362 (2017 dollars), or $174 (2017 dollars) per facility, for the first year after the final rule. These costs are not expected to result in a significant market impact, regardless of whether they are passed on to the purchaser or absorbed by the firms.</P>
+                <HD SOURCE="HD2">E. What are the benefits?</HD>
+                <P>The EPA is not making changes to the emission limits and estimates that the changes to the SSM requirements and requirements for electronic reporting are not economically significant. Because these amendments are not considered economically significant, as defined by Executive Order 12866, and because no emission reductions were projected, we did not estimate any benefits from reducing emissions.</P>
+                <HD SOURCE="HD2">F. What analysis of environmental justice did we conduct?</HD>
+                <P>
+                    As discussed in the preamble to the proposed rule, to examine the potential for any environmental justice issues that might be associated with the source category, we performed a demographic analysis, which is an assessment of risks to individual demographic groups of the populations living within 5 kilometers (km) and within 50 km of the facilities. In the analysis, we evaluated the distribution of HAP-related cancer and noncancer risks from the Stationary Combustion Turbines source category across different demographic groups within the populations living near facilities. The results of this analysis indicated that this action does not have disproportionately high and adverse human health or environmental effects on minority populations, low-income populations, and/or indigenous peoples. The documentation for this decision is contained in section IV.A of the preamble to the proposed rule and the technical report titled 
+                    <E T="03">Risk and Technology Review</E>
+                    â
+                    <E T="03">Analysis of Demographic Factors for Populations Living Near Stationary Combustion Turbines Source Category Operations,</E>
+                     which is available in the docket for this action (Docket ID No. EPA-HQ-OAR-2017-0688).
+                </P>
+                <HD SOURCE="HD2">G. What analysis of children's environmental health did we conduct?</HD>
+                <P>
+                    This action's health and risk assessments are contained in sections IV.A and B of this preamble and further documented in the risk report titled 
+                    <E T="03">Residual Risk Assessment for the Stationary Combustion Turbines Source Category in Support of the 2020 Risk and Technology Review Final Rule,</E>
+                     which is available in the docket for this action (Docket ID No. EPA-HQ-OAR-2017-0688).
+                </P>
+                <HD SOURCE="HD1">VI. Statutory and Executive Order Reviews</HD>
+                <P>
+                    Additional information about these statutes and Executive Orders can be found at 
+                    <E T="03">https://www.epa.gov/laws-regulations/laws-and-executive-orders.</E>
+                </P>
+                <HD SOURCE="HD2">A. Executive Orders 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</HD>
+                <P>This action is not a significant regulatory action and was, therefore, not submitted to the Office of Management and Budget (OMB) for review.</P>
+                <HD SOURCE="HD2">B. Executive Order 13771: Reducing Regulations and Controlling Regulatory Costs</HD>
+                <P>This action is not an Executive Order 13771 regulatory action because this action is not significant under Executive Order 12866.</P>
+                <HD SOURCE="HD2">C. Paperwork Reduction Act (PRA)</HD>
+                <P>
+                    This action does not impose any new information collection burden under the PRA. OMB has previously approved the information collection activities contained in the existing regulations and has assigned OMB control number 2060-0540. We do not expect that the final amendments revising the SSM provisions and requiring electronic reporting will impose additional burden 
+                    <PRTPAGE P="13538"/>
+                    not already accounted for under the existing approved burden.
+                </P>
+                <HD SOURCE="HD2">D. Regulatory Flexibility Act (RFA)</HD>
+                <P>I certify that this action will not have a significant economic impact on a substantial number of small entities under the RFA. The small entities subject to the requirements of this action are small energy companies or governmental jurisdictions. The Agency has determined that 10 small entities representing approximately 4 percent of the total number of entities subject to the final rule may experience an impact of less than 0.1 percent of revenues.</P>
+                <HD SOURCE="HD2">E. Unfunded Mandates Reform Act (UMRA)</HD>
+                <P>This action does not contain an unfunded mandate of $100 million or more as described in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely affect small governments. The action imposes no enforceable duty on any state, local, or tribal governments or the private sector.</P>
+                <HD SOURCE="HD2">F. Executive Order 13132: Federalism</HD>
+                <P>This action does not have federalism implications. It will not have substantial direct effects on the states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among the various levels of government.</P>
+                <HD SOURCE="HD2">G. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</HD>
+                <P>This action does not have tribal implications as specified in Executive Order 13175. None of the stationary combustion turbines that have been identified as being affected by this action are owned or operated by tribal governments or located within tribal lands. Thus, Executive Order 13175 does not apply to this action.</P>
+                <HD SOURCE="HD2">H. Executive Order 13045: Protection of Children From Environmental Health Risks and Safety Risks</HD>
+                <P>This action is not subject to Executive Order 13045 because it is not economically significant as defined in Executive Order 12866, and because the EPA does not believe the environmental health or safety risks addressed by this action present a disproportionate risk to children. This action's health and risk assessments are contained in sections III.A and B and sections IV.A and B of this preamble, and further documented in the risk document.</P>
+                <HD SOURCE="HD2">I. Executive Order 13211: Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use</HD>
+                <P>This action is not subject to Executive Order 13211, because it is not a significant regulatory action under Executive Order 12866.</P>
+                <HD SOURCE="HD2">J. National Technology Transfer and Advancement Act (NTTAA) and 1 CFR Part 51</HD>
+                <P>
+                    This action involves technical standards. The EPA has decided to use ANSI/ASME PTC 19.10-1981 Part 10 (1981), âFlue and Exhaust Gas Analysesâ (the manual portion only) as an alternative to EPA Method 3B and to incorporate the alternative method by reference. The ANSI/ASME PTC 19.10-1981 Part 10 (1981) method incorporates both manual and instrumental methodologies for the determination of O
+                    <E T="52">2</E>
+                     content. The manual method segment of the O
+                    <E T="52">2</E>
+                     determination is performed through the absorption of O
+                    <E T="52">2</E>
+                    . The method is reasonably available from the American Society of Mechanical Engineers at 
+                    <E T="03">http://www.asme.org;</E>
+                     by mail at Three Park Avenue, New York, NY 10016-5990; or by telephone at (800) 843-2763. The EPA has decided to use ASTM D6522-11, âStandard Test Method for the Determination of Nitrogen Oxides, Carbon Monoxide, and Oxygen Concentrations in Emissions from Natural Gas-Fired Reciprocating Engines, Combustion Turbines, Boilers and Process Heaters Using Portable Analyzersâ as an alternative to EPA Method 3A for turbines fueled by natural gas and to incorporate the alternative method by reference. The ASTM D6522-11 method is an electrochemical cell based portable analyzer method which may be used for the determination of NO
+                    <E T="52">X</E>
+                    , CO, and O
+                    <E T="52">2</E>
+                     in emission streams form stationary sources. Also, instead of the current ASTM D6348-12e1 standard (âDetermination of Gaseous Compounds by Extractive Direct Interface Fourier Transform Infrared (FTIR) Spectroscopyâ), the Stationary Combustion Turbines NESHAP currently references ASTM D6348-03 as an alternative to EPA Method 320. We are updating the NESHAP to reference the most current version of the ASTM D6348 method as an alternative to EPA Method 320. When using this method, the test plan preparation and implementation requirements in Annexes A1 through A8 to ASTM D6348-12e1 are mandatory. The ASTM D6348-12e1 method is an extractive FTIR spectroscopy-based field test method and is used to quantify gas phase concentrations of multiple target compounds in emission streams from stationary sources. The ASTM standards are reasonably available from the American Society for Testing and Materials, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959. See 
+                    <E T="03">http://www.astm.org/.</E>
+                </P>
+                <P>
+                    The EPA identified an additional seven voluntary consensus standards (VCS) as being potentially applicable to this rule. After reviewing the available standards, the EPA determined that the seven VCS would not be practical due to lack of equivalency, documentation, validation data, and/or other important technical and policy considerations. For further information, see the memorandum titled 
+                    <E T="03">Voluntary Consensus Standard Results for National Emission Standards for Hazardous Air Pollutants: Stationary Combustion Turbines Risk and Technology,</E>
+                     in the docket for this rule (Docket ID No. EPA-HQ-OAR-2017-0688).
+                </P>
+                <HD SOURCE="HD2">K. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</HD>
+                <P>The EPA believes that this action does not have disproportionately high and adverse human health or environmental effects on minority populations, low-income populations, and/or indigenous peoples, as specified in Executive Order 12898 (59 FR 7629, February 16, 1994).</P>
+                <P>
+                    The documentation for this decision is contained in section IV.A of this preamble and the technical report, 
+                    <E T="03">Risk and Technology Review Analysis of Demographic Factors for Populations Living Near Stationary Combustion Turbines Source Category Operations.</E>
+                </P>
+                <HD SOURCE="HD2">L. Congressional Review Act (CRA)</HD>
+                <P>This action is subject to the CRA, and the EPA will submit a rule report to each House of the Congress and to the Comptroller General of the United States. This action is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 40 CFR Part 63</HD>
+                    <P>Environmental protection, Administrative practice and procedures, Air pollution control, Hazardous substances, Incorporation by reference, Intergovernmental relations, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <SIG>
+                    <DATED>Dated: January 31, 2020.</DATED>
+                    <NAME>Andrew R. Wheeler,</NAME>
+                    <TITLE>Administrator.</TITLE>
+                </SIG>
+                <P>For the reasons set forth in the preamble, the EPA amends 40 CFR part 63 as follows:</P>
+                <PART>
+                    <PRTPAGE P="13539"/>
+                    <HD SOURCE="HED">PART 63âNATIONAL EMISSION STANDARDS FOR HAZARDOUS AIR POLLUTANTS FOR SOURCE CATEGORIES </HD>
+                </PART>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>1. The authority citation for part 63 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P>
+                            42 U.S.C. 7401 
+                            <E T="03">et seq.</E>
+                              
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart AâGeneral Provisions</HD>
+                </SUBPART>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>2. Section 63.14 is amended by revising paragraphs (e)(1) and (h)(85), redesignating paragraphs (h)(94) through (111) as (h)(95) through (112), and adding new paragraph (h)(94) to read as follows.</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.14 </SECTNO>
+                        <SUBJECT> Incorporations by reference.</SUBJECT>
+                        <STARS/>
+                        <P>(e) * * *</P>
+                        <P>(1) ANSI/ASME PTC 19.10-1981, Flue and Exhaust Gas Analyses [Part 10, Instruments and Apparatus], issued August 31, 1981, IBR approved for Â§Â§â63.309(k), 63.457(k), 63.772(e) and (h), 63.865(b), 63.1282(d) and (g), 63.1625(b), 63.3166(a), 63.3360(e), 63.3545(a), 63.3555(a), 63.4166(a), 63.4362(a), 63.4766(a), 63.4965(a), 63.5160(d), table 4 to subpart UUUU, table 3 to subpart YYYY, 63.9307(c), 63.9323(a), 63.11148(e), 63.11155(e), 63.11162(f), 63.11163(g), 63.11410(j), 63.11551(a), 63.11646(a), and 63.11945, table 5 to subpart DDDDD, table 4 to subpart JJJJJ, table 4 to subpart KKKKK, tables 4 and 5 to subpart UUUUU, table 1 to subpart ZZZZZ, and table 4 to subpart JJJJJJ.</P>
+                        <STARS/>
+                        <P>(h) * * *</P>
+                        <P>(85) ASTM D6348-12e1, Standard Test Method for Determination of Gaseous Compounds by Extractive Direct Interface Fourier Transform Infrared (FTIR) Spectroscopy, Approved February 1, 2012, IBR approved for Â§â63.1571(a) and table 3 to subpart YYYY.</P>
+                        <STARS/>
+                        <P>(94) ASTM D6522-11, Standard Test Method for Determination of Nitrogen Oxides, Carbon Monoxide, and Oxygen Concentrations in Emissions from Natural Gas-Fired Reciprocating Engines, Combustion Turbines, Boilers, and Process Heaters Using Portable Analyzers, Approved December 1, 2011, IBR approved for table 3 to subpart YYYY.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart YYYYâNational Emission Standards for Hazardous Air Pollutants for Stationary Combustion Turbines</HD>
+                </SUBPART>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>3. Revise Â§â63.6105 to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6105 </SECTNO>
+                        <SUBJECT> What are my general requirements for complying with this subpart?</SUBJECT>
+                        <P>(a) Before September 8, 2020, you must be in compliance with the emission limitations and operating limitations which apply to you at all times except during startup, shutdown, and malfunctions. After September 8, 2020, you must be in compliance with the emission limitations, operating limitations, and other requirements in this subpart which apply to you at all times.</P>
+                        <P>(b) Before September 8, 2020, if you must comply with emission and operating limitations, you must operate and maintain your stationary combustion turbine, oxidation catalyst emission control device or other air pollution control equipment, and monitoring equipment in a manner consistent with good air pollution control practices for minimizing emissions at all times including during startup, shutdown, and malfunction.</P>
+                        <P>(c) After September 8, 2020, at all times, the owner or operator must operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require the owner or operator to make any further efforts to reduce emissions if levels required by the applicable standard have been achieved. Determination of whether a source is operating in compliance with operation and maintenance requirements will be based on information available to the Administrator which may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the source.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>4. Section 63.6120 is amended by revising paragraphs (b) and (c) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6120 </SECTNO>
+                        <SUBJECT> What performance tests and other procedures must I use?</SUBJECT>
+                        <STARS/>
+                        <P>(b) Each performance test must be conducted according to the requirements in Table 3 of this subpart. Before September 8, 2020, each performance test must be conducted according to the requirements of the General Provisions at Â§â63.7(e)(1).</P>
+                        <P>(c) Performance tests must be conducted at high load, defined as 100 percent plus or minus 10 percent. Before September 8, 2020, do not conduct performance tests or compliance evaluations during periods of startup, shutdown, or malfunction. After September 8, 2020, performance tests shall be conducted under such conditions based on representative performance of the affected source for the period being tested. Representative conditions exclude periods of startup and shutdown. The owner or operator may not conduct performance tests during periods of malfunction. The owner or operator must record the process information that is necessary to document operating conditions during the test and include in such record an explanation to support that such conditions represent normal operation. Upon request, the owner or operator shall make available to the Administrator such records as may be necessary to determine the conditions of performance tests.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>5. Section 63.6125 is amended by adding paragraph (e) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6125 </SECTNO>
+                        <SUBJECT> What are my monitor installation, operation, and maintenance requirements?</SUBJECT>
+                        <STARS/>
+                        <P>
+                            (e) After September 8, 2020, if you are required to use a continuous monitoring system (CMS), you must develop and implement a CMS quality control program that included written procedures for CMS according to Â§â63.8(d)(1) through (2). You must keep these written procedures on record for the life of the affected source or until the affected source is no longer subject to the provisions of this part, to be made available for inspection, upon request, by the Administrator. If the performance evaluation plan is revised, the owner or operator shall keep previous (
+                            <E T="03">i.e.,</E>
+                             superseded) versions of the performance evaluation plan on record to be made available for inspection, upon request, by the Administrator, for a period of 5 years after each revision to the plan. The program of corrective action should be included in the plan required under Â§â63.8(d)(2).
+                        </P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>6. Section 63.6140 is amended by revising paragraph (c) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6140 </SECTNO>
+                        <SUBJECT> How do I demonstrate continuous compliance with the emission and operating limitations?</SUBJECT>
+                        <STARS/>
+                        <P>(c) Before September 8, 2020, consistent with Â§Â§â63.6(e) and 63.7(e)(1), deviations that occur during a period of startup, shutdown, and malfunction are not violations if you have operated your stationary combustion turbine in accordance with Â§â63.6(e)(1)(i).</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>
+                        7. Section 63.6150 is amended by:
+                        <PRTPAGE P="13540"/>
+                    </AMDPAR>
+                    <AMDPAR>a. Revising paragraph (a) introductory text, paragraph (a)(4) introductory text, paragraph (c) introductory text, and paragraph (e) introductory text, and</AMDPAR>
+                    <AMDPAR>b. Adding paragraphs (a)(5), (f), (g), (h) and (i).</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â63.6150 </SECTNO>
+                        <SUBJECT> What reports must I submit and when?</SUBJECT>
+                        <P>
+                            (a) 
+                            <E T="03">Compliance report.</E>
+                             Anyone who owns or operates a stationary combustion turbine which must meet the emission limitation for formaldehyde must submit a semiannual compliance report according to Table 6 of this subpart. The semiannual compliance report must contain the information described in paragraphs (a)(1) through (5) of this section. The semiannual compliance report, including the excess emissions and monitoring system performance reports of Â§â63.10(e)(3), must be submitted by the dates specified in paragraphs (b)(1) through (5) of this section, unless the Administrator has approved a different schedule. After September 8, 2020, or once the reporting template has been available on the Compliance and Emissions Data Reporting Interface (CEDRI) website for 180 days, whichever date is later, you must submit all subsequent reports to the EPA following the procedure specified in paragraph (g) of this section.
+                        </P>
+                        <STARS/>
+                        <P>(4) Before September 8, 2020, for each deviation from an emission limitation, the compliance report must contain the information in paragraphs (a)(4)(i) through (iii) of this section.</P>
+                        <STARS/>
+                        <P>(5) After September 8, 2020, report each deviation in the semiannual compliance report. Report the information specified in paragraphs (a)(5)(i) through (iv) of this section.</P>
+                        <P>(i) Report the number of deviations. For each instance, report the start date, start time, duration, and cause of each deviation, and the corrective action taken.</P>
+                        <P>(ii) For each deviation, the report must include a list of the affected sources or equipment, an estimate of the quantity of each regulated pollutant emitted over any emission limit, a description of the method used to estimate the emissions.</P>
+                        <P>(iii) Information on the number, duration, and cause for monitor downtime incidents (including unknown cause, if applicable, other than downtime associated with zero and span and other daily calibration checks), as applicable, and the corrective action taken.</P>
+                        <P>(iv) Report the total operating time of the affected source during the reporting period.</P>
+                        <STARS/>
+                        <P>(c) If you are operating as a stationary combustion turbine which fires landfill gas or digester gas equivalent to 10 percent or more of the gross heat input on an annual basis, or a stationary combustion turbine where gasified MSW is used to generate 10 percent or more of the gross heat input on an annual basis, you must submit an annual report according to Table 6 of this subpart by the date specified unless the Administrator has approved a different schedule, according to the information described in paragraphs (d)(1) through (5) of this section. You must report the data specified in (c)(1) through (3) of this section. After September 8, 2020, you must submit all subsequent reports to the EPA following the procedure specified in paragraph (g) of this section.</P>
+                        <STARS/>
+                        <P>(e) If you are operating a lean premix gas-fired stationary combustion turbine or a diffusion flame gas-fired stationary combustion turbine as defined by this subpart, and you use any quantity of distillate oil to fire any new or existing stationary combustion turbine which is located at the same major source, you must submit an annual report according to Table 6 of this subpart by the date specified unless the Administrator has approved a different schedule, according to the information described in paragraphs (d)(1) through (5) of this section. You must report the data specified in (e)(1) through (3) of this section. After September 8, 2020, you must submit all subsequent reports to the EPA following the procedure specified in paragraph (g) of this section.</P>
+                        <STARS/>
+                        <P>
+                            (f) 
+                            <E T="03">Performance test report.</E>
+                             After September 8, 2020, within 60 days after the date of completing each performance test required by this subpart, you must submit the results of the performance test (as specified in Â§â63.6145(f)) following the procedures specified in paragraphs (f)(1) through (3) of this section.
+                        </P>
+                        <P>
+                            (1) 
+                            <E T="03">Data collected using test methods supported by the EPA's Electronic Reporting Tool (ERT) as listed on the EPA's ERT website (https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert) at the time of the test.</E>
+                             Submit the results of the performance test to the EPA via the CEDRI, which can be accessed through the EPA's Central Data Exchange (CDX) (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). The data must be submitted in a file format generated through the use of the EPA's ERT. Alternatively, you may submit an electronic file consistent with the extensible markup language (XML) schema listed on the EPA's ERT website.
+                        </P>
+                        <P>
+                            (2) 
+                            <E T="03">Data collected using test methods that are not supported by the EPA's ERT as listed on the EPA's ERT website at the time of the test.</E>
+                             The results of the performance test must be included as an attachment in the ERT or an alternate electronic file consistent with the XML schema listed on the EPA's ERT website. Submit the ERT generated package or alternative file to the EPA via CEDRI.
+                        </P>
+                        <P>
+                            (3) 
+                            <E T="03">Confidential business information (CBI).</E>
+                             If you claim some of the information submitted under paragraph (f)(1) of this section is CBI, you must submit a complete file, including information claimed to be CBI, to the EPA. The file must be generated through the use of the EPA's ERT or an alternate electronic file consistent with the XML schema listed on the EPA's ERT website. Submit the file on a compact disc, flash drive, or other commonly used electronic storage medium and clearly mark the medium as CBI. Mail the electronic medium to U.S. EPA/OAQPS/CORE CBI Office, Attention: Group Leader, Measurement Policy Group, MD C404-02, 4930 Old Page Rd., Durham, NC 27703. The same file with the CBI omitted must be submitted to the EPA via the EPA's CDX as described in paragraph (f)(1) of this section.
+                        </P>
+                        <P>
+                            (g) If you are required to submit reports following the procedure specified in this paragraph, you must submit reports to the EPA via CEDRI, which can be accessed through the EPA's CDX (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). You must use the appropriate electronic report template on the CEDRI website (
+                            <E T="03">https://www.epa.gov/electronic-reporting-air-emissions/compliance-and-emissions-data-reporting-interface-cedri</E>
+                            ) for this subpart. The date report templates become available will be listed on the CEDRI website. The report must be submitted by the deadline specified in this subpart, regardless of the method in which the report is submitted. If you claim some of the information required to be submitted via CEDRI is CBI, submit a complete report, including information claimed to be CBI, to the EPA. The report must be generated using the appropriate form on the CEDRI website. Submit the file on a compact disc, flash drive, or other commonly used electronic storage medium and clearly mark the medium 
+                            <PRTPAGE P="13541"/>
+                            as CBI. Mail the electronic medium to U.S. EPA/OAQPS/CORE CBI Office, Attention: Group Leader, Measurement Policy Group, MD C404-02, 4930 Old Page Rd., Durham, NC 27703. The same file with the CBI omitted must be submitted to the EPA via the EPA's CDX as described earlier in this paragraph.
+                        </P>
+                        <P>(h) If you are required to electronically submit a report through CEDRI in the EPA's CDX, you may assert a claim of EPA system outage for failure to timely comply with the reporting requirement. To assert a claim of EPA system outage, you must meet the requirements outlined in paragraphs (h)(1) through (7) of this section.</P>
+                        <P>(1) You must have been or will be precluded from accessing CEDRI and submitting a required report within the time prescribed due to an outage of either the EPA's CEDRI or CDX systems.</P>
+                        <P>(2) The outage must have occurred within the period of time beginning five business days prior to the date that the submission is due.</P>
+                        <P>(3) The outage may be planned or unplanned.</P>
+                        <P>(4) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in reporting.</P>
+                        <P>(5) You must provide to the Administrator a written description identifying:</P>
+                        <P>(i) The date(s) and time(s) when CDX or CEDRI was accessed and the system was unavailable;</P>
+                        <P>(ii) A rationale for attributing the delay in reporting beyond the regulatory deadline to EPA system outage;</P>
+                        <P>(iii) Measures taken or to be taken to minimize the delay in reporting; and</P>
+                        <P>(iv) The date by which you propose to report, or if you have already met the reporting requirement at the time of the notification, the date you reported.</P>
+                        <P>(6) The decision to accept the claim of EPA system outage and allow an extension to the reporting deadline is solely within the discretion of the Administrator.</P>
+                        <P>(7) In any circumstance, the report must be submitted electronically as soon as possible after the outage is resolved.</P>
+                        <P>(i) If you are required to electronically submit a report through CEDRI in the EPA's CDX, you may assert a claim of force majeure for failure to timely comply with the reporting requirement. To assert a claim of force majeure, you must meet the requirements outlined in paragraphs (i)(1) through (5) of this section.</P>
+                        <P>
+                            (1) You may submit a claim if a force majeure event is about to occur, occurs, or has occurred or there are lingering effects from such an event within the period of time beginning five business days prior to the date the submission is due. For the purposes of this section, a force majeure event is defined as an event that will be or has been caused by circumstances beyond the control of the affected facility, its contractors, or any entity controlled by the affected facility that prevents you from complying with the requirement to submit a report electronically within the time period prescribed. Examples of such events are acts of nature (
+                            <E T="03">e.g.,</E>
+                             hurricanes, earthquakes, or floods), acts of war or terrorism, or equipment failure or safety hazard beyond the control of the affected facility (
+                            <E T="03">e.g.,</E>
+                             large scale power outage).
+                        </P>
+                        <P>(2) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in reporting.</P>
+                        <P>(3) You must provide to the Administrator:</P>
+                        <P>(i) A written description of the force majeure event;</P>
+                        <P>(ii) A rationale for attributing the delay in reporting beyond the regulatory deadline to the force majeure event;</P>
+                        <P>(iii) Measures taken or to be taken to minimize the delay in reporting; and</P>
+                        <P>(iv) The date by which you propose to report, or if you have already met the reporting requirement at the time of the notification, the date you reported.</P>
+                        <P>(4) The decision to accept the claim of force majeure and allow an extension to the reporting deadline is solely within the discretion of the Administrator.</P>
+                        <P>(5) In any circumstance, the reporting must occur as soon as possible after the force majeure event occurs. </P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>8. Section 63.6155 is amended by revising paragraph (a) introductory text and paragraphs (a)(3) through (5) and adding paragraphs (a)(6), (a)(7), and (d) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6155 </SECTNO>
+                        <SUBJECT> What records must I keep?</SUBJECT>
+                        <P>(a) You must keep the records as described in paragraphs (a)(1) through (7) of this section.</P>
+                        <STARS/>
+                        <P>(3) Before September 8, 2020, records of the occurrence and duration of each startup, shutdown, or malfunction as required in Â§â63.10(b)(2)(i).</P>
+                        <P>(4) Before September 8, 2020, records of the occurrence and duration of each malfunction of the air pollution control equipment, if applicable, as required in Â§â63.10(b)(2)(ii).</P>
+                        <P>(5) Records of all maintenance on the air pollution control equipment as required in Â§â63.10(b)(2)(iii).</P>
+                        <P>(6) After September 8, 2020, records of the date, time, and duration of each startup period, recording the periods when the affected source was subject to the standard applicable to startup.</P>
+                        <P>(7) After September 8, 2020, keep records as follows.</P>
+                        <P>(i) Record the number of deviations. For each deviation, record the date, time, cause, and duration of the deviation.</P>
+                        <P>(ii) For each deviation, record and retain a list of the affected sources or equipment, an estimate of the quantity of each regulated pollutant emitted over any emission limit and a description of the method used to estimate the emissions.</P>
+                        <P>(iii) Record actions taken to minimize emissions in accordance with Â§â63.6105(c), and any corrective actions taken to return the affected unit to its normal or usual manner of operation.</P>
+                        <STARS/>
+                        <P>(d) Any records required to be maintained by this part that are submitted electronically via the EPA's CEDRI may be maintained in electronic format. This ability to maintain electronic copies does not affect the requirement for facilities to make records, data, and reports available upon request to a delegated air agency or the EPA as part of an on-site compliance evaluation.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>9. Section 63.6170 is amended by adding paragraph (c)(6) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6170 </SECTNO>
+                        <SUBJECT> Who implements and enforces this subpart?</SUBJECT>
+                        <STARS/>
+                        <P>(c) * * *</P>
+                        <P>(6) Approval of an alternative to any electronic reporting to the EPA required by this subpart.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>10. Section 63.6175 is amended by revising the definition for âDeviationâ and adding a definition for âStartupâ to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â63.6175 </SECTNO>
+                        <SUBJECT> What definitions apply to this subpart?</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">Deviation</E>
+                             means any instance in which an affected source subject to this subpart, or an owner or operator of such a source:
+                        </P>
+                        <P>(1) Fails to meet any requirement or obligation established by this subpart, including but not limited to any emission limitation or operating limitation;</P>
+                        <P>
+                            (2) Fails to meet any term or condition that is adopted to implement an 
+                            <PRTPAGE P="13542"/>
+                            applicable requirement in this subpart and that is included in the operating permit for any affected source required to obtain such a permit;
+                        </P>
+                        <P>(3) Fails to meet any emission limitation or operating limitation in this subpart during malfunction, regardless of whether or not such failure is permitted by this subpart;</P>
+                        <P>(4) Before September 8, 2020, fails to satisfy the general duty to minimize emissions established by Â§â63.6(e)(1)(i), or</P>
+                        <P>(5) After September 8, 2020, fails to satisfy the general duty to minimize emissions established by Â§â63.6105.</P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Startup</E>
+                             begins at the first firing of fuel in the stationary combustion turbine. For simple cycle turbines, startup ends when the stationary combustion turbine has reached stable operation or after 1 hour, whichever is less. For combined cycle turbines, startup ends when the stationary combustion turbine has reached stable operation or after 3 hours, whichever is less. Turbines in combined cycle configurations that are operating as simple cycle turbines must meet the startup requirements for simple cycle turbines while operating as simple cycle turbines.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>11. Table 1 to Subpart YYYY of Part 63 is revised to read as follows:</AMDPAR>
+                    <HD SOURCE="HD1">Table 1 to Subpart YYYY of Part 63âEmission Limitations</HD>
+                    <P>As stated in Â§â63.6100, you must comply with the following emission limitations.</P>
+                    <GPOTABLE COLS="2" OPTS="L2,tp0,i1" CDEF="xl100,xl100">
+                        <TTITLE>â</TTITLE>
+                        <BOXHD>
+                            <CHED H="1" O="L">For each new or reconstructed stationary combustion turbine described in Â§â63.6100 which is . . .</CHED>
+                            <CHED H="1" O="L">You must meet the following emission limitations . . .</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">
+                                1. a lean premix gas-fired stationary combustion turbine as defined in this subpart,
+                                <LI>2. a lean premix oil-fired stationary combustion turbine as defined in this subpart,</LI>
+                                <LI>3. a diffusion flame gas-fired stationary combustion turbine as defined in this subpart, or</LI>
+                                <LI>4. a diffusion flame oil-fired stationary combustion turbine as defined in this subpart.</LI>
+                            </ENT>
+                            <ENT>
+                                limit the concentration of formaldehyde to 91 ppbvd or less at 15-percent O
+                                <E T="0732">2</E>
+                                , except during turbine startup. The period of time for turbine startup is subject to the limits specified in the definition of startup in Â§â63.6175.
+                            </ENT>
+                        </ROW>
+                    </GPOTABLE>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>12. Table 2 to Subpart YYYY of Part 63 is revised to read as follows:</AMDPAR>
+                    <HD SOURCE="HD1">Table 2 to Subpart YYYY of Part 63âOperating Limitations</HD>
+                    <P>As stated in Â§Â§â63.6100 and 63.6140, you must comply with the following operating limitations.</P>
+                    <GPOTABLE COLS="2" OPTS="L2,tp0,i1" CDEF="s100,r100">
+                        <TTITLE>â</TTITLE>
+                        <BOXHD>
+                            <CHED H="1" O="L">For . . .</CHED>
+                            <CHED H="1" O="L">You must . . .</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">1. each stationary combustion turbine that is required to comply with the emission limitation for formaldehyde and is using an oxidation catalyst</ENT>
+                            <ENT>maintain the 4-hour rolling average of the catalyst inlet temperature within the range suggested by the catalyst manufacturer. You are not required to use the catalyst inlet temperature data that is recorded during engine startup in the calculations of the 4-hour rolling average catalyst inlet temperature.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">2. each stationary combustion turbine that is required to comply with the emission limitation for formaldehyde and is not using an oxidation catalyst</ENT>
+                            <ENT>maintain any operating limitations approved by the Administrator.</ENT>
+                        </ROW>
+                    </GPOTABLE>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>13. Table 3 to Subpart YYYY of Part 63 is revised to read as follows:</AMDPAR>
+                    <HD SOURCE="HD1">Table 3 to Subpart YYYY of Part 63âRequirements for Performance Tests and Initial Compliance Demonstrations</HD>
+                    <P>As stated in Â§â63.6120, you must comply with the following requirements for performance tests and initial compliance demonstrations.</P>
+                    <GPOTABLE COLS="3" OPTS="L2,tp0,i1" CDEF="s100,r100,r100">
+                        <TTITLE>â</TTITLE>
+                        <BOXHD>
+                            <CHED H="1" O="L">You must . . .</CHED>
+                            <CHED H="1" O="L">Using . . .</CHED>
+                            <CHED H="1" O="L">According to the following requirements . . .</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">a. demonstrate formaldehyde emissions meet the emission limitations specified in Table 1 by a performance test initially and on an annual basis AND</ENT>
+                            <ENT>
+                                Test Method 320 of 40 CFR part 63, appendix A; ASTM D6348-12e1â
+                                <SU>1</SU>
+                                 provided that the test plan preparation and implementation provisions of Annexes A1 through A8 are followed and the %R as determined in Annex A5 is equal or greater than 70% and less than or equal to 130%;â
+                                <SU>2</SU>
+                                 or other methods approved by the Administrator
+                            </ENT>
+                            <ENT>
+                                formaldehyde concentration must be corrected to 15-percent O
+                                <E T="0732">2</E>
+                                , dry basis. Results of this test consist of the average of the three 1-hour runs. Test must be conducted within 10 percent of 100-percent load.
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">b. select the sampling port location and the number of traverse points AND</ENT>
+                            <ENT>Method 1 or 1A of 40 CFR part 60, appendix A</ENT>
+                            <ENT>if using an air pollution control device, the sampling site must be located at the outlet of the air pollution control device.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">
+                                c. determine the O
+                                <E T="0732">2</E>
+                                 concentration at the sampling port location AND
+                            </ENT>
+                            <ENT>
+                                Method 3A or 3B of 40 CFR part 60, appendix A; ANSI/ASME PTC 19.10-1981â
+                                <SU>1</SU>
+                                 (Part 10) manual portion only; ASTM D6522-11â
+                                <SU>1</SU>
+                                 if the turbine is fueled by natural gas
+                            </ENT>
+                            <ENT>
+                                measurements to determine O
+                                <E T="0732">2</E>
+                                 concentration must be made at the same time as the performance test.
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="13543"/>
+                            <ENT I="01">d. determine the moisture content at the sampling port location for the purposes of correcting the formaldehyde concentration to a dry basis</ENT>
+                            <ENT>
+                                Method 4 of 40 CFR part 60, appendix A or Test Method 320 of 40 CFR part 63, appendix A, or ASTM D6348-12e1â
+                                <SU>1</SU>
+                            </ENT>
+                            <ENT>measurements to determine moisture content must be made at the same time as the performance test.</ENT>
+                        </ROW>
+                        <TNOTE>
+                            <SU>1</SU>
+                            âIncorporated by reference, see Â§â63.14.
+                        </TNOTE>
+                        <TNOTE>
+                            <SU>2</SU>
+                            âThe %R value for each compound must be reported in the test report, and all field measurements must be corrected with the calculated %R value for that compound using the following equation:
+                        </TNOTE>
+                        <TNOTE>Reported Results = ((Measured Concentration in Stack)/(%R)) Ã 100.</TNOTE>
+                    </GPOTABLE>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="63">
+                    <AMDPAR>14. Table 7 to Subpart YYYY of Part 63 is revised to read as follows:</AMDPAR>
+                    <HD SOURCE="HD1">Table 7 to Subpart YYYY of Part 63âApplicability of General Provisions to Subpart YYYY</HD>
+                    <P>You must comply with the applicable General Provisions requirements:</P>
+                    <GPOTABLE COLS="4" OPTS="L2,tp0,i1" CDEF="xs60,r50,r100,r50">
+                        <TTITLE>â</TTITLE>
+                        <BOXHD>
+                            <CHED H="1">Citation</CHED>
+                            <CHED H="1">Subject</CHED>
+                            <CHED H="1">Applies to subpart YYYY</CHED>
+                            <CHED H="1">Explanation</CHED>
+                        </BOXHD>
+                        <ROW>
+                            <ENT I="01">Â§â63.1</ENT>
+                            <ENT>General applicability of the General Provisions</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Additional terms defined in Â§â63.6175.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.2</ENT>
+                            <ENT>Definitions</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Additional terms defined in Â§â63.6175.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.3</ENT>
+                            <ENT>Units and abbreviations</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.4</ENT>
+                            <ENT>Prohibited activities</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.5</ENT>
+                            <ENT>Construction and reconstruction</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(a)</ENT>
+                            <ENT>Applicability</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(b)(1)-(4)</ENT>
+                            <ENT>Compliance dates for new and reconstructed sources</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(b)(5)</ENT>
+                            <ENT>Notification</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(b)(6)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(b)(7)</ENT>
+                            <ENT>Compliance dates for new and reconstructed area sources that become major</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(c)(1)-(2)</ENT>
+                            <ENT>Compliance dates for existing sources</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(c)(3)-(4)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(c)(5)</ENT>
+                            <ENT>Compliance dates for existing area sources that become major</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(d)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(e)(1)(i)</ENT>
+                            <ENT>General duty to minimize emissions</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020. See Â§â63.6105 for general duty requirement.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(e)(1)(ii)</ENT>
+                            <ENT>Requirement to correct malfunctions ASAP</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(e)(1)(iii)</ENT>
+                            <ENT>Operation and Maintenance Requirements</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(e)(2)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(e)(3)</ENT>
+                            <ENT>SSMP</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(f)(1)</ENT>
+                            <ENT>Applicability of standards except during startup, shutdown, or malfunction (SSM)</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(f)(2)</ENT>
+                            <ENT>Methods for determining compliance</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(f)(3)</ENT>
+                            <ENT>Finding of compliance</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(g)(1)-(3)</ENT>
+                            <ENT>Use of alternative standard</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(h)</ENT>
+                            <ENT>Opacity and visible emission standards</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart YYYY does not contain opacity or visible emission standards.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(i)</ENT>
+                            <ENT>Compliance extension procedures and criteria</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.6(j)</ENT>
+                            <ENT>Presidential compliance exemption</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(a)(1)-(2)</ENT>
+                            <ENT>Performance test dates</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Subpart YYYY contains performance test dates at Â§â63.6110.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(a)(3)</ENT>
+                            <ENT>Section 114 authority</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(b)(1)</ENT>
+                            <ENT>Notification of performance test</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(b)(2)</ENT>
+                            <ENT>Notification of rescheduling</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="13544"/>
+                            <ENT I="01">Â§â63.7(c)</ENT>
+                            <ENT>Quality assurance/test plan</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(d)</ENT>
+                            <ENT>Testing facilities</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(e)(1)</ENT>
+                            <ENT>Conditions for conducting performance tests</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(e)(2)</ENT>
+                            <ENT>Conduct of performance tests and reduction of data</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Subpart YYYY specifies test methods at Â§â63.6120.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(e)(3)</ENT>
+                            <ENT>Test run duration</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(e)(4)</ENT>
+                            <ENT>Administrator may require other testing under section 114 of the CAA</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(f)</ENT>
+                            <ENT>Alternative test method provisions</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(g)</ENT>
+                            <ENT>Performance test data analysis, recordkeeping, and reporting</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.7(h)</ENT>
+                            <ENT>Waiver of tests</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(a)(1)</ENT>
+                            <ENT>Applicability of monitoring requirements</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Subpart YYYY contains specific requirements for monitoring at Â§â63.6125.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(a)(2)</ENT>
+                            <ENT>Performance specifications</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(a)(3)</ENT>
+                            <ENT>[Reserved]</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(a)(4)</ENT>
+                            <ENT>Monitoring for control devices</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(b)(1)</ENT>
+                            <ENT>Monitoring</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(b)(2)-(3)</ENT>
+                            <ENT>Multiple effluents and multiple monitoring systems</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(1)</ENT>
+                            <ENT>Monitoring system operation and maintenance</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(1)(i)</ENT>
+                            <ENT>General duty to minimize emissions and CMS operation</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(1)(ii)</ENT>
+                            <ENT>Parts for repair of CMS readily available</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(1)(iii)</ENT>
+                            <ENT>Requirement to develop SSM Plan for CMS</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(2)-(3)</ENT>
+                            <ENT>Monitoring system installation</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(4)</ENT>
+                            <ENT>Continuous monitoring system (CMS) requirements</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that subpart YYYY does not require continuous opacity monitoring systems (COMS).</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(5)</ENT>
+                            <ENT>COMS minimum procedures</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(c)(6)-(8)</ENT>
+                            <ENT>CMS requirements</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that subpart YYYY does not require COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(d)(1)-(2)</ENT>
+                            <ENT>CMS quality control</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(d)(3)</ENT>
+                            <ENT>Written procedures for CMS</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(e)</ENT>
+                            <ENT>CMS performance evaluation</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except for Â§â63.8(e)(5)(ii), which applies to COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(f)(1)-(5)</ENT>
+                            <ENT>Alternative monitoring method</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(f)(6)</ENT>
+                            <ENT>Alternative to relative accuracy test</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.8(g)</ENT>
+                            <ENT>Data reduction</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that provisions for COMS are not applicable. Averaging periods for demonstrating compliance are specified at Â§Â§â63.6135 and 63.6140.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(a)</ENT>
+                            <ENT>Applicability and State delegation of notification requirements</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(b)(1)-(5)</ENT>
+                            <ENT>Initial notifications</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.9(b)(3) is reserved.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(c)</ENT>
+                            <ENT>Request for compliance extension</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(d)</ENT>
+                            <ENT>Notification of special compliance requirements for new sources</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(e)</ENT>
+                            <ENT>Notification of performance test</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(f)</ENT>
+                            <ENT>Notification of visible emissions/opacity test</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart YYYY does not contain opacity or VE standards.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(g)(1)</ENT>
+                            <ENT>Notification of performance evaluation</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="13545"/>
+                            <ENT I="01">Â§â63.9(g)(2)</ENT>
+                            <ENT>Notification of use of COMS data</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart YYYY does not contain opacity or VE standards.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(g)(3)</ENT>
+                            <ENT>Notification that criterion for alternative to relative accuracy test audit (RATA) is exceeded</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(h)</ENT>
+                            <ENT>Notification of compliance status</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that notifications for sources not conducting performance tests are due 30 days after completion of performance evaluations. Â§â63.9(h)(4) is reserved.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(i)</ENT>
+                            <ENT>Adjustment of submittal deadlines</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.9(j)</ENT>
+                            <ENT>Change in previous information</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(a)</ENT>
+                            <ENT>Administrative provisions for recordkeeping and reporting</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(1)</ENT>
+                            <ENT>Record retention</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(i)</ENT>
+                            <ENT>Recordkeeping of occurrence and duration of startups and shutdowns</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(ii)</ENT>
+                            <ENT>Recordkeeping of failures to meet a standard</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020. See Â§â63.6155 for recordkeeping of (1) date, time and duration; (2) listing of affected source or equipment, and an estimate of the quantity of each regulated pollutant emitted over the standard; and (3) actions to minimize emissions and correct the failure.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(iii)</ENT>
+                            <ENT>Maintenance records</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(iv)-(v)</ENT>
+                            <ENT>Records related to actions during SSM</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(vi)-(xi)</ENT>
+                            <ENT>CMS records</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(xii)</ENT>
+                            <ENT>Record when under waiver</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(xiii)</ENT>
+                            <ENT>Records when using alternative to RATA</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(2)(xiv)</ENT>
+                            <ENT>Records of supporting documentation</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(b)(3)</ENT>
+                            <ENT>Records of applicability determination</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(c)(1)-(14)</ENT>
+                            <ENT>Additional records for sources using CMS</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>Except that Â§â63.10(c)(2)-(4) and (9) are reserved.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(c)(15)</ENT>
+                            <ENT>Use of SSM Plan</ENT>
+                            <ENT O="xl">
+                                Yes before September 8, 2020.
+                                <LI O="xl">No after September 8, 2020.</LI>
+                            </ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(1)</ENT>
+                            <ENT>General reporting requirements</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(2)</ENT>
+                            <ENT>Report of performance test results</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(3)</ENT>
+                            <ENT>Reporting opacity or VE observations</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart YYYY does not contain opacity or VE standards.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(4)</ENT>
+                            <ENT>Progress reports</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(d)(5)</ENT>
+                            <ENT>Startup, shutdown, and malfunction reports</ENT>
+                            <ENT O="xl">No. After September 8, 2020, see 63.6150(a) for malfunction reporting requirements.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(e)(1) and (2)(i)</ENT>
+                            <ENT>Additional CMS reports</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(e)(2)(ii)</ENT>
+                            <ENT>COMS-related report</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart YYYY does not require COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(e)(3)</ENT>
+                            <ENT>Excess emissions and parameter exceedances reports</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>After September 8, 2020 submitted with the compliance report through CEDRI according to Â§â63.6150(a).</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(e)(4)</ENT>
+                            <ENT>Reporting COMS data</ENT>
+                            <ENT>No</ENT>
+                            <ENT>Subpart YYYY does not require COMS.</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.10(f)</ENT>
+                            <ENT>Waiver for recordkeeping and reporting</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.11</ENT>
+                            <ENT>Flares</ENT>
+                            <ENT>No</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.12</ENT>
+                            <ENT>State authority and delegations</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <PRTPAGE P="13546"/>
+                            <ENT I="01">Â§â63.13</ENT>
+                            <ENT>Addresses</ENT>
+                            <ENT>Yes</ENT>
+                            <ENT>After September 8, 2020 not applicable to reports required to be submitted through CEDRI by 63.6150(c), (e), (f), or (g).</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.14</ENT>
+                            <ENT>Incorporation by reference</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                        <ROW>
+                            <ENT I="01">Â§â63.15</ENT>
+                            <ENT>Availability of information</ENT>
+                            <ENT>Yes</ENT>
+                        </ROW>
+                    </GPOTABLE>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2020-02714 Filed 3-6-20; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6560-50-P</BILCOD>
+        </RULE>

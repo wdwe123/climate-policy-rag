@@ -1,0 +1,817 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">DEPARTMENT OF AGRICULTURE</AGENCY>
+                <SUBAGY>Farm Service Agency</SUBAGY>
+                <CFR>7 CFR Part 760</CFR>
+                <RIN>RIN 0560-AI73</RIN>
+                <DEPDOC>[Docket ID FSA-2025-0005]</DEPDOC>
+                <SUBJECT>Emergency Livestock Relief Program (ELRP) 2023 and 2024</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Farm Service Agency, U.S. Department of Agriculture (USDA).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Secretary of Agriculture is issuing this rule to implement the Emergency Livestock Relief Program (ELRP) 2023 and 2024, which provides payments to eligible livestock producers for losses due to qualifying drought and qualifying wildfire occurring in calendar years 2023 and 2024. This rule specifies the administrative provisions, eligibility requirements, and payment calculation for ELRP 2023 and 2024. The Farm Service Agency (FSA) will calculate payments using data already submitted to FSA by Livestock Forage Disaster Program (LFP) participants; therefore, producers are not required to file an additional application to receive ELRP 2023 and 2024 payments.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective on May 29, 2025.</P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Kathy Sayers; telephone: (202) 720-6870; email: 
+                        <E T="03">Kathy.Sayers@usda.gov.</E>
+                         Individuals with disabilities who require alternative means for communication should contact the USDA Target Center at (202) 720-2600 (voice and text telephone (TTY mode)) or dial 711 for Telecommunications Relay Service (both voice and text telephone users can initiate this call from any telephone).
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Background</HD>
+                <P>Title I of the Disaster Relief Supplemental Appropriations Act, 2025 (Division B of the American Relief Act, 2025; Pub. L. 118-158; referred to as âthe Actâ in this document) provides $30,780,000,000, to remain available until expended, for necessary expenses related to losses of revenue, quality or production of crops (including milk, on-farm stored commodities, crops prevented from planting, and harvested adulterated wine grapes), trees, bushes, and vines, as a consequence of droughts, wildfires, hurricanes, floods, derechos, excessive heat, tornadoes, winter storms, freeze, including a polar vortex, smoke exposure, and excessive moisture occurring in calendar years 2023 and 2024. From that amount, the Act directs the Secretary of Agriculture to use up to $2 billion to provide assistance to livestock producers, as determined by the Secretary, for losses incurred during calendar years 2023 and 2024 due to drought, wildfires, or floods.</P>
+                <P>This rule specifies how FSA will implement ELRP 2023 and 2024, which will use approximately $1 billion of the $2 billion provided by the Act to provide financial assistance to eligible livestock producers for losses incurred during 2023 and 2024. Payments will be made to offset foregone profits resulting from the loss of quality and quantity of forage due to qualifying drought and qualifying wildfires, using a streamlined process as described below. Livestock producer losses due to flooding which will be addressed in a later rule. If funding remains available after issuing assistance for flooding, FSA may make additional payments to ELRP 2023 and 2024 participants.</P>
+                <P>
+                    According to USDA National Agricultural Statistics Service (NASS) data, average corn prices have steadily decreased and livestock prices have increased since September 2022, meaning that margins have substantially increased.
+                    <SU>1</SU>
+                    <FTREF/>
+                     This trend would normally cause producers to maintain or expand their livestock operations. NASS data, however, indicate that livestock inventories, particularly beef cattle, have steadily decreased since 2018â
+                    <FTREF/>
+                    <SU>2</SU>
+                      
+                    <PRTPAGE P="22615"/>
+                    despite cattle prices increasing over 60 percent during that period.
+                    <SU>3</SU>
+                    <FTREF/>
+                     With limited grazing capacity caused by drought and wildfires, livestock producers were unable to expand and take advantage of increased margins.
+                    <SU>4</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âSee the ELRP 2023 and 2024 Cost Benefit Analysis (CBA). To obtain a copy of the ELRP 2023 and 2024 CBA, search by docket number FSA-2025-0005 using the search box on 
+                        <E T="03">https://www.regulations.gov/.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âOverall, 2018 represents a stable and typical production year for the livestock sector compared to certain other recent years. Cattle inventories in 2018 were approximately 8 percent higher than in the drought-affected years of 2023-2024, while beef prices were significantly lower, about 50-60 percent less than in 2023-24. This comparison highlights that producers were able to maintain large herd sizes despite relatively moderate price incentives, suggesting that grazing conditions allowed for sustainable herd management. Despite substantially higher beef margins in 2023-24, cattle inventories have not returned to, or surpassed, the high levels of 2018. This is not due to economics, but rather, the diminished grazing capacity resulting from ongoing drought. The reduced availability of pastureland has directly constrained producers' ability to maintain herd sizes, even in the face of highly favorable market conditions. By choosing 2018 as the baseline, this analysis 
+                        <PRTPAGE/>
+                        emphasizes that the current lower inventories are not due to a lack of economic incentives, but to practical limitations in maintaining livestock numbers due to drought.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âSee NASS cattle inventory reports, available at 
+                        <E T="03">https://usda.library.cornell.edu/concern/publications/h702q636h?locale=en.</E>
+                         Also, the 2023 and 2024 ELRP CBA includes a detailed summary of the change in cattle inventory from 2018 through 2024.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âUSDA ERS; see Figure 1 in the ELRP 2023 and 2024 CBA. Also, the May 2023 USDA ERS âLivestock, Dairy, and Poultry Outlookâ contains extensive analysis, including this sentence: âDespite recent rains, for some producers, the very low hay supplies may not be sufficient to offset poor pastures to sustain herds this summer and allow producers to retain breeding stock to rebuild their herds.â See 
+                        <E T="03">https://ers.usda.gov/sites/default/files/_laserfiche/outlooks/106571/LDP-M-347.pdf?v=55672.</E>
+                    </P>
+                </FTNT>
+                <P>Drought and wildfires in the 2023 and 2024 calendar years, particularly in the western United States, have had a significantly negative impact on:</P>
+                <P>
+                    â¢ Forage availability and qualityâdecreased grazing options equated to reduced carrying capacities and increased expenses for supplemental feed;â
+                    <SU>5</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âSee Table 2 in the ELRP 2023 and 2024 CBA.
+                    </P>
+                </FTNT>
+                <P>
+                    â¢ Livestock inventories and retentionâthe inability to lease or purchase additional grazing land made it more difficult for farmers and ranchers to sustain operations, and producers were forced to cull animals rather than expand their operations;â
+                    <SU>6</SU>
+                    <FTREF/>
+                     and
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âSee Table 2 in the ELRP 2023 and 2024 CBA.
+                    </P>
+                </FTNT>
+                <P>
+                    â¢ Livestock revenue and production lossesâpoor forage quality and quantity contributed to a reduction in livestock production, typically through a decline in livestock condition and body weight, which results in lower livestock weaning weights and lower conception rates in breeding livestock.
+                    <SU>7</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âSee âImpact of drought on livestock production and healthâ available at 
+                        <E T="03">https://tra.extension.colostate.edu/wp-content/uploads/sites/42/2018/08/3_McKensie_Effect-of-Heat-Stress-and-Drought-on-Cattle-Production-and-Health_Condensed-Drought.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>As explained in the ELRP 2023 and 2024 Cost Benefit Analysis (CBA), persistent and severe drought and wildfire events have significantly impacted forage availability and herd sustainability, underscoring the necessity of federal intervention to stabilize the livestock industry and mitigate economic losses.</P>
+                <P>
+                    ELRP 2023 and 2024 is designed to compensate livestock producers for losses incurred during 2023 and 2024 by making payments in order to offset foregone profits due to qualifying drought and qualifying wildfires.
+                    <SU>8</SU>
+                    <FTREF/>
+                     Note that foregone profits represent the difference between profits realized by a producer and the profits that could have been achieved by the producer in the absence of certain adverse circumstances. During 2022, feed and grazing costs were extreme, while livestock prices were relatively normal. As a result, livestock production returns were reduced, which became the basis for the ELRP 2022 payment. Since that time, with systemic drought occurring year after year, livestock producers have been forced to reduce the number of cattle grazed per acre as grazing capacity has been woefully short. ELRP 2023 and 2024 compensates for livestock production that would have occurred had there not been extensive drought.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âAs under ELRP for 2021 and 2022, âqualifying droughtâ and âqualifying wildfireâ for ELRP 2023 and 2024 have the same meaning as âdroughtâ and âfireâ in determining eligibility for LFP payments for grazing losses (7 CFR 1416.205). âQualifying droughtâ means drought that occurs on land that is native or improved pastureland with permanent vegetative cover or is planted to a crop planted specifically for the purpose of providing grazing for covered livestock, and the land is physically located in a county rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity for at least 8 consecutive weeks or D3 (extreme drought) or D4 (exceptional drought) intensity at any time during the normal grazing period for the specific type of grazing land or pastureland. As under LFP, eligible losses due to qualifying wildfire are limited to losses occurring on rangeland managed by a Federal agency. See 7 CFR 1416.205(c).
+                    </P>
+                </FTNT>
+                <P>
+                    As an example, a livestock producer with 500 acres of pastureland could normally graze 100 head of cattle, but with continuous annual drought conditions during 2023 and 2024, producers have been forced to reduce their stocking rates or livestock inventories as the availability of grazing and supplemental feed is limited or may be cost prohibitive. As explained above, despite increasing livestock prices and profit margins, many producers were unable to sustain their operations, let alone expand. In addition, drought and wildfire impacted the quality and quantity of forage, which negatively impacted livestock production and profits due to decreased livestock body condition, weights, and breeding conception rates.
+                    <SU>9</SU>
+                    <FTREF/>
+                     Without these adverse conditions, producers could have realized significantly higher earnings.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âSee âImpact of drought on livestock production and healthâ available at 
+                        <E T="03">https://tra.extension.colostate.edu/wp-content/uploads/sites/42/2018/08/3_McKensie_Effect-of-Heat-Stress-and-Drought-on-Cattle-Production-and-Health_Condensed-Drought.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Illustrating the decline in livestock capacity nationally due to drought and wildfires, NASS data on the total inventory of cattle, including calves, was 86.7 million head on January 1, 2025, compared to the pre-pandemic and lower-drought-impact inventory of 94.7 million head on January 1, 2019â
+                    <SU>10</SU>
+                    <FTREF/>
+                    âa drop of 8.45 percent.
+                    <SU>11</SU>
+                    <FTREF/>
+                     In order to estimate losses incurred during 2023 and 2024 as measured by foregone profits, USDA used the average fair market value for non-adult beef cattle weighing over 800 lbs., representing 1 animal unit (AU), which is established for the Livestock Indemnity Program (LIP) and is consistent with Animal Plant Health and Inspection Service programs. The values are $1,659.50 for 2023 and $2,187.00 for 2024.
+                    <SU>12</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âSee Figure 1 of the ELRP 2023 and 2024 CBA and National Agricultural Statistics Service (NASS) data available at 
+                        <E T="03">https://usda.library.cornell.edu/concern/publications/h702q636h?locale=en.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âSee Table 2 of the ELRP 2023 and 2024 CBA.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âLIP provides benefits to livestock producers for livestock deaths in excess of normal mortality caused by adverse weather or by attacks by animals reintroduced into the wild by the Federal Government. LIP payment rates are equal to 75 percent of the average fair market value of the livestock. See 
+                        <E T="03">https://www.fsa.usda.gov/tools/informational/fact-sheets/livestock-indemnity-program-lip.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    For 2023, the estimated foregone profits due to drought and wildfire are equal to: (2018 inventory of 94.7 millionâ2023 inventory of 87.2 million) Ã $1,659.50 per AU Ã 10% profit marginâ
+                    <SU>13</SU>
+                    <FTREF/>
+                     = approximately $1.25 billion or $165.95 per AU.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âNon adult beef cattle over 800 pounds are used as the basis for this analysis because this represents 1 animal unitâthe measurement used for LFP payments. All other livestock are converted to animal unit-equivalents according to feed required to sustain them. The 10 percent profit margin used in the calculation is a conservative estimate based on information obtained from conversations with university extension specialists at North Dakota State University, the University of Nebraska, and others. This weight category is the best representation for what livestock producers market annually.
+                    </P>
+                </FTNT>
+                <P>For 2024, the estimated foregone profits due to drought and wildfire are equal to: (2018 inventory of 94.7 millionâ2024 inventory of 86.7 million) Ã $2,187.00 per AU Ã 10% profit margin = approximately $1.75 billion dollars or $218.70 per AU.</P>
+                <P>These calculations result in an average annual foregone profit value of $192.32 per AU ($165.90 in 2023 + $218.70 in 2024, divided by 2), or total foregone profit for 2023 and 2024 of about $3.0 billion to the nation's beef cattle industry or $384.65 per AU.</P>
+                <P>
+                    Similar to previous programs, ELRP 2023 and 2024 will use 2023 and 2024 LFP data already submitted by an eligible producer as a proxy for the payment calculation, representing a percentage of the payment made through LFP for losses incurred during 2023 and 2024 as a direct result of a 
+                    <PRTPAGE P="22616"/>
+                    qualifying drought or wildfire that impacted a producer's foregone profits. This eliminates the requirement for producers to resubmit information to FSA.
+                    <SU>14</SU>
+                    <FTREF/>
+                     This approach reduces application burdens for livestock producers by eliminating the need to submit an additional application form, and it streamlines administrative processes for FSA county offices by eliminating the need to process an additional application and enter data into software when the necessary data is already on file with FSA.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âFSA has previously used LFP payments as a proxy for losses due to drought and wildfires in calendar years 2021 and 2022. See Notice of Funds Availability for 2021 ELRP Phase 1 (87 FR 19465-19470), Notice of Funds Availability for 2021 ELRP Phase 2 (88 FR 66366-66372), and Notice of Funds Availability for ELRP 2022 (88 FR 66361-66366).
+                    </P>
+                </FTNT>
+                <P>
+                    Although LFP payments do not compensate livestock producers for their foregone profits, LFP payments directly reflect the severity of the drought or wildfire experienced by an LFP participant.
+                    <SU>15</SU>
+                    <FTREF/>
+                     LFP payments are made to eligible owners and contract growers of covered livestock who suffered livestock grazing losses due to qualifying drought or fire, not to exceed five months of assistance during the normal grazing period for drought, based on the documented livestock inventory eligible for LFP. The gross LFP calculated payment represents a 60 percent reimbursement of monthly feed costs for a maximum of 5 months for drought, or 50 percent of feed costs for the number of days of prohibited grazing due to fire, not to exceed 180 days.
+                    <SU>16</SU>
+                    <FTREF/>
+                     In 2023, the LFP monthly payment rate per AU was $58.12, while in 2024, it decreased to $52.56. Producers receive drought payments equal to 60 percent of their estimated feed costs, amounting to $34.87 per AU in 2023 and $31.54 per AU in 2024 (see Column A in Table 1 below).
+                    <SU>17</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âLFP payments for drought are based on both the severity and duration of the drought conditions during the normal grazing period. An eligible producer receives a 1-month LFP payment for D2 (severe drought) intensity for at least 8 consecutive weeks, a 3-month LFP payment for D3 (extreme drought) intensity for any length of time, a 4-month LFP payment for D3 intensity for at least four weeks or for D4 (exceptional drought) intensity for any length of time, and a 5-month LFP payment for D4 intensity for four weeks during the normal grazing period for the county. See 7 CFR 1416.207(b) through (e).
+                    </P>
+                    <P>LFP payments for fire are based on the number of days the producer is restricted from grazing livestock on federally managed land, not to exceed 180 days. See 7 CFR 1416.207(m).</P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âFeed costs are based on a feed grain equivalent that is calculated according to 7 CFR 1416.207, as specified in 7 U.S.C. 9081(c), which uses the higher of the national average corn price per bushel for the 12- or 24-month period immediately preceding March 1 of the calendar year. For drought, the monthly value of forage resulted in an LFP payment rate of $58.12 for 2023 and $52.56 for 2024 per eligible animal unit per month. The rate for fire is based on the number of fire-restricted days, not to exceed 180 days, at a daily animal unit feed rate of $1.9374 for 2023 and $1.7521 for 2024.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âAdditionally, LFP offers an 80 percent compensation factor for eligible livestock that were sold due to drought conditions in one or both of the previous two production years.
+                    </P>
+                </FTNT>
+                <P>FSA has determined the calculated national average foregone profits for livestock producers in 2023 and 2024 were $165.95 and $218.70 per AU, respectively (see calculation above). ELRP 2023 and 2024 uses the average of the calculated 2023 and 2024 foregone profits, $192.32 per AU (see Column E in Table 1 below), as the identified loss to producers that is compensated by ELRP 2023 and 2024. This approach streamlines the payment calculation and provides a commensurate level of assistance for similar losses. Total payments under ELRP 2023 and 2024, including any subsequent payments if funding remains available, will not exceed 60 percent of the calculated foregone profits per AU for the applicable calendar year.</P>
+                <P>FSA has determined that the initial ELRP 2023 and 2024 payment factor is 35 percent of the LFP gross calculated payment to stay within the funding amount that will be used for losses due to drought and wildfire and streamline delivery of assistance. Table 1 illustrates the percentage of calculated foregone profits per year per AU that would be covered by the corresponding ELRP 2023 and 2024 paymentâ32 percent for 2023 and 29 percent for 2024 (see Column F in Table 1). LFP compensates for grazing losses suffered in a calendar year using the drought severity as published by the U.S. Drought Monitor which determines the number of months of assistance provided by LFP.</P>
+                <GPOTABLE COLS="7" OPTS="L2(,0,),i1" CDEF="s50,14,14,14,14,14,14">
+                    <TTITLE>Table 1âCalculated ELRP 2023 and 2024 Benefit per AU and Percent of Calculated Foregone Profits Compensated by ELRP 2023 and 2024</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Program year</CHED>
+                        <CHED H="1">
+                            60 percent 
+                            <LI>of LFP </LI>
+                            <LI>payment rate </LI>
+                            <LI>per 1 AU </LI>
+                            <LI>per month</LI>
+                        </CHED>
+                        <CHED H="1">
+                            ELRP 2023 
+                            <LI>and 2024 </LI>
+                            <LI>payment </LI>
+                            <LI>factor</LI>
+                            <LI>(%)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            ELRP 2023 
+                            <LI>and 2024 </LI>
+                            <LI>calculated </LI>
+                            <LI>benefit per </LI>
+                            <LI>month per </LI>
+                            <LI>eligible AU </LI>
+                        </CHED>
+                        <CHED H="1">
+                            ELRP 
+                            <LI>calculated </LI>
+                            <LI>benefit per </LI>
+                            <LI>eligible AU </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Average 
+                            <LI>calculated </LI>
+                            <LI>foregone </LI>
+                            <LI>profits for </LI>
+                            <LI>2023 and </LI>
+                            <LI>2024 per AU</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Percent of 
+                            <LI>foregone </LI>
+                            <LI>profit </LI>
+                            <LI>compensated </LI>
+                            <LI>by ELRP 2023 </LI>
+                            <LI>and 2024</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW RUL="sî">
+                        <ENT I="25">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>(A Ã B)</ENT>
+                        <ENT>
+                            (C Ã 5 LFP
+                            <LI>payment months)</LI>
+                        </ENT>
+                        <ENT O="xl"/>
+                        <ENT>(D Ã· E)</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="25">â</ENT>
+                        <ENT>A</ENT>
+                        <ENT>B</ENT>
+                        <ENT>C</ENT>
+                        <ENT>D</ENT>
+                        <ENT>E</ENT>
+                        <ENT>F</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2023</ENT>
+                        <ENT>$34.87</ENT>
+                        <ENT>35</ENT>
+                        <ENT>$12.20</ENT>
+                        <ENT>$61.02</ENT>
+                        <ENT>$192.32</ENT>
+                        <ENT>32</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2024</ENT>
+                        <ENT>31.54</ENT>
+                        <ENT>35</ENT>
+                        <ENT>11.04</ENT>
+                        <ENT>55.20</ENT>
+                        <ENT>$192.32</ENT>
+                        <ENT>29</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>The calculations in Table 1 are based on an LFP payment for D4 (Exceptional Drought) intensity for at least 4 weeks, which results in the maximum LFP payment equal to a five-month payment. The ELRP 2023 and 2024 calculated benefit per AU (Table 1, Column D) and the corresponding percentage of foregone profits (Table 1, Column F) would be lower if the LFP gross payment, used as a proxy, was based on less than a five-month payment for drought or a payment for wildfire.</P>
+                <P>
+                    Table 2 illustrates a situation where a producer received an LFP payment for both 2023 and 2024, representing five months of disaster assistance for each program year. In this example, the producer has 250 head of cattle eligible for 2023 ELRP and 250 head eligible for 2024 ELRP, and received the maximum LFP payment. Therefore, the producer is also eligible for the maximum ELRP benefit per head. In this example, this producer's estimated gross 2023 and 2024 ELRP payments, using an ELRP payment factor of 35 percent, are calculated to be $15,256 for 2023 losses and $13,799 for 2024 losses (Table 2 Column F), or $61.02 per AU for 2023 and $55.20 per AU for 2024 (Table 2 Column G).
+                    <PRTPAGE P="22617"/>
+                </P>
+                <GPOTABLE COLS="8" OPTS="L2(,0,),i1" CDEF="s50,12,12,12,14,12,12,14">
+                    <TTITLE>Table 2âExample of ELRP 2023 and 2024 Payments Using a 35 percent ELRP Payment Factor</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Program year</CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>LFP eligible </LI>
+                            <LI>beef cows </LI>
+                            <LI>(AUs)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            LFP rate per 
+                            <LI>1 AU per </LI>
+                            <LI>month</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Maximum 
+                            <LI>gross LFP </LI>
+                            <LI>payment</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Maximum 
+                            <LI>LFP </LI>
+                            <LI>payment </LI>
+                            <LI>rate per AU</LI>
+                        </CHED>
+                        <CHED H="1">
+                            ELRP
+                            <LI>payment </LI>
+                            <LI>factor</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Gross ELRP 
+                            <LI>payment</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Gross ELRP 
+                            <LI>payment rate </LI>
+                            <LI>per AU</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW RUL="sî">
+                        <ENT I="25">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>(A Ã B Ã 5 months)</ENT>
+                        <ENT>(C Ã· A or B Ã 5)</ENT>
+                        <ENT O="xl"/>
+                        <ENT>(C Ã E)</ENT>
+                        <ENT>(D Ã E or F Ã· A)</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="25">â</ENT>
+                        <ENT>A</ENT>
+                        <ENT>B</ENT>
+                        <ENT>C</ENT>
+                        <ENT>D</ENT>
+                        <ENT>E</ENT>
+                        <ENT>F</ENT>
+                        <ENT>G</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2023</ENT>
+                        <ENT>250</ENT>
+                        <ENT>$34.87</ENT>
+                        <ENT>$43,588</ENT>
+                        <ENT>$174.35</ENT>
+                        <ENT>35</ENT>
+                        <ENT>$15,256</ENT>
+                        <ENT>$61.02</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2024</ENT>
+                        <ENT>250</ENT>
+                        <ENT>31.54</ENT>
+                        <ENT>39,425</ENT>
+                        <ENT>157.70</ENT>
+                        <ENT>35</ENT>
+                        <ENT>13,799</ENT>
+                        <ENT>55.20</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>Additional ELRP 2023 and 2024 payments may be issued if funding is available after losses for flooding are issued, not to exceed 60 percent of calculated foregone profits.</P>
+                <HD SOURCE="HD1">Producer Eligibility</HD>
+                <P>
+                    To be eligible for ELRP 2023 and 2024, a livestock producer must have an approved LFP application for the 2023, 2024, or both program years.
+                    <SU>18</SU>
+                    <FTREF/>
+                     Eligible producers may receive payment for one or both years. The eligibility criteria applicable to LFP also apply to ELRP 2023 and 2024, excluding the LFP average adjusted gross income (AGI) limitation, consistent with other disaster programs including ELRP, ELRP 2022, the Emergency Relief Program (ERP), ERP 2022, 2017 Wildfire and Hurricane Indemnity Program (WHIP), and WHIP+.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âIf a producer did not file an LFP application for 2023 or 2024 prior to the deadline, they may submit a late-filed LFP application and request relief. If relief is granted and such producer receives an LFP payment, the producer may be considered eligible for ELRP 2023 and 2024.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">Payment Calculation</HD>
+                <P>Because ELRP 2023 and 2024 is based on a producer's gross LFP calculated payment, the resulting ELRP 2023 and 2024 payments will be based on the following data reported on an eligible livestock producer's approved CCC-853, Livestock Forage Disaster Program Application, for the 2023 or 2024 program year:</P>
+                <P>â¢ livestock inventories/AUs,</P>
+                <P>â¢ forage acreage,</P>
+                <P>â¢ restricted AUs and grazing days due to fire, and</P>
+                <P>â¢ qualifying drought and fire information.</P>
+                <FP>Any adjustments made by FSA to the information provided on the CCC-853 will also apply to ELRP 2023 and 2024.</FP>
+                <P>ELRP 2023 and 2024 payments will be calculated separately for each year by multiplying the gross LFP calculated payment for the applicable program year (2023 or 2024) by the ELRP payment factor of 35 percent to determine the total gross payment for the program year, prior to any applicable payment reductions.</P>
+                <P>FSA will issue ELRP 2023 and 2024 payments as 2023 and 2024 LFP applications are processed and approved. If a producer becomes eligible for the increased payment limitation described below by filing the FSA-510 form and the accompanying certification by the deadline announced by the Deputy Administrator but after their ELRP 2023 or 2024 payment is issued, FSA will recalculate the ELRP 2023 or 2024 payment and issue the additional amount.</P>
+                <HD SOURCE="HD1">Payment Limitation</HD>
+                <P>As required by the Act, ELRP 2023 and 2024 is subject to payment limitations consistent with 7 CFR 760.1507, as in effect on December 21, 2024. Separate payment limitations apply to each year (2023 and 2024). The payment limitation for ELRP 2023 and 2024 is determined by the person's or legal entity's average adjusted gross farm income. Specifically, a person or legal entity, other than a joint venture or general partnership, cannot receive, directly or indirectly, more than $125,000 for each year if their average adjusted gross farm income is less than 75 percent of their average adjusted gross income (AGI) for the applicable base period. If at least 75 percent of the person or legal entity's average AGI is average adjusted gross farm income and the participant provides the required certification and documentation, as discussed below, the person or legal entity, other than a joint venture or general partnership, is eligible to receive, directly or indirectly, up to $250,000 for each year.</P>
+                <P>Average adjusted gross farm income includes income derived from farming, ranching, and forestry operations, which has the same meaning for ELRP 2023 and 2024 as in other recent FSA programs such as ERP, ELRP, and ELRP 2022. If the average adjusted gross farm income derived from the items listed in the definition of âincome derived from farming, ranching, and forestry operationsâ (7 CFR 760.2002) is at least 66.66 percent of the average adjusted gross income of the person or legal entity, then the average adjusted gross farm income may also take into consideration income or benefits derived from the sale, trade, or other disposition of equipment to conduct farm, ranch, or forestry operations, and the provision of production inputs and production services to farmers, ranchers, foresters, and farm operations. Inclusion of those items and benefits in this manner was first introduced by section 1604 of the Food Conservation and Energy Act of 2008 (Pub. L. 110-234), which amended section 1001D of the Farm Security and Rural Investment Act of 2002 (Pub. L. 107-171). This provision has been applied in other recent FSA and Commodity Credit Corporation programs that use a producer's average adjusted gross farm income for payment eligibility or payment limitation purposes.</P>
+                <P>As provided in 7 CFR 1400.105, a payment made to a legal entity will be attributed to those members who have a direct or indirect ownership interest in the legal entity unless the payment to the legal entity has been reduced by the proportionate ownership interest of the member due to that member's ineligibility. As in other FSA programs, attribution of payments made to legal entities will be tracked through four levels of ownership as follows:</P>
+                <P>
+                    â¢ First level of ownershipâany payment made to a legal entity that is owned in whole or in part by a person will be attributed to the person in an amount that represents the direct ownership interest in the first level or payment legal entity;â
+                    <SU>19</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âThere will be a reduction applied for the âfirst level or payment legal entity,â and if the payment entity happens to be a joint venture, that reduction is applied to the first level, or highest level, for payments. The âfirst level or payment legal entityâ is the highest level of ownership of the applicant to whom payments can be attributed or limited. If the applicant is a business type that does not have a limitation or attribution, the reduction is applied 
+                        <PRTPAGE/>
+                        to the first level, but if the business type can have the reduction applied directly to it, then the limitation applies.
+                    </P>
+                </FTNT>
+                <PRTPAGE P="22618"/>
+                <P>â¢ Second level of ownershipâany payment made to a first-level legal entity that is owned in whole or in part by another legal entity (referred to as a second-level legal entity) will be attributed to the second-level legal entity in proportion to the ownership of the second-level legal entity in the first-level legal entity; if the second-level legal entity is owned in whole or in part by a person, the amount of the payment made to the first-level legal entity will be attributed to the person in the amount that represents the indirect ownership in the first-level legal entity by the person;</P>
+                <P>â¢ Third and fourth levels of ownershipâexcept as provided in the second level of ownership bullet above and in the fourth level of ownership bullet below, any payments made to a legal entity at the third and fourth levels of ownership will be attributed in the same manner as specified in the second level of ownership bullet above; and</P>
+                <P>â¢ Fourth level of ownershipâif the fourth level of ownership is that of a legal entity and not that of a person, a reduction in payment will be applied to the first-level or payment legal entity in the amount that represents the indirect ownership in the first level or payment legal entity by the fourth-level legal entity.</P>
+                <P>If an individual or legal entity is not eligible to receive ELRP 2023 and 2024 payments due to the individual or legal entity failing to satisfy payment eligibility provisions, the payment made either directly or indirectly to the individual or legal entity will be reduced to zero. The amount of the reduction for the direct payment to the producer will be commensurate with the direct or indirect ownership interest of the ineligible individual or ineligible legal entity.</P>
+                <P>Like other programs administered by FSA, payments made to an Indian Tribe or Tribal organization, as defined in section 4(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304), will not be subject to payment limitation.</P>
+                <P>Payments made directly or indirectly to a person who is a minor child will not be combined with the earnings of the minor's parent or legal guardian.</P>
+                <HD SOURCE="HD1">Required Forms and Deadlines</HD>
+                <P>
+                    To be eligible for an ELRP 2023 and 2024 payment, a livestock producer must have an approved LFP application on file with FSA for the applicable program year (2023, 2024, or both).
+                    <SU>20</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âAs provided in 7 CFR 1416.206 and publicized by FSA, the LFP application deadline for the 2023 program year was January 30, 2024, and the deadline for the 2024 program year was March 3, 2025.
+                    </P>
+                </FTNT>
+                <P>A producer must submit the following forms for payment eligibility associated with an approved LFP application by the deadline announced by the Deputy Administrator, if not already on file with FSA for the applicable program year:</P>
+                <P>â¢ CCC-902, Farm Operating Plan, for an individual or legal entity as provided in 7 CFR part 1400;</P>
+                <P>â¢ CCC-901, Member Information for Legal Entities, if applicable;</P>
+                <P>â¢ AD-1026, Highly Erodible Land Conservation (HELC) and Wetland Conservation (WC) Certification, for the ELRP 2023 and 2024 participant and applicable affiliates; and</P>
+                <P>â¢ FSA-510, Request for an Exception to the $125,000 Payment Limitation for Certain Programs, accompanied by a certification from a certified public accountant or attorney as to that person or legal entity's certification, for participants and members of legal entities to be eligible for the increased payment limitation of $250,000.</P>
+                <HD SOURCE="HD1">Notice and Comment and Effective Date</HD>
+                <P>The Administrative Procedure Act (APA, 5 U.S.C. 553(a)(2)) provides that the notice and comment and 30-day delay in the effective date provisions do not apply when the rule involves specified actions, including matters relating to benefits or contracts. This rule governs disaster assistance payments to livestock producers and therefore falls within the benefits exemption.</P>
+                <P>This rule is exempt from the regulatory analysis requirements of the Regulatory Flexibility Act (5 U.S.C. 601-612), as amended by the Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA) because it involves matters relating to benefits. The requirements for the regulatory flexibility analysis in 5 U.S.C. 603 and 604 are specifically tied to the requirement for a proposed rule by section 553 or any other law; in addition, the definition of rule in 5 U.S.C. 601 is tied to the publication of a proposed rule.</P>
+                <P>
+                    The Office of Management and Budget (OMB) found this rule meets the criteria in 5 U.S.C. 804(2) of the Congressional Review Act (CRA). The CRA, at 5 U.S.C. 808(2) allows an agency to make such regulations effective immediately if the agency finds there is good cause to do so. The beneficiaries of this rule have been significantly impacted by disaster events, which resulted in losses due to the impact of drought and wildfire conditions during normal grazing periods in calendar years 2023 and 2024, and this assistance is necessary to support livestock producers who have incurred increased grazing and supplemental feed costs in order to avoid further livestock liquidations. To mitigate further adverse impacts on affected livestock producers for losses suffered in 2023 and 2024, USDA finds that notice and public procedure are contrary to the public interest. Therefore, USDA is not required to delay the effective date for 60 days from the date of publication to allow for Congressional review. Accordingly, this rule is effective upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <HD SOURCE="HD1">Executive Orders 12866, 13563, and 14192</HD>
+                <P>Executive Order 12866, âRegulatory Planning and Review,â and Executive Order 13563, âImproving Regulation and Regulatory Review,â direct agencies to assess all costs and benefits of available regulatory alternatives and, if regulation is necessary, to select regulatory approaches that maximize net benefits (including potential economic, environmental, public health and safety effects, distributive impacts, and equity). Executive Order 13563 emphasized the importance of quantifying both costs and benefits, of reducing costs, of harmonizing rules, and of promoting flexibility. Executive Order 14192 âUnleashing Prosperity Through Deregulationâ announced the Administration policy to significantly reduce the private expenditures required to comply with Federal regulations to secure America's economic prosperity and national security and the highest possible quality of life for each citizen and to alleviate unnecessary regulatory burdens placed on the American people. In line with the Executive Order requirements, the Agency chose this regulatory approach, including leveraging existing applications and data, to maximize benefits and minimize burden on American producers. The requirements in Executive Orders 12866 and 13563 for the analysis of costs and benefits apply to rules that are determined to be significant or economically significant. This rule has been designated as economically significant.</P>
+                <P>
+                    The Office of Management and Budget (OMB) designated this rule as economically significant under Executive Order 12866 and therefore, OMB has reviewed this rule. The costs and benefits of this rule are summarized 
+                    <PRTPAGE P="22619"/>
+                    below. The full CBA is available on 
+                    <E T="03">regulations.gov.</E>
+                </P>
+                <HD SOURCE="HD1">Cost Benefit Analysis Summary</HD>
+                <P>Title I of the Disaster Relief Supplemental Appropriations Act, 2025 (Division B of the American Relief Act, 2025; Pub. L. 118-158) directs the Secretary to use up to $2 billion to fund disaster assistance to livestock producers for losses incurred during calendar years 2023 and 2024 due to drought, wildfires, and floods. ELRP 2023 and 2024 will use approximately $1 billion of the $2 billion to provide payments to livestock producers for losses due to qualifying drought and wildfires that occurred in calendar years 2023 and 2024. Persistent and severe drought and wildfire events have significantly impacted forage availability and herd sustainability, underscoring the necessity of Federal intervention to stabilize the livestock industry and mitigate economic losses.</P>
+                <P>ELRP 2023 and 2024 compensates livestock producers for foregone profits due to drought and wildfire in 2023 and 2024. Producers may receive payments for losses in 2023, 2024, or both years. To provide a simple process that results in quick payments to producers, ELRP 2023 and 2024 payments are based on 2023 and 2024 LFP payments; hence, no additional application process is required.</P>
+                <P>Factors are applied to keep ELRP payments for eligible producers at about $1.0 billion in total for 2023 and 2024, leaving another $1.0 billion for other livestock producer losses provided for in the American Relief Act, 2025. Specifically, ELRP 2023 and 2024 will use a program factor of 35 percent of the LFP rate. ELRP 2023 and 2024 payouts are estimated at $721 million associated with losses in 2023 and $346 million associated with losses in 2024. The largest payment recipient states are those with large cattle and forage sectors in the West and Mid-West, where drought has particularly strained producers' financial viability. For 2023 losses, the top five recipient states are Texas, Oklahoma, Kansas, Missouri, and Nebraska, accounting for 66 percent of payments. For 2024 losses, the top recipient states are Oklahoma, Missouri, Texas, Montana, and Wyoming, accounting for 57 percent of payments. Over 95 percent of payments will be made in FY 2025.</P>
+                <HD SOURCE="HD1">Environmental Review</HD>
+                <P>The environmental impacts have been considered in a manner consistent with the provisions of the National Environmental Policy Act (NEPA, 42 U.S.C. 4321-4347) and the FSA regulation for compliance with NEPA (7 CFR part 799).</P>
+                <P>The purpose of ELRP 2023 and 2024 is to provide assistance to eligible livestock producers for losses incurred during 2023 and 2024 which represent foregone profits as a result of the impact that drought and wildfire has had on forage quality and quantity losses due to a qualifying drought or wildfire in calendar years 2023 or 2024. The limited discretionary aspects of ELRP 2023 and 2024 do not have the potential to impact the human environment as they are administrative. Accordingly, these discretionary aspects are covered by the FSA Categorical Exclusions specified in Â§â799.31(b)(6)(iv) that apply to individual farm participation in FSA programs where no ground disturbance or change in land use occurs as a result of the proposed action or participation, and Â§â799.31(b)(6)(vi) that applies to safety net programs.</P>
+                <P>No Extraordinary Circumstances (Â§â799.33) exist because this is an administrative payment program that does not have the potential to impact the human environment individually or collectively. As such, the implementation of ELRP 2023 and 2024 and participation in ELRP 2023 and 2024 do not constitute major Federal actions that would significantly affect the quality of the human environment, individually or cumulatively. Therefore, FSA will not prepare an environmental assessment or environmental impact statement for this action and this document serves as documentation of the programmatic environmental compliance decision for this federal action.</P>
+                <HD SOURCE="HD1">Executive Order 13175</HD>
+                <P>This rule has been reviewed in accordance with the requirements of Executive Order 13175, âConsultation and Coordination with Indian Tribal Governments.â Executive Order 13175 requires Federal agencies to consult and coordinate with Tribes on a Government-to-Government basis on policies that have Tribal implications, including regulations, legislative comments or proposed legislation, and other policy statements or actions that have substantial direct effects on one or more Indian Tribes, on the relationship between the Federal Government and Indian Tribes, or on the distribution of power and responsibilities between the Federal Government and Indian Tribes.</P>
+                <P>USDA has assessed the impact of this rule on Indian Tribes and determined that this rule does not, to our knowledge, have Tribal implications that required Tribal consultation at this time. If a Tribe requests consultation, the USDA Farm Service Agency will work with the Office of Tribal Relations to ensure meaningful consultation is provided.</P>
+                <HD SOURCE="HD1">Unfunded Mandates Reform Act</HD>
+                <P>Title II of the Unfunded Mandates Reform Act of 1995 (UMRA, Pub. L. 104-4) requires Federal agencies to assess the effects of their regulatory actions of State, local, and Tribal governments or the private sector. Agencies generally must prepare a written statement, including cost benefit analysis, for proposed and final rules with Federal mandates that may result in expenditures of $100 million or more in any 1 year for State, local or Tribal governments, in the aggregate, or to the private sector. UMRA generally requires agencies to consider alternatives and adopt the more cost effective or least burdensome alternative that achieves the objectives of the rule. This rule contains no Federal mandates, as defined in Title II of UMRA, for State, local and Tribal governments or the private sector. Therefore, this rule is not subject to the requirements of sections 202 and 205 of UMRA.</P>
+                <HD SOURCE="HD1">Paperwork Reduction Act Requirements</HD>
+                <P>The Paperwork Reduction Act of 1995 (44 U.S.C. Chap. 35; see 5 CFR part 1320), requires that OMB approve all collections of information by a Federal agency from the public before they can be implemented. Respondents are not required to respond to any collection of information unless it displays a current valid OMB control number. The information collection request has been approved by OMB under the control number of 0503-0028; Expiration Date: 10/31/2027. FSA will use LFP documentation as the basis for making ELRP 2023 and 2024 payments to producers. For the information collection changes related to the existing approval under 0503-0028, the agency is seeking to use FSA-510 with this data collection, the time per respondent is 5 minutes. This final rule is a one-time announcement of ELRP 2023 and 2024 federal financial assistance funding.</P>
+                <P>
+                    <E T="03">For Further Information Contact:</E>
+                     Requests for additional information or copies of this information collection should be directed to Kathy Sayers, Farm Service Agency, U.S. Department of Agriculture, via email to 
+                    <E T="03">Kathy.Sayers@usda.gov.</E>
+                </P>
+                <P>
+                    <E T="03">Title:</E>
+                     Emergency Livestock Relief Program (ELRP) 2023 and 2024.
+                </P>
+                <P>
+                    <E T="03">Form Number:</E>
+                     FSA-510.
+                </P>
+                <P>
+                    <E T="03">OMB Number:</E>
+                     0503-0028.
+                </P>
+                <P>
+                    <E T="03">Expiration Date:</E>
+                     10/31/2027.
+                    <PRTPAGE P="22620"/>
+                </P>
+                <P>
+                    <E T="03">Type of Request:</E>
+                     Revision to Generic Information Collection.
+                </P>
+                <P>
+                    <E T="03">Abstract:</E>
+                     As required by the Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)), FSA is providing producers with ELRP 2023 and 2024 payments. ELRP 2023 and 2024 will use approximately $1 billion in funds authorized by Section 2102 of Division B of Title I of the American Relief Act, 2025 (âthe Actâ; Pub. L. 118-158) to eligible livestock producers for losses due to qualifying drought and qualifying wildfire occurring in calendar years 2023 and 2024. These payments will help livestock producers to offset foregone profits due to qualifying drought and qualifying wildfires. Foregone profits represent the difference between profits actually achieved by a producer and the profits that could have been achieved by a producer in the absence of certain adverse circumstances. If funding remains available after issuing assistance to livestock producers for other eligible losses under the Act, which will be addressed in a later rule, FSA may make additional payments to ELRP 2023 and 2024 participants.
+                </P>
+                <P>FSA will calculate payments using data already submitted to FSA by Livestock Forage Disaster Program (LFP) participants; therefore, producers are not required to file an additional application to receive ELRP 2023 and 2024 payments. A livestock producer must have an approved LFP application for either 2023, 2024, or both program years. Eligible producers may receive payment for one or both years. The eligibility criteria applicable to LFP also apply to ELRP 2023 and 2024, excluding the LFP average adjusted gross income (AGI) limitation.</P>
+                <P>
+                    <E T="03">Affected Public:</E>
+                     Farms or businesses for profit.
+                </P>
+                <P>
+                    <E T="03">Estimated Number Respondents:</E>
+                     100.
+                </P>
+                <P>
+                    <E T="03">Estimated Number of Responses per Respondent:</E>
+                     1.
+                </P>
+                <P>
+                    <E T="03">Estimated Time per Respondent:</E>
+                     0.0835 hours.
+                </P>
+                <P>
+                    <E T="03">Estimated Total Annual Burden on Respondents:</E>
+                     8.35 burden hours.
+                </P>
+                <GPOTABLE COLS="5" OPTS="L2,tp0,i1" CDEF="s50,12C,12C,12C,12C">
+                    <TTITLE>â</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Respondents</CHED>
+                        <CHED H="1">
+                            Estimated 
+                            <LI>annual </LI>
+                            <LI>responses</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Responses 
+                            <LI>per year</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Hours 
+                            <LI>per response</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Total hours 
+                            <LI>per year</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">100</ENT>
+                        <ENT>1</ENT>
+                        <ENT>100</ENT>
+                        <ENT>0.0835</ENT>
+                        <ENT>8.35</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>There is no recordkeeping or third-party burden on the respondents.</P>
+                <HD SOURCE="HD1">E-Government Act Compliance</HD>
+                <P>FSA is committed to complying with the E-Government Act of 2002, to promote the use of the internet and other information technologies to provide increased opportunities for citizen access to Government information and services, and for other purposes.</P>
+                <HD SOURCE="HD1">Federal Assistance Programs</HD>
+                <P>The title and number of the Federal assistance programs, as found in the Assistance Listing, to which this document applies is 10.986âEmergency Livestock Relief Program 2023 and 2024.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 7 CFR Part 760</HD>
+                    <P>Acreage allotments, dairy products, indemnity payments, pesticides and pest, reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <P>For the reasons discussed above, this final rule amends 7 CFR part 760 as follows:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 760âINDEMNITY PAYMENT PROGRAMS</HD>
+                </PART>
+                <REGTEXT TITLE="7" PART="760">
+                    <AMDPAR>1. Revise the authority citation for part 760 to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>7 U.S.C. 4501 and 1531; 16 U.S.C. 3801, note; 19 U.S.C. 2497; Title III, Pub. L. 109-234, 120 Stat. 474; Title IX, Pub. L. 110-28, 121 Stat. 211; Sec. 748, Pub. L. 111-80, 123 Stat. 2131; Title I, Pub. L. 115-123, 132 Stat. 65; Title I, Pub. L. 116-20, 133 Stat. 871; Division B, Title VII, Pub. L. 116-94, 133 Stat. 2658; Title I, Pub. L. 117-43, 135 Stat. 356; and Division N, Title I, Pub. L. 117-328, 136 Stat. 4459; Division B, Title I, Pub. L. 118-158, 138 Stat. 1722.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="760">
+                    <AMDPAR>2. Add subpart T, consisting of Â§Â§â760.2000 through 760.2007, to read as follows:</AMDPAR>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart TâEmergency Livestock Relief Program 2023 and 2024</HD>
+                    </SUBPART>
+                    <CONTENTS>
+                        <SECHD>Sec.</SECHD>
+                        <SECTNO>760.2000</SECTNO>
+                        <SUBJECT>Applicability.</SUBJECT>
+                        <SECTNO>760.2001</SECTNO>
+                        <SUBJECT>Administration.</SUBJECT>
+                        <SECTNO>760.2002</SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <SECTNO>760.2003</SECTNO>
+                        <SUBJECT>Eligible producers.</SUBJECT>
+                        <SECTNO>760.2004</SECTNO>
+                        <SUBJECT>Required forms and deadlines.</SUBJECT>
+                        <SECTNO>760.2005</SECTNO>
+                        <SUBJECT>Payment calculation.</SUBJECT>
+                        <SECTNO>760.2006</SECTNO>
+                        <SUBJECT>Payment limitation.</SUBJECT>
+                        <SECTNO>760.2007</SECTNO>
+                        <SUBJECT>Miscellaneous provisions.</SUBJECT>
+                    </CONTENTS>
+                    <SECTION>
+                        <SECTNO>Â§â760.2000</SECTNO>
+                        <SUBJECT>Applicability.</SUBJECT>
+                        <P>(a) This subpart specifies the eligibility requirements and payment calculations for the Emergency Livestock Relief Program (ELRP) 2023 and 2024, which is authorized by Title I of the Disaster Relief Supplemental Appropriations Act, 2025 (Division B of the American Relief Act, 2025; Pub. L. 118-158). ELRP 2023 and 2024 provides payments to livestock producers who suffered losses incurred during 2023 and 2024 due to qualifying drought and wildfire. Payments will be made for foregone profits as a result of forage quality and quantity losses due to qualifying drought and qualifying wildfire in calendar years 2023 or 2024.</P>
+                        <P>(b) To be eligible for ELRP 2023 and 2024 payments, participants must comply with all applicable provisions under this subpart.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â760.2001</SECTNO>
+                        <SUBJECT>Administration.</SUBJECT>
+                        <P>(a) ELRP 2023 and 2024 is administered under the general supervision and direction of the Administrator, Farm Service Agency (FSA), and the Deputy Administrator for Farm Programs (Deputy Administrator).</P>
+                        <P>(b) FSA representatives do not have authority to modify or waive any of the provisions of the regulations of this subpart as amended or supplemented, except as specified in paragraph (e) of this section.</P>
+                        <P>(c) The State committee will take any action required by the regulations of this subpart that the county committee has not taken. The State committee will also:</P>
+                        <P>(1) Correct, or require a county committee to correct, any action taken by such county committee that is not in accordance with the regulations of this subpart, or</P>
+                        <P>(2) Require a county committee to withhold taking any action that is not in accordance with this subpart.</P>
+                        <P>(d) No provision or delegation to a State or county committee will preclude the FSA Administrator, the Deputy Administrator, or a designee or other such person, from determining any question arising under the programs of this subpart, or from reversing or modifying any determination made by a State or county committee.</P>
+                        <P>
+                            (e) The Deputy Administrator may authorize State and county committees to waive or modify non-statutory deadlines or other program requirements of this subpart in cases where lateness or failure to meet such requirements does not adversely affect operation of ELRP 2023 and 2024. Participants have no right to an exception under this provision. The Deputy Administrator's refusal to 
+                            <PRTPAGE P="22621"/>
+                            consider cases or circumstances or decisions not to exercise this discretionary authority under this provision will not be considered an adverse decision and is not appealable.
+                        </P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â760.2002</SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <P>The definitions in 7 CFR 718, 1400, and 1416 apply to this subpart, except where they conflict with the definitions in this section. The following definitions also apply.</P>
+                        <P>
+                            <E T="03">Average adjusted gross farm income</E>
+                             means the average of the person or legal entity's adjusted gross income derived from farming, ranching, and forestry operations, including losses, for the base period.
+                        </P>
+                        <P>(1) If the resulting average adjusted gross farm income derived from paragraphs (1) through (13) of the definition for âincome derived from farming, ranching and forestry operationsâ is at least 66.66 percent of the average adjusted gross income of the person or legal entity, then the average adjusted gross farm income may also take into consideration income or benefits derived from the following:</P>
+                        <P>(i) The sale, trade, or other disposition of equipment to conduct farm, ranch, or forestry operations; and</P>
+                        <P>(ii) The provision of production inputs and services to farmers, ranchers, foresters, and farm operations.</P>
+                        <P>(2) For legal entities not required to file a Federal income tax return, or a person or legal entity that did not have taxable income in 1 or more of the tax years during the base period, the average gross farm income will be the adjusted gross farm income, including losses, averaged for the base period, as determined by FSA. For a legal entity created during the base period, the adjusted gross farm income average will include only those years of the base period for which it was in business; however, a new legal entity will not be considered ânewâ to the extent it takes over an existing operation and has any elements of common ownership interest and land with the preceding person or legal entity from which it took over. When there is such commonality, income of the previous person or legal entity will be averaged with that of the new legal entity for the base period. For a person filing a joint tax return, the certification of average adjusted gross farm income may be reported as if the person had filed a separate Federal tax return, and the calculation is consistent with the information supporting the filed joint return.</P>
+                        <P>
+                            <E T="03">Average AGI</E>
+                             means the average of the adjusted gross income as defined under 26 U.S.C. 62 or comparable measure of the person or legal entity for the base period.
+                        </P>
+                        <P>
+                            <E T="03">Base period</E>
+                             means:
+                        </P>
+                        <P>(1) 2019, 2020, and 2021 for 2023; and</P>
+                        <P>(2) 2020, 2021, and 2022 for 2024.</P>
+                        <P>
+                            <E T="03">Farming operation</E>
+                             means a business enterprise engaged in the production of agricultural products, commodities, or livestock, operated by a person, legal entity, or joint operation. A person or legal entity may have more than one farming operation if the person or legal entity is a member of one or more legal entities or joint operations.
+                        </P>
+                        <P>
+                            <E T="03">Gross LFP calculated payment</E>
+                             means the LFP payment calculated according to 7 CFR 1416.207, prior to any payment reductions for reasons including, but not limited to, sequestration, payment limitation, and the applicant or member of an applicant that is an entity exceeding the average AGI limitation.
+                        </P>
+                        <P>
+                            <E T="03">Income derived from farming, ranching, and forestry operations</E>
+                             means income of an individual or entity derived from:
+                        </P>
+                        <P>(1) Production of crops and unfinished raw forestry products;</P>
+                        <P>(2) Production of livestock, aquaculture products used for food, honeybees, and products derived from livestock;</P>
+                        <P>(3) Production of farm-based renewable energy;</P>
+                        <P>(4) Selling (including the sale of easements and development rights) of farm, ranch, and forestry land, water or hunting rights, or environmental benefits;</P>
+                        <P>(5) Rental or lease of land or equipment used for farming, ranching, or forestry operations, including water or hunting rights;</P>
+                        <P>(6) Processing, packing, storing, and transportation of farm, ranch, or forestry commodities including for renewable energy;</P>
+                        <P>(7) Feeding, rearing, or finishing of livestock;</P>
+                        <P>(8) Payments of benefits, including benefits from risk management practices, federal crop insurance indemnities, and catastrophic risk protection plans;</P>
+                        <P>(9) Sale of land that has been used for agricultural purposes;</P>
+                        <P>(10) Benefits (including, but not limited to, cost-share assistance and other payments) from any Federal program made available and applicable to payment eligibility and payment limitation rules, as provided in 7 CFR part 1400;</P>
+                        <P>
+                            (11) Income reported on Internal Revenue Service (IRS) Schedule F (Form 1040), 
+                            <E T="03">Profit or Loss from Farming,</E>
+                             or other schedule, approved by the Deputy Administrator, used by the person or legal entity to report income from such operations to the IRS;
+                        </P>
+                        <P>(12) Wages or dividends received from a closely held corporation, an Interest Charge Domestic International Sales Corporation (also known as IC-DISC), or legal entity comprised entirely of family members when more than 50 percent of the legal entity's gross receipts for each tax year are derived from farming, ranching, and forestry activities as defined in this subpart; and</P>
+                        <P>(13) Any other activity related to farming, ranching, and forestry, as determined by the Deputy Administrator.</P>
+                        <P>
+                            <E T="03">IRS</E>
+                             means the Department of the Treasury, Internal Revenue Service.
+                        </P>
+                        <P>
+                            <E T="03">Legal entity:</E>
+                             (1) Means an entity that is created under Federal or State law and that:
+                        </P>
+                        <P>(i) Owns land or an agricultural commodity, or</P>
+                        <P>(ii) Produces an agricultural commodity; and</P>
+                        <P>(2) Includes corporations, joint stock companies, associations, limited partnerships, limited liability companies, irrevocable trusts, estates, charitable organizations, general partnerships, joint ventures, and other similar organizations created under Federal or State law including any such organization participating in a business structure as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or as a participant in a similar organization. A business operating as a sole proprietorship is considered a legal entity.</P>
+                        <P>
+                            <E T="03">LFP</E>
+                             means the Livestock Forage Disaster Program under section 1501 of the Agricultural Act of 2014 (7 U.S.C. 9081) and 7 CFR part 1416, subpart C.
+                        </P>
+                        <P>
+                            <E T="03">Ownership interest</E>
+                             means to have either a legal ownership interest or a beneficial ownership interest in a legal entity. For the purposes of administering ELRP 2023 and 2024, a person or legal entity that owns a share or stock in a legal entity that is a corporation, limited liability company, limited partnership, or similar type entity where members hold a legal ownership interest and shares in the profits or losses of such entity is considered to have an ownership interest in such legal entity. A person or legal entity that is a beneficiary of a trust or heir of an estate who benefits from the profits or losses of such entity is considered to have a beneficial ownership interest in such legal entity.
+                        </P>
+                        <P>
+                            <E T="03">Production inputs</E>
+                             mean material to conduct farming operations, such as seeds, chemicals, and fencing supplies.
+                        </P>
+                        <P>
+                            <E T="03">Production services</E>
+                             mean services provided to support a farming operation, such as custom farming, custom feeding, and custom fencing.
+                            <PRTPAGE P="22622"/>
+                        </P>
+                        <P>
+                            <E T="03">Qualifying drought</E>
+                             means drought occurring on grazing land or pastureland that is physically located in a county that is, during the normal grazing period for the specific type of grazing land or pastureland for the county, rated by the U.S. Drought Monitor as having a:
+                        </P>
+                        <P>(1) D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the specific type of grazing land or pastureland for the county, as determined by the Secretary, or</P>
+                        <P>(2) D3 (extreme drought) or higher intensity in any area of the county at any time during the normal grazing period for the specific type of grazing land or pastureland for the county, as determined by the Secretary.</P>
+                        <P>
+                            <E T="03">Qualifying wildfire</E>
+                             means fire, as provided in 7 CFR part 1416, subpart C, that resulted in an eligible grazing loss for LFP. As provided in 7 CFR 1416.205(c), the fire must have:
+                        </P>
+                        <P>(1) Occurred on rangeland that was managed by a Federal agency; and</P>
+                        <P>(2) Resulted in the eligible livestock producer being prohibited from grazing the normal permitted livestock on the land.</P>
+                        <P>
+                            <E T="03">U.S. Drought Monitor</E>
+                             means the system for classifying drought severity according to a range of abnormally dry to exceptional drought reported by the National Drought Mitigation Center at 
+                            <E T="03">http://droughtmonitor.unl.edu.</E>
+                             It is a collaborative effort between Federal and academic partners, produced on a weekly basis, to synthesize multiple indices, outlooks, and drought impacts on a map and in narrative form.
+                        </P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â760.2003</SECTNO>
+                        <SUBJECT>Eligible producers.</SUBJECT>
+                        <P>(a) The eligibility provisions applicable to LFP apply to ELRP 2023 and 2024, excluding the average AGI limitation. These include the provisions of: 7 CFR part 1416, subparts A and C; 7 CFR part 12; and 7 CFR 718.6.</P>
+                        <P>(b) To be eligible for a payment under this subpart, a producer must have an approved LFP application on file for the 2023 or 2024 program year. Producers may receive payment for one or both years, if eligible.</P>
+                        <P>(c) States, political subdivisions, and agencies thereof, are not eligible for payments under this subpart.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â760.2004</SECTNO>
+                        <SUBJECT>Required forms and deadlines.</SUBJECT>
+                        <P>(a) To be eligible for a payment under this subpart, a producer must have an approved LFP application on file for the applicable year (2023 or 2024) by the deadline announced by the Deputy Administrator.</P>
+                        <P>(b) A producer must also submit the following forms to FSA by the deadline announced by the Deputy Administrator if not previously filed for the applicable program year (2023 or 2024):</P>
+                        <P>(1) CCC-902, Farm Operating Plan, for an individual or legal entity as provided in 7 CFR part 1400;</P>
+                        <P>(2) CCC-901, Member Information for Legal Entities, if applicable;</P>
+                        <P>(3) AD-1026, Highly Erodible Land Conservation (HELC) and Wetland Conservation (WC) Certification, for the ELRP 2023 and 2024 participant and applicable affiliates; and</P>
+                        <P>(4) FSA-510, Request for an Exception to the $125,000 Payment Limitation for Certain Programs, accompanied by a certification from a certified public accountant or attorney as to that person or legal entity's certification, for participants and members of legal entities to be eligible for the payment limitation of Â§â760.2006(a)(2).</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â760.2005</SECTNO>
+                        <SUBJECT>Payment calculation.</SUBJECT>
+                        <P>(a) ELRP 2023 and 2024 will use the information reported on a producer's approved CCC-853, Livestock Forage Disaster Program Application, for the applicable program year (2023 or 2024) as the basis for a payment under this subpart. Any adjustments made by FSA to the information provided on CCC-853 for the purpose of administering LFP will also apply to ELRP 2023 and 2024.</P>
+                        <P>(b) An ELRP 2023 and 2024 payment will be equal to the participant's gross calculated LFP payment for the applicable program year (2023 or 2024) multiplied by the applicable ELRP 2023 and 2024 payment factor of 35 percent.</P>
+                        <P>(c) If funding remains available after payments are issued for other livestock losses under the American Relief Act, 2025, FSA may issue additional payments under this subpart, based on an increased ELRP 2023 and 2024 payment factor.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â760.2006</SECTNO>
+                        <SUBJECT>Payment limitation.</SUBJECT>
+                        <P>(a) For each applicable year (2023 and 2024), a person or legal entity, other than a joint venture or general partnership, is eligible to receive, directly or indirectly, payments under this subpart of not more than:</P>
+                        <P>(1) $125,000 if less than 75 percent of the person or legal entity's average adjusted gross income is average adjusted gross farm income; or</P>
+                        <P>(2) $250,000 if 75 percent or more of the average adjusted gross income of the person or legal entity is average adjusted gross farm income.</P>
+                        <P>(b) To be eligible for the payment limitation in paragraph (a)(2) of this section, a person or legal entity must submit FSA-510, Request for an Exception to the $125,000 Payment Limitation for Certain Programs, accompanied by a certification from a certified public accountant or attorney as to that person or legal entity's certification.</P>
+                        <P>(c) If a producer requesting the $250,000 payment limitation is a legal entity, all members of that entity must also complete FSA-510 and provide the required certification according to the direct attribution provisions in 7 CFR 1400.105. If a legal entity would be eligible for the $250,000 payment limitation based on the legal entity's average adjusted gross farm income but a member of that legal entity either does not complete an FSA-510 and provide the required certification or is not eligible for the $250,000 payment limitation, the payment to the legal entity will be reduced for the limitation applicable to the share of the ELRP 2023 or 2024 payment attributed to that member.</P>
+                        <P>(d) If a producer or member of a legal entity files FSA-510 and the accompanying certification after their payment is issued but before the deadline specified in Â§â760.2004(b), FSA will recalculate the payment and issue the additional calculated amount.</P>
+                        <P>(e) ELRP 2023 and 2024 applicants filing an FSA-510 are subject to an FSA audit of information submitted for the purpose of increasing the program's payment limitation. As a part of this audit, FSA may request income tax returns, and if requested, must be supplied by all related persons and legal entities. In addition to any other requirement under any Federal statute, relevant Federal income tax returns and documentation must be retained a minimum of 3 years after the end of the calendar year corresponding to the year for which payments or benefits are requested. Failure to provide necessary and accurate information to verify compliance, or failure to comply with these requirements will result in ineligibility for ELRP 2023 and 2024 benefits and require refund of any ELRP 2023 and 2024 payments, including interest to be calculated from the date of the disbursement to the producer.</P>
+                        <P>(e) The payment limitation provisions of 7 CFR part 1400, subpart A, and 7 CFR 1400.103 through 1400.106 apply to ELRP 2023 and 2024.</P>
+                        <P>(f) Payments made directly or indirectly to a person who is a minor child will not be combined with the earnings of the minor's parent or legal guardian.</P>
+                        <P>
+                            (g) If an individual or legal entity is not eligible to receive ELRP 2023 and 2024 payments due to the individual or legal entity failing to satisfy payment 
+                            <PRTPAGE P="22623"/>
+                            eligibility provisions, the payment made either directly or indirectly to the individual or legal entity will be reduced to zero. The amount of the reduction for the direct payment to the producer will be commensurate with the direct or indirect ownership interest of the ineligible individual or ineligible legal entity.
+                        </P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â760.2007</SECTNO>
+                        <SUBJECT>Miscellaneous provisions.</SUBJECT>
+                        <P>(a) In the event that any ELRP 2023 or 2024 payment resulted from erroneous information reported by the producer or if the producer's 2023 or 2024 LFP payment is recalculated after the ELRP 2023 or 2024 payment is issued, the ELRP 2023 or 2024 payment will be recalculated, and the producer must refund any excess payment to FSA, including interest to be calculated from the date of the disbursement to the producer.</P>
+                        <P>(b) If FSA determines that the producer intentionally misrepresented information used to determine the producer's ELRP 2023 or 2024 payment amount, the application will be disapproved and the producer must refund the full payment to FSA with interest from the date of disbursement.</P>
+                        <P>(c) Any required refunds must be resolved in accordance with debt settlement regulations in 7 CFR part 3.</P>
+                        <P>(d) Participants are required to retain documentation in support of their application for 3 years after the date of approval. Participants receiving ELRP 2023 or 2024 payments or any other person who furnishes such information to USDA must permit authorized representatives of USDA or the Government Accountability Office, during regular business hours, to enter the agricultural operation and to inspect, examine, and to allow representatives to make copies of books, records, or other items for the purpose of confirming the accuracy of the information provided by the participant.</P>
+                        <P>(e) Any payment under ELRP 2023 or 2024 will be made without regard to questions of title under State law and without regard to any claim or lien. The regulations governing offsets in 7 CFR part 3 apply to ELRP 2023 and 2024 payments.</P>
+                        <P>(f) Participants are subject to laws against perjury and any penalties and prosecution resulting therefrom, with such laws including but not limited to 18 U.S.C. 1621. If a producer willfully makes and represents as true any verbal or written declaration, certification, statement, or verification that the producer knows or believes not to be true, in the course of either applying for or participating in ELRP 2023 and 2024, then the producer is guilty of perjury and, except as otherwise provided by law, may be fined, imprisoned for not more than 5 years, or both, regardless of whether the producer makes such verbal or written declaration, certification, statement, or verification within or outside the United States.</P>
+                        <P>(g) For the purposes of the effect of a lien on eligibility for Federal programs (28 U.S.C. 3201(e)), USDA waives the restriction on receipt of funds under ELRP 2023 and 2024 but only as to beneficiaries who, as a condition of the waiver, agree to apply the ELRP 2023 and 2024 payments to reduce the amount of the judgment lien.</P>
+                        <P>(h) In addition to any other Federal laws that apply to ELRP 2023 and 2024, the following laws apply: 15 U.S.C. 714; and 18 U.S.C. 286, 287, 371, and 1001.</P>
+                        <P>(i) Prompt pay interest is not applicable to payments under this subpart.</P>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <NAME>William Beam,</NAME>
+                    <TITLE>Administrator, Farm Service Agency.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2025-09581 Filed 5-28-25; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 3411-E2-P</BILCOD>
+        </RULE>

@@ -1,0 +1,1915 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="22041"/>
+                <AGENCY TYPE="F">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 474</CFR>
+                <DEPDOC>[EERE-2021-VT-0033]</DEPDOC>
+                <RIN>RIN 1904-AF47</RIN>
+                <SUBJECT>Petroleum-Equivalent Fuel Economy Calculation</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The U.S. Department of Energy (DOE) publishes a final rule that revises the value for the petroleum-equivalency factor (PEF). This final rule revises DOE's regulations regarding procedures for calculating a value for the petroleum-equivalent fuel economy of electric vehicles (EVs). The PEF is used by the Environmental Protection Agency (EPA) in calculating light-duty vehicle manufacturers' compliance with the Department of Transportation's (DOT) Corporate Average Fuel Economy (CAFE) standards.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective June 12, 2024.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, public meeting attendee lists and transcripts, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">www.regulations.gov/docket/EERE-2021-VT-0033.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P/>
+                    <P>
+                        Mr. Kevin Stork, U.S. Department of Energy, Vehicle Technologies Office, EE-3V, 1000 Independence Avenue SW, Washington, DC 20585. Telephone: (202) 586-8306. Email: 
+                        <E T="03">Kevin.Stork@ee.doe.gov.</E>
+                    </P>
+                    <P>
+                        Ms. Laura Zuber, U.S. Department of Energy, Office of the General Counsel, Forrestal Building, GC-33, 1000 Independence Avenue SW, Washington, DC 20585. Telephone: (240) 306-7651. Email: 
+                        <E T="03">laura.zuber@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Introduction and Background</FP>
+                    <FP SOURCE="FP-2">II. Public Comments on the 2023 NOPR</FP>
+                    <FP SOURCE="FP-2">III. Discussion of Final Rule</FP>
+                    <FP SOURCE="FP1-2">A. Statutory Factors</FP>
+                    <FP SOURCE="FP1-2">B. Current Methodology</FP>
+                    <FP SOURCE="FP1-2">C. Revised Methodology</FP>
+                    <FP SOURCE="FP1-2">1. Approximate Electrical Energy Efficiency of EVs</FP>
+                    <FP SOURCE="FP1-2">2. Gasoline-Equivalent Fuel Economy of Electricity</FP>
+                    <FP SOURCE="FP1-2">a. Average Electricity Generation and Transmission Efficiency</FP>
+                    <FP SOURCE="FP1-2">b. Petroleum Refining and Distribution Efficiency</FP>
+                    <FP SOURCE="FP1-2">c. Annual Gasoline-Equivalent Fuel Economy of Electricity</FP>
+                    <FP SOURCE="FP1-2">3. Cumulative Gasoline-Equivalent Fuel Economy of Electricity</FP>
+                    <FP SOURCE="FP1-2">4. Fuel Content Factor</FP>
+                    <FP SOURCE="FP1-2">5. Accessory Factor</FP>
+                    <FP SOURCE="FP1-2">6. Driving Pattern Factor</FP>
+                    <FP SOURCE="FP1-2">7. Revised PEF Value</FP>
+                    <FP SOURCE="FP1-2">8. Compliance Period</FP>
+                    <FP SOURCE="FP1-2">9. Annual Review</FP>
+                    <FP SOURCE="FP-2">IV. Responses to Additional Comments</FP>
+                    <FP SOURCE="FP1-2">A. Revisions to Section 474.3</FP>
+                    <FP SOURCE="FP1-2">B. Consideration of All Forms of Energy Conservation</FP>
+                    <FP SOURCE="FP1-2">C. Need for Multiple PEF Values</FP>
+                    <FP SOURCE="FP1-2">D. Impact of Revised PEF on Plug-In Hybrid Electric Vehicles</FP>
+                    <FP SOURCE="FP1-2">E. Compliance With NHTSA and EPA Standards</FP>
+                    <FP SOURCE="FP1-2">F. Related Rulemakings</FP>
+                    <FP SOURCE="FP1-2">G. Miscellaneous</FP>
+                    <FP SOURCE="FP-2">V. Revisions to 10 CFR P art 474</FP>
+                    <FP SOURCE="FP1-2">A. 10 CFR 474.3</FP>
+                    <FP SOURCE="FP1-2">B. Appendix to Part 474</FP>
+                    <FP SOURCE="FP-2">VI. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Orders 12866, 13563 and 14094</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act of 1999</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">J. Review Under the Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VII. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Introduction and Background</HD>
+                <P>
+                    In an effort to conserve energy through improvements in the energy efficiency of motor vehicles, in 1975, Congress passed the Energy Policy and Conservation Act (EPCA), Public Law 94-163. Title III of EPCA amended the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 1901 
+                    <E T="03">et seq.</E>
+                    ) (the Motor Vehicle Act) by mandating fuel economy standards for automobiles produced in, or imported into, the United States. This legislation, as amended, requires every manufacturer to meet applicable specified corporate average fuel economy (CAFE) standards for their fleets of light-duty vehicles under 8,500 pounds that the manufacturer manufactures in any model year.
+                    <SU>1</SU>
+                    <FTREF/>
+                     The Secretary of Transportation (through the National Highway Traffic Safety Administration (NHTSA)) is responsible for prescribing the CAFE standards and enforcing the penalties for failure to meet these standards. 49 U.S.C. 32902. The Administrator of the Environmental Protection Agency (EPA) is responsible for calculating each manufacturer's fleet CAFE value. 49 U.S.C. 32902 and 32904.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âThe relevant provisions of the CAFE program, including DOE's establishment of equivalent petroleum-based fuel economy values were transferred to Title 49 of the U.S. Code by Public Law 103-272 (July 5, 1984). 
+                        <E T="03">See</E>
+                         49 U.S.C. 32901 
+                        <E T="03">et seq.</E>
+                         The authority for DOE's establishment of equivalent petroleum-based fuel economy values was transferred to 49 U.S.C. 32904(a)(2)(B).
+                    </P>
+                </FTNT>
+                <P>On January 7, 1980, President Carter signed the Chrysler Corporation Loan Guarantee Act of 1979 (Pub. L. 96-185). Section 18 of the Chrysler Corporation Loan Guarantee Act of 1979 added a new paragraph (2) to section 13(c) of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 (Pub. L. 94-413). Part of the new section 13(c) added paragraph (a)(3) to section 503 of the Motor Vehicle Act. That subsection provides:</P>
+                <P>If a manufacturer manufactures an electric vehicle, the Administrator [of EPA] shall include in the calculation of average fuel economy under paragraph (1) of this subsection equivalent petroleum based fuel economy values determined by the Secretary of Energy for various classes of electric vehicles. The Secretary shall review those values each year and determine and propose necessary revisions based on the following factors:</P>
+                <EXTRACT>
+                    <PRTPAGE P="22042"/>
+                    <P>(i) The approximate electrical energy efficiency of the vehicle, considering the kind of vehicle and the mission and weight of the vehicle.</P>
+                    <P>(ii) The national average electrical generation and transmission efficiencies.</P>
+                    <P>(iii) The need of the United States to conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricity.</P>
+                    <P>(iv) The specific patterns of use of electric vehicles compared to petroleum-fueled vehicles.</P>
+                </EXTRACT>
+                <FP>49 U.S.C. 32904(a)(2)(B).</FP>
+                <P>
+                    Section 18 of the Chrysler Corporation Loan Guarantee Act of 1979 further amended the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 by adding a new paragraph (3) to section 13(c), which directed the Secretary of Energy, in consultation with the Secretary of Transportation and the Administrator of EPA, to conduct a seven-year evaluation program of the inclusion of electric vehiclesâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     in the calculation of average fuel economy. As required by section 503(a)(3) of the Motor Vehicle Act, DOE proposed a method of calculating the petroleum-equivalent fuel economy of electric vehicles utilizing a PEF in a new 10 CFR part 474 on May 21, 1980. 45 FR 34008. The rule was finalized on April 21, 1981, and became effective May 21, 1981. 46 FR 22747. The seven-year evaluation program was completed in 1987, and the calculation of the annual petroleum equivalency factors was not extended past 1987.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âFor purposes of paragraph (a)(2) of 49 U.S.C. 32904, EPCA defines an âelectric vehicleâ as âa vehicle powered primarily by an electric motor drawing electrical current from a portable source.â
+                    </P>
+                </FTNT>
+                <P>DOE published a proposed rule for a permanent PEF for use in calculating petroleum-equivalent fuel economy values of electric vehicles on February 4, 1994, and obtained comments from interested parties. 59 FR 5336. Following consideration of comments, DOE's own internal re-examination of the assumptions underlying the proposed rule, and existing regulations for other classes of alternative fuel vehicles, DOE decided to modify the PEF calculation approach proposed in 1994. The 1994 proposed rule was later withdrawn, and DOE proposed a modified approach in a July 14, 1999, notice of proposed rulemaking. 64 FR 37905 (1999 NOPR). DOE published a final rule with a PEF of 82,049 Watt-hours per gallon on June 12, 2000, that amended 10 CFR part 474. 65 FR 36985 (2000 Final Rule). DOE has not updated 10 CFR part 474 since the 2000 Final Rule.</P>
+                <P>On October 22, 2021, DOE received a petition for rulemaking from the Natural Resources Defense Council (NRDC) and Sierra Club requesting DOE to update its regulations at 10 CFR part 474. DOE published a notice of receipt of the petition on December 29, 2021, and solicited comment on the petition and whether DOE should proceed with a rulemaking. 86 FR 73992.</P>
+                <P>In April 2023, DOE agreed that the inputs upon which the calculations and PEF values are based were outdated and that the technology and market penetration of EVs has significantly changed since the 2000 Final Rule and granted the petition from NRDC and Sierra Club. When granting the petition, DOE also published a notice of proposed rulemaking. 88 FR 21525 (2023 NOPR).</P>
+                <P>In the 2023 NOPR, DOE proposed to update the PEF value and revise the methodology used to calculate the PEF. Specifically, the 2023 NOPR proposed the following revisions to the methodology:</P>
+                <P>â¢ Change the accessory factor, used to account for petroleum-fueled on-board accessories, to 1.</P>
+                <P>â¢ Revise the generation and transmission efficiency factor by using updated grid mix projection that account for policy changes since June 2000 and more recent data.</P>
+                <P>â¢ Remove the fuel content factor.</P>
+                <P>In accordance with these proposed revisions, DOE proposed a revised PEF value of 23,160 Watt-hours per gallon. 88 FR 21525, 21532. In addition, DOE proposed that the revised PEF value would apply to model year (MY) 2027 and later electric vehicles. 88 FR 21525, 21531. DOE also proposed to delete 10 CFR 474.5, which requires DOE to review the PEF value every five years. 88 FR 21525, 21533.</P>
+                <P>
+                    The public comment period for the 2023 NOPR closed on June 12, 2023. DOE received 20 comments on the proposed rule.
+                    <SU>3</SU>
+                    <FTREF/>
+                     Several commenters, including the Alliance for Automotive Innovation (Alliance), expressed concern that auto manufacturers would not have sufficient lead time to incorporate changes into their plans for MY 2027 vehicles, given that the new PEF value would significantly impact their CAFE compliance and given that manufacturing changes require significant lead times. On September 14, 2023, DOE issued letters to member companies of the Alliance that invited recipients to provide data, documents, or analysis to clarify the Alliance's concerns in relation to the proposed effective date. DOE also published a Notification of 
+                    <E T="03">Ex Parte</E>
+                     Communication and Request for Comments in the 
+                    <E T="04">Federal Register</E>
+                    , which stated that DOE sent the September 14, 2023, letters and asked interested stakeholders to provide similar data, documents, or analysis. 88 FR 67682 (Oct. 2, 2023).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âDOE received comments from an individual on October 1, 2023, after the comment period closed. Doc. No. 36. Despite the fact that these comments were filed late, DOE considered the issues raised in these comments when reviewing the rule.
+                    </P>
+                </FTNT>
+                <P>DOE received data in response to the letters and the notification and incorporated the data into its analysis. The letters and responses to the letters and the notification are available in the docket.</P>
+                <P>DOE is finalizing revisions to 10 CFR part 474 and the methods to calculate the PEF value in accordance with the statutory factors in 49 U.S.C. 32904(a)(2)(B). After considering comments, DOE is modifying the methodology as initially proposed in the 2023 NOPR in the following ways:</P>
+                <P>â¢ Updating the grid mix projection from the 2021 National Renewable Energy Laboratory (NREL) â95 by 2050â Scenario to the more current electricity generation forecast in the 2022 NREL âStandard Scenario Mid-Case,â which accounts for the latest technology and policies.</P>
+                <P>â¢ Changing the method of calculating the PEF value from using an average of annual PEF values between MY 2027 to MY 2031 to calculating a PEF value based on the survivability-weighted lifetime mileage schedule of the fleet of vehicles sold during the regulatory period.</P>
+                <P>â¢ Phasing-out the use of the fuel content factor between MY 2027 and MY 2030 rather than removing it from the PEF equation as of the effective date of the rule, as proposed in the 2023 NOPR.</P>
+                <P>Each of these changes are discussed in detail in the following sections.</P>
+                <HD SOURCE="HD1">II. Public Comments on the 2023 NOPR</HD>
+                <P>
+                    DOE received comments in response to the 2023 NOPR from the individuals and interested parties listed in Table 1. These comments are available in the public docket for this rulemaking. The specific issues relating to the final rule raised by the commenters are addressed in section III of this document. A parenthetical reference at the end of a comment quotation or paraphrase provides the location of the item in the public record.
+                    <SU>4</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âThe parenthetical reference provides a reference for information located in the docket for this rulemaking. (Docket No. EERE-2021-VT-0033, which is maintained at 
+                        <E T="03">www.regulations.gov</E>
+                        ). The references are arranged as follows: commenter name, comment docket ID number, page of that document.
+                    </P>
+                </FTNT>
+                <PRTPAGE P="22043"/>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s100,xs90,12">
+                    <TTITLE>Table 1â2023 NOPR Written Comments</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Commenter(s)</CHED>
+                        <CHED H="1">Abbreviation</CHED>
+                        <CHED H="1">Document No.</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Gilles DeBrouwer</ENT>
+                        <ENT/>
+                        <ENT>14</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Vivat</ENT>
+                        <ENT/>
+                        <ENT>15</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Anonymous 1</ENT>
+                        <ENT/>
+                        <ENT>16</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Transport Evolved</ENT>
+                        <ENT/>
+                        <ENT>17</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Tesla, Inc</ENT>
+                        <ENT>Tesla</ENT>
+                        <ENT>18</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">International Council on Clean Transportation</ENT>
+                        <ENT>ICCT</ENT>
+                        <ENT>19</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Natural Resources Defense Council and Sierra Club</ENT>
+                        <ENT>NRDC and Sierra Club</ENT>
+                        <ENT>20</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Zero Emission Transportation Association</ENT>
+                        <ENT>ZETA</ENT>
+                        <ENT>21</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Ford Motor Company</ENT>
+                        <ENT>Ford</ENT>
+                        <ENT>22</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Automobile Dealers Association</ENT>
+                        <ENT>NADA</ENT>
+                        <ENT>23</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Porsche Cars</ENT>
+                        <ENT>Porsche</ENT>
+                        <ENT>24</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Alliance for Automotive Innovators</ENT>
+                        <ENT>Alliance</ENT>
+                        <ENT>25</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">American Fuel &amp; Petrochemical Manufacturers</ENT>
+                        <ENT>AFPM</ENT>
+                        <ENT>26</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            State of California 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>
+                            California 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>27</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Our Children's Trust</ENT>
+                        <ENT/>
+                        <ENT>28</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">American Council for an Energy Efficient Economy</ENT>
+                        <ENT>ACEEE</ENT>
+                        <ENT>29</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">International Union, United Automobile, Aerospace &amp; Agricultural Implement Workers of America</ENT>
+                        <ENT>UAW</ENT>
+                        <ENT>30</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            American Free Enterprise Chamber of Commerce 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>
+                            AmFree 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>31</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Clean Fuels Development Coalition 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>
+                            Clean Fuels 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>32</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Omer Sevindir</ENT>
+                        <ENT/>
+                        <ENT>36</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD1">III. Discussion of Final Rule</HD>
+                <HD SOURCE="HD2">A. Statutory Factors</HD>
+                <P>In accordance with 49 U.S.C. 32904, DOE reviewed the equivalent petroleum-based fuel economy values for EVs, including both the current PEF value and the methodology used to calculate that value, which are found in 10 CFR part 474. When reviewing the equivalent petroleum-based fuel economy values for EVs, DOE must consider four factors:</P>
+                <P>(i) The approximate electrical energy efficiency of the vehicle, considering the kind of vehicle and the mission and weight of the vehicle.</P>
+                <P>(ii) The national average electrical generation and transmission efficiencies.</P>
+                <P>(iii) The need of the United States to conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricity.</P>
+                <P>(iv) The specific patterns of use of electric vehicles compared to petroleum-fueled vehicles.</P>
+                <FP>49 U.S.C. 32904(a)(2)(B).</FP>
+                <P>Based on more recent data, changes to market conditions, and comments received in response to the 2023 NOPR, DOE is revising the methodology used to calculate PEF and the resulting PEF value in this final rule. DOE discusses its consideration of the statutory factors and its conclusions in the following sections.</P>
+                <HD SOURCE="HD2">B. Current Methodology</HD>
+                <P>10 CFR 474.3 provides the current methodology for determining the equivalent petroleum-based fuel economy values for EVs. First, DOE determines the EVs' urban and highway energy consumption value in Watt-hours (Wh) per mile. To do this, DOE uses the energy consumption values provided by the Highway Fuel Economy Driving Schedule (HFEDS) and Urban Dynamometer Driving Schedule (UDDS) test cycles established by EPA at 40 CFR parts 86 and 600. 10 CFR 474.3(a)(1). DOE then determines the combined energy consumption value by averaging the urban and highway energy consumption values using a weighting of 55 percent urban and 45 percent highway. 10 CFR 474.3(a)(2). Finally, DOE converts this combined energy consumption value (expressed in Wh per mile) to a petroleum-equivalent fuel economy value, which is measured in miles per gallon (mpg), by dividing the PEF (measured in Wh per gallon) by the combined energy consumption value.</P>
+                <P>
+                    The current PEF calculation procedure converts the measured electrical energy consumption of an electric vehicle into a gasoline-equivalent fuel economy of electricity (E
+                    <E T="52">g</E>
+                    ). 65 FR 36986, 36987. Then, the methodology multiplies the E
+                    <E T="52">g</E>
+                     by the fuel content factor (FCF), which is intended to represent the energy content equivalent the alternative fuel to a gallon of gasoline; the accessory factor (AF), which represents possible use of petroleum-powered accessories, such as cabin heater/defroster systems; and the driving pattern factor (DPF), which represents the potential for different uses of EVs compared to internal combustion engine (ICE) vehicles. 
+                    <E T="03">Id.</E>
+                     The general form of the PEF equation is:
+                </P>
+                <FP SOURCE="FP-2">
+                    <E T="03">PEF</E>
+                     = 
+                    <E T="03">E</E>
+                    <E T="52">g</E>
+                     Ã 
+                    <E T="03">FCF</E>
+                     Ã 
+                    <E T="03">AF</E>
+                     Ã 
+                    <E T="03">DPF</E>
+                </FP>
+                <P>
+                    In the 2000 Final Rule, DOE used this equation to calculate the PEF value and determined that the PEF for EVs that do not have any petroleum-powered accessories is 82,049 Watt-hours per gallon (Wh/gal). 
+                    <E T="03">See</E>
+                     10 CFR 474.3(b)(1). For EVs that have petroleum-powered accessories, DOE determined that the PEF is 73,844 Wh/gal. 
+                    <E T="03">See</E>
+                     10 CFR 474.3(b)(2).
+                </P>
+                <HD SOURCE="HD2">C. Revised Methodology</HD>
+                <P>As stated previously, DOE concluded that the current PEF value and methodology were based on outdated data and that the technology and market penetration of EVs has significantly changed since the 2000 Final Rule. Accordingly, in the 2023 NOPR, DOE proposed a revised PEF value and revisions to the methodology used to calculate the PEF. Specifically, the 2023 NOPR proposed changing the accessory factor to 1.0, revising the generation and transmission efficiency factor by using updated electrical grid mix projections, and removing the fuel content factor. The 2023 NOPR also proposed maintaining the driving pattern factor at 1.0.</P>
+                <HD SOURCE="HD3">1. Approximate Electrical Energy Efficiency of EVs</HD>
+                <P>
+                    DOE considers the approximate electrical energy efficiency of EVs in determining the PEF value pursuant to 49 U.S.C. 32904(a)(2)(B)(i). As discussed, the current methodology converts the energy consumption of an EV from Wh of electricity to gallons of gasoline based upon energy consumption values provided by Highway Fuel Economy Driving Schedule (HFEDS) and Urban Dynamometer Driving Schedule (UDDS) test cycles established by EPA at 40 CFR parts 86 and 600. 
+                    <E T="03">See</E>
+                     10 CFR 474.3 and 
+                    <PRTPAGE P="22044"/>
+                    474.4. In the 2023 NOPR, DOE proposed to retain this methodology because it provided an âaccurate measure of the electrical energy efficiency of the relevant EV during typical use and is appropriately utilized in the PEF equation.â 88 FR 21525, 21527.
+                </P>
+                <P>
+                    One commenter supported maintaining the current energy efficiency regime. Tesla, Doc. No. 18, pg. 2. In addition, although NRDC and Sierra Club did not oppose the current methodology expressly, they urged DOE to âclarify whether it will use unadjusted dynamometer testing results or adjusted valuesâ when measuring energy consumption of an EV. NRDC and Sierra Club, Doc. No. 20, pg. 5. NRDC and Sierra Club observed that dynamometer testing overstates real-world performance for vehicles by as much as 30 percent. NRDC and Sierra Club, Doc. No. 20, pg. 5 (
+                    <E T="03">citing</E>
+                     87 FR 25710, 25720 (May 2, 2022)). Thus, they recommended that DOE consider using adjusted dynamometer values to better approximate the actual electrical efficiency of EVs for use in determining the equivalent petroleum-based fuel economy values for EVs. NRDC and Sierra Club, Doc. No. 20, pg. 5.
+                </P>
+                <P>
+                    Other commenters opposed retaining the current methodology and argued that both HFEDS and UDDS test cycles are unrepresentative of typical use cases of EVs. AFPM, Doc. No. 26, pg. 5; Clean Fuels 
+                    <E T="03">et al.,</E>
+                     Doc. No. 32, pg. 3; AmFree, Doc. No. 31, pg. 4. Specifically, these commenters claimed that HFEDS fails to capture the most typical use case of EVs, such as commuting to and from work. AFPM, Doc. No. 26, pg. 5; Clean Fuels 
+                    <E T="03">et al.,</E>
+                     Doc. No. 32, pg. 3-4. In addition, they asserted that UDDS fails to capture variations in climate or extended periods of idling. AFPM, Doc. No. 26, pg. 6; Clean Fuels 
+                    <E T="03">et al.,</E>
+                     Doc. No. 32, pg. 4. As a result of these and other failures, these commenters argued that these test cycles overestimate the performance of EVs. AFPM, Doc. No. 26, pg. 6; Clean Fuels 
+                    <E T="03">et al.,</E>
+                     Doc. No. 32, pg. 4-5. These commenters stated that âDOE must revisit its chosen procedure and apply more robust and accurate test methods,â and that DOE's decision to retain the current methodology is arbitrary and capricious. Clean Fuels 
+                    <E T="03">et al.,</E>
+                     Doc. No. 32, pg. 5; AFPM, Doc. No. 26, pg. 6. The commenters noted there are other more representative tests currently available, like EPA's 5-cycle formula, to calculate the fuel economy of vehicles. AFPM, Doc. No. 26, pg. 6; Clean Fuels 
+                    <E T="03">et al.,</E>
+                     Doc. No. 32, pg. 5; AmFree, Doc. No. 31, pg. 4.
+                </P>
+                <P>
+                    Both of these comments regarding adjusting the dynamometer readings or using different test cycles were addressed in DOE's methodology for calculating the energy consumption of an EV in terms of miles per gallon. DOE notes that DOE's methodology is aligned with EPA's methodology for calculating the compliance fuel economy values for ICE vehicles in the CAFE program. The adjustment and the test cycles recommended by commenters, however, are not used to calculate fuel economy for purposes of CAFE compliance. Rather, the recommended adjustment and test cycles are used to calculate fuel economy for the EPA/DOT Fuel Economy and Environment Label (window sticker).
+                    <SU>5</SU>
+                    <FTREF/>
+                     DOE notes that 49 U.S.C. 32904(c) requires EPA to use the âsame procedures for passenger automobiles the Administrator used for model year 1975â to measure the fuel economy of passenger vehicles for CAFE purposes. Pursuant to this directive, EPA uses the HFEDS and UDDS test cycles to calculate fuel economy for ICE vehicles and does not adjust the dynamometer results. A consistent methodology applied to all auto manufacturers for calculating the fuel economy of ICE vehicles helps to ensure a level playing field. Because the purpose of the PEF is to provide a fuel economy conversion factor for EVs (so that they may be averaged with ICE vehicles for determining CAFE performance) it is reasonable and appropriate to keep all else as equal as possible. Because CAFE compliance for ICE vehicles is determined using the HFEDS and UDDS test cycles, determining EV energy consumption values using those two same test cycles is consistent and reasonable.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âSimilarly, other commenters, such as Hyundai, suggested that DOE harmonize the PEF with EPA's use of 33,705 Wh/gal used by EPA in its fuel economy labeling. Hyundai, Doc. No. 39, pg. 2.
+                    </P>
+                </FTNT>
+                <P>
+                    In this final rule, as proposed in the 2023 NOPR, DOE retains its current methodology to convert energy consumption of an EV into gallons of gasoline based upon energy consumption values provided by the HFEDS and UDDS test cycles established by EPA at 40 CFR parts 86 and 600. 
+                    <E T="03">See</E>
+                     10 CFR 474.3 and 474.4. DOE determines that using unadjusted dynamometer results from the HFEDs and UDDS to calculate energy consumption for EVs provides a calculation of fuel economy for EVs most comparable to the existing gasoline fuel economy that EPA calculates. Because the PEF value provides a fuel economy conversion factor for EVs (so that they may be averaged with ICE vehicles for determining CAFE performance), it is reasonable and appropriate to adopt a consistent methodology that helps ensure a level playing field.
+                </P>
+                <HD SOURCE="HD3">2. Gasoline-Equivalent Fuel Economy of Electricity</HD>
+                <P>
+                    When comparing ICE vehicles with EVs, it is essential to consider the efficiency of the respective upstream processes in the two relevant energy cycles.
+                    <SU>6</SU>
+                    <FTREF/>
+                     The critical difference between the processes is that an ICE vehicle burns its fuel on-board, and an EV burns its fuel (the majority of electricity in the U.S. is generated at fossil fuel burning powerplants) off-board. In both cases, the burning of fuels to produce work is the least efficient step of the respective energy cycles. Therefore, the 2000 Final Rule included a term, gasoline-equivalent energy content of electricity (E
+                    <E T="52">g</E>
+                    ), to express the relative energy efficiency of the full energy cycles of gasoline and electricity. 65 FR 36986, 36987.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âIn this context âupstreamâ means everything prior to storage of energy on the vehicle, also commonly referred to as well-to-tank.
+                    </P>
+                </FTNT>
+                <P>
+                    Under the current rule, the gasoline-equivalent energy content of electricity, is calculated by multiplying the U.S. average electricity generation efficiency (T
+                    <E T="52">g</E>
+                    ), the U.S. average electricity transmission efficiency (T
+                    <E T="52">t</E>
+                    ), and the Watt-hours of energy per gallon of gasoline conversion factor (C)â
+                    <SU>7</SU>
+                    <FTREF/>
+                    , and then dividing that value by the petroleum refining and distribution efficiency (T
+                    <E T="52">p</E>
+                    ). 65 FR 36986, 36987. The equation calculating the gasoline-equivalent energy content of electricity factor is written as follows.
+                    <SU>8</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âThe Watt-hours of energy per gallon of gasoline conversion factor is a standard value, 33705 Wh/gal.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âThe equation is revised from the form in the 2000 Final Rule to correct a printing error in the 2000 Final Rule. The calculation of E
+                        <E T="52">g</E>
+                         is correct in the 2000 Final Rule despite the printing error.
+                    </P>
+                </FTNT>
+                <GPH SPAN="1" DEEP="30">
+                    <GID>ER29MR24.053</GID>
+                </GPH>
+                <P>In the 2000 Final Rule, DOE calculated a gasoline-equivalent energy content of electricity factor of 12,307 Wh/gal by using the following inputs:</P>
+                <GPH SPAN="3" DEEP="40">
+                    <PRTPAGE P="22045"/>
+                    <GID>ER29MR24.054</GID>
+                </GPH>
+                <FP>65 FR 36986, 36987.</FP>
+                <P>The gasoline-equivalent energy content of electricity factor involves the consideration of the national average electrical generation and transmission efficiencies and the need to conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricity. 49 U.S.C. 32904(a)(2)(B)(ii) and (iii). In the analysis that follows, DOE updates the electricity generation and transmission efficiency factor and the petroleum refining and distribution efficiency factor used to calculate the gasoline-equivalent fuel economy of electricity.</P>
+                <HD SOURCE="HD3">a. Average Electricity Generation and Transmission Efficiency</HD>
+                <P>The calculation for electricity efficiency considers production of the energy source, generation of electricity from that source, and transmission of the electricity to the EV charging location. The efficiency of the production of the energy source and the generation of electricity from that source vary widely.</P>
+                <P>
+                    In the 2023 NOPR, DOE updated its calculations of the average generation and transmission efficiency for all fuels based on the latest data available. In the 2023 NOPR, DOE used the efficiency data from Greenhouse Gases, Regulated Emissions, and Energy use in Transportation (GREET).
+                    <SU>9</SU>
+                    <FTREF/>
+                     To calculate the well-to-tank efficiency for electricity from specific energy sources, DOE multiplied the production efficiency,
+                    <SU>10</SU>
+                    <FTREF/>
+                     generation efficiency,
+                    <SU>11</SU>
+                    <FTREF/>
+                     and transmission efficiencyâ
+                    <SU>12</SU>
+                    <FTREF/>
+                     for each source. The efficiencies of electricity generated from specific sources used in this analysis are provided in Table 2. DOE used the same efficiencies of electricity generated from specific sources in this final rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âThe GREET model is a life-cycle analysis tool, structured to systematically examine the energy and environmental effects of a wide variety of transportation fuels and vehicle technologies in major transportation sectors (
+                        <E T="03">i.e.,</E>
+                         road, air, marine, and rail) and other end-use sectors, and energy systems. Development of the GREET model by Argonne National Laboratory has been supported by multiple offices of DOE, DOT, and other agencies over the past 28 years. The GREET model is available at 
+                        <E T="03">greet.anl.gov/, doi:10.11578/GREET-Net-2021/dc.20210903.1.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        ââProduction efficiencyâ includes efficiencies related to producing the raw material and transport to the electricity generation facility.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        ââGeneration efficiencyâ relates to the conversion of the limited resources into electricity, 
+                        <E T="03">e.g.,</E>
+                         by combustion, heating a boiler, and turning a turbine.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âUnder GREET, electricity transmission has a national average efficiency of 95.14 percent.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,12,12,12,12">
+                    <TTITLE>Table 2âElectricity Generation and Transmission Efficiency by Source</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Energy source</CHED>
+                        <CHED H="1">
+                            Production
+                            <LI>efficiency</LI>
+                            <LI>(%)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Generation
+                            <LI>efficiency</LI>
+                            <LI>(%)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Transmission
+                            <LI>efficiency</LI>
+                            <LI>(%)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Calculated
+                            <LI>efficiency</LI>
+                            <LI>(%)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Natural gas</ENT>
+                        <ENT>91.81</ENT>
+                        <ENT>47.34</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>41.35</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Coal</ENT>
+                        <ENT>97.90</ENT>
+                        <ENT>34.55</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>32.18</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Oil</ENT>
+                        <ENT>88.41</ENT>
+                        <ENT>31.92</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>26.85</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Biomass</ENT>
+                        <ENT>97.54</ENT>
+                        <ENT>21.65</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>20.09</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Nuclear</ENT>
+                        <ENT>97.40</ENT>
+                        <ENT>100</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>92.67</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Solar</ENT>
+                        <ENT>100</ENT>
+                        <ENT>100</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>95.14</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Wind</ENT>
+                        <ENT>100</ENT>
+                        <ENT>100</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>95.14</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Hydroelectric</ENT>
+                        <ENT>100</ENT>
+                        <ENT>100</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>95.14</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Geothermal</ENT>
+                        <ENT>100</ENT>
+                        <ENT>100</ENT>
+                        <ENT>95.14</ENT>
+                        <ENT>95.14</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD3">i. Efficiency of Renewable and Nuclear Electricity Generation</HD>
+                <P>In the 2023 NOPR, due to the abundance of renewable energy sources such as wind and solar, DOE proposed treating renewable energy sources as effectively 100 percent efficient in their generation. 88 FR 21525, 21530. DOE also treated nuclear electricity generation as effectively 100 percent efficient because, like solar and wind, there is no practical, aggregate resource-availability limitation for nuclear materials. 88 FR 21525, 21530.</P>
+                <P>Some commenters disagreed with DOE's proposal to treat renewable and nuclear energy generation as effectively 100 percent efficient. AmFree, Doc. No. 31, pg. 4-5; AFPM, Doc. No. 26, pg. 9. These commenters asserted that there is no basis for DOE to assume renewable or nuclear energy generation is 100 percent efficient, and therefore DOE must revise its generation efficiencies for such energy. AmFree, Doc. No. 31, pg. 4-5; AFPM, Doc. No. 26, pg. 9.</P>
+                <P>In response to these concerns, DOE notes that the methodology accounts for transmission losses from such electricity sources. The DOE interpretation of energy scarcity relies on primary energy sources. As such, with an effectively inexhaustible supply of primary energyâsun, wind, fissile nuclear materialâit is not appropriate to use a conversion efficiency with these sources when calculating the PEF. By contrast, fossil energy sources used to generate electricity are large but finite. DOE considers the combustion efficiency of electric generation as part of the full energy lifecycle. Renewable gaseous fuel burned for electricity, though expected to be a small contributor to renewable electricity overall, are treated similarly to fossil natural gas with respect to combustion efficiency. DOE is retaining the 100 percent conversion efficiency assumption for nuclear and renewable generation (other than for renewable natural gas) in this rule.</P>
+                <HD SOURCE="HD3">ii. U.S. Electrical Grid Projections</HD>
+                <P>
+                    As discussed in section III.C.3, in this final rule, DOE adopts a methodology that calculates a PEF value based on the expected survivability-weighted lifetime mileage schedule of the fleet of vehicles sold over the regulatory period. DOE recognizes that while the average life of a vehicle is around 15 years, the influence of a fleet of vehicles produced in a given model lasts much longer. To capture this influence, DOE has adopted the survivability-weighted annual vehicle miles traveled parameters from 
+                    <PRTPAGE P="22046"/>
+                    the CAFE model that establishes values for a 40-year span. Beyond 40 years, only an insignificant population of vehicles from that given model year will remain on the road.
+                    <SU>13</SU>
+                    <FTREF/>
+                     Thus, calculating a PEF value based on the expected fleet of EVs requires calculating electricity generation and transmission efficiency 40 years into the future. This methodology provides a better representation of how vehicles sold during the regulatory period will be used than did the methodology used in the 2023 NOPR of averaging the calculated annual PEF based on the grid characteristics at the time the vehicles were sold. When calculating electricity generation and transmission efficiency, DOE weights each of the generation source-specific total efficiencies based on that source's share of the entire U.S. electricity grid. This mix of energy sources changes over time and is likely to continue changing in the future. Thus, the mix of electricity generation sources is a critical variable impacting the value of the PEF, consistent with Congressional direction at 49 U.S.C. 32904(a)(2)(B)(ii) and (iii) to consider the national average electrical generation efficiency and the need to conserve all forms of energy.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âIn its notice of proposed rulemaking that establishes CAFE standards for passenger cars and light trucks for MY 2027-2032, NHTSA estimates the average maximum lifespan of such vehicles to be 40 years. 88 FR 56128 (Aug. 17, 2023); Light Duty Central Analysis, file LD_Central_Analysis.zip, spreadsheet: parameters_ref.xlsx, on tab âVehicle Age Dateâ. Available at 
+                        <E T="03">www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CAFE/2023-NPRM-LD-2b3-2027-2035/Central-Analysis/.</E>
+                    </P>
+                </FTNT>
+                <P>In the 2023 NOPR, DOE considered numerous projections available in 2022 and selected the projection model 2021 Electrification 95 by 2050, Standard Scenario, from NREL, in which the United States achieves 95 percent renewable generation of electricity by 2050 (NREL 2021 95 by 2050). 88 FR 21525, 21531. In selecting this grid projection, DOE stated that NREL 2021 95 by 2050 is more representative of the likely future grid mix after the effects of recent policy changes, such as those in the Inflation Reduction Act of 2022 (IRA) and the Infrastructure Investment and Jobs Act (IIJA), are fully realized, particularly given that these policies will result in a substantial addition of renewable resources onto the grid. In the 2023 NOPR, DOE noted that it also considered EIA's Annual Energy Outlook (AEO) Reference Case for 2022 (AEO 2022). DOE opted not to use AEO 2022 because it did not incorporate recent policy changes in the IRA. 88 FR 21525, 21531. While NREL 2021 95 by 2050 also did not incorporate IRA impacts, the NREL forecast better represented expected renewable energy growth through 2030 than the AEP 2022 forecast. However, DOE said that for the final rule, it would consider using other projections, such as EIA's AEO for 2023 (AEO 2023), which was not available when DOE conducted its analysis for the 2023 NOPR.</P>
+                <P>
+                    Some commenters supported DOE's decision to use the 95 by 2050 grid projections from NREL's 2021 forecast. Tesla, Doc. No. 18, pg. 3-4; ICCT, Doc. No. 19, pg. 1. Other commenters believed that DOE should use AEO 2023. NRDC and Sierra Club, Doc. No. 20, pg. 3; California 
+                    <E T="03">et al.,</E>
+                     Doc. No. 27, pg. 4-5. These commenters noted that the grid projections in AEO 2023 account for policy changes in IRA. They also observed that NHTSA uses the EIA AEO model in the recent CAFE rulemaking. NRDC and Sierra Club, Doc. No. 20, pg. 3. Another commenter stated that DOE should use the ârelative scarcityâ scenario explored in the spreadsheet that accompanied the 2023 NOPR. Alliance, Doc. No. 25, pg. 14.
+                </P>
+                <P>For this final rule, DOE assessed the grid projections that have become available since 2022. These include AEO 2023, which does account for some impacts of the IRA and IIJA, and the ârelative scarcityâ scenario. After this consideration and analysis, in this final rule, DOE continues to use the NREL model (updated for 2022 data) that it used in the 2023 NOPR, but DOE selects the Standard Scenario Mid-Case instead of the 95 by 2050 Scenario. Specifically, DOE is using the NREL 2022 Standard Scenario, âMid-case, nascent techs, current policiesâ to forecast the grid mix for the final rule.</P>
+                <P>
+                    Among the factors the Secretary must consider when setting the PEF is âthe need of the United States to conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricity.â 49 U.S.C. 32904(a)(2)(B)(iii). DOE believes that Congress' directive to set a PEF and to consider the conservation of all forms of energy, including the relative scarcity and value of fuels used to generate electricity, are intended to ensure that average fuel economy of a manufacturer's entire fleet recognize and account for the full energy conservation benefits of EVs relative to ICE vehicles, taking into account both energy conservation overall, and the relative need for and supply constraints of different types of fuels. â[T]he relative scarcity and value to the United States of all fuel used to generate electricityâ is anticipated by every forecast DOE considered to change over time, largely in response to U.S. government policy decisions regarding âthe need of the United States to conserve energy.â Renewable and other clean energy sources of electricity are integral in addressing the need to conserve energy and improve energy security, and so current policies are directed at increasing the production of electricity from such energy sources. In this specific statutory context, DOE believes it is particularly important to ensure that the model used to estimate the future energy conservation benefit of EVs focuses on projecting how the mix of renewable and other clean energy generation in the grid will change over the long term. The NREL model has this specific focus. In the 2023 NOPR, DOE selected the 2021 NREL 95 by 2050 scenario because DOE believed it was the closest forecast to 
+                    <E T="03">approximately</E>
+                     capture the projected impacts of the IRA, which had been adopted too recently to be fully incorporated into any published projection.
+                    <SU>14</SU>
+                    <FTREF/>
+                     Since DOE published the 2023 NOPR, the NREL 2022 forecast has been published. To affect the purposes of this statute, DOE believes the NREL 2022 Standard Mid-case scenario best captures the impact of the IRA and IIJA on renewable and other clean electricity generation over time. As described on NREL's website: â[e]very year, the Standard Scenarios includes a scenario called the Mid-case that serves as a baseline or middle-ground scenario to reflect what might happen if current trends and conditions continue. The Mid-case has central values for model inputs like technology and fuel costs and how much electricity people use. In addition, the Mid-case represents currently enacted electric sector policies.ââ
+                    <SU>15</SU>
+                    <FTREF/>
+                     In addition, the AEO scenarios have historically made relatively more conservative assumptions regarding the growth of renewable generation, relative to the NREL model. Because DOE believes that, for the reasons described previously, the 2022 NREL 2022 Standard Scenario, âMid-case, nascent techs, current policiesâ best captures the impact of the IRA and IIJA on renewable and other clean electricity generation on the U.S. electrical grid for the specific purposes of this rule, DOE used this projection in its calculation of the PEF value. DOE will annually review forecasts for electricity generation and determine if a change is necessary for this value for future model 
+                    <PRTPAGE P="22047"/>
+                    years as required by 49 U.S.C. 32904(a)(2)(B).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âThe NREL 2021 forecast did include impacts of some relatively recent policies, such as the IIJA.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        â
+                        <E T="03">See www.nrel.gov/news/program/2024/nrel-releases-the-2023-standard-scenarios.html.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">b. Petroleum Refining and Distribution Efficiency</HD>
+                <P>In the 2023 NOPR, DOE also updated its calculations of the petroleum refining and distribution efficiency factor to reflect the most recent GREET data. 88 FR 21525, 21527. In the 2023 NOPR, DOE used GREET efficiency factors to determine that crude oil production and transportation has an efficiency of 93.96 percent, gasoline refining has an efficiency of 87.01 percent, and gasoline transportation and distribution has an energy efficiency of 99.52 percent. Multiplying these three terms provides an overall well-to-tank petroleum refining and distribution efficiency of 81.36 percent.</P>
+                <P>NRDC and Sierra Club argued that petroleum refining and distribution efficiency should not be considered when considering the national average electrical generation and transmission efficiency. NRDC and Sierra Club, Doc. No. 20, pg. 4. They asserted that section 32904(a)(2)(B)(ii) only directs DOE to consider âelectrical generation and transmission efficiencies,â and does not direct DOE to consider petroleum refining and distribution efficiencies or compare them to electric ones. NRDC and Sierra Club, Doc. No. 20, pg. 4. Furthermore, these commenters stated that because nothing in the statute requires DOE to consider petroleum refining and distribution efficiency, DOE should remove the term from the methodology used to calculate PEF. NRDC and Sierra Club, Doc. No. 20, pg. 4.</P>
+                <P>Comparing electricity and gasoline on an equivalent basis requires consideration of the full energy-cycle energy efficiency from the point of primary energy production through end-use to power a vehicle for both gasoline and electricity. Assessing the full energy cycle of electricity and conventional fuel requires a holistic approach to address energy conservation when energy losses occur at different stages of an energy cycle for different energy products and fuels, such as electricity and gasoline. Moreover, DOE interprets the âneed of the U.S. to conserve energyâ as applying broadly to all forms of energy, which includes petroleum. 49 U.S.C. 32904(a)(2)(B)(iii). Therefore, it is appropriate to assess the full energy cycle of both gasoline and electricity the energy is converted to a useful form at different stagesâgasoline onboard the vehicle, electricity upstreamâand a reasonable comparison of the two systems requires taking into account the same steps.</P>
+                <P>Another commenter opposed the calculations for petroleum refining and distribution efficiency because they believed that the data available from the fossil fuel industry is unreliable. Transport Evolved, Doc. No. 17, pg. 2. In this final rule, as with the 2023 NOPR, DOE used the best data available on refining and distribution efficiency by using the efficiency numbers in the GREET model. It is a widely used life-cycle analysis model for vehicle technologies and transportation fuels and has been used in regulation development and evaluation by DOE, EPA, and DOT. The data obtained from the GREET model are reliable.</P>
+                <HD SOURCE="HD3">c. Annual Gasoline-Equivalent Fuel Economy of Electricity</HD>
+                <P>
+                    As discussed previously, DOE uses the average electricity generation and transmission efficiency and the petroleum refining and distribution efficiency to determine the gasoline-equivalent fuel economy of electricity (E
+                    <E T="52">g</E>
+                    ). In order to calculate the electricity generation and transmission efficiency, DOE uses the 2022 NREL Standard Scenario, âMid-case, nascent techs, current policiesâ to forecast the U.S. electrical grid mix. The annual gasoline-equivalent fuel economy of electricity values used in this analysis are provided in Table 3. The modeling source only goes until 2050, so DOE assumed an unchanging grid for subsequent years.
+                </P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s50,12">
+                    <TTITLE>Table 3âAnnual Gasoline-Equivalent Fuel Economy of Electricity</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Year</CHED>
+                        <CHED H="1">
+                            Annual E
+                            <E T="0732">g</E>
+                            <LI>(Wh/gal)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">2023</ENT>
+                        <ENT>21,407</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2024</ENT>
+                        <ENT>22,299</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2025</ENT>
+                        <ENT>22,880</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2026</ENT>
+                        <ENT>23,481</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2027</ENT>
+                        <ENT>24,897</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2028</ENT>
+                        <ENT>26,449</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2029</ENT>
+                        <ENT>27,498</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2030</ENT>
+                        <ENT>28,595</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2031</ENT>
+                        <ENT>29,000</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2032</ENT>
+                        <ENT>29,404</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2033</ENT>
+                        <ENT>29,788</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2034</ENT>
+                        <ENT>30,171</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2035</ENT>
+                        <ENT>30,412</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2036</ENT>
+                        <ENT>30,651</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2037</ENT>
+                        <ENT>30,717</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2038</ENT>
+                        <ENT>30,781</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2039</ENT>
+                        <ENT>30,836</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2040</ENT>
+                        <ENT>30,889</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2041</ENT>
+                        <ENT>30,613</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2042</ENT>
+                        <ENT>30,349</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2043</ENT>
+                        <ENT>30,041</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2044</ENT>
+                        <ENT>29,747</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2045</ENT>
+                        <ENT>29,490</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2046</ENT>
+                        <ENT>29,243</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2047</ENT>
+                        <ENT>29,011</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2048</ENT>
+                        <ENT>28,787</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2049</ENT>
+                        <ENT>28,434</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2050 and later</ENT>
+                        <ENT>28,097</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>The Alliance argued that the 2000 Final Rule underestimates the fuel economy of EVs because EVs do not use any petroleum (or only minimal amounts through the grid) when operating in fully electric mode. Alliance, Doc. No. 25, pg. 15. They note that the electrical grid has only become more efficient since 2000. Therefore, they argue that the 2027 PEF value should be higher than the 2000 PEF. This argument both misunderstands the purpose of the PEF in the compliance calculations and discounts the DOE's attempt to better align the PEF with the statutory factors prescribed by Congress. The purpose of the PEF is to convert the energy used by EVs to a miles per gallon-equivalent in order to average EV and ICE vehicle fuel economy for determining vehicle manufacturers' CAFE performance. Although DOE agrees that the electrical grid has become more efficient since 2000, in this rulemaking, DOE is holistically reviewing all of the factors used to calculate the PEF, including the use of the fuel content factor. The efficiency of the grid is only one input to these calculations and does not solely determine the final result.</P>
+                <HD SOURCE="HD3">3. Cumulative Gasoline-Equivalent Fuel Economy of Electricity</HD>
+                <P>In the 2023 NOPR, DOE explained that NHTSA's next CAFE regulation was expected to cover MYs 2027-2031 and proposed that the proposed PEF value would be the applicable PEF for calculating EV fuel economy when enforcing the CAFE regulations those model years. 88 FR 21525, 21531. To calculate a PEF value usable over the entire period covered by the next revision of the CAFE regulations, DOE considered a forward-looking approach based on projections for the electricity generation grid in the future. In the 2023 NOPR, DOE only considered the annual calculated PEF over the expected regulatory period and used an average of those values. DOE explained that the average of the annually calculated value of the PEF, based on calendar-year projections for the electric grid, would be applied for MYs 2027 through 2031. 88 FR 21525, 21531.</P>
+                <P>
+                    Several commenters opposed this approach and noted that vehicles are 
+                    <PRTPAGE P="22048"/>
+                    driven for many years after their initial sale, not just the five years considered in the 2023 NOPR. DeBrouwer, Doc. No. 14, pg. 1; ACEEE, Doc. No. 29, pg. 1-2. On further analysis, and in response to these comments, this final rule adopts a PEF value based on the expected survivability-weighted lifetime mileage schedule of the fleet of vehicles sold during the regulatory period. To determine this, DOE uses the survivability-weighted lifetime mileage schedule derived from NHTSA's CAFE rulemaking.
+                    <SU>16</SU>
+                    <FTREF/>
+                     The data that NHTSA used to develop the average annual vehicle miles traveled (VMT) schedule used in its analysis divided the light duty vehicle fleetâ
+                    <SU>17</SU>
+                    <FTREF/>
+                     into three categories: passenger cars, pickup trucks, and Vans/SUVs. Each vehicle category has different scrappage rates and annual driving patterns. For this analysis DOE used a weighted average of 62.4 percent Vans/SUVs, 17.4 percent pickup trucks, and 20.2 percent passenger cars to generate the average annual VMT shown in Table 4 below.
+                    <SU>18</SU>
+                    <FTREF/>
+                     DOE uses the same average for the electric-fueled sub-fleet because DOE lacks accurate information about individual automaker plans for electrifying their product lines. Table 4 shows the average annual VMT expected for the fleet of vehicles for the first forty years after initial sale.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        â
+                        <E T="03">See</E>
+                         NHTSA NPRM Draft Technical Support Document, Chapter 4, p. 4-41, Table 4-12, âVMT Schedule by Body Style and Ageâ for vehicle type breakdown and Section 4.2.2.3.3, âEstimating the Scrappage Modelsâ, beginning on p. 4-26. NHTSA TSD available at: 
+                        <E T="03">www.nhtsa.gov/document/cafe-2027-2032-hdpuv-2030-2035-draft-technical-support-document.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âThis rule considers all passenger cars and trucks up to 8,500 pounds to be light-duty vehicles. This aligns to those vehicles that are subject to NHTSA's CAFE regulations for passenger cars and light trucks.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âThe distribution was derived from the file: LD_Central_Analysis.zip/output/LD_ref/reports_csv/vehicles_report.csv available at: 
+                        <E T="03">www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CAFE/2023-NPRM-LD-2b3-2027-2035/Central-Analysis/.</E>
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s50,12">
+                    <TTITLE>Table 4âAnnual VMT for Light Duty Vehicle Fleet</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">
+                            Year after
+                            <LI>initial sale</LI>
+                        </CHED>
+                        <CHED H="1">Annual VMT</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>16,647</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>15,989</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>15,336</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>14,679</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>14,012</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>13,331</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>12,627</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>11,894</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">9</ENT>
+                        <ENT>11,131</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">10</ENT>
+                        <ENT>10,334</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">11</ENT>
+                        <ENT>9,504</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">12</ENT>
+                        <ENT>8,639</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">13</ENT>
+                        <ENT>7,755</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">14</ENT>
+                        <ENT>6,873</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">15</ENT>
+                        <ENT>6,008</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">16</ENT>
+                        <ENT>5,188</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">17</ENT>
+                        <ENT>4,439</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">18</ENT>
+                        <ENT>3,773</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">19</ENT>
+                        <ENT>3,196</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">20</ENT>
+                        <ENT>2,704</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">21</ENT>
+                        <ENT>2,293</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">22</ENT>
+                        <ENT>1,953</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">23</ENT>
+                        <ENT>1,674</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">24</ENT>
+                        <ENT>1,443</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">25</ENT>
+                        <ENT>1,253</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">26</ENT>
+                        <ENT>1,096</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">27</ENT>
+                        <ENT>965</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">28</ENT>
+                        <ENT>856</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">29</ENT>
+                        <ENT>764</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">30</ENT>
+                        <ENT>686</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">31</ENT>
+                        <ENT>564</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">32</ENT>
+                        <ENT>463</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">33</ENT>
+                        <ENT>380</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">34</ENT>
+                        <ENT>312</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">35</ENT>
+                        <ENT>256</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">36</ENT>
+                        <ENT>209</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">37</ENT>
+                        <ENT>171</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">38</ENT>
+                        <ENT>139</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">39</ENT>
+                        <ENT>114</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">40</ENT>
+                        <ENT>92</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    The current methodology uses the annual gasoline-equivalent fuel economy of electricity to calculate PEF. Thus, the current PEF methodology must be revised to calculate a PEF value based on expected operation of the vehicles sold. To represent the expected operation of these vehicles, DOE calculates a cumulative gasoline-equivalent fuel economy of electricity (CE
+                    <E T="52">g</E>
+                    ) in Table 5. The cumulative gasoline-equivalent fuel economy of electricity is determined by multiplying the annual gasoline-equivalent fuel economy of electricity by the corresponding annual share of lifetime VMT based on the survivability-weighted lifetime mileage schedule.
+                </P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,12,12,14,12">
+                    <TTITLE>Table 5âCumulative Gasoline-Equivalent Fuel Economy of Electricity for MY 2027 EVs</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Calendar year</CHED>
+                        <CHED H="1">Vehicle age</CHED>
+                        <CHED H="1">
+                            E
+                            <E T="0732">g</E>
+                        </CHED>
+                        <CHED H="1">
+                            Annual share of
+                            <LI>lifetime VMT</LI>
+                            <LI>(%)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Partial CE
+                            <E T="0732">g</E>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">2027</ENT>
+                        <ENT>1</ENT>
+                        <ENT>24,898</ENT>
+                        <ENT>7.94</ENT>
+                        <ENT>1,976</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2028</ENT>
+                        <ENT>2</ENT>
+                        <ENT>26,450</ENT>
+                        <ENT>7.62</ENT>
+                        <ENT>2,016</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2029</ENT>
+                        <ENT>3</ENT>
+                        <ENT>27,498</ENT>
+                        <ENT>7.31</ENT>
+                        <ENT>2,011</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2030</ENT>
+                        <ENT>4</ENT>
+                        <ENT>28,596</ENT>
+                        <ENT>7.00</ENT>
+                        <ENT>2,001</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2031</ENT>
+                        <ENT>5</ENT>
+                        <ENT>29,000</ENT>
+                        <ENT>6.68</ENT>
+                        <ENT>1,937</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2032</ENT>
+                        <ENT>6</ENT>
+                        <ENT>29,405</ENT>
+                        <ENT>6.36</ENT>
+                        <ENT>1,869</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2033</ENT>
+                        <ENT>7</ENT>
+                        <ENT>29,789</ENT>
+                        <ENT>6.02</ENT>
+                        <ENT>1,793</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2034</ENT>
+                        <ENT>8</ENT>
+                        <ENT>30,171</ENT>
+                        <ENT>5.67</ENT>
+                        <ENT>1,711</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2035</ENT>
+                        <ENT>9</ENT>
+                        <ENT>30,413</ENT>
+                        <ENT>5.31</ENT>
+                        <ENT>1,614</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2036</ENT>
+                        <ENT>10</ENT>
+                        <ENT>30,651</ENT>
+                        <ENT>4.93</ENT>
+                        <ENT>1,510</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2037</ENT>
+                        <ENT>11</ENT>
+                        <ENT>30,717</ENT>
+                        <ENT>4.53</ENT>
+                        <ENT>1,392</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2038</ENT>
+                        <ENT>12</ENT>
+                        <ENT>30,782</ENT>
+                        <ENT>4.12</ENT>
+                        <ENT>1,268</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2039</ENT>
+                        <ENT>13</ENT>
+                        <ENT>30,836</ENT>
+                        <ENT>3.70</ENT>
+                        <ENT>1,140</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2040</ENT>
+                        <ENT>14</ENT>
+                        <ENT>30,889</ENT>
+                        <ENT>3.28</ENT>
+                        <ENT>1,012</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2041</ENT>
+                        <ENT>15</ENT>
+                        <ENT>30,613</ENT>
+                        <ENT>2.86</ENT>
+                        <ENT>877</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2042</ENT>
+                        <ENT>16</ENT>
+                        <ENT>30,349</ENT>
+                        <ENT>2.47</ENT>
+                        <ENT>751</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2043</ENT>
+                        <ENT>17</ENT>
+                        <ENT>30,042</ENT>
+                        <ENT>2.12</ENT>
+                        <ENT>636</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2044</ENT>
+                        <ENT>18</ENT>
+                        <ENT>29,747</ENT>
+                        <ENT>1.80</ENT>
+                        <ENT>535</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2045</ENT>
+                        <ENT>19</ENT>
+                        <ENT>29,490</ENT>
+                        <ENT>1.52</ENT>
+                        <ENT>449</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2046</ENT>
+                        <ENT>20</ENT>
+                        <ENT>29,243</ENT>
+                        <ENT>1.29</ENT>
+                        <ENT>377</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2047</ENT>
+                        <ENT>21</ENT>
+                        <ENT>29,011</ENT>
+                        <ENT>1.09</ENT>
+                        <ENT>317</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2048</ENT>
+                        <ENT>22</ENT>
+                        <ENT>28,788</ENT>
+                        <ENT>0.93</ENT>
+                        <ENT>268</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2049</ENT>
+                        <ENT>23</ENT>
+                        <ENT>28,434</ENT>
+                        <ENT>0.80</ENT>
+                        <ENT>227</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="22049"/>
+                        <ENT I="01">2050</ENT>
+                        <ENT>24</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.69</ENT>
+                        <ENT>193</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2051</ENT>
+                        <ENT>25</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.60</ENT>
+                        <ENT>168</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2052</ENT>
+                        <ENT>26</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.52</ENT>
+                        <ENT>147</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2053</ENT>
+                        <ENT>27</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.46</ENT>
+                        <ENT>129</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2054</ENT>
+                        <ENT>28</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.41</ENT>
+                        <ENT>115</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2055</ENT>
+                        <ENT>29</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.36</ENT>
+                        <ENT>102</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2056</ENT>
+                        <ENT>30</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.33</ENT>
+                        <ENT>92</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2057</ENT>
+                        <ENT>31</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.27</ENT>
+                        <ENT>76</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2058</ENT>
+                        <ENT>32</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.22</ENT>
+                        <ENT>62</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2059</ENT>
+                        <ENT>33</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.18</ENT>
+                        <ENT>51</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2060</ENT>
+                        <ENT>34</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.15</ENT>
+                        <ENT>42</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2061</ENT>
+                        <ENT>35</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.12</ENT>
+                        <ENT>34</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2062</ENT>
+                        <ENT>36</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.10</ENT>
+                        <ENT>28</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2063</ENT>
+                        <ENT>37</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.08</ENT>
+                        <ENT>23</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2064</ENT>
+                        <ENT>38</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.07</ENT>
+                        <ENT>19</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2065</ENT>
+                        <ENT>39</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.05</ENT>
+                        <ENT>15</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">2066</ENT>
+                        <ENT>40</ENT>
+                        <ENT>28,097</ENT>
+                        <ENT>0.04</ENT>
+                        <ENT>12</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">
+                            CE
+                            <E T="0732">g</E>
+                        </ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT>28,996</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    DOE recognizes that the value of CE
+                    <E T="52">g</E>
+                     is substantially higher than the value of E
+                    <E T="52">g</E>
+                     used in the 2000 rule (12,307 Wh/gal). This change is due to a combination of: increased fossil generation efficiency; increased renewable generation; the assumption of resource inexhaustibility for nuclear and renewables; increases in electric transmission efficiency; reduction in petroleum production, refining and distribution efficiency; and the use of a forward-looking grid mix. By far the largest impact is due to changes to electricity generation since the 2000 Final Rule. The grid mix used in the 2000 Final Rule had almost no non-hydropower renewable generation, while renewables are forecasted to grow to over half of total electricity generation by 2030. As described previously, DOE treats nuclear, solar, wind, and hydro power as 100 percent efficient based on the effective inexhaustibility of the energy source. In addition, fossil generation now includes a significant amount of combined cycle generation, which has a much higher thermal efficiency than conventional combustion for heat generation. Changes in efficiency due to petroleum production, refining and distribution, and electricity transmission are smaller.
+                </P>
+                <HD SOURCE="HD3">4. Fuel Content Factor</HD>
+                <P>Pursuant to 49 U.S.C. 32904(a)(2)(B), among the factors the Secretary must consider when setting the PEF is âthe need of the United States to conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricity.â 49 U.S.C. 32904(a)(2)(B)(iii). In the 2000 Final Rule, DOE added the current 1.0/0.15 fuel content factor to the PEF to reward electric vehicles for their âbenefits to the Nation relative to petroleum-fueled vehicles, in a manner consistent with the regulatory treatment of other types of alternative fueled vehicles and the authorizing legislation.â 65 FR 36986, 36988. In the 2000 Final Rule, DOE explained that it chose the 1.0/0.15 ratio for the fuel content factor (1) for consistency with existing regulatory and statutory procedures for alternative fuel vehicles under 49 U.S.C. 32905, (2) to provide similar treatment of all types of alternative fueled vehicles, and (3) for simplicity and ease of use in calculating the PEF. 65 FR 36986, 36988.</P>
+                <P>In the 2023 NOPR, DOE proposed removing the fuel content factor and requested comment on its elimination. 88 FR 21525, 21528-21530. DOE stated that it considered the need of the United States to conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricity in proposing to eliminate the factor. 88 FR 21525, 21528. As discussed in the 2023 NOPR in more detail, in considering the need for energy conservation and the relative scarcity and value of fuels used to generate electricity, in particular DOE emphasized the need to conserve finite petroleum resources. 88 FR 21525, 21529-215230. Conserving petroleum resources can be achieved through increased production and sales of EVs and through fuel economy improvements to ICE vehicles.</P>
+                <P>In the context of the statutory directive for the PEF and the need to conserve finite petroleum resources, DOE identified in the 2023 NOPR three key reasons supporting removal of the fuel content factor. 88 FR 21525, 21528-21530. First, DOE explained that the fuel content factor does not accurately represent current EV technology or market penetration. Second, DOE stated that applying the current fuel content factor to EVs results in miles per gallon equivalent ratings significantly higher than ICE vehicles. This overvaluing of EVs can allow a few EV models to provide overall compliance with CAFE standards, which in turn permits manufacturers to maintain less efficient ICE vehicles and disincentivizes production of additional EVs. 88 FR 21525, 21529-21530. Third, DOE proposed that the reasoning offered in the 2000 Final Rule in support of the use of 1.0/0.15 as a fuel content factor was not grounded in DOE's authority to set the PEF in section 32904, although DOE also noted that a fuel content factor could potentially be justified under the four factors of section 32904. 88 FR 21525, 21530.</P>
+                <P>
+                    Several commenters supported the elimination of the fuel content factor. California 
+                    <E T="03">et al.,</E>
+                     Doc. No. 27, pg. 5; NRDC and Sierra Club, Doc. No. 20, pg. 1-2; Tesla, Doc. No. 18, pg. 3; ICCT, Doc. No. 19, pg. 1; AFPM, Doc. No. 26, pg. 2. Specifically, California 
+                    <E T="03">et al.</E>
+                     and AFPM stated that the current fuel content factor is based on an inapplicable statutory section. California 
+                    <E T="03">et al.,</E>
+                     Doc. No. 27, pg. 5; AFPM, Doc. No. 26, pg. 2. In addition, NRDC and Sierra Club asserted that the current fuel content factor âdwarfs the rest of the PEF calculation, and has no factual, legal, or logical connection to electricity/petroleum equivalence.â NRDC and Sierra Club, Doc. No. 20, pg. 
+                    <PRTPAGE P="22050"/>
+                    2. Commenters noted that the fuel content factor leads to the overvaluation of EVs, which is counter to the need to conserve energy, particularly petroleum.
+                </P>
+                <P>
+                    Other commenters, however, opposed the elimination of the fuel content factor. For example, the Alliance stated that DOE should focus on the role of the PEF as an incentive for manufacturing EVs, which would keep DOE's analysis more closely tied to the applicable statutory factors. Alliance, Doc. No. 25, pg. 10. Similarly, UAW asserted that the fuel content factor is needed to continue to incentivize the production of EVs. UAW, Doc. No. 30, pg. 1-2. The Alliance and UAW stated that the 2023 NOPR overstated the scale of the EV market and encouraged DOE to âincorporate a more realistic projection of EV adoption and charging infrastructure build-out.â Alliance, Doc. No. 25, pg. 7-8; UAW, Doc. No. 30, pg. 2. Furthermore, the Alliance and UAW noted that federal investment and incentives would take time to reach maturity. Alliance, Doc. No. 25, pg. 8; UAW, Doc. No. 30, pg. 2. The Alliance argued that EV purchase incentive provisions in IRA are evidence that Congress believes EVs are not sufficiently commercialized. Alliance, Doc. No. 25, pg. 10. And finally, the Alliance noted that supply constraints and investment limitations impair manufacturers' ability to respond rapidly to changes in the PEF value, arguing that research and production resources are effectively zero-sum. Alliance, Doc. No. 25, pg. 17. The Alliance stated that the proposal could cause manufacturers to divert scarce investment resources to ICE vehicle lines and away from EV production, and noted the difficulty with doing even that, citing a lack of opportunity for engine redesigns, and arguing that engine design and development cycles are typically much longer than three years. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>After careful consideration of the comments, DOE concludes that removing the fuel content factor will, over the long term, further the statutory goals of conserving all forms of energy while considering the relative scarcity and value to the United States of all fuels used to generate electricity. This is because, as explained in the 2023 NOPR and in more detail below, by significantly overvaluing the fuel savings effects of EVs in a mature EV market with CAFE standards in place, the fuel content factor will disincentivize both increased production of EVs and increased deployment of more efficient ICE vehicles. Hence, the fuel content factor results in higher petroleum use than would otherwise occur.</P>
+                <P>
+                    DOE recognizes, however, the persuasive points made by commenters as to how the fuel content factor will continue to incentivize EV production in the near term. As commenters note, while EV market penetration has dramatically increased, EVs currently represent only approximately 10 percent of new passenger car and light truck sales.
+                    <SU>19</SU>
+                    <FTREF/>
+                     Moreover, while the recently adopted IIJA and IRA are in effect, the critical incentives and support for EVs and charging infrastructure that these laws provide are in the early stages of implementation and will become more fully operative and effective over time. DOE agrees with commenters that there is still an opportunity to incentivize additional EV production, and the resulting greater petroleum conservation, through a fuel content factor over the next several years. Thus, as explained in more detail below, DOE is retaining the current fuel content factor through MY 2026, under a revised statutory basis, and then gradually phasing out the fuel content factor by MY 2030.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âDOE, Plug-in EV Sales in December of 2023 Rose to 9.8% of All Light-Duty Vehicles Sales in the U.S., January 15, 2024. Available at 
+                        <E T="03">www.energy.gov/eere/vehicles/articles/fotw-1325-january-15-2024-plug-ev-sales-december-2023-rose-98-all-light-duty.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    DOE begins with the statutory text. Congress directed DOE to set the PEF based, in part, on âthe need of the United States to conserve all forms of energyâ and âthe relative scarcity and value to the United States of all fuel used to generate electricity.â 49 U.S.C. 32904(a)(2)(B)(iii). First, DOE confirms that increased use of EVs, relative to ICE vehicles, would help the United States meet its need to conserve all forms of energy, taking into consideration the relative scarcity and value of all fuel used to generate electricity. As detailed in the 2023 NOPR, EVs are substantially more energy efficient than ICE vehicles on an energy input required basis. In addition, when comparing EVs to ICE vehicles on the basis of their use of scarce fuels, EVs provide even greater fuel conservation benefits when compared to gasoline used in ICE vehicles. 
+                    <E T="03">See</E>
+                     88 FR 21525, 21536 (calculating a significantly higher PEF when using a methodology that compares only vehicle-based petroleum use and electricity production using scarce fossil energy resources). Accordingly, an increased use of EVs, relative to ICE vehicles, would allow the United States to get greater transportation value from relatively scarce fuels, including those used to generate electricity.
+                </P>
+                <P>
+                    These individual-vehicle measures understate the magnitude of the fuel conservation benefits of substantially increasing EV production and use in the near term. Accelerating adoption of EVs now can significantly further accelerate and increase EV market penetration, due to network effects related to expanded demand for and availability of charging infrastructure. These network effects include rapid shifts in consumer acceptance and increased access to immediate incentives, the redeployment of capital and human resources at the firm and country level, accelerated technology development with greater production of vehicles in multiple segments at scale, and increases in domestic battery manufacturing capacity in line with projected market demand. This has been demonstrated based on the EV adoption experience of other countries, which tends to follow an âS-Curveââa long period of relatively slow adoption followed by a rapid increase in adoption as EV sales grow.
+                    <SU>20</SU>
+                    <FTREF/>
+                     This implies that if EV adoption is accelerated in the near term to reach the tipping point of growth sooner, significantly more EV adoption could result in a shorter timeframe than would otherwise occur. The energy conservation benefits would also accelerate commensurately. Accordingly, DOE concludes that the nation's need to conserve all forms of energy is best served not simply by EV adoption generally, but specifically by accelerating EV adoption in the near term.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        â
+                        <E T="03">See</E>
+                         International Energy Agency, 
+                        <E T="03">Global EV Outlook 2022,</E>
+                         (May 2022), available at 
+                        <E T="03">www.iea.org/reports/global-ev-outlook-2022;</E>
+                         Energy and Power Group, Department of Engineering Science, University of Oxford, 
+                        <E T="03">Forecast of electric vehicle uptake across counties in England: Dataset from S-curve analysis,</E>
+                         (Dec. 2021), available at 
+                        <E T="03">www.sciencedirect.com/science/article/pii/S2352340921009379?via%3Dihub;</E>
+                         European Commission, Joint Research Centre, 
+                        <E T="03">Analysis and testing of electric car incentive scenarios in the Netherlands and Norway</E>
+                         (2020), available at 
+                        <E T="03">www.sciencedirect.com/science/article/pii/S0040162519301210#fig0004.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Next, DOE evaluates the maturity of the EV market and the sufficiency of the incentives, other than the fuel content factor, for EV production and sales in the near term. As DOE stated in the 2023 NOPR, since the 2000 Final Rule, EV technology has matured and the market share of EVs is growing. 88 FR 21525, 21528. Advances in electrification technology have resulted in improved performance and efficiency and reduced costs. 88 FR 21525, 21529. Commenters also noted that technology development, infrastructure 
+                    <PRTPAGE P="22051"/>
+                    deployment, and especially recent changes to Federal law, such as the IRA and the IIJA, provide significant incentives for tremendous investment in the entire EV ecosystem. These incentives are driving investments in further technological development of EVs and charging infrastructure, production (especially domestic production) of EVs, components such as batteries and chargers, and production of supply chain components, including critical minerals. These laws also provide multiple substantial incentives for EV purchases and leases, private purchases, and installation of charging infrastructure, and the build-out of a nationwide public charging system.
+                </P>
+                <P>
+                    It is critical to note, however, that the EV market is still small relative to ICE vehicles, and while these incentives are already driving massive industry investments, it will take some years for all these investments to fully translate into production and sales. Further, although consumer purchase incentives are currently available, only a relatively limited number of vehicles qualify for a portion or all of the available credits. Over the next six years, these incentives will increasingly result in greater EV deployment on the roads, as their effectiveness phases in over time. For example, as a result of component sourcing requirements and developing supply chains in the EV battery sector, DOE projected that an increasing share of electric vehicles will benefit from IRA tax incentives between 2023 and 2032, with a fleetwide average credit increasing from $3,900 per vehicle in 2023 to $6,000 in 2032 (nominal dollars).
+                    <SU>21</SU>
+                    <FTREF/>
+                     Similarly, DOE's IIJA-enabled investments in enabling infrastructure, such as EV fast charging and domestic EV component manufacturing, will scale over time as projects are identified, permitted, and constructed. Considering the timing over which the bulk of the IIJA and IRA EV incentives will become fully effective, DOE concludes that there is still a fuel conservation benefit from additional EV incentives in the near term. By 2030, DOE expects that the EV market will be sufficiently developed that further support from the fuel content factor will be unnecessary.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        â
+                        <E T="03">See</E>
+                         Department of Energy, âEstimating Federal Tax Incentives for Heavy Duty Electric Vehicle Infrastructure and for Acquiring Electric Vehicles Weighing Less Than 14,000 Pounds,â March 11, 2024. Available at 
+                        <E T="03">https://www.regulations.gov/docket/EERE-2021-VT-0033.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    As noted previously, commenters disagreed whether the fuel content factor incentivizes or disincentivizes EV production. On the basis of the record before it, DOE concludes that the answer is: it depends. In other words, the effect of the fuel content factor on manufacturer EV production will vary according to the maturity of the EV market and the effectiveness of other available incentives at the time DOE applies the fuel content factor and resulting PEF value. Vehicle manufacturers indicate that the present fuel content factor is an important incentive for current EV production. 
+                    <E T="03">See</E>
+                     Alliance, Doc. No. 25, pg. 7-8; Porsche, Doc. No. 24, pg. 2. By significantly increasing the PEF, the fuel content factor makes it relatively more cost-effective for manufacturers to improve their fleets' average fuel economy by selling more EVs. Where manufacturers are not yet adequately incentivized to develop, manufacture, and market EVs, as is currently the case, an inflated fuel content factor can increase EV adoption and the accompanying petroleum conservation in the near term. In the context of an emerging market for EVs, this additional near-term EV production is disproportionately valuable in leveraging network effects and further accelerating EV adoption and petroleum conservation. Because including the fuel content factor when calculating the PEF value can increase EV adoption, in the near term, which results in greater petroleum conservation, retaining the fuel content factor in the near term is consistent with âthe need of the United States to conserve all forms of energy.â 
+                    <E T="03">See</E>
+                     49 U.S.C. 32904(a)(2)(B)(iii).
+                </P>
+                <P>However, as explained in the 2023 NOPR, an âartificially inflate[d]â fuel content factor may conversely allow manufacturers to meet CAFE standards with fewer EVs and little improvement in their ICE fleets. As also explained in the 2023 NOPR, the higher the PEF, the greater the value of each EV for compliance purposes, and the fewer EVs (or improvements in ICE fuel economy savings) are needed. DOE expects this effect to predominate as the incentives for producing and selling EVs, such as those included in IRA and IIJA, ramp up and as the EV market grows. Once manufacturers are selling relatively large numbers of EVs, giving each EV a higher effective fuel economy for CAFE compliance purposes is less likely to incentivize greater EV production and more likely simply to eliminate the need for ICE fuel economy improvements, given the statutory structure of the CAFE program.</P>
+                <P>In the 2023 NOPR, DOE explained its view that âcurrent EV technology and market penetrationâ are sufficiently developed such that further incentives for EVs through the PEF are unnecessary. 88 FR 21525, 21534. Based on DOE's review of comments and further analysis, DOE concludes that incentives provided by IRA and IIJA, coupled with the expansion of supporting infrastructure, such as public fast chargers, and increasing consumer interest in EVs, will eventually provide adequate incentives, and the anticipated network effects, to achieve widespread EV adoption. DOE thus affirms the analysis in the 2023 NOPR that, at such time, a fuel content factor will reduce, and eventually eliminate, the net energy conservation benefit of incentivizing EV deployment through the fuel content factor.</P>
+                <P>
+                    Although the 2023 NOPR identified recent changes, such as IRA and IIJA incentives, as reasons to remove the fuel content factor (88 FR 21525, 21534), because these incentives will not be fully available when the PEF becomes effective, DOE concludes that EVs will remain inadequately incentivized for purposes of energy conservation over the next few years.
+                    <SU>22</SU>
+                    <FTREF/>
+                     Additionally, DOE expects a continued reduction in battery prices from innovation and economies of scale, resulting in lower purchase price and increased competitiveness of EVs by 2030. Accordingly, DOE expects that incentivizing EVs through a fuel content factor will reduce petroleum use in the near term. Based on DOE's determination that EVs will be adequately incentivized for purposes of energy conservation by 2030, DOE has determined that the fuel content factor can be, and ought to be, phased out by 2030.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        â
+                        <E T="03">See, e.g.,</E>
+                         IRA, Section 50142 (provides $3 billion to DOE's Advanced Technology Vehicle Manufacturing Loan Program through September 30, 2028, for loans to manufacture clean vehicles and their components in the United States); IRA, Section 50143 (provides $2 billion to the U.S. Treasury through September 30, 2031, to provide grants for the domestic production of EVs).
+                    </P>
+                </FTNT>
+                <P>
+                    DOE concludes that, for a limited time, retaining a fuel content factor in the PEF calculation is likely to incentivize manufacturers' production of EVs in the near term. DOE determines that phasing out a fuel content factor, as compared to removing it over a single model year, will help manufacturers continue to invest in the EV transition and serve as a near-term incentive for vehicle manufacturers to invest in and sell EVs, thereby contributing to the reduced consumption of petroleum by accelerating the widespread adoption of EVs in the United States during this pivotal time. Moreover, given the industry's concern that revising the PEF value over the course of a single model year could actually 
+                    <E T="03">slow</E>
+                     EV adoption in the near term, due to the potential need for industry to rapidly shift investment from EV development back to interim 
+                    <PRTPAGE P="22052"/>
+                    ICE based vehicle development, a phase in of the revised value would be more consistent with the statute and better spur the technological transition that will ultimately result in greater energy conservation. In addition, by phasing in a new PEF value over several years, the risk for manufacturers of expediting their investment in EV technology is reduced, because they are able to spread product changes (and associated research and production dollars) over more model years. Alleviating this risk for manufacturers is likely to result in an increase in EV development and adoption in the near term. For these reasons, DOE determines that immediate and complete removal of the fuel content factor from the PEF calculation would not serve the need of the United States to conserve energy.
+                </P>
+                <P>In addition, DOE finds that there is an adequate statutory basis for retaining the fuel content factor for a limited time period. As stated in the 2023 NOPR, DOE concludes that it need not rely upon 49 U.S.C. 32905 to apply a fuel content factor to EVs. 88 FR 21525, 21530. That provision applies to the use of alternative fuels, not to EVs. Section 32904(a)(2)(B), which requires the Secretary to consider, among other things, âthe need of the United States to conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricity,â does, however, provide a basis to apply a fuel content factor to the PEF calculation in the circumstances where applying such a fuel content factor would in fact conserve energy. As discussed previously, in this final rule DOE finds that for the immediate near term the fuel content factor serves to incentivize EV production, and hence to conserve energy, specifically petroleum. Accordingly, currently the fuel content factor meets the statutory directive to set the PEF taking into account the need âto conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricity.â 49 U.S.C. 32904(a)(2)(B). DOE also finds in this rule, however, that as the EV market matures and the incentives under the IRA and IIJA become more powerful, the fuel content factor will rapidly shift from incentivizing EV production and energy conservation to undercutting the effectiveness of other requirements for energy conservation. These conclusions support the current use, and eventual phase-out, of the fuel content factor.</P>
+                <P>Therefore, to reflect its declining net conservation benefit, the PEF calculation methodology in this final rule will gradually increase the denominator of the fuel content factor, starting with the currently applicable 1.0/0.15 factor in MY 2026 and increasing the denominator to a value of 1.00 by MY 2030. Given the date of 2030 for full phase out, DOE will reduce the impact of the fuel content factor by increasing the denominator of the factor by 4four equal increments of 0.2125 over MYs 2027 through 2030. The annual increase in the fuel content factor denominator value will decrease the factor's value until it is phased out in MY 2030. The fuel content factor for MYs 2026 to 2030 is represented in Table 6.</P>
+                <GPOTABLE COLS="6" OPTS="L2,i1" CDEF="s100,12C,12C,12C,12C,12C">
+                    <TTITLE>Table 6âFuel Content Factor for MY 2026 to 2030</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Model year</CHED>
+                        <CHED H="1">2026</CHED>
+                        <CHED H="1">2027</CHED>
+                        <CHED H="1">2028</CHED>
+                        <CHED H="1">2029</CHED>
+                        <CHED H="1">2030</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Fuel content factor</ENT>
+                        <ENT>1/0.15</ENT>
+                        <ENT>1/0.3625</ENT>
+                        <ENT>1/0.575</ENT>
+                        <ENT>1/0.7875</ENT>
+                        <ENT>1</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD3">5. Accessory Factor</HD>
+                <P>
+                    The 2000 Final Rule added an accessory factor to the PEF calculation to account for petroleum-fueled on-board accessories, such as cabin heaters, defrosters, or air-conditioning, which were envisioned as an approach to avoid low energy-density and/or low power-density limitations of battery technology at the time.
+                    <SU>23</SU>
+                    <FTREF/>
+                     No EVs currently produced include such accessories and it is unlikely that future EVs will include them. Furthermore, plug-in hybrid electric vehicles (PHEVs) petroleum-fueled on-board accessories are distinct from gasoline consumption, with a fuel economy weighted according to the expected percentage of driving attributed to charge-depleting and charge-sustaining modes. Therefore, in the 2023 NOPR, DOE proposed to set the accessory factor equal to 1.00 in its calculation. Two commenters supported setting the accessory factor to 1. NRDC and Sierra Club, Doc. No. 20, pg. 7; California 
+                    <E T="03">et al.,</E>
+                     Doc. No. 27, pg. 3-4. These commenters agreed with DOE's determination that no EVs in production use petroleum powered accessories. No commenter opposed setting the accessory factor equal to 1.00. Accordingly, as proposed in the 2023 NOPR, DOE sets the accessory factor equal to 1.00 in its PEF calculation.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âFor example, in the mid-1990s, the experimental Ford Ecostar vehicle, a two-door, small van, included a diesel-powered heater while being powered primarily by a sodium-sulfur battery with notable power density limitations and a very high operating temperature.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">6. Driving Pattern Factor</HD>
+                <P>In the 2000 Final Rule, DOE established a driving pattern factor to account for the statutory criterion in 49 U.S.C. 32904(a)(2)(B)(iv). The purpose of the driving pattern factor is to recognize the fact that electric vehicles may be used differently than gasoline vehicles, primarily due to their shorter range and longer ârefuelingâ times. Then-existing EPA regulations, however, did not make driving-pattern-based adjustments to the fuel economy of various classes of gasoline vehicles when calculating a manufacturer's CAFE value, even though gasoline-powered vehicles are also used in many different ways. 64 FR 37907, 37908. Therefore, DOE set the driving pattern factor at 1.00 because it believed that EVs offer capabilities like those of conventional gasoline-powered vehicles. 65 FR 36986, 36987. In the 2023 NOPR, DOE did not propose a change to the driving pattern factor and proposed keeping the driving pattern factor at 1.00. 88 FR 21525, 21530. DOE stated that it continued to believe that EVs are equivalently capable vehicles that are likely to be used similarly to gasoline-powered or hybrid-electric vehicles. 88 FR 21525, 21530.</P>
+                <P>
+                    DOE received comments that supported the proposed driving pattern factor. For example, NRDC, Sierra Club, the Alliance, and California 
+                    <E T="03">et al.,</E>
+                     supported a driving pattern factor of 1.0 and agreed that current EVs are full utility vehicles. NRDC and Sierra Club, Doc. No. 20, pg. 7; Alliance, Doc. No. 25, pg. 27; California 
+                    <E T="03">et al.,</E>
+                     Doc. No. 27, pg. 6.
+                </P>
+                <P>
+                    By contrast, AFPM opposed the proposed driving pattern factor and asserted that the driving patterns and use of ICE vehicles are different from that of EVs, primarily due to range considerations for EVs. AFPM, Doc. No. 26, pg. 16. AFPM asserted that DOE should analyze specific patterns of use of EVs compared to ICE vehicles. AFPM, Doc. No. 26, pg. 16. In its comments, AFPM claimed that EVs are more likely to be driven shorter distances for purposes such as commuting or running 
+                    <PRTPAGE P="22053"/>
+                    errands, as compared to ICE vehicles, which are more associated with longer trips and towing. AFPM, Doc. No. 26, pg. 17.
+                </P>
+                <P>
+                    In addition, AFPM cited a study by 
+                    <E T="03">iSeeCars.com</E>
+                     that examined used-vehicle listings showing that used-EVs had driven fewer miles than used-ICE vehicles.
+                    <SU>24</SU>
+                    <FTREF/>
+                     However, a more recent studyâ
+                    <SU>25</SU>
+                    <FTREF/>
+                     noted that the 
+                    <E T="03">iSeeCars.com</E>
+                     study methodology is biased toward examining older vehicles with lower EV ranges because it explored used-EV listings from 2016-2022 from the secondary market, and the more recent study advocated for updating the 
+                    <E T="03">iSeeCars.com</E>
+                     study to reflect newer EVs. A range of annual miles have been found in previous studies of BEV use ranging from 6,300 miles per year to 12,522 miles per year.
+                    <SU>26</SU>
+                    <FTREF/>
+                     Another study by University of California-Davis researchers found that long-range BEVs are driven significantly more than short-range BEVs and more than ICE vehicles.
+                    <SU>27</SU>
+                    <FTREF/>
+                     That same study uncovered other factors influencing the number of miles that EVs are driven, such as how many additional ICE vehicles are operated within a household. Many early EV adopters owned several vehicles, thus reducing the miles operated by each vehicle. While some EVs are currently driven less than comparable conventional vehicles, the difference between them is clearly shrinking. Moreover, current and growing EV ranges support DOE's position that EVs are equivalently capable vehicles likely to be used similarly to ICE vehicles or hybrid electric vehicles.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âiSeeCars, The Most and Least Driven Electric Cars. Available at 
+                        <E T="03">www.iseecars.com/most-driven-evs-study.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        âZhao 
+                        <E T="03">et al.,</E>
+                         âQuantifying electric vehicle mileage in the United Statesâ, Joule, Volume 7, Issue 11, 15 November 2023, pg. 2537-2551. Available at 
+                        <E T="03">doi.org/10.1016/j.joule.2023.09.015.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        âDavis, L.W., How much are electric vehicles driven? Appl. Econ. Lett. 26, 1497-1502 (2019), available at 
+                        <E T="03">www.tandfonline.com/doi/full/10.1080/13504851.2019.1582847;</E>
+                         Tal, G., Raghavan, S.S., Karanam, V.C., Favetti, M.P., Sutton, K.M., Ogunmayin, J.M., Lee, J.H., Nitta, C., Kurani, K., Chakraborty, D. 
+                        <E T="03">et al.,</E>
+                         advanced plug-in electric vehicle travel and charging behavior final report (2020), available at 
+                        <E T="03">csiflabs.cs.ucdavis.edu/~cjnitta/pubs/2020_03.pdf;</E>
+                         Burlig, F., Bushnell, J., Rapson, D., and Wolfram, C., Low energy: estimating electric vehicle electricity use. AEA Pap. Proc. 111, 430-435 (2021), available at 
+                        <E T="03">www.aeaweb.org/articles?id=10.1257/pandp.20211088;</E>
+                         Rush, L., Zhou, Y., and Gohlke, D., Vehicle residual value analysis by powertrain type and impacts on total cost of ownership (2022), available at 
+                        <E T="03">www.osti.gov/biblio/1876197;</E>
+                         Jia, W., and Chen, T.D., Beyond adoption: examining electric vehicle miles traveled in households with zero-emission vehicles. Transp. Res. Rec. 2676, 642-654 (2022), available at 
+                        <E T="03">journals.sagepub.com/doi/10.1177/03611981221082536;</E>
+                         Chakraborty, D., Hardman, S., and Tal, G., Integrating plug-in electric vehicles (PEVs) into household fleets-factors influencing miles traveled by PEV owners in California. Travel Behaviour and Society 26, 67-83 (2022), available at 
+                        <E T="03">doi.org/10.1016/j.tbs.2021.09.004.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        âUC Davis, Advanced Plug-in Electric Vehicle Travel and Charging Behavior Final Report, April 10, 2020. Available at 
+                        <E T="03">csiflabs.cs.ucdavis.edu/~cjnitta/pubs/2020_03.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>Accordingly, as proposed in the 2023 NOPR, DOE maintains the driving pattern factor at 1.00 in this final rule. DOE continues to believe that current EVs are equivalently capable vehicles that are likely to be used similarly to gasoline-powered or hybrid-electric vehicles. In addition, the deployment of a national charging network, enabled by the DOT's National Electric Vehicle Infrastructure program along with additional private investment, will help ensure EVs can continue to match the utility and driving demands of ICE vehicles. DOE maintains that current EVs are full-utility vehicles, capable of comparable performance and range to conventional counterparts.</P>
+                <HD SOURCE="HD3">7. Revised PEF Value</HD>
+                <P>As discussed in the preceding sections, DOE concluded that the current PEF value and methodology were based on outdated data and that the technology and market penetration of EVs has significantly changed since the 2000 Final Rule. In this final rule, DOE uses the following equation to calculate the PEF:</P>
+                <FP SOURCE="FP-2">
+                    PEF = CE
+                    <E T="52">g</E>
+                     Ã FCF Ã AF Ã DPF
+                </FP>
+                <P>
+                    Where CE
+                    <E T="52">g</E>
+                    , or cumulative E
+                    <E T="52">g</E>
+                    , is the sum of annual gasoline-equivalent energy content of electricity (E
+                    <E T="52">g</E>
+                    ) over the 40-year survivability-weighted lifetime mileage schedule (in Wh/gal), FCF is the fuel content factor (unitless and taking the value indicated in Table 6, above), AF is the accessory factor (unitless and equal to 1), and DPF is the driving pattern factor (unitless and equal to 1). In Sections III.C.3, III.C.4, III.C.5, and III.C.6, DOE calculated the values for CE
+                    <E T="52">g</E>
+                    , FCF, AF, and DPF respectively. The CE
+                    <E T="52">g</E>
+                     is 28,996 Wh/gal and AF and DPF are each 1.0. In addition, the final rule gradually reduces the fuel content factor, starting with the currently applicable 1.0/0.15 factor in MY 2026 and phasing out to a factor of 1.0/1.00 by MY 2030, 
+                    <E T="03">see</E>
+                     Section III.C.4 for a full discussion. Table 7 provides the inputs for MY 2024 to MY 2030 EVs. The final rule adopts the PEF values for the model years specified in Table 7.
+                </P>
+                <GPOTABLE COLS="6" OPTS="L2,i1" CDEF="s50,12,12,12,12,12">
+                    <TTITLE>Table 7âRevised PEF Values for MY 2024-MY 2030 EVs and Later</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Model year</CHED>
+                        <CHED H="1">
+                            CE
+                            <E T="0732">g</E>
+                        </CHED>
+                        <CHED H="1">FCF</CHED>
+                        <CHED H="1">AF</CHED>
+                        <CHED H="1">DPF</CHED>
+                        <CHED H="1">PEF</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">2024-2026</ENT>
+                        <ENT>
+                            <SU>a</SU>
+                            â12,307
+                        </ENT>
+                        <ENT>1/0.15</ENT>
+                        <ENT>
+                            <SU>b</SU>
+                            â1.0
+                        </ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>82,049</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2027</ENT>
+                        <ENT>28,996</ENT>
+                        <ENT>1/0.3625</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>79,989</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2028</ENT>
+                        <ENT>28,996</ENT>
+                        <ENT>1/0.575</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>50,427</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2029</ENT>
+                        <ENT>28,996</ENT>
+                        <ENT>1/0.7875</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>36,820</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2030 and later</ENT>
+                        <ENT>28,996</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>1.0</ENT>
+                        <ENT>28,996</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>a</SU>
+                        â12,307 Wh/gal is the E
+                        <E T="0732">g</E>
+                         for MY 2024-2026, not the CE
+                        <E T="0732">g</E>
+                         as the revised PEF methodology does not apply to MY 2024-2026 EVs.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>b</SU>
+                        âAssumes no petroleum-powered accessories for MY 2024-2026 EVs.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>
+                    Several commenters, mainly auto manufacturers and their representatives, opposed the revised PEF value.
+                    <SU>28</SU>
+                    <FTREF/>
+                     Some commenters argued that DOE should maintain the PEF established in the 2000 Final Rule. Porsche, Doc. No. 24, pg. 1; NADA, Doc. No 23, pg. 2-3; UAW, Doc. No. 30, pg. 1. They noted that the consistent PEF has provided regulatory certainty to automakers and that the PEF is an important planning tool and regulatory incentive in the context of CAFE compliance strategies that rely on the existing PEF to improve efficiency. Porsche, Doc. No. 24, pg.1; NADA, Doc. No. 23, pg. 2-3. NADA claimed that unless CAFE standards are lowered, changing the PEF as proposed will force automobile manufacturers to alter CAFE compliance strategy by reverting to investing more in costly ICE 
+                    <PRTPAGE P="22054"/>
+                    vehicle technology improvements or incur penalties. NADA, Doc. No 23, pg. 2. Porsche stated that if PEF must change, then the change should be phased in to reduce the effect on auto manufacturers. Porsche, Doc. No. 24, pg. 6.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        âDOE notes that these commenters opposed the revised PEF value proposed in the 2023 NOPR. In this final rule, the revised PEF value differs from the PEF value proposed in the 2023 NOPR. Specifically, the final rule retains the fuel content factor and phases it out over MY 2027 to MY 2030. In addition, the final rule uses an updated NREL projection of the electrical grid. Overall, these differences result in a greater PEF value for MY 2027 to MY 2030 EVs than proposed in the 2023 NOPR.
+                    </P>
+                </FTNT>
+                <P>DOE has a specific task of developing a PEF value that accounts for EV efficiency, national electrical generation and transmission efficiencies, conservation of all energy types and the relative scarcity and value of all fuels used to generate electricity, and EV driving patterns compared to petroleum-fueled vehicles. Although the Department has not changed the PEF value for over 23 years, DOE has statutory authority to review the PEF value on an annual basis. After reviewing the current PEF value and inputs, DOE determined that it was necessary to revise the PEF value consistent with the statutory factors identified in section 32904(a)(2)(B) and described above in greater detail. The revised PEF value reflects updated inputs upon which PEF values are calculated and advancements in the technology and market penetration of EVs since the 2000 Final Rule.</P>
+                <HD SOURCE="HD3">8. Compliance Period</HD>
+                <P>As noted in the 2023 NOPR, DOE proposed that the new PEF value take effect with MY 2027 vehicles. 88 FR 21525, 21531. DOE explained that NHTSA's next CAFE regulation was expected to cover MYs 2027-2031 and that the proposed PEF value would be the applicable PEF for calculating EV fuel economy for those model years. 88 FR 21525, 21531. DOE stated that having a fixed PEF value for the CAFE standard period improves NHTSA's ability to set CAFE standards that are the maximum feasible average fuel economy level and provides greater certainty to stakeholders from year to year. 88 FR 21525, 21531. DOE requested comment on this approach.</P>
+                <P>DOE received comments on this approach from numerous and diverse stakeholder groups, including non-governmental organizations, auto manufacturers and their representatives, energy and agricultural interest groups, and members of the public. Some commenters, such as NRDC and Sierra Club, supported the proposed effective date and agreed that DOE should conduct its most in-depth reviews of the PEF to coincide with anticipated CAFE rulemakings. NRDC and Sierra Club, Doc. No. 20, pg. 6.</P>
+                <P>In contrast, most auto manufacturers and automotive industry representatives opposed the proposed effective date and asserted that incorporating PEF-driven changes into existing product plans for MY 2027 vehicles would be challenging. The Alliance explained that several years of lead time is necessary to incorporate technologies into new vehicles, electric or ICE. Alliance, Doc. No. 25, pg. 17. In particular, the Alliance noted that by the time the PEF rule is finalized, it is likely to be near the market introduction of MY 2025 vehicles and asserted that â[e]ngine design and development cycles are typically much longer than three years.â Alliance, Doc. No. 25, pg. 17.</P>
+                <P>On September 14, 2023, DOE issued letters to member companies of the Alliance that invited recipients to provide data, documents, or analysis to clarify the concerns the Alliance expressed on behalf of its member companies in its response to comments on the 2023 NOPR in relation to the proposed effective date. DOE received responses from several Alliance member companies that provided data on how the proposed PEF value could affect their ability to comply with proposed CAFE standards for MYs 2027 to MY 2031. Specifically, Hyundai, Toyota, Stellantis, Mitsubishi, and the Alliance indicated that the proposed PEF value could lead to challenges complying with the proposed CAFE standards. Alliance, Doc. No. 25, pg. 6, 10, 11; Hyundai Doc. No. 38, pg. 1; Toyota, Doc. No. 54, pg. 1; Stellantis, Doc. No. 53, pg. 6-7; Mitsubishi, Doc. No. 50, pg. 1 Alliance, Doc. No. 25, pg. 6, 10, 11.</P>
+                <P>
+                    In response to this request for clarification on the lead-time challenges expressed by the Alliance on behalf of its member companies, several commenters opposed delaying the implementation date beyond what was proposed in the 2023 NOPR. These commenters echoed comments from AFPM and stated that DOE lacks authority to postpone the effective date because DOE is required to review the PEF annually. 
+                    <E T="03">See</E>
+                     Tesla, Doc. No. 18, pg. 2; NRDC and Sierra Club, Doc. No. 20, pg. 2; AmFree 
+                    <E T="03">et al.,</E>
+                     Doc. No. 31, pg. 3. Additionally, these commenters also observed that lead time challenges are not included amongst the statutory factors DOE must consider when reviewing the PEF. Tesla, Doc. 18, pg. 2; AmFree 
+                    <E T="03">et al.,</E>
+                     31, pg. 2.
+                </P>
+                <P>
+                    Although DOE is sensitive to the concerns of auto manufacturers, 49 U.S.C. 32904 clearly identifies the factors DOE must consider when reviewing the PEF. DOE has a specific task of developing a PEF that accounts for EV efficiency, national electrical generation and transmission efficiencies, conservation of all energy types and the relative scarcity and value of fuels used to generate electricity, and EV driving patterns compared to petroleum-fueled vehicles. 
+                    <E T="03">See</E>
+                     49 U.S.C. 32904(a)(2)(B). While NHTSA is required to provide 18 months of lead time for new CAFE standards per 49 U.S.C. 32902, lead time is not included in the factors that DOE must consider in its required annual review of the PEF. DOE is not required to consider lead time. However, DOE believes that applying the revised PEF beginning with MY 2027 vehicles is reasonable This will provide automotive manufacturers with more time to incorporate a new PEF than is required under the mandate that DOE review the PEF each year and determine if revisions to the PEF are required. Moreover, as DOE explained in the 2023 NOPR, applying revised PEF values to a predictable schedule provides greater certainty to stakeholders from year to year. Accordingly, as proposed in the 2023 NOPR, the revised PEF value will apply beginning with MY 2027 EVs.
+                </P>
+                <HD SOURCE="HD3">9. Annual Review</HD>
+                <P>
+                    In the 2023 NOPR, DOE stated that the statutory directive for an annual review is sufficient to require DOE to review the PEF. Accordingly, DOE proposed to delete section 10 CFR 474.5, which currently requires DOE to review 10 CFR part 474 every five years. 88 FR 21525, 21533. DOE stated that it would review the PEF value annually and if DOE determined that the PEF value needed to be changed, DOE would initiate a rulemaking to revise the value PEF appropriately. DOE also noted its intention to seek stakeholder input for its annual reviews through available methods (
+                    <E T="03">e.g.,</E>
+                     requests for information). 88 FR 21525, 21533.
+                </P>
+                <P>
+                    Several commenters opposed the deletion of 10 CFR 474.5. NRDC and Sierra Club, Doc. No. 20, pg. 6; California 
+                    <E T="03">et al.,</E>
+                     Doc. No. 27, pg. 7-8. These commenters acknowledged that DOE must review the PEF value on an annual basis and supported DOE's intention to seek stakeholder input during these annual reviews. However, they stated that Â§â474.5 requirements for public participation and publication are warranted to ensure DOE fulfills its statutory responsibilities to review the PEF. NRDC and Sierra Club, Doc. No. 20, pg. 6; California 
+                    <E T="03">et al.,</E>
+                     Doc. No. 27, pg. 7-8. Instead of deleting Â§â474.5, NRDC and Sierra Club suggested that DOE revise Â§â474.5 to reflect the review process described in the 2023 NOPR. NRDC and Sierra Club, Doc. No. 20, pg. 6.
+                </P>
+                <P>
+                    DOE does not believe additional regulation regarding public review is necessary for DOE to meet its statutory responsibilities. The public is 
+                    <PRTPAGE P="22055"/>
+                    authorized to petition DOE should DOE neglect its duties.
+                    <SU>29</SU>
+                    <FTREF/>
+                     In addition, if DOE determines that it is necessary to change the PEF value, this will require revisions to 10 CFR part 474, which would require DOE to publish a notice of proposed rulemaking and request comments. Thus, any revisions to the PEF value or changes to the methodology will be published in the 
+                    <E T="04">Federal Register</E>
+                     and the public may file comments, making the language in Â§â474.5 requiring public participation and publication unnecessary. Accordingly, in this final rule, DOE deletes Â§â474.5 as proposed in the 2023 NOPR.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>29</SU>
+                        âAFPM stated that its comments to the 2023 NOPR are also a petition for a rulemaking to update the PEF for 2024/25. DOE will undertake an annual review process. Therefore, AFPM's petition is premature at this time.
+                    </P>
+                </FTNT>
+                <P>
+                    DOE also received comments that expressed concern that DOE would only change the revised PEF value for MYs 2027-2031 if there is a âcompelling reasonâ to change the PEF calculation. AFPM, Doc. No. 26, pg. 4 (
+                    <E T="03">citing</E>
+                     88 FR 21525, 21533). However, AFPM noted that the statute does not require a compelling reason to change the PEF value. AFPM, Doc. No. 26, pg. 4. DOE agrees that 49 U.S.C. 32904 does not require a âcompelling reasonâ to change the PEF calculation. However, DOE did not intend to imply such a requirement exists. Rather, as explained previously, in this final rule, DOE provides the PEF values for MYs 2024 EVs and later. The 2023 NOPR expressed DOE's view that it was unlikely that over the near term, annual reviews will identify sufficient changes in the inputs to warrant revising the PEF value. Regardless, if DOE concludes during an annual review that grid mix projections or any other changes result in a PEF value that meaningfully differs from the revised PEF values set forth in this final rule, DOE will take steps to revise the PEF accordingly.
+                </P>
+                <HD SOURCE="HD1">IV. Responses to Additional Comments</HD>
+                <HD SOURCE="HD2">A. Revisions to Section 474.3</HD>
+                <P>One commenter noted that the 2023 NOPR proposed revisions to 10 CFR 474.3 that remove all description of the PEF value that applies to EVs prior to MY 2027. Alliance, Doc. No. 25, pg. 27. It was not DOE's intention to imply that there would be no PEF value from the effective date of the final rule to MY 2027. Accordingly, DOE revises Â§â474.3 to retain the current regulatory description relating to the PEF value that applies to EVs prior to MY 2027. This clarification requires revisions to the definition of the âpetroleum-equivalency factorâ in 10 CFR 474.2. DOE revises the definition of âpetroleum-equivalency factorâ to reference the new paragraphs in Â§â474.3 that provide the revised PEF values applicable to MY 2027 EVs and later.</P>
+                <HD SOURCE="HD2">B. Consideration of All Forms of Energy Conservation</HD>
+                <P>
+                    Commenters suggested that DOE needed to consider all forms of energy conservation. AFPM, Doc. No. 26, pg. 12-16. For example, AFPM asserted that DOE did not account for resource depletion associated with transitioning to renewable electricity (
+                    <E T="03">e.g.,</E>
+                     constraints on critical minerals for EV batteries and copper for transmission wiring), energy used to develop and manufacture EVs and infrastructure, and barriers to new renewable energy projects. AFPM suggested that DOE consider lifecycle energy demand associated with production of batteries, minerals, concrete, transition and storing, and charging infrastructure.
+                </P>
+                <P>DOE notes in response that energy use associated with production of vehicles and components are incorporated in the lifecycle analysis methodology within GREET, which does include energy use of all associated vehicle materials. Charging infrastructure does not impact vehicle fuel economy, with the exception of grid losses, which are accounted for. Other factors, such as commodity pricing and supply, are beyond the factors DOE is directed to consider.</P>
+                <P>In contrast, the Alliance asserted that DOE's rulemaking should focus only on the lifetime petroleum consumption of passenger vehicles. However, such a limited focus is not supported by the statute. Developing âequivalent petroleum based fuel economy values[,]â as required in 49 U.S.C. 32904, requires DOE to develop a way to equate EV fuel economy in miles per kWh with a miles per gasoline gallon equivalent. If Congress wanted DOE to only consider petroleum consumption of EVs in calculating PEF, it would not have required DOE to consider the national average electrical generation and transmission efficiencies. 49 U.S.C. 32904(a)(2)(B)(ii). In addition, Congress would not have identified four distinct factors for DOE to consider when reviewing the equivalent petroleum-based fuel economy values of EVs. In particular, the statutory language about âthe need of the United States to conserve all forms of energy and the relative scarcity and value to the United States of all fuel used to generate electricityâ would be superfluous. DOE must consider all of the factors presented by Congress and it cannot isolate a single factor, such as petroleum consumption, and use it exclusively when calculating the PEF value. However, this final rule does give special consideration to the capability of EVs to conserve scarce fuels like petroleum, including by retaining a fuel content factor through 2030, as discussed in Section III.C.4.</P>
+                <HD SOURCE="HD2">C. Need for Multiple PEF Values</HD>
+                <P>AFPM also asserted that one PEF for all EVs of different types and sizes is inappropriate, and instead, there should be PEF values that reflect actual energy efficiency of various classes of EVs during real world operation. However, the PEF is not designed to reflect the actual energy efficiency of various classes of EVs. Rather, the PEF value is a conversion factor between the forms of energy that are used in a vehicle, specifically to convert a Watt-hour of electricity into a gallon of gasoline for purposes of fuel economy regulation. The energy efficiency of various classes of EVs are determined by calculating the EV's combined electrical energy consumption value. An EV's combined energy consumption value is not considered when calculating the PEF value, but it is part of the equation to calculate the EV's petroleum-equivalent fuel economy. 10 CFR 474.3(a). To determine an EV's petroleum-equivalent fuel economy, one divides the appropriate PEF value by the EV's combined energy consumption value. 10 CFR 474.3(a)(3).</P>
+                <P>
+                    Because the combined electrical energy consumption value already accounts for the energy efficiency of different types and sizes of EVs, DOE determines that having multiple PEF values is unnecessary here. DOE agrees, however, that 49 U.S.C. 32904(a)(2)(B) would allow DOE to apply various factors to the CE
+                    <E T="52">g</E>
+                     when calculating the PEF value for âvarious classes of electric vehicles,â if DOE determined that such factors were necessary. For example, 49 U.S.C. 32904(a)(2)(B)(iv) requires DOE to consider âthe specific patterns of use of electric vehicles compared to petroleum-fueled vehicles.â In this final rule, DOE determines that current classes of EVs are equivalently capable vehicles that are likely to be used similarly to ICE vehicles. Accordingly, DOE maintains a driving pattern factor as 1.0. However, if there were a class of EVs that are used differently than ICE vehicles, then DOE could include a different driving pattern factor to reflect this different use when calculating the PEF value for such vehicles. DOE will monitor the field and consider whether including different driving pattern 
+                    <PRTPAGE P="22056"/>
+                    factors for different classes of EVs is appropriate during its annual reviews.
+                </P>
+                <HD SOURCE="HD2">D. Impact of Revised PEF on Plug-In Hybrid Electric Vehicles</HD>
+                <P>Some stakeholders commented on the application of the PEF to Plug-in Hybrid EVs (PHEVs) and argued that PHEVs were disproportionately advantaged by the new PEF. Tesla, Doc. No. 18, pg. 4; ZETA, Doc. No. 21, pg. 2. Specifically, they asserted that revised PEF value would decrease the fuel economy of PHEVs to approximately 60 to 75 percent of their current levels. However, according to these commenters, the revised PEF value would decrease the fuel economy of battery EVs (BEVs) to approximately 30 percent of their current levels. These commenters stated that DOE should address this âskewed incentiveâ because the revised PEF value would favor the inefficient PHEVs over more efficient BEVs. Tesla, Doc. No. 18, pg. 4; ZETA, Doc. No. 21, pg. 2.</P>
+                <P>The PEF value is used to convert the measured electrical energy consumption of an EV into a gasoline-equivalent fuel economy of electricity. For PHEVs, which consume both electricity and petroleum, PEF only applies to the measured electrical energy consumption and does not apply to the energy consumption of petroleum. Accordingly, the impact of a decreased PEF value on the fuel economy of a PHEV is less than the impact of a decreased PEF value on the fuel economy of a BEV, which consumes only electricity. In addition, the fuel economy of a BEV is still significantly greater than that of a PHEV. Accordingly, under the revised PEV value, auto manufacturers are still incentivized to invest in the more efficient BEVs.</P>
+                <HD SOURCE="HD2">E. Compliance With NHTSA and EPA Standards</HD>
+                <P>Several commenters expressed concerns that the revised PEF value would negatively affect auto manufacturers' ability to comply with NHTSA's CAFE standards and EPA's standards related to greenhouse gas (GHG) emissions. Ford and the Alliance asserted that the proposed PEF value would cause the NHTSA and EPA compliance programs to become misaligned. Alliance, Doc. No. 25, pg. 21; Ford, Doc. No. 22, pg. 2. Several commenters stated that the revised PEF would expose auto manufacturers to additional penalties associated with noncompliance with the NHTSA and or EPA compliance programs. Ford, Doc. No. 22, pg. 2; Alliance Doc. No. 25, pg. 6, 10, 11.</P>
+                <P>DOE has carefully considered the impact of the revised PEF value under the factors in section 32904. The imposition of any penalties associated with noncompliance with the CAFE and GHG programs is not within the considerations required by section 32904(a)(2)(B) and is therefore outside the scope of this rulemaking. Because NHTSA and EPA are responsible for the CAFE and GHG compliance programs, those agencies are in the best position to consider any such concerns from commenters.</P>
+                <HD SOURCE="HD2">F. Related Rulemakings</HD>
+                <P>
+                    Several commenters expressed concerns with the timing of the DOE's rulemaking and noted that EPA and NHTSA were considering their GHG and CAFE standards. For example, the Alliance asserted that DOE should defer action on the 2023 NOPR to allow NHTSA and EPA to finalize their pending rulemakings first.
+                    <SU>30</SU>
+                    <FTREF/>
+                     Porsche also objected to the publication of 2023 NOPR prior to the release of the proposed CAFE rule. Specifically, Porsche argued that DOE is prejudging the relevancy of the PEF value to future CAFE standards that had not been proposed at the time of the 2023 NOPR. Porsche, Doc. No. 24, pg. 5.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>30</SU>
+                        âAlliance, Doc. No. 25, pg. 24. DOE notes that several auto manufacturers and their representatives made similar arguments in their letters responded to the September 14, 2023, letters.
+                    </P>
+                </FTNT>
+                <P>DOE is obligated to complete the PEF rulemaking without further delay, given that an assessment of the PEF value is several years past due. In the 2023 NOPR, DOE acknowledged that the inputs upon which the calculations and PEF values in current 10 CFR part 474 are based are outdated, and the technology and market penetration of electric vehicles has significantly changed since the 2000 Final Rule. 88 FR 21525, 21526. DOE is statutorily mandated to review the PEF annually and to revise it as necessary. Such review is neither contingent upon nor tied to NHTSA and EPA rulemakings, and any impact of the PEF value on other programs is not part of the factors DOE must consider. Accordingly, DOE is not deferring this statutorily required action to update the PEF.</P>
+                <HD SOURCE="HD2">G. Miscellaneous</HD>
+                <P>DOE received a number of comments that are outside the scope of its authority or outside the scope of this rulemaking. For example, Transport Evolved argued that automakers should not be permitted to transfer CAFE credits from year-to-year or with other automakers. Transport Evolved, Doc. No. 17, pg. 2. In addition, Transport Evolved stated that CAFE calculations should account for the size of vehicles, specifically by reducing the benefit for âlarger, heavier, more inefficient vehicles.â Transport Evolved, Doc. No. 17, pg. 2. However, these comments from Transport Evolved relate to standards or programs administered by other federal agencies, NHTSA's CAFE program and the greenhouse gas and fuel economy calculations of EPA and NHTSA, and are, therefore, outside the scope of this rulemaking.</P>
+                <P>Our Children's Trust stated that the revised PEF value would authorize a level of GHG emissions that exceed levels safe for children. Our Children's Trust, Doc. No. 28, pg. 1. The PEF value does not authorize (or limit) GHG emissions. In this final rule DOE addresses the statutorily mandated factors for consideration in establishing the PEF value. The comments expressed concerns outside the scope of the PEF or the statutory factors.</P>
+                <P>UAW suggested that DOE incorporate a more realistic projection of EV adoption and charging infrastructure in the considerations, with an eye towards ensuring domestic manufacturing and the relevant supply chain. UAW, Doc. No. 30, pg. 2. In section III.3, DOE explained its methodology for deriving the PEF value.</P>
+                <P>Omer Sevindir asserted that the change to the PEF will hinder the ability of individuals who prefer ICE vehicles to acquire them. Doc. No. 36, pg. 1. The PEF value does not dictate market strategy for automakers. Each automaker selects its own manufacturer-specific CAFE compliance strategy and determines the vehicle models it will offer for sale.</P>
+                <P>An anonymous commenter suggested that DOE nationalize the oil and gas industry. This comment is not relevant to the scope of this rulemaking.</P>
+                <HD SOURCE="HD1">V. Revisions to 10 CFR Part 474</HD>
+                <HD SOURCE="HD2">A. 10 CFR 474.3</HD>
+                <P>
+                    In the 2023 NOPR, DOE proposed revising Â§â474.3 by revising paragraph (b) and adding paragraph (c). Proposed paragraph (b) stated that the PEF value is 23,160 Watt-hours per gallon. 88 FR 21525, 21539. Proposed paragraph (c) provided that the PEF value applies to MY 2027 and later EVs. 88 FR 21525, 21539. As previously discussed, DOE received comments that stated the proposed revisions to Â§â474.3 would remove all description of the PEF value that applies to EVs prior to MY 2027. Alliance, Doc. No. 25, pg. 27. It was not DOE's intention to imply that there would be no PEF value from the effective date of the final rule to MY 
+                    <PRTPAGE P="22057"/>
+                    2027. Accordingly, DOE revises Â§â474.3 to retain the current regulatory description relating to the PEF value that applies to EVs prior to MY 2027. Specifically, DOE revises paragraph (b) to clarify that the current PEF value applies to pre-MY 2027 EVs. DOE also adds paragraph (c)-(f) to provide PEF values for MY2027 to MY 2030 and later vehicles. These revised PEF values reflect the decreasing fuel content factor that applies to MY 2027 to MY 2030 EVs.
+                </P>
+                <P>The revisions to Â§â474.3 also necessitate revisions to the definition for âpetroleum equivalency factorâ in Â§â474.2 to include references to new paragraphs (c)-(f).</P>
+                <HD SOURCE="HD2">B. Appendix to Part 474</HD>
+                <P>In the 2023 NOPR, DOE also proposed revisions to the appendix to part 474. The proposed revisions to the sample petroleum-equivalent fuel economy calculations reflected the proposed revised PEF. In the final rule, DOE amends the appendix to part 474 to reflect the revisions to the PEF methodology and PEF value adopted in the final rule. For example, the sample calculation reflects the revised PEF value for MY 2029, which includes a fuel content factor of 1/0.7875. In addition, the DOE revises the appendix to clarify that the fuel content factor is part of the calculation of PEF, not the calculation of petroleum-equivalent fuel economy. Instead, to calculate the petroleum-equivalent fuel economy, one divides the PEF by the combined electrical energy consumption value.</P>
+                <HD SOURCE="HD1">VI. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Orders 12866, 13563 and 14094</HD>
+                <P>Executive Order (âE.O.â) 12866, âRegulatory Planning and Review,â 58 FR 51735 (Oct. 4, 1993), as supplemented and reaffirmed by E.O. 13563, âImproving Regulation and Regulatory Review,â 76 FR 3821 (Jan. 21, 2011) and amended by E.O. 14094, âModernizing Regulatory Review,â 88 FR 21879 (April 11, 2023), requires agencies, to the extent permitted by law, to (1) propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs (recognizing that some benefits and costs are difficult to quantify); (2) tailor regulations to impose the least burden on society, consistent with obtaining regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations; (3) select, in choosing among alternative regulatory approaches, those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity); (4) to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt; and (5) identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public. DOE emphasizes as well that E.O. 13563 requires agencies to use the best available techniques to quantify anticipated present and future benefits and costs as accurately as possible. In its guidance, the Office of Information and Regulatory Affairs (âOIRAâ) within the Office of Management and Budget (OMB) has emphasized that such techniques may include identifying changing future compliance costs that might result from technological innovation or anticipated behavioral changes.</P>
+                <P>For the reasons stated in this preamble, this regulatory action is consistent with these principles. As a preliminary matter, we note that the PEF is a numeric value determined through a highly technical analysis, which bounds DOE's discretion in deriving the value. Once calculated, the PEF has no independent effects, but serves as an input to calculations that other agencies perform. Thus, the general costs and benefits that could be attributed to these revisions are somewhat removed from this action, and DOE has not attempted to quantify them here. From a qualitative perspective, however, as discussed in section III.C, DOE expects the decision to retain a fuel content factor over the next several years, when combined with the revised PEF value and methodology to result in greater petroleum conservation by incentivizing EV production and adoption. On the other hand, the phaseout of the fuel content factor and the use of the revised PEF value may lead some manufacturers to incur additional costs, because of the potential effects of the revised PEF value on the average fuel economy of their fleets. The fact that the fuel content factor is phased out over four years, however, should have the effect of mitigating any such costs.</P>
+                <P>Section 6(a) of E.O. 12866 also requires agencies to submit âsignificant regulatory actionsâ to the OIRA for review. OIRA has determined that this action constitutes a significant regulatory action within the scope of section 3(f) of E.O. 12866. Accordingly, this action was subject to review by OIRA.</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires the preparation of an initial regulatory flexibility analysis (IRFA) for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, 
+                    <E T="03">Proper Consideration of Small Entities in Agency Rulemaking,</E>
+                     67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. The Department has made its procedures and policies available on the Office of General Counsel's website: 
+                    <E T="03">www.energy.gov/gc/office-general-counsel.</E>
+                </P>
+                <P>
+                    The final rule revises DOE's regulations on electric vehicles regarding procedures for calculating a value for the petroleum-equivalent fuel economy of EVs for use in the CAFE program administered by DOT. Once calculated, the PEF has no independent effects, but serves as an input to calculations that other agencies perform. Because this final rule does not directly regulate small entities but instead only amends a factor used to calculate the average fuel economy of a manufacturer's entire fleet, DOE certifies that this final rule will not have a significant economic impact on a substantial number of small entities, and, therefore, no regulatory flexibility analysis is required.
+                    <SU>31</SU>
+                    <FTREF/>
+                      
+                    <E T="03">Mid-Tex Elec. Co-Op, Inc.</E>
+                     v. 
+                    <E T="03">F.E.R.C.,</E>
+                     773 F.2d 327 (1985). Accordingly, DOE certifies that this rule would not have a significant economic impact on a substantial number of small entities, and, therefore, no regulatory flexibility analysis is required. DOE transmitted a certification and supporting statement of factual basis to the Chief Counsel for Advocacy of the Small Business Administration for review under 5 U.S.C. 605(b).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>31</SU>
+                        âDOE notes that passenger vehicle manufacturers that manufacture fewer than 10,000 vehicles per year can petition NHTSA to have alternative CAFE standards. 
+                        <E T="03">See</E>
+                         49 U.S.C. 32902(d).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act of 1995</HD>
+                <P>
+                    The final rule does not impose new information or record keeping requirements. Accordingly, OMB 
+                    <PRTPAGE P="22058"/>
+                    clearance is not required under the Paperwork Reduction Act. (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    ).
+                </P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    DOE analyzed this regulation in accordance with the National Environmental Policy Act of 1969 (âNEPAâ) and DOE's NEPA implementing regulations (10 CFR part 1021). DOE's regulations include a categorical exclusion for amending an existing rule or regulation that does not change the environmental effect of the rule or regulation being amended. 10 CFR part 1021, subpart D, appendix A5. This rulemaking qualifies for categorical exclusion A5 because this final rule, which amends an existing rule or regulation does not change the environmental effect of the rule or regulation being amended, no extraordinary circumstances exist that require further environmental analysis, and it otherwise meets the requirements for application of a categorical exclusion. 
+                    <E T="03">See</E>
+                     10 CFR 1021.410. Because this rule revises and updates the PEF value to ensure that it continues to serve the statutory purpose of conserving energy and conserving petroleum, given changes in circumstances that would diminish the effectiveness of the prior PEF value over time, this rule does not change the environmental effect of the prior rule. Thus, DOE concludes that this rulemaking to amend 10 CFR part 474 does not change the environmental effect of 10 CFR part 474. In addition, no extraordinary circumstances exist that would require further environmental analysis and the final rule otherwise meets the requirements for application of categorical exclusion A5.
+                </P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>
+                    Executive Order 13132, âFederalism,â 64 FR 43255 (Aug. 10, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The E.O. requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The E.O. also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 
+                    <E T="03">See</E>
+                     65 FR 13735. DOE examined this final rule and determined that it will not preempt State law and will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of Government. No further action is required by E.O. 13132.
+                </P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of E.O. 12988, âCivil Justice Reform,â 61 FR 4729 (Feb. 7, 1996), imposes on Federal agencies the general duty to adhere to the following requirements: (1) eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; and (3) provide a clear legal standard for affected conduct, rather than a general standard and promote simplification and burden reduction. Section 3(b) of E.O. 12988 specifically requires that executive agencies make every reasonable effort to ensure that the regulation: (1) clearly specifies its preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct, while promoting simplification and burden reduction; (4) specifies its retroactive effect, if any; (5) adequately defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of E.O. 12988 requires executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met, or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, the final rule does meet the relevant standards of E.O. 12988.</P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) (Pub. L. 104-4) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and tribal governments and the private sector. For a proposed regulatory action likely to result in a rule that may cause the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a) and (b)). The section of UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and tribal governments on a proposed âsignificant intergovernmental mandateâ and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect small governments. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA (62 FR 12820) (also available at 
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                    ). This final rule contains neither an intergovernmental mandate nor a mandate that may result in the expenditure of $100 million or more in any year by State, local, and tribal governments, in the aggregate, or by the private sector, so these requirements under the Unfunded Mandates Reform Act do not apply.
+                </P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act of 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act of 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE concludes that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>DOE has determined, under E.O. 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (Mar. 18, 1988), that this final rule will not result in any takings which might require compensation under the Fifth Amendment to the United States Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 
+                    <PRTPAGE P="22059"/>
+                    8452 (February 22, 2002), and DOE's guidelines were published at 67 FR 62446 (October 7, 2002). DOE has reviewed the final rule under the OMB and DOE guidelines and concludes that it is consistent with applicable policies in those guidelines.
+                </P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA, a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that: (1) is a significant regulatory action under E.O. 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use. The final rule amends a factor used to calculate CAFE compliance and is not expected to have a significant adverse effect on the supply, distribution, or use of energy. Additionally, OIRA has not designated this rule as a significant energy action. Accordingly, the requirements of E.O. 13211 do not apply.</P>
+                <HD SOURCE="HD2">L. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule prior to its effective date. The report will state that the Office of Information and Regulatory Affairs has determined that this rule meets the criteria set forth in 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VII. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 474</HD>
+                    <P>Electric power, Energy conservation, Motor vehicles, Research.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on March 18, 2024, by Jeffrey Marootian, Principal Deputy Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on March 19, 2024.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, DOE amends part 474 of Chapter II of Title 10 of the Code of Federal Regulations as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 474âELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION PROGRAM; PETROLEUM-EQUIVALENT FUEL ECONOMY CALCULATION</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="474">
+                    <AMDPAR>1. The authority citation for part 474 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                             49 U.S.C. 32901 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="474">
+                    <AMDPAR>2. Amend Â§â474.2 by revising definition for âPetroleum-equivalency factorâ to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â474.2</SECTNO>
+                        <SUBJECT> Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">Petroleum equivalency factor</E>
+                             means the values specified in Â§â474.3, paragraphs (b) through (f) of this part, which incorporate the parameters listed in 49 U.S.C. 32904(a)(2)(B) and are used to calculate petroleum-equivalent fuel economy.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="474">
+                    <AMDPAR>3. Amend Â§â474.3 by revising the introductory text of paragraph (b) and adding paragraphs (c), (d), (e), and (f) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â474.3</SECTNO>
+                        <SUBJECT> Petroleum-equivalent fuel economy calculation.</SUBJECT>
+                        <STARS/>
+                        <P>(b) For model year (MY) 2024, MY 2025, and MY 2026 electric vehicles, the petroleum-equivalency factors are as follows:</P>
+                        <STARS/>
+                        <P>(c) For MY 2027 electric vehicles, the petroleum-equivalency factor is 79,989 Watt-hours per gallon.</P>
+                        <P>(d) For MY 2028 electric vehicles, the petroleum-equivalency factor is 50,427 Watt-hours per gallon.</P>
+                        <P>(e) For MY 2029 electric vehicles, the petroleum-equivalency factor is 36,820 Watt-hours per gallon.</P>
+                        <P>(f) For MY 2030 and later electric vehicles, the petroleum-equivalency factor is 28,996 Watt-hours per gallon.</P>
+                    </SECTION>
+                </REGTEXT>
+                <SECTION>
+                    <SECTNO>Â§â474.5</SECTNO>
+                    <SUBJECT> [Removed and Reserved]</SUBJECT>
+                </SECTION>
+                <REGTEXT TITLE="10" PART="474">
+                    <AMDPAR>4. Remove and reserve Â§â474.5.</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="474">
+                    <AMDPAR>5. Revise appendix A to to 474 to read as follows:</AMDPAR>
+                    <APPENDIX>
+                        <HD SOURCE="HED">Appendix A to Part 474âSample Petroleum-Equivalent Fuel Economy Calculations</HD>
+                        <HD SOURCE="HD2">Example 1: Battery Electric Vehicle (BEV)</HD>
+                        <P>A battery electric vehicle is tested in accordance with Environmental Protection Agency procedures and is found to have an Urban Dynamometer Driving Schedule energy consumption value of 265 Watt-hours per mile and a Highway Fuel Economy Driving Schedule energy consumption value of 220 Watt-hours per mile. The vehicle is not equipped with any petroleum-powered accessories. The combined electrical energy consumption value is determined by averaging the Urban Dynamometer Driving Schedule energy consumption value and the Highway Fuel Economy Driving Schedule energy consumption value using weighting factors of 55 percent urban, and 45 percent highway:</P>
+                        <FP SOURCE="FP-2">combined electrical energy consumption value = (0.55 * urban) + (0.45 * highway) = (0.55 * 265) + (0.45 * 220) = 244.75 Wh/mile</FP>
+                        <P>The petroleum-equivalent fuel economy is:</P>
+                        <FP SOURCE="FP-2">PEF Ã· combined electrical energy consumption value</FP>
+                        <P>Thus, fuel economy for the example vehicle in MY 2030 would be:</P>
+                        <GPH SPAN="3" DEEP="50">
+                            <GID>ER29MR24.055</GID>
+                        </GPH>
+                        <PRTPAGE P="22060"/>
+                        <FP>where MPGe is miles per gallon equivalent.</FP>
+                        <HD SOURCE="HD2">Example 2: Plug-In Hybrid Electric Vehicle</HD>
+                        <P>A plug-in hybrid electric vehicle is tested in accordance with Environmental Protection Agency procedures and is found to have an Urban Dynamometer Driving Schedule energy consumption value of 265 Watt-hours per mile and a Highway Fuel Economy Driving Schedule energy consumption value of 220 Watt-hours per mile in charge depleting mode, a combined gasoline fuel economy of 50.0 miles per gallon in charge sustaining mode, and an all-electric range corresponding to a percentage utilization of 60 percent travel on electricity and 40 percent travel on gasoline.</P>
+                        <P>The combined electrical energy consumption value is determined by averaging the Urban Dynamometer Driving Schedule energy consumption value and the Highway Fuel Economy Driving Schedule energy consumption value using weighting factors of 55 percent urban, and 45 percent highway to be 244.75 Wh/mile, which corresponds to 118.47 miles/gal equivalent as shown above for a BEV (using the MY 2030-and-beyond PEF value of 28,997 Wh/gal).</P>
+                        <P>The PHEV fuel economy is calculated by dividing one by the sum of the percentage utilization for petroleum and electricity divided by their respective fuel economy.</P>
+                        <P>In this case:</P>
+                        <GPH SPAN="3" DEEP="37">
+                            <GID>ER29MR24.056</GID>
+                        </GPH>
+                    </APPENDIX>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2024-06101 Filed 3-28-24; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

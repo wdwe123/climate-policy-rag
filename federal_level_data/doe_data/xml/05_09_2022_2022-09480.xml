@@ -1,0 +1,1344 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 430</CFR>
+                <DEPDOC>[EERE-2021-BT-STD-0012]</DEPDOC>
+                <RIN>RIN 1904-AF22</RIN>
+                <SUBJECT>Energy Conservation Program: Definitions for General Service Lamps</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>On January 19, 2017, the U.S. Department of Energy (âDOEâ) published two final rules adopting revised definitions of general service lamp (âGSLâ) and general service incandescent lamp (âGSILâ), and other supplemental definitions, to go into effect January 1, 2020. (âJanuary 2017 Final Rulesâ). Prior to that effective date, on September 5, 2019, DOE withdrew the revised definitions of GSL, GSIL, and the other supplemental definitions. Upon further review and consideration, on August 19, 2021, DOE published a notice of proposed rulemaking (âNOPRâ) proposing to amend the definitions of GSL, GSIL and the other supplemental definitions as previously set forth in the January 2017 Final Rules. DOE responds to comments received on the NOPR in this final rule and adopts the definitions of GSL and GSIL and the associated supplemental definitions set forth in the January 2017 Final Rules as proposed in the NOPR.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The effective date of this rule is July 8, 2022. The incorporation by reference of other material listed in this rulemaking was approved by the Director of the Federal Register on March 23, 2009.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, public meeting attendee lists and transcripts, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                    <P>
+                        The docket web page can be found at 
+                        <E T="03">www.regulations.gov/docket/EERE-2021-BT-STD-0012.</E>
+                         The docket web page contains instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                    <P>
+                        For further information on how to review the docket, contact the Appliance and Equipment Standards Program staff at (202) 287-1445 or by email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P/>
+                    <P>
+                        Dr. Stephanie Johnson, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: (202) 287-1943. Email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                    <P>
+                        Ms. Celia Sher, U.S. Department of Energy, Office of the General Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: (202) 287-6122. Email: 
+                        <E T="03">Celia.Sher@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Synopsis of the Final Rule</FP>
+                    <FP SOURCE="FP-2">II. Introduction</FP>
+                    <FP SOURCE="FP1-2">A. Authority</FP>
+                    <FP SOURCE="FP1-2">B. March 2016 Notice of Proposed Rulemaking and October 2016 Notice of Proposed Definition and Data Availability</FP>
+                    <FP SOURCE="FP1-2">C. January 2017 Final Rules</FP>
+                    <FP SOURCE="FP1-2">D. September 2019 Withdrawal Rule and Subsequent Review</FP>
+                    <FP SOURCE="FP1-2">E. August 2021 Notice of Proposed Rule</FP>
+                    <FP SOURCE="FP-2">III. General Discussion</FP>
+                    <FP SOURCE="FP1-2">A. September 2019 Withdrawal Rule</FP>
+                    <FP SOURCE="FP1-2">B. Reflector Lamps</FP>
+                    <FP SOURCE="FP1-2">C. Consumer Choice, Health Impacts</FP>
+                    <FP SOURCE="FP1-2">D. Potential Revisions to the Proposed Definitions</FP>
+                    <FP SOURCE="FP1-2">1. Lumens</FP>
+                    <FP SOURCE="FP1-2">2. Base Type and Voltage</FP>
+                    <FP SOURCE="FP1-2">3. Color Tunable Lamps</FP>
+                    <FP SOURCE="FP1-2">E. Market Share, Cost Savings, Energy Savings, and Emission Reductions</FP>
+                    <FP SOURCE="FP1-2">1. Market Share</FP>
+                    <FP SOURCE="FP1-2">2. Consumer Costs, Energy Savings, Emission Reductions</FP>
+                    <FP SOURCE="FP1-2">F. State Preemption</FP>
+                    <FP SOURCE="FP1-2">G. Effective Date</FP>
+                    <FP SOURCE="FP1-2">1. GSL Definitions Effective Date</FP>
+                    <FP SOURCE="FP1-2">2. GSL Backstop Effective Date</FP>
+                    <FP SOURCE="FP1-2">H. Analysis</FP>
+                    <FP SOURCE="FP-2">IV. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Orders 12866 and 13563</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">
+                        I. Review Under Executive Order 12630
+                        <PRTPAGE P="27462"/>
+                    </FP>
+                    <FP SOURCE="FP1-2">J. Review Under the Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Review Under Section 32 of the Federal Energy Administration Act of 1974</FP>
+                    <FP SOURCE="FP1-2">M. Description of Materials Incorporated by Reference</FP>
+                    <FP SOURCE="FP1-2">N. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">V. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Synopsis of the Final Rule</HD>
+                <P>
+                    In this final rule, DOE adopts its proposal in the NOPR to amend the current definitions of GSL and GSIL to be defined as previously set forth in the January 2017 Final Rules. 
+                    <E T="03">See</E>
+                     82 FR 7276; 82 FR 7322. DOE has determined that the definitions are consistent with the congressional direction provided in the Energy Policy and Conservation Act (âEPCAâ) and further the purposes set forth in EPCA, as well as in Executive Order (âE.O.â) 13990, âProtecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis.â 86 FR 7037 (Jan. 25, 2021). Additionally, as proposed in the NOPR, DOE adopts the supplemental definitions established in the January 2017 Final Rules, which relate to the definitions of GSL and GSIL. DOE is not determining whether standards for GSLs, including GSILs, should be amended in this rule. Rather, DOE is establishing the scope of lamps to be considered in such a determination.
+                </P>
+                <HD SOURCE="HD1">II. Introduction</HD>
+                <P>
+                    Amendments to EPCA in the Energy Independence and Security Act of 2007, Public Law 110-140 (âEISAâ) directed DOE to conduct a number of rulemakings regarding coverage of lamps as GSLs and GSILs, and to evaluate energy conservation standards for such lamps. 42 U.S.C. 6295(i)(6)(A)-(B). Pursuant to this authority, DOE conducted a rulemaking to establish revised regulatory definitions for GSLs and GSILs. 
+                    <E T="03">See</E>
+                     82 FR 7276 (Jan. 19, 2017); 82 FR 7322 (Jan. 19, 2017). Subsequently, DOE conducted a rulemaking in which it withdrew these revised definitions before they took effect. 84 FR 46661 (Sept. 5, 2019). The following paragraphs provide an overview of the authorities and final rules issued by DOE relevant to the definitions for GSL, GSIL, and related terms, as adopted in this final rule.
+                </P>
+                <HD SOURCE="HD2">A. Authority</HD>
+                <P>
+                    EPCA, as amended,
+                    <SU>1</SU>
+                    <FTREF/>
+                     authorizes DOE to regulate the energy efficiency of a number of consumer products and certain industrial equipment. 42 U.S.C. 6291-6317. Title III, Part Bâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     of EPCA, established the Energy Conservation Program for Consumer Products Other Than Automobiles. 42 U.S.C. 6291-6309. These products include GSLs, the subject of this rulemaking.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âAll references to EPCA in this document refer to the statute as amended through the Energy Act of 2020, Public Law 116-260 (Dec. 27, 2020).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âFor editorial reasons, upon codification in the U.S. Code, Part B was redesignated Part A.
+                    </P>
+                </FTNT>
+                <P>
+                    EPCA directs DOE to conduct two rulemaking cycles to evaluate energy conservation standards for GSLs. 42 U.S.C. 6295(i)(6)(A)-(B). GSLs are defined in EPCA to include GSILs, compact fluorescent lamps (âCFLsâ), general service light-emitting diode (âLEDâ) lamps and organic light emitting diode (âOLEDâ) lamps, and any other lamps that the Secretary of Energy (âSecretaryâ) determines are used to satisfy lighting applications traditionally served by general service incandescent lamps. 42 U.S.C. 6291(30)(BB)(i), (CC)(i), (DD). The EPCA provision setting forth relevant definitions indicates that the term âgeneral service lampâ in EPCA does not include any of the twenty-two lighting applications or bulb shapes explicitly not included in the definition of âgeneral service incandescent lamp,ââ
+                    <SU>3</SU>
+                    <FTREF/>
+                     or any general service fluorescent lamp or incandescent reflector lamp. 42 U.S.C. 6291(30)(BB)(ii).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âThe statutory definition of âgeneral service incandescent lampâ in EPCA does not include the following incandescent lamps: (I) An appliance lamp; (II) A black light lamp; (III) A bug lamp; (IV) A colored lamp; (V) An infrared lamp; (VI) A left-hand thread lamp; (VII) A marine lamp; (VIII) A marine signal service lamp; (IX) A mine service lamp; (X) A plant light lamp; (XI) A reflector lamp; (XII) A rough service lamp; (XIII) A shatter-resistant lamp (including a shatter-proof lamp and a shatter-protected lamp); (XIV) A sign service lamp; (XV) A silver bowl lamp; (XVI) A showcase lamp; (XVII) A three-way incandescent lamp; (XVIII) A traffic signal lamp; (XIX) A vibration service lamp; (XX) A G shape lamp (as defined in ANSI C78.20-2003 and C79.1-2002) with a diameter of 5 inches or more; (XXI) A T shape lamp (as defined in ANSI C78.20-2003 and C79.1-2002) [and] that uses not more than 40 watts or has a length of more than 10 inches; (XXII) A B, BA, CA, F, G16-1/2, G-25, G30, S, or M-14 lamp (as defined in ANSI C79.1-2002 and ANSI C78.20-2003) of 40 watts or less. 42 U.S.C. 6291(30)(D)(ii). These are the âexemptionsâ from the statutory definition, some of which are âdiscontinuedâ by this rule, in accordance with 42 U.S.C. 6295(i)(6)(A)(i).
+                    </P>
+                </FTNT>
+                <P>For the first rulemaking cycle, EPCA directs DOE to initiate a rulemaking process prior to January 1, 2014, to consider two questions: (1) Whether to amend energy conservation standards for general service lamps to establish more stringent standards than EPCA specifies, and (2) whether âthe exemptions for certain incandescent lamps should be maintained or discontinued.â 42 U.S.C. 6295(i)(6)(A)(i). In developing such a rule, DOE must consider a minimum efficacy standard of 45 lumens per watt (âlm/Wâ). 42 U.S.C. 6295(i)(6)(A)(ii). Further, if the Secretary determines that the standards in effect for GSILs should be amended, EPCA provides that a final rule must be published by January 1, 2017, with an effective date at least three years after the date on which the final rule is published. 42 U.S.C. 6295(i)(6)(A)(iii). Additionally, EPCA directs that the Secretary shall consider phased-in effective dates after considering certain economic factors. 42 U.S.C. 6295(i)(6)(A)(iv). If DOE fails to complete a rulemaking in accordance with 42 U.S.C. 6295(i)(6)(A)(i)-(iv), or if a final rule from the first rulemaking cycle does not produce savings greater than or equal to the savings from a minimum efficacy standard of 45 lm/W, the statute provides a âbackstopâ under which DOE must prohibit sales of GSLs that do not meet a minimum 45 lm/W standard. 42 U.S.C. 6295(i)(6)(A)(v).</P>
+                <P>EPCA further directs DOE to initiate a second rulemaking cycle by January 1, 2020, to determine whether standards in effect for GSILs (which are a subset of GSLs) should be amended with more stringent maximum wattage requirements than EPCA specifies, and whether the exemptions for certain incandescent lamps should be maintained or discontinued. 42 U.S.C. 6295(i)(6)(B)(i). As in the first rulemaking cycle, the scope of the second rulemaking is not limited to incandescent lamp technologies. 42 U.S.C. 6295(i)(6)(B)(ii).</P>
+                <P>In addition to the two mandated rulemaking cycles, under the statutory definition of GSL, DOE has authority to include lamps as GSLs upon determining that they are âused to satisfy lighting applications traditionally served by general service incandescent lamps.â 42 U.S.C. 6291(30)(BB)(i)(IV).</P>
+                <HD SOURCE="HD2">B. March 2016 Notice of Proposed Rulemaking and October 2016 Notice of Proposed Definition and Data Availability</HD>
+                <P>
+                    Pursuant to its statutory authority, DOE published a notice of proposed rulemaking (âNOPRâ) on March 17, 2016, that addressed the first question that Congress directed it to considerâwhether to amend energy conservation standards for GSLs (âMarch 2016 NOPRâ). 81 FR 14528, 14629-14630 (Mar. 17, 2016). In that NOPR, DOE stated that it would be unable to undertake any analysis regarding GSILs and other incandescent lamps because of a then-applicable congressional restriction (âthe Appropriations Riderâ). See 
+                    <E T="03">Id.</E>
+                     at 81 FR 14528, 14540-14541. The Appropriations Rider prohibited 
+                    <PRTPAGE P="27463"/>
+                    expenditure of funds appropriated by that law to implement or enforce: (1) 10 CFR 430.32(x), which includes maximum wattage and minimum rated lifetime requirements for GSILs; and (2) standards set forth in section 325(i)(1)(B) of EPCA (42 U.S.C. 6295(i)(1)(B)), which sets minimum lamp efficiency ratings for incandescent reflector lamps (âIRLsâ). Under the Appropriations Rider, DOE was restricted from undertaking the analysis required to address the first question presented by Congress but was not so limited in addressing the second questionâthat is, DOE was not prevented from determining whether the exemptions for certain incandescent lamps should be maintained or discontinued. To address that second question, DOE published a Notice of Proposed Definition and Data Availability (âNOPDDAâ), which proposed to amend the definitions of GSIL, GSL, and related terms (âOctober 2016 NOPDDAâ). 81 FR 71794, 71815 (Oct. 18, 2016). Notably, the Appropriations Rider originally was adopted in 2011 and was readopted and extended continuously in multiple subsequent legislative actions. It expired on May 5, 2017, when the Consolidated Appropriations Act, 2017 was enacted.
+                    <SU>4</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        â
+                        <E T="03">See</E>
+                         Consolidated Appropriations Act of 2017 (Pub. L. 115-31, div. D, tit. III); 
+                        <E T="03">see also</E>
+                         Consolidated Appropriations Act, 2018 (Pub. L. 115-141).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">C. January 2017 Final Rules</HD>
+                <P>On January 19, 2017, DOE published the January 2017 Final Rules concerning the definitions of GSL, GSIL, and related terms. 82 FR 7276; 82 FR 7322. The January 2017 Final Rules amended the definitions of GSIL and GSL by bringing certain categories of lamps within the definitions of GSIL and GSL that EPCA had exempted, including IRLs. See 82 FR 7312; 82 FR 7323. The January 2017 Final Rules related to the second question that Congress directed DOE to consider, regarding whether to maintain or discontinue âexemptionsâ for certain incandescent lamps. 42 U.S.C. 6295(i)(6)(A)(i)(II). The discontinuation of the exemption would render the lamp a GSIL (and therefore also a GSL), to the extent it would otherwise qualify as a GSIL. 82 FR 7277. DOE also considered whether other lamps should be included in the definition of GSL. 82 FR 7277. DOE stated that it would then either impose standards on these lamps pursuant to its authority to develop GSL standards or apply the 45 lm/W backstop standard prohibiting the sale of lamps not meeting a 45 lm/W efficacy standard. 82 FR 7276, 7277. The definitions in the January 2017 Final Rules were to become effective on January 1, 2020. 82 FR 7276, 7276; 82 FR 7322, 7322. The definitions will herein be referred to as the âJanuary 2017 Definitions.â</P>
+                <HD SOURCE="HD2">D. September 2019 Withdrawal Rule and Subsequent Review</HD>
+                <P>With the removal of the Appropriations Rider in the Consolidated Appropriations Act, 2017, DOE was no longer restricted from undertaking the analysis and decision-making required to address the first question presented by Congressâthat is, whether to amend energy conservation standards for GSLs, including GSILs. Thus, on August 15, 2017, DOE published a Notice of Data Availability and request for information (âNODAâ) seeking data for GSILs and other incandescent lamps (âAugust 2017 NODAâ). 82 FR 38613.</P>
+                <P>
+                    The purpose of the August 2017 NODA was to assist DOE in determining whether standards for GSILs should be amended. 42 U.S.C. 6295(i)(6)(A)(i)(I). Comments submitted in response to the August 2017 NODA also led DOE to reconsider the decisions it had already made with respect to the second question presented to DOE (whether the exemptions for certain incandescent lamps should be maintained or discontinued). 42 U.S.C. 6295(i)(6)(A)(i)(II). As a result of the comments received in response to the August 2017 NODA, DOE also re-assessed the legal interpretations underlying certain decisions made in the January 2017 Final Rules. On February 11, 2019, DOE published a NOPR proposing to withdraw the revised definitions of GSL and GSIL, and the new and revised definitions of related terms that were to go into effect on January 1, 2020. 84 FR 3120 (âFebruary 2019 Withdrawal NOPRâ). In a final rule published September 5, 2019, DOE finalized the withdrawal of the definitions of GSIL, GSL, and related terms established in the January 2017 Final Rules. 84 FR 46661 (âSeptember 2019 Withdrawal Ruleâ). Informed, in part, by comments received in response to the August 2017 NODA, DOE concluded in the September 2019 Withdrawal Rule that maintaining the definitions for GSL and GSIL as established by EPCA and not discontinuing certain exemptions pursuant to the required review under 42 U.S.C. 6295(i)(6)(A)(i) was the best reading of the statute. 84 FR 46661, 46665-46666. DOE also stated that it identified inaccuracies underlying its determination to revise the definitions of GSL and GSIL. 84 FR 46661, 46665. Based on data received in response to the August 2017 NODA, DOE learned that it had overestimated shipment numbers for candelabra base incandescent lamps by a factor of more than two. 
+                    <E T="03">Id.</E>
+                     In withdrawing the definitions established in the January 2017 Final Rules, DOE specifically addressed its determinations to maintain the exemptions for rough service lamps; shatter-resistant lamps; three-way incandescent lamps; high lumen incandescent lamps (2,601-3,300 lumens); vibration service lamps; T-shape lamps of 40 watts (âWâ) or less or length of 10 inches or more; B, BA, CA, F, G16-1/2, G25, G30, S, M-14 lamps of 40 W or less; candelabra base lamps; and IRLs. Id.
+                </P>
+                <P>
+                    The September 2019 Withdrawal Rule also addressed issues and comments regarding the imposition of the 45 lm/W backstop, applicability of EPCA's anti-backsliding provision at 42 U.S.C. 6295(o), and preemption of State regulation of lamps. 84 FR 46663-46665, 46669. Although these additional issues concern DOE's regulation of lamps, they are not the subject of this NOPR. DOE has requested comments and data to inform further consideration of the 45 lm/W backstop provision. 
+                    <E T="03">See</E>
+                     86 FR 28001 (May 25, 2021).
+                </P>
+                <P>
+                    As a result of the September 2019 Withdrawal Rule, the amended definitions of GSL and GSIL and the new and revised definitions of related terms established in the January 2017 Final Rules were withdrawn prior to going into effect. The current regulatory definitions of GSL and GSIL are those set forth in EPCA. 
+                    <E T="03">See</E>
+                     10 CFR 430.2; see also 42 U.S.C. 6291(30)(D); 42 U.S.C. 6291(30)(BB).
+                </P>
+                <P>
+                    Subsequent to the September 2019 Withdrawal Rule, on January 20, 2021, President Biden issued E.O. 13990. Section 1 of that Order lists a number of policies related to the protection of public health and the environment, including reducing greenhouse gas emissions and bolstering the Nation's resilience to climate change. 86 FR 7037, 7041. Section 2 of the Order instructs all agencies to review âexisting regulations, orders, guidance documents, policies, and any other similar agency actions . . . promulgated, issued, or adopted between January 20, 2017, and January 20, 2021, that are or may be inconsistent with, or present obstacles to, [these policies].â 
+                    <E T="03">Id.</E>
+                     Agencies are then directed, as appropriate and consistent with applicable law, to consider suspending, revising, or rescinding these agency actions and to immediately commence work to confront the climate crisis. 
+                    <E T="03">Id.</E>
+                     Consistent with E.O. 13990, 
+                    <PRTPAGE P="27464"/>
+                    DOE has undertaken a review of the definitions of GSL and GSIL in the September 2019 Withdrawal Rule and the January 2017 Final Rules. Although E.O. 13990 triggered DOE's review, DOE is relying on its analysis below, based on the language and intent of EPCA, to support its decision to reconsider the September 2019 Withdrawal Rule. As a result of this review, DOE rejects the alternative interpretation of the statutory directives in EPCA set forth in the September 2019 Withdrawal Rule and determines that DOE's interpretation in this final rule is the best reading of the statute.
+                </P>
+                <HD SOURCE="HD2">E. August 2021 Notice of Proposed Rule</HD>
+                <P>On August 19, 2021, DOE published a NOPR that proposed to amend the definitions of GSL and GSIL as previously set forth in the January 2017 Final Rules. (âAugust 2021 NOPRâ). 86 FR 46611. DOE received 17 written comments in response to the August 2021 NOPR from the interested parties listed in Table II.1.</P>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s125,r50,r75">
+                    <TTITLE>Table II.1âAugust 2021 NOPR Written Comments</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Commenter(s)</CHED>
+                        <CHED H="1">Abbreviation</CHED>
+                        <CHED H="1">Commenter type</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Anonymous</ENT>
+                        <ENT>Anonymous</ENT>
+                        <ENT>Private Citizen.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Anonymous</ENT>
+                        <ENT>Anonymous</ENT>
+                        <ENT>Private Citizen.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Anonymous</ENT>
+                        <ENT>Anonymous</ENT>
+                        <ENT>Private Citizen.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Anonymous</ENT>
+                        <ENT>Anonymous</ENT>
+                        <ENT>Private Citizen.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Northwest Power and Conservation Council</ENT>
+                        <ENT>NPCC</ENT>
+                        <ENT>Interstate Compact Agency.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Association of State Energy Officials</ENT>
+                        <ENT>NASEO</ENT>
+                        <ENT>State Government Officials.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Electrical Manufacturers Association</ENT>
+                        <ENT>NEMA</ENT>
+                        <ENT>Industry Association.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">New York State Energy Research and Development Authority</ENT>
+                        <ENT>NYSERDA</ENT>
+                        <ENT>Efficiency Organization.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Attorneys General of New York, California, Colorado, Illinois, Maine, Maryland, Michigan, Minnesota, Nevada, New Jersey, New Mexico, Oregon, Vermont, Washington, The Commonwealth of Massachusetts, The District of Columbia, and The City of New York</ENT>
+                        <ENT>AGs</ENT>
+                        <ENT>State Government Officials.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Lutron Electronics Co., Inc</ENT>
+                        <ENT>Lutron</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">State of Washington Department of Commerce</ENT>
+                        <ENT>State of Washington DOC</ENT>
+                        <ENT>State Government Agency.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">GE Lighting, a Savant Company</ENT>
+                        <ENT>GE Lighting</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">California Energy Commission</ENT>
+                        <ENT>CEC</ENT>
+                        <ENT>State Government Agency.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Consumer Federation of America, National Consumer Law Center, Alliance for Affordable Energy, Consumer Action, Citizens Action Coalition of IN, Consumer Federation of California, Columbia Consumer Education Council, Pennsylvania Utility Law Project, TURN-The Utility Reform Network, Public Utility Law Project of New York, Virginia Citizens Consumer Council</ENT>
+                        <ENT>The Joint Comment</ENT>
+                        <ENT>Consumer Advocacy Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">California Investor-Owned Utilities</ENT>
+                        <ENT>CA IOUs</ENT>
+                        <ENT>Utility.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Sierra Club, Natural Resources Defense Council, Earthjustice</ENT>
+                        <ENT>SC, NRDC, and EJ</ENT>
+                        <ENT>Environmental Non-Profit Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Appliance Standards Awareness Project</ENT>
+                        <ENT>ASAP</ENT>
+                        <ENT>Efficiency Organization.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    A parenthetical reference at the end of a comment quotation or paraphrase provides the location of the item in the public record.
+                    <SU>5</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âThe parenthetical reference provides a reference for information located in the docket of DOE's rulemaking to develop definitions for general service lamps. (Docket No. EERE-2021-BT-STD-0012, which is maintained at 
+                        <E T="03">www.regulations.gov</E>
+                        ). The references are arranged as follows: (Commenter name, comment docket ID number at page of that document).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">III. General Discussion</HD>
+                <P>EPCA defines the class of GSLs as including GSILs, CFLs, general service LED and OLED lamps, and any other lamps that DOE determines are used to satisfy lighting applications traditionally served by GSILs; however, as specified by EPCA, GSLs do not include any lighting application or bulb shape that under 42 U.S.C. 6291(30)(D)(ii) is not included in the âgeneral service incandescent lampâ definition, or any general service fluorescent lamp or incandescent reflector lamp. 42 U.S.C. 6291(30)(BB).</P>
+                <P>
+                    EPCA defines a GSIL generally as a standard incandescent or halogen type lamp that is intended for general service applications; has a medium screw base; has a lumen range of not less than 310 lumens and not more than 2,600 lumens or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens; and is capable of being operated at a voltage range at least partially within 110 and 130 volts. 42 U.S.C. 6291(30)(D)(i). This definition does not apply, however, to 22 lamp types.
+                    <SU>6</SU>
+                    <FTREF/>
+                     42 U.S.C. 6291(30)(D)(ii).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âThese are: An appliance lamp; a black light lamp; a bug lamp; a colored lamp; an infrared lamp; a left-hand thread lamp; a marine lamp; a marine signal service lamp; a mine service lamp; a plant light lamp; a reflector lamp; a rough service lamp; a shatter-resistant lamp (including a shatter-proof lamp and a shatter-protected lamp); a sign service lamp; a silver bowl lamp; a showcase lamp; a three-way incandescent lamp; traffic signal lamp; a vibration service lamp; a G shape lamp (as defined in ANSI C78.20 and ANSI C79.1-2002) with a diameter of 5 inches or more; a T shape lamp (as defined in ANSI C78.20 and ANSI C79.1-2002) and that uses not more than 40 watts or has a length of more than 10 inches; and a B, BA, CA, F, G16-1/2, G-25, G30, S, or M-14 lamp (as defined in ANSI C79.1-2002 and ANSI C78.20) of 40 watts or less. 42 U.S.C. 6291(30)(D)(ii).
+                    </P>
+                </FTNT>
+                <P>In the January 2017 Final Rules, DOE defined GSL to mean a lamp that had an ANSI base; was able to operate at a voltage of 12 volts or 24 volts, at or between 100 to 130 volts, at or between 220 to 240 volts, or of 277 volts for integrated lamps, or was able to operate at any voltage for non-integrated lamps; had an initial lumen output of greater than or equal to 310 lumens (or 232 lumens for modified spectrum general service incandescent lamps) and less than or equal to 3,300 lumens; was not a light fixture; was not an LED downlight retrofit kit; and was used in general lighting applications. 82 FR 7276, 7312. General service lamps included, but were not limited to, general service incandescent lamps, compact fluorescent lamps, general service light-emitting diode lamps, and general service organic light-emitting diode lamps. 82 FR 7276, 7321.</P>
+                <P>
+                    Further in the January 2017 Final Rules, DOE defined GSLs to not include: (1) Appliance lamps; (2) Black light lamps; (3) Bug lamps; (4) Colored lamps; (5) G shape lamps with a diameter of 5 inches or more as defined in ANSI C79.1-2002; (6) General service fluorescent lamps; (7) High intensity 
+                    <PRTPAGE P="27465"/>
+                    discharge lamps; (8) Infrared lamps; (9) J, JC, JCD, JCS, JCV, JCX, JD, JS, and JT shape lamps that do not have Edison screw bases; (10) Lamps that have a wedge base or prefocus base; (11) Left-hand thread lamps; (12) Marine lamps; (13) Marine signal service lamps; (14) Mine service lamps; (15) MR shape lamps that have a first number symbol equal to 16 (diameter equal to 2 inches) as defined in ANSI C79.1-2002, operate at 12 volts, and have a lumen output greater than or equal to 800; (16) Other fluorescent lamps; (17) Plant light lamps; (18) R20 short lamps; (19) Reflector lamps that have a first number symbol less than 16 (diameter less than 2 inches) as defined in ANSI C79.1-2002 and that do not have E26/E24, E26d, E26/50x39, E26/53x39, E29/28, E29/53x39, E39, E39d, EP39, or EX39 bases; (20) S shape or G shape lamps that have a first number symbol less than or equal to 12.5 (diameter less than or equal to 1.5625 inches) as defined in ANSI C79.1-2002; (21) Sign service lamps; (22) Silver bowl lamps; (23) Showcase lamps; (24) Specialty MR lamps; (25) T shape lamps that have a first number symbol less than or equal to 8 (diameter less than or equal to 1 inch) as defined in ANSI C79.1-2002, nominal overall length less than 12 inches, and that are not compact fluorescent lamps; and (26) Traffic signal lamps. 
+                    <E T="03">Id.;</E>
+                     82 FR 7322, 7333.
+                </P>
+                <P>The January 2017 Final Rules defined GSIL to discontinue the exemptions for rough service lamps; shatter-resistant lamps; three-way incandescent lamps; vibration service lamps; reflector lamps; T-shape lamps of 40 W or less or length of 10 inches or more; and B, BA, CA, F, G16-1/2, G25, G30, S, M-14 lamps of 40 W or less. 82 FR 7276, 7291.</P>
+                <P>
+                    As noted in the September 2019 Withdrawal Rule, these definitions were subsequently withdrawn (see section II.D of this document). In the August 2021 NOPR, DOE proposed to amend the definitions of 
+                    <E T="03">general service lamp</E>
+                     and 
+                    <E T="03">general service incandescent lamp.</E>
+                     DOE proposed to define a general service lamp as a lamp that has an ANSI base; is able to operate at a voltage of 12 volts or 24 volts, at or between 100 to 130 volts, at or between 220 to 240 volts, or of 277 volts for integrated lamps (as defined in this section), or is able to operate at any voltage for non-integrated lamps (as defined in this section); has an initial lumen output of greater than or equal to 310 lumens (or 232 lumens for modified spectrum general service incandescent lamps) and less than or equal to 3,300 lumens; is not a light fixture; is not an LED downlight retrofit kit; and is used in general lighting applications. General service lamps included, but were not limited to, general service incandescent lamps, compact fluorescent lamps, general service light-emitting diode lamps, and general service organic light emitting diode lamps. General service lamps did not include:
+                </P>
+                <P>(1) Appliance lamps;</P>
+                <P>(2) Black light lamps;</P>
+                <P>(3) Bug lamps;</P>
+                <P>(4) Colored lamps;</P>
+                <P>(5) G shape lamps with a diameter of 5 inches or more as defined in ANSI C79.1-2002 (incorporated by reference; see 10 CFR 430.3);</P>
+                <P>(6) General service fluorescent lamps;</P>
+                <P>(7) High intensity discharge lamps;</P>
+                <P>(8) Infrared lamps;</P>
+                <P>(9) J, JC, JCD, JCS, JCV, JCX, JD, JS, and JT shape lamps that do not have Edison screw bases;</P>
+                <P>(10) Lamps that have a wedge base or prefocus base;</P>
+                <P>(11) Left-hand thread lamps;</P>
+                <P>(12) Marine lamps;</P>
+                <P>(13) Marine signal service lamps;</P>
+                <P>(14) Mine service lamps;</P>
+                <P>(15) MR shape lamps that have a first number symbol equal to 16 (diameter equal to 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see 10 CFR 430.3), operate at 12 volts, and have a lumen output greater than or equal to 800;</P>
+                <P>(16) Other fluorescent lamps;</P>
+                <P>(17) Plant light lamps;</P>
+                <P>(18) R20 short lamps;</P>
+                <P>(19) Reflector lamps (as defined in this section) that have a first number symbol less than 16 (diameter less than 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see 10 CFR 430.3) and that do not have E26/E24, E26d, E26/50x39, E26/53x39, E29/28, E29/53x39, E39, E39d, EP39, or EX39 bases;</P>
+                <P>(20) S shape or G shape lamps that have a first number symbol less than or equal to 12.5 (diameter less than or equal to 1.5625 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see 10 CFR 430.3);</P>
+                <P>(21) Sign service lamps;</P>
+                <P>(22) Silver bowl lamps;</P>
+                <P>(23) Showcase lamps;</P>
+                <P>(24) Specialty MR lamps;</P>
+                <P>(25) T-shape lamps that have a first number symbol less than or equal to 8 (diameter less than or equal to 1 inch) as defined in ANSI C79.1-2002 (incorporated by reference; see 10 CFR 430.3), nominal overall length less than 12 inches, and that are not compact fluorescent lamps (as defined in this section);</P>
+                <P>(26) Traffic signal lamps.</P>
+                <P>
+                    <E T="03">See</E>
+                     86 FR 46611, 46624-46625.
+                </P>
+                <P>Similarly, DOE proposed to define a general service incandescent lamp as a standard incandescent or halogen type lamp that is intended for general service applications; has a medium screw base; has a lumen range of not less than 310 lumens and not more than 2,600 lumens or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens; and is capable of being operated at a voltage range at least partially within 110 and 130 volts; however, this definition did not apply to the following incandescent lampsâ</P>
+                <P>(1) An appliance lamp;</P>
+                <P>(2) A black light lamp;</P>
+                <P>(3) A bug lamp;</P>
+                <P>(4) A colored lamp;</P>
+                <P>(5) A G shape lamp with a diameter of 5 inches or more as defined in ANSI C79.1-2002 (incorporated by reference; see 10 CFR 430.3);</P>
+                <P>(6) An infrared lamp;</P>
+                <P>(7) A left-hand thread lamp;</P>
+                <P>(8) A marine lamp;</P>
+                <P>(9) A marine signal service lamp;</P>
+                <P>(10) A mine service lamp;</P>
+                <P>(11) A plant light lamp;</P>
+                <P>(12) An R20 short lamp;</P>
+                <P>(13) A sign service lamp;</P>
+                <P>(14) A silver bowl lamp;</P>
+                <P>(15) A showcase lamp; and</P>
+                <P>(16) A traffic signal lamp.</P>
+                <P>
+                    <E T="03">See</E>
+                     86 FR 46611, 46624.
+                </P>
+                <P>
+                    The proposed definitions of GSL and GSIL in the August 2021 NOPR were the same as those specified in the January 2017 Final Rules (
+                    <E T="03">i.e.,</E>
+                     the January 2017 Definitions). For the definition of GSL, in the August 2021 NOPR, DOE proposed additional detail to the statutory definition by specifying the base type, lumens, and voltages of GSLs. DOE also proposed to remove the exemptions for certain incandescent lamps that are used to satisfy lighting applications traditionally served by GSILs and include those lamps in the definition of GSIL and GSL. DOE preliminarily determined these are lamps that can serve in general lighting applications and provide an interior or exterior area with overall illumination. DOE explained that it considers the term âoverall illuminationâ to be similar in meaning to the term âgeneral lightingâ as defined in the industry standard ANSI/IES RP-16-10, which states that âgeneral lightingâ means lighting designed to provide a substantially uniform level of illuminance throughout an area, exclusive of any provision for special local requirements. 86 FR 46611, 46616.
+                </P>
+                <P>
+                    As proposed in the August 2021 NOPR, the GSL and GSIL definitions explicitly include not only A-shaped or pear-shaped light bulbs but also the smaller, decorative shaped light bulbs resembling a candle, bullet or globe and often used in chandeliers, desk lamps, 
+                    <PRTPAGE P="27466"/>
+                    ornamental wall lights, etc. Additionally, the proposed definitions include reflector shaped light bulbs that have a cone-like shape with an inner reflective coating that directs light and are often used in recessed light fixtures (
+                    <E T="03">e.g.,</E>
+                     lights within the ceiling). Based on estimates from DOE's 2015 Lighting Market Characterization Report, the proposed definitions increase the number of lamps defined as GSL from 3.8 billion lamps to 5.8 billion lamps.
+                    <SU>7</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âNavigant Consulting, Inc. 2015 U.S. Lighting Market Characterization (No. DOE/EE-1719). U.S. Department of Energy, Washington, DC.
+                    </P>
+                </FTNT>
+                <P>The following discussion addresses issues raised by commenters on the proposal in the August 2021 NOPR to adopt the aforementioned definitions of GSL and GSIL as set forth in the January 2017 Final Rules. In general, the NPCC, NASEO, NYSERDA, the AGs, State of Washington DOC, CEC, Joint Comment, CA IOUs, ASAP, and SC, NRDC, and EJ all stated support for the proposed GSL definitions; while NEMA, GE Lighting, and Lutron suggested changes to the proposed definitions. (NPCC, No. 5 at p. 2; NASEO, No. 8 at p. 1; NYSERDA, No. 10 at p. 1; AGs, No. 11 at pp. 1-2; State of Washington DOC, No. 13 at pp. 1-2; CEC, No. 15 at pp. 2-3; Joint Comment, No. 16 at p. 1; CA IOUs, No. 17 at p. 1; ASAP, No. 19 at pp. 1-2; SC, NRDC, and EJ, No. 18 at pp. 1-2; NEMA, No. 9 at pp. 7-9; GE Lighting, No. 14 at pp. 3-4; Lutron, No. 12 at pp. 3-5).</P>
+                <HD SOURCE="HD2">A. September 2019 Withdrawal Rule</HD>
+                <P>DOE received several comments on the August 2021 NOPR regarding the September 2019 Withdrawal Rule. This rule withdrew the GSL and GSIL definitions established by the January 2017 Final Rules. The CEC stated that DOE's purported withdrawal of the January 2017 Final Rules was unlawful and unlawfully amended the minimum standard for many lamp types to their previous less efficient levels. The CEC stated that in its effort to undo the January 2017 Final Rules, DOE failed to provide sufficient reasoning for its changed legal interpretation and failed to give statutory meaning to EPCA's GSL and GSIL provisions. (CEC, No. 15 at pp. 2-3)</P>
+                <P>
+                    The SC, NRDC, and EJ asserted that the fundamental flaw of the September 2019 Withdrawal Rule, which they believe provides grounds for its immediate revocation, is its violation of EPCA's anti-backsliding provision. The SC, NRDC, and EJ stated that had DOE not issued the September 2019 Withdrawal Rule, the standard that would have applied to the lamps exempted in that rule would have been 45 lm/W on January 1, 2020. Because DOE issued the September 2019 Withdrawal Rule, SC, NRDC, and EJ asserted that the standard applicable to those lamps is either (1) no standard at all, or (2) a standard requiring a lower level of energy efficiency. The SC, NRDC, and EJ stated that DOE made a policy judgment in a separate rulemaking, applicable to this scenario, that ânominally characterizing a regulatory change in the energy conservation standards applicable to a covered product as something other than an amendmentâ is inconsistent with EPCA.
+                    <SU>8</SU>
+                    <FTREF/>
+                     The AGs referenced and attached their May 3, 2019 comments written in response to the February 2019 Withdrawal NOPR, in which they stated that DOE's planned action to repeal the January 2017 Definitions would be unlawful; violated EPCA's anti-backsliding provision (see 42 U.S.C. 6295(o)(1)); and lacked any statutory basis for exempting the bulbs at issue from existing efficiency standards. The AGs stated that a petition for review of the September 2019 Withdrawal Rule was filed (
+                    <E T="03">New York</E>
+                     v. 
+                    <E T="03">DOE,</E>
+                     No. 19-3652 (2d Cir. 2019)) in 2019, which is now in abeyance pending DOE's current reconsideration of the withdrawal under Executive Order 13990. (AGs, No. 11 at pp. 1-2; CEC, No. 15 at pp. 2-3; SC, NRDC, and EJ, No. 18 at pp. 1-2)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        â
+                        <E T="03">See</E>
+                         Notice of Proposed Rulemaking for Residential Dishwashers, Residential Clothes Washers, and Consumer Clothes Dryers published August 11, 2021. 86 FR 43970.
+                    </P>
+                </FTNT>
+                <P>Additionally, the AGs, CEC, and SC, NRDC, and EJ agreed with DOE's tentative conclusion that DOE, in the September 2019 Withdrawal Rule, incorrectly interpreted that it could not exercise its authority to remove exemptions for certain incandescent lamps that are not used in general lighting applications. The AGs stated that neither EPCA's separate regulatory process under 42 U.S.C. 6295(l)(4) nor its exclusions under 42 U.S.C. 6291(30)(D)(ii)(XI) and 42 U.S.C. 6291(30)(BB)(ii)(II) for certain lamps precludes DOE from defining them as GSLs. (AGs, No. 11 at pp. 1-2) The NPCC and CEC added that under EPCA, DOE has the authority to adjust the scope of GSLs and determine whether exemptions for certain incandescent lamps should be discontinued or maintained. (NPCC, No. 5 at p. 2; CEC, No. 15 at pp. 2-3)</P>
+                <P>
+                    EPCA directs DOE to amend the statutory definitions of GSL and GSIL by regulation to achieve the energy savings for general lighting that Congress intended in EPCA generally and EISA specifically. 42 U.S.C. 6295(i)(6)(A)(i)(II) and 42 U.S.C. 6291(30)(BB)(i)(IV). By withdrawing the expanded definitions of GSL and GSIL in the September 2019 Withdrawal Rule, DOE failed to give meaningful effect to this statutory direction. As noted in the August 2021 NOPR, DOE was wrong to conclude in the September 2019 Withdrawal Rule that âmaintaining the existing statutory exemptions for the 22 categories of lamps excluded from the definition of GSL is the best reading of the statute.â 84 FR 46666, 86 FR 46617. DOE's authority under 42 U.S.C. 6291(30)(BB)(i)(IV) to include within the definition of GSL âany other lamps that [it] determines are used to satisfy lighting applications traditionally served by general service incandescent lampsâ empowers the agency to include categories of lamps that would otherwise be excluded under 42 U.S.C. 6291(30)(BB)(ii). And DOE's authority under 42 U.S.C. 6295(i)(6)(A)(i)(II) empowers the agency to discontinue any of the exemptions from the definition of GSIL set out in 42 U.S.C. 6291(30)(D)(ii). DOE's basis for discontinuing certain of the exemptions as discussed in the August 2021 NOPR and presented in the January 2017 Final Rules is the best implementation of the statute because it properly considers the statute as a whole and considers whether such lamps have the potential for use in general lighting applications traditionally served by GSILs. This final rule adopts the definitions established in the January 2017 Final Rules and as proposed in the August 2021 NOPR because they best align with EPCA's goals for increasing the energy efficiency of covered products through the establishment and amendment of energy conservation standards and promoting conservation measures when feasible. 42 U.S.C. 6291 
+                    <E T="03">et seq.,</E>
+                     as amended.
+                </P>
+                <HD SOURCE="HD2">B. Reflector Lamps</HD>
+                <P>
+                    As discussed, in the August 2021 NOPR, DOE proposed to include IRLs within the definition of 
+                    <E T="03">general service lamp,</E>
+                     except those reflector lamps that have a first number symbol less than 16 (diameter less than 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see Â§â430.3) and that do not have E26/E24, E26d, E26/50x39, E26/53x39, E29/28, E29/53x39, E39, E39d, EP39, or EX39 bases. 86 FR 46611, 46620.
+                </P>
+                <P>
+                    Additionally, in the August 2021 NOPR, DOE reviewed its position in the September 2019 Withdrawal Rule that EPCA precludes consideration of the exemption for IRLs because they were exempted twice from the statute. In the NOPR, DOE proposed to amend the 
+                    <PRTPAGE P="27467"/>
+                    definitions of GSIL and GSL to discontinue the exemptions for these products. 86 FR 46611, 46620. In response, NEMA suggested that DOE modify the proposed GSL definition to exclude IRLs from the GSL definition. NEMA and GE Lighting stated that IRLs are already covered under existing regulations for IRLs and were never intended to be regulated as GSLs according to EISA, where they are addressed in a separate regulatory section. Additionally, NEMA stated separation of IRLs from GSLs would avoid confusion and make a phased-in regulation more understandable. NEMA requested that DOE clarify how IRLs that are included in the proposed GSL definition and are also already regulated separately under existing regulations will be treated from an enforcement standpoint. NEMA stated that in the absence of clarity, manufacturers must assume that such products that meet the existing definition of IRLs and also meet the current standard for those products must be certified to DOE according to existing law and continue to be made and sold. (NEMA, No. 9 at pp. 6-9; NEMA, No. 9 at p. 10; GE Lighting, No. 14 at p. 3)
+                </P>
+                <P>The September 2019 Withdrawal Rule concluded that because IRLs were twice excluded from the statute, once from the GSIL definition in 42 U.S.C. 6291(30)(D)(ii)(XI) and once from the GSL definition in 42 U.S.C. 6291(30)(BB)(ii)(II), that means Congress did not want the Secretary to include IRLs within the definition of GSL. 84 FR 46661, 46666. DOE acknowledges that the statute exempts âreflector lampâ from the definition of GSIL (42 U.S.C. 6291(30)(D)(ii)(XI)) and âincandescent reflector lampâ from the definition of GSL (42 U.S.C. 6291(30)(BB)(ii)(II)). However, on reconsideration, DOE does not read the two statutory exemption provisions as an indication that such lamps were not to be evaluated for coverage under the GSIL and GSL definitions. With respect to IRLs, the best reading of the statute as a whole is that 42 U.S.C. 6291(30)(BB)(i)(IV) and 42 U.S.C. 6295(i)(6)(A)(i)(II) authorize DOE to determine whether to include IRLs within the definition of GSIL and GSL. Section 6295(i)(6)(A)(i)(II) grants DOE authority to determine whether âthe exemptions for certain incandescent lamps should be maintained or discontinued.â As discussed previously, in footnote 3, these âexemptionsâ are set out in 42 U.S.C. 6291(30)(D)(ii), and include IRLs among other lamps. As such, 42 U.S.C. 6295(i)(6)(A)(i) provides DOE with authority to consider Congress' initial exemption of those lamp types from the definition of GSIL, to determine whether those exemptions should be maintained or rescinded. Moreover, all of the lamp types that Congress initially exempted from being considered GSILs in 42 U.S.C. 6291(30)(D)(ii) were likewise initially exempted from being considered GSLs in 42 U.S.C. 6291(30)(BB)(ii). When DOE discontinues an exemption from the definition of GSIL through 42 U.S.C. 6295(i)(6)(A)(i), the lamps that newly qualify as GSILs also become GSLsâbecause all GSILs are GSLs under 42 U.S.C. 6291(30)(BB)(i)(I), notwithstanding the exclusion of certain lamp types from the definition of GSL in 42 U.S.C. 6291(30)(BB)(ii). (Lamp types statutorily exempted from the definition of GSIL and GSL under 42 U.S.C. 6291(30)(D)(ii) and 42 U.S.C. 6291(30)(BB)(ii), and for which DOE did not discontinue such exemption, remain exempted.) Similarly, under 42 U.S.C. 6291(30)(BB)(i)(IV), DOE has the power to bring within the definition of GSL âany other lamps that the Secretary determines are used to satisfy lighting applications traditionally served by general service incandescent lamps.â That authority is not limited by the exclusions in 42 U.S.C. 6291(30)(BB)(ii). Rather, DOE has the power to bring within the definition of GSL any lamps excluded by 42 U.S.C. 6291(30)(BB)(ii), if it determines that they are used to satisfy lighting applications traditionally served by general service incandescent lamps. DOE therefore has the power to bring IRLs within the definition of GSIL and GSL, notwithstanding the statutory exclusions in 42 U.S.C. 6291(30)(D)(ii) and 42 U.S.C. 6291(30)(BB)(ii). DOE concludes that the discontinuation of the exemption for IRLs is warranted, for the reasons discussed in the second of the January 2017 Final Rules, published at 82 FR 7322. In that rule, DOE determined that medium screw base reflector lamps that are incandescent and do not meet the definition of IRL as well as lamps that are IRLs, separately, had high annual unit sales indicating they are likely to be used in general lighting applications. Further, because these lamps provide overall illumination, they could be used as direct replacements for GSILs. DOE also indicated there was a high potential for lamp switching to IRLs and medium screw base reflector lamps that are incandescent due to the fact they are used in general lighting applications like others GSILs and GSLs. Lastly, as shown in Table III.1 of the second January 2017 final rule, IRLs have annual sales that are several times the sales of the largest-volume lamp category among those exemptions that DOE is discontinuing, all of which are lamps used in general lighting applications. 82 FR 7276, 7293; 82 FR 7322, 7329-7330. For these reasons, in this final rule, DOE includes IRLs in the definition of GSL and GSIL.</P>
+                <P>DOE acknowledges that IRLs are currently subject to standards. 10 CFR 430.32(n)(6) and (7). This rule is not specifying standards for GSLs. To the extent that DOE were to establish energy conservation standards for GSLs, DOE would clearly indicate the applicable standard and compliance requirements for the affected lamps. Further, DOE notes that GSILs and medium base CFLs are also already covered under existing regulations and yet are explicitly included as GSLs under EPCA.</P>
+                <P>NEMA commented that separate regulations for IRLs and GSLs will allow consideration for the unique efficiency and light distribution capabilities of reflector and omnidirectional GSLs. GE Lighting stated that IRLs are not general lighting and are used to highlight specific objects or target areas in a room, and therefore, require a unique technical analysis. (NEMA, No. 9 at pp. 6-7; NEMA, No. 9 at p. 10; GE Lighting, No. 14 at p. 3)</P>
+                <P>In the January 2017 Final Rules, DOE found that IRLs are widely used for general illumination just as GSILs are used. 82 FR 7322, 7325. In this final rule, DOE finds there has been no change in the market that leads to a different conclusion in this final rule. Further, when determining standards for a product, DOE divides covered products into classes by: (a) The type of energy used; (b) the capacity of the product; or (c) other performance-related features that justify different standard levels, considering the consumer utility of the feature and other relevant factors. (42 U.S.C. 6295(q)) Because DOE considers impact on both efficacy and consumer utility when establishing product classes, reflector and omnidirectional GSLs could be analyzed for standards separately, if warranted.</P>
+                <HD SOURCE="HD2">C. Consumer Choice, Health Impacts</HD>
+                <P>Some private citizens stated that the GSL definitions proposed in the August 2021 NOPR infringe on consumer choice by regulating incandescent bulbs under GSLs and effectively removing them from the marketplace. (Anonymous, No. 2 at p. 1; Anonymous, No. 3 at p. 1; Anonymous, No. 4 at p. 1)</P>
+                <P>
+                    In the August 2021 NOPR, DOE proposed that if the design 
+                    <PRTPAGE P="27468"/>
+                    characteristics of lamps for a given application are such that non-incandescent lamps cannot be made with the same characteristics (
+                    <E T="03">i.e.,</E>
+                     form factor and light output), such lamps should not be included as âother lampsâ in its definition of GSL. 
+                    <E T="03">See</E>
+                     86 FR 46616; 
+                    <E T="03">see also</E>
+                     82 FR 7276, 7301. Hence, in this final rule, incandescent lamps that are included as GSLs have or can have more efficient, non-incandescent replacements with the same form factor and light output. DOE has confirmed that all lamp types included in the GSL definition have the same characteristics in the non-incandescent versions as offered in the incandescent versions.
+                </P>
+                <P>Regarding T-Shape, B, BA, F, G16-1/2, G25, G30, S and M-14 lamps (âdecorative lampsâ), NEMA estimates total market volume at 950 million installed lamps; and 520 million out of 665 million on mostly switch-controlled sockets have already been converted to LED technology. NEMA stated that regulations would force homeowners with the remaining 285 million incandescent decorative lamps on dimmers to switch to LED technology that is often incompatible with the installed dimmers. NEMA stated that for a dining room fixture an LED-compatible dimmer could cost approximately $20 to $80, plus $100 to $200 (depending on location) for an electrician to install. NEMA stated that a mid-cost $30 dimmer with a lower cost electrician ($100) would have a payback in 30 years, and a high-cost dimmer ($80) with a high-cost electrician ($200) would have a payback in 65 years. NEMA stated that regulating candelabra base lamps used on LED-incompatible dimmers is not economically feasible for homeowners; rather, the market will convert to LED over time without regulation due to homeowners continuing to replace dimmers by choice. (NEMA, No. 20 at pp. 3-4)</P>
+                <P>
+                    Regarding dimming, not all incandescent/halogen dimmers (
+                    <E T="03">i.e.,</E>
+                     phase-cut control dimmers) are incompatible with LED technology. NEMA's SSL 7A, which provides basic requirements for phase-cut dimming of LED light sources, includes a list of forward phase-cut dimmers and scenarios in which they can be compatible with LED technology (
+                    <E T="03">e.g.,</E>
+                     up to 125 W LED load). NEMA's comment indicates that almost 80 percent of the lamps on switch-controlled sockets have already been converted to LED technology without a significant negative market reaction. Thus, the extensive use of dimmer technology needed to support the modified GSL definition in this final rule indicates that it is readily available and economically feasible for consumers.
+                </P>
+                <P>Further, this final rule defines only the scope of GSLs and does not set energy efficiency standards for GSLs. When DOE evaluates a future energy efficiency standard for GSLs it will determine whether a standard is economically justified based on several factors, including consumer impacts and commenters' concerns relating to any asserted lessening of the utility or the performance of newly covered GSILs likely to result from the imposition of the standard. 42 U.S.C. 6295(o)(2)(B)(i)(II)-(IV).</P>
+                <P>A private citizen stated that for some people LED lamps may have a negative effect on eyesight and thus wished to continue purchasing incandescent bulbs. (Anonymous, No. 4 at p. 1) A second private citizen stated that LED bulbs may affect those with light sensitivity disabilities and under Title 1 of the American Disabilities Act (âADAâ) reasonable accommodation must be made for those that have disabilities and are light sensitive. The citizen stated that, for example, people with epilepsy need to use incandescent lights. The citizen stated that a government project is required by federal ADA law to ensure that those with light sensitivity disabilities are not harmed by artificial lighting used in the project. The citizen stated that the United Kingdom makes accommodations for those that have a disability to use incandescent bulbs. Finally, the citizen stated that Title II of the ADA states DOE has a responsibility to consult with the disabled community prior to changing lighting standards and that reasonable accommodation be made to purchase incandescent bulbs for medical reasons. (Anonymous, No. 6 at p. 1)</P>
+                <P>
+                    Though these public comments do not include quantitative evidence of specific alleged changes to performance characteristics relevant to consumer choice or health, DOE has considered these public comments. DOE has also considered the potential for health benefits of emissions reductions from reducing energy use by the covered products. DOE maintains that the final rule's definitional changes appropriately promote EPCA's goals for increasing the energy efficiency of covered products through the establishment and amendment of energy conservation standards and promoting conservation measures when feasible. 42 U.S.C. 6291 
+                    <E T="03">et seq.,</E>
+                     as amended. As stated above, DOE assesses possible impacts to consumers, utility, and performance during the separate evaluation of economic justification for setting energy conservation standards. Additionally, DOE notes that the ADA does not apply to DOE for purposes of this rule, as the ADA applies only to private employers and not Federal agencies. Individuals wishing to file complaints under the ADA can visit 
+                    <E T="03">www.ada.gov.</E>
+                </P>
+                <HD SOURCE="HD2">D. Potential Revisions to the Proposed Definitions</HD>
+                <HD SOURCE="HD3">1. Lumens</HD>
+                <P>
+                    NYSERDA and the CEC recommended that DOE revise the GSL definition proposed in the August 2021 NOPR to include lower lumen products between 150 and 310 lumens to include lamps offered as 25-watt (âWâ) equivalents. ASAP, the CA IOUs, and NYSERDA stated that this would align with California's state-regulated LED lamps which include E12 base lamps greater or equal to 150 lumens and E26, E17, GU24 base lamps greater or equal to 200 lumens. ASAP stated that these low-lumen lamps are often used in multiples in a single light fixture to provide general illumination. As an example, NYSERDA stated a fixture with eight candelabra bulbs consumes 10 times more energy than a single 100 W equivalent LED bulb. The CEC stated that low-lumen lamps are typically used to satisfy lighting applications traditionally served by GSILs (
+                    <E T="03">e.g.,</E>
+                     night lights) and that one-quarter of California homes have at least one low-lumen lamp. The CEC also stated that there are a sufficient number of low-lumen lamps on the market that would meet the 45 lm/W standard, citing its 2018 analysis which found 571 ENERGY STARÂ® certified LED lamps with low lumens and efficacy far above 45 lm/W. The CA IOUs added that a cluster of low-lumen incandescent lamps remains in the retail space and there is no technical reason not to cover the products in the GSL definition. The CEC added that low-lumen lamps included in the GSL definition would be limited to the base types specified in the definition, excluding other low-lumen base types and specialty lamps. (NYSERDA, No. 10 at p. 2; CEC, No. 15 at pp. 3-4; ASAP, Public Meeting Transcript, No. 7 at pp. 13-14; CA IOUs, Public Meeting Transcript, No. 7 at pp. 14-15)
+                </P>
+                <P>
+                    Westinghouse commented that many of the low-lumen lamps described by ASAP and the CA IOUs are not used in general service applications, but specialty signs and indicators. Westinghouse expressed concern that inclusion of low-lumen lamps of any American National Standards Institute (âANSIâ) base could also include 
+                    <PRTPAGE P="27469"/>
+                    specialty products. (Westinghouse, Public Meeting Transcript, No. 7 at pp. 15-16) GE Lighting stated that lamps below 310 lumens are not 40 W, but instead between 15 and 25 W, and 40 W lamps are typically in the 350 to 450 lumen range. GE Lighting added that these lamps have very low market share, are used in niche applications, and use little wattage. (GE Lighting, Public meeting Transcript, No. 7 at pp. 16-17)
+                </P>
+                <P>In the August 2021 NOPR, DOE tentatively determined, based on the reasoning presented in the January 2017 Final Rules, that lamps that satisfy the same applications traditionally served by GSILs are ones that provide overall illumination. 86 FR 46611, 46616. In the January 2017 Final Rules, DOE determined that the minimum lumen output of lamps that provide overall illumination should be 310 lumens. DOE acknowledged that some lamps with lumen outputs less than 310 lumens can be marketed as 25 W equivalents. However, there are no Federal guidelines concerning equivalency claims of lamps and even when such guidelines exist there is a variety in lumens that constitute a 25 W equivalent. 82 FR 7276, 7305-7306. DOE finds there has been no change in the market that would lead DOE to reach a different conclusion in this final rule and therefore is adopting a GSL definition with minimum lumens as 310 lumens.</P>
+                <HD SOURCE="HD3">2. Base Type and Voltage</HD>
+                <P>NEMA and GE Lighting recommended that DOE make modifications to the base type and voltage in the proposed GSL definition to provide clarity and to avoid causing specialty and niche products that have unique performance features to become unavailable in the market. GE Lighting stated that the proposed definition goes beyond the original EISA 2007 definition regulating household A-line incandescent 40, 60, 75 and 100 W lamps, or potential replacements for these lamps. (NEMA, No. 9 at p. 8; GE Lighting, No. 14 at pp. 3-4)</P>
+                <P>NEMA stated that DOE's proposal that GSLs have an ANSI base is so overly broad so as to create confusion in the market and result in DOE unintentionally making specialty lamp types with unique performance features unavailable. NEMA recommended that DOE modify the definition to specify GSLs have an E26 medium screw base, E17 intermediate base, E12 candelabra base, E11 mini candelabra base, E39 or EX39 mogul base, or G5.3, GU10, or GU24 base. (NEMA, No. 9 at p. 8)</P>
+                <P>Second, NEMA stated that DOE's proposal that GSLs that are non-integrated lamps that operate at any voltage is unnecessarily broad. NEMA stated that the common residential and commercial building mains voltages are 110/120, 208, and 277 volts (âVâ). NEMA recommended that DOE modify the definition to specify that GSLs that are non-integrated lamps be able to operate between 100 to 277 V. (NEMA, No. 9 at p. 8)</P>
+                <P>GE Lighting recommended two alternative modifications to the base and voltage: (1) Limit the base type to medium screw bases and operation between 120 and 130 V; or (2) limit the base type to medium, candelabra, and intermediate screw bases and operation between 120 and 130 V. GE Lighting stated that medium screw base, candelabra base and intermediate screw base lamps that operate between 120 and 130 V and provide omnidirectional light distribution would cover 99 percent of the GSLs used in a home (excluding reflector lamps) according to the 2015 DOE Lighting Market Characterization Report and, therefore, achieve over 99 percent of the potential energy savings. GE Lighting also stated that using specific base types and voltages used in a home would be easy to understand. (GE Lighting, No. 14 at pp. 3-4)</P>
+                <P>In the August 2021 NOPR, DOE tentatively determined that lamps that satisfy the same applications traditionally served by GSILs are ones that provide overall illumination. 86 FR 46611, 46616. Based on the findings of the January 2017 Final Rules that lamps with an ANSI base provide overall illumination, DOE proposed in the August 2021 NOPR to define GSLs to include lamps with an ANSI base. 86 FR 46611, 46619. In the January 2017 Final Rules, DOE also identified lamps with ANSI bases that were associated with certain incandescent/halogen lamps without more efficient, equivalent replacements and concluded that those lamps should be exempted. DOE concluded that the unavailability of non-incandescent substitutes for a given lamp suggests that lamp is not being used for traditional GSIL applications. 82 FR 7276, 7301. As such, DOE exempted: (1) J, JC, JCD, JCS, JCV, JCX, JD, JS, and JT shape lamps that do not have Edison screw bases; (2) lamps that have a wedge base or prefocus base; and (3) reflector lamps that have a first number symbol less than 16 (diameter less than 2 inches) as defined in ANSI C79.1-2002 and that do not have E26/E24, E26d, E26/50x39, E26/53x39, E29/28, E29/53x39, E39, E39d, EP39, or EX39 bases. 82 FR 7276, 7304. Hence, based on these findings of the January 2017 Final Rules, in the August 2021 NOPR, DOE proposed exempting the aforementioned lamps because they may not have more efficient, equivalent replacements available if a future GSL standard is adopted. DOE's findings of the January 2017 Final Rules found that many lamps with medium, candelabra, and intermediate screw bases, operating between 120 V and 130 V could provide overall illumination and therefore, could not use these criteria as suggested by GE. Further, ANSI bases are well defined in the industry standard ANSI C81.61, âElectric Lamp BasesâSpecifications for Bases (Caps) For Electric Lamps.â DOE finds that the GSL definition as proposed in the August 2021 NOPR is easy to understand when it specifies that lamps must have ANSI bases and exempts certain lamps using an ANSI base designation. In this final rule, DOE is adopting the GSL definition as proposed, which defines such lamps as having ANSI bases.</P>
+                <P>In the January 2017 Final Rules, DOE reviewed available product offerings to determine whether lamps of all operating voltages are used in general lighting applications. DOE determined that integrated lamps able to operate at a voltage of 12 volts or 24 volts, at or between 100 to 130 volts, at or between 220 to 240 volts, or of 277 volts provide overall illumination. DOE made this determination by reviewing product offerings and identifying voltages associated with specialty lamps and ensuring those are not included in the ranges of a GSL. DOE found that the operating voltage of non-integrated lamps did not correlate to use in specialty applications. 82 FR 7276, 7306. DOE finds there has been no change in the market regarding lamp voltages that would lead DOE to reach a different conclusion in this final rule. Hence, in this final rule, DOE is adopting, as proposed in the August 2021 NOPR, the GSL definition established in the January 2017 Rules that defines integrated lamps in voltage ranges of 12 volts or 24 volts, at or between 100 to 130 volts, at or between 220 to 240 volts, or of 277 volts.</P>
+                <HD SOURCE="HD3">3. Color Tunable Lamps</HD>
+                <P>
+                    Lutron stated that when considering the scope of the GSL definition, DOE should take into consideration the impact of including advanced technologies, specifically full color tunable lamps. Lutron stated full color tunable lamps can change between emitting high quality white light typically used in general lighting applications and colored lighting typically used for decorative purposes. Lutron stated luminous flux measures the perceived intensity of light, 
+                    <PRTPAGE P="27470"/>
+                    weighted by the human eye sensitivity curve to differing wavelengths (colors) of light, V(Î»). Hence, lamps outputting colors of light to which the human eye is not as sensitive (
+                    <E T="03">i.e.,</E>
+                     color others than white) will always appear to be less efficacious than a comparable source outputting white light. Lutron stated that full color tunable lamps when operated in colors other than white will therefore be measured as having a lower lumen output. Lutron noted that the current DOE test procedure requires lamps to be tested at the highest input power for efficacy, CRI, and other metrics. Lutron stated that although it is often the case that one or more white light settings are among the set of highest input power settings, this cannot be assumed. Lutron also stated innovation in phosphor-converted LEDs may enable efficacy gains when operating at white light settings but at a lower input power. Lutron asserted that the current DOE test procedure of testing at the highest input power would disincentivize this kind of innovation. (Lutron, No. 12 at p. 3)
+                </P>
+                <P>Lutron proposed two possible solutions to the problem it identified. The first option Lutron proposed was to exclude âfull color tunable lampsâ from the definition of GSL. Lutron stated that the reason for the exclusion would align with the reasons for excluding colored lamps. Further, Lutron stated that full color tunable lamps are not yet mainstream products and when operated in deeply saturated colors are often used for short-term events or in decorative applications. Lutron recommended the following definition for the exempt lamp type: âFull color tunable lamp means a lamp capable of emitting highly saturated light of varying hues, as well as white light, for example by varying the relative intensity of individual emitters.â (Lutron, No. 12 at pp. 3-4)</P>
+                <P>
+                    Alternatively, Lutron proposed DOE open a rulemaking to revise the test procedure to appropriately evaluate full color tunable lamps. Instead of testing at maximum input power, Lutron recommended testing tunable products in their default mode of operation, which is consistent with other design standards.
+                    <SU>9</SU>
+                    <FTREF/>
+                     Lutron added that DOE would then need to open a rulemaking to revise the standards for GSLs to accommodate for multiple emitters, each operating at a different efficacy, in full color tunable lamps. Lutron stated that full color tunable lamps should ultimately be considered by DOE as a separate product class with a separate standard. Lutron stated this option should still include defining the term âfull color tunable lamp.â (Lutron, No. 12 at pp. 3-4)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âEU ecodesign regulation for light sources (
+                        <E T="03">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2020</E>
+                        ) and the Global Lighting Association's Regulatory Guidelines for an Effective Transition to Energy Efficient Lighting.
+                    </P>
+                </FTNT>
+                <P>Lutron commented that, of the two solutions, it would be easier to exempt full color tunable lamps and allow the focus of the rulemaking to return to traditional lighting technology. (Lutron, No. 12 at pp. 3-4)</P>
+                <P>
+                    EPCA directs DOE to include as GSLs, lamps which are used to satisfy lighting applications traditionally served by GSILs. 42 U.S.C. 6291(30)(BB)(i)(IV). In the January 2017 Final Rules, DOE determined that lamps that satisfy the same applications traditionally served by GSILs are ones that provide an interior or exterior area with overall illumination. 82 FR 7276, 7306. Because colored lamps do not provide overall illumination, in the January 2017 Final Rules, DOE maintained the exemption of colored lamps specified in the GSIL definition and applied it to the GSL definition. 82 FR 7276, 7302, 7312. Colored lamps have correlated color temperatures (CCTs) or color rendering indexes (CRIs) that do not result in white light, and therefore do not satisfy lighting applications traditionally served by GSILs (
+                    <E T="03">i.e.,</E>
+                     colored lamps do not provide overall illumination). DOE reaffirmed this position in the August 2021 NOPR by proposing to exclude colored lamps from the definition of GSIL and GSL. 86 FR 4611, 46616, 46625. DOE understands that full color tunable lamps can be operated to provide overall illumination as well as colored light. At the setting where the full color tunable lamp is producing colored light, the CCT or CRI will be such that it does not result in white light. Accordingly, at a setting where the full color tunable lamp is not producing colored light, the CCT or CRI will be such that it does result in white light. Because consumers can choose to use them to provide overall illumination, exempting such lamps could result in manufacturers adding color tunability to avoid standards, 
+                    <E T="03">i.e.,</E>
+                     a potential loophole. Hence, DOE is not modifying the GSL definition proposed in the August 2021 NOPR to exempt full color tunable lamps. DOE will review the most appropriate method to test such lamps in its next review of the applicable lamp test procedure.
+                </P>
+                <HD SOURCE="HD2">E. Market Share, Cost Savings, Energy Savings, and Emission Reductions</HD>
+                <HD SOURCE="HD3">1. Market Share</HD>
+                <P>
+                    DOE also received comments on the August 2021 NOPR relating to the market share of GSLs. The Joint Comment stated that while LEDs have gained an overall market share of about 60 percent,
+                    <SU>10</SU>
+                    <FTREF/>
+                     the 40 percent of incandescent products are costing consumers. (Joint Comment, No. 16 at p. 2) NASEO and ASAP commented that consumers continue to purchase incandescent bulbs out of habit and because manufacturers promote them. (NASEO, No. 8 at p. 2; ASAP, No. 19 at p. 2) NYSERDA stated that results of a survey it conducted showed that nationally, of the overall lamp market 58 percent of A-lamps, 84 percent of reflector lamps, 50 percent of globe lamps, and 56 percent of candelabra lamps were LED lamps in 2020 and had increased from the previous year. NYSERDA stated LED lamps were widely available even in states that did not have utility energy efficiency lighting incentives. However, the NYSERDA survey indicated that while LED globe lamps grew by 2 percent in 2020 from the previous year, incandescent globe lamps grew by 5 percent. (NYSERDA, No. 10 at pp. 2-3)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âThe Joint Comment referenced market research from Apex Analytics.
+                    </P>
+                </FTNT>
+                <P>
+                    The CA IOUs stated that implementation of the 45 lm/W backstop on lamps included in the January 2017 Definitions will significantly increase the number of products impacted and decrease the potential of an increase in sales volume of non-GSL incandescent lamps. (CA IOUs, No. 17 at p. 3) The NPCC stated that âspecialtyâ lamps for which the exemptions are being discontinued (
+                    <E T="03">i.e.,</E>
+                     reflector bulbs used in recessed and track lighting, candle-shaped bulbs used in wall sconces and decorative light fixtures, globe-shaped bulbs often installed in bathrooms, pear-shaped bulbs, etc.) represent a significant portion of the Pacific Northwest's energy efficiency potential, as there are over 250 million of these bulbs in the region. The NPCC stated that LED lamps provide equal or better service at a much lower energy consumption rate and higher durability. (NPCC, No. 5 at pp. 1-2) The CA IOUs stated that when incandescent light bulbs leave the market, any economic harm to the lighting industry will be far outweighed by the energy and environmental savings. (CA IOUs, No. 17 at p. 2)
+                </P>
+                <HD SOURCE="HD3">2. Consumer Costs, Energy Savings, Emission Reductions</HD>
+                <P>
+                    DOE received several comments on the benefits of amending the definitions of GSL and GSIL as proposed in the August 2021 NOPR. The State of Washington DOC stated that although 
+                    <PRTPAGE P="27471"/>
+                    Washington already has a 45 lm/W efficacy standard in place, the proposed DOE action will strengthen enforcement and improve compliance in Washington, as well as avoid excess electricity consumption in other Western states, especially those without a state-level standard for GSLs as the Western electricity grid is very interconnected. (State of Washington DOC, No. 13 at pp. 1-2) The SC, NRDC, and EJ stated that the two-year delay in reinstatement of the January 2017 Definitions and application of the 45 lm/W backstop has prevented gains in reducing air pollutant emissions associated with electricity generation and consumer benefits, in particular, for low-income families. (SC, NRDC, and EJ, No. 18 at p. 2) NASEO and the State of Washington DOC stated that adopting the proposed GSL definitions will deliver large cost savings for consumers and reductions in climate emissions and encouraged the two-step process of first, expanding the definition of GSL to include all common bulb types and second, implementing the 45 lm/W backstop standard. (NASEO, No. 8 at p. 1; State of Washington DOC, No. 13 at pp. 1-2)
+                </P>
+                <P>DOE also received comments that quantified cost savings and emissions reductions from adopting the definitions as proposed in the August 2021 NOPR. The AGs stated that, if adopted, the proposed definitions would save billions of dollars in energy costs and avoidance of millions of metric tons of greenhouse gas emissions annually. (AGs, No. 11 at p. 1) NASEO, the Joint Comment, and ASAP stated that switching a single incandescent bulb to LED saves $40-$90 over 10 years. Therefore, a midpoint of $65 in savings for a typical 45 bulbs per household would result in average estimated savings of $3,000 over 10 years. (NASEO, No. 8 at pp. 1-2; Joint Comment, No. 16 at p. 2; ASAP, No. 19 at p. 2) NASEO added that according to ASAP, updated GSL standards could result in nationwide utility bill savings of $2.6 billion by 2035. (NASEO, No. 8 at p. 2) NYSERDA stated that the additional products included in the expanded GSL definition, with the exclusion of A-lamps, would result in $1-$1.4 billion of net present value. (NYSERDA, No. 10 at p. 2) The CEC added that adopting the expanded definitions plus enforcing the backstop of 45 lm/W would result in $3.4 billion in cost savings each year. (CEC, No. 15 at p. 2) The Joint Comment stated that each month of additional delay in implementing the 45 lm/W standard will result in $300 million in lost savings through higher electricity bills and $1.8 billion has already been spent by consumers on inefficient lighting costs since January 2021. (Joint Comment, No. 16 at pp. 1-2; ASAP, No. 19 at p. 2)</P>
+                <P>
+                    NASEO stated that according to ASAP, the proposed GSL definitions could avoid an annual 2.7 to 6.2 million metric tons (âMMTâ) of carbon dioxide (âCO
+                    <E T="52">2</E>
+                    â) emissions by 2030. (NASEO, No. 8 at p. 2) NYSERDA stated that the additional products included in the expanded GSL definition, with the exclusion of A-lamps, would reduce emissions by 0.25 to 0.5 MMT of CO
+                    <E T="52">2</E>
+                    . (NYSERDA, No. 12 at p. 2) The CEC added that adopting the expanded definitions plus enforcing the backstop of 45 lm/W would result in 9.5 MMT of avoided CO
+                    <E T="52">2</E>
+                     emissions each year. (CEC, No. 15 at p. 2) The Joint Comment and ASAP stated that each month of additional delay in implementing the January 1, 2020, backstop will result in the addition of 800,000 tons of CO
+                    <E T="52">2</E>
+                     emissions. The Joint Comment stated that since the beginning of the new administration 4.8 million tons of CO
+                    <E T="52">2</E>
+                     have been needlessly released. (Joint Comment, No. 16 at pp. 1-2; ASAP, No. 19 at p. 2)
+                </P>
+                <P>
+                    DOE also received several comments regarding low-income consumers and adopting the January 2017 Definitions. NASEO and ASAP stated that lower income consumers lack easy access to retailers that sell affordable LED lamps and expanding the GSL definition would ensure access to a larger consumer base. (NASEO, No. 8 at p. 2; ASAP, No. 19 at p. 2) NYSERDA cited a study it commissioned which assessed the lighting market in New York state. The study showed that LED lamps appear to be less available in dense urban environments, as smaller businesses such as grocery, hardware, and general merchandise stores have the lowest availability of LED lamps, compared to big-box or national operations typically located outside urban city centers. NYSERDA stated that DOE's proposed rule can solve the resulting issue of inequitable access to LED lamps. (NYSERDA, No. 10 at pp. 3-4) Based on research in Michigan and New York, the Joint Comment also found that low-income consumers, particularly in urban areas, have less access to affordable LED lamps than other consumers because the stores they often shop at do not stock them or set prices high. The Joint Comment stated that the proposed GSL definition would ensure that all consumers have access to LED lamps regardless of distribution channel (
+                    <E T="03">i.e.,</E>
+                     big box suburban stores, grocery stores, hardware stores, dollar stores, corner stores). The Joint Comment added that low-income consumers tend to have disproportionately higher energy bills and are typically renters of housing with inefficient pre-installed lightbulbs (
+                    <E T="03">i.e.,</E>
+                     incandescent lamps or CFLs). The Joint Comment also stated that when the commercial and industrial sectors save on lighting costs, these energy savings can be passed on to consumers in the form of lower costs for goods and services and can be spent in other areas of our economy with greater multiplier effects. Furthermore, the Joint Comment stated that a 2019 Consumer Federation of America (âCFAâ) survey found that two-thirds of respondents support Federal energy efficiency standards for light bulbs, citing energy savings and less frequent light bulb replacements as benefits. (Joint Comment, No. 16 at p. 2)
+                </P>
+                <P>
+                    Although this final rule only defines the scope of GSLs and does not set energy efficiency standards for GSLs, DOE appreciates commenters' information regarding estimated impacts of the adoption of the proposed August 2021 definitions on the market, consumer costs, energy savings, and emissions reductions. DOE has also conducted an analysis of the impacts of expanding the definitions of GSL and GSIL if the statutory backstop requirement for GSLs comes into effect. This analysis shows consumers will save $2.2 billion in annualized reduced operating costs savings at a 7% discount rate, and $2.3 billion at a 3% discount rate, and reduce CO
+                    <E T="52">2</E>
+                     emissions by 174 million metric tons from products shipped between 2022-2051. Please see III.H of this document for a discussion of this analysis.
+                </P>
+                <HD SOURCE="HD2">F. State Preemption</HD>
+                <P>NEMA requested that the GSL definition final rule specify in clear and unambiguous language that the federal definition of a product class preempts any existing or future State definition. (NEMA, No. 9 at p. 7)</P>
+                <P>In response, DOE notes that Federal energy conservation requirements generally supersede state laws or regulations concerning energy conservation testing, labeling, and standards. (42 U.S.C. 6297(a)-(c)) Absent limited exceptions, states generally are precluded from adopting energy conservation standards for covered products both before an energy conservation standard becomes effective, and after an energy conservation standard becomes effective. (42 U.S.C. 6297(b) and (c))</P>
+                <P>
+                    For energy conservation standards applicable to GSLs, EISA 2007 established additional preemption 
+                    <PRTPAGE P="27472"/>
+                    provisions specific to California and Nevada. Namely, beginning January 1, 2018, no provision of law can preclude these states from adopting: (1) Standards established in a final DOE rule adopted in accordance with 42 U.S.C. 6295(i)(6)(A)(i)-(iv); (2) the backstop requirement of 45 lm/W if no final rule was adopted in accordance with 42 U.S.C. 6295(i)(6)(A)(i)-(iv); or (3) for the State of California, if a final rule has not been adopted in accordance with 42 U.S.C. 6295(i)(6)(A)(i)-(iv), any California regulations related to âthese covered productsâ adopted pursuant to state statute in effect as of the date of enactment of EISA 2007 (
+                    <E T="03">i.e.,</E>
+                     December 19, 2007). (42 U.S.C. 6295(i)(6)(A)(vi))
+                </P>
+                <HD SOURCE="HD2">G. Effective Date</HD>
+                <HD SOURCE="HD3">1. GSL Definitions Effective Date</HD>
+                <P>In the August 2021 NOPR, DOE proposed an effective date of 60 days from the publication of the final rule for the proposed definitions. 86 FR 46611, 46620. NEMA and GE Lighting stated that the 60-day effective date proposed for the GSL definitions is insufficient time for manufacturers to respond. NEMA and GE Lighting cited as concerns the potential lack of LED lamp substitutes for lamp types impacted by the amended GSIL and GSL definitions and complying with existing regulations for newly impacted lamp types. (NEMA, No. 9 at pp. 2-3; GE Lighting, No. 14 at p. 2)</P>
+                <P>
+                    NEMA and GE Lighting stated that almost all GSLs are made overseas and described the steps of the manufacturing and retail supply chain. NEMA stated that the supply forecasting process, which includes cancelling and selling affected products, as well as identifying, ordering, and shipping alternative LED products, would require at least 9-12 months for the lamps newly impacted by the GSL definition. NEMA stated that manufacturers would need at least 12 months to adjust supply chains and retailers would need an additional 12 months to sell through inventory. (NEMA, No. 9 at pp. 2-3; GE Lighting, No. 14 at p. 2) NEMA and GE Lighting added that global supply chains are currently under stress due to congested ports, coronavirus disease protocols and outbreaks, electronic chip shortages, and rolling blackouts that lead to unpredictable lighting factory shutdowns in China. NEMA stated that logistics and shipping delays are doubling lead times from 5-6 weeks to 10-12 weeks and electronic chip shortages are increasing component lead times from 1 month to 3 months. (NEMA, No. 9 at p. 4) NEMA added that the date Customs and Border Protection (âCBPâ) clears a shipment is the date recorded as the date of manufacture for regulatory purposes. Thus, NEMA stated that with a 60-day effective date, it is possible that a cargo ship could depart with legal cargo that becomes illegal by the time of arrival. (NEMA, No. 9 at pp. 2-3) Further, NEMA stated that to convert the remaining 400 million incandescent decorative lamps (
+                    <E T="03">i.e.,</E>
+                     T-Shape, B, BA, F, G16-1/2, G25, G30, S and M-14 lamps) to LED technology would take approximately 37 months (approximately 3 years) at a current worldwide production and shipping capacity of about 11 million decorative LED lamps per month into the United States. (NEMA, No. 20 at pp. 3-4) NEMA also noted that several LED lamp type options, in particular legacy lamp types, are not available due to technical and financial limitations. NEMA stated that product development and inventory planning take months to years and not all of the DOE proposal is possible or practicable. (NEMA, No. 9 at p. 2)
+                </P>
+                <P>NEMA stated that medium screw base decorative lamps, 3-way lamps, vibration service lamps, rough service lamps, shatter-resistant lamps, and any other newly regulated lamps would need to be formally tested, certified, and listed in the DOE database under the proposed GSL definitions. NEMA stated that substitute lamps that are not currently regulated products have likely been tested in a manufacturer's laboratory or a less stringent lab for labeling or marketing purposes rather than undergoing the National Voluntary Laboratory Accreditation Program (âNVLAPâ) or International Laboratory Accreditation Cooperation (âILACâ) testing required to meet DOE certification standards. NEMA stated that manufacturers generally have 3 years to prepare newly covered products for legal sale and that testing alone would take several months. (NEMA, No. 9 at pp. 4-5; NEMA, Public Meeting Transcript, No. 7 at pp. 28-30)</P>
+                <P>Finally, NEMA and GE Lighting stated that a 60-day effective date will result in financial loss to lamp manufacturers due to stranded assets, specifically costs associated with non-cancellable supply contracts, components already purchased based on forecasted production quantities, capital investments already made for labor and production, the value of finished goods that cannot clear customs (import date) within 60 days, and retailer stock resets for all medium screw based decorative lamps, 3-way lamps, vibration service lamps, rough service lamps, and shatter-resistant lamps. NEMA stated that the resulting product shortages and empty store shelves would have a disproportionate impact on smaller manufacturers and smaller retailers. (NEMA, No. 9 at p. 5; GE Lighting, No. 14 at p. 2)</P>
+                <P>NEMA recommended that DOE align the timing of the definitions with the implementation of new energy conservation standards; however, if DOE moved ahead sooner with the implementation of the definitions, NEMA requested a minimum effective date of 9 to 12 months to account for global supply chain blockages. (NEMA, No. 9 at pp. 5-6) Westinghouse requested clarity on whether products that are newly defined as GSLs will be subject to the existing GSIL standard. (Westinghouse, Public Meeting Transcript, No. 7 at pp. 19-21)</P>
+                <P>The CEC recommended keeping the 60-day effective date and stated that any stranded lamps should be absorbed by the industry and that allowing the sale of inefficient lamps would merely pass the costs of these products from manufacturers to consumers through higher energy bills and environmental harm. (CEC, No. 15 at pp. 1-2; CEC, No. 15 at p. 4; CA IOUs, No. 17 at p. 2) NYSERDA stated that though the 60-day effective date may seem brief, the expanded GSL definition was initially proposed by DOE over 5 years ago and the market has matured significantly since then. (NYSERDA, No. 12 at p. 2)</P>
+                <P>
+                    The CA IOUs stated that they support the proposed definitions for GSLs and GSILs to become effective 60 days after adoption. The CA IOUs stated that because DOE's existing GSIL standards only prohibit the manufacture or import of non-compliant light bulbs, rather than the sale, retailers may continue to sell non-compliant GSILs already in the U.S. when the definitions become effective. Regarding products en route that may become ineligible for importation, the CA IOUs stated that as the GSL definitions NOPR was published on August 19, 2021, a 60-day effective date is a reasonable gap between adoption and enactment of the expanded GSL definition. The CA IOUs stated that risk-averse planners would have anticipated the GSL backstop and definitions nine months ago with the change of the administration, and thus wholesale market disruption from a short 60-day timeframe should be avoidable. Further, the CA IOUs stated that since January 2020 when California implemented the revised GSL and GSIL definitions and a 45 lm/W minimum energy standard a full range of compliant GSLs have been available in California and there has been no market disruption. The CA IOUs stated that the fact that consumers want to buy incandescent bulbs defines the market 
+                    <PRTPAGE P="27473"/>
+                    failure that the energy efficiency standards were designed to address. The CA IOUs stated that DOE should take steps to minimize any market disruption caused by the transition; however, regulation is necessary to ensure a thorough and quick transition. (CA IOUs, No. 17 at pp. 2-3; CA IOUs, Public Meeting Transcript, No. 7 at pp. 23-24, 32-33)
+                </P>
+                <P>NEMA responded that the reason manufacturers are still sourcing and supplying incandescent lamps is because customers are buying them. (NEMA, Public Meeting Transcript, No. 7 at p. 28) GE Lighting stated that the market transformation to LED technology has been happening rapidly noting that since 2016-2017, when DOE began its review of GSLs, a big chunk of the market has by itself converted to LED technology and will continue to do so. (GE Lighting, Public Meeting Transcript, No. 7 at pp. 33-35) The Edison Electric Institute (âEEIâ) stated that since LED lamps for GSL shipments have increased from around 10 percent several years ago to now 70 to 75 percent of the market, the industry should not be characterized as a âmarket failure.â (EEI, Public Meeting Transcript, No. 7 at pp. 36-37)</P>
+                <P>Furthermore, Westinghouse stated that manufacturers cannot choose to stop producing products based off speculations for future regulations, and instead need certainty from DOE through a final rule followed by adequate time to adjust. (Westinghouse, Public Meeting Transcript, No. 7 at pp. 24-25) GE Lighting added that manufacturers must respond to demand and if they discontinue their incandescent product line, another manufacturer would take that market space up. GE Lighting stated that its product line can only be controlled when the regulation goes final. (GE Lighting, Public Meeting Transcript, No. 8 at pp. 25-27)</P>
+                <P>
+                    A lamp covered as a GSL or GSIL under the amended definitions would be subject to any energy conservation standard applicable to that lamp as a GSL or GSIL beginning on the effective date of this final rule, including the 45 lm/W GSL backstop requirement, if applicable. DOE notes that of the lamps newly covered under the amended definitions adopted in this final rule, only certain lamps will be subject to existing standards, 
+                    <E T="03">i.e.,</E>
+                     lamp types for which exemption from the GSIL definition is discontinued. 
+                    <E T="03">See</E>
+                     10 CFR 430.32(x)(1). Generally, the energy conservation standards apply to covered products as manufactured. (
+                    <E T="03">See</E>
+                     42 U.S.C. 6302 and 42 U.S.C. 6303) However, as noted by the CA IOUs, the GSIL energy conservation standards at 10 CFR 430.32(x)(1) apply to GSILs manufactured on or after January 1, 2012, January 1, 2013, and January 1, 2014, depending on the rated lumens of the lamp. As such, in determining whether compliance is required by a lamp newly covered by the amended GSIL definition, the compliance dates in 10 CFR 430.32(x)(1) would be applicable. To determine the appropriateness of a 60-day effective date, DOE examined its impact on these new GSILs subject to GSIL standards.
+                </P>
+                <P>
+                    Specifically, the following lamp types become GSILs under the GSIL definition adopted in this final rule and subject to existing GSIL standards: (1) T shape lamp that uses not more than 40 watts or has a length of more than 10 inches; (2) B, BA, CA, F, G16-1/2, G-25, G30, S, or M-14 lamp of 40 watts or less; (3) reflector lamp; (4) rough service lamp; (5) shatter-resistant lamp; (6) 3-way lamp; and (7) vibration service lamp. Per the GSIL definition established in this rule, these lamp types must have a medium screw base; 310-2,600 lumens (232-1,950 lumens for modified spectrum); and operate within 110 and 130 V. DOE's review of the market indicates that there are LED lamp substitutes available for these lamp types. The incandescent version of rough service and vibration service lamps use filaments strengthened with additional supports. The incandescent version of shatter-resistant lamps has a reinforced outer bulb to contain glass pieces in the event the bulb breaks. LED lamps inherently provide the consumer with these features because they do not have metal filaments and LED lamps are available that do not use glass outer bulbs. DOE has also found that there are product offerings of LED lamps that are medium screw base, 310-2,600 lumens, operate within 110 and 130 volts and are a (1) T shape lamp of 749 lumensâ
+                    <SU>11</SU>
+                    <FTREF/>
+                     or less (equivalent of 40 watts or less) or has a length of more than 10 inches (2) B, BA, CA, F, G16-1/2, G-25, G30, S, or M-14 lamp of 749 lumens or lessâ
+                    <SU>12</SU>
+                    <FTREF/>
+                     (equivalent of 40 watts or less); (3) reflector lamp, or (4) 3-way lamp. Therefore, DOE finds that there will be substitutes for lamps newly regulated as GSILs.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âDOE determined that an incandescent lamp of 40 watts or less produces a maximum lumen output of 749 lumens. The threshold of 749 lumens is based on DOE's GSIL energy conservation standards which require lamps with 750â1049 lumens to have a maximum wattage of 43 W (see 10 CFR 430.32(x)(1)).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âIbid.
+                    </P>
+                </FTNT>
+                <P>As proposed in the August 2021 NOPR, DOE is establishing a 60-day effective date for this rule in recognition of the need to act promptly in connection with the statutory requirements. As indicated by commenters, a substantial part of the lamp market has already transitioned to LED technology. DOE does not find that the impact on certain types of incandescent/halogen lamps will disrupt the market and thereby substantively impact consumers, manufacturers, or retailers. DOE acknowledges that manufacturers will have to comply with the statutory backstop requirement for GSLs when effective. It is DOE's intent that newly regulated GSILs will not be required to comply with multiple standards in a short period of time. DOE intends to do this by using its enforcement discretion in the period after this rule is effective, but before the final rule implementing the backstop becomes effective. Hence, DOE finds that an effective date of 60 days after the publication of this final rule is appropriate.</P>
+                <HD SOURCE="HD3">2. GSL Backstop Effective Date</HD>
+                <P>In addition to the expanded GSL definition, NYSERDA, the AGs, the CEC, Joint Comment, and the CA IOUs recommended that DOE promptly implement the 45 lm/W minimum requirement for GSLs. The CEC and CA IOUs stated that the 45 lm/W backstop has been triggered and is not a discretionary action; because DOE failed to meet its statutory requirements as of January 1, 2017, DOE has been legally obligated to enforce the backstop for GSLs since January 1, 2020. The CEC stated that the 45 lm/W backstop should be applied immediately for the existing GSL definitions and applied on the operative date of the final rule for the proposed expanded GSL definitions. (CEC, No. 15 at p. 2)</P>
+                <P>
+                    NEMA recommended a two-step approach in enacting a 45 lm/W minimum requirement: (1) Manufacture-by date of certain lamp types in effect one year after final rule publication in the 
+                    <E T="04">Federal Register</E>
+                    , and (2) sell-by date of same lamp types effective one year following manufacture-by date. (NEMA, No. 9 at pp. 5-6) NEMA stated it is not opposed to regulating different lamp groups in different years. NEMA and GE Lighting suggested regulating A-line lamps first, followed by reflector lamps, then decorative lamps, all separated by at least a year to account for timing of manufacturer and retailer resets. NEMA recommended that decorative lamp types follow A-lamps by a minimum of two years, as the decorative lamp market is less transitioned to LEDs. GE Lighting agreed, adding that the A-line market has the highest percentage of LED socket penetration followed by 
+                    <PRTPAGE P="27474"/>
+                    reflector lamps and then decorative lamps have the least. GE Lighting also added that product capacity is higher for LED A-line lamps and much lower for LED decorative lamps. NEMA added that exempted reflector lamps (R20, R30 and R40) could also be regulated using the current IRL regulations in a separate phased-in year. NEMA recommended an end date for manufacture/import and a year-later date for sell through for any regulation. NEMA stated that this approach would allow sell through to clear out existing incandescent inventory, avoid stranded assets and empty store shelves, and have a limited effect on energy saving due to the short life of the lamps. (NEMA, No. 9 at pp. 9-10; GE Lighting, No. 14 at pp. 2-3)
+                </P>
+                <P>
+                    The CA IOUs stated that DOE should issue the GSL backstop standard without delay and consider phased-in effective dates for certain lamps per the provision in EISA and as deemed necessary based on information received from manufacturers and retailers. (CA IOUs, No. 17 at pp. 2-3) The CA IOUs stated that the 45 lm/W efficacy standard is far below typical LED performance and recommended that after implementing the January 2017 Definitions, DOE undertake further rulemakings for GSILs and GSLs as soon as possible. (CA IOUs, No. 17 at p. 3) NYSERDA stated that its 2020 Stocking and Shelving Surveyâ
+                    <SU>13</SU>
+                    <FTREF/>
+                     study found that most retailers rely on manufacturers to provide compliant products and manufacturers anticipate increases in standards but will not initiate product changes without a high level of certainty that the requirements will go into effect. (NYSERDA, No. 10 at pp. 4-5; AGs, No. 11 at p. 2)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âCadmus Group and Appliance Standards Awareness Project, General Service Lamps: Stocking and Shelving Survey, December 2020. 
+                        <E T="03">https://www.nyserda.ny.gov/-/media/Files/Publications/Research/Other-Technical-Reports/21-20-General-Service-Lamps--Stocking-and-Shelving-Survey.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>ASAP stated that DOE could consider implementing the standards in a phased approach with standards going into effect for high-volume lamps sooner than lamps that sell more slowly and need longer to clear inventory. ASAP stated, however, while it's important that the standard is implemented smoothly and without needless market disruption, the standard is also two years delayed and is needed to protect the climate and result in savings. (ASAP, Public Meeting Transcript, No. 7 at pp. 30-32) NASEO and ASAP stated Executive Order 13990, under which DOE identified light bulb rules for review, directs DOE to complete work on these and other reviews by December 31, 2021. NASEO and ASAP urged DOE to finalize the GSL definitions and adopt the 45 lm/W backstop standard no later than December 31, 2021. (NASEO, No. 8 at p. 2; ASAP, No. 19 at pp. 2-3)</P>
+                <P>While this final rule does not propose any new or amended standards or address the applicability of the 45 lm/W backstop requirement, on December 13, 2021, DOE issued a notice of proposed rulemaking to codify in the CFR the backstop requirement for GSLs. 86 FR 70755. As discussed previously, a final rule codifying the backstop requirement is being issued simultaneously with this rule. In that rule, DOE is addressing application of the backstop requirement to lamps that become GSLs or GSILs via this final rule and, consequently, the dates of required compliance for GSLs and GSILs, so that manufacturers of newly regulated GSILs will not have to comply with immediately sequential standards.</P>
+                <HD SOURCE="HD2">H. Analysis</HD>
+                <P>DOE estimated the annualized national economic costs and benefits associated with the expansion of the GSL definition and the proposed implementation of the 45 lm/w backstop relative to a no-new standard case. DOE first considered the product price and energy use of commercially-available lamp options in the expanded GSL definition, including those that would be prohibited under implementation of the 45 lm/W backstop and more efficacious GSLs that would continue to be available. DOE then developed a shipments model to project lamp shipments within the expanded GSL definition for the no-new-standards case and for the 45 lm/W backstop case over a thirty-year period between 2022-2051. Shipments were estimated using a consumer-choice model sensitive to first cost, energy savings, lamp lifetime, and the presence of mercury. The shipments analysis also considered the impact of price learning on product price. Based on the shipments projections, DOE calculated the national consumer economic impacts of the expanded definition and 45 lm/W backstop, by comparing the total installed product costs and operating costs in the 45 lm/W backstop case to the no-new-standards case.</P>
+                <P>
+                    DOE also analyzed the reduction in several greenhouse gases and other pollutants that would result from the expanded GSL definition and the proposed 45 lm/W backstop using emissions intensity factors intended to represent the marginal impacts of the change in electricity consumption associated with amended or new standards.
+                    <SU>14</SU>
+                    <FTREF/>
+                     As part of the development of this final rule, for the purpose of complying with the requirements of Executive Order 12866, DOE also considered the estimated monetary benefits from the reduced emissions of CO
+                    <E T="52">2,</E>
+                     CH
+                    <E T="52">4</E>
+                    , N
+                    <E T="52">2</E>
+                    O, NO
+                    <E T="52">X</E>
+                    , and SO
+                    <E T="52">2</E>
+                    . DOE notes that it would have reached the same conclusion presented in this document in the absence of the social cost of greenhouse gases (âSC-GHG), including the February 2021 Interim Estimates presented by the Interagency Working Group on the Social Cost of Greenhouse Gases.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âThe methodology is described in âUtility Sector Impacts of Reduced Electricity Demandâ (Coughlin, 2014; Coughlin 2019).
+                    </P>
+                </FTNT>
+                <P>
+                    On March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                    <E T="03">Louisiana</E>
+                     v. 
+                    <E T="03">Biden,</E>
+                     No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the injunction and present monetized benefits where appropriate and permissible under law.
+                </P>
+                <P>
+                    For the purpose of complying with the requirements of Executive Order 12866, DOE estimates the monetized benefits of the reductions in emissions of CO
+                    <E T="52">2</E>
+                    , CH
+                    <E T="52">4</E>
+                    , and N
+                    <E T="52">2</E>
+                    O by using a measure of the social cost (âSCâ) of each pollutant (
+                    <E T="03">e.g.,</E>
+                     SC-GHGs). These estimates represent the monetary value of the net harm to society associated with a marginal increase in emissions of these pollutants in a given year, or the benefit of avoiding that increase. These estimates are intended to include (but are not limited to) climate-change-related changes in net agricultural productivity, human health, property damages from increased flood risk, disruption of energy systems, risk of conflict, environmental migration, and the value of ecosystem services. DOE exercises its own judgment in 
+                    <PRTPAGE P="27475"/>
+                    presenting monetized climate benefits as recommended by applicable Executive orders and guidance, and, as stated previously, DOE would reach the same conclusion presented in this document in the absence of the social cost of greenhouse gases, including the February 2021 Interim Estimates presented by the Interagency Working Group on the Social Cost of Greenhouse Gases.
+                </P>
+                <P>
+                    DOE estimated the global social benefits of CO
+                    <E T="52">2</E>
+                    , CH
+                    <E T="52">4</E>
+                    , and N
+                    <E T="52">2</E>
+                    O reductions (
+                    <E T="03">i.e.,</E>
+                     SC-GHGs) using the estimates presented in the Technical Support Document: Social Cost of Carbon, Methane, and Nitrous Oxide Interim Estimates under Executive Order 13990 published in February 2021 by the Interagency Working Group on the Social Cost of Greenhouse Gases (IWG) (IWG, 2021).
+                    <SU>15</SU>
+                    <FTREF/>
+                     The SC-GHGs is the monetary value of the net harm to society associated with a marginal increase in emissions in a given year, or the benefit of avoiding that increase. In principle, SC-GHGs includes the value of all climate change impacts, including (but not limited to) changes in net agricultural productivity, human health effects, property damage from increased flood risk and natural disasters, disruption of energy systems, risk of conflict, environmental migration, and the value of ecosystem services. The SC-GHGs therefore, reflects the societal value of reducing emissions of the gas in question by one metric ton. The SC-GHGs is the theoretically appropriate value to use in conducting benefit-cost analyses of policies that affect CO
+                    <E T="52">2</E>
+                    , N
+                    <E T="52">2</E>
+                    O and CH
+                    <E T="52">4</E>
+                     emissions. As a member of the IWG involved in the development of the February 2021 SC-GHG TSD), the DOE agrees that the interim SC-GHG estimates represent the most appropriate estimate of the SC-GHG until revised estimates have been developed reflecting the latest, peer-reviewed science.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        â
+                        <E T="03">See</E>
+                         Interagency Working Group on Social Cost of Greenhouse Gases, 
+                        <E T="03">Technical Support Document: Social Cost of Carbon, Methane, and Nitrous Oxide. Interim Estimates Under Executive Order 13990,</E>
+                         Washington, DC, February 2021. Available at: 
+                        <E T="03">www.whitehouse.gov/wp-content/uploads/2021/02/TechnicalSupportDocument_SocialCostofCarbonMethaneNitrousOxide.pdf</E>
+                         (last accessed March 17, 2021).
+                    </P>
+                </FTNT>
+                <P>
+                    The SC-GHGs estimates are presented in DOE's technical support document (âTSDâ)â
+                    <SU>16</SU>
+                    <FTREF/>
+                     and were developed over many years, using transparent process, peer-reviewed methodologies, the best science available at the time of that process, and with input from the public. Specifically, in 2009, an interagency working group (IWG) that included the DOE and other executive branch agencies and offices was established to ensure that agencies were using the best available science and to promote consistency in the social cost of carbon (SC-CO
+                    <E T="52">2</E>
+                    ) values used across agencies. The IWG published SC-CO
+                    <E T="52">2</E>
+                     estimates in 2010 that were developed from an ensemble of three widely cited integrated assessment models (IAMs) that estimate global climate damages using highly aggregated representations of climate processes and the global economy combined into a single modeling framework. The three IAMs were run using a common set of input assumptions in each model for future population, economic, and CO
+                    <E T="52">2</E>
+                     emissions growth, as well as equilibrium climate sensitivity (ECS)âa measure of the globally averaged temperature response to increased atmospheric CO
+                    <E T="52">2</E>
+                     concentrations. These estimates were updated in 2013 based on new versions of each IAM. In August 2016 the IWG published estimates of the social cost of methane (SC-CH
+                    <E T="52">4</E>
+                    ) and nitrous oxide (SC-N
+                    <E T="52">2</E>
+                    O) using methodologies that are consistent with the methodology underlying the SC-CO
+                    <E T="52">2</E>
+                     estimates. The modeling approach that extends the IWG SC-CO
+                    <E T="52">2</E>
+                     methodology to non-CO
+                    <E T="52">2</E>
+                     GHGs has undergone multiple stages of peer review. The SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O estimates were developed by Marten et al. (2015) and underwent a standard double-blind peer review process prior to journal publication. In 2015, as part of the response to public comments received to a 2013 solicitation for comments on the SC-CO
+                    <E T="52">2</E>
+                     estimates, the IWG announced a National Academies of Sciences, Engineering, and Medicine review of the SC-CO
+                    <E T="52">2</E>
+                     estimates to offer advice on how to approach future updates to ensure that the estimates continue to reflect the best available science and methodologies. In January 2017, the National Academies released their final report, Valuing Climate Damages: Updating Estimation of the Social Cost of Carbon Dioxide, and recommended specific criteria for future updates to the SC-CO
+                    <E T="52">2</E>
+                     estimates, a modeling framework to satisfy the specified criteria, and both near-term updates and longer-term research needs pertaining to various components of the estimation process (National Academies, 2017). Shortly thereafter, in March 2017, President Trump issued Executive Order 13783, which disbanded the IWG, withdrew the previous TSDs, and directed agencies to ensure SC-CO
+                    <E T="52">2</E>
+                     estimates used in regulatory analyses are consistent with the guidance contained in OMB's Circular A-4, âincluding with respect to the consideration of domestic versus international impacts and the consideration of appropriate discount ratesâ (E.O. 13783, Section 5(c)).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        â
+                        <E T="03">www.regulations.gov/.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    On January 20, 2021, President Biden issued Executive Order 13990, which re-established the IWG and directed it to ensure that the U.S. Government's estimates of the social cost of carbon and other greenhouse gases reflect the best available science and the recommendations of the National Academies (2017). The IWG was tasked with first reviewing the SC-GHG estimates currently used in Federal analyses and publishing interim estimates within 30 days of the E.O. that reflect the full impact of GHG emissions, including by taking global damages into account. The interim SC-GHG estimates published in February 2021, specifically the SC-CH
+                    <E T="52">4</E>
+                     estimates, are used here to estimate the climate benefits for this rulemaking. The E.O. instructs the IWG to undertake a fuller update of the SC-GHG estimates by January 2022 that takes into consideration the advice of the National Academies (2017) and other recent scientific literature.
+                </P>
+                <P>
+                    The February 2021 SC-GHG TSD provides a complete discussion of the IWG's initial review conducted under E.O. 13990. In particular, the IWG found that the SC-GHG estimates used under E.O. 13783 fail to reflect the full impact of GHG emissions in multiple ways. First, the IWG found that a global perspective is essential for SC-GHG estimates because it fully captures climate impacts that affect the United States and which have been omitted from prior U.S.-specific estimates due to methodological constraints. Examples of omitted effects include direct effects on U.S. citizens, assets, and investments located abroad, supply chains, and tourism, and spillover pathways such as economic and political destabilization and global migration. In addition, assessing the benefits of U.S. GHG mitigation activities requires consideration of how those actions may affect mitigation activities by other countries, as those international mitigation actions will provide a benefit to U.S. citizens and residents by mitigating climate impacts that affect U.S. citizens and residents. If the United States does not consider impacts on other countries, it is difficult to convince other countries to consider the impacts of their emissions on the United States. As a member of the IWG involved in the development of the February 2021 SC-GHG TSD, DOE agrees with this assessment and, therefore, in this final rule DOE centers 
+                    <PRTPAGE P="27476"/>
+                    attention on a global measure of SC-GHG. This approach is the same as that taken in DOE regulatory analyses from 2012 through 2016. Prior to that, in 2008 DOE presented Social Cost of Carbon (SCC) estimates based on values the Intergovernmental Panel on Climate Change (IPCC) identified in literature at that time. As noted in the February 2021 SC-GHG TSD, the IWG will continue to review developments in the literature, including more robust methodologies for estimating a U.S.-specific SC-GHG value, and explore ways to better inform the public of the full range of carbon impacts. As a member of the IWG, DOE will continue to follow developments in the literature pertaining to this issue.
+                </P>
+                <P>While the IWG works to assess how best to incorporate the latest, peer reviewed science to develop an updated set of SC-GHG estimates, it set the interim estimates to be the most recent estimates developed by the IWG prior to the group being disbanded in 2017. The estimates rely on the same models and harmonized inputs and are calculated using a range of discount rates. As explained in the February 2021 SC-GHG TSD, the IWG has recommended that agencies revert to the same set of four values drawn from the SC-GHG distributions based on three discount rates as were used in regulatory analyses between 2010 and 2016 and subject to public comment. For each discount rate, the IWG combined the distributions across models and socioeconomic emissions scenarios (applying equal weight to each) and then selected a set of four values recommended for use in benefit-cost analyses: An average value resulting from the model runs for each of three discount rates (2.5 percent, 3 percent, and 5 percent), plus a fourth value, selected as the 95th percentile of estimates based on a 3 percent discount rate. The fourth value was included to provide information on potentially higher-than-expected economic impacts from climate change. As explained in the February 2021 SC-GHG TSD, and DOE agrees, this update reflects the immediate need to have an operational SC-GHG for use in regulatory benefit-cost analyses and other applications that was developed using a transparent process, peer-reviewed methodologies, and the science available at the time of that process. Those estimates were subject to public comment in the context of dozens of proposed rulemakings as well as in a dedicated public comment period in 2013.</P>
+                <P>
+                    The SC-CO
+                    <E T="52">2</E>
+                     values used for this final rule were generated using the values presented in the 2021 update from the IWG's February 2021 TSD. The SC-CO
+                    <E T="52">2</E>
+                     estimates from the latest interagency update are presented in DOE's TSD. For purposes of capturing the uncertainties involved in regulatory impact analysis, DOE has determined it is appropriate to include all four sets of SC-CO
+                    <E T="52">2</E>
+                     values, as recommended by the IWG.
+                    <SU>17</SU>
+                    <FTREF/>
+                     DOE multiplied the CO
+                    <E T="52">2</E>
+                     emissions reduction estimated for each year by the SC-CO
+                    <E T="52">2</E>
+                     value for that year in each of the four cases. To calculate a present value of the stream of monetary values, DOE discounted the values in each of the four cases using the specific discount rate that had been used to obtain the SC-CO
+                    <E T="52">2</E>
+                     values in each case.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âFor example, the February 2021 TSD discusses how the understanding of discounting approaches suggests that discount rates appropriate for intergenerational analysis in the context of climate change may be lower than 3 percent.
+                    </P>
+                </FTNT>
+                <P>
+                    The SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O values used for this final rule were generated using the values presented in the 2021 update from the IWG.
+                    <SU>18</SU>
+                    <FTREF/>
+                     The SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O estimates from the latest interagency update are presented in DOE's TSD. To capture the uncertainties involved in regulatory impact analysis, DOE has determined it is appropriate to include all four sets of SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O values, as recommended by the IWG. DOE multiplied the CH
+                    <E T="52">4</E>
+                     and N
+                    <E T="52">2</E>
+                    O emissions reduction estimated for each year by the SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O estimates for that year in each of the cases. To calculate a present value of the stream of monetary values, DOE discounted the values in each of the cases using the specific discount rate that had been used to obtain the SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O estimates in each case.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        â
+                        <E T="03">See</E>
+                         Interagency Working Group on Social Cost of Greenhouse Gases, 
+                        <E T="03">Technical Support Document: Social Cost of Carbon, Methane, and Nitrous Oxide. Interim Estimates Under Executive Order 13990,</E>
+                         Washington, DC, February 2021. Available at: 
+                        <E T="03">www.whitehouse.gov/wp-content/uploads/2021/02/TechnicalSupportDocument_SocialCostofCarbonMethaneNitrousOxide.pdf</E>
+                         (last accessed March 17, 2021).
+                    </P>
+                </FTNT>
+                <P>
+                    The estimated monetary health benefits from the reduced emissions of SO
+                    <E T="52">2</E>
+                     and NO
+                    <E T="52">X</E>
+                     emissions was estimated based on the latest benefit per ton estimates for the relevant sector from the EPA's Benefits Mapping and Analysis Program.
+                    <SU>19</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        â
+                        <E T="03">Estimating the Benefit per Ton of Reducing PM</E>
+                        <E T="52">2.5</E>
+                          
+                        <E T="03">Precursors from 21 Sectors. www.epa.gov/system/files/documents/2021-10/source-apportionment-tsd-oct-2021_0.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    DOE converted the time-series of costs and benefits into annualized values based on the present value in 2021, as shown in Table IV.1. DOE calculated the present value using discount rates of 3 and 7 percent for consumer costs, benefits, and health benefits from the reduction of SO
+                    <E T="52">2</E>
+                     and NO
+                    <E T="52">X</E>
+                     emissions and case-specific discount rates for the value of the other greenhouse gas (âGHGâ) (CO
+                    <E T="52">2</E>
+                    , N
+                    <E T="52">2</E>
+                    O, and CH
+                    <E T="52">4</E>
+                    ) reduction benefits. For presentational purposes, the climate benefits associated with the average SC-GHG at a 3 percent discount rate are shown in Table IV.1 in the following section, but the Department does not have a single central SC-GHG point estimate, and it emphasizes the importance and value of considering the benefits calculated using all four SC-GHG estimates.
+                </P>
+                <HD SOURCE="HD1">IV. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Orders 12866 and 13563</HD>
+                <P>This final rule constitutes a âsignificant regulatory actionâ under section 3(f) of Executive Order 12866, Regulatory Planning and Review, 58 FR 51735 (Oct. 4, 1993). Accordingly, this action was subject to review by the Office of Information and Regulatory Affairs (âOIRAâ) in the Office of Management and Budget (âOMBâ).</P>
+                <P>
+                    In addition, the Administrator of OIRA has determined that the regulatory action is an âeconomically significantâ regulatory action under section (3)(f)(1) of Executive Order 12866. Accordingly, pursuant to section 6(a)(3)(C) of the Order, DOE has provided to OIRA an assessment, including the underlying analysis, of benefits and costs anticipated from the regulatory action, together with, to the extent feasible, a quantification of those costs. This assessment can be found in DOE's technical support document (âTSDâ) and the methodology is summarized in III.H.
+                    <SU>20</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        â
+                        <E T="03">www.regulations.gov/.</E>
+                    </P>
+                </FTNT>
+                <PRTPAGE P="27477"/>
+                <GPOTABLE COLS="4" OPTS="L2,i1" CDEF="s50,12,16,16">
+                    <TTITLE>Table IV.1âAnnualized Monetized Costs, Benefits, and Net Benefits</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">â</CHED>
+                        <CHED H="1">Million 2020$/year</CHED>
+                        <CHED H="2">
+                            Primary
+                            <LI>estimate</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Low-net-benefits
+                            <LI>estimate</LI>
+                        </CHED>
+                        <CHED H="2">
+                            High-net-benefits
+                            <LI>estimate</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW EXPSTB="03" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">3% discount rate</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">Consumer Operating Cost Savings</ENT>
+                        <ENT>2,302.0</ENT>
+                        <ENT>2,171.2</ENT>
+                        <ENT>2,437.6</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Climate Benefitsâ*</ENT>
+                        <ENT>457.5</ENT>
+                        <ENT>442.6</ENT>
+                        <ENT>468.6</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Health Benefitsâ**</ENT>
+                        <ENT>847.1</ENT>
+                        <ENT>819.9</ENT>
+                        <ENT>867.4</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Total Benefitsââ </ENT>
+                        <ENT>3,606.7</ENT>
+                        <ENT>3,433.6</ENT>
+                        <ENT>3,773.5</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">Consumer Incremental Product Costsââ¡</ENT>
+                        <ENT>181.7</ENT>
+                        <ENT>186.0</ENT>
+                        <ENT>175.5</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="05">Net Benefits</ENT>
+                        <ENT>3,424.9</ENT>
+                        <ENT>3,247.7</ENT>
+                        <ENT>3,598.0</ENT>
+                    </ROW>
+                    <ROW EXPSTB="03" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">7% discount rate</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">Consumer Operating Cost Savings</ENT>
+                        <ENT>2,177.3</ENT>
+                        <ENT>2,072.5</ENT>
+                        <ENT>2,287.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Climate Benefitsâ*</ENT>
+                        <ENT>457.5</ENT>
+                        <ENT>442.6</ENT>
+                        <ENT>468.6</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Health Benefitsâ**</ENT>
+                        <ENT>721.1</ENT>
+                        <ENT>700.6</ENT>
+                        <ENT>736.2</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Total Benefitsââ </ENT>
+                        <ENT>3,355.9</ENT>
+                        <ENT>3,215.8</ENT>
+                        <ENT>3,491.8</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">Consumer Incremental Product Costsââ¡</ENT>
+                        <ENT>205.8</ENT>
+                        <ENT>210.2</ENT>
+                        <ENT>199.5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="05">Net Benefits</ENT>
+                        <ENT>3,150.1</ENT>
+                        <ENT>3,005.6</ENT>
+                        <ENT>3,292.2</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <E T="02">Note:</E>
+                         This table presents the costs and benefits associated with GSLs in the expanded definition shipped in 2022â2051. These results include benefits to consumers which accrue after 2051 from the products shipped in 2022-2051. This analysis presents costs and benefits assuming compliance beginning in 2022. As DOE has explained, DOE will release enforcement guidance simultaneously with this rulemaking. If significant compliance behavior changes result from enforcement discretion, both benefits and costs could be reduced for the relevant years, although DOE expects the net benefits will not be significantly changed.
+                    </TNOTE>
+                    <TNOTE>
+                        *âClimate benefits are calculated using four different estimates of the social cost of carbon (SC-CO
+                        <E T="0732">2</E>
+                        ), methane (SC-CH
+                        <E T="0732">4</E>
+                        ), and nitrous oxide (SC-N
+                        <E T="0732">2</E>
+                        O) (model average at 2.5 percent, 3 percent, and 5 percent discount rates; 95th percentile at 3 percent discount rate). Together these represent the global social cost of greenhouse gases (SC-GHG). For presentational purposes of this table, the climate benefits associated with the average SC-GHG at a 3 percent discount rate are shown, but the Department does not have a single central SC-GHG point estimate, and it emphasizes the importance and value of considering the benefits calculated using all four SC-GHG estimates.
+                    </TNOTE>
+                    <TNOTE>
+                        **âHealth benefits are calculated using benefit-per-ton values for NO
+                        <E T="0732">X</E>
+                         and SO
+                        <E T="0732">2</E>
+                        . DOE is currently only monetizing (for SO
+                        <E T="0732">2</E>
+                         and NO
+                        <E T="0732">X</E>
+                        ) PM
+                        <E T="0732">2.5</E>
+                         precursor health benefits and (for NO
+                        <E T="0732">X</E>
+                        ) ozone precursor health benefits, but will continue to assess the ability to monetize other effects such as health benefits from reductions in direct PM
+                        <E T="0732">2.5</E>
+                         emissions. The health benefits are presented at real discount rates of 3 and 7 percent.
+                    </TNOTE>
+                    <TNOTE>
+                        â âTotal and net benefits include consumer, climate, and health benefits. For presentation purposes, total and net benefits for both the 3-percent and 7-percent cases are presented using the average SC-GHG with 3-percent discount rate, but the Department does not have a single central SC-GHG point estimate. DOE emphasizes the importance and value of considering the benefits calculated using all four SC-GHG estimates. On March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                        <E T="03">Louisiana</E>
+                         v. 
+                        <E T="03">Biden,</E>
+                         No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the injunction and present monetized benefits where appropriate and permissible under law.
+                    </TNOTE>
+                    <TNOTE>â¡âCosts include incremental equipment costs as well as installation costs.</TNOTE>
+                </GPOTABLE>
+                <P>DOE has also reviewed this regulation pursuant to E.O. 13563, issued on January 18, 2011. 76 FR 3281 (Jan. 21, 2011). E.O. 13563 is supplemental to and explicitly reaffirms the principles, structures, and definitions governing regulatory review established in E.O. 12866.</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis (âIRFAâ) and a final regulatory flexibility analysis (âFRFAâ) for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. DOE has made its procedures and policies available on the Office of the General Counsel's website (
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                    ).
+                </P>
+                <P>
+                    For manufacturers of GSLs, the SBA has set a size threshold, which defines those entities classified as âsmall businessesâ for the purposes of the statute. DOE used the SBA's small business size standards to determine whether any small entities would be subject to the requirements of the rule. 
+                    <E T="03">See</E>
+                     13 CFR part 121. The size standards are listed by NAICS code and industry description and are available at 
+                    <E T="03">www.sba.gov/document/report--table-size-standards-naics-codes.</E>
+                     Manufacturing of GSLs is classified under NAICS 335110, âElectric Lamp Bulb and Part Manufacturing.â The SBA sets a threshold of 1,250 employees or less for an entity to be considered as a small business for this category.
+                </P>
+                <P>
+                    To estimate the number of companies that could be small businesses that manufacture GSLs impacted by this rulemaking, DOE conducted a survey using information from DOE's Compliance Certification Database and previous rulemakings. DOE used information from these sources to create a list of companies that potentially manufacture or sell GSLs and would be 
+                    <PRTPAGE P="27478"/>
+                    impacted by this rulemaking. DOE screened out companies that do not offer products covered by this rulemaking and do not meet the definition of a âsmall business.â DOE determined that 8 companies are small businesses that manufacture GSLs impacted by this final rule.
+                </P>
+                <P>DOE reviewed the definitions of GSL, GSIL, and related terms adopted in this final rule under the provisions of the Regulatory Flexibility Act and the procedures and policies published on February 19, 2003. DOE certifies that this final rule would not have a significant economic impact on a substantial number of small entities. DOE notes that this final rule would merely define what constitutes a GSL and GSIL. Manufacturers of GSLs and GSILs are required to use DOE's test procedures to make representations and certify compliance with standards, if required. The test procedure rulemakings for CFLs, integrated LED lamps, and other GSLs addressed impacts on small businesses due to test procedure requirements. 81 FR 59386 (Aug. 29, 2016); 81 FR 43404 (July 1, 2016); 81 FR 72493 (Oct. 20, 2016). Hence DOE's lamp test proceduresâthose that are labeled as test procedures for GSLs, as well as those that are notâas a whole, cover all of the lamps that constitute GSLs in this final rule.</P>
+                <P>For this reason, DOE concludes and certifies that the definitions adopted in this final rule would not have a significant economic impact on a substantial number of small entities, and the preparation of a FRFA is not warranted.</P>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act</HD>
+                <P>Manufacturers of GSLs and GSILs must certify to DOE that their products comply with any applicable energy conservation standards. In certifying compliance, manufacturers must test their products according to the DOE test procedures for GSLs and GSILs, including any amendments adopted for those test procedures. DOE has established regulations for the certification and recordkeeping requirements for all covered consumer products and commercial equipment, including GSLs and GSILs. 76 FR 12422 (Mar. 7, 2011); 80 FR 5099 (Jan. 30, 2015). The collection-of-information requirement for the certification and recordkeeping is subject to review and approval by OMB under the Paperwork Reduction Act (âPRAâ). This requirement has been approved by OMB under OMB control number 1910-1400. Public reporting burden for the certification is estimated to average 35 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.</P>
+                <P>Notwithstanding any other provision of the law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the PRA, unless that collection of information displays a currently valid OMB Control Number.</P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    Pursuant to the National Environmental Policy Act (NEPA) of 1969, DOE has analyzed this proposed action in accordance with NEPA and DOE's NEPA implementing regulations (10 CFR part 1021). DOE has determined that this rule qualifies for categorical exclusion under 10 CFR part 1021, subpart D, appendix A5 because it is an interpretive rulemaking that does not change the environmental effect of the rule and meets the requirements for application of a CX. 
+                    <E T="03">See</E>
+                     10 CFR 1021.410. Therefore, DOE has determined that promulgation of this rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA, and does not require an EA or EIS.
+                </P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>E.O. 13132, âFederalism,â 64 FR 43255 (Aug. 10, 1999), imposes certain requirements on Federal agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735. DOE has examined this rule and has determined that it would not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. EPCA governs and prescribes Federal preemption of State regulations as to energy conservation for the products that are the subject of this final rule. States can petition DOE for exemption from such preemption to the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 6297) Therefore, no further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of E.O. 12988, âCivil Justice Reform,â imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity, (2) write regulations to minimize litigation, (3) provide a clear legal standard for affected conduct rather than a general standard, and (4) promote simplification and burden reduction. 61 FR 4729 (Feb. 7, 1996). Regarding the review required by section 3(a), section 3(b) of E.O. 12988 specifically requires that executive agencies make every reasonable effort to ensure that the regulation (1) clearly specifies the preemptive effect, if any, (2) clearly specifies any effect on existing Federal law or regulation, (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction, (4) specifies the retroactive effect, if any, (5) adequately defines key terms, and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of E.O. 12988 requires executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this final rule meets the relevant standards of E.O. 12988.</P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (âUMRAâ) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments and the private sector. Public Law  104-4, sec. 201 (codified at 2 U.S.C. 1531). For a regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that 
+                    <PRTPAGE P="27479"/>
+                    estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b)) Before promulgating a rule, for which a written statement is needed, Section 205 of UMRA generally requires a Federal agency to identify and consider a reasonable number of regulatory alternatives and adopt the least costly, most cost effective, or least burdensome alternative that achieves the objectives of the rule. Section 205 allows an agency to adopt an alternative that is not the least costly, most cost effective, or least burdensome alternative if the agency provides an explanation in the final rule of why such an alternative was adopted.
+                </P>
+                <P>
+                    The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a âsignificant intergovernmental mandate,â and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect them. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. 62 FR 12820. DOE's policy statement is also available at 
+                    <E T="03">www.energy.gov/sites/prod/files/gcprod/documents/umra_97.pdf</E>
+                    .
+                </P>
+                <P>This final rule does not require expenditures of $100 million or more in any one year by the private sector. The final rule is likely to result in expenditures of $100 million or more, but there is no requirement that mandates that result. DOE considered and evaluated regulatory alternatives before arriving at the definitions finalized today. These include selecting an effective date for the rule that gives manufacturers more time to find the necessary resources to comply. DOE uses a delayed effective date in this rule to minimize cost and burden to manufacturers of lamp types newly covered under the rule. DOE believes that today's final rule represents the least costly, most effective approach to achieving EPCA's goals of increasing the energy efficiency of covered products through the establishment and amendment of energy conservation standards and promoting conservation measures when feasible. The cost-benefit analysis required by UMRA is discussed in section III.H of this document and the TSD accompanying this rule.</P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>Pursuant to E.O. 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (March 18, 1988), DOE has determined that this rule would not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) provides for Federal agencies to review most disseminations of information to the public under information quality guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant to OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act (April 24, 2019), DOE published updated guidelines which are available at 
+                    <E T="03">www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf</E>
+                    . DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.
+                </P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>E.O. 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA at OMB, a Statement of Energy Effects for any significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule, and that (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use.</P>
+                <P>DOE has concluded that this regulatory action, which amends definitions for GSL and GSIL, is not a significant energy action because the amendments are not likely to have a significant adverse effect on the supply, distribution, or use of energy, nor has it been designated as such by the Administrator at OIRA. Accordingly, DOE has not prepared a Statement of Energy Effects on this final rule.</P>
+                <HD SOURCE="HD2">L. Review Under Section 32 of the Federal Energy Administration Act of 1974</HD>
+                <P>Under Section 301 of the Department of Energy Organization Act (Pub. L. 95-91; 42 U.S.C. 7101), DOE must comply with section 32 of the Federal Energy Administration Act of 1974, as amended by the Federal Energy Administration Authorization Act of 1977. 15 U.S.C. 788 (âFEAAâ). Section 32 essentially provides in relevant part that, where a final rule authorizes or requires use of commercial standards, the final rule must inform the public of the use and background of such standards. In addition, Section 32(c) requires DOE to consult with the Attorney General and the Chairman of the Federal Trade Commission (âFTCâ) concerning the impact of the commercial or industry standards on competition. This final rule to amend the definitions of GSL and GSIL does not adopt the use of any new commercial standards.</P>
+                <HD SOURCE="HD2">M. Description of Materials Incorporated by Reference</HD>
+                <P>The modifications to the definition of âgeneral service lamp,â âgeneral service incandescent lampâ and the associated supporting definitions reference the following commercial standards that are already incorporated by reference in 10 CFR 430.2:</P>
+                <P>(1) ANSI C78.20-2003, Revision of ANSI C78.20-1995 (âANSI C78.20â), American National Standard for electric lampsâA, G, PS, and Similar Shapes with E26 Medium Screw Bases, approved October 30, 2003.</P>
+                <P>
+                    (2) ANSI C79.1-2002, American National Standard for Electric Lampsâ
+                    <PRTPAGE P="27480"/>
+                    Nomenclature for Glass Bulbs Intended for Use with Electric Lamps, approved September 16, 2002.
+                </P>
+                <P>(3) CIE 13.3-1995 (âCIE 13.3â), Technical Report: Method of Measuring and Specifying Colour Rendering Properties of Light Sources, 1995, ISBN 3 900 734 57 7.</P>
+                <P>
+                    DOE has evaluated these standards and is unable to conclude whether they fully comply with the requirements of Section 32(b) of the FEAA (
+                    <E T="03">i.e.,</E>
+                     that they were developed in a manner that fully provides for public participation, comment, and review). DOE will consult with both the Attorney General and the Chairman of the FTC concerning the impact of these test procedures on competition, prior to adopting a final rule.
+                </P>
+                <HD SOURCE="HD2">N. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule prior to its effective date. The report will state that it has been determined that the rule is a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">V. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 430</HD>
+                    <P>Administrative practice and procedure, Confidential business information, Energy conservation, Household appliances, Imports, Incorporation by reference, Intergovernmental relations, Reporting and recordkeeping requirements, Small businesses.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on April 26, 2022, by Kelly J. Speakes-Backman, Principal Deputy Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on April 28, 2022.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons set forth in the preamble, DOE amends part 430 of chapter II of title 10 of the Code of Federal Regulations, as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 430âENERGY CONSERVATION PROGRAM FOR CONSUMER PRODUCTS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>1. The authority citation for part 430 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>42 U.S.C. 6291-6309; 28 U.S.C. 2461 note.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>2. Section 430.2 is amended by:</AMDPAR>
+                    <AMDPAR>a. Adding in alphabetical order the definitions of âBlack light lamp,â âBug lamp,â and âColored lamp,â;</AMDPAR>
+                    <AMDPAR>b. Revising the definitions of âDesigned and marketed,â and âGeneral service incandescent lamp,â;</AMDPAR>
+                    <AMDPAR>c. Adding in alphabetical order the definitions of âGeneral service light-emitting diode (LED) lampâ and âGeneral service organic light-emitting diode (OLED) lampâ;</AMDPAR>
+                    <AMDPAR>d. Revising the definition of âGeneral service lampâ; and</AMDPAR>
+                    <AMDPAR>e. Adding in alphabetical order the definitions of âInfrared lampâ, âIntegrated lampâ, âLED Downlight Retrofit Kitâ, âLeft-hand thread lampâ, âLight fixtureâ, âMarine lampâ, âMarine signal service lampâ, âMine service lampâ, âNon-integrated lampâ, âOther fluorescent lampâ, âPin base lampâ, âPlant light lampâ, âReflector lampâ, âShowcase lampâ, âSign service lampâ, âSilver bowl lampâ, âSpecialty MR lampâ, and âTraffic signal lampâ.</AMDPAR>
+                    <P>The additions and revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â430.2 </SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">Black light lamp</E>
+                             means a lamp that is designed and marketed as a black light lamp and is an ultraviolet lamp with the highest radiant power peaks in the UV-A band (315 to 400 nm) of the electromagnetic spectrum.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Bug lamp means</E>
+                             a lamp that is designed and marketed as a bug lamp, has radiant power peaks above 550 nm on the electromagnetic spectrum, and has a visible yellow coating.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Colored lamp</E>
+                             means a colored fluorescent lamp, a colored incandescent lamp, or a lamp designed and marketed as a colored lamp with either of the following characteristics (if multiple modes of operation are possible [such as variable CCT], either of the below characteristics must be maintained throughout all modes of operation):
+                        </P>
+                        <P>(1) A CRI less than 40, as determined according to the method set forth in CIE 13.3 (incorporated by reference; see Â§â430.3); or</P>
+                        <P>(2) A CCT less than 2,500 K or greater than 7,000 K.</P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Designed and marketed</E>
+                             means exclusively designed to fulfill the indicated application and, when distributed in commerce, designated and marketed solely for that application, with the designation prominently displayed on the packaging and all publicly available documents (
+                            <E T="03">e.g.,</E>
+                             product literature, catalogs, and packaging labels). This definition applies to the following covered lighting products: Fluorescent lamp ballasts; fluorescent lamps; general service fluorescent lamps; general service incandescent lamps; general service lamps; incandescent lamps; incandescent reflector lamps; compact fluorescent lamps (including medium base compact fluorescent lamps); LED lamps; and specialty application mercury vapor lamp ballasts.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">General service incandescent lamp</E>
+                             means a standard incandescent or halogen type lamp that is intended for general service applications; has a medium screw base; has a lumen range of not less than 310 lumens and not more than 2,600 lumens or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens; and is capable of being operated at a voltage range at least partially within 110 and 130 volts; however, this definition does not apply to the following incandescent lampsâ
+                        </P>
+                        <P>(1) An appliance lamp;</P>
+                        <P>(2) A black light lamp;</P>
+                        <P>(3) A bug lamp;</P>
+                        <P>(4) A colored lamp;</P>
+                        <P>(5) A G shape lamp with a diameter of 5 inches or more as defined in ANSI C79.1-2002 (incorporated by reference; see Â§â430.3);</P>
+                        <P>(6) An infrared lamp;</P>
+                        <P>(7) A left-hand thread lamp;</P>
+                        <P>(8) A marine lamp;</P>
+                        <P>(9) A marine signal service lamp;</P>
+                        <P>(10) A mine service lamp;</P>
+                        <P>(11) A plant light lamp;</P>
+                        <P>(12) An R20 short lamp;</P>
+                        <P>(13) A sign service lamp;</P>
+                        <P>(14) A silver bowl lamp;</P>
+                        <P>(15) A showcase lamp; and</P>
+                        <P>(16) A traffic signal lamp.</P>
+                        <P>
+                            <E T="03">General service lamp</E>
+                             means a lamp that has an ANSI base; is able to operate 
+                            <PRTPAGE P="27481"/>
+                            at a voltage of 12 volts or 24 volts, at or between 100 to 130 volts, at or between 220 to 240 volts, or of 277 volts for integrated lamps (as defined in this section), or is able to operate at any voltage for non-integrated lamps (as defined in this section); has an initial lumen output of greater than or equal to 310 lumens (or 232 lumens for modified spectrum general service incandescent lamps) and less than or equal to 3,300 lumens; is not a light fixture; is not an LED downlight retrofit kit; and is used in general lighting applications. General service lamps include, but are not limited to, general service incandescent lamps, compact fluorescent lamps, general service light-emitting diode lamps, and general service organic light emitting diode lamps. General service lamps do not include:
+                        </P>
+                        <P>(1) Appliance lamps;</P>
+                        <P>(2) Black light lamps;</P>
+                        <P>(3) Bug lamps;</P>
+                        <P>(4) Colored lamps;</P>
+                        <P>(5) G shape lamps with a diameter of 5 inches or more as defined in ANSI C79.1-2002 (incorporated by reference; see Â§â430.3);</P>
+                        <P>(6) General service fluorescent lamps;</P>
+                        <P>(7) High intensity discharge lamps;</P>
+                        <P>(8) Infrared lamps;</P>
+                        <P>(9) J, JC, JCD, JCS, JCV, JCX, JD, JS, and JT shape lamps that do not have Edison screw bases;</P>
+                        <P>(10) Lamps that have a wedge base or prefocus base;</P>
+                        <P>(11) Left-hand thread lamps;</P>
+                        <P>(12) Marine lamps;</P>
+                        <P>(13) Marine signal service lamps;</P>
+                        <P>(14) Mine service lamps;</P>
+                        <P>(15) MR shape lamps that have a first number symbol equal to 16 (diameter equal to 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see Â§â430.3), operate at 12 volts, and have a lumen output greater than or equal to 800;</P>
+                        <P>(16) Other fluorescent lamps;</P>
+                        <P>(17) Plant light lamps;</P>
+                        <P>(18) R20 short lamps;</P>
+                        <P>(19) Reflector lamps (as defined in this section) that have a first number symbol less than 16 (diameter less than 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see Â§â430.3) and that do not have E26/E24, E26d, E26/50x39, E26/53x39, E29/28, E29/53x39, E39, E39d, EP39, or EX39 bases;</P>
+                        <P>(20) S shape or G shape lamps that have a first number symbol less than or equal to 12.5 (diameter less than or equal to 1.5625 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see Â§â430.3);</P>
+                        <P>(21) Sign service lamps;</P>
+                        <P>(22) Silver bowl lamps;</P>
+                        <P>(23) Showcase lamps;</P>
+                        <P>(24) Specialty MR lamps;</P>
+                        <P>(25) T shape lamps that have a first number symbol less than or equal to 8 (diameter less than or equal to 1 inch) as defined in ANSI C79.1-2002 (incorporated by reference; see Â§â430.3), nominal overall length less than 12 inches, and that are not compact fluorescent lamps (as defined in this section);</P>
+                        <P>(26) Traffic signal lamps.</P>
+                        <P>
+                            <E T="03">General service light-emitting diode (LED) lamp</E>
+                             means an integrated or non-integrated LED lamp designed for use in general lighting applications (as defined in this section) and that uses light-emitting diodes as the primary source of light.
+                        </P>
+                        <P>
+                            <E T="03">General service organic light-emitting diode (OLED) lamp</E>
+                             means an integrated or non- integrated OLED lamp designed for use in general lighting applications (as defined in this section) and that uses organic light-emitting diodes as the primary source of light.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Infrared lamp</E>
+                             means a lamp that is designed and marketed as an infrared lamp; has its highest radiant power peaks in the infrared region of the electromagnetic spectrum (770 nm to 1 mm); has a rated wattage of 125 watts or greater; and which has a primary purpose of providing heat.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Integrated lamp</E>
+                             means a lamp that contains all components necessary for the starting and stable operation of the lamp, does not include any replaceable or interchangeable parts, and is connected directly to a branch circuit through an ANSI base and corresponding ANSI standard lamp-holder (socket).
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">LED Downlight Retrofit Kit</E>
+                             means a product designed and marketed to install into an existing downlight, replacing the existing light source and related electrical components, typically employing an ANSI standard lamp base, either integrated or connected to the downlight retrofit by wire leads, and is a retrofit kit. LED downlight retrofit kit does not include integrated lamps or non-integrated lamps.
+                        </P>
+                        <P>
+                            <E T="03">Left-hand thread lamp</E>
+                             means a lamp with direction of threads on the lamp base oriented in the left-hand direction.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Light fixture</E>
+                             means a complete lighting unit consisting of light source(s) and ballast(s) or driver(s) (when applicable) together with the parts designed to distribute the light, to position and protect the light source, and to connect the light source(s) to the power supply.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Marine lamp</E>
+                             means a lamp that is designed and marketed for use on boats and can operate at or between 12 volts and 13.5 volts.
+                        </P>
+                        <P>
+                            <E T="03">Marine signal service lamp</E>
+                             means a lamp that is designed and marketed for marine signal service applications.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Mine service lamp</E>
+                             means a lamp that is designed and marketed for mine service applications.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Non-integrated lamp</E>
+                             means a lamp that is not an integrated lamp.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Other fluorescent lamp</E>
+                             means low pressure mercury electric-discharge sources in which a fluorescing coating transforms some of the ultraviolet energy generated by the mercury discharge into light and include circline lamps and include double-ended lamps with the following characteristics: Lengths from one to eight feet; designed for cold temperature applications; designed for use in reprographic equipment; designed to produce radiation in the ultraviolet region of the spectrum; impact-resistant; reflectorized or aperture; or a CRI of 87 or greater.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Pin base lamp</E>
+                             means a lamp that uses a base type designated as a single pin base or multiple pin base system.
+                        </P>
+                        <P>
+                            <E T="03">Plant light lamp</E>
+                             means a lamp that is designed to promote plant growth by emitting its highest radiant power peaks in the regions of the electromagnetic spectrum that promote photosynthesis: Blue (440 nm to 490 nm) and/or red (620 to 740 nm), and is designed and marketed for plant growing applications.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Reflector lamp</E>
+                             means a lamp that has an R, PAR, BPAR, BR, ER, MR, or similar bulb shape as defined in ANSI C78.20-2003 (incorporated by reference; see Â§â430.3) and ANSI C79.1-2002 (incorporated by reference; see Â§â430.3) and is used to provide directional light.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Showcase lamp</E>
+                             means a lamp that has a T shape as specified in ANSI C78.20-2003 (incorporated by reference; see Â§â430.3) and ANSI C79.1-2002 (incorporated by reference; see Â§â430.3), is designed and marketed as a showcase lamp, and has a maximum rated wattage of 75 watts.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Sign service lamp</E>
+                             means a vacuum type or gas-filled lamp that has sufficiently low bulb temperature to 
+                            <PRTPAGE P="27482"/>
+                            permit exposed outdoor use on high-speed flashing circuits, is designed and marketed as a sign service lamp, and has a maximum rated wattage of 15 watts. Silver bowl lamp means a lamp that has an opaque reflective coating applied directly to part of the bulb surface that reflects light toward the lamp base and that is designed and marketed as a silver bowl lamp.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Specialty MR lamp</E>
+                             means a lamp that has an MR shape as defined in ANSI C79.1-2002 (incorporated by reference; see Â§â430.3), a diameter of less than or equal to 2.25 inches, a lifetime of less than or equal to 300 hours, and that is designed and marketed for a specialty application.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Traffic signal lamp</E>
+                             means a lamp that is designed and marketed for traffic signal applications and has a lifetime of 8,000 hours or greater.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2022-09480 Filed 5-6-22; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

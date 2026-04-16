@@ -1,0 +1,906 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="864"/>
+                <AGENCY TYPE="N">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 612</CFR>
+                <RIN>RIN 1901-AB57</RIN>
+                <SUBJECT>Civil Nuclear Credit Program and Recapture of Credits</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Grid Deployment Office, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Interim final rule and request for comment.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Department of Energy (DOE or the Department) publishes this interim final rule to establish the procedure for the recapture of credits awarded under the Civil Nuclear Credit Program in accordance with the Infrastructure Investment and Jobs Act.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective on January 8, 2024. Written comments must be received by February 7, 2024.</P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Mr. Theodore Taylor, Civil Nuclear Credit Program Manager, U.S. Department of Energy, Office of Nuclear Energy, 1000 Independence Avenue SW, Washington, DC 20585, (240) 477-0458, 
+                        <E T="03">CNC_Program_Mailbox@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        DOE encourages submission of comments electronically through the Federal eRulemaking Portal: 
+                        <E T="03">www.regulations.gov.</E>
+                         Follow the instructions for submitting comments. Alternatively, interested persons may submit hard copy written comments (preferably an original and two copies), identified by RIN 1901-AB57, by postal mail to the Grid Deployment Office, Civil Nuclear Credit Program, Attention: Mr. Theodore Taylor, Department of Energy, 1000 Independence Avenue SW, Washington, DC 20585. Because postal mail may be subject to processing delay, it is recommended that comments be submitted electronically. All comments should be captioned with âCivil Nuclear Credit Program and Recapture of Credits Interim Final Rule Comments.â Please include your name, organization affiliation, address, email address and telephone number in your comment. In general, comments received will be posted on 
+                        <E T="03">www.regulations.gov</E>
+                         without change, including any business or personal information provided. Comments received, including attachments and other supporting materials, will be part of the public record and subject to public disclosure. Do not enclose any information in your comment or supporting materials that you consider confidential or inappropriate for public disclosure.
+                    </P>
+                </ADD>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Summary of the Interim Final Rule</FP>
+                    <FP SOURCE="FP-2">II. Authority and Background</FP>
+                    <FP SOURCE="FP1-2">A. The Statute</FP>
+                    <FP SOURCE="FP1-2">B. Recapture of Credits</FP>
+                    <FP SOURCE="FP1-2">C. CNC Guidance</FP>
+                    <FP SOURCE="FP-2">III. Notice of Intent and Request for Information</FP>
+                    <FP SOURCE="FP1-2">A. Request for Information</FP>
+                    <FP SOURCE="FP1-2">B. Comments on Recapture and Annual Adjustment</FP>
+                    <FP SOURCE="FP1-2">1. Scope of Recapture Regulation</FP>
+                    <FP SOURCE="FP1-2">2. Inclusion in the CNC Program of an Annual Adjustment Mechanism</FP>
+                    <FP SOURCE="FP1-2">3. Relationship of Annual Adjustment Mechanism and Recapture Regulation</FP>
+                    <FP SOURCE="FP-2">IV. Section by Section Analysis of the Interim Final Rule</FP>
+                    <FP SOURCE="FP1-2">A. Purpose, Applicability, and Definitions</FP>
+                    <FP SOURCE="FP1-2">B. Recapture</FP>
+                    <FP SOURCE="FP1-2">C. Notice and Reconsideration of Recapture Determination</FP>
+                    <FP SOURCE="FP1-2">D. Petition to the Department's Office of Hearings and Appeals</FP>
+                    <FP SOURCE="FP-2">V. Interim Final Rulemaking</FP>
+                    <FP SOURCE="FP-2">VI. Procedural Requirements</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Orders 12866, 13563, and 14094</FP>
+                    <FP SOURCE="FP1-2">B. Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">C. Administrative Procedure Act</FP>
+                    <FP SOURCE="FP1-2">D. National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">F. Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">G. Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">H. Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">I. Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">J. Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VII. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Summary of the Interim Final Rule</HD>
+                <P>Section 40323 of the Infrastructure Investment and Jobs Act (IIJA) (Pub. L. 117-58), codified at 42 U.S.C. 18753, also known as the Bipartisan Infrastructure Law, directs the Department to establish the Civil Nuclear Credit Program (CNC Program) to prevent premature closures of nuclear power plants by providing financial support for existing nuclear reactors projected to cease operations due to economic factors.</P>
+                <P>The IIJA also directs the Department to promulgate a regulation to provide for the recapture of credits awarded to a nuclear reactor if either (a) the nuclear reactor terminates operations during the 4-year award period or (b) the nuclear reactor does not operate at an annual loss in the absence of an allocation of credits. The purpose of this interim final rule is to establish the procedure for the recapture of credits for the first 4-year award period, for which applications were due September 6, 2022. While the elements of the CNC Program are broadly described below, this interim final rule itself is limited to the narrow circumstance where a certified nuclear reactor has met the criteria for the recapture of credits. The rule provides a mechanism for the Department to enforce the obligation of the nuclear reactor to continue operation during the 4-year award period and to relinquish its rights to credits if the nuclear reactor is not operating at a loss in the absence of the credits. To minimize the likelihood for the need to recapture credits under the rule, the Department has included in the CNC Program an audit and annual payment adjustment mechanism at the end of each award year during the 4-year award period to evaluate the financial results of operation for that year and to adjust payment of credits based on that evaluation. The recapture regulation ensures that a reactor cannot retain the value of credits if, despite the annual adjustment, the nuclear reactor would not have operated at an annual loss in the absence of an allocation of credits over the 4-year award period or if the nuclear reactor terminates operations despite its contractual obligation to operate for the entire 4-year award period.</P>
+                <HD SOURCE="HD1">II. Authority and Background</HD>
+                <HD SOURCE="HD2">A. The Statute</HD>
+                <P>
+                    Section 40323 of the IIJA directs the Department to establish the CNC Program to provide financial support for existing nuclear reactors projected to cease operations due to economic factors in the form of credits to be awarded for a 4-year award period. The IIJA appropriates $6 billion for the CNC Program. The CNC Program will make meaningful progress towards a carbon pollution-free electricity sector by 2035, help âdeliver an equitable, clean energy future, and put the United States on a path to achieve net-zero emissions, economy-wide, by no later than 2050 to the benefit of all Americans.ââ
+                    <SU>1</SU>
+                    <FTREF/>
+                     In addition, the CNC Programâby preventing shutdown of the existing nuclear fleetâallows the bulk power system to retain firm, reliable capacity that is urgently needed in the face of extreme weather and drought.
+                    <SU>2</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âExecutive Order 14008, âTackling the Climate Crisis at Home and Abroad,â January 27, 2021.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âNorth American Electric Reliability Corporation, 2022 Summer Reliability Assessment at 4 (May 2022), 
+                        <E T="03">https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA_2022.pdf.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Recapture of Credits</HD>
+                <P>
+                    Section 40323(g)(2) of the IIJA requires that the Secretary, âby regulation, provide for the recapture of the allocation of any credit to a certified 
+                    <PRTPAGE P="865"/>
+                    nuclear reactor that during [the 4-year award period]â(A) terminates operations; or (B) does not operate at an annual loss in the absence of an allocation of credits to the certified nuclear reactor.ââ
+                    <SU>3</SU>
+                    <FTREF/>
+                     This interim final rule establishes the procedure for the recapture of credits in accordance with that requirement. This interim final rule relates only to the recapture provision. No other provision of the CNC Program is subject to implementation by regulation.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âIIJA section 40323(g)(2).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">C. CNC Guidance</HD>
+                <P>
+                    The IIJA directed the Secretary to establish the CNC Program.
+                    <SU>4</SU>
+                    <FTREF/>
+                     In order to meet this direction, the Department on April 19, 2022, issued Guidance for the Civil Nuclear Credit Program and issued Amended Guidance on June 30, 2022 (the initial Guidance as revised by the Amended Guidance, including each of the attachments thereto, is referred to herein as the Guidance).
+                    <SU>5</SU>
+                    <FTREF/>
+                     The Guidance describes the timelines, deliverables, and other requirements for owners or operators of nuclear reactors that are projected to cease operations due to economic factors to submit certification applications to become certified nuclear reactors, and instructions on formulating and submitting sealed bids to receive credit allocations. The Guidance is applicable to the first in a series of annual award cycles that the Department will conduct to implement the CNC Program. The deadline for the first award period certification applications and bid submissions was September 6, 2022. The Department intends to issue updated Guidance for each subsequent award period. The Department may enter into a binding agreement establishing the terms of the award and payment of credits with each owner or operator whose application is certified and whose bid is accepted by the Department (referred to herein as the Award Agreement).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âIIJA section 40323(b).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        â
+                        <E T="03">Notice of Availability of Guidance for the First Award Period of the Civil Nuclear Credit Program,</E>
+                         87 FR 24291 (April 25, 2022). The Guidance, including both the initial Guidance and the Amended Guidance, is posted at 
+                        <E T="03">https://www.energy.gov/ne/civil-nuclear-credit-program.</E>
+                         Citations herein to specific pages of the Guidance refer to the Amended Guidance available at 
+                        <E T="03">Microsoft WordâUS DOE CNC Guidance-Revision 1-June 2022 (energy.gov).</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">III. Notice of Intent and Request for Information</HD>
+                <HD SOURCE="HD2">A. Request for Information</HD>
+                <P>
+                    On February 15, 2022, the Department published a 
+                    <E T="03">Notice of Intent and Request for Information Regarding Establishment of a Civil Nuclear Credit Program</E>
+                     (RFI).
+                    <SU>6</SU>
+                    <FTREF/>
+                     The RFI explained DOE's proposed structure of the CNC Program and included a description of the subjects and the issues relevant to the recapture requirement. The RFI described the requirement in the IIJA that DOE provide for recapture of allocated credits if the nuclear reactor terminated operations or if it did ânot operate at an annual loss in the absence of an allocation of credits.ââ
+                    <SU>7</SU>
+                    <FTREF/>
+                     As the Department explained, it proposed to include an annual settlement mechanism through which the value of a reactor's credit allocation would be adjusted if actual economic performance varies from projections underlying the credits awarded.
+                    <SU>8</SU>
+                    <FTREF/>
+                     The Department anticipated that an annual adjustment mechanism would reduce the need for recapture by ensuring that the annual payout of credits would track the actual operating loss of the nuclear reactor, subject to a cap on annual value of credits established at the time of award.
+                    <SU>9</SU>
+                    <FTREF/>
+                     The Department recognized that the recapture of credits would nevertheless be required â[i]f an adjustment to allocated credits [pursuant to the annual adjustment process] is not possible despite material changes in economic performance, or if the reactor terminates operations.ââ
+                    <SU>10</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        â87 FR 8570 (Feb. 15, 2022).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 87 FR 8572.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    The RFI requested interested persons to provide feedback on the elements of the CNC Program, including recapture, and propounded specific questions on the conduct of periodic audits and the annual resetting of the value of credits to be paid out based on actual revenues.
+                    <SU>11</SU>
+                    <FTREF/>
+                     More than 120 responses were received representing a broad array of interests and viewpoints, including from individuals, Federal elected officials, State public utility commissions and other State officials, trade associations, owners and operators of nuclear generators, uranium suppliers, and a number of public interest groups.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 87 FR 8572 and 8574.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Comments on Recapture and Annual Adjustment</HD>
+                <P>
+                    Discussed underneath are comments received in response to the RFI related to the recapture of credits that is the subject of this interim final rule.
+                    <SU>12</SU>
+                    <FTREF/>
+                     Although Congress directed the Department to adopt a regulation only with respect to the recapture provision, the Department is also addressing comments on the annual adjustment mechanism and certain other terms identified in the RFI to the extent those provisions may be relevant to operation of the recapture mechanism.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âAll comments are available at 
+                        <E T="03">www.regulations.gov.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">1. Scope of Recapture in Regulation</HD>
+                <HD SOURCE="HD3">(a) Comments Received</HD>
+                <P>
+                    The Department received a number of comments on the recapture provision in response to the RFI. Some parties suggested that the scope of the recapture provision should be expanded to mandate recapture for circumstances in addition to nuclear reactor termination of operations and failure to operate at an annual loss in the absence of an allocation of credits. Nuclear Information and Resource Service (NIRS) recommended that the Department âinclude a provision to recapture credits if the Nuclear Regulatory Commission (NRC), at a later date, finds violations or safety performance problems that would have caused the reactorâ to fail to meet the certification criteria related to safety.
+                    <SU>13</SU>
+                    <FTREF/>
+                     The Green Scissors coalition made a similar recommendation, suggesting that the Department âreview any violations and safety performance findings issued by the Nuclear Regulatory Commission . . . , and determine if the award should be discontinued and if any amounts must be recaptured.ââ
+                    <SU>14</SU>
+                    <FTREF/>
+                     Ur-Energy USA Inc. (Ur-Energy) opposed the use of recapture (as well as any annual adjustment) because the â[f]ailure to make a fixed 4-year commitment will introduce risk to the utilities and undermine the Department's intentions.ââ
+                    <SU>15</SU>
+                    <FTREF/>
+                     Energy Harbor Corp. (Energy Harbor) recommended that the Department clarify that recapture for termination of operations only apply if that termination occurs during the 4-year allocation period.
+                    <SU>16</SU>
+                    <FTREF/>
+                     Energy Harbor also stated that recapture should not occur as a result of change in operating results from the projections used in the nuclear reactor's application for credits.
+                    <SU>17</SU>
+                    <FTREF/>
+                     However, Energy Harbor continued, if recapture is used for circumstances other than closure, the Department should include âan appeals process for certified nuclear reactors to challenge the recapture of their credits.ââ
+                    <SU>18</SU>
+                    <FTREF/>
+                     Constellation Energy Corporation (Constellation) stated that â[t]he recapture process must be known before 
+                    <PRTPAGE P="866"/>
+                    credits are allocated in order for nuclear owners to be able to properly evaluate whether or not to accept the credits.ââ
+                    <SU>19</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âNIRS at 6.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âGreen Scissors Comments at 2.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âUr-Energy comments at 2.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âEnergy Harbor Comments at 19.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âEnergy Harbor Comments at 19.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âEnergy Harbor Comments at 19-20.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âConstellation Comments at 6.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">(b) The Department's Response</HD>
+                <P>The statute expressly requires recapture both for termination of operations and for failure to operate at an annual loss in the absence of an allocation of credits. The recapture regulation satisfies this requirement. The Department has not included an additional recapture trigger for violations or safety findings under the nuclear reactor's NRC license. While adherence by nuclear reactors to the highest safety standards is critically important, the NRC possesses adequate tools to enforce its safety requirements and address violations. If the nuclear reactor is subsequently required to expend incremental funds to remedy a safety condition or pay a fine, it will not be entitled to reflect those additional costs in the calculation of credits because each nuclear reactor's credit amount is capped at the value of credits awarded in the auction. The Department has included in the recapture regulation a notice provision and a process to request reconsideration of a recapture determination. The recapture regulation also allows an owner or operator of a nuclear reactor that is aggrieved by a decision on reconsideration to petition the Department's Office of Hearings and Appeals for review of that decision.</P>
+                <HD SOURCE="HD3">2. Inclusion in the CNC Program of an Annual Adjustment Mechanism</HD>
+                <HD SOURCE="HD3">(a) Comments Received</HD>
+                <P>
+                    In response to the RFI, the Department received numerous comments on the use of an annual adjustment mechanism. Generation Atomic stated that the use of an annual adjustment mechanism is not appropriate because it is not included in the text of the IIJA, âor even hinted at,â and the only measure for adjustment of credit that has been authorized by Congress is the recapture mechanism at the end of the 4-year award period.
+                    <SU>20</SU>
+                    <FTREF/>
+                     This commenter identified the adjustment mechanisms as being âseveral orders of magnitude much more complicated than Congress intendedâ and that as a result âcash flows will become far less predictableâ and impair the ability of nuclear reactor to plan effectively for upgrades.
+                    <SU>21</SU>
+                    <FTREF/>
+                     Energy Harbor did not support the use of an annual adjustment but instead recommended a recapture mechanism that uses a three-year rolling average of the forward prices from the closest trading hub adjusted on an annual basis to determine if recapture is necessary.
+                    <SU>22</SU>
+                    <FTREF/>
+                     Energy Harbor also noted that each specific nuclear reactor may have âa specific contractual agreement which would make the standardized market price assumption inaccurate,â in which case the nuclear reactor âshould be able to request an exception from the standardized market price.ââ
+                    <SU>23</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âGeneration Atomic Comments at 4.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âGeneration Atomic Comments at 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        âEnergy Harbor Comments at 9.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âEnergy Harbor Comments at 10.
+                    </P>
+                </FTNT>
+                <P>
+                    Monitoring Analytics, Inc. (Monitoring Analytics) supported use of an annual adjustment of the credit amount but argued that the adjustment should be calculated annually in advance, rather than after the conclusion of the award year. It recommended that a strike price based on known forward prices should be defined annually for the following year and that strike price would set the nuclear reactor's credit level for the following year.
+                    <SU>24</SU>
+                    <FTREF/>
+                     Monitoring Analytics reasoned that an indexing mechanism like this âwould reduce the need for after the fact recapture provisions.ââ
+                    <SU>25</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âMonitoring Analytics Comments at 15.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        âMonitoring Analytics Comments at 14-15.
+                    </P>
+                </FTNT>
+                <P>
+                    Other commenters supported the use of an annual adjustment conducted at the conclusion of an award year as proposed in the RFI. For example, Constellation observed that â[t]he DOE proposal of a credit price adjustment based on relevant market price indices is a simple and transparent mechanism which ensures fair after-the-fact treatment of both suppliers and taxpayers.ââ
+                    <SU>26</SU>
+                    <FTREF/>
+                     The Electric Power Supply Association (EPSA) stated that an annual adjustment mechanism should be employed and that if the nuclear reactor âdoes not operate at an annual loss in the absence of a CNC credit, those funds must be recaptured by DOE.ââ
+                    <SU>27</SU>
+                    <FTREF/>
+                     NRG Energy, Inc. (NRG Energy) recommended that the Department perform an annual calculation based on the reactor's actual revenue, costs, and losses, âin comparison to and in substantially the same form as the base projectionâ on which the award was based to measure actual loss and pay out credits.
+                    <SU>28</SU>
+                    <FTREF/>
+                     The Union of Concerned Scientists (UCS) supported an annual adjustment mechanism, pointing out that an adjustment or indexing mechanism can âaccount for the inherent uncertainties and rapidly changing market conditions that are often difficult to accurately project,â as well as âensure that taxpayer dollars are spent wisely and achieve important economic and emission reduction benefits.ââ
+                    <SU>29</SU>
+                    <FTREF/>
+                     However, UCS noted that potential disadvantages of an annual adjustment or indexing mechanism are that it may complicate program administration and deter nuclear reactor participation.
+                    <SU>30</SU>
+                    <FTREF/>
+                     The Clean Air Task Force (CATF) explained that âa true-up mechanisms based on transparent and verifiable indicators of revenues actually realized (
+                    <E T="03">i.e.,</E>
+                     MWh produced and RTO settlements), relative to the avoided cost threshold for retirement, could result in no more risk for the reactor and more credits available for the CNC program.ââ
+                    <SU>31</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        âConstellation Comments at 6.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        âEPSA Comments at 13.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        âNRG Energy Comments at 4.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>29</SU>
+                        âUCS Comments at 10.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>30</SU>
+                        âUCS Comments at 10.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>31</SU>
+                        âCATF Comments at 13.
+                    </P>
+                </FTNT>
+                <P>
+                    Comments diverged over whether the Department should adjust awarded credits based on an index established by the Department or an index selected by the nuclear reactor, or some other factor. As noted in the preceding paragraph, NRG Energy recommended that the annual adjustment be based on actual revenue and other results of operation of the nuclear reactor. EPSA opposed the use of an index, arguing that the IIJA requires that nuclear reactors awarded credits must âdemonstrate on an annual basis that they did or did not operate at an annual loss in the absence of CNC credits.ââ
+                    <SU>32</SU>
+                    <FTREF/>
+                     Epoch Energy Advisory Services, LLC (Epoch Energy) observed that the Department âshould avoid the credit from creating windfalls for reactors should market prices turn out to be high.ââ
+                    <SU>33</SU>
+                    <FTREF/>
+                     To avoid this outcome, Epoch Energy proposed a true-up mechanism based on actual market prices.
+                    <SU>34</SU>
+                    <FTREF/>
+                     Dominion Energy Nuclear Connecticut, Inc. (Dominion) stated that the Department should not use an indexing mechanism, because an index âdoes not accurately reflect the actual revenues earned by a unitâ through forward contracts and other hedging measures.
+                    <SU>35</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>32</SU>
+                        âEPSA Comments at 13.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>33</SU>
+                        âEpoch Energy Comments at 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>34</SU>
+                        âEpoch Energy Comments at 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>35</SU>
+                        âDominion Comments at 4-5.
+                    </P>
+                </FTNT>
+                <P>
+                    The Nuclear Energy Institute (NEI) supported the use of an index at the option of a reactor but observed that â[t]here can be a significant disconnect between a real-time or day-ahead locational marginal pricing and the actual sales at a plant . . . . If DOE were to require the award to adjust in reaction to short-term market prices, there is a risk that the expectations formed from those prices may not actually be reflected in the realized 
+                    <PRTPAGE P="867"/>
+                    revenue at the reactor.ââ
+                    <SU>36</SU>
+                    <FTREF/>
+                     PSEG Nuclear LLC (PSEG) supported the use of an annual adjustment based on an indexing mechanism, but emphasized that each nuclear reactor should be allowed to select its own index mechanism that reflects its geographic and market location and that accounts for the nuclear reactor's forward sales and hedges.
+                    <SU>37</SU>
+                    <FTREF/>
+                     PSEG stated that if an adjustment mechanism is used, the Department should not place a ceiling on an upwards adjustment.
+                    <SU>38</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>36</SU>
+                        âNEI Comments at 13.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>37</SU>
+                        âPSEG Comments at 14, 24-25.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>38</SU>
+                        âPSEG Comments at 15.
+                    </P>
+                </FTNT>
+                <P>
+                    UCS supported the use of an annual adjustment, settlement and index mechanism, depending on design,
+                    <SU>39</SU>
+                    <FTREF/>
+                     and supported âa ceiling on the adjusted credit value to ensure that DOE does not owe more money than is available each year.ââ
+                    <SU>40</SU>
+                    <FTREF/>
+                     CATF stated that the adjustment to the credits must not exceed the level of the nuclear reactor's bid, which bid itself is limited by the IIJA to not exceed the projected operating loss.
+                    <SU>41</SU>
+                    <FTREF/>
+                     EPSA stated that if economic conditions change materially during the 4-year award period such that the nuclear reactor's losses exceed the credits awarded, the nuclear reactor should be required to submit a revised bid for CNC credits in a re-certification process, rather than have its credits increased as part of the annual adjustment.
+                    <SU>42</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>39</SU>
+                        âUCS Comments at 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>40</SU>
+                        âUCS Comments at 10.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>41</SU>
+                        âCATF Comments at 13.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>42</SU>
+                        âEPSA Comments at 13.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">(b) The Department's Response</HD>
+                <P>
+                    As explained in the Guidance, an owner or operator of a nuclear reactor that is awarded credits must file an annual report to receive payment of credits and the Department will audit the reported information.
+                    <SU>43</SU>
+                    <FTREF/>
+                     The value of credits paid to an owner or operator each year will be adjusted based on the annual adjustment analysis conducted as part of the annual review.
+                    <SU>44</SU>
+                    <FTREF/>
+                     The IIJA does not specify the intervals at which credits will be paid to the owner or operator or the conditions that the Department may establish to determine the amount to be paid but does direct the Secretary to periodically audit the certified nuclear reactor during the award period. The Department believes that an annual payment process is sufficient to provide timely payment to nuclear reactors for credits awarded. Furthermore, adjusting the payment based on an annual audit following the conclusion of the award year ensures that the payment is properly determined. The annual calculation will compare actual revenues in certain identified categories to forecasted revenues for those categories and actual costs in certain identified categories to forecasted costs for those categories as used to determine the value of credits that were awarded. The Department concluded that using actual data in these categories (rather than indices or industry averages) accurately reflects the financial results of the nuclear reactor and the owner or operator, and at the same time is administratively straightforward and auditable. Other elements of the nuclear reactor's costs, including the cost of operational and market risks, will be held constant in the annual adjustment calculation. As required by the IIJA, the credits awarded represent the ceiling on the annual payment that the nuclear reactor may receive, but the value of the credits can be reduced or eliminated based on actual financial results as set forth in the Award Agreement. This mechanism ensures taxpayer funds are expended only to the extent that the owner or operator would have experienced an annual loss in the absence of those credits.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>43</SU>
+                        âGuidance at 35.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>44</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 34-35.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">3. Relationship of Annual Adjustment Mechanism and Recapture Regulation</HD>
+                <HD SOURCE="HD3">(a) Comments Received</HD>
+                <P>
+                    Commenters recognized the importance of the recapture provision working in concert with the audit and annual adjustment mechanism and other related terms of the CNC Program. NEI cautioned that the goal of the recapture procedure to ensure the effective use of taxpayer money âmust be balanced against the policy objective Congress sought to achieveâ to support economically at-risk nuclear reactors.
+                    <SU>45</SU>
+                    <FTREF/>
+                     NEI worried that â[a]n overly burdensome recapture provision risks unintended consequences that undermine the intent of Congress,â and could cause a nuclear reactor to cease operations rather than participate in the CNC program.
+                    <SU>46</SU>
+                    <FTREF/>
+                     The United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry of the United States and Canada, AFL-CIO (UA) stated that the Department âmust take care when implementing the CNC Program that operation of this recapture provision is not overly burdensome such that financially struggling reactors are discouraged from participating.ââ
+                    <SU>47</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>45</SU>
+                        âNEI Comments at 7.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>46</SU>
+                        âNEI Comments at 7.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>47</SU>
+                        âUA Comments at 6.
+                    </P>
+                </FTNT>
+                <P>
+                    NEI also stated that the Department should ensure consistency between the recapture regulations and the other established elements of the CNC Program.
+                    <SU>48</SU>
+                    <FTREF/>
+                     For example, NEI explained, operational and market risks that the IIJA explicitly directs be included in the calculation of the credits awarded should also be included in the recapture calculation.
+                    <SU>49</SU>
+                    <FTREF/>
+                     PSEG and Constellation similarly noted that risks incorporated in the calculations supporting the award of credits should be included in the annual adjustment and the recapture analysis.
+                    <SU>50</SU>
+                    <FTREF/>
+                     Constellation stated that if the recapture mechanism is âsubstantially different from the proposed annual adjustment, it is likely to create a significant deterrent to participation and undermine the intent of the program.ââ
+                    <SU>51</SU>
+                    <FTREF/>
+                     UCS noted that an adjustment mechanism âcould interact directly with the recapture provision,â such that a reduction in credits based on changes in revenues would reduce the credits to be recaptured.
+                    <SU>52</SU>
+                    <FTREF/>
+                     NRG Energy observed that by paying credits based only on actual losses determined after each award year, the need for recapture at the conclusion of the 4-year award period would be eliminated.
+                    <SU>53</SU>
+                    <FTREF/>
+                     PSEG suggested that âany recapture analysis evaluate a reactor's economic position over the full period of the CNC Program, and not on a year-by-year basis.ââ
+                    <SU>54</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>48</SU>
+                        âNEI Comments at 12.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>49</SU>
+                        âNEI Comments at 12.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>50</SU>
+                        âPSEG Comments at 21-22; Constellation Comments at 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>51</SU>
+                        âConstellation Comments at 6.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>52</SU>
+                        âUCS Comments at 10. UCS framed this outcome based on the use of an index in performing the annual adjustment calculation.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>53</SU>
+                        âNRG Energy Comments at 4.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>54</SU>
+                        âPSEG Comments at 15.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">(b) The Department's Response</HD>
+                <P>The Department has concluded that the use of an effective annual settlement mechanism to determine the value of credits to be paid to the owner or operator in each award year will reduce the need for recapture at the conclusion of the 4-year award period. To do so, the recapture mechanism must be consistent with the annual adjustment mechanism because both mechanisms measure the nuclear reactor's operating results. The Department will evaluate the same revenue and cost elements in both the annual adjustment and in the recapture calculation, thereby ensuring that the nuclear reactor receives payment for credits consistent with the Award Agreement, and at the same time that taxpayers not fund payments in excess of those required to offset the nuclear reactor's annual loss.</P>
+                <P>
+                    Following the conclusion of the4-year award period, the Department will conduct the recapture analysis to 
+                    <PRTPAGE P="868"/>
+                    determine if the nuclear reactor would not have operated at an annual loss in the preceding 4-year award period in the absence of the credits that the Department has paid to the owner or operator in accordance with the annual adjustment mechanism. On the terms to be specified in the Award Agreement, the Department will adjust the annual payment based on (i) actual applicable revenues in identified categories compared to the corresponding revenues projected for that award year and (b) actual applicable costs in identified categories compared to the corresponding costs projected for that award year. Operational and market risks monetized by an applicant and reflected in the Award Agreement will not be trued up for actual results. The recapture mechanism will use the same method to determine operating results for the 4-year award period as is used for the annual adjustment, thereby providing appropriate certainty to the nuclear reactor of the method for determining recapture while also meeting the statutory requirement that the Department recapture credits to the extent that the nuclear reactor would not have operated at an annual loss in the absence of those credits.
+                </P>
+                <P>The Department expects that the annual adjustment mechanism and the contractual obligation of the nuclear reactor to continue operations for the entire 4-year award period will limit the need to recapture credits. Nevertheless, the recapture regulation is required to provide the Department with a remedy to recover credits if the nuclear would not have operated at an annual loss in the absence of an allocation of credits during the 4-year award period. The recapture regulation also addresses the situation where the nuclear reactor ceases operation during the 4-year award period. In that circumstance, the Department will rescind the award of any unpaid credits, including the credits for the award year in which the termination occurred and for any remaining award years in the award period. In addition, the Department will require the owner or operator to repay the value of credits paid with respect to a prior award year if the Department determines that the nuclear reactor terminated operations as a result of the owner or operator's failure to adhere to prudent industry practice in the operation of the nuclear reactor during the award period. Requiring forfeiture of credits previously paid for award years where the nuclear reactor performed as required would not be warranted where the nuclear reactor in a subsequent award year ceased to operate because of a mechanical failure, act of nature, or other event that occurred despite the owner or operator's adherence to prudent industry practice.</P>
+                <HD SOURCE="HD1">IV. Section by Section Analysis of the Interim Final Rule</HD>
+                <HD SOURCE="HD2">A. Purpose, Applicability, and Definitions</HD>
+                <P>Section 612.1 of the interim final rule identifies the purpose of the regulations to set forth the procedure by which the Department may recapture credits awarded pursuant to the CNC Program. Section 612.2 provides that the regulations will apply to an owner or operator of a nuclear reactor that is awarded credits under the CNC Program. Section 612.3 contains defined terms used in the regulation.</P>
+                <HD SOURCE="HD2">B. Recapture</HD>
+                <P>Section 612.4(a) of the regulation identifies the two circumstances in which credits will be recaptured: (1) if the nuclear reactor terminates operation during the award period or (2) at the conclusion of the award period if the nuclear reactor would not have operated at an annual loss in the absence of the credits.</P>
+                <P>Section 612.4(b) addresses the first circumstance in which recapture will be pursued, namely termination by the nuclear reactor of operations during the award period. In that instance, the Secretary will rescind the award of any unpaid credits, including the credits for the award year in which the termination occurred and for any remaining award years in the award period. In addition, the Department will require the owner or operator to repay the value of credits paid with respect to a prior award year if the Department determines that the nuclear reactor terminated operations as a result of the owner or operator's failure to adhere to prudent industry practice in the operation of the nuclear reactor during the award period.</P>
+                <P>Section 612.4(c) addresses recapture in the circumstance in which the Secretary determines that the nuclear reactor, during the award period, would not have operated at an annual loss in the absence of the credits. To make this determination, the Secretary will calculate the recapture amount in the same manner as the annual adjustment of credits is calculated. Although this scenario is unlikely because the recapture analysis will use the same evaluation methodology as the annual adjustment calculation, it could occur if, for example, subsequent information became available that differs from the data relied on in the annual adjustment calculation.</P>
+                <HD SOURCE="HD2">C. Notice and Reconsideration of Recapture Determination</HD>
+                <P>Section 612.5 of the regulation identifies (1) the manner in which the Secretary will notify an owner or operator of its determination to recapture credits and payments for previously paid credits, if any, (2) how an owner or operator may request reconsideration of the recapture determination, and (3) the effective date of a recapture determination. This section also specifies that notices issued with respect to recapture will be public, except that data and supporting documentation constituting confidential business information will not be disclosed.</P>
+                <HD SOURCE="HD2">D. Petition to the Department's Office of Hearings and Appeals</HD>
+                <P>Section 612.6 provides that an owner or operator of a nuclear reactor that is aggrieved by the Secretary's decision to affirm, withdraw, or modify the notice of recapture as provided in paragraph (c) of Â§â612.5 may file a petition with the Department's Office of Hearings and Appeals in accordance with 10 CFR 1003.11 not later than thirty days after notification of the Secretary's decision.</P>
+                <HD SOURCE="HD1">V. Interim Final Rulemaking</HD>
+                <P>
+                    This interim final rule is being issued without advance notice and public comment to allow for immediate implementation of the CNC Program in accordance with the process described in the Guidance. The requirements of advance notice and public comment do not apply âto the extent that there is involved . . . a matter related to agency . . . grants, benefits, or contracts.â 5 U.S.C. 553(a)(2). The CNC Program is a Federal grant or benefit program that awards credits to nuclear reactors that are selected to receive credits based on a demonstration that they are projected to cease operations due to economic factors.
+                    <SU>55</SU>
+                    <FTREF/>
+                     No other aspect of the CNC Program requires regulation for implementation other than the discrete recapture provision addressed in this interim final rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>55</SU>
+                        âIn addition, IIJA section 40323(e)(1) provides that the Secretary will consult with other Federal agencies and select certified nuclear reactors to be allocated credits, ânotwithstanding section 169 of the Atomic Energy Act of 1954 (42 U.S.C. 2209).â Section 169 of the Atomic Energy Act states that no funds will be used for the construction or operation of licensed nuclear facilities âexcept under contract or other arrangement entered into pursuant to section 2051 of this title.â Section 2051 establishes requirements for contracts and loans for research activities and grants and contributions. This statutory exception to section 169 of the Atomic Energy Act provides further evidence that Congress understood that the CNC Program created an agency âgrant, benefit, or contract.â
+                    </P>
+                </FTNT>
+                <PRTPAGE P="869"/>
+                <P>In addition, the Administrative Procedure Act also provides an exception to ordinary notice and comment procedures âwhen the agency for good cause finds (and incorporates the finding and a brief statement of reasons therefor in the rules issued) that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest.â 5 U.S.C. 553(b)(3)(B). This good cause justification also supports waiver of the 60-day delayed effective date for major rules under the Congressional Review Act at 5 U.S.C. 808(2). Although this interim final rule is effective immediately, comments are solicited from interested members of the public on all aspects of the interim final rule. The Department intends to issue a final rule following receipt and review of comments in response to the interim final rule.</P>
+                <HD SOURCE="HD1">VI. Procedural Requirements</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Orders 12866, 13563, and 14094</HD>
+                <P>Executive Order 12866, âRegulatory Planning and Review,â 58 FR 51735 (Oct. 4, 1993), as supplemented and reaffirmed by Executive Order 13563, âImproving Regulation and Regulatory Review,â 76 FR 3821 (Jan. 21, 2011) and amended by Executive Order 14094, âModernizing Regulatory Review,â 88 FR 21879 (April 11, 2023), requires agencies, to the extent permitted by law, to (1) propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs (recognizing that some benefits and costs are difficult to quantify); (2) tailor regulations to impose the least burden on society, consistent with obtaining regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations; (3) select, in choosing among alternative regulatory approaches, those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity); (4) to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt; and (5) identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public. DOE emphasizes as well that Executive Order 13563 requires agencies to use the best available techniques to quantify anticipated present and future benefits and costs as accurately as possible. In its guidance, the Office of Information and Regulatory Affairs (OIRA) has emphasized that such techniques may include identifying changing future compliance costs that might result from technological innovation or anticipated behavioral changes. For the reasons stated in the preamble, this proposed regulatory action is consistent with these principles.</P>
+                <P>Section 6(a) of Executive Order 12866 requires agencies to submit âsignificant regulatory actionsâ to OIRA for review. OIRA has determined that this proposed regulatory action does not constitute a âsignificant regulatory actionâ within the scope of Executive Order 12866. Accordingly, this action was not subject to review under that Executive order by OIRA.</P>
+                <HD SOURCE="HD2">B. Executive Order 13132</HD>
+                <P>Executive Order 13132, âFederalism,â 64 FR 43255 (August 4, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. Executive Order 13132 requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. DOE has examined this interim final rule and has determined that it does not preempt State law and does not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Moreover, the recapture regulation is required by statute. No further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">C. Administrative Procedure Act</HD>
+                <P>
+                    The Administrative Procedure Act (APA), 5 U.S.C. 551 
+                    <E T="03">et seq.,</E>
+                     generally requires public notice and an opportunity for comment before a rule becomes effective. However, the APA provides that the requirements of 5 U.S.C. 553 do not apply âto the extent that there is involved . . . a matter relating to agency . . . grants, benefits, or contracts.â The interim final rule implements the statutory direction to adopt a regulation to recapture credits awarded under the CNC Program and addresses the circumstances under which an owner or operator may forfeit credits for failure to continue to meet the requirements of the CNC Program pursuant to which the nuclear reactor has received credits from the United States. The recapture regulation is thus clearly and directly related to a federal benefits program. See, 
+                    <E T="03">e.g., National Wildlife Federation</E>
+                     v. 
+                    <E T="03">Snow,</E>
+                     561 F.2d 227, 232 (D.C. Cir. 1976). See also 
+                    <E T="03">Alphapointe</E>
+                     v. 
+                    <E T="03">Department of Veterans Affairs,</E>
+                     475 F. Supp. 3d 1, 13 (D.D.C. 2020) (âthe statutory exemption still prevails when `grants,' `benefits' or other named subjects are `clearly and directly' implicatedâ (citations omitted)). The regulation sets forth the âprocess necessary to maintain . . . eligibility for federal fundsâ, 
+                    <E T="03">Id.,</E>
+                     and other âintegral part[s] of the grant program.â 
+                    <E T="03">Center for Auto Safety</E>
+                     v. 
+                    <E T="03">Tiemann,</E>
+                     414 F. Supp. 215, 222 (D.D.C. 1976).
+                    <SU>56</SU>
+                    <FTREF/>
+                     As a result, the requirements of 5 U.S.C. 553 do not apply.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>56</SU>
+                        âAlthough the CNC Program is not a grant program under the Federal Grant and Cooperative Agreement Act, 31 U.S.C. 6301 
+                        <E T="03">et seq.,</E>
+                         case law treats Federal grants and benefits broadly for purposes of section 553 of the Administrative Procedure Act.
+                    </P>
+                </FTNT>
+                <P>
+                    The APA also provides an exception to ordinary notice and comment procedures âwhen the agency for good cause finds (and incorporates the finding and a brief statement of reasons therefore in the rules issued) that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest.â 5 U.S.C. 553(b)(3)(B); 
+                    <E T="03">see also</E>
+                     5 U.S.C. 553(d)(3) (creating an exception to the requirement of a 30-day delay before the effective date of a rule âfor good cause found and published with the ruleâ). Even if 5 U.S.C. 553 applied, the Department would still have good cause under section 553(b)(3)(B) and 553(d)(3) for not undertaking section 553's requirements. The Department has provided notice and opportunity for comment on the CNC Program and further pre-publication notice and comment is unnecessary. In the RFI, the Department identified the structure of the CNC Program and asked for comment, including on the relationship of the annual adjustment mechanisms with the recapture provision. Numerous commenters addressed both the specific structure of the recapture mechanism, as well as its interaction with the annual adjustment mechanism. This interim final rule in section III of this document addresses relevant comments and explains the decisions that the Department made in preparing the recapture regulation. Although the Department is seeking further comment on this interim final rule, any such comments will be addressed in a subsequent regulation and will not alter the recapture regulation that is 
+                    <PRTPAGE P="870"/>
+                    applicable to credits to be awarded for the first award period.
+                </P>
+                <HD SOURCE="HD2">D. National Environmental Policy Act of 1969</HD>
+                <P>
+                    In this interim final rule, DOE establishes the procedure for the recapture of credits awarded under the Civil Nuclear Credit Program. DOE has determined that this rule falls into a class of actions that are categorically excluded from review under the National Environmental Policy Act (NEPA) of 1969 (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ) and DOE's implementing regulations at 10 CFR part 1021. Specifically, DOE has determined that promulgating procedures for the recapture of credits through administrative and audit procedures is consistent with activities identified in 10 CFR part 1021, appendix A to subpart D, A6. Therefore, DOE has determined that promulgation of the recapture rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA and does not require an environmental assessment or an environmental impact statement.
+                </P>
+                <HD SOURCE="HD2">E. Paperwork Reduction Act of 1995</HD>
+                <P>This interim final rule imposes no information collection requirements subject to the Paperwork Reduction Act.</P>
+                <HD SOURCE="HD2">F. Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis for any rule that by law must be proposed for public comment. As discussed above, DOE has determined that prior notice and opportunity for public comment is unnecessary under the APA. Because a notice of proposed rulemaking is not required for this action pursuant to 5 U.S.C. 553, or any other law, no regulatory flexibility analysis has been prepared for this interim final rule. 
+                    <E T="03">See</E>
+                     5 U.S.C. 601(2), 603(a).
+                </P>
+                <HD SOURCE="HD2">G. Executive Order 12988</HD>
+                <P>Regarding the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â 61 FR 4729 (Feb. 7, 1996), imposes on Federal agencies the general duty to adhere to the following requirements: (1) eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; (3) provide a clear legal standard for affected conduct rather than a general standard; and (4) promote simplification and burden reduction. Regarding the review required by section 3(a), section 3(b) of Executive Order 12988 specifically requires that each executive agency make every reasonable effort to ensure that when it issues a regulation, the regulation: (1) clearly specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in sections 3(a) and 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and has determined that, to the extent permitted by law, this interim final rule meets the relevant standards of Executive Order 12988.</P>
+                <HD SOURCE="HD2">H. Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) (Pub. L. 104-4) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments and the private sector. For a proposed regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b).) UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a proposed âsignificant intergovernmental mandate,â and requires an agency to plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect them. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. (62 FR 12820) (This policy is also available at 
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                     under âGuidance &amp; Opinionsâ (Rulemaking).) DOE examined this interim final rule according to UMRA and its statement of policy and has determined that the rule contains neither an intergovernmental mandate, nor a mandate that may result in the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector, of $100 million or more in any year. Accordingly, no further assessment or analysis is required under UMRA.
+                </P>
+                <HD SOURCE="HD2">I. Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">J. Treasury and General Government Appropriations Act, 2001</HD>
+                <P>The Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for Federal agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). DOE has reviewed this interim final rule under the OMB and DOE guidelines and has concluded that it is consistent with the applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">K. Executive Order 13211</HD>
+                <P>
+                    Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Useâ 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA, a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule and that: (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy; or (3) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the 
+                    <PRTPAGE P="871"/>
+                    action and their expected benefits on energy supply, distribution, and use. This interim final rule establishes a procedure to recapture credits awarded under the CNC Program and, therefore, does not meet any of the three criteria listed above. It is not a significant energy action because it would not have a significant adverse effect on the supply, distribution, or use of energy. Accordingly, DOE has not prepared a Statement of Energy Effects.
+                </P>
+                <HD SOURCE="HD2">L. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will submit to Congress a report regarding the issuance of this interim final rule prior to the effective date set forth at the outset of this interim final rule. The report will state that it has been determined that this interim final rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VII. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this interim final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 612</HD>
+                    <P>Civil nuclear credit program, Nuclear energy, Nuclear power plants and reactors, Petition to the Department of Energy's Office of Hearings and Appeals, Recapture of civil nuclear credits.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on December 8, 2023, by Maria D. Robinson, pursuant to delegated authority from the Secretary of Energy. That document with the original signature is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on January 3, 2024.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, DOE amends chapter II, subchapter H, of title 10 of the Code of Federal Regulations by adding part 612 to read as follows:</P>
+                <REGTEXT TITLE="10" PART="612">
+                    <PART>
+                        <HD SOURCE="HED">PART 612âRECAPTURE OF CIVIL NUCLEAR CREDITS</HD>
+                        <CONTENTS>
+                            <SECHD>Sec.</SECHD>
+                            <SECTNO>612.1</SECTNO>
+                            <SUBJECT>Purpose.</SUBJECT>
+                            <SECTNO>612.2</SECTNO>
+                            <SUBJECT>Applicability.</SUBJECT>
+                            <SECTNO>612.3</SECTNO>
+                            <SUBJECT>Definitions.</SUBJECT>
+                            <SECTNO>612.4</SECTNO>
+                            <SUBJECT>Recapture.</SUBJECT>
+                            <SECTNO>612.5</SECTNO>
+                            <SUBJECT>Notice of recapture; request for reconsideration; effectiveness of recapture.</SUBJECT>
+                            <SECTNO>612.6</SECTNO>
+                            <SUBJECT>Petition to the Department's Office of Hearings and Appeals.</SUBJECT>
+                        </CONTENTS>
+                        <AUTH>
+                            <HD SOURCE="HED">Authority:</HD>
+                            <P> 42 U.S.C. 7254; 42 U.S.C. 18753.</P>
+                        </AUTH>
+                        <SECTION>
+                            <SECTNO>Â§â612.1</SECTNO>
+                            <SUBJECT>Purpose.</SUBJECT>
+                            <P>This part implements section 40323(g)(2) of the Infrastructure Investment and Jobs Act (Pub. L. 117-58), codified at 42 U.S.C. 18753(g)(2), to set forth the procedure to recapture credits awarded pursuant to the civil nuclear credit program.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â612.2</SECTNO>
+                            <SUBJECT>Applicability.</SUBJECT>
+                            <P>This part applies to an owner/operator of a nuclear reactor that is awarded credits pursuant to the civil nuclear credit program.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â612.3</SECTNO>
+                            <SUBJECT>Definitions.</SUBJECT>
+                            <P>
+                                <E T="03">Award period</E>
+                                 means the period beginning with the first day of the award year for which the owner/operator has been awarded credits up to and including the last day of the fourth award year thereafter.
+                            </P>
+                            <P>
+                                <E T="03">Award year</E>
+                                 means a 12-month period beginning on the effective date of the award of credits and each anniversary thereof during the award period.
+                            </P>
+                            <P>
+                                <E T="03">CNC program</E>
+                                 means the civil nuclear credit program established by the Secretary pursuant to section 40323 of the Infrastructure Investment and Jobs Act (Pub. L. 117-58) codified at 42 U.S.C. 18753.
+                            </P>
+                            <P>
+                                <E T="03">Credits</E>
+                                 means the credits awarded to an owner/operator of a nuclear reactor projected to cease operations due to economic factors and certified by the Department as part of the CNC program.
+                            </P>
+                            <P>
+                                <E T="03">Department</E>
+                                 means the Department of Energy.
+                            </P>
+                            <P>
+                                <E T="03">Nuclear reactor</E>
+                                 means a nuclear power reactor unit with respect to which an owner/operator has been awarded credits pursuant to the civil nuclear credit program.
+                            </P>
+                            <P>
+                                <E T="03">Owner/operator</E>
+                                 means the owner or operator of a nuclear reactor that has been awarded credits pursuant to the civil nuclear credit program.
+                            </P>
+                            <P>
+                                <E T="03">Secretary</E>
+                                 means the Secretary of Energy.
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â612.4</SECTNO>
+                            <SUBJECT>Recapture.</SUBJECT>
+                            <P>(a) Credits allocated to an owner/operator shall be subject to recaptureâ</P>
+                            <P>(1) If the nuclear reactor terminates operations during the award period, pursuant to paragraph (b) of this section; or</P>
+                            <P>(2) At the conclusion of the award period, if the nuclear reactor would not have operated at an annual loss in the absence of the credits, pursuant to paragraph (c) of this section.</P>
+                            <P>(b) If the Department determines that a nuclear reactor has terminated operations during the award period, then the Department will recapture the award of credits for the award year in which the termination of operations occurred and for any remaining award years by rescinding the credits awarded but not paid, and the owner/operator shall have no further rights to any credits. In addition, the value of credits that the Department has previously paid to the owner/operator with respect to a prior award year shall be repaid to the Department by the owner/operator if the Department determines that the nuclear reactor terminated operations as a result of the owner/operator's failure to adhere to prudent industry practice in the operation of the nuclear reactor during the award period.</P>
+                            <P>(c) Following the conclusion of the award period, the Department will determine whether, for the award period, the nuclear reactor would not have operated at an annual loss in the absence of the credits. The amount subject to recapture following the conclusion of the award period shall be determined in the same manner that the annual adjustment of credits is calculated under the terms of the award of such credits.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â612.5</SECTNO>
+                            <SUBJECT>Notice of recapture; request for reconsideration; effectiveness of recapture.</SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">Notice of recapture determination.</E>
+                                 If pursuant to Â§â612.4, the Department determines that:
+                            </P>
+                            <P>(1) An amount of credits not yet paid should be recaptured; and</P>
+                            <P>(2) That any credits previously paid to the owner/operator should be recaptured, the Secretary will provide to an owner/operator a written notice of the amount of credits subject to the recapture determination and the value of credits that the Department has previously paid to an owner/operator and that are subject to recapture, if any, with an explanation of such amount.</P>
+                            <P>
+                                (b) 
+                                <E T="03">Request for reconsideration.</E>
+                                 Unless the Department extends the time period, within 30 calendar days of receipt of a notice of recapture provided to an owner/operator under paragraph (a) of this section, an owner/operator may submit a written request to the Department requesting reconsideration of the recapture determination. To 
+                                <PRTPAGE P="872"/>
+                                request reconsideration of the recapture determination, an owner/operator must submit to the Department a written request that includes:
+                            </P>
+                            <P>(1) An explanation of why the owner/operator believes all or some of the credits (and the value of any credits previously paid) should not be subject to recapture; and</P>
+                            <P>(2) Supporting information and calculations.</P>
+                            <P>
+                                (c) 
+                                <E T="03">Notification of final amount subject to recapture.</E>
+                                 Unless the Department extends the time period, within 60 days of receipt of an owner/operator's request for reconsideration provided pursuant to paragraph (b) of this section, the owner/operator will be notified of the Department's decision to affirm, withdraw, or modify the notice of recapture. The notification will include an explanation of the decision, including responses to the owner/operator's supporting reasons and consideration of additional information provided.
+                            </P>
+                            <P>
+                                (d) 
+                                <E T="03">Effectiveness of recapture.</E>
+                                 (1) If the owner/operator has not requested reconsideration as provided in paragraph (b) of this section;
+                            </P>
+                            <P>(i) The credits will be deemed to be recaptured as of the date of the notification provided by the Secretary pursuant to paragraph (a) of this section and the owner/operator will have no further right or claim to those credits; and</P>
+                            <P>(ii) The owner/operator shall repay to the Department the value of credits that the Department has paid to the owner/operator and that are subject to recapture under Â§â612.4 within 30 calendar days of the date of notification provided by the Department pursuant to paragraph (a) of this section.</P>
+                            <P>(2) If the owner/operator has requested reconsideration as provided in paragraph (b) of this section;</P>
+                            <P>(i) The credits will be deemed to be recaptured as of the date of the notification provided by the Department pursuant to paragraph (c) of this section and the owner/operator will have no further right or claim to those credits; and</P>
+                            <P>(ii) The owner/operator shall pay to the Department the value of credits that the Department has previously paid to the owner/operator and that are subject to recapture under Â§â612.4 within 30 calendar days of the date of notification provided by the Department pursuant to paragraph (c) of this section.</P>
+                            <P>
+                                (e) 
+                                <E T="03">Notice.</E>
+                                 Notices issued by the Department under this section shall be made public by the Department, with the exception of any data or supporting documentation constituting confidential business information not subject to disclosure.
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â612.6</SECTNO>
+                            <SUBJECT>Petition to the Department's Office of Hearings and Appeals.</SUBJECT>
+                            <P>In order to exhaust its administrative remedies, an owner/operator who is aggrieved by the Secretary's decision to affirm, withdraw, or modify the notice of recapture as provided in Â§â612.5(c) may file a petition with the Department's Office of Hearings and Appeals in accordance with 10 CFR 1003.11 not later than thirty days after notification of the Department's decision.</P>
+                        </SECTION>
+                    </PART>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2024-00153 Filed 1-5-24; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

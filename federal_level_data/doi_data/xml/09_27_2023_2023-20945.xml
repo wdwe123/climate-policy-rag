@@ -1,0 +1,812 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF THE INTERIOR</AGENCY>
+                <SUBAGY>Fish and Wildlife Service</SUBAGY>
+                <CFR>50 CFR Part 17</CFR>
+                <DEPDOC>[Docket No. FWS-R4-ES-2021-0093; FF09E22000 FXES1113090FEDR 234]</DEPDOC>
+                <RIN>RIN 1018-BF56</RIN>
+                <SUBJECT>Endangered and Threatened Wildlife and Plants; Reclassification of the Relict Darter From Endangered to Threatened With a Section 4(d) Rule</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Fish and Wildlife Service, Interior.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        We, the U.S. Fish and Wildlife Service (Service), reclassify the relict darter (
+                        <E T="03">Etheostoma chienense</E>
+                        ) from endangered to threatened under the Endangered Species Act of 1973 (Act), as amended. The relict darter is a fish species that occupies the Bayou de Chien stream system in western Kentucky. This action is based on a thorough review of the best available scientific and commercial information, which indicates that relict darter is not currently in danger of extinction throughout all or a significant portion of its range, but it is still likely to become so in the foreseeable future. We are also finalizing a rule under section 4(d) of the Act that provides for the conservation of the relict darter.
+                    </P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective October 27, 2023.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        Public comments and materials we received, as well as supporting documentation we used in preparing this rule, are available for public inspection at 
+                        <E T="03">https://www.regulations.gov</E>
+                         at Docket No. FWS-R4-ES-2021-0093.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>Lee Andrews, Field Supervisor, U.S. Fish and Wildlife Service, Kentucky Ecological Services Field Office, 330 West Broadway, Suite 265, Frankfort, KY 40601; telephone 502-695-0468. Individuals in the United States who are deaf, deafblind, hard of hearing, or have a speech disability may dial 711 (TTY, TDD, or TeleBraille) to access telecommunications relay services. Individuals outside the United States should use the relay services offered within their country to make international calls to the point-of-contact in the United States.</P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Executive Summary</HD>
+                <P>
+                    <E T="03">Why we need to publish a rule.</E>
+                     Under the Act, a species warrants reclassification from endangered to threatened if it no longer meets the definition of endangered (in danger of extinction throughout all or a significant portion of its range). We are reclassifying the relict darter as a threatened species (
+                    <E T="03">i.e.,</E>
+                     âdownlistingâ the species) because we have determined it is not currently in danger of extinction. Reclassifying a species under the Act can only be accomplished by issuing a rule through the Administrative Procedure Act rulemaking process (5 U.S.C. 551 
+                    <E T="03">et seq.</E>
+                    ).
+                </P>
+                <P>
+                    <E T="03">What this document does.</E>
+                     This rule reclassifies relict darter from an endangered species to a threatened species on the Federal List of Endangered and Threatened Wildlife (List), with a rule issued under section 4(d) of the Act, based on the species' current status, which has been improved through implementation of conservation actions.
+                </P>
+                <P>
+                    <E T="03">The basis for our action.</E>
+                     Under the Act, we may determine that a species is an endangered or threatened species because of any of five factors: (A) The present or threatened destruction, modification, or curtailment of its habitat or range; (B) overutilization for commercial, recreational, scientific, or educational purposes; (C) disease or predation; (D) the inadequacy of existing regulatory mechanisms; or (E) other natural or manmade factors affecting its continued existence. Based on the status review, the current threats analysis, and evaluation of conservation measures, we conclude that the relict darter no longer meets the Act's definition of an endangered species and should be reclassified to a threatened species. The species is no longer in danger of extinction throughout all or a significant portion of its range but is likely to become so within the foreseeable future.
+                </P>
+                <P>We have determined that the relict darter is a threatened species due to the following threats:</P>
+                <P>â¢ Habitat destruction and modification caused by sedimentation, stream channelization, removal of riparian vegetation, drainage of riparian wetlands, and point and nonpoint source discharges (Factor A).</P>
+                <P>â¢ Drought, accidental spills, and other potential catastrophic events (Factor E).</P>
+                <P>â¢ Low genetic diversity resulting in reduced adaptive capacity and the inability to withstand stochastic disturbances (Factor E).</P>
+                <P>â¢ Effects from climate change that are likely to exacerbate the impacts of drought, hurricanes, and flooding associated with storms and hurricanes in the future (Factor E).</P>
+                <P>
+                    <E T="03">Section 4(d) rule.</E>
+                     We are issuing a rule under the authority of section 4(d) of the Act (a â4(d) ruleâ) for the relict darter. The 4(d) rule specifically tailors the incidental take exceptions for the relict darter to provide protective mechanisms to State and Federal partners so that they may continue certain activities that are not anticipated to cause direct injury or mortality to the relict darter. These activities will facilitate the conservation and recovery of the species through routine enforcement, assisting sick or injured fish, and the active habitat management this species uniquely requires.
+                </P>
+                <HD SOURCE="HD1">Previous Federal Actions</HD>
+                <P>Please refer to the proposed downlisting rule (87 FR 12056; March 3, 2022) for a detailed description of previous Federal actions concerning the relict darter.</P>
+                <HD SOURCE="HD1">Summary of Changes From the Proposed Rule</HD>
+                <P>
+                    In preparing this final rule, we reviewed and fully considered all comments we received during the comment period from the peer reviewers and the public on the proposed rule to reclassify the relict darter. Minor, nonsubstantive changes and clarifications were made to the species status assessment (SSA) report and this document in response to comments. In preparing this final rule, 
+                    <PRTPAGE P="66281"/>
+                    we also refined the 
+                    <E T="03">Status Throughout a Significant Portion of Its Range</E>
+                     analysis in order to better explain our determinations. However, the information we received during the peer review and public comment period on the proposed rule did not change our analysis, rationale, or determination for reclassifying the relict darter as a threatened species under the Act or for the 4(d) rule for the species.
+                </P>
+                <HD SOURCE="HD1">Summary of Comments and Recommendations</HD>
+                <P>In the proposed rule published on March 3, 2022 (87 FR 12056), we requested that all interested parties submit written comments on the proposal by May 2, 2022. We also contacted appropriate Federal and State agencies, scientific experts and organizations, and other interested parties and invited them to comment on the proposal. A newspaper notice inviting general public comment was published in the Paducah Sun on April 2, 2022. We did not receive any requests for a public hearing. All substantive information received during the comment period has either been incorporated directly into this final determination or is addressed below.</P>
+                <HD SOURCE="HD2">Peer Reviewer Comments</HD>
+                <P>As discussed in Supporting Documents below, we received comments from three peer reviewers. We reviewed all comments we received from the peer reviewers for substantive issues and new information regarding the information contained in the SSA report. The peer reviewers generally concurred with our methods and conclusions, and provided additional information, clarifications, and suggestions to improve the final SSA report. Peer reviewer comments are addressed in the following summary and were incorporated into the final SSA report as appropriate.</P>
+                <P>
+                    <E T="03">(1) Comment:</E>
+                     Two peer reviewers and one State partner reviewer suggested we revise the species' taxonomic discussion in chapter 2 of the SSA based on new information presented by Near et al. (2011).
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     We incorporated the reference and modified the text to follow the phylogeny (classification) presented by Near et al. (2011). The relict darter is one of 11 recognized/valid species in the 
+                    <E T="03">Etheostoma squamiceps</E>
+                     complex (clade 
+                    <E T="03">Stigmacerca</E>
+                    ).
+                </P>
+                <P>
+                    <E T="03">(2) Comment:</E>
+                     One peer reviewer asked for clarification on whether the Little Bayou de Chien population was included in genetic analyses conducted by Kattawar and Piller (2020).
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     Kattawar and Piller (2020) analyzed tissue samples from across the species' range, including the Little Bayou de Chien watershed. Their analyses demonstrated a panmictic population, where random mating occurs among all individuals in the Bayou de Chien watershed. We added clarifying text to the SSA report to reflect this information.
+                </P>
+                <P>
+                    <E T="03">(3) Comment:</E>
+                     One peer reviewer asked if anything is known about the larval drift phase of the relict darter. They commented that similar species become benthic upon hatching, suggesting that the larval phase would have a low dispersal ability.
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     Larval relict darters become benthic immediately after hatching, suggesting low dispersal ability for the larval stage (Shute 2020, pers. comm.). New text was added to the life-history diagram (figure 4) and table 1 of the SSA report.
+                </P>
+                <P>
+                    <E T="03">(4) Comment:</E>
+                     One peer reviewer suggested that genetic drift would not be a significant threat to the relict darter due to the apparent panmictic population, as demonstrated by the genetic connectivity of the Little Bayou de Chien and Bayou de Chien populations (Kattawar and Piller 2020).
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     We agree with the reviewer's comment about the relict darter's panmictic population, so we updated the SSA report and removed a discussion related to genetic drift and inbreeding depression as a threat to the relict darter. Despite the evidence of genetic connectivity, we suspect that the Little Bayou de Chien and Bayou de Chien populations have limited contemporary gene flow based on recent survey results and the presence of ecological barriers separating the two watersheds. Therefore, we retained a brief discussion of genetic isolation in the SSA report.
+                </P>
+                <P>
+                    <E T="03">(5) Comment:</E>
+                     One peer reviewer asked if our estimate of the species' overall status would change if we recognized a single population (single management unit) versus the two populations described in the SSA report.
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     Our interpretation of the species' status would not change under this scenario. If the Bayou de Chien and Little Bayou de Chien populations were combined in the SSA, we would be left with a single population with moderate resiliency. Due to its small size and limited occupancy, the Little Bayou de Chien population would contribute little to overall resiliency.
+                </P>
+                <P>
+                    <E T="03">(6) Comment:</E>
+                     One reviewer suggested we mention the species' vulnerability to chemical spills in the Bayou de Chien watershed.
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     We added additional text in chapter 4 (Water Quality Degradation) of the SSA report summarizing the species' vulnerability to chemical spills.
+                </P>
+                <P>
+                    <E T="03">(7) Comment:</E>
+                     One peer reviewer suggested that we add a table summarizing all Kentucky Pollutant Discharge Elimination System (KPDES) violations in the Bayou de Chien watershed over the last 10 to 15 years.
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     In chapter 3 of the SSA report, we added table 3, which summarizes all current KPDES permits in the Bayou de Chien watershed. For one permittee, the City of Fulton Treatment Works, we also summarized all permit violations since 2010.
+                </P>
+                <HD SOURCE="HD2">Public Comments</HD>
+                <P>
+                    <E T="03">(8) Comment:</E>
+                     Two commenters stated that the reclassification is premature and untimely, indicating that relict darter is one of the rarest fishes in the United States, living in only five sites and with proof of reproduction in only one site. They stated that endemic species, due to their narrow geographical range are especially prone to extinction, indicating that habitat degradation and water quality impairment will impact the species in the future. They also indicated that small population size and little genetic variability put the species at risk of extinction.
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     We acknowledge in our March 3, 2022, proposed rule (87 FR 12056) and in this final rule that the relict darter is naturally a narrow endemic species. We recognize that redundancy and representation may be inherently low for a narrow endemic like the relict darter. The fact that the species exhibits little genetic variation across its range and has a very low effective population size suggests a past population bottleneck (
+                    <E T="03">e.g.,</E>
+                     rangewide habitat disturbance) and subsequent genetic drift (loss of rare alleles in a small population). Its low species redundancy and representation are tempered by the moderate resiliency of the Bayou de Chien/Jackson Creek population, which has high relict darter abundance and evidence of continued reproduction. The increased population size and successful recruitment trends have improved based on surveys completed during the past decade and reduce the risk of extinction. Further, this moderately resilient population has survived threats, primarily because conservation efforts over the past three decades have improved and protected habitat within the system, thus enabling the breeding, feeding, and sheltering 
+                    <PRTPAGE P="66282"/>
+                    needs of the relict darter to be met and sustaining the population over time.
+                </P>
+                <P>We also acknowledge that habitat loss and degradation through stream channel disturbance, removal of riparian vegetation, and pollution continue to affect the species, even though conservation actions over the past three decades have led to improved habitat conditions in portions of the Bayou de Chien mainstem and Jackson Creek, contributing to moderate resiliency for the larger population. The relict darter has benefited from protection as an endangered species under the Act and from improvements in water quality and habitat conditions stemming from both national and Kentucky statutes and regulations. However, these regulations have not prevented the degradation of some habitats used by the species. The primary threats that are currently acting on the species are expected to continue into the future, climate change is expected to exacerbate existing threats, and the species' low redundancy and low representation put the species at risk of extinction throughout all of its range in the foreseeable future. Thus, after assessing the best available information, we conclude that the relict darter is not currently in danger of extinction, but it is likely to become in danger of extinction within the foreseeable future throughout all of its range, consistent with a reclassification from endangered to threatened status under the Act.</P>
+                <P>
+                    <E T="03">(9) Comment:</E>
+                     One commenter stated that the future conditions model only predicts how future urbanization could impact habitat and did not account for other potential sources of habitat disturbance or water quality impairment, such as agriculture. The commenter stated that the focus should be to increase conservation efforts to minimize the chance of adverse changes to physical habitat from human activity.
+                </P>
+                <P>
+                    <E T="03">Our response:</E>
+                     As detailed in the SSA report, we determined the rate of land cover change for each HUC 12 watershed encompassing relict darter populations using National Land Cover Database (NLCD) data. We also reviewed land cover change at the HUC 14 level in order to examine smaller watersheds such as Jackson Creek. Tables summarizing our land use analysis are provided in appendix E of the SSA report. The NLCD database considers land cover change that may result from a number of activities, including urban development, forestry, and agriculture. Between 2001-2011, total percent forest cover decreased by less than 1 percent across all watersheds, while total percent agriculture (
+                    <E T="03">i.e.,</E>
+                     pasture/hay and cultivated crops) and development increased by less than 1 percent across all watersheds. For our future scenarios, we assumed the same rate of land cover change for Scenario 1 (continuation of current trend), a decrease in the rate of land cover change for Scenario 2, and an increase in the rate of land cover change for Scenario 3. Therefore, the future scenario analysis does encompass other sources of habitat disturbance and water quality impairment as indicated by land use change. Regarding conservation efforts, the Act requires Federal agencies to utilize their authorities to carry out conservation programs for the conservation of both threatened and endangered species. We recognize that future efforts are dependent on funding availability, available conservation opportunities, and the willing cooperation of our partners, so only a portion of actions may be undertaken in the future.
+                </P>
+                <HD SOURCE="HD1">Supporting Documents</HD>
+                <P>An SSA team prepared an SSA report for the relict darter. The SSA team was composed of Service biologists, in consultation with other species experts. The SSA report represents a compilation of the best scientific and commercial data available concerning the status of the species, including the impacts of past, present, and future factors (both negative and beneficial) affecting the species.</P>
+                <P>
+                    In accordance with our joint policy on peer review published in the 
+                    <E T="04">Federal Register</E>
+                     on July 1, 1994 (59 FR 34270), and our August 22, 2016, memorandum updating and clarifying the role of peer review of listing actions under the Act, we sought peer review of the SSA report. The Service sent the SSA report to three independent peer reviewers and received three responses. The purpose of peer review is to ensure that our reclassification determinations and 4(d) rules are based on scientifically sound data, assumptions, and analyses. The peer reviewers have expertise in the biology, habitat, and threats to the species.
+                </P>
+                <HD SOURCE="HD1">I. Final Listing Determination</HD>
+                <HD SOURCE="HD1">Background</HD>
+                <P>A thorough review of the relict darter's taxonomy, life history, and ecology is presented in the SSA report (Service 2020, pp. 8-15) and is summarized below.</P>
+                <HD SOURCE="HD2">Species Information</HD>
+                <P>The relict darter is a small, narrowly endemic, benthic fish that occupies the Bayou de Chien stream system in western Kentucky. It can be distinguished from other darters by the number of dorsal fin rays (bony or cartilaginous spines of first and second fins along top of body), its breeding behavior (egg-clustering with parental care), and the color and morphology of the dorsal fins of breeding males. Females and nonbreeding males have light-tan-colored backs and sides, with brown mottling and six to eight dark brown saddles. They have white, unmarked undersides. Breeding males have gray to dark brown sides and backs and light tan undersides (Page et al. 1992, p. 628).</P>
+                <HD SOURCE="HD2">Taxonomy</HD>
+                <P>
+                    The relict darter, 
+                    <E T="03">Etheostoma chienense,</E>
+                     is a member of the Class Actinopterygii (ray-finned fishes), Order Perciformes, Family Percidae (perches), and Tribe Etheostomatini (darters) (Etnier and Starnes 1993, pp. 18-25, 440-441). The relict darter was first discovered in the Bayou de Chien system in 1975 (Webb and Sisk 1975), reported as 
+                    <E T="03">E. squamiceps,</E>
+                     but it was not recognized as a distinct species and described until 1992.
+                </P>
+                <HD SOURCE="HD2">Genetics</HD>
+                <P>
+                    A population bottleneck and subsequent genetic drift likely explain the species' low genetic diversity and low effective population size, which is estimated at a mean of 221.5 individuals, lower than what is usually sufficient (500) to retain a species' evolutionary potential (Soule 1980, pp. 151-169; Kattawar and Piller 2020, entire). Agricultural expansion within the Bayou de Chien system during the early to mid-20th century, including widespread channelization and straightening of stream channels, likely led to a sharp reduction in the size of the relict darter population. Populations have likely stabilized some over time, but the effects of a population bottleneck and subsequent genetic drift appears to have led to low levels of genetic diversity across the range. Recent field surveys (2010-2019) suggest that relict darters in Little Bayou de Chien are isolated from the rest of the system; however, genetic analyses indicate a single panmictic population, where random mating occurs among all individuals in the Bayou de Chien system (
+                    <E T="03">i.e.,</E>
+                     individuals can interbreed without restrictions) (Kattawar and Piller 2020, entire).
+                </P>
+                <HD SOURCE="HD2">Distribution</HD>
+                <P>
+                    The relict darter's historical range included the Bayou de Chien stream system, a 554-square-kilometer (km
+                    <SU>2</SU>
+                    ) (214-square-mile (mi
+                    <SU>2</SU>
+                    )) watershed located within the Mississippi Valley Loess Plains ecoregion (Woods et al. 2002, entire) in Fulton, Graves, and 
+                    <PRTPAGE P="66283"/>
+                    Hickman Counties, Kentucky (Webb and Sisk 1975, entire; Warren et al. 1994, entire; Piller and Burr 1998, entire). Bayou de Chien is a low-gradient, sand, gravel, and silt-bottomed stream that begins in southwestern Graves County and flows westward approximately 47 km (29.2 mi) through Hickman and Fulton Counties, before ultimately emptying into Obion Creek near Hickman, Kentucky. All but the terminal 8-10 km (5.0-6.2 mi) of Bayou de Chien have been subjected to extensive channelization, and the dominant land use is row-crop agriculture (Webb and Sisk 1975, p. 63). Currently, the relict darter continues to occupy portions of the Bayou de Chien system in Fulton, Graves, and Hickman Counties, Kentucky. The species is represented by two geographically isolated populations: Bayou de Chien/Jackson Creek and Little Bayou de Chien (Service 2020, p. 20).
+                </P>
+                <HD SOURCE="HD2">Habitat</HD>
+                <P>The species typically occupies slow-flowing runs, glides, or pools of small to medium-sized, lowland streams with sand and gravel substrates. In these habitats, the species is most commonly observed near cover, such as undercut banks, woody debris piles, or snags. An abundance of woody debris provides a sufficient supply of spawning substrates and, consequently, the highest mean densities of the species (Service 2020, p. 10).</P>
+                <HD SOURCE="HD2">Biology</HD>
+                <P>
+                    The species feeds primarily on midge larvae and other small invertebrates. Spawning occurs from mid-March to early June, and the species has a maximum lifespan of 3 to 4 years. Like all members of the 
+                    <E T="03">Etheostoma squamiceps</E>
+                     complex, females deposit eggs on the undersides of submerged objects, and egg clusters are guarded by the male until hatching occurs (Service 1994, p. 7). During a 1999 survey, most nests were located on natural materials such as small rocks, woody debris, and live tree roots, but 37 percent of nests were found on anthropogenic materials such as rubber tires, plastic, roof shingles, glass, concrete blocks, metal road signs, and concrete slabs (Piller and Burr 1998, pp. 147-151).
+                </P>
+                <P>The species was characterized as uncommon or rare at most collection sites in the 1990s, generally consisting of 1 to 23 individuals per site (Piller and Burr 1998, pp. 66-71). Recent surveys indicate the species continues to be rare in some reaches but is more common in others. Generally, the greatest number of darters per sampling reach and the highest mean densities (0.43 darters/square meter) have been observed in Jackson Creek and an approximately 22.6-km (14.1-mi) reach of Bayou de Chien (0.30 darters/square meter), extending from just downstream of the U.S. 51 bridge crossing in Hickman County upstream to the Pea Ridge Road bridge crossing in Graves County (Service 2020, appendix A).</P>
+                <HD SOURCE="HD1">Regulatory and Analytical Framework</HD>
+                <HD SOURCE="HD2">Regulatory Framework</HD>
+                <P>Section 4 of the Act (16 U.S.C. 1533) and the implementing regulations in title 50 of the Code of Federal Regulations set forth the procedures for determining whether a species is an endangered species or a threatened species, issuing protective regulations for threatened species, and designating critical habitat for endangered and threatened species. In 2019, jointly with the National Marine Fisheries Service, the Service issued a final rule that revised the regulations in 50 CFR part 424 regarding how we add, remove, and reclassify endangered and threatened species and the criteria for designating listed species' critical habitat (84 FR 45020; August 27, 2019). On the same day, the Service also issued final regulations that, for species listed as threatened species after September 26, 2019, eliminated the Service's general protective regulations automatically applying to threatened species the prohibitions that section 9 of the Act applies to endangered species (84 FR 44753; August 27, 2019). We collectively refer to these actions as the 2019 regulations.</P>
+                <P>The Act defines an âendangered speciesâ as a species that is in danger of extinction throughout all or a significant portion of its range, and a âthreatened speciesâ as a species that is likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range. The Act requires that we determine whether any species is an âendangered speciesâ or a âthreatened speciesâ because of any of the following factors:</P>
+                <P>(A) The present or threatened destruction, modification, or curtailment of its habitat or range;</P>
+                <P>(B) Overutilization for commercial, recreational, scientific, or educational purposes;</P>
+                <P>(C) Disease or predation;</P>
+                <P>(D) The inadequacy of existing regulatory mechanisms; or</P>
+                <P>(E) Other natural or manmade factors affecting its continued existence.</P>
+                <P>These factors represent broad categories of natural or human-caused actions or conditions that could have an effect on a species' continued existence. In evaluating these actions and conditions, we look for those that may have a negative effect on individuals of the species, as well as other actions or conditions that may ameliorate any negative effects or may have positive effects. We consider these same five factors in downlisting a species from endangered to threatened.</P>
+                <P>We use the term âthreatâ to refer in general to actions or conditions that are known to or are reasonably likely to negatively affect individuals of a species. The term âthreatâ includes actions or conditions that have a direct impact on individuals (direct impacts), as well as those that affect individuals through alteration of their habitat or required resources (stressors). The term âthreatâ may encompassâeither together or separatelyâthe source of the action or condition or the action or condition itself.</P>
+                <P>However, the mere identification of any threat(s) does not necessarily mean that the species meets the statutory definition of an âendangered speciesâ or a âthreatened species.â In determining whether a species meets either definition, we must evaluate all identified threats by considering the expected response by the species, and the effects of the threatsâin light of those actions and conditions that will ameliorate the threatsâon an individual, population, and species level. We evaluate each threat and its expected effects on the species, then analyze the cumulative effect of all of the threats on the species as a whole. We also consider the cumulative effect of the threats in light of those actions and conditions that will have positive effects on the species, such as any existing regulatory mechanisms or conservation efforts. The Secretary determines whether the species meets the definition of an âendangered speciesâ or a âthreatened speciesâ only after conducting this cumulative analysis and describing the expected effect on the species now and in the foreseeable future.</P>
+                <P>
+                    The Act does not define the term âforeseeable future,â which appears in the statutory definition of âthreatened species.â Our implementing regulations at 50 CFR 424.11(d) set forth a framework for evaluating the foreseeable future on a case-by-case basis. The term âforeseeable futureâ extends only so far into the future as the Services can reasonably determine that both the future threats and the species' responses to those threats are likely. In other words, the foreseeable future is the period of time in which we can make reliable predictions. âReliableâ does not mean âcertainâ; it means sufficient to 
+                    <PRTPAGE P="66284"/>
+                    provide a reasonable degree of confidence in the prediction. Thus, a prediction is reliable if it is reasonable to depend on it when making decisions.
+                </P>
+                <P>It is not always possible or necessary to define the foreseeable future as a particular number of years. Analysis of the foreseeable future uses the best scientific and commercial data available and should consider the timeframes applicable to the relevant threats and to the species' likely responses to those threats in view of its life-history characteristics. Data that are typically relevant to assessing the species' biological response include species-specific factors such as lifespan, reproductive rates or productivity, certain behaviors, and other demographic factors.</P>
+                <HD SOURCE="HD2">Analytical Framework</HD>
+                <P>
+                    The SSA report documents the results of our comprehensive biological review of the best scientific and commercial data regarding the status of the species, including an assessment of the potential threats to the species. The SSA report does not represent a decision by the Service on whether the species should be listed as an endangered or threatened species under the Act. It does, however, provide the scientific basis that informs our regulatory decisions, which involve the further application of standards within the Act and its implementing regulations and policies. The following is a summary of the key results and conclusions from the SSA report; the full SSA report can be found at 
+                    <E T="03">https://www.regulations.gov</E>
+                     at Docket No. FWS-R4-ES-2021-0093.
+                </P>
+                <P>To assess relict darter viability, we used the three conservation biology principles of resiliency, redundancy, and representation (Shaffer and Stein 2000, pp. 306-310). Briefly, resiliency reflects the ability of the species to withstand environmental and demographic stochasticity (for example, wet or dry, warm or cold years), redundancy supports the ability of the species to withstand catastrophic events (for example, droughts, large pollution events), and representation supports the ability of the species to adapt over time to long-term changes in the environment (for example, climate changes). In general, the more resilient and redundant a species is and the more representation it has, the more likely it is to sustain populations over time, even under changing environmental conditions. Using these principles, we identified the species' ecological requirements for survival and reproduction at the individual, population, and species levels, and described the beneficial and risk factors influencing the species' viability.</P>
+                <P>The SSA process can be categorized into three sequential stages. During the first stage, we evaluated the individual species' life-history needs. The next stage involved an assessment of the historical and current condition of the species' demographics and habitat characteristics, including an explanation of how the species arrived at its current condition. The final stage of the SSA involved making predictions about the species' responses to positive and negative environmental and anthropogenic influences. Throughout all of these stages, we used the best available information to characterize viability as the ability of a species to sustain populations in the wild over time. We use this information to inform our regulatory decision.</P>
+                <P>
+                    The following is a summary of the key results and conclusions from the SSA report; the full SSA report can be found at Docket No. FWS-R4-ES-2021-0093 on 
+                    <E T="03">https://www.regulations.gov.</E>
+                </P>
+                <HD SOURCE="HD1">Summary of Biological Status and Threats</HD>
+                <P>In this discussion, we review the biological condition of the species and its resources, and the threats that influence the species' current and future condition, in order to assess the species' overall viability and the risks to that viability. In addition, the SSA (Service 2019, entire) documents our comprehensive biological status review for the species, including an assessment of the potential threats to the species. The following is a summary of this status review and the best available information gathered since that time that have informed this decision.</P>
+                <HD SOURCE="HD2">Factors Influencing Relict Darter Viability</HD>
+                <P>At the time of listing in 1993, the relict darter was known only from the Bayou de Chien mainstem and Jackson Creek, but it was later discovered in Little Bayou de Chien in 2017 (Service 2019, p. 11). Threats to the species at the time of listing were water quality and habitat deterioration resulting from stream channelization, siltation contributed by incompatible land use practices, and water pollutants from waste discharges. Relict darter distribution was reduced by these factors, and because the species was known to inhabit only limited areas and known to spawn in only one small tributary, it was deemed vulnerable to extirpation from toxic chemical spills (see 58 FR 68480; December 27, 1993). Additionally, because of its small population size, the species' long-term genetic viability was determined to be questionable at the time of listing.</P>
+                <P>
+                    While the relict darter's viability has improved over time (see 
+                    <E T="03">Conservation Efforts,</E>
+                     below), three major factors are influencing the viability of the species now and are expected to affect it into the future: habitat loss and degradation, restricted range/isolation, and climate change. Habitat loss and degradation resulting from siltation, channelization/riparian vegetation removal, drainage of riparian wetlands, and water quality degradation (pollution) (Factor A) pose the largest risk to the current and future viability of the relict darter. Other potential stressors to the species are the restricted range of the species and climate change (Factor E). We find the species does not face threats from overutilization (Factor B), disease or predation (Factor C), or invasive species (Factor E). A brief summary of relevant stressors is presented below; for a full description, refer to chapter 3 of the SSA report (Service 2020, entire).
+                </P>
+                <HD SOURCE="HD2">Siltation</HD>
+                <P>
+                    Siltation is the process whereby excess sediments are suspended or deposited in a stream. Excessive levels of sediments accumulate and cover the stream bottom, filling the interstitial spaces with finer substrates and homogenizing and decreasing the available habitat for fishes. In severe cases, sediment can bury larger substrate particles such as gravel and cobble, as well as woody debris. Siltation can abrade or suffocate fish gills, eggs, and larvae; reduce disease tolerance; degrade or destroy spawning habitats, affecting egg, larval, and juvenile development; modify migration patterns; reduce food availability through the blockage of primary production; and reduce foraging efficiency (Berkman and Rabeni 1987, pp. 285-294; Waters 1995, pp. 5-7; Wood and Armitage 1997, pp. 211-212; Meyer and Sutherland 2005, pp. 2-3). Thus, siltation is a threat to all life stages of the relict darter. In addition, relict darter spawning substrates are usually the undersides of fixed objects (
+                    <E T="03">e.g.,</E>
+                     wood, tree roots, cobble, tires), which are vulnerable to the effects of siltation (
+                    <E T="03">i.e.,</E>
+                     embeddedness, or being completely covered in sediment) (Service 2020, p. 14).
+                </P>
+                <P>
+                    Sediment (siltation) is one of the most common stressors of aquatic communities in the Bayou de Chien system (Kentucky Division of Water (KDOW) 2018, pp. 43-45). The primary sources of sediment are listed as agriculture (crop production) and habitat degradation (channel erosion/incision from upstream 
+                    <PRTPAGE P="66285"/>
+                    hydromodifications, dredging, and loss of riparian habitat). The Bayou de Chien system is extensively farmed (
+                    <E T="03">e.g.,</E>
+                     row crops and livestock), and a large portion of the system has been deforested. These land use practices result in a high silt load within the system that continues to degrade habitats and impact the species. Croplands have the potential to contribute large sediment loads during storm events, thereby causing increased siltation and potentially introducing harmful agricultural pollutants such as pesticides. Unrestricted livestock access to streams has the potential to cause siltation and other habitat disturbance (Fraley and Ahlstedt 2000, pp. 193-194). Grazing may reduce water infiltration rates and increase stormwater runoff; trampling and vegetation removal increase the probability of erosion and siltation (Brim Box and Mossa 1999, p. 103). Physical habitat disturbance from sedimentation is less common in Jackson Creek than in other portions of the Bayou de Chien system.
+                </P>
+                <P>Several streams within the Bayou de Chien system have been identified as impaired due to siltation and have been included by the State of Kentucky on its list of impaired waters required under section 303(d) of the Clean Water Act (33 U.S.C. 1313(d)) (KDOW 2018, pp. 43-45). Portions of several streams occupied by the relict darter are on this list, including Cane Creek (stream kilometers (km) 0-8.5 (stream miles (mi) 0-5.3)) in Hickman County, Little Bayou de Chien (stream km 1.8-3.8 and 18.8-22.5 (stream mi 1.1-2.4 and 11.7-14.0)) in Fulton and Hickman Counties, and South Fork Bayou de Chien (stream km 0-12.6 (stream mi 0-7.8)) in Graves County.</P>
+                <HD SOURCE="HD2">Channelization/Riparian Vegetation Removal</HD>
+                <P>Stream channelization is a common practice used to reduce the effects of flooding, increase the drainage rate of agricultural land, and maximize the amount of tillable land (Piller and Burr 1998, p. 65). These modified channels are often managed through vegetation removal and dredging to improve flood conveyance or through placement of quarried stone or gabion baskets to protect against bank erosion (Allan and Castillo 2007, p. 327).</P>
+                <P>Historically, Bayou de Chien was presumably a free-flowing stream with alternating areas of riffles, runs, and pools. Since that time, many stream reaches within the system have been channelized and converted to deep ditches with uniform depth, velocity, and substrate (Piller and Burr 1998, p. 71). Channelization has impacted the Bayou de Chien system by changing stream flow patterns, including reducing instream flows (especially during drier periods) that stress relict darters; decreasing aquatic habitat complexity, which affects sheltering and feeding for relict darters; and reducing stream bank and floodplain (riparian) vegetation (Piller and Burr 1998, p. 71), which affects relict darter feeding and breeding resource needs. Channelized reaches have higher stream velocities and shear stress (a measure of the force of water against the channel boundary) during high flow periods (which leads to channel instability and bank erosion), less instream cover and habitat for aquatic organisms including the relict darter (decreased habitat complexity), less riparian vegetation and correspondingly reduced canopies (reduced shade and reduced woody debris input), and below normal flows during drier periods (Warren et al. 1994, p. 24; Piller and Burr 1998, p. 71). Thus, the relict darter is susceptible to impacts from channelization and reductions in riparian vegetation because these stressors affect flows, habitat complexity, and instream temperatures and reduce the amount of woody material, thus affecting sheltering and reproduction needs of the species.</P>
+                <P>The reduction or loss of riparian vegetation contributes to siltation through bank destabilization and the removal of submerged root systems that help to hold sediments in place while providing habitat for relict darters and their macroinvertebrate prey (Barling and Moore 1994, p. 544; Beeson and Doyle 1995, p. 989; Allan 2004, p. 262; Hauer and Lamberti 2006, pp. 721-723; Minshall and Rugenski 2006, pp. 721-723). Removal of riparian vegetation can also reduce the stream's capacity for trapping and removing contaminants and nutrients from runoff; increase solar exposure, resulting in higher water temperatures; increase algal abundance (primary production); and reduce inputs of woody debris and leaf litter, thereby reducing food sources for relict darters and lowering overall stream production (Brazier and Brown 1973, p. 4; Karr and Schlosser 1978, p. 231; Peterjohn and Correll 1984, p. 1473; Osborne and Kovacic 1993, p. 255; Barling and Moore 1994, p. 555; Vought et al. 1994, p. 346; Allan 1995, p. 109; Wallace et al. 1999, p. 429; Pusey and Arthington 2003, p. 4). Where a reduction or loss of riparian vegetation occurs, these impacts negatively affect the quality of habitat available to the relict darter for breeding, feeding, and sheltering.</P>
+                <HD SOURCE="HD2">Drainage of Riparian Wetlands</HD>
+                <P>With increased agricultural activity in the Bayou de Chien basin over the last century, much of the basin's vegetation has been cleared, and many riparian wetlands have been drained to make additional lands available for farming (Piller and Burr 1998, p. 65). This situation has caused an overall reduction in the groundwater level and base flows within Bayou de Chien and its tributaries. Many small streams in the system become completely dry or consist of isolated pools by the early fall months (Warren et al. 1994, p. 24). These conditions serve to isolate populations and subject both the adult and juvenile relict darters to increased pressure from predators (Service 1994, p. 14). Dispersal of the species upstream of the Jackson Creek area or into many downstream tributaries may be limited by instream flow conditions (Warren et al. 1994, p. 24).</P>
+                <HD SOURCE="HD2">Water Quality Degradation (Pollution)</HD>
+                <P>
+                    Information is lacking on the relict darter's tolerance to specific pollutants, but a variety of contaminants continue to degrade stream water quality within the Bayou de Chien system, and these pollutants may affect the relict darter. Several point-source and nonpoint-source pollutants to aquatic life occur in the Bayou de Chien system (Service 2020, appendix B) (KDOW 2018, pp. 43-45). These pollutants include copper, iron, lead, excess nutrients (total nitrogen and phosphorus), and eutrophication originating from two suspected sourcesâmunicipal point source discharges (
+                    <E T="03">e.g.,</E>
+                     sewage treatment) and agriculture (
+                    <E T="03">e.g.,</E>
+                     crop production and animal feeding operations). Portions of four streams that are occupied by relict darter, specifically Bayou de Chien, Cane Creek, Little Bayou de Chien, and South Fork Bayou de Chien, were identified as impaired due to these pollutants (KDOW 2018, pp. 43-45). The impacts of copper, lead, and iron inputs are unknown, but nutrient inputs and eutrophication can lead to excessive algal growths and instream oxygen deficiencies that can seriously affect aquatic species, including the relict darter.
+                </P>
+                <P>
+                    Currently, 13 National Pollutant Discharge Elimination System permits have been issued authorizing the discharge of pollutants within portions of the Bayou de Chien system (Fredenberg 2018, pers. comm.; Service 2020, p. 27). Two sewage treatment plants, the City of Fulton Treatment Works (Kentucky Pollutant Discharge Elimination System (KPDES) 
+                    <PRTPAGE P="66286"/>
+                    #KY0026913) and the Hickman East Sewage Treatment Plant (KPDES #KY0028436), discharge treated wastewater directly into Bayou de Chien. Between January 2010 and April 2020, the Fulton facility received 13 violation notices from KDOW. The notices were issued for permit exceedances of a variety of chemical parameters (
+                    <E T="03">e.g.,</E>
+                     biochemical oxygen demand (BOD), total suspended solids (TSS), pH) and for failures to meet certain monitoring requirements associated with the permit (Service 2020, appendix C). Insufficient treatment of wastewater could harm relict darter populations by introducing pollutants (
+                    <E T="03">e.g.,</E>
+                     metals, bacteria) and altering water quality conditions (
+                    <E T="03">e.g.,</E>
+                     decreased oxygen levels, elevated pH).
+                </P>
+                <P>
+                    The Bayou de Chien system is also affected by nonpoint-source pollutants, arising from a variety of diffuse sources. Examples of nonpoint-source pollutants include sediment (
+                    <E T="03">e.g.,</E>
+                     stormwater runoff from driveways, fields, construction sites), raw sewage (
+                    <E T="03">e.g.,</E>
+                     septic tank leakage, straight pipe discharges), animal waste from livestock, fertilizers, pesticides, herbicides, and road salt (KDOW 2013, pp. 19-21; KDOW 2018, pp. 43-45). Nonpoint-source pollutants can cause excess nutrification (increased levels of nitrogen and phosphorus), excessive algal growths that clog the waterway and affect swimming capability and visual predation, instream oxygen deficiencies that affect oxygen intake by relict darters, and other changes in water chemistry that can affect aquatic species such as the relict darter. Nonpoint-source pollution from land surface runoff can originate from virtually any land use activity and has been correlated with impervious surfaces and storm water runoff (Allan 2004, pp. 266-267). Pollutants may include sediments, fertilizers, herbicides, pesticides, animal wastes, septic tank and gray water leakage, pharmaceuticals, and petroleum products. These pollutants tend to increase concentrations of nutrients and toxins in the water and alter the chemistry of affected streams such that the habitat and food sources for species like the relict darter are negatively impacted.
+                </P>
+                <P>Due to its linear distribution within the Bayou de Chien mainstem and Jackson Creek, the relict darter continues to be vulnerable to accidental chemical or animal waste spills and releases that may result from traffic accidents, agricultural activities, or permitted discharges (Warren et al.1994, p. 24). Events of this kind have affected other aquatic communities in the southeastern United States during the recent past (Ahlstedt et al. 2016, pp. 8-9), so similar events have the potential to affect relict darter populations in the Bayou de Chien system. These events could have devastating effects on darters in these reaches (Piller and Burr 1996, p. 74) and could pose a threat to the long-term viability of the species.</P>
+                <HD SOURCE="HD2">Restricted Range/Isolation</HD>
+                <P>The relict darter has always had a limited geographic range, currently consisting of approximately 52.5 stream km (32.7 stream mi) within a single stream system in western Kentucky (Bayou de Chien system). The species was characterized as uncommon or rare at most collection sites in the 1990s (Piller and Burr 1998, pp. 66-71), and recent surveys indicate the species continues to be rare in some reaches but is more common in others.</P>
+                <P>
+                    The species' restricted range and low abundance in some reaches (
+                    <E T="03">e.g.,</E>
+                     Little Bayou de Chien and Cane Creek) make it more vulnerable to extirpation from toxic chemical spills, habitat modification, degradation from land surface runoff (nonpoint-source pollution), and natural catastrophic changes to their habitat (
+                    <E T="03">e.g.,</E>
+                     flood scour, drought). In particular, recent survey data indicate that the relict darter's most successful reproduction occurs in Jackson Creek and middle and headwater reaches of Bayou de Chien, which are vulnerable to catastrophic events, such as a single toxic chemical spill or an extreme weather event such as a drought or flash flood. These events could have devastating effects on darters in these reaches (Piller and Burr 1996, p. 74) and could pose a threat to the long-term viability of the species.
+                </P>
+                <P>The relict darter is represented by two geographically isolated populations: Bayou de Chien/Jackson Creek and Little Bayou de Chien (Service 2020, p. 20). The fact that the Little Bayou de Chien population is small and isolated from the larger Bayou de Chien/Jackson Creek population makes it more vulnerable to stochastic and catastrophic events, thus affecting overall relict darter viability.</P>
+                <HD SOURCE="HD2">Climate Change</HD>
+                <P>Species that are dependent on specialized habitat types, limited in distribution, or at the extreme periphery of their range may be most susceptible to the impacts of climate change (Byers and Norris 2011, pp. 18-19); however, while continued change is certain, the magnitude and rate of change is unknown in many cases. Climate change has the potential to increase the vulnerability of the relict darter to random catastrophic events (McLaughlin et al. 2002, pp. 6060-6074; Thomas et al. 2004, pp. 145-148). An increase in both severity and variation in climate patterns is expected; extreme floods, strong storms, and droughts will become more common (Cook et al. 2004, pp. 1015-1018; Ford et al. 2011, p. 2065; Intergovernmental Panel on Climate Change 2014, pp. 58-83). Frequency, duration, and intensity of droughts are likely to increase in the Southeast as a result of global climate change (Thomas et al. 2004, pp. 145-148). Stream temperatures in the Southeast have increased roughly 0.2-0.4 degrees Celsius (Â°C) (0.4-0.7 degrees Fahrenheit (Â°F)) per decade over the past 30 years, and as air temperature is a strong predictor of water temperature, stream temperatures are expected to continue to rise (Kaushal et al. 2010, p. 465). Predicted impacts of climate change on fishes include disruption to their physiology (such as temperature tolerance, dissolved oxygen needs, and metabolic rates), life history (such as timing of reproduction, growth rate), and distribution (range shifts, migration of new predators) (Jackson and Mandrak 2002, pp. 89-98; Heino et al. 2009, pp. 41-51; Strayer and Dudgeon 2010, pp. 350-351; Comte et al. 2013, pp. 627-636).</P>
+                <P>
+                    Estimates of the effects of climate change using available climate models typically lack the geographic precision needed to project the magnitude of effects at a scale small enough to discretely apply to the range of a given species. However, data on recent trends and projected changes for Kentucky (Girvetz et al. 2009, pp. 1-19), and, more specifically, the Bayou de Chien system (Alder and Hostetler 2017, entire) provide some insight for evaluating the potential impacts of climate change to the relict darter. Different emission scenarios have been used to calculate estimates of average annual increases in maximum and minimum air temperature, precipitation, snowfall, and other variables (Alder and Hostetler 2017, entire). These scenarios, called representative concentration pathways (RCPs), are plausible pathways toward reaching a target radiative forcing (the change in energy in the atmosphere due to greenhouse gases) by the year 2100 (Moss et al. 2010, p. 752). Depending on the chosen model and emission scenario (RCP 8.5 (high) vs. 4.5 (moderate)), annual mean maximum air temperatures for the Bayou de Chien system are expected to increase by 2.3-3.4 Â°C (4.1-6.1 Â°F) by 2074, while precipitation models predict that the Bayou de Chien system 
+                    <PRTPAGE P="66287"/>
+                    will experience a slight increase in annual mean precipitation (0.5 centimeters/month (0.2 inches/month)) through 2074 (Girvetz et al. 2009, pp. 1-19; Alder and Hostetler 2016, pp. 1-9).
+                </P>
+                <P>There is uncertainty about the specific effects of climate change (and their magnitude) on the relict darter; however, climate change is almost certain to affect aquatic habitats in the Bayou de Chien system of western Kentucky through increased water temperatures and more frequent droughts (Alder and Hostetler 2017, entire), and species with limited ranges, fragmented distributions, and small population size, such as the relict darter, are thought to be especially vulnerable to the effects of climate change (Byers and Norris 2011, pp. 18-19). Thus, we consider climate change to be a threat to the relict darter.</P>
+                <HD SOURCE="HD2">Regulatory Mechanisms</HD>
+                <P>The relict darter and its habitats are afforded some protection from water quality and habitat degradation under the Clean Water Act, Kentucky's Forest Conservation Act of 1998 (Kentucky Revised Statutes (KRS), chapter 149, sections 149.330-355), Kentucky's Agriculture Water Quality Act of 1994 (KRS, chapter 224, subchapter 71, sections 224.71-100-224.71-140), and additional Kentucky statutes and regulations regarding natural resources and environmental protection (KRS, chapter 224; title 401 of the Kentucky Administrative Regulations (KAR) at Chapters 10:026, 10:029, and 10:031). While it is clear that the protections afforded by these statutes and regulations have not prevented the degradation of some habitats used by the relict darter, the species has undoubtedly benefited from improvements in water quality and habitat conditions stemming from these regulatory mechanisms.</P>
+                <HD SOURCE="HD2">Conservation Efforts</HD>
+                <P>The relict darter is listed as endangered in Kentucky (OKNP 2019, p. 16), making it unlawful to take the species or damage its habitat without a State permit. Additionally, the relict darter is identified as a species of greatest conservation need in the Kentucky Wildlife Action Plan (KDFWR 2013, chapter 2), which outlines actions to promote species conservation.</P>
+                <P>
+                    Since listing the species (see 58 FR 68480; December 27, 1993), the Service has worked with multiple agencies and private partners (
+                    <E T="03">e.g.,</E>
+                     the U.S. Department of Agriculture's Natural Resources Conservation Service (NRCS), the Kentucky Department of Fish and Wildlife Resources (KDFWR), and The Nature Conservancy (TNC)) to implement conservation actions for the relict darter in the Bayou de Chien system. The Service's Partners for Fish and Wildlife (PFW) program has taken the lead role in this effort by providing technical and financial assistance to agencies and numerous private landowners. PFW has focused its efforts on the use of best management practices (BMPs) and instream conservation practices that enhance and restore riparian and instream habitats used by the relict darter. PFW projects have included a culvert removal in the headwaters of Bayou de Chien, installation of livestock alternate watering systems, placement of artificial spawning structures in Bayou de Chien and Jackson Creek, installation of livestock exclusion fencing along several kilometers of Bayou de Chien and Jackson Creek, and restoration of more than 20.2 hectares (50 acres) of native grasses and wildflowers within riparian areas. In addition to these efforts, PFW biologists have provided over 10 years of technical assistance to the U.S. Department of Agriculture, Wetland Reserve Easement Program, for projects within the Bayou de Chien system (Radomski 2019, pers. comm.). These efforts have resulted in permanent easements covering more than 1,700 acres (688 hectares) in the upper Bayou de Chien system (Morris 2020, pers. comm.). These easements will benefit the relict darter through sediment and nutrient reduction, shading of stream corridors (via riparian plantings), hydrological restoration (via plugging of agricultural ditches and improved groundwater connections), and general habitat creation or wetland restoration.
+                </P>
+                <HD SOURCE="HD2">Synergistic and Cumulative Effects</HD>
+                <P>In addition to affecting the relict darter individually, it is possible that several of the risk factors summarized above are acting synergistically, and all act cumulatively on the species. The combined impact of multiple stressors is likely more harmful than a single stressor acting alone. The dual stressors of climate change and direct human impact have the potential to affect aquatic ecosystems by altering stream flows and nutrient cycles, eliminating habitats, and changing community structure (Moore et al. 1997, p. 942). Increased water temperatures and a reduction in stream flow are the climate change effects that are most likely to affect stream communities (Poff 1992, entire; Thomas et al. 2004, pp. 145-148), and each variable is strongly influenced by land use patterns.</P>
+                <P>We note that, by using the SSA framework to guide our analysis of the scientific information documented in the SSA report, we have not only analyzed individual effects on the species, but we have also analyzed their potential cumulative effects. We incorporate the cumulative effects into our SSA analysis when we characterize the current and future condition of the species. To assess the current and future condition of the species, we undertake an iterative analysis that encompasses and incorporates the threats individually and then accumulates and evaluates the effects of all the factors that may be influencing the species, including threats and conservation efforts. Because the SSA framework considers not just the presence of the factors, but to what degree they collectively influence risk to the entire species, our assessment integrates the cumulative effects of the factors and replaces a standalone cumulative effects analysis.</P>
+                <HD SOURCE="HD2">Species Viability</HD>
+                <P>For relict darter populations to be sufficiently resilient, the needs of individuals (slow-flowing riffles and pools, appropriate substrate, food availability, water quality, and aquatic vegetation or large woody debris for cover) must be met at a larger scale. Stream reaches with suitable habitat must be large enough to support an appropriate number of individuals to avoid issues associated with small population size, such as inbreeding depression and the Allee effect (low population density reducing the probability of encountering mates for spawning). Connectivity of stream reaches allows for immigration and emigration between populations and increases the likelihood of recolonization should a population be lost. At the species level, the relict darter needs well-distributed healthy populations to withstand environmental stochasticity (resiliency) and catastrophes (redundancy) and to adapt to biological and physical changes in its environment (representation). To evaluate the current and future viability of the relict darter, we assessed a range of conditions to allow us to estimate the species' resiliency, representation, and redundancy.</P>
+                <P>
+                    We delineated analytical units (populations) by dividing the relict darter's range into two units (Bayou de Chien/Jackson Creek and Little Bayou de Chien) based on known occurrence records, the substantial distance (18.3 kilometers (km) (11.4 miles (mi)) separating known occurrence records in both watersheds, and unsuitable habitat 
+                    <PRTPAGE P="66288"/>
+                    conditions in downstream reaches of both watersheds.
+                </P>
+                <P>To assess resiliency, we evaluated four components that relate to the species' habitat or its population demography: physical habitat, water quality, mean density, and occurrence complexity. We assessed habitat using two components describing physical habitat quality and water quality. The demographic condition was assessed using mean density and occurrence complexity. We established parameters for each condition category by evaluating the range of existing data and separating those data into categories based on our understanding of the species' demographics and habitat (see table 1, below). Individual component scores were combined and averaged to produce an overall condition score for each population.</P>
+                <GPOTABLE COLS="5" OPTS="L2,nj,p7,7/8,i1" CDEF="s50,r100,r100,r100,r50">
+                    <TTITLE>Table 1âComponent Conditions Used To Assess Resiliency for Relict Darter Populations</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Component</CHED>
+                        <CHED H="1">Condition</CHED>
+                        <CHED H="2">High</CHED>
+                        <CHED H="2">Moderate</CHED>
+                        <CHED H="2">Low</CHED>
+                        <CHED H="2">0</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Physical Habitat</ENT>
+                        <ENT>
+                            Silt deposition low; no extensive or significant habitat alterations (
+                            <E T="03">e.g.,</E>
+                             recent channelization, riparian clearing); &gt;75% of available habitat suitable for the species
+                        </ENT>
+                        <ENT>Silt deposition moderate; habitat alterations at moderate levelsâchannelization or other habitat disturbance more widespread; 25-75% of available habitat suitable for the species</ENT>
+                        <ENT>Silt deposition extensive; habitats severely altered and recognized as impacting the species; &lt;25% of habitats suitable for the species</ENT>
+                        <ENT>Habitat unsuitable (species absent).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Water Quality</ENT>
+                        <ENT>
+                            Minimal or no known water quality (WQ) issues (
+                            <E T="03">i.e.,</E>
+                             no 303(d) streams impacting the speciesâ*)
+                        </ENT>
+                        <ENT>
+                            WQ issues recognized and may impact species (
+                            <E T="03">i.e.,</E>
+                             1 or 2 303(d) streams)
+                        </ENT>
+                        <ENT>
+                            WQ issues prevalent within system, likely impacting populations (
+                            <E T="03">i.e.,</E>
+                             numerous 303(d) streams)
+                        </ENT>
+                        <ENT>Habitat unsuitable (species absent).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Mean Density (# darters/m
+                            <SU>2</SU>
+                            )
+                        </ENT>
+                        <ENT>&gt;0.15</ENT>
+                        <ENT>0.05-0.15</ENT>
+                        <ENT>&lt;0.05</ENT>
+                        <ENT>Species absent.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Occurrence Complexity</ENT>
+                        <ENT>Occupies main channel and â¥3 tributaries</ENT>
+                        <ENT>Occupies main channel and maximum of 2 tributaries</ENT>
+                        <ENT>Occupies main channel and maximum of â¤1 tributary</ENT>
+                        <ENT>Species absent.</ENT>
+                    </ROW>
+                    <TNOTE>*âSignifies streams identified by the State of Kentucky on the list of impaired streams required by section 303(d) of the Clean Water Act (33 U.S.C. 1313(d)).</TNOTE>
+                </GPOTABLE>
+                <P>Our evaluation of representation for the relict darter was based on the species' genetic diversity and the extent and variability of environmental diversity (habitat diversity) across the species' geographical range. Additionally, we assessed relict darter redundancy (ability of the species to withstand catastrophic events) by evaluating the number and distribution of populations with high resilience throughout the species' range. Highly resilient populations, coupled with a broad distribution throughout the historical range, have a positive relationship to species-level redundancy.</P>
+                <HD SOURCE="HD2">Current Condition of the Relict Darter</HD>
+                <P>
+                    The relict darter's historical range included the Bayou de Chien stream system, a 554-km
+                    <SU>2</SU>
+                     (214-mi
+                    <SU>2</SU>
+                    ) watershed located within the Mississippi Valley Loess Plains ecoregion (Woods et al. 2002, entire) in Fulton, Graves, and Hickman Counties, Kentucky (Webb and Sisk 1975, entire; Warren et al. 1994, entire; Piller and Burr 1998, entire). Bayou de Chien is a low-gradient stream with a sand, gravel, and silt bottom that begins in southwestern Graves County and flows westward approximately 47 km (29.2 mi) through Hickman and Fulton Counties, before ultimately emptying into Obion Creek near Hickman, Kentucky. Historically, Bayou de Chien was presumably an undisturbed, free-flowing stream with alternating areas of riffles, runs, and pools; however, only a few of these reaches remain because much of the stream has been channelized and converted to a deep ditch with uniform depth, velocity, and substrate (Piller and Burr 1998, pp. 64-65).
+                </P>
+                <P>The relict darter's current range is also limited to the Bayou de Chien system in Fulton, Graves, and Hickman Counties, Kentucky. Recent surveys (2010-2019) indicate that the species is now known by two geographically separated populations: Bayou de Chien/Jackson Creek and Little Bayou de Chien. Within the Bayou de Chien/Jackson Creek population, the species occupies patches of suitable habitat within a 30.4-km (18.9-mi) reach of Bayou de Chien, a 3.6-km (2.3-mi) reach of Jackson Creek, a 3.2-km (2.0-mi) reach of South Fork Bayou de Chien, a 10.4-km (6.5-mi) reach of Cane Creek, and a 2.3-km (1.4-mi) reach of Sand Creek. Within the Little Bayou de Chien population, the species occupies patches of suitable habitat within a 2.6-km (1.6-mi) reach. In total, the species currently occupies 52.5 stream km (32.7 stream mi).</P>
+                <P>The Bayou de Chien/Jackson Creek population exhibits moderate resiliency, as evidenced by recent estimates of mean density and mean population size, recent monitoring data showing evidence of reproduction and recruitment, and our observations of moderate to high physical habitat and water quality conditions within the watershed (see table 2, below; Service 2020, p. 35). Based on recent surveys, Jackson Creek and Bayou de Chien have moderate to high relict darter densities, with population estimates of 1,888 and 22,798 fish, respectively, indicating that the population size has more than doubled since a decade ago (Service 2019, p. 7; Service 2020, p. 36). Resiliency of the Little Bayou de Chien population is lower due to its lower mean density and less optimal habitat conditions (see table 2, below). The species was only recently discovered in the Little Bayou de Chien in July 2017. Recent survey efforts have been limited to two 100-m reaches and several qualitative searches. Population size has not been estimated in these reaches because of the limited quantitative effort; however, 23 relict darters were observed. Low levels of reproduction and recruitment are assumed for the Little Bayou de Chien. Overall, the rangewide mean population estimate is 24,686 relict darters (Service 2019, p. 7).</P>
+                <P>
+                    We consider redundancy and representation of the relict darter to be low due to the species' small number of populations, its low effective population size (mean of 221.5, with a 95 percent confidence interval of 143.3-448.3), and its reduced genetic diversity (see table 2, below; Kattawar and Piller 2020, pp. 27-28). We recognize that redundancy and representation may be inherently low for a narrow endemic like the relict darter. The fact that the species exhibits little genetic variation across its range and has a very low effective population size suggests a past population bottleneck (
+                    <E T="03">e.g.,</E>
+                     rangewide habitat disturbance) and subsequent genetic drift (loss of rare alleles in a small population) (Kattawar and Piller 2020, entire).
+                    <PRTPAGE P="66289"/>
+                </P>
+                <GPOTABLE COLS="4" OPTS="L2,nj,i1" CDEF="s50,xs54,r75,r50">
+                    <TTITLE>Table 2âResiliency, Redundancy, Representation Summary for Relict Darter</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Population</CHED>
+                        <CHED H="1">Resiliency</CHED>
+                        <CHED H="1">Redundancy</CHED>
+                        <CHED H="1">Representation</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">
+                            Bayou de Chien/Jackson Creek
+                            <LI>Little Bayou de Chien</LI>
+                        </ENT>
+                        <ENT>
+                            Moderate
+                            <LI O="xl">Low.</LI>
+                        </ENT>
+                        <ENT>Naturally Lowâthe species is a narrowly distributed endemic; populations appear to be separated, but connectivity exists within Bayou de Chien, Jackson Creek, and other large tributaries</ENT>
+                        <ENT>Lowâlow genetic diversity and low effective population size.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>As a narrow endemic species located in one watershed in southwestern Kentucky, the relict darter has inherently low redundancy, with only one known population at the time of listing and currently two known populations. Representation is also limited based on its restricted range, yet the species has survived a likely population bottleneck. Despite low genetic diversity, genetic analyses indicate a single panmictic population, indicating some recent genetic exchange between populations. Low species redundancy and representation are tempered by the moderate resiliency of the Bayou de Chien/Jackson Creek population. This historical population continues to exhibit resiliency today, with high relict darter abundance and evidence of continued reproduction. This moderately resilient population has survived threats, primarily because conservation efforts over the past three decades have improved habitat within the system, thus enabling the breeding, feeding, and sheltering needs of the relict darter to be met and thus sustaining the population over time.</P>
+                <HD SOURCE="HD2">Future Conditions</HD>
+                <P>
+                    In our SSA (Service 2020, entire), we defined viability as the ability of the species to sustain populations in the wild over time. To help address uncertainty associated with the degree and extent of potential future stressors and their impacts on the species' needs, the concepts of resiliency, redundancy, and representation were assessed using three plausible future scenarios (continuation of current trend, improving trend, and worsening trend), using the same analytical units and components described above, in Summary of Biological Status and Threats. We devised these scenarios by identifying data sources related to the primary threats anticipated to affect the relict darter in the future. For the habitat loss and degradation threat, we looked at land cover change and urbanization, as well as conservation activity, and we also included predicted impacts of future climate change. The three scenarios capture the range of uncertainty in the changing landscape and how relict darter will respond to the changing conditions (see table 3, below). We used the best available data and models to project out 50 years into the future (
+                    <E T="03">i.e.,</E>
+                     2070), a timeframe where we were reasonably certain the land use change, urbanization, and climate models used could project patterns in the species' range relevant to the relict darter and its habitat given the species' lifespan, as well as the amount of time for the species to respond to the threats. For each scenario, we provided a summary of resiliency for each population at 10, 30, and 50 years in the future. For more information on the models and their projections, please see the SSA report (Service 2020, entire).
+                </P>
+                <GPOTABLE COLS="5" OPTS="L2,nj,i1" CDEF="xs54,r50,xs80,xs80,xs80">
+                    <TTITLE>Table 3âFuture Condition of the Relict Darter by the Years 2030, 2050, and 2070 Under Three Future Scenarios</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Scenario</CHED>
+                        <CHED H="1">Population</CHED>
+                        <CHED H="1">Predicted future condition</CHED>
+                        <CHED H="2">10 Years</CHED>
+                        <CHED H="2">30 Years</CHED>
+                        <CHED H="2">50 Years</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>Bayou de Chien/Jackson</ENT>
+                        <ENT>Moderate</ENT>
+                        <ENT>Moderate</ENT>
+                        <ENT>Moderate.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Little Bayou de Chien</ENT>
+                        <ENT>Low</ENT>
+                        <ENT>Low</ENT>
+                        <ENT>Low.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>Bayou de Chien/Jackson</ENT>
+                        <ENT>Moderate</ENT>
+                        <ENT>Moderate-High</ENT>
+                        <ENT>Moderate-High.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Little Bayou de Chien</ENT>
+                        <ENT>Low</ENT>
+                        <ENT>Low-Moderate</ENT>
+                        <ENT>Moderate.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>Bayou de Chien/Jackson</ENT>
+                        <ENT>Moderate</ENT>
+                        <ENT>Low-Moderate</ENT>
+                        <ENT>Low.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Little Bayou de Chien</ENT>
+                        <ENT>Low</ENT>
+                        <ENT>Potential Extirpation</ENT>
+                        <ENT>Potential Extirpation.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>Under Scenario 1 (continuation of current trend), small increases in urbanization were predicted by 2050 and 2070 within the watersheds of both extant populations (Service 2020, pp. 41-43), but associated negative effects on habitat and population elements were expected to be minimal. We also predicted continued implementation of conservation actions under KDFWR's conservation strategy and through the Service's PFW program. Using a moderate level of climate change (RCP 4.5), within the next 10 years, portions of the Bayou de Chien system were impacted by either drought or floods, with slightly warmer temperatures. Over the long term (30-50 years), drought affected all populations but at intervals and severity levels similar to what has occurred over the last 10 years.</P>
+                <P>
+                    Considering all of these factors, we expect no change in resiliency for the two known populations; however, the low resiliency of the Little Bayou de Chien population makes it much more vulnerable to extirpation from the effects of stochastic disturbance. Under Scenario 1, both representation and redundancy of the relict darter are expected to remain at low levels. The species is limited to one low resiliency population and one moderate resiliency population, both of which occupy streams within a single ecoregion, Mississippi Valley Loess Plains. Within this ecoregion, relict darters occupy second- to fourth-order reaches, but habitat diversity within these reaches tends to be low. The species also has low genetic diversity, which cannot be increased through augmentations, reintroductions, or other genetics-based conservation actions because genetic diversity cannot be created for a species that has a limited gene pool. The species' low genetic diversity could potentially limit its ability to adapt to changing environmental conditions over time. Furthermore, both populations will remain vulnerable to catastrophic events, such as an extreme drought or chemical spill, because the species' distribution is generally limited to a 
+                    <PRTPAGE P="66290"/>
+                    single, continuous stream reach within each population.
+                </P>
+                <P>Under Scenario 2 (improving trend), we projected a number of improved conditions and positive outcomes that led to overall improved resiliency and redundancy for the relict darter. We projected both land use change and urbanization to be lower than current rates. The current trend in climate improved, with lower annual increases in temperature and less severe droughts or floods in the short term (RCP 4.5). Over the long term (30-50 years), drought affected both populations but at intervals and severity levels lower than what occurred over the last 10 years. Conservation efforts, including new efforts along occupied reaches of Little Bayou de Chien, increased through State wildlife action plans, and other Service partnerships with Federal, State, and nongovernmental partners. These actions contributed to improved water quality conditions, increases in forest and riparian cover, and reductions in point source and nonpoint-source pollutants in all historical tributary systems.</P>
+                <P>Based on these habitat and water quality improvements, we expect both extant populations to increase in size, with continued reproduction and recruitment. We also expect these populations to expand into unoccupied historical tributaries, eventually resulting in improved occurrence complexity in both watersheds. All of these actions and conditions will result in increased resiliency for the Bayou de Chien/Jackson and Little Bayou de Chien populations over the next 30-50 years. Under Scenario 2, representation of the relict darter is expected to remain at a low level. The species' expansion within the Bayou de Chien and Little Bayou de Chien watersheds will bolster the species' resiliency and redundancy, but the species' low genetic diversity cannot be increased. Under Scenario 2, redundancy of the relict darter will increase due to the species' expansion and improved resiliency within the Bayou de Chien and Little Bayou de Chien watersheds and due to the species' recolonization of historical tributaries such as South Fork Bayou de Chien. This increased redundancy will decrease the likelihood that a catastrophic event, such as an extreme drought or pollution event, would lead to the species' extinction. Under Scenario 2, we expect the relict darter to exhibit low-moderate redundancy.</P>
+                <P>Under Scenario 3 (worsening trend), we projected rates of land use change and urbanization to be higher than current rates. Under this scenario, the current trend in climate worsened (high RCP of 8.5), and within the next 10 years, populations were impacted by either drought or floods, with warmer stream temperatures and lower rainfall. Over the long term (30-50 years), drought affected both populations at intervals and severity levels higher than what has occurred over the last 10 years. Some conservation actions continued in the Bayou de Chien system, but there was a net decrease in these activities due to reduced agency funding. All of these actions and conditions resulted in declining habitat and water quality conditions that will negatively affect resiliency estimates for both extant populations.</P>
+                <P>For this scenario, we project low resiliency for the Bayou de Chien/Jackson population and potential extirpation of the Little Bayou de Chien population by 2070. Under Scenario 3, representation of the relict darter is expected to remain at a low level. Reduced resiliency of the Bayou de Chien/Jackson Creek population and extirpation of the Little Bayou de Chien population will increase the species' vulnerability to stochastic disturbance and will likely reduce the species' ability to adapt to changing environmental conditions. Under Scenario 3, redundancy of the relict darter is expected to remain at a low level; however, extirpation of the Little Bayou de Chien population reduces the species' range, leaving it with a single population (Bayou de Chien/Jackson Creek) that is more vulnerable to a catastrophic event such as an extreme drought or chemical spill. The species' redundancy is also weakened by lower resiliency of the Bayou de Chien/Jackson Creek population, which will be faced with declining physical habitat and water quality conditions.</P>
+                <HD SOURCE="HD1">Determination of Relict Darter's Status</HD>
+                <P>Section 4 of the Act (16 U.S.C. 1533) and its implementing regulations (50 CFR part 424) set forth the procedures for determining whether a species meets the definition of âendangered speciesâ or âthreatened species.â The Act defines an endangered species as a species that is in danger of extinction throughout all or a significant portion of its range, and a threatened species as a species that is likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range. The Act requires that we determine whether a species meets the definition of endangered species or threatened species because of any of the following factors: (A) The present or threatened destruction, modification, or curtailment of its habitat or range; (B) overutilization for commercial, recreational, scientific, or educational purposes; (C) disease or predation; (D) the inadequacy of existing regulatory mechanisms; or (E) other natural or manmade factors affecting its continued existence.</P>
+                <HD SOURCE="HD2">Status Throughout All of Its Range</HD>
+                <P>
+                    After evaluating threats to the species and assessing the cumulative effect of the threats under the Act's section 4(a)(1) factors, we conclude that the risk factors acting on the relict darter and its habitat, either singly or in combination, are not of sufficient imminence, intensity, or magnitude to indicate that the species is in danger of extinction (an endangered species) throughout all of its range. As described above in 
+                    <E T="03">Current Condition of the Relict Darter,</E>
+                     the relict darter is naturally a narrow endemic species. Its low species redundancy and representation are tempered by the moderate resiliency of the Bayou de Chien/Jackson Creek population, which has high relict darter abundance and evidence of continued reproduction. Population size has increased and recruitment trends have improved based on surveys completed during the past decade. Further, this moderate resiliency population has survived threats, primarily because conservation efforts over the past three decades have improved and protected habitat within the system, enabling the breeding, feeding, and sheltering needs of the relict darter to be met and thus sustaining the population over time. The Service continues to work with partners on these projects. Additionally, a second population in the Little Bayou de Chien was discovered in 2017. While this newly discovered population has low resiliency, the addition of a second population adds to the species' redundancy.
+                </P>
+                <P>
+                    Our analysis of the relict darter's current condition shows that while the species has maintained resiliency since it was listed (see 58 FR 68480; December 27, 1993), it is now represented by only two populations in one watershed, and thus redundancy is still inherently low. The species also has low representation based on its reduced genetic diversity and low effective population size (Factor E), likely a result of a population bottleneck caused by extensive channelization and habitat disturbance throughout the Bayou de Chien system in the early 20th century. Habitat loss and degradation through stream channel disturbance, removal of riparian vegetation, and pollution continue to affect the species (Factor A), even though conservation actions over the past three decades have led to improved habitat conditions in 
+                    <PRTPAGE P="66291"/>
+                    portions of the Bayou de Chien mainstem and Jackson Creek, contributing to moderate resiliency for the larger population. The current resiliency of the Jackson Creek/Bayou de Chien population, with a population size that has doubled in the past decade to nearly 25,000 relict darters showing evidence of reproduction and successful recruitment, along with the added redundancy of the newly discovered Little Bayou de Chien population and the reduced habitat threats, indicate that the species is not currently in danger of extinction. Therefore, after assessing the best available information, we conclude that the relict darter no longer meets the Act's definition of an endangered species.
+                </P>
+                <P>The relict darter has benefited from protection as an endangered species under the Act, and from improvements in water quality and habitat conditions stemming from both national and Kentucky statutes and regulations; however, these regulations have not prevented the degradation of some habitats used by the species (Factor D). The primary threats that are currently acting on the species are expected to continue into the future, climate change (Factor E) is expected to exacerbate existing threats, and the species' low redundancy and low representation put the species at risk of extinction within the foreseeable future throughout all of its range. Fifty years was considered âforeseeableâ in this case because we can reasonably determine within this 50-year timeframe that both the threats as presented in the models of predicted urbanization, land use, and climate change and the species' responses to those threats are likely.</P>
+                <P>The range of plausible future scenarios of relict darter habitat conditions and water quality factors suggest slightly variable resilience into the future. Under the continuation of current trend scenario (Scenario 1), resiliency remains low or moderate in the two populations, with redundancy and representation remaining low. Under the improving trend scenario (Scenario 2), resiliency improves for both populations, with habitat conditions predicted to improve because of an increased percentage of forested land with reduced percentages of both agricultural land and urbanization, along with reduced climate change rates. Representation remains low under this scenario, but redundancy improves because of reintroduction of the species into historical habitats or natural expansion within the system. There is greater uncertainty regarding the species' future status, primarily due to conservation action implementation with this scenario than in the other two future scenarios. Under the worsening trend scenario (Scenario 3), resiliency is low in the one remaining population, and one population is likely extirpated resulting in reduced redundancy and low representation. This expected reduction in both the number and distribution of resilient populations is likely to increase the species' vulnerability to both stochastic and catastrophic disturbances. Compared to the other two scenarios, the conditions from Scenario 3 were considered more likely to contribute to the future condition of the species, primarily because of expected continued sedimentation and water quality degradation combined with the expected synergistic effects of climate change in the future.</P>
+                <P>
+                    In summary, while the relict darter's viability has improved over time (see 
+                    <E T="03">Conservation Efforts,</E>
+                     above), three major factors that are influencing the viability of the species are expected to affect it into the future: habitat loss and degradation, restricted range/isolation, and climate change. Habitat loss and degradation resulting from siltation, channelization/riparian vegetation removal, drainage of riparian wetlands, and water quality degradation (pollution) pose the largest risk to the current and future viability of the relict darter. With the plausibility of future land use changes that could impact instream habitat and water quality, the projected worsening climate conditions, and given the inherently low redundancy that increases vulnerability to catastrophic events, the relict darter is at risk of extinction within the next 50 years. Thus, after assessing the best available information, we conclude that the relict darter is not currently in danger of extinction, but it is likely to become in danger of extinction within the foreseeable future throughout all of its range.
+                </P>
+                <HD SOURCE="HD2">Status Throughout a Significant Portion of Its Range</HD>
+                <P>
+                    Under the Act and our implementing regulations, a species may warrant listing if it is in danger of extinction or likely to become so in the foreseeable future throughout all or a significant portion of its range. The court in 
+                    <E T="03">Center for Biological Diversity</E>
+                     v. 
+                    <E T="03">Everson,</E>
+                     2020 WL 437289 (D.D.C. Jan. 28, 2020) (
+                    <E T="03">Center for Biological Diversity</E>
+                    ), vacated the aspect of the Final Policy on Interpretation of the Phrase âSignificant Portion of Its Rangeâ in the Endangered Species Act's Definitions of âEndangered Speciesâ and âThreatened Speciesâ (79 FR 37578; July 1, 2014) that provided that the Service does not undertake an analysis of significant portions of a species' range if the species warrants listing as threatened throughout all of its range. Therefore, we proceed to evaluating whether the species is endangered in a significant portion of its rangeâthat is, whether there is any portion of the species' range for which both (1) the portion is significant; and (2) the species is in danger of extinction in that portion. Depending on the case, it might be more efficient for us to address the âsignificanceâ question or the âstatusâ question first. We can choose to address either question first. Regardless of which question we address first, if we reach a negative answer with respect to the first question that we address, we do not need to evaluate the other question for that portion of the species' range.
+                </P>
+                <P>
+                    Following the court's holding in 
+                    <E T="03">Center for Biological Diversity,</E>
+                     we now consider whether there are any significant portions of the species' range where the species is in danger of extinction now (
+                    <E T="03">i.e.,</E>
+                     endangered). In undertaking this analysis for relict darter, we choose to address the significance question first. First, we assessed the two portions of the range (Bayou de Chien/Jackson Creek and Little Bayou de Chien). In the absence of a legal definition of significance in the Act, we determined significance on a case-by-case basis for the relict darter using a reasonable interpretation of significance and providing a rational basis for our determination. In doing so, we considered what is currently observed about the contributions made by each geographic portion in terms of biological factors, focusing on the importance of each in supporting the continued viability of the species. We evaluated whether these areas occupy relatively large or particularly high-quality or unique habitat. As a narrow ranging endemic, both relict darter populations occur within one 554-km
+                    <SU>2</SU>
+                     (214-mi
+                    <SU>2</SU>
+                    ) watershed in three counties in southwestern Kentucky (Service 2020, p. 17), and Little Bayou de Chien is a tributary to Bayou de Chien. We determined that the Bayou de Chien/Jackson Creek portion is significant, as it is large geographically relative to the entire range of the species, it contains high-quality/high-value habitat for the species, and it contains habitat essential to the relict darter's life history; therefore, it is important for the overall conservation of the species. We determined that the Little Bayou de Chien portion is not significant, as it constitutes a very small portion (
+                    <E T="03">i.e.,</E>
+                     less than 5 percent) of the range and 
+                    <PRTPAGE P="66292"/>
+                    does not represent unique or high-quality habitat for the relict darter.
+                </P>
+                <P>
+                    Since we determined that Bayou de Chien/Jackson Creek is a significant portion, we next evaluate whether the relict darter is in danger of extinction (
+                    <E T="03">i.e.,</E>
+                     endangered) in that portion. The Bayou de Chien/Jackson Creek population has high relict darter abundance and evidence of continued reproduction. Population size has increased and recruitment trends have improved based on surveys completed during the past decade. Further, this moderate resiliency population has survived threats, primarily because conservation efforts over the past three decades have improved and protected habitat within the system, enabling the breeding, feeding, and sheltering needs of the relict darter to be met and thus sustaining the population over time. Thus, the Bayou de Chien/Jackson Creek portion is not in danger of extinction and does not have a different status than the entire range. Based on this, there are no portions of the species' range that provide a basis for determining that the species is in danger of extinction in a significant portion of its range, and we determine that the species is likely to become in danger of extinction within the foreseeable future throughout all of its range. This is consistent with the courts' holdings in 
+                    <E T="03">Desert Survivors</E>
+                     v. 
+                    <E T="03">Department of the Interior,</E>
+                     No. 16-cv-01165-JCS, 2018 WL 4053447 (N.D. Cal. Aug. 24, 2018), and 
+                    <E T="03">Center for Biological Diversity</E>
+                     v
+                    <E T="03">. Jewell,</E>
+                     248 F. Supp. 3d, 946, 959 (D. Ariz. 2017).
+                </P>
+                <HD SOURCE="HD2">Determination of Status</HD>
+                <P>Our review of the best scientific and commercial data available indicates that the relict darter meets the Act's definition of a threatened species. Therefore, we reclassify the relict darter as a threatened species in accordance with sections 3(20) and 4(a)(1) of the Act.</P>
+                <HD SOURCE="HD1">Available Conservation Measures</HD>
+                <P>Conservation measures provided to species listed as endangered or threatened under the Act include recognition, recovery actions, requirements for Federal protection, and prohibitions against certain practices. The Act encourages cooperation with the States and requires that recovery actions be implemented for all listed species. The protections required by Federal agencies and the prohibitions against certain activities are discussed, in part, below.</P>
+                <P>The primary purpose of the Act is the conservation of endangered and threatened species and the ecosystems upon which they depend. The ultimate goal of such conservation efforts is the recovery of these listed species, so that they no longer need the protective measures of the Act. Section 4(f) of the Act requires the Service to develop and implement recovery plans for the conservation of endangered and threatened species. The recovery planning process involves the identification of actions that are necessary to halt or reverse the species' decline by addressing the threats to its survival and recovery. The goal of this process is to restore listed species to a point where they are secure, self-sustaining, and functioning components of their ecosystem.</P>
+                <P>
+                    Revisions of the plan may be done to address continuing or new threats to the species, as new substantive information becomes available. The recovery plan identifies site-specific management actions that set a trigger for review of the five factors that control whether a species may be downlisted or delisted, and methods for monitoring recovery progress. Recovery plans also establish a framework for agencies to coordinate their recovery efforts and provide estimates of the cost of implementing recovery tasks. All planning documents can be found on our website (
+                    <E T="03">https://www.fws.gov/program/endangered-species</E>
+                    ), or from our Kentucky Ecological Services Field Office (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <P>
+                    Implementation of recovery actions generally requires the participation of a broad range of partners, including other Federal agencies, States, Tribes, nongovernmental organizations, businesses, and private landowners. Examples of recovery actions include habitat restoration (
+                    <E T="03">e.g.,</E>
+                     restoration of native vegetation), research, propagation and reintroduction, and outreach and education. The recovery of many listed species cannot be accomplished solely on Federal lands because their range may occur primarily or solely on non-Federal lands (such as TNC preserves and county-owned nature preserves). To achieve recovery of these species requires cooperative conservation efforts on private, State, and Tribal lands where appropriate. Funding for recovery actions could become available from a variety of sources, including Federal budgets, State programs, and cost share grants from non-Federal landowners, the academic community, and nongovernmental organizations. We invite you to submit any new information on this species whenever it becomes available (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <P>Section 7(a) requires Federal agencies to evaluate their actions with respect to any species that is listed as an endangered or threatened species. Regulations implementing this interagency cooperation provision of the Act are codified at 50 CFR part 402. Section 7(a)(2) of the Act requires Federal agencies to ensure that activities they authorize, fund, or carry out are not likely to jeopardize the continued existence of the species. If a Federal action may affect a listed species, the responsible Federal agency must enter into consultation with the Service.</P>
+                <P>
+                    Federal agency actions within the species' habitat that may require consultation as described in the preceding paragraph include management and any other landscape-altering activities on Federal lands administered by the U.S. Forest Service; issuance of section 404 Clean Water Act (33 U.S.C. 1251 
+                    <E T="03">et seq.</E>
+                    ) permits by the U.S. Army Corps of Engineers; and construction and maintenance of roads or highways by the Federal Highway Administration.
+                </P>
+                <HD SOURCE="HD1">II. Final Rule Issued Under Section 4(d) of the Act</HD>
+                <P>
+                    It is our policy, as published in the 
+                    <E T="04">Federal Register</E>
+                     on July 1, 1994 (59 FR 34272), to identify to the maximum extent practicable at the time a species is listed, those activities that would or would not constitute a violation of section 9 of the Act. The intent of this policy is to increase public awareness of the effect of a listing on proposed and ongoing activities within the range of the listed species. The Act allows the Secretary to promulgate protective regulations for threatened species pursuant to section 4(d) of the Act. Because we are reclassifying this species as a threatened species, the prohibitions in section 9 do not apply directly. We are, therefore, adopting a set of regulations to provide for the conservation of the species in accordance with section 4(d), which also authorizes us to apply any of the prohibitions in section 9 to a threatened species. The discussion below regarding protective regulations under section 4(d) of the Act complies with our policy.
+                </P>
+                <HD SOURCE="HD1">Background</HD>
+                <P>
+                    Section 4(d) of the Act contains two sentences. The first sentence states that the Secretary shall issue such regulations as she deems necessary and advisable to provide for the conservation of species listed as threatened species. The U.S. Supreme Court has noted that statutory language similar to the language in section 4(d) of the Act authorizing the Secretary to take action that she âdeems necessary and advisableâ affords a large degree of deference to the agency (see 
+                    <E T="03">Webster</E>
+                     v.
+                    <E T="03">
+                          
+                        <PRTPAGE P="66293"/>
+                        Doe,
+                    </E>
+                     486 U.S. 592, 600 (1988)). Conservation is defined in the Act to mean the use of all methods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to the Act are no longer necessary. Additionally, the second sentence of section 4(d) of the Act states that the Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 9(a)(1), in the case of fish or wildlife, or section 9(a)(2), in the case of plants. Thus, the combination of the two sentences of section 4(d) provides the Secretary with wide latitude of discretion to select and promulgate appropriate regulations tailored to the specific conservation needs of the threatened species. The second sentence grants particularly broad discretion to the Service when adopting one or more of the prohibitions under section 9.
+                </P>
+                <P>
+                    The courts have recognized the extent of the Secretary's discretion under this standard to develop rules that are appropriate for the conservation of a species. For example, courts have upheld, as a valid exercise of agency authority, rules developed under section 4(d) that included limited prohibitions against takings (see 
+                    <E T="03">Alsea Valley Alliance</E>
+                     v. 
+                    <E T="03">Lautenbacher,</E>
+                     2007 WL 2344927 (D. Or. 2007); 
+                    <E T="03">Washington Environmental Council</E>
+                     v. 
+                    <E T="03">National Marine Fisheries Service,</E>
+                     2002 WL 511479 (W.D. Wash. 2002)). Courts have also upheld 4(d) rules that do not address all of the threats a species faces (see 
+                    <E T="03">State of Louisiana</E>
+                     v. 
+                    <E T="03">Verity,</E>
+                     853 F.2d 322 (5th Cir. 1988)). As noted in the legislative history when the Act was initially enacted, âonce an animal is on the threatened list, the Secretary has an almost infinite number of options available to [her] with regard to the permitted activities for those species. [She] may, for example, permit taking, but not importation of such species, or [she] may choose to forbid both taking and importation but allow the transportation of such speciesâ (H.R. Rep. No. 412, 93rd Cong., 1st Sess. 1973).
+                </P>
+                <P>Exercising its authority under section 4(d), the Service has developed a rule that is designed to address the relict darter's specific threats and conservation needs. Although the statute does not require us to make a ânecessary and advisableâ finding with respect to the adoption of specific prohibitions under section 9, we find that this rule as a whole satisfies the requirement in section 4(d) of the Act to issue regulations deemed necessary and advisable to provide for the conservation of the relict darter. As discussed above under Summary of Biological Status and Threats, we have concluded that the relict darter is likely to become in danger of extinction within the foreseeable future primarily due to habitat degradation and loss stemming from siltation, channelization and riparian vegetation removal, riparian wetland drainage, and water quality degradation. These threats contribute to the negative effects associated with the species' restricted range and effects of climate change. The provisions of this 4(d) rule will promote conservation of the relict darter by providing continued protection from take and encouraging management of the landscape in ways that meet both watershed and riparian management considerations and the conservation needs of the relict darter. The provisions of this rule are one of many tools that we will use to promote the conservation of the relict darter.</P>
+                <P>Section 7(a)(2) of the Act requires Federal agencies, including the Service, to ensure that any action they fund, authorize, or carry out is not likely to jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of designated critical habitat of such species.</P>
+                <P>
+                    If a Federal action may affect a listed species or its critical habitat, the responsible Federal agency (action agency) must enter into consultation with us. Examples of actions that are subject to the section 7 consultation process are actions on State, Tribal, local, or private lands that require a Federal permit (such as a permit from the U.S. Army Corps of Engineers under section 404 of the Clean Water Act (33 U.S.C. 1251 
+                    <E T="03">et seq.</E>
+                    ) or a permit from the Service under section 10 of the Act) or that involve some other Federal action (such as funding from the Federal Highway Administration, Federal Aviation Administration, or the Federal Emergency Management Agency). Federal actions not affecting listed species or critical habitatâand actions on State, Tribal, local, or private lands that are not federally funded, authorized, or carried out by a Federal agencyâdo not require section 7 consultation.
+                </P>
+                <P>This obligation does not change in any way for a threatened species with a species-specific 4(d) rule. Actions that result in a determination by a Federal agency of ânot likely to adversely affectâ continue to require the Service's written concurrence and actions that are âlikely to adversely affectâ a species require formal consultation and the formulation of a biological opinion.</P>
+                <HD SOURCE="HD1">Provisions of the 4(d) Rule</HD>
+                <P>The provisions of this 4(d) rule will promote conservation of the relict darter by adopting the same prohibitions that apply to an endangered species under section 9 of the Act and 50 CFR 17.21. Except as otherwise authorized or permitted, this 4(d) rule continues to prohibit importing or exporting; take; possession and other acts with unlawfully taken specimens; delivering, receiving, carrying, transporting, or shipping in interstate or foreign commerce in the course of commercial activity; and selling or offering for sale in interstate or foreign commerce. The prohibitions apply throughout the species' range.</P>
+                <P>Identical to the regulations that apply under endangered status, the prohibitions in this 4(d) rule prohibit all forms of take within the United States. Under the Act, âtakeâ means to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct. Some of these provisions have been further defined in regulations at 50 CFR 17.3. Take can result knowingly or otherwise, by direct and indirect impacts, intentionally or incidentally. Regulating intentional and incidental take will help preserve the species' remaining populations, enable beneficial management actions to occur, and decrease synergistic, negative effects from other stressors.</P>
+                <P>This 4(d) rule prohibits intentional take, including capturing and handling, because these activities require training and experience. Such activities include, but are not limited to, monitoring and research involving capturing and handling relict darters. While these activities are important to relict darter recovery, there are proper techniques for capturing and handling fish that require training and experience. Improper capture or handling can cause injury or even result in death of relict darters. Therefore, to ensure that these activities continue to be conducted correctly by properly trained personnel, the 4(d) rule prohibits intentional take; however, these activities could be covered under a permit issued under section 10(a)(1)(A) of the Act.</P>
+                <P>
+                    Threats to the species are noted above and described in detail under Summary of Biological Status and Threats. The most significant threat expected to affect the species in the foreseeable future is habitat loss and degradation from siltation, channelization and riparian vegetation removal, drainage of riparian wetlands, and water quality degradation. Some activities have the potential to affect the relict darter, 
+                    <PRTPAGE P="66294"/>
+                    including agriculture and land development. These activities may result in incidental take through increases in siltation, diminishing water quality, altering stream flow, and reducing fish passage. Therefore, this 4(d) rule prohibits take to help preserve the relict darter's remaining populations, slow the rate of population decline, preserve and potentially provide for expansion of the population, and decrease synergistic, negative effects from other stressors.
+                </P>
+                <P>We may issue permits to carry out otherwise prohibited activities, including those described above, involving threatened wildlife under certain circumstances. Regulations governing permits are codified at 50 CFR 17.32. With regard to threatened wildlife, a permit may be issued for the following purposes: for scientific purposes, to enhance propagation or survival, for economic hardship, for zoological exhibition, for educational purposes, for incidental taking, or for special purposes consistent with the purposes of the Act. The statute also contains certain exemptions from the prohibitions, which are found in sections 9 and 10 of the Act.</P>
+                <HD SOURCE="HD2">Exceptions</HD>
+                <P>The 4(d) rule also provides for the conservation of the species by incorporating several exceptions to allow for routine enforcement activities, allow for assisting sick or injured fish, and encourage the active habitat management this species uniquely requires. The statute also contains certain statutory exceptions from the prohibitions, which are found in sections 9 and 10 of the Act, and other regulatory exceptions from the prohibitions, which are found in our regulations at 50 CFR part 17, subparts C and D. Below, we describe these exceptions to the prohibitions for the relict darter.</P>
+                <P>
+                    To start, this rule outlines several regulatory exceptions to the prohibitions for the relict darter. First, the rule excepts take associated with activities that are authorized by permits under Â§â17.32. This means that if a manager has received or receives a permit for a particular activity (
+                    <E T="03">e.g.,</E>
+                     a section 10(a)(1)(A) permit for monitoring relict darters), any take that occurs as a result of activities covered by this permit remains excepted from the prohibitions on take under the issued permit; in other words, the manager would not be liable for any take for which the manager already has a permit.
+                </P>
+                <P>Second, the final rule incorporates certain regulatory exceptions that allow take by any person in defense of his own life or the lives of others; take by representatives of the Service or of a State conservation agency to aid a sick specimen or to dispose of, salvage, or remove a dead specimen that is reported to the Office of Law Enforcement; and take by Federal and State law enforcement officers performing their official duties to possess, deliver, carry, transport, or ship any relict darters taken in violation of the Act, as necessary.</P>
+                <P>Next, the final 4(d) rule allows employees of State conservation agencies operating under a cooperative agreement with the Service in accordance with section 6(c) of the Act to take relict darters in order to carry out conservation programs for the species. We recognize the special and unique relationship with our State natural resource agency partners in contributing to conservation of listed species. State agencies often possess scientific data and valuable expertise on the status and distribution of endangered, threatened, and candidate species of wildlife and plants. State agencies, because of their authorities and their close working relationships with local governments and landowners, are in a unique position to assist us in implementing all aspects of the Act. In this regard, section 6 of the Act provides that we shall cooperate to the maximum extent practicable with the States in carrying out programs authorized by the Act. Therefore, any qualified employee or agent of a State conservation agency that is a party to a cooperative agreement with us in accordance with section 6(c) of the Act, who is designated by his or her agency for such purposes, will be able to conduct activities designed to conserve the relict darter that may result in otherwise prohibited take without additional authorization.</P>
+                <P>Finally, the 4(d) rule provides species-specific exceptions to the standard take prohibitions; these species-specific exceptions facilitate continued and increased implementation of beneficial management practices that provide for conservation of the species. Within each occupied stream, restoration actions will promote expansion of the relict darter's range and reduce the fragmentation and isolation of populations. These actions can reduce stressors that impact the relict darter, including runoff of siltation and pollution, and may (through riparian reforestation) mediate local water temperatures expected to increase with climate change. Incidental take associated with habitat restoration actions excepted by the 4(d) rule may result in some minimal level of harm or temporary disturbance to the relict darter. For example, a culvert replacement project would likely elevate suspended sediments for several hours, and the darters would need to move out of the sediment plume to resume normal feeding behavior. Because 4(d) rule exceptions do not apply during the relict darter's 4-month spawning period, a critical phase of the species' life history, the potential for incidental take is further minimized.</P>
+                <P>Overall, these activities benefit the species by expanding suitable habitat and reducing within-population fragmentation, contributing to conservation and recovery. Consistent with all of the exceptions and based on the best available information, our 4(d) rule excepts incidental take associated with the following activities, if carried out in accordance with existing regulations and permit requirements, and conducted outside the March through June spawning season:</P>
+                <P>â¢ Channel restoration or improvement projects that create natural, physically stable, ecologically functioning streams (or stream and wetland systems) that are reconnected with their groundwater aquifers and, if the projects involve known relict darter spawning habitat, take place between June 30 and March 1. These projects can be accomplished using a variety of methods, but the desired outcome is a natural channel with low shear stress (force of water moving against the channel); bank heights that enable reconnection to the floodplain; a reconnection of surface and groundwater systems, resulting in perennial flows in the channel; riffles and pools composed of existing soil, rock, and wood instead of large imported materials; low compaction of soils within adjacent riparian areas; and inclusion of riparian wetlands.</P>
+                <P>
+                    â¢ Streambank stabilization projects that use bioengineering methods to replace preexisting, bare, eroding stream banks with vegetated, stable stream banks, thereby reducing bank erosion and instream sedimentation and improving habitat conditions for the species and, if the projects involve known relict darter spawning habitat, that take place between June 30 and March 1. Stream banks may be stabilized using native live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), native live fascines (live branch cuttings, usually willows, bound together into long, cigar-shaped bundles), or brush layering (cuttings or branches of easily rooted tree species layered between 
+                    <PRTPAGE P="66295"/>
+                    successive lifts of soil fill). Stream banks must not be stabilized through the use of quarried rock (rip-rap) or the use of rock baskets or gabion structures.
+                </P>
+                <P>Bridge and culvert replacement/removal projects or low head dam removal projects that remove migration barriers or generally allow for improved upstream and downstream movements of relict darters while maintaining normal stream flows, preventing bed and bank erosion, and improving habitat conditions for the species and improving habitat conditions for the species, if completed between June 30 and March 1.</P>
+                <P>Transportation projects that follow best management practices that eliminate sedimentation, do not block stream flow, do not channelize streams, and provide for fish passage under a wide range of hydrologic conditions at stream crossings and that are done between June 30 and March 1.</P>
+                <P>Projects carried out in the species' range by the U.S. Department of Agriculture's Natural Resources Conservation Service that do not alter habitats known to be used by the relict darter beyond the fish's tolerances and are performed between June 30 and March 1 to avoid the time period when the relict darter will be found within its spawning habitat, if such habitat is affected by the activity.</P>
+                <P>Nothing in this 4(d) rule changes in any way the recovery planning provisions of section 4(f) of the Act, the consultation requirements under section 7 of the Act, or the ability of the Service to enter into partnerships for the management and protection of the relict darter. However, interagency cooperation may be further streamlined through planned programmatic consultations for the species between Federal agencies and the Service, where appropriate.</P>
+                <HD SOURCE="HD1">Required Determinations</HD>
+                <HD SOURCE="HD2">National Environmental Policy Act (42 U.S.C. 4321 et seq.)</HD>
+                <P>
+                    We have determined that environmental assessments and environmental impact statements, as defined under the authority of the National Environmental Policy Act (NEPA; 42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ), need not be prepared in connection with determining a species' listing status under the Endangered Species Act. We published a notice outlining our reasons for this determination in the 
+                    <E T="04">Federal Register</E>
+                     on October 25, 1983 (48 FR 49244). We also determine that 4(d) rules that accompany regulations adopted pursuant to section 4(a) of the Act are not subject to NEPA.
+                </P>
+                <HD SOURCE="HD2">Government-to-Government Relationship With Tribes</HD>
+                <P>In accordance with the President's memorandum of April 29, 1994 (Government-to-Government Relations with Native American Tribal Governments; 59 FR 22951), Executive Order 13175 (Consultation and Coordination with Indian Tribal Governments), and the Department of the Interior's manual at 512 DM 2, we readily acknowledge our responsibility to communicate meaningfully with recognized Federal Tribes on a government-to-government basis. In accordance with Secretary's Order 3206 of June 5, 1997 (American Indian Tribal Rights, Federal-Tribal Trust Responsibilities, and the Endangered Species Act), we readily acknowledge our responsibilities to work directly with Tribes in developing programs for healthy ecosystems, to acknowledge that Tribal lands are not subject to the same controls as Federal public lands, to remain sensitive to Indian culture, and to make information available to Tribes. There are no known Tribes or Tribal lands within the range of the relict darter.</P>
+                <HD SOURCE="HD1">References Cited</HD>
+                <P>
+                    A complete list of references cited in this rulemaking is available on the internet at 
+                    <E T="03">https://www.regulations.gov.</E>
+                </P>
+                <HD SOURCE="HD1">Authors</HD>
+                <P>The primary authors of this rule are the staff members of the Fish and Wildlife Service's Species Assessment Team and the Kentucky Ecological Services Field Office.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 50 CFR Part 17</HD>
+                    <P>Endangered and threatened species, Exports, Imports, Plants, Reporting and recordkeeping requirements, Transportation, Wildlife.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Regulation Promulgation</HD>
+                <P>Accordingly, we amend part 17, subchapter B of chapter I, title 50 of the Code of Federal Regulations, as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 17âENDANGERED AND THREATENED WILDLIFE AND PLANTS</HD>
+                </PART>
+                <REGTEXT TITLE="50" PART="17">
+                    <AMDPAR>1. The authority citation for part 17 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 16 U.S.C. 1361-1407; 1531-1544; and 4201-4245, unless otherwise noted.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="50" PART="17">
+                    <AMDPAR>2. In Â§â17.11, in paragraph (h), amend the List of Endangered and Threatened Wildlife by revising the entry for âDarter, relictâ under Fishes to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â17.11</SECTNO>
+                        <SUBJECT>Endangered and threatened wildlife.</SUBJECT>
+                        <STARS/>
+                        <P>(h) * * *</P>
+                        <GPOTABLE COLS="5" OPTS="L1,tp0,i1" CDEF="s50,r50,r50,xls30,r100">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Common name</CHED>
+                                <CHED H="1">Scientific name</CHED>
+                                <CHED H="1">Where listed</CHED>
+                                <CHED H="1">Status</CHED>
+                                <CHED H="1">Listing citations and applicable rules</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="21">
+                                    <E T="04">Fishes</E>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">Darter, relict</ENT>
+                                <ENT>
+                                    <E T="03">Etheostoma chienense</E>
+                                </ENT>
+                                <ENT>Wherever found</ENT>
+                                <ENT>T</ENT>
+                                <ENT>
+                                    58 FR 68480, 12/27/1993; 88 FR [Insert 
+                                    <E T="02">Federal Register</E>
+                                     page where the document begins], 9/27/2023; 50 CFR 17.44(hh).
+                                    <SU>4d</SU>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="50" PART="17">
+                    <AMDPAR>3. Amend Â§â17.44 by adding paragraphs (gg) and (hh) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â17.44</SECTNO>
+                        <SUBJECT>Special rulesâfishes.</SUBJECT>
+                        <STARS/>
+                        <P>(gg) [Reserved]</P>
+                        <P>
+                            (hh) Relict darter (
+                            <E T="03">Etheostoma chienense</E>
+                            ).
+                        </P>
+                        <P>
+                            (1) 
+                            <E T="03">Prohibitions.</E>
+                             The following prohibitions that apply to endangered wildlife also apply to relict darter. Except as provided under paragraph (hh)(2) of this section and Â§Â§â17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to 
+                            <PRTPAGE P="66296"/>
+                            be committed, any of the following acts in regard to this species:
+                        </P>
+                        <P>(i) Import or export, as set forth at Â§â17.21(b) for endangered wildlife.</P>
+                        <P>(ii) Take, as set forth at Â§â17.21(c)(1) for endangered wildlife.</P>
+                        <P>(iii) Possession and other acts with unlawfully taken specimens, as set forth at Â§â17.21(d)(1) for endangered wildlife.</P>
+                        <P>(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at Â§â17.21(e) for endangered wildlife.</P>
+                        <P>(v) Sale or offer for sale, as set forth at Â§â17.21(f) for endangered wildlife.</P>
+                        <P>
+                            (2) 
+                            <E T="03">Exception</E>
+                            s 
+                            <E T="03">from prohibitions.</E>
+                             In regard to this species, you may:
+                        </P>
+                        <P>(i) Conduct activities as authorized by a permit under Â§â17.32.</P>
+                        <P>(ii) Take, as set forth at Â§â17.21(c)(2) through (4) for endangered wildlife.</P>
+                        <P>(iii) Take as set forth at Â§â17.31(b).</P>
+                        <P>(iv) Take incidental to an otherwise lawful activity caused by:</P>
+                        <P>(A) Channel restoration or improvement projects that create natural, physically stable, ecologically functioning streams (or stream and wetland systems) that are reconnected with their groundwater aquifers and, if the projects involve known relict darter spawning habitat, that take place between June 30 and March 1. These projects can be accomplished using a variety of methods, but the desired outcome is a natural channel with low shear stress (force of water moving against the channel); bank heights that enable reconnection to the floodplain; a reconnection of surface and groundwater systems, resulting in perennial flows in the channel; riffles and pools composed of existing soil, rock, and wood instead of large imported materials; low compaction of soils within adjacent riparian areas; and inclusion of riparian wetlands.</P>
+                        <P>(B) Streambank stabilization projects that use bioengineering methods to replace preexisting, bare, eroding stream banks with vegetated, stable stream banks, thereby reducing bank erosion and instream sedimentation and improving habitat conditions for the species and, if the projects involve known relict darter spawning habitat, that take place between June 30 and March 1. Stream banks may be stabilized using native live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), native live fascines (live branch cuttings, usually willows, bound together into long, cigar-shaped bundles), or brush layering (cuttings or branches of easily rooted tree species layered between successive lifts of soil fill). Stream banks must not be stabilized through the use of quarried rock (rip-rap) or the use of rock baskets or gabion structures.</P>
+                        <P>(C) Bridge and culvert replacement/removal projects or low head dam removal projects that remove migration barriers or generally allow for improved upstream and downstream movements of relict darters while maintaining normal stream flows, preventing bed and bank erosion, and improving habitat conditions for the species, if completed between June 30 and March 1.</P>
+                        <P>(D) Transportation projects that follow best management practices that eliminate sedimentation, do not block stream flow, do not channelize streams, and provide for fish passage under a wide range of hydrologic conditions at stream crossings and that are done between June 30 and March 1.</P>
+                        <P>(E) Projects carried out in the species' range by the Natural Resources Conservation Service, U.S. Department of Agriculture, that:</P>
+                        <P>
+                            (
+                            <E T="03">1</E>
+                            ) Do not alter habitats known to be used by the relict darter beyond the fish's tolerances; and
+                        </P>
+                        <P>
+                            (
+                            <E T="03">2</E>
+                            ) Are performed between June 30 and March 1 to avoid the time period when the relict darter will be found within its spawning habitat, if such habitat is affected by the activity.
+                        </P>
+                        <P>(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at Â§â17.21(d)(2) for endangered wildlife.</P>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <NAME>Martha Williams,</NAME>
+                    <TITLE>Director, U.S. Fish and Wildlife Service.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2023-20945 Filed 9-26-23; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 4333-15-P</BILCOD>
+        </RULE>

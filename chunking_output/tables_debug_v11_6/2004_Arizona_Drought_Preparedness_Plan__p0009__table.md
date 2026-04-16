@@ -1,0 +1,5 @@
+[TABLE]
+| Abnormally Dry (Raise Consciousness) | State Government Will: | Communities/Utilities Need to: | Individuals Need to: |
+| --- | --- | --- | --- |
+|  | Accelerate work with local; governments and water; providers on public awareness; and outreach; Communicate conditions,; reinforce general; conservation tips; Publish community and state; facility water use information; through website, media and; other public outreach; Review State Drought Plan -- | Implement Conservation; Program; Implement Drought Plan; Communicate conditions,; increase outreach and provide; conservation tips2; Provide incentives for (or; require) all new and existing; large turf users (golf courses,; common areas of subdivision) to.; be hook up to non-potable; supplies (e.g. | Conduct home water audits and.; leak detection. Fix leaking; faucets and replace faulty; fixtures.; Practice appropriate; conservation strategies; Install low-water use; landscaping; . Repair leaks in irrigation; system; . Reset irrigation timers; seasonally; : Implement water harvesting; techniques |
+[/TABLE]

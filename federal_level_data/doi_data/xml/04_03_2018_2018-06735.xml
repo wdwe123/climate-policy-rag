@@ -1,0 +1,495 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF THE INTERIOR</AGENCY>
+                <SUBAGY>Fish and Wildlife Service</SUBAGY>
+                <CFR>50 CFR Part 17</CFR>
+                <DEPDOC>[Docket No. FWS-R4-ES-2017-0017; 4500030113]</DEPDOC>
+                <RIN>RIN 1018-BB45</RIN>
+                <SUBJECT>Endangered and Threatened Wildlife and Plants; Threatened Species Status for Yellow Lance</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Fish and Wildlife Service, Interior.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        We, the U.S. Fish and Wildlife Service (Service), determine threatened species status under the Endangered Species Act of 1973, as amended (ESA or Act), for yellow lance (
+                        <E T="03">Elliptio lanceolata</E>
+                        ), a mussel species from Maryland, Virginia, and North Carolina. The effect of this regulation will be to add this species to the List of Endangered and Threatened Wildlife.
+                    </P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective May 3, 2018.</P>
+                </DATES>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        This final rule is available on the internet at 
+                        <E T="03">http://www.regulations.gov</E>
+                         in Docket No. FWS-R4-ES-2017-0017 and 
+                        <E T="03">https://www.fws.gov/southeast/.</E>
+                         Comments and materials we received, as well as supporting documentation we used in preparing this rule, are available for public inspection at 
+                        <E T="03">http://www.regulations.gov.</E>
+                         Comments, materials, and documentation that we considered in this rulemaking will be available by appointment, during normal business hours at: U.S. Fish and Wildlife Service, Raleigh Ecological Services Field Office, 551F Pylon Drive, Raleigh, NC 27606; 919-856-4520.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>Pete Benjamin, Field Supervisor, U.S. Fish and Wildlife Service, Raleigh Ecological Services Field Office, 551F Pylon Drive, Raleigh, NC 27606 or telephone 919-856-4520. Persons who use a telecommunications device for the deaf (TDD) may call the Federal Relay Service at 800-877-8339.</P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Supporting Documents</HD>
+                <P>
+                    A species status assessment (SSA) team prepared an SSA report for the yellow lance. The SSA team was 
+                    <PRTPAGE P="14190"/>
+                    composed of Service biologists, in consultation with other species experts. The SSA report represents a compilation of the best scientific and commercial data available concerning the status of the species, including the impacts of past, present, and future factors (both negative and beneficial) affecting the yellow lance. The SSA report underwent independent peer review by scientists with expertise in mussel biology, habitat management, and stressors (factors negatively affecting the species) to the species. The SSA report, proposed rule, and other materials relating to this rule can be found on the Southeast Region website at 
+                    <E T="03">https://www.fws.gov/southeast/</E>
+                     and at 
+                    <E T="03">http://www.regulations.gov</E>
+                     under Docket No. FWS-R4-ES-2017-0017.
+                </P>
+                <HD SOURCE="HD1">Previous Federal Action</HD>
+                <P>Please refer to the proposed listing rule for the yellow lance (82 FR 16559; April 5, 2017) for a detailed description of previous Federal actions concerning this species.</P>
+                <HD SOURCE="HD1">Background</HD>
+                <P>
+                    Please refer to the proposed listing rule for the yellow lance and the SSA Report for a full summary of species information. Both are available on the Southeast Region website at 
+                    <E T="03">https://www.fws.gov/southeast/</E>
+                     and at 
+                    <E T="03">http://www.regulations.gov</E>
+                     under Docket No. FWS-R4-ES-2017-0017.
+                </P>
+                <HD SOURCE="HD1">Summary of Changes From the Proposed Rule</HD>
+                <P>In preparing this final rule, we reviewed and fully considered comments from the public on the proposed rule (see below). No substantive changes were made to this final rule after consideration of the comments we received. The SSA report was updated (to version 1.3) based on comments and some additional information provided; many small, non-substantive clarifications and corrections were made throughout the SSA document, including ensuring consistency of colors on maps, providing details about data sources used, updating references in the description of threats section, and minor clarifications. However, the information we received in response to the proposed rule did not change our determination that the yellow lance is a threatened species.</P>
+                <HD SOURCE="HD1">Summary of Comments and Recommendations</HD>
+                <P>
+                    In the proposed rule published on April 5, 2017 (82 FR 16559), we requested that all interested parties submit written comments on the proposal by June 5, 2017. We also contacted appropriate Federal and State agencies, scientific experts and organizations, and other interested parties and invited them to comment on the proposal. We did not receive any requests for a public hearing.
+                    <E T="03"/>
+                     All substantive information provided during the comment period has either been incorporated directly into this final determination or addressed below.
+                </P>
+                <HD SOURCE="HD2">Peer Reviewer Comments</HD>
+                <P>In accordance with our peer review policy published on July 1, 1994 (59 FR 34270), and our August 22, 2016, memorandum updating and clarifying the role of peer review actions under the Act, we solicited expert opinion from 13 knowledgeable individuals with scientific expertise that included familiarity with yellow lance and its habitat, biological needs, and threats. We received responses from seven of the peer reviewers.</P>
+                <P>We reviewed all comments received from the peer reviewers for substantive issues and new information regarding the information contained in the SSA Report. The peer reviewers generally concurred with our methods and conclusions and provided additional information, clarifications, and suggestions to improve the final SSA Report. Peer reviewer comments are addressed in the following summary and were incorporated into the final SSA Report as appropriate.</P>
+                <P>
+                    <E T="03">(1) Comment:</E>
+                     One peer reviewer recommended that Natural Heritage Element Occurrences should have been used as metrics to delineate populations instead of river basins and hydrologic unit code 10 (HUC10) management units (MUs).
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The use of river basins and MUs as metrics was suggested by the Yellow Lance Technical Team. This species expert group, which included Natural Heritage biologists, did not think the element occurrence was appropriate for this analysis, because element occurrences are too fine a scale and represent where individuals have been documented rather than capture the extent of the suitable habitat. The river basin level by itself is too coarse of a scale at which to estimate the condition of factors influencing resiliency, so populations were further delineated using MUs. MUs were defined as one or more HUC10 watersheds that species experts identified as most appropriate for assessing population-level resiliency, because it better captures the extent of suitable habitat for areas where yellow lance are found.
+                </P>
+                <P>
+                    <E T="03">(2) Comment:</E>
+                     One peer reviewer suggested we use data from flow gauges to measure water availability for the time period identified.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Gauge data are not consistently available for all locations in the analysis. Drought maps were used to give an overall (rangewide) impression about climate-related influences on the population.
+                </P>
+                <P>
+                    <E T="03">(3) Comment:</E>
+                     One peer reviewer wanted more information on how the Active River Areas (ARAs) were delineated.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     An ARA is a pre-defined/delineated shapefile made available by The Nature Conservancy (TNC). The ARA framework is a spatially explicit characterization? of rivers that includes both the channels and the riparian lands necessary to accommodate the physical and ecological processes associated with the river system. The ARA includes material contribution areas, meander belts, floodplains, terraces, and riparian wetlands. For more information, see: 
+                    <E T="03">https://www.conservationgateway.org/ConservationByGeography/NorthAmerica/UnitedStates/edc/Documents/ED_freshwater_ARA_NE2008.pdf</E>
+                    .
+                </P>
+                <P>
+                    <E T="03">(4) Comment:</E>
+                     One peer reviewer stated that we should have completed a PECE analysis on the conservation management actions.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The Policy for the Evaluation of Conservation Efforts (PECE) is a policy that provides guidance on how to evaluate conservation efforts that have not yet been implemented or have not yet demonstrated effectiveness. The management actions described in the SSA Report do not fall under these criteria because they are past and present conservation management actions.
+                </P>
+                <P>
+                    <E T="03">(5) Comment:</E>
+                     One peer reviewer noted that not all watersheds are at equal risk of development.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We understand that development of watersheds varies across the range of the species. To capture this variation, we used the SLEUTH BAU model of urban growth in the Southeast U.S., which looks at patterns of past development and projects similar spatial pattern of development into the future. We believe this model constitutes the best available information concerning the future development projections within the range of the yellow lance.
+                </P>
+                <HD SOURCE="HD2">Comments From States</HD>
+                <P>
+                    <E T="03">(6) Comment:</E>
+                     The North Carolina Wildlife Commission and other commenters requested that the Service 
+                    <PRTPAGE P="14191"/>
+                    implement a rule under section 4(d) of the Act in order to provide for species conservation and other activities resulting in incidental take.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We have not proposed a section 4(d) rule at this time, but we plan to propose a section 4(d) rule in the future to tailor the take prohibitions of the Act to those necessary and advisable to provide for the conservation of the yellow lance.
+                </P>
+                <HD SOURCE="HD2">Public Comments</HD>
+                <P>
+                    <E T="03">(7) Comment:</E>
+                     Several commenters stated that the Service did not acknowledge the benefits of high rates of compliance with forestry Best Management Practices (BMPs), and instead focused on the relatively rare instances of failure to use BMPs. While the Service correctly acknowledges that silvicultural activities performed according to BMPs âcan retain adequate conditions for aquatic ecosystems,â the remainder of the Service's discussion regarding BMPs focuses on those rare circumstances when BMPs are not implemented.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We included forest cover within the ARA as one of the main contributions to the habitat element of instream substrate, thus indicating that well-managed forests are important contributors to maintaining habitat occupied by the species. The SSA Report notes that BMPs were not always common practice, but that those instances of noncompliance today are rare (SSA, p. 52). In Chapter 4, the SSA Report describes the many factors that contribute to the viability of the species, and the instances of failure to use BMPs could impact those factors and thus contribute to species decline, especially if those noncompliance areas are within the few known locations where the species persists. If BMPs associated with forestry practices are not followed, stream temperatures can increase, sedimentation can lower water quality, and associated roads can lead to increased sedimentation (references provided in SSA, pp. 50-51). So while improper implementation is rare, it can have drastic negative effects on sensitive aquatic species like freshwater mussels. The intent of Section 4.5 of the SSA Report was to discuss those circumstances when BMPs are not used and how that could affect the species' viability.
+                </P>
+                <P>
+                    <E T="03">(8) Comment:</E>
+                     One commenter stated that not implementing a BMP does not equate to a water quality risk and, therefore, also does not equate to noncompliance with State of North Carolina Forest Practice Guidelines Related to Water Quality standards (FPG). The commenter noted that the text written by the Service (âMany forestry activities are not required to obtain a CWA [Clean Water Act] 404 permit, as silviculture activities (such as harvesting for the production of fiber and forest products) are exemptedâ) lead the reader to believe that this exemption allows forestry activities to create a water quality problem without consequence.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The statement from the SSA quoted in the comment above was not intended to indicate that there was no recourse for such action, but rather to indicate that many activities are exempted from permits. We clarified the language in the report. While we understand that not every BMP relates to water quality protections, many of them do contribute to water quality and habitat quality. As indicated in Table 4-3 of the SSA (p. 52), the BMP with one of the lowest implementation rates is one designed to reduce the impacts of stream crossings. Lack of adherence to or compliance with stream crossing BMPs creates a water quality risk, because improperly constructed culverts at stream crossings act as barriers to host fish (and, therefore, the yellow lance). This scenario leads to loss of access to quality habitat, as well as fragmented habitat and a loss of connectivity between populations of the yellow lance. This situation can limit both genetic exchange and recolonization opportunities.
+                </P>
+                <P>
+                    <E T="03">(9) Comment:</E>
+                     One commenter stated that references not from the southeastern United States should be removed.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     In accordance with section 4 of the Act, we are required to make listing decisions on the basis of the best scientific and commercial data available. Further, our Policy on Information Standards under the Act (published in the 
+                    <E T="04">Federal Register</E>
+                     on July 1, 1994 (59 FR 34271)), the Information Quality Act (section 515 of the Treasury and General Government Appropriations Act for Fiscal Year 2001 (Pub. L. 106-554; H.R. 5658)), and our associated Information Quality Guidelines (
+                    <E T="03">www.fws.gov/informationquality/</E>
+                    ), provide criteria and guidance, and establish procedures to ensure that our decisions are based on the best scientific data available. We determined that references from outside the southeastern United States are valid sources of information relevant to the listing decision. The information provided in those references is important to consider because it informs how stream temperature is affected after deforestation, and how biota in the stream are subsequently impacted. Use of these sources conforms with our information standards because it is recent, relevant work that relates to the point being made regarding stream temperatures, that removal of vegetation alongside streams increases water temperature in the stream.
+                </P>
+                <P>
+                    <E T="03">(10) Comment:</E>
+                     One commenter stated that the proposed rule and SSA Report do not meet the information standards of the Interagency Policy on Information Standards adopted by the Service. Both documents evaluate a subset of the available data, fail to perform an in-depth analysis of the data that is evaluated, define populations inaccurately, present inaccurate analyses and conclusions, and provide a limited view of the potential future scenarios relative to the viability of the species. Under the ESA and associated Federal policies and guidelines, the rule and SSA Report do not provide sufficient scientific and technical information to support decision-making relative to the proposed listing of the yellow lance.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The commenter did not provide any contradictory science or available data that we did not consider. We used an integrated and conservation-focused analytical approach, the Species Status Assessment Framework, to assess the species' biological status for the purpose of informing decisions and activities under the Act. As discussed under Comment 9 above, our information quality standards require our biologists, to the extent consistent with the Act and with the use of the best scientific and commercial data available, to use primary and original sources of information as the basis for determinations to list a species under the Act. The most comprehensive, current data sets from all known State agency (including museum) databases were used, and references to current data usage are in the text of the SSA (pp. 12 and 22). We used both the peer-reviewed SLEUTH urbanization model and the Intergovernmental Panel on Climate Change (IPCC) model to analyze a wide range of possible future scenarios, and our methods and analyses underwent peer review by independent species experts.
+                </P>
+                <P>
+                    This final rule and the final SSA report rely on published articles, unpublished research, expert habitat modeling, comprehensive digital data, and the expert opinion of subject biologists to determine the listing status for the yellow lance. Additional information was added throughout the SSA to detail data sources used for analysis. The most comprehensive, current data sets from all known State agency (including museum) databases 
+                    <PRTPAGE P="14192"/>
+                    were used, and references to current data usage are in the text of the SSA (pp. 12 and 22). Survey summaries and detailed maps are provided in Appendix B. Also, in accordance with the Service's peer review policy (59 FR 34270, July 1, 1994), we solicited peer review from knowledgeable individuals with scientific expertise that included familiarity with the species, the geographic region in which the species occurs, and conservation biology principles. Additionally, we requested comments or information from other concerned governmental agencies, the scientific community, industry, and any other interested parties concerning the proposed rule. Comments and information we received helped inform this final rule.
+                </P>
+                <P>
+                    <E T="03">(11) Comment:</E>
+                     One commenter stated that the analysis weighed the species assessment towards factors that may restrict future expansion of the species' distribution rather than factors that pose a direct threat to the survival of existing or future mussels.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     It is appropriate for us to consider factors that would restrict future expansions, especially for a species that is currently reduced from its historical range. Chapter 4 of the SSA Report describes how stressors pose a threat or benefit to the survival of existing mussels, some (
+                    <E T="03">i.e.,</E>
+                     barriers), but not all, may restrict future expansion of the species.
+                </P>
+                <P>
+                    <E T="03">(12) Comment:</E>
+                     One commenter stated that the proposed rule and the SSA Report present conflicting statements regarding stressors that affect the species. The first paragraph of Section 5.1 states that the main drivers for change in the future condition analysis is human population growth and increased urbanization. However, the summary Section 4.9 of the SSA Report and the Risk Factors for the Yellow Lance in the 
+                    <E T="04">Federal Register</E>
+                     document state that âthe largest threats to the future viability of the species relate to habitat degradation from stressors influencing water quality, water quantity, instream habitat, and habitat connectivity.â
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The statements do not conflict with each other. Both human population growth and changes in land use (specifically in development land use patterns), including increased urbanization, are stressors that result in habitat degradation (which influences water quality, water quantity, instream habitat, and habitat connectivity) as described in section 4.1 of the SSA Report.
+                </P>
+                <P>
+                    <E T="03">(13) Comment:</E>
+                     The future condition analysis in the SSA should consider additional factors influencing viability, not only the impacts of urbanization.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We considered six factors influencing viability of the yellow lance as part of the future condition analysis. Habitat conditions, water quality, water quantity, species condition, and climate were also considered. The descriptions can be found in Table 5.1 of the SSA.
+                </P>
+                <P>
+                    <E T="03">(14) Comment:</E>
+                     The future conditions evaluation fails to consider the net positive impact of current and future National Pollutant Discharge Elimination System (NPDES) stormwater programs, Department of Transportation (DOT) design standards, agricultural practices, land controls, riparian buffers and land conservation areas, and applicable water quality criteria to protect designated uses of waters.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The current condition analysis includes evaluation of all current practices and land uses that may impact yellow lance (positive and negative), as indicated in the data used, including range-wide water quality and land use data (
+                    <E T="03">i.e.,</E>
+                     agricultural practices, buffers, and water quality classifications were all included in the analyses). See SSA Report pages/sections 23-29. Positive and negative effects of these actions are incorporated in the analysis and carried through when modeling potential future conditions. Any practices above and beyond what is currently in practice would need to be analyzed as future efforts. According to our Policy for the Evaluation of Conservation Efforts (68 FR 15100, March 28, 2003), we only consider future efforts that are formalized and sufficiently certain to be implemented and effective.
+                </P>
+                <P>
+                    <E T="03">(15) Comment:</E>
+                     One commenter stated that the proposed rule and the SSA Report incorrectly claim that excessive surface water use for agricultural irrigation has an adverse impact on the amount of water available for downstream sensitive areas during low-flow months. According to the commenter, agricultural irrigation in North Carolina is not excessive.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The SSA Report states: âIf the water withdrawal is excessive (usually over 10,000 gal/day) or done illegally (without permit if needed, or during dry time of year, or in areas where sensitive aquatic species occur without consultation), this 
+                    <E T="03">may cause</E>
+                     impacts to the amount of water available to downstream sensitive areas during low flow months, resulting in dewatering of channels and stranding of mussels.â [emphasis added]. Both surface and ground water withdrawals can affect base flows in streams during dry times of year. In response to the comment, we amended the SSA Report to clarify this point.
+                </P>
+                <P>
+                    <E T="03">(16) Comment:</E>
+                     One commenter recommended that, along with the proposed listing, the Service identify recovery criteria, including the development of conservation strategies and incidental take permit mechanisms, prior to the listing becoming effective.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Recovery criteria (and conservation strategies) are developed as part of the recovery planning process, which occurs after the species has been listed under the Act. The Service intends to develop and make available for public review a recovery outline within 30 days of publication of this final rule. Once the final listing is effective, project proponents can apply for incidental take permits pursuant to section 10 of the Act (refer to page 30 below). A habitat conservation plan or âHCPâ must accompany an application for an incidental take permit. The habitat conservation plan associated with the permit ensures that the effects of the authorized incidental take are adequately minimized and mitigated.
+                </P>
+                <P>
+                    <E T="03">(17) Comment:</E>
+                     One commenter expressed concern that endangered species listings would interfere with the Environmental Protection Agency's established Framework for Water Quality Standards Development. The commenter stated that environmental stressors and habitat components that are developed may unnecessarily and inappropriately conflict with water quality standards (WQS).
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We are required by section 4 of the Act to make a listing decision based solely on the best scientific and commercial data available. However, since a primary goal of the Clean Water Act is to protect the health of waters of the United States for all designated uses, including the protection of aquatic life, and since a primary goal of the Act is to provide for the conservation of species that are endangered or threatened, including the conservation of the ecosystems on which they depend, listed aquatic species and the river systems on which they depend are protected under both laws. There should be no conflict between the protections of the two statutes.
+                </P>
+                <P>
+                    <E T="03">(18) Comment:</E>
+                     One commenter opined that the SSA Report incorrectly concludes that pollutants harmful to the yellow lance impair water quality throughout the species' current range, and that the Service has not coordinated with the Environmental Protection Agency (EPA) and the State to determine whether they actually do.
+                    <PRTPAGE P="14193"/>
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The SSA Report (p. 44) explains that water quality criteria do not currently exist for many of the parameters for which freshwater mussels have been demonstrated to be sensitive. For instance, even after EPA revised the criteria for ammonia, after incorporating the toxicity data for sensitive freshwater mollusks, the States have yet to update their WQS through processes such as the Triennial Review. Since WQS for pollutants have not been promulgated by the States within the range of the yellow lance, those pollutants are still deemed to be potentially harmful to the survival and reproduction of the species.
+                </P>
+                <P>
+                    <E T="03">(19) Comment:</E>
+                     One commenter expressed concern that portions of the species' range in the proposal may be based on data that are both outdated and possibly incorrectly identify the yellow lance as present in those drainages.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     All survey records from Virginia were reviewed by both the State malacologist and the Natural Heritage Program biologist to verify correct identity of species in all survey locations. Current occupancy was described as those areas with detections in the past 10 years (2005-2015, based on when data were analyzed). Survey data older than 15 years was included to indicate trends over time, but not analyzed as part of the Current Conditions (see Figure 3-2 on p. 12 of the SSA Report).
+                </P>
+                <HD SOURCE="HD1">Summary of Biological Status and Threats</HD>
+                <P>
+                    Please refer to Chapter 4 of the SSA Report for a more detailed discussion of the factors affecting the yellow lance (see 
+                    <E T="02">ADDRESSES</E>
+                    ). Section 4 of the Act (16 U.S.C. 1533), and its implementing regulations in title 50 of the Code of Federal Regulations at 50 CFR part 424, set forth the procedures for adding species to the Federal Lists of Endangered and Threatened Wildlife and Plants. Under section 4(a)(1) of the Act, we may list a species based on (A) The present or threatened destruction, modification, or curtailment of its habitat or range; (B) overutilization for commercial, recreational, scientific, or educational purposes; (C) disease or predation; (D) the inadequacy of existing regulatory mechanisms; or (E) other natural or manmade factors affecting its continued existence. Our assessment evaluated the biological status of the species and threats affecting its continued existence. It was based upon the best available scientific and commercial data and the expert opinion of the SSA team members.
+                </P>
+                <HD SOURCE="HD2">Current Condition of Yellow Lance</HD>
+                <P>To evaluate the current and future viability of the yellow lance, we assessed a range of conditions to allow us to consider the species' resiliency, representation, and redundancy. The historical range of the yellow lance included streams and rivers in the Atlantic Slope drainages from the Patuxent River Basin south to the Neuse River Basin, with the documented historical distribution in 12 Management Units (MUs) within eight former populations. The yellow lance is presumed extirpated from 25 percent (3/12) of the historically occupied MUs. Of the remaining nine occupied MUs, 17 percent are estimated to have high resiliency, 8 percent moderate resiliency, and 67 percent low resiliency. At the population level, the overall condition of one of the eight populations (the Tar population) is estimated to have moderate resiliency, while the remaining six extant populations (Patuxent, Rappahannock, York, James, Chowan, and Neuse populations) are characterized by low resiliency. The Potomac population is presumed to be extirpated. An assessment of the habitat elements finds that 86 percent of streams that remain part of the current species' range are estimated to be in low or very low condition.</P>
+                <P>Once known to occupy streams in three physiographic regions (Mountain, Piedmont, and Coastal Plain), the species has lost occurrences in each physiographic region compared with historical occurrences, although it is still represented by at least one population in each region. We estimated that the yellow lance currently has reduced adaptive potential relative to historical potential due to decreased representation in seven river basins and three physiographic regions. The species retains most of its known river basin variability, but its distribution has been greatly reduced in the Rappahannock, York, Chowan, and Neuse River populations. In addition, compared to historical distribution, the species has declined by 70 percent in the Coastal Plain region and by approximately 50 percent in both the Piedmont and the Mountain regions. Latitudinal variability is also reduced, as much of the species' current distribution has contracted and is largely limited to the southern portions of its historical range, primarily in the Tar River Basin.</P>
+                <P>While the overall range of the yellow lance has not changed significantly, the remaining occupied portions of the range have become constricted within each basin and the species is largely limited to the southern portions of its historical range. One population (the Tar population) was estimated to be moderately resilient, but all other extant populations exhibit low resiliency. Redundancy was estimated as the number of historically occupied MUs that remain currently occupied. The species retains redundancy (albeit in low condition) within the Rappahannock, Chowan, and Neuse River populations, and one population (Tar) has multiple moderate or highly resilient management units. Overall, the species has decreased redundancy across its range due to an estimated 57 percent reduction in occupancy compared to historical levels.</P>
+                <P>The largest threats to the future viability of the yellow lance are habitat degradation from stressors influencing water quality, water quantity, instream habitat, and habitat connectivity. The stressors we identified that have led to the degradation of the yellow lance habitat include development, agricultural practices, forest management, barriers such as dams and impoundments, and invasive species. A brief summary of these primary stressors is presented below; for a full description of these stressors, refer to chapter 4 of the SSA report for the yellow lance.</P>
+                <P>
+                    <E T="03">Development:</E>
+                     Development refers to urbanization of the landscape, including (but not limited to) land conversion for urban and commercial use, infrastructure (roads, bridges, utilities), and urban water uses (water supply reservoirs, wastewater treatment, etc.). The effects of urbanization may include alterations to water quality, water quantity, and habitat (Factor A). Yellow lance adults require clear, flowing water with a temperature less than 35 degrees Celsius (Â°C) (95 degrees Fahrenheit (Â°F)) and a dissolved oxygen greater than 3 milligrams per liter (mg/L). Juveniles require very specific interstitial chemistry to complete that life stage: Low salinity (similar to 0.9 parts per thousand (ppt)), low ammonia (similar to 0.7 mg/L), low levels of copper and other contaminants, and dissolved oxygen greater than 1.3 mg/L.
+                </P>
+                <P>
+                    Impervious surfaces associated with development negatively affect water quality when pollutants that accumulate on impervious surfaces are washed directly into the streams during storm events. Storm water runoff affects water quality parameters such as temperature, pH, dissolved oxygen, and salinity, which in turn alters the water chemistry and could make it unsuitable for the yellow lance. Concentrations of contaminants, including nitrogen, phosphorus, chloride, insecticides, 
+                    <PRTPAGE P="14194"/>
+                    polycyclic aromatic hydrocarbons, and personal care products, increase with urban development.
+                </P>
+                <P>Urban development can lead to increased variability in streamflow, typically increasing the amount of water entering a stream after a storm and decreasing the time it takes for the water to travel over the land before entering the stream. Stream habitat is altered either directly via channelization or clearing of riparian areas, or indirectly via high streamflows that reshape the channel and cause sediment erosion. Impervious surfaces associated with increased development cause rain water to accumulate and flow rapidly into storm drains, thereby becoming superheated, which can stress or kill these mussel species when the superheated water enters streams. Pollutants like gasoline, oil, and fertilizers are also washed directly into streams and can kill mussels and other aquatic organisms. The large volumes and velocity of water combined with the extra debris and sediment entering streams following a storm can stress, displace, or kill the yellow lance, and the host fish species upon which it depends.</P>
+                <P>A further risk of urbanization is the accompanying road development that often results in improperly constructed culverts at stream crossings. These culverts act as barriers, either as flow through the culvert varies significantly from the rest of the stream, or if the culvert ends up being perched above the stream bed, and host fish (and, therefore, the yellow lance) cannot pass through them. This scenario leads to loss of access to quality habitat, as well as fragmented habitat and a loss of connectivity between populations of the yellow lance. This situation can limit both genetic exchange and recolonization opportunities.</P>
+                <P>Significant portions of all of the river basins within the range of the yellow lance are affected by development, from 7 percent in the Tar River basin to 25 percent in the Patuxent River basin (based on the 2011 National Land Cover Data). The Neuse River basin in North Carolina contains one-sixth of the entire State's population, indicating heavy development pressure on the watershed. The Nottoway MU (in the Chowan population) contains 155 impaired stream miles, 4 major discharges, 32 minor discharges, and over 3,000 road crossings, affecting the quality of the habitat for the yellow lance. The Potomac River basin is currently made up of 12.7 percent impervious surfaces, changing natural streamflow, reducing appropriate stream habitat, and decreasing water quality throughout the population. For complete data on all of the populations, refer to appendix D of the SSA report.</P>
+                <P>
+                    <E T="03">Agricultural Practices:</E>
+                     The main impacts to the yellow lance from agricultural practices are from nutrient pollution and water pumping for irrigation (Factor A). Fertilizers and animal manure, which are both rich in nitrogen and phosphorus, are the primary sources of nutrient pollution from agricultural sources. Excess nutrients impact water quality when it rains or when water and soil containing nitrogen and phosphorus wash into nearby waters or leach into the water table/ground waters causing algal blooms. These algal blooms can harm freshwater mussels by suffocating host fish and decreasing available oxygen in the water column.
+                </P>
+                <P>It is common practice to pump water for irrigation from adjacent streams or rivers into a reservoir pond, or to spray the stream or river water directly onto crops. If the water withdrawal is excessive or done illegally, it reduces the amount of water available to downstream sensitive areas during low-flow months, resulting in dewatering of channels and stranding of mussels, leading to desiccation and death. In the Rappahannock River basin, for example, the upper watershed supports largely agricultural land uses. Sedimentation is a problem in the upper watershed, as stormwater runoff from the major tributaries (Rapidan and Hazel rivers) leaves the Rappahannock River muddy even after minor storm events. According to the 2011 National Land Cover Data, all of the watersheds within the range of the yellow lance are affected by agricultural land uses, most with 20 percent or more of the watershed having been converted for agricultural use.</P>
+                <P>
+                    <E T="03">Forest Management:</E>
+                     Silviculture activities when performed according to strict forest practices guidelines (FPGs) or best management practices (BMPs) can retain adequate conditions for aquatic ecosystems; however, when FPGs/BMPs are not followed, silviculture can contribute to the myriad of stressors facing aquatic systems in the Southeast. Both small- and large-scale forestry activities have a significant impact upon the physical, chemical, and biological characteristics of adjacent small streams. The clearing of large areas of forested wetlands and riparian systems can eliminate shade provided by these canopies, exposing streams to more sunlight and increasing the in-stream water temperature. The increase in stream temperature and light after deforestation alters the macroinvertebrate and other aquatic species richness and abundance composition in streams. As stated above, the yellow lance is sensitive to changes in temperature, and sustained temperature increases stress and possibly lead to mortality for the species.
+                </P>
+                <P>
+                    Forestry activities often include the construction of logging roads through the riparian zone, which can directly degrade nearby stream environments (Aust et al. 2011, p. 123). Roads can cause localized sedimentation, as well as sedimentation traveling downstream into more sensitive habitats. These effects lead to stress and mortality for the yellow lance, as discussed in 
+                    <E T="03">âDevelopment,â</E>
+                     above. While BMPs are currently widely adhered to, they were not always common practice in the past. The average implementation rate of BMPs in the southeast states is at 92 percent. While improper implementation is rare, it can have drastic negative effects on sensitive aquatic species like freshwater mussels. One small area of riparian zone that is removed can cause sedimentation and habitat degradation for miles downstream.
+                </P>
+                <HD SOURCE="HD2">Systematic Changes</HD>
+                <P>
+                    <E T="03">Climate Change (Factor E):</E>
+                     Aquatic systems are encountering changes and shifts in seasonal patterns of precipitation and runoff as a result of climate change. While mussels have evolved in habitats that experience seasonal fluctuations in discharge, global weather patterns can have an impact on the normal regimes (
+                    <E T="03">e.g.,</E>
+                     El NiÃ±o or La NiÃ±a). Even during naturally occurring low-flow events, mussels become stressed either because they exert significant energy to move to deeper waters or they succumb to desiccation. Because low flows in late summer and early fall are stress-inducing, droughts during this time of year result in stress and, potentially, an increased rate of mortality. Droughts have impacted all river basins within the range of the yellow lance, from an âabnormally dryâ ranking for North Carolina and Virginia in 2001 on the Southeast Drought Monitor scale to the highest ranking of âexceptionally dryâ for the entire range of the yellow lance in 2002 and 2007. The 2015 drought data indicated the entire Southeast ranging from âabnormally dryâ to âmoderate droughtâ or âsevere drought.â These data are from the first week in September, indicating a very sensitive time for drought to be affecting the yellow lance. The Middle Neuse tributaries of the Neuse River basin had consecutive drought years from 2005 through 2012, indicating sustained 
+                    <PRTPAGE P="14195"/>
+                    stress on the species over a long period of time. Sedentary freshwater mussels have limited refugia from disturbances such as droughts and floods, and they are completely dependent on specific water temperatures to complete their physiological requirements. Changes in water temperature lead to stress, increased mortality, and also increase the likelihood of extinction for the species. Increases in the frequency and strength of storm events alter stream habitat. Stream habitat is altered either directly via channelization or clearing of riparian areas, or indirectly via high streamflows that reshape the channel and cause sediment erosion. The large volumes and velocity of water, combined with the extra debris and sediment entering streams following a storm, stress, displace, or kill yellow lance and the host fish species on which it depends.
+                </P>
+                <P>
+                    <E T="03">Invasive Species:</E>
+                     In many areas across the States of Maryland, Virginia, and North Carolina, aquatic invasive species are invading aquatic communities and altering biodiversity by competing with native species for food, light, or breeding and nesting areas. For example, the Asian clam (
+                    <E T="03">Corbicula fluminea</E>
+                    ) alters benthic substrates, competes with native species for limited resources, and causes ammonia spikes in surrounding water when they die off en masse. The Asian clam is ubiquitous across the southeastern United States and is present in watersheds across the range of the yellow lance. The flathead catfish (
+                    <E T="03">Pylodictis olivaris</E>
+                    ) is an apex predator known to feed on almost anything, including other fish, crustaceans, and mollusks, and to impact host fish communities, reducing the amount of fish available as hosts for the mussels to complete their glochidia life stage. Introductions of flathead catfish into rivers in North Carolina have led to steep declines in numbers of native fish. The flathead catfish has been documented in the Potomac, James, Roanoke, Tar, and Neuse river systems.
+                </P>
+                <P>
+                    Hydrilla (
+                    <E T="03">Hydrilla verticillata</E>
+                    ), an aquatic plant, alters stream habitat, decreases flows, and contributes to sediment buildup in streams. High sedimentation can cause suffocation, reduce stream flow, and make it difficult for mussels' interactions with host fish necessary for development. Hydrilla occurs in several watersheds where the yellow lance occurs, including recent documentation from the Tar River. The dense growth is altering the flow in this system and causing sediment buildup, which can cause suffocation in filter-feeding mussels. While data are lacking on hydrilla currently having population-level effects on the yellow lance, the spread of this invasive plant is expected to increase in the future.
+                </P>
+                <P>
+                    <E T="03">Barriers:</E>
+                     Extinction/extirpation of North American freshwater mussels can be traced to impoundment and inundation of riffle habitats (shallow water with rapid currents running over gravel or rocks) in all major river basins of the central and eastern United States (Factor A). Upstream of dams, the change from flowing to impounded waters, increased depths, increased buildup of sediments, decreased dissolved oxygen, and the drastic alteration in resident fish populations can threaten the survival of mussels and their overall reproductive success. Downstream of dams, fluctuations in flow regimes, minimal releases and scouring flows, seasonal dissolved oxygen depletion, reduced or increased water temperatures, and changes in fish assemblages can also threaten the survival and reproduction of many mussel species. Because the yellow lance uses smaller host fish (
+                    <E T="03">e.g.,</E>
+                     darters and minnows), it is even more susceptible to impacts from habitat fragmentation due to increasing distance between suitable habitat patches and a low likelihood of host fish swimming over that distance. Even improperly constructed culverts at stream crossings can act as significant barriers and have some similar effects as dams on stream systems. Fluctuating flows through the culvert can vary significantly from the rest of the stream, preventing fish passage and scouring downstream habitats. If a culvert ends up being perched above the stream bed, aquatic organisms cannot pass through it. These barriers not only fragment habitats along a stream course, they also contribute to genetic isolation of the yellow lance. All 12 of the MUs containing yellow lance populations have been impacted by dams, with as few as 3 dams in the Fishing Creek subbasin to more than 100 dams in the York basin (Service 2016, appendix D). The Middle Neuse contains 237 dams and more than 5,000 stream crossings, so connectivity there has been severely affected by barriers.
+                </P>
+                <HD SOURCE="HD2">Synergistic Effects</HD>
+                <P>
+                    In addition to the impacts on the yellow lance individually, it is likely that several of the above summarized risk factors are acting synergistically or additively on the species. The combined impact of multiple stressors is likely more harmful than a single stressor acting alone. For example, the Meherrin River MU contains four stream reaches with 34 miles of impaired streams. The stream reaches have low benthic-macroinvertebrate scores, low dissolved oxygen, low pH, and contain 
+                    <E T="03">Escherichia coli</E>
+                     (also known as 
+                    <E T="03">E. coli</E>
+                    ). There are 16 non-major and 2 major discharges within this MU, along with 7 dams, 676 road crossings, and droughts recorded for 4 consecutive years in 2007-2010. The combination of all of these stressors on the sensitive aquatic species in this habitat has impacted yellow lance such that no individuals have been recorded here since 1994.
+                </P>
+                <P>To forecast the biological conditions of the yellow lance into the future, we devised a range of plausible future scenarios by eliciting expert information on the primary stressors anticipated to affect the species into the future: habitat loss and degradation due to urbanization and the effects of climate change. These scenarios were based, in part, on the results of urbanization (Terando et al. 2014) and climate models (IPCC, 2013) that predict changes in habitat used by the yellow lance. The models that were used to forecast urbanization into the future projected out 50 years, and climate change models included that timeframe as well. The range of plausible future scenarios of yellow lance habitat conditions and population factors suggest possible extirpation in as many as five of seven currently extant populations. Even the most optimistic model predicted that only two populations will remain extant in 50 years, and those populations are expected to be characterized by low occupancy and abundance. For a more-detailed discussion of our evaluation of the biological status of the yellow lance and the factors that may affect its continued existence, please see the SSA Report (Service, 2017 entire) and the proposed rule (82 FR 16559, April 4, 2017).</P>
+                <HD SOURCE="HD1">Determination</HD>
+                <P>
+                    Section 4 of the Act (16 U.S.C. 1533), and its implementing regulations in title 50 of the Code of Federal Regulations at 50 CFR part 424, set forth the procedures for adding species to the Federal Lists of Endangered and Threatened Wildlife and Plants. Under section 4(a)(1) of the Act, we may list a species based on (A) The present or threatened destruction, modification, or curtailment of its habitat or range; (B) overutilization for commercial, recreational, scientific, or educational purposes; (C) disease or predation; (D) the inadequacy of existing regulatory mechanisms; or (E) other natural or manmade factors affecting its continued existence.
+                    <PRTPAGE P="14196"/>
+                </P>
+                <P>We have carefully assessed the best scientific and commercial information available regarding the past, present, and future threats to the yellow lance. The yellow lance is presumed extirpated from 25 percent (3) of the historically occupied MUs, with most populations characterized by low resiliency. Most of the streams that remain part of the current species' range are estimated to be in low or very low condition with decreased occupancy of yellow lance.</P>
+                <P>The yellow lance faces threats from declines in water quality, loss of stream flow, riparian and instream fragmentation, and deterioration of instream habitats (Factor A). These threats, which are expected to be exacerbated by continued urbanization (Factor A) and effects of climate change (Factor E), will impact the future viability of the yellow lance. We did not find that the yellow lance was impacted by overutilization (Factor B), or disease or predation (Factor C). While there are regulatory mechanisms in place that may benefit the yellow lance, the existing regulatory mechanisms did not reduce the impact of the stressors to the point that the species is not threatened by extinction (Factor D).</P>
+                <P>The Act defines an endangered species as any species that is âin danger of extinction throughout all or a significant portion of its rangeâ and a threatened species as any species âthat is likely to become endangered throughout all or a significant portion of its range within the foreseeable future.â We considered whether the yellow lance meets either of these definitions, and we find that the yellow lance meets the definition of a threatened species. Our analysis of the species' current and future conditions, as well as the conservation efforts discussed above, show that habitat modification and destruction (Factor A) and other natural and manmade factors (Factor E) will continue to impact the resiliency, representation, and redundancy for the yellow lance so that it is likely to become in danger of extinction throughout all or a significant portion of its range within the foreseeable future.</P>
+                <P>We considered whether the yellow lance is currently in danger of extinction and determined that endangered status is not appropriate. The current conditions as assessed in the yellow lance SSA report show multiple resilient populations over a majority of the species' historical range. The yellow lance still exhibits representation across all three physiographic regions, and extant populations remain from the Patuxent River south to the Neuse River. While habitat modification and destruction (Factor A), invasive species (Factor E), and effects of climate change (Factor E) are currently acting on the species and many of those threats are expected to continue into the future, we did not find that the species is currently in danger of extinction throughout all of its range. According to our assessment of plausible future scenarios, the species is likely to become an endangered species in the foreseeable future throughout all of its range.</P>
+                <P>Under the Act and our implementing regulations, a species warrants listing if it is endangered or threatened throughout all or a significant portion of its range. Because we have determined that the yellow lance is threatened throughout all of its range, no portion of its range can be âsignificantâ for purposes of the definitions of âendangered speciesâ and âthreatened species.â See the Final Policy on Interpretation of the Phrase âSignificant Portion of Its Rangeâ in the Endangered Species Act's Definitions of âEndangered Speciesâ and âThreatened Speciesâ (79 FR 37577; July 1, 2014).</P>
+                <P>Therefore, on the basis of the best available scientific and commercial information, we are listing the yellow lance as threatened in accordance with sections 3(6) and 4(a)(1) of the Act.</P>
+                <HD SOURCE="HD1">Available Conservation Measures</HD>
+                <P>Conservation measures provided to species listed as endangered or threatened species under the Act include recognition, recovery actions, requirements for Federal protection, and prohibitions against certain practices. Recognition through listing results in public awareness and conservation by Federal, State, Tribal, and local agencies, private organizations, and individuals. The Act encourages cooperation with the States and requires that recovery actions be carried out for all listed species. The protection required by Federal agencies and the prohibitions against certain activities are discussed, in part, below.</P>
+                <HD SOURCE="HD2">Recovery Actions</HD>
+                <P>The primary purpose of the Act is the conservation of endangered and threatened species and the ecosystems upon which they depend. The ultimate goal of such conservation efforts is the recovery of these listed species, so that they no longer need the protective measures of the Act. Subsection 4(f) of the Act requires the Service to develop and implement recovery plans for the conservation of endangered and threatened species. The recovery planning process involves the identification of actions that are necessary to halt or reverse the species' decline by addressing the threats to its survival and recovery. The goal of this process is to restore listed species to a point where they are secure, self-sustaining, and functioning components of their ecosystems.</P>
+                <P>
+                    Recovery planning includes the development of a recovery outline shortly after a species is listed and preparation of a draft and final recovery plan. The recovery outline guides the immediate implementation of urgent recovery actions and describes the process to be used to develop a recovery plan. Revisions of the plan may be done to address continuing or new threats to the species, as new substantive information becomes available. The recovery plan identifies site-specific management actions that set a trigger for review of the five factors that control whether a species remains endangered or may be downlisted or delisted and methods for monitoring recovery progress. Recovery plans also establish a framework for agencies to coordinate their recovery efforts and provide estimates of the cost of implementing recovery tasks. Recovery teams (composed of species experts, Federal and State agencies, nongovernmental organizations, and stakeholders) are often established to develop recovery plans. When completed, the recovery outline, draft recovery plan, and the final recovery plan will be available on our website (
+                    <E T="03">http://www.fws.gov/endangered</E>
+                    ) or from our Raleigh field office (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <P>
+                    Implementation of recovery actions generally requires the participation of a broad range of partners, including other Federal agencies, States, Tribal, nongovernmental organizations, businesses, and private landowners. Examples of recovery actions include habitat restoration (
+                    <E T="03">e.g.,</E>
+                     restoration of native vegetation), research, captive propagation and reintroduction, and outreach and education. The recovery of many listed species cannot be accomplished solely on Federal lands because their range may occur primarily or solely on non-Federal lands. To achieve recovery of these species requires cooperative conservation efforts on private, State, and Tribal lands.
+                </P>
+                <P>
+                    Following publication of this final listing rule, funding for recovery actions will be available from a variety of sources, including Federal budgets, State programs, and cost-share grants for non-Federal landowners, the academic community, and nongovernmental organizations. In addition, pursuant to section 6 of the Act, the States of Maryland, Virginia, and North Carolina 
+                    <PRTPAGE P="14197"/>
+                    will be eligible for Federal funds to implement management actions that promote the protection or recovery of the yellow lance. Information on our grant programs that are available to aid species recovery can be found at: 
+                    <E T="03">http://www.fws.gov/grants.</E>
+                </P>
+                <P>
+                    Please let us know if you are interested in participating in recovery efforts for the yellow lance. Additionally, we invite you to submit any new information on this species whenever it becomes available and any information you may have for recovery planning purposes (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <HD SOURCE="HD2">Critical Habitat</HD>
+                <P>Section 7(a) of the Act requires Federal agencies to evaluate their actions with respect to any species that is listed as an endangered or threatened species and with respect to its critical habitat, if any is designated. Regulations implementing this interagency cooperation provision of the Act are codified at 50 CFR part 402. Section 7(a)(2) of the Act requires Federal agencies to ensure that activities they authorize, fund, or carry out are not likely to jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify its critical habitat. If a Federal action may affect a listed species or its critical habitat, the responsible Federal agency must enter into consultation with the Service.</P>
+                <P>
+                    Federal agency actions within the species' habitat that may require conference or consultation or both as described in the preceding paragraph include management and any other landscape-altering activities on Federal lands administered by the U.S. Fish and Wildlife Service, U.S. Forest Service, and National Park Service; issuance of section 404 Clean Water Act (33 U.S.C. 1251 
+                    <E T="03">et seq.</E>
+                    ) permits by the U.S. Army Corps of Engineers; and construction and maintenance of roads or highways by the Federal Highway Administration.
+                </P>
+                <P>A careful assessment of the economic impacts that may occur due to a critical habitat designation is still ongoing, and we are in the process of working with the States and other partners in acquiring the complex information needed to perform that assessment. A proposed rule to designate critical habitat will be published in the near future.</P>
+                <HD SOURCE="HD2">Regulatory Provisions</HD>
+                <P>Under section 4(d) of the Act, the Service has discretion to issue regulations that we find necessary and advisable to provide for the conservation of threatened species. The Act and its implementing regulations set forth a series of general prohibitions and exceptions that apply to threatened wildlife. The prohibitions of section 9(a)(1) of the Act, as applied to threatened wildlife and codified at 50 CFR 17.31, make it illegal for any person subject to the jurisdiction of the United States to take (which includes harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect; or to attempt any of these) threatened wildlife within the United States or on the high seas. In addition, it is unlawful to import; export; deliver, receive, carry, transport, or ship in interstate or foreign commerce in the course of commercial activity; or sell or offer for sale in interstate or foreign commerce any listed species. It is also illegal to possess, sell, deliver, carry, transport, or ship any such wildlife that has been taken illegally.</P>
+                <P>We may issue permits to carry out otherwise prohibited activities involving threatened wildlife under certain circumstances. Regulations governing permits are codified at 50 CFR 17.32. With regard to threatened wildlife, a permit may be issued for the following purposes: for scientific purposes, to enhance the propagation or survival of the species, and for incidental take in connection with otherwise lawful activities. There are also certain statutory exemptions from the prohibitions, which are found in sections 9 and 10 of the Act.</P>
+                <P>
+                    It is our policy, as published in the 
+                    <E T="04">Federal Register</E>
+                     on July 1, 1994 (59 FR 34272), to identify to the maximum extent practicable at the time a species is listed, those activities that would or would not constitute a violation of section 9 of the Act. The intent of this policy is to increase public awareness of the effect of a final listing on proposed and ongoing activities within the range of a listed species. Activities that the Service believes could potentially harm the yellow lance and result in âtakeâ include, but are not limited to:
+                </P>
+                <P>(1) Unauthorized handling or collecting of the species;</P>
+                <P>(2) Destruction or alteration of the species' habitat by discharge of fill material, dredging, snagging, impounding, channelization, or modification of stream channels or banks;</P>
+                <P>(3) Destruction of riparian habitat directly adjacent to stream channels that causes significant increases in sedimentation and destruction of natural stream banks or channels;</P>
+                <P>(4) Discharge of pollutants into a stream or into areas hydrologically connected to a stream occupied by the species;</P>
+                <P>(5) Diversion or alteration of surface or ground water flow; and</P>
+                <P>(6) Pesticide/herbicide applications in violation of label restrictions.</P>
+                <P>
+                    Questions regarding whether specific activities would constitute a violation of section 9 of the Act should be directed to the Raleigh Ecological Services Field Office (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <HD SOURCE="HD1">Required Determinations</HD>
+                <HD SOURCE="HD2">
+                    National Environmental Policy Act (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    )
+                </HD>
+                <P>
+                    We have determined that environmental assessments and environmental impact statements, as defined under the authority of the National Environmental Policy Act (NEPA), need not be prepared in connection with listing a species as an endangered or threatened species under the Endangered Species Act. We published a notice outlining our reasons for this determination in the 
+                    <E T="04">Federal Register</E>
+                     on October 25, 1983 (48 FR 49244).
+                </P>
+                <HD SOURCE="HD2">Government-to-Government Relationship With Tribes</HD>
+                <P>In accordance with the President's memorandum of April 29, 1994 (Government-to-Government Relations with Native American Tribal Governments; 59 FR 22951), Executive Order 13175 (Consultation and Coordination with Indian Tribal Governments), and the Department of the Interior's manual at 512 DM 2, we readily acknowledge our responsibility to communicate meaningfully with recognized Federal Tribes on a government-to-government basis. In accordance with Secretarial Order 3206 of June 5, 1997 (American Indian Tribal Rights, Federal-Tribal Trust Responsibilities, and the Endangered Species Act), we readily acknowledge our responsibilities to work directly with tribes in developing programs for healthy ecosystems, to acknowledge that tribal lands are not subject to the same controls as Federal public lands, to remain sensitive to Indian culture, and to make information available to tribes. There are no tribal lands affected by this listing determination.</P>
+                <HD SOURCE="HD1">References Cited</HD>
+                <P>
+                    A complete list of references cited in the SSA Report that informed this rulemaking is available on the internet at 
+                    <E T="03">http://www.regulations.gov</E>
+                     in Docket No. FWS-R4-ES-2017-0017 and upon request from the Raleigh Ecological Services Field Office (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                    <PRTPAGE P="14198"/>
+                </P>
+                <HD SOURCE="HD1">Authors</HD>
+                <P>The primary authors of this final rule are the staff members of the Fish and Wildlife Service's Species Assessment Team and the Raleigh Ecological Services Field Office.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 50 CFR Part 17</HD>
+                    <P>Endangered and threatened species, Exports, Imports, Reporting and recordkeeping requirements, Transportation.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Regulation Promulgation</HD>
+                <P>Accordingly, we amend part 17, subchapter B of chapter I, title 50 of the Code of Federal Regulations, as follows:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 17âENDANGERED AND THREATENED WILDLIFE AND PLANTS</HD>
+                </PART>
+                <REGTEXT TITLE="50" PART="17">
+                    <AMDPAR>1. The authority citation for part 17 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 16 U.S.C. 1361-1407; 1531-1544; and 4201-4245; unless otherwise noted.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="50" PART="17">
+                    <AMDPAR>2. Amend Â§â17.11 in paragraph (h) by adding an entry for âLance, yellowâ to the List of Endangered and Threatened Wildlife in alphabetical order under CLAMS to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â17.11</SECTNO>
+                        <SUBJECT> Endangered and threatened wildlife.</SUBJECT>
+                        <STARS/>
+                        <P>(h) * * *</P>
+                        <GPOTABLE COLS="5" OPTS="L1,tp0,i1" CDEF="s50,r50,r50,12C,r100">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Common name</CHED>
+                                <CHED H="1">Scientific name</CHED>
+                                <CHED H="1">Where listed</CHED>
+                                <CHED H="1">Status</CHED>
+                                <CHED H="1">
+                                    Listing citations and
+                                    <LI>applicable rules</LI>
+                                </CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="21">
+                                    <E T="04">Clams</E>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">Lance, yellow</ENT>
+                                <ENT>
+                                    <E T="03">Elliptio lanceolata</E>
+                                </ENT>
+                                <ENT>Wherever found</ENT>
+                                <ENT>T</ENT>
+                                <ENT>
+                                    83 FR [Insert 
+                                    <E T="02">Federal Register</E>
+                                     page where the document begins]; 4/3/2018.
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <DATED>Dated February 23, 2018.</DATED>
+                    <NAME>James W. Kurth,</NAME>
+                    <TITLE>Deputy Director, U.S. Fish and Wildlife Service, exercising the authority of the Director.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2018-06735 Filed 4-2-18; 8:45 am]</FRDOC>
+            <BILCOD> BILLING CODE 4333-15-P</BILCOD>
+        </RULE>

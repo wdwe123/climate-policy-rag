@@ -1,0 +1,30 @@
+# Large data files — do NOT commit
+qdrant_storage/
+pdf_data/data/
+pdf_data/metadata/policy_metadata.jsonl
+pdf_data/metadata/policy_metadata_3.jsonl
+
+# Jupyter / Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Streamlit local secrets (keep template, not actual secrets)
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

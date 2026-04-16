@@ -1,0 +1,1774 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="66403"/>
+                <AGENCY TYPE="F">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 430</CFR>
+                <DEPDOC>[EERE-2019-BT-STD-0002]</DEPDOC>
+                <RIN>RIN 1904-AE31</RIN>
+                <SUBJECT>Energy Conservation Program: Energy Conservation Standards for Direct Heating Equipment</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final determination.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        The Energy Policy and Conservation Act, as amended (âEPCAâ), prescribes energy conservation standards for various consumer products, including direct heating equipment (âDHEâ). EPCA also requires the U.S. Department of Energy (âDOEâ) to periodically determine whether more-stringent, amended standards would be technologically feasible and economically justified, and would result in significant energy savings. After carefully considering the available market and technical information for these products, DOE has concluded in this document that the technology options, product cost, and energy use have not changed significantly, and that the market for DHE (
+                        <E T="03">i.e.,</E>
+                         number of models available and annual shipments) has decreased since DOE's prior determination that the energy conservation standards do not need to be amended. As such, DOE has determined that amended energy conservation standards are not warranted.
+                    </P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The effective date of this final determination is December 23, 2021.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this activity, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, public meeting attendee lists and transcripts, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, some documents listed in the index, such as information that is exempt from public disclosure, may not be publicly available.
+                    </P>
+                    <P>
+                        The docket web page can be found at 
+                        <E T="03">www.regulations.gov/document?D=EERE-2019-BT-STD-0002.</E>
+                         The docket web page contains instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                    <P>
+                        For further information on how to review the docket, contact the Appliance and Equipment Standards Program staff at (202) 287-1445 or by email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P/>
+                    <P>
+                        Ms. Julia Hegarty, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC, 20585-0121. Telephone: (240) 597-6737. Email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                    <P>
+                        Ms. Linda Field, U.S. Department of Energy, Office of the General Counsel, GC-62, 1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: (202) 586-3440. Email: 
+                        <E T="03">Linda.Field@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Synopsis of the Final Determination</FP>
+                    <FP SOURCE="FP-2">II. Authority and Background</FP>
+                    <FP SOURCE="FP1-2">A. Authority</FP>
+                    <FP SOURCE="FP1-2">B. Rulemaking History</FP>
+                    <FP SOURCE="FP2-2">1. Current Standards</FP>
+                    <FP SOURCE="FP2-2">2. October 2016 Final Determination</FP>
+                    <FP SOURCE="FP1-2">a. Unvented Heaters</FP>
+                    <FP SOURCE="FP1-2">b. Vented Heaters</FP>
+                    <FP SOURCE="FP1-2">3. Current Rulemaking</FP>
+                    <FP SOURCE="FP-2">III. General Discussion</FP>
+                    <FP SOURCE="FP1-2">A. Product Classes and Scope of Coverage</FP>
+                    <FP SOURCE="FP2-2">1. Scope of Coverage and Definitions</FP>
+                    <FP SOURCE="FP1-2">a. Unvented Heaters</FP>
+                    <FP SOURCE="FP1-2">b. Vented Heaters</FP>
+                    <FP SOURCE="FP2-2">2. Product Classes</FP>
+                    <FP SOURCE="FP2-2">3. Hearth Heaters</FP>
+                    <FP SOURCE="FP1-2">B. Analysis for This Final Determination</FP>
+                    <FP SOURCE="FP2-2">1. Overview of the Analysis</FP>
+                    <FP SOURCE="FP1-2">a. Technological Feasibility</FP>
+                    <FP SOURCE="FP1-2">b. Energy Savings</FP>
+                    <FP SOURCE="FP1-2">c. Cost-Effectiveness</FP>
+                    <FP SOURCE="FP1-2">d. Further Considerations</FP>
+                    <FP SOURCE="FP1-2">2. Unvented Heaters</FP>
+                    <FP SOURCE="FP2-2">3. Vented Heaters</FP>
+                    <FP SOURCE="FP1-2">a. Market Assessment</FP>
+                    <FP SOURCE="FP1-2">b. Technology Options for Efficiency Improvement</FP>
+                    <FP SOURCE="FP1-2">c. Screening Analysis</FP>
+                    <FP SOURCE="FP1-2">d. Engineering Analysis</FP>
+                    <FP SOURCE="FP1-2">e. Energy Use Analysis</FP>
+                    <FP SOURCE="FP1-2">f. Life-Cycle Cost and Payback Period Analysis</FP>
+                    <FP SOURCE="FP1-2">g. Shipments</FP>
+                    <FP SOURCE="FP1-2">h. National Energy Savings</FP>
+                    <FP SOURCE="FP1-2">i. Manufacturer Impacts</FP>
+                    <FP SOURCE="FP1-2">C. Final Determination</FP>
+                    <FP SOURCE="FP1-2">1. Unvented Heaters</FP>
+                    <FP SOURCE="FP1-2">2. Vented Heaters</FP>
+                    <FP SOURCE="FP1-2">a. Technological Feasibility</FP>
+                    <FP SOURCE="FP1-2">b. Cost-Effectiveness</FP>
+                    <FP SOURCE="FP1-2">c. Significant Energy Savings</FP>
+                    <FP SOURCE="FP1-2">d. Further Considerations</FP>
+                    <FP SOURCE="FP1-2">e. Standby Mode and Off Mode</FP>
+                    <FP SOURCE="FP1-2">f. Summary</FP>
+                    <FP SOURCE="FP-2">IV. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Order 12866</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">J. Review Under the Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Information Quality</FP>
+                    <FP SOURCE="FP-2">V. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Synopsis of the Final Determination</HD>
+                <P>
+                    Title III, Part Bâ
+                    <SU>1</SU>
+                    <FTREF/>
+                     of EPCA,
+                    <SU>2</SU>
+                    <FTREF/>
+                     established the Energy Conservation Program for Consumer Products Other Than Automobiles. (42 U.S.C. 6291-6309) These products include direct heating equipment, the subject of this final determination. (42 U.S.C. 6292(a)(9))
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âFor editorial reasons, upon codification in the U.S. Code, Part B was redesignated Part A.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âAll references to EPCA in this document refer to the statute as amended through the Energy Act of 2020, Public Law 116-260 (Dec. 27, 2020).
+                    </P>
+                </FTNT>
+                <P>DOE is issuing this final determination pursuant to the EPCA requirement that not later than 3 years after issuance of a final determination not to amend standards, DOE must publish either a notification of determination that standards for the product do not need to be amended, or a notice of proposed rulemaking (âNOPRâ) including new proposed energy conservation standards (proceeding to a final rule, as appropriate). (42 U.S.C. 6295(m)(3)(B))</P>
+                <P>
+                    âDirect heating equipmentâ is defined at 10 Code of Federal Regulations (âCFRâ) 430.2 as vented home heating 
+                    <PRTPAGE P="66404"/>
+                    equipment and unvented home heating equipment (
+                    <E T="03">i.e.,</E>
+                     âvented heatersâ and âunvented heaters,â respectively). âVented home heating equipmentâ and âunvented home heating equipmentâ are also defined at 10 CFR 430.2 in which, vented home heating equipment or vented heater means a class of home heating equipment, not including furnaces, designed to furnish warmed air to the living space of a residence, directly from the device, without duct connections (except that boots not to exceed 10 inches beyond the casing may be permitted) and includes: Vented wall furnace, vented floor furnace, and vented room heater. Whereby, unvented home heating equipment means a class of home heating equipment, not including furnaces, used for the purpose of furnishing heat to a space proximate to such heater directly from the heater and without duct connections and includes electric heaters and unvented gas and oil heaters. Federal energy conservation standards at 10 CFR 430.32(i) currently exist for vented home heating equipment, but there are currently no standards for unvented home heating equipment.
+                </P>
+                <P>For this final determination, DOE evaluated whether energy conservation standards should be proposed for unvented heaters. In addition, DOE analyzed vented heaters subject to the standards specified in 10 CFR 430.32(i).</P>
+                <P>
+                    For unvented home heating equipment, DOE has previously determined that unvented heaters have minimal potential for energy savings, as they are installed within a conditioned space and all waste heat will be transferred to the conditioned space. 75 FR 20112, 20130 (April 16, 2010). Further, the test procedure only includes test methods for annual energy consumption for primary electric heaters and rated output for all unvented heaters and does not include a test method or metric for energy efficiency. 
+                    <E T="03">See</E>
+                     10 CFR part 430 subpart B appendix G.
+                </P>
+                <P>For vented home heating equipment, DOE analyzed the current vented heater market and compared it to the market during the previous rulemakings. DOE found that the number of shipments have reduced since these previous rulemakings and that the available technology options and efficiency levels have not changed significantly. In those earlier rulemakings, DOE found that while some efficiency levels were technologically feasible, they were not economically justified. DOE also examined the energy use of the vented heaters considered in the previous rulemakings.</P>
+                <P>Based on the results of these analyses, as summarized and explained in section III of this document, DOE has determined that energy conservation standards for unvented heaters are not warranted due to insignificant potential energy savings. Similarly, DOE has determined that amended energy conservation standards for vented heaters are not warranted due to the lack of changes in the market for these products since DOE's prior determination that the applicable energy conservation standards do not need to be amended. Consequently, DOE has determined to take no further action vis-Ã -vis the energy conservation standards for DHE at this time.</P>
+                <HD SOURCE="HD1">II. Authority and Background</HD>
+                <P>The following section briefly discusses the statutory authority underlying this final determination, as well as some of the historical background relevant to the establishment of energy conservation standards for unvented home heating equipment and vented home heating equipment.</P>
+                <HD SOURCE="HD2">A. Authority</HD>
+                <P>EPCA authorizes DOE to regulate the energy efficiency of a number of consumer products and certain industrial equipment. Title III, Part B of EPCA established the Energy Conservation Program for Consumer Products Other Than Automobiles. These products include DHE which is the subject of this document. (42 U.S.C. 6292(a)(9)) EPCA prescribed energy conservation standards for these products (42 U.S.C. 6295(e)(3)), and directs DOE to conduct future rulemakings to determine whether to amend these standards. (42 U.S.C. 6295(e)(4))</P>
+                <P>The energy conservation program under EPCA consists essentially of four parts: (1) Testing, (2) labeling, (3) the establishment of Federal energy conservation standards, and (4) certification and enforcement procedures. Relevant provisions of EPCA specifically include definitions (42 U.S.C. 6291), test procedures (42 U.S.C. 6293), labeling provisions (42 U.S.C. 6294), energy conservation standards (42 U.S.C. 6295), and the authority to require information and reports from manufacturers (42 U.S.C. 6296).</P>
+                <P>Subject to certain criteria and conditions, DOE is required to develop test procedures to measure the energy efficiency, energy use, or estimated annual operating cost of each covered product. (42 U.S.C. 6295(o)(3)(A) and 42 U.S.C. 6295(r)) Manufacturers of covered products must use the prescribed DOE test procedure as the basis for certifying to DOE that their products comply with the applicable energy conservation standards adopted under EPCA and when making representations to the public regarding the energy use or efficiency of those products. (42 U.S.C. 6293(c) and 42 U.S.C. 6295(s)) Similarly, DOE must use these test procedures to determine whether the products comply with standards adopted pursuant to EPCA. (42 U.S.C. 6295(s)) The DOE test procedures for unvented home heating equipment and vented home heating equipment, subsets of DHE, appear at 10 CFR part 430, subpart B, appendix G (âAppendix Gâ) and appendix O (âAppendix Oâ), respectively.</P>
+                <P>Federal energy efficiency requirements generally supersede State laws or regulations concerning energy conservation testing, labeling, and standards. (42 U.S.C. 6297(a)-(c)) DOE may, however, grant waivers of Federal preemption for particular State laws or regulations, in accordance with the procedures and other provisions set forth under EPCA. (See 42 U.S.C. 6297(d))</P>
+                <P>Pursuant to the amendments contained in the Energy Independence and Security Act of 2007 (âEISA 2007â), Public Law 110-140, any final rule for new or amended energy conservation standards promulgated after July 1, 2010, is required to address standby mode and off mode energy use. (42 U.S.C. 6295(gg)(3)) Specifically, when DOE adopts a standard for a covered product after that date, it must, if justified by the criteria for adoption of standards under EPCA (42 U.S.C. 6295(o)), incorporate standby mode and off mode energy use into a single standard, or, if that is not feasible, adopt a separate standard for such energy use for that product. (42 U.S.C. 6295(gg)(3)(A)-(B)) In this analysis, DOE considers such energy use in its final determination not to amend energy conservation standards.</P>
+                <P>
+                    DOE must periodically review its already established energy conservation standards for a covered product no later than 6 years from the issuance of a final rule establishing or amending a standard for a covered product. This 6-year look-back provision requires that DOE publish either a determination that standards do not need to be amended or a NOPR, including new proposed standards (proceeding to a final rule, as appropriate). (42 U.S.C. 6295(m)(1)) EPCA further provides that, not later than 3 years after the issuance of a final determination not to amend standards, DOE must publish either a notification 
+                    <PRTPAGE P="66405"/>
+                    of determination that standards for the product do not need to be amended, or a NOPR including new proposed energy conservation standards (proceeding to a final rule, as appropriate). (42 U.S.C. 6295(m)(3)(B)) DOE must make the analysis on which the determination is based publicly available and provide an opportunity for written comment. (42 U.S.C. 6295(m)(2))
+                </P>
+                <P>A determination that amended standards are not needed must be based on consideration of whether amended standards will result in significant conservation of energy, are technologically feasible, and are cost-effective. (42 U.S.C. 6295(m)(1)(A) and 42 U.S.C. 6295(n)(2)) Additionally, any new or amended energy conservation standard prescribed by the Secretary for any type (or class) of covered product shall be designed to achieve the maximum improvement in energy efficiency which the Secretary determines is technologically feasible and economically justified. (42 U.S.C. 6295(o)(2)(A)) Among the factors DOE considers in evaluating whether a proposed standard level is economically justified includes whether the proposed standard at that level is cost-effective, as defined under 42 U.S.C. 6295(o)(2)(B)(i)(II). Under 42 U.S.C. 6295(o)(2)(B)(i)(II), an evaluation of cost-effectiveness requires DOE to consider savings in operating costs throughout the estimated average life of the covered product in the type (or class) compared to any increase in the price, initial charges, or maintenance expenses for the covered product that are likely to result from the standard. (42 U.S.C. 6295(n)(2) and 42 U.S.C. 6295(o)(2)(B)(i)(II))</P>
+                <P>A NOPR including new proposed standards, must be based on the criteria established under 42 U.S.C. 6295(o). (42 U.S.C. 6295(m)(1)(B)) The criteria in 42 U.S.C. 6295(o) require that standards be designed to achieve the maximum improvement in energy efficiency, which the Secretary determines is technologically feasible and economically justified, and they must result in significant conservation of energy. (42 U.S.C. 6295(o)(2)(A) and 42 U.S.C. 6295(o)(3)(B)) In deciding whether a proposed standard is economically justified, DOE must determine, after receiving public comment, whether the benefits of the standard exceed its burdens. (42 U.S.C. 6295(o)(2)(B)(i)) DOE must make this determination after receiving comments on the proposed standard, and by considering, to the greatest extent practicable, the following seven statutory factors:</P>
+                <EXTRACT>
+                    <P>(1) The economic impact of the standard on manufacturers and consumers of the products subject to the standard;</P>
+                    <P>(2) The savings in operating costs throughout the estimated average life of the covered products in the type (or class) compared to any increase in the price, initial charges, or maintenance expenses for the covered products that are likely to result from the standard;</P>
+                    <P>(3) The total projected amount of energy (or as applicable, water) savings likely to result directly from the standard;</P>
+                    <P>(4) Any lessening of the utility or the performance of the covered products likely to result from the standard;</P>
+                    <P>(5) The impact of any lessening of competition, as determined in writing by the Attorney General, that is likely to result from the standard;</P>
+                    <P>(6) The need for national energy and water conservation; and</P>
+                    <P>(7) Other factors the Secretary of Energy (Secretary) considers relevant.</P>
+                </EXTRACT>
+                <FP>(42 U.S.C. 6295(o)(2)(B)(i)(I)-(VII))</FP>
+                <P>DOE is publishing this final determination in satisfaction of the three-year review requirement in EPCA.</P>
+                <HD SOURCE="HD2">B. Rulemaking History</HD>
+                <P>
+                    The National Appliance Energy Conservation Act of 1987 (âNAECAâ), Public Law 100-12, amended EPCA to include the initial energy conservation standards for DHEâlimited to gas DHE onlyâwhich were based on annual fuel utilization efficiency (âAFUEâ). NAECA established separate standards for âwall fan type,â âwall gravity type,â âfloor,â and âroomâ DHE, further divided by input capacity.
+                    <SU>3</SU>
+                    <FTREF/>
+                     (42 U.S.C. 6295(e)(3))
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âDOE defines âdirect heating equipmentâ as vented home heating equipment and unvented home heating equipment. 10 CFR 430.2. For the purpose of the energy conservation standards, DOE further delineates vented home heating equipment as âgas wall fan type,â âgas wall gravity type,â âgas floor,â and âgas room,â and then further divides product classes by input capacity. 10 CFR 430.32(i).
+                    </P>
+                </FTNT>
+                <P>DOE codified the statutory standards for gas DHE into the CFR in a final rule published February 7, 1989 (âFebruary 1989 final ruleâ). 54 FR 6062. Pursuant to the requirements in EPCA (42 U.S.C. 6295(e)(4)), DOE conducted two cycles of rulemaking for DHE to determine whether to amend these standards. DOE published a final rule concluding the first round of rulemaking on April 16, 2010 (75 FR 20112 (âApril 2010 final ruleâ)), and the Department published a final rule concluding the second round on October 17, 2016 (81 FR 71325 (âOctober 2016 final determinationâ)).</P>
+                <HD SOURCE="HD3">1. Current Standards</HD>
+                <P>In the April 2010 final rule, DOE prescribed the current energy conservation standards for gas vented home heating equipment manufactured on and after April 16, 2013. 75 FR 20112, 20234-20235 (April 16, 2010). These standards are set forth in DOE's regulations at 10 CFR 430.32(i)(2) and repeated in Table II.1 of this document. There are currently no standards for unvented home heating equipment.</P>
+                <GPOTABLE COLS="4" OPTS="L2,i1" CDEF="s50,r50,r50,12">
+                    <TTITLE>Table II.1âFederal Energy Conservation Standards for Gas Vented Home Heating Equipment</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">DHE type</CHED>
+                        <CHED H="1">Heat circulation type</CHED>
+                        <CHED H="1">Input rate, Btu/h</CHED>
+                        <CHED H="1">
+                            AFUE, 
+                            <LI>percent</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Wall</ENT>
+                        <ENT>Fan Type</ENT>
+                        <ENT>
+                            â¤42,000 
+                            <LI>&gt;42,000</LI>
+                        </ENT>
+                        <ENT>
+                            75 
+                            <LI>76</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Gravity Type</ENT>
+                        <ENT>â¤27,000</ENT>
+                        <ENT>65</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;27,000 and â¤46,000</ENT>
+                        <ENT>66</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;46,000</ENT>
+                        <ENT>67</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Floor</ENT>
+                        <ENT>All</ENT>
+                        <ENT>
+                            â¤37,000 
+                            <LI>&gt;37,000</LI>
+                        </ENT>
+                        <ENT>
+                            57 
+                            <LI>58</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Room</ENT>
+                        <ENT>All</ENT>
+                        <ENT>â¤20,000</ENT>
+                        <ENT>61</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;20,000 and â¤27,000</ENT>
+                        <ENT>66</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;27,000 and â¤46,000</ENT>
+                        <ENT>67</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;46,000</ENT>
+                        <ENT>68</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <PRTPAGE P="66406"/>
+                <HD SOURCE="HD3">2. October 2016 Final Determination</HD>
+                <HD SOURCE="HD3">a. Unvented Heaters</HD>
+                <P>
+                    In the October 2016 final determination, DOE concluded that energy conservation standards for unvented heaters would result in negligible energy savings. 81 FR 71325, 71327 (Oct. 17, 2016). DOE also explained that the test procedure for unvented heaters in Appendix G, includes a calculation of annual energy consumption based on a single assignment of active mode hours for unvented heaters that are used as the primary heating source for the home. 
+                    <E T="03">Id.</E>
+                     at 81 FR 71328. For unvented heaters that are not used as the primary heating source for the home, there are no provisions for calculating either the energy efficiency or annual energy consumption. 
+                    <E T="03">Id.</E>
+                     DOE further explained that pursuant to 42 U.S.C. 6295(o)(3), DOE is prohibited from prescribing a new or amended standard for a covered consumer product if a test procedure has not been prescribed for that consumer product, and as such, DOE could not consider standards for these products at that time. 
+                    <E T="03">Id.</E>
+                </P>
+                <HD SOURCE="HD3">b. Vented Heaters</HD>
+                <P>
+                    In the October 2016 final determination, DOE found that few changes to the industry and product offerings had occurred since the April 2010 final rule, and, therefore, the conclusions presented in that final rule were still valid. 81 FR 71325, 71327-71328 (Oct. 17, 2016). For the October 2016 final determination, DOE reviewed the vented heater market, including product literature and product listings in the DOE Compliance Certification Management System (âCCMSâ) database and the Air-Conditioning, Heating, and Refrigeration Institute (âAHRIâ) product directory.
+                    <FTREF/>
+                    <SU>4</SU>
+                      
+                    <E T="03">Id.</E>
+                     at 81 FR 71327. DOE found that the number of models offered in each of the vented heater product classes had decreased overall since the April 2010 final rule, and the agency concluded that this finding supported the notion that the vented heater market was shrinking and that product lines were mainly maintained as replacements for existing vented heater units, and that new product lines generally were not being developed. 
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âThe AHRI directory for DHE can be found at: 
+                        <E T="03">www.ahridirectory.org/NewSearch?programId=23&amp;searchTypeId=3</E>
+                         (Last accessed for the October 2016 final determination on July 16, 2015). The DOE CCMS database can be found at: 
+                        <E T="03">www.regulations.doe.gov/certification-data/CCMS-4-Direct_Heating_Equipment.html#q=Product_Group_s%3A%22Direct%20Heating%20Equipment%22</E>
+                         (Last accessed for the October 2016 final determination on July 16, 2015).
+                    </P>
+                </FTNT>
+                <P>
+                    For the October 2016 final determination DOE also examined available technologies used to improve the efficiency of vented heaters. DOE analyzed products on the market at the time through product teardowns and engaged in manufacturer interviews to obtain further information in support of its analysis. 81 FR 71325, 71327 (Oct. 17, 2016). Most of the technology options on the market and evaluated for the October 2016 final determination (
+                    <E T="03">i.e.,</E>
+                     improved heat exchanger, induced draft, electronic ignition, and a two-speed blower for gas wall fan type vented heaters) were those considered as part of the vented heater rulemaking analysis for the April 2010 final rule. 
+                    <E T="03">Id.</E>
+                     DOE determined that the technology options available for vented heaters were likely to have limited potential for achieving energy savings.
+                    <FTREF/>
+                    <SU>5</SU>
+                      
+                    <E T="03">Id.</E>
+                     Furthermore, DOE concluded that the costs of technology options would likely be similar or higher than in the previous rulemaking analysis due to reduced shipments and, therefore, reduced purchasing power of vented heater manufacturers. 
+                    <E T="03">Id.</E>
+                     DOE also evaluated condensing technology for gas wall fan type vented heaters, which had become available after the April 2010 final rule, and, therefore, was not evaluated as part of that rulemaking. 
+                    <E T="03">Id.</E>
+                     DOE concluded that this technology option would not be economically justified when analyzed for the Nation as a whole due to the significant increase in initial product cost for products using this technology and the potential for severe manufacturer impacts due to the necessary capital conversion costs if an energy conservation standard were adopted at this level. 
+                    <E T="03">Id.</E>
+                     at 81 FR 71327-71328.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âDOE noted that for gas room vented heaters with input capacity up to 20,000 Btu/h, the maximum AFUE available on the market increased from 59 percent in 2009 (only one unit at this input capacity was available on the market at that time) to 71 percent in 2015. DOE found that this was due to heat exchanger improvements only because these units do not use electricity. Due to the small input capacity, DOE found that this increase in AFUE (based on heat exchanger improvements relative to input capacity) was not representative of or feasible for the other gas room vented heater product classes.
+                    </P>
+                </FTNT>
+                <P>
+                    DOE acknowledged that the vented heater industry had seen further consolidation since the April 2010 final rule, with the total number of manufacturers declining from six to four. 
+                    <E T="03">Id.</E>
+                     at 81 FR 71328. Furthermore, according to manufacturers,
+                    <SU>6</SU>
+                    <FTREF/>
+                     shipments further decreased since the April 2010 final rule, and, therefore, it would be more difficult for manufacturers to recover capital expenditures resulting from increased standards. 
+                    <E T="03">Id.</E>
+                     DOE acknowledged that vented heater units continue to be produced primarily as replacements and that the market is small, and expected that shipments would continue to decrease and amended standards would likely accelerate the trend of declining shipments. 
+                    <E T="03">Id.</E>
+                     Moreover, DOE anticipated that small business impacts resulting from amended standards could be significant, as two of the four remaining manufacturers subject to vented heater standards were small businesses. 
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âInformation obtained during confidential manufacturer interviews.
+                    </P>
+                </FTNT>
+                <P>
+                    DOE concluded in the October 2016 final determination that due to the lack of advancement in the vented heater industry since the April 2010 final rule in terms of product offerings, available technology options and associated costs, and declining shipment volumes, amending the vented heater energy conservation standards would impose a substantial burden on manufacturers of vented heaters, particularly to small manufacturers. 81 FR 71325, 71328 (Oct. 17, 2016). DOE noted that it had rejected higher TSLs for vented heaters in the April 2010 final rule due to significant impacts on industry profitability, risks of accelerated industry consolidation, and the likelihood that small manufacturers would experience disproportionate impacts that could lead them to discontinue product lines or exit the market altogether, and the Department stated that the market and the manufacturers' circumstances at the time were similar to when DOE evaluated amended energy conservation standards for vented heaters for the April 2010 final rule. 
+                    <E T="03">Id.</E>
+                     at 81 FR 71328-71329. Accordingly, DOE concluded that amended energy conservation standards for vented heaters were not economically justified at any level above the current standard levels because benefits of more-stringent standards would not outweigh the burdens, and the Department determined not to amend the vented heater energy conservation standards. 
+                    <E T="03">Id.</E>
+                     at 81 FR 71329.
+                </P>
+                <P>
+                    In the October 2016 final determination, DOE also considered whether to establish energy conservation standards for standby mode and off mode electrical energy use, noting that fossil fuel energy use in standby mode and off mode is already included in the AFUE metric and that electric standby mode and off mode energy use is small in comparison to fossil fuel energy use. 
+                    <E T="03">Id.</E>
+                     Given that the 
+                    <PRTPAGE P="66407"/>
+                    standards for vented heaters were not amended, DOE concluded it was not required under EPCA to adopt amended standards which include standby mode and off mode energy use, and due to the relatively small potential for energy savings, DOE declined to do so. 
+                    <E T="03">Id.</E>
+                </P>
+                <HD SOURCE="HD3">3. Current Rulemaking</HD>
+                <P>On February 26, 2019, DOE published a request for information (âRFIâ) (âFebruary 2019 RFIâ) to solicit information from the public to help DOE determine whether amended standards for DHE would result in significant energy savings and whether such standards would be technologically feasible and economically justified. 84 FR 6095.</P>
+                <P>
+                    On December 1, 2020, DOE published a notice of proposed determination (âNOPDâ) (âDecember 2020 NOPDâ) to not amend its energy conservation standards for DHE. 85 FR 77017. DOE estimated that for gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters, potential site energy savings at due to more-stringent standards at the maximum technologically feasible (âmax-techâ) TSL would be 0.13 quadrillion Btus (âquadsâ), a reduction of 6 percent in site energy use. Thus, DOE tentatively concluded in the December 2020 NOPD that more-stringent standards for DHE would not save a significant amount of energy. 
+                    <E T="03">Id.</E>
+                     at 85 FR 77037. Additionally, for these product classes, DOE tentatively determined that the potential benefits from amended standards would be outweighed by burdens on manufacturers, thereby tentatively concluding that amended standards would not be economically justified. 
+                    <E T="03">Id.</E>
+                     at 85 FR 77038. Further, DOE tentatively concluded in the December 2020 NOPD that more-stringent standards for gas floor vented heaters were not technologically feasible, and that amended standards for these products are not needed. 
+                    <E T="03">Id.</E>
+                     In this final determination, DOE finalizes its proposed determination from the December 2020 NOPD.
+                </P>
+                <HD SOURCE="HD1">III. General Discussion</HD>
+                <P>DOE developed this final determination after a review of the DHE market, including product literature and product listings in the DOE CCMS database and the AHRI product directory. DOE also considered written comments, data, and information from interested parties that represent a variety of interests. In response to the December 2020 NOPD, DOE received seven substantive comments from interested parties, which are listed in Table III.1 of this document. DOE also received comments from three stakeholders during a webinar held on January 25, 2021 which discussed the analysis presented in the December 2020 NOPD. This notice addresses issues raised by these commenters.</P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s100,xls42,r25,8C,8C">
+                    <TTITLE>Table III.1âInterested Parties Providing Written or Oral Response to the December 2020 NOPD</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Name(s)</CHED>
+                        <CHED H="1">
+                            Commenter 
+                            <LI>typeâ*</LI>
+                        </CHED>
+                        <CHED H="1">Acronym</CHED>
+                        <CHED H="1">
+                            Written
+                            <LI>comment</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Oral 
+                            <LI>comment</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Abby Spotswood</ENT>
+                        <ENT>I</ENT>
+                        <ENT>Ms. Spotswood</ENT>
+                        <ENT>X</ENT>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Air-conditioning, Heating, and Refrigeration Institute</ENT>
+                        <ENT>TA</ENT>
+                        <ENT>AHRI</ENT>
+                        <ENT>X</ENT>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">American Public Gas Association (âAPGAâ) and the American Gas Association (âAGAâ)</ENT>
+                        <ENT>U</ENT>
+                        <ENT>Joint Gas Utilities</ENT>
+                        <ENT>X</ENT>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Appliance Standards Awareness Project (âASAPâ), American Council for an Energy-Efficient Economy (âACEEEâ), and Natural Resources Defense Council (âNRDCâ)</ENT>
+                        <ENT>EA</ENT>
+                        <ENT>Joint Advocates</ENT>
+                        <ENT>X</ENT>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Association of Home Appliance Manufacturers</ENT>
+                        <ENT>TA</ENT>
+                        <ENT>AHAM</ENT>
+                        <ENT>X</ENT>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Flux Tailor LLC</ENT>
+                        <ENT>UC</ENT>
+                        <ENT>Flux Tailor</ENT>
+                        <ENT/>
+                        <ENT>X</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Northwest Energy Efficiency Alliance</ENT>
+                        <ENT>EA</ENT>
+                        <ENT>NEEA</ENT>
+                        <ENT>X</ENT>
+                        <ENT>X</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Pacific Gas and Electric (âPG&amp;Eâ), Southern California Edison (âSCEâ), San Diego Gas and Electric (âSDG&amp;Eâ) (
+                            <E T="03">i.e.,</E>
+                             California Investor-Owned Utilities)
+                        </ENT>
+                        <ENT>U</ENT>
+                        <ENT>CA IOUs</ENT>
+                        <ENT>X</ENT>
+                        <ENT>X</ENT>
+                    </ROW>
+                    <TNOTE>*âEA: Efficiency/Environmental Advocate; I: Individual; TA: Trade Association; U: Utility or Utility Trade Association; UC: Utility Consultant.</TNOTE>
+                </GPOTABLE>
+                <P>
+                    A parenthetical reference at the end of a comment quotation or paraphrase provides the location of the item in the public docket.
+                    <SU>7</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âThe parenthetical reference provides a reference for information located in the docket of DOE's rulemaking to consider amended energy conservation standards for DHE. (Docket No. EERE-2019-BT-STD-0002, which is maintained at 
+                        <E T="03">www.regulations.gov/docket?D=EERE-2019-BT-STD-0002</E>
+                        ). The references are arranged as follows: (commenter name, comment docket ID number, page of that document).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">A. Product Classes and Scope of Coverage</HD>
+                <P>
+                    When evaluating and establishing new or amended energy conservation standards, DOE divides covered products into product classes (or types) based on a specified level of energy used or by capacity or other performance-related features that justify differing standards. (42 U.S.C. 6295(q)) In making a determination whether a performance-related feature justifies a different standard, DOE must consider such factors as the utility of the feature to the consumer and other factors DOE determines are appropriate. 
+                    <E T="03">Id.</E>
+                     The scope of coverage is discussed in further detail in section III.A.1 of this document. The product classes for this final determination are discussed in further detail in section III.A.2 of this document.
+                </P>
+                <HD SOURCE="HD3">1. Scope of Coverage and Definitions</HD>
+                <P>
+                    This final determination covers those products that meet the definitions of âdirect heating equipment,â which is defined as vented home heating equipment and unvented home heating equipment. 10 CFR 430.2. âHome heating equipment, not including furnacesâ likewise means vented home heating equipment and unvented home heating equipment. 
+                    <E T="03">Id.</E>
+                     The existing energy conservation standards at 10 CFR 430.32(i)(2) apply only to product classes of vented home heating equipment. There are no existing energy conservation standards for unvented home heating equipment.
+                </P>
+                <HD SOURCE="HD3">a. Unvented Heaters</HD>
+                <P>
+                    Unvented heaters are those products that meet the definition for âunvented home heating equipment,â as codified at 10 CFR 430.2. Under that provision, âUnvented home heating equipmentâ means a class of home heating equipment, not including furnaces, used for the purpose of furnishing heat to a space proximate to such heater directly from the heater and without duct connections and includes electric heaters and unvented gas and oil heaters. DOE further defines the various 
+                    <PRTPAGE P="66408"/>
+                    sub-types of unvented heaters at 10 CFR 430.2 as follows:
+                </P>
+                <EXTRACT>
+                    <P>(1) âBaseboard electric heaterâ means an electric heater which is intended to be recessed in or surface mounted on walls at floor level, which is characterized by long, low physical dimensions, and which transfers heat by natural convection and/or radiation.</P>
+                    <P>(2) âCeiling electric heaterâ means an electric heater which is intended to be recessed in, surface mounted on, or hung from a ceiling, and which transfers heat by radiation and/or convection (either natural or forced).</P>
+                    <P>(3) âElectric heaterâ means an electric appliance in which heat is generated from electrical energy and dissipated by convection and radiation and includes baseboard electric heaters, ceiling electric heaters, floor electric heaters, portable electric heaters, and wall electric heaters.</P>
+                    <P>(4) âFloor electric heaterâ means an electric heater which is intended to be recessed in a floor, and which transfers by radiation and/or convection (either natural or forced).</P>
+                    <P>(5) âPortable electric heaterâ means an electric heater which is intended to stand unsupported, and can be moved from place to place within a structure. It is connected to electric supply by means of a cord and plug, and transfers heat by radiation and/or convention (either natural or forced).</P>
+                    <P>(6) âPrimary heaterâ means a heating device that is the principal source of heat for a structure and includes baseboard electric heaters, ceiling electric heaters, and wall electric heaters.</P>
+                    <P>(7) âSupplementary heaterâ means a heating device that provides heat to a space in addition to that which is supplied by a primary heater. Supplementary heaters include portable electric heaters.</P>
+                    <P>(8) âUnvented gas heaterâ means an unvented, self-contained, free-standing, non-recessed gas-burning appliance which furnishes warm air by gravity or fan circulation.</P>
+                    <P>(9) âUnvented oil heaterâ means an unvented, self-contained, free-standing, non-recessed oil-burning appliance which furnishes warm air by gravity or fan circulation.</P>
+                    <P>(10) âWall electric heaterâ means an electric heater (excluding baseboard electric heaters) which is intended to be recessed in or surface mounted on walls, which transfers heat by radiation and/or convection (either natural or forced) and which includes forced convectors, natural convectors, radiant heaters, high wall or valance heaters.</P>
+                </EXTRACT>
+                <P>DOE received no recommended changes to the unvented heater definitions in response to the December 2020 NOPD and is not amending these definitions in this final determination.</P>
+                <HD SOURCE="HD3">b. Vented Heaters</HD>
+                <P>Vented heaters are those products that meet the definitions for âvented home heating equipment,â as codified at 10 CFR 430.2. Under that provision, âvented home heating equipmentâ or âvented heaterâ means a class of home heating equipment, not including furnaces, designed to furnish warmed air to the living space of a residence, directly from the device, without duct connections (except that boots not to exceed 10 inches beyond the casing may be permitted) and includes: Vented wall furnace, vented floor furnace, and vented room heater. DOE further defines the various sub-types of vented heaters at 10 CFR 430.2 as follows:</P>
+                <EXTRACT>
+                    <P>(1) âVented floor furnaceâ means a self-contained vented heater suspended from the floor of the space being heated, taking air for combustion from outside this space. The vented floor furnace supplies heated air circulated by gravity or by a fan directly into the space to be heated through openings in the casing.</P>
+                    <P>(2) âVented room heaterâ means a self-contained, free standing, non-recessed, vented heater for furnishing warmed air to the space in which it is installed. The vented room heater supplies heated air circulated by gravity or by a fan directly into the space to be heated through openings in the casing.</P>
+                    <P>(3) âVented wall furnaceâ means a self-contained vented heater complete with grilles or the equivalent, designed for incorporation in, or permanent attachment to, a wall of a residence and furnishing heated air circulated by gravity or by a fan directly into the space to be heated through openings in the casing.</P>
+                </EXTRACT>
+                <P>DOE received no recommended changes to the vented heater definitions in response to the December 2020 NOPD and is not amending these definitions in this final determination.</P>
+                <HD SOURCE="HD3">2. Product Classes</HD>
+                <P>
+                    In general, when evaluating and establishing energy conservation standards, DOE divides the covered product into classes (or types) based on the level of energy used, the capacity, or other performance-related feature that justifies a different standard. (42 U.S.C. 6295(q)) In making a determination whether capacity or another performance-related feature justifies a different standard, DOE must consider such factors as the utility of the feature to the consumer and other factors DOE deems appropriate. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    For vented heaters, the current energy conservation standards specified in 10 CFR 430.32(i)(2) are based on 11 product classes divided by DHE type (
+                    <E T="03">i.e.,</E>
+                     gas wall, gas floor, or gas room), heat circulation type (
+                    <E T="03">i.e.,</E>
+                     fan type or gravity type), and input capacity. Table III.2 lists the current product classes for vented heaters.
+                </P>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s100,r100,r100">
+                    <TTITLE>Table III.2âCurrent Vented Heater Product Classes</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">DHE type</CHED>
+                        <CHED H="1">Heat circulation type</CHED>
+                        <CHED H="1">Input rate, Btu/h</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Gas Wall</ENT>
+                        <ENT>Fan Type</ENT>
+                        <ENT>
+                            â¤42,000. 
+                            <LI>&gt;42,000.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Gravity Type</ENT>
+                        <ENT>â¤27,000.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;27,000 and â¤46,000.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;46,000.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Floor</ENT>
+                        <ENT>All</ENT>
+                        <ENT>
+                            â¤37,000. 
+                            <LI>&gt;37,000.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Room</ENT>
+                        <ENT>All</ENT>
+                        <ENT>â¤20,000.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;20,000 and â¤27,000.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;27,000 and â¤46,000.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl">â</ENT>
+                        <ENT>&gt;46,000.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    In response to the December 2020 NOPD, NEEA stated that gas wall gravity type vented heaters do not provide a unique consumer utility and therefore do not warrant a separate product class from gas wall fan type vented heaters. (NEEA, No. 20 at p. 2) NEEA further stated that although some gas wall gravity type vented heaters do not require electricity, while all gas wall fan type vented heaters do, this is not a distinguishing factor since some gas wall gravity type vented heater models require electricity to operate. (NEEA, No. 20 at p. 2) Gas wall fan and gravity type vented heaters are separated into different product classes in the current energy conservation standards. As discussed, EPCA requires DOE to consider product classes when prescribing energy conservation 
+                    <PRTPAGE P="66409"/>
+                    standards. (42 U.S.C. 6295(q)) Because DOE is not prescribing new or amended standards for DHE, it is not amending the product classes for these products.
+                </P>
+                <HD SOURCE="HD3">3. Hearth Heaters</HD>
+                <P>In comments to the December 2020 final rule, the Joint Advocates and NEEA referenced DOE's prior analysis of hearth products and recommended the elimination of standing pilot lights. (Joint Advocates, No. 16 at p. 1; NEEA, No. 20 at p. 2) DOE clarifies that while hearth heaters are direct heating equipment per the definition in 10 CFR 430.2, such products were not considered in the context of this determination and such products are not subject to the standards for direct heating equipment at 10 CFR 430.32(i).</P>
+                <P>
+                    In the NOPR that preceded the April 2010 final rule, DOE proposed that its test procedures for vented DHE (
+                    <E T="03">i.e.,</E>
+                     Appendix O) be applied to establish the efficiencies of vented gas hearth DHE. 74 FR 65852, 65861 (Dec. 11, 2009; âDecember 2009 NOPRâ). DOE described vented hearth products as including gas-fired products such as fireplaces, fireplace inserts, stoves, and log sets that typically include aesthetic features such as a yellow flame, and stated that consumers typically purchase these products to add aesthetic qualities and ambiance to a room, and the products also provide space heating. 74 FR 65852, 65866. DOE stated that âvented hearth productsâ meet DOE's definition of âvented home heating equipment,â because they are designed to furnish warmed air to the living space of a residence without duct connections. 
+                    <E T="03">Id.</E>
+                     DOE proposed to establish standards for such products. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>In the April 2010 final rule DOE concluded that vented hearth products as described December 2009 NOPR meet the definition of âvented home heating equipment.â 75 FR 20112, 20128. DOE also adopted a definition of âvented hearth heaterâ different from that proposed in that, among other changes, removed explicit reference to fireplace heaters and included a maximum capacity threshold to distinguish vented hearth heaters from purely decorative heaters excluded from DOE's regulations. 75 FR 20112, 20130.</P>
+                <P>
+                    Following the April 2010 final rule, the Hearth, Patio &amp; Barbecue Association (âHPBAâ) challenged DOE in the United States Court of Appeals for the District of Columbia Circuit (âD.C. Circuitâ) to invalidate the April 2010 final rule and an amendment to that rule published on November 18, 2011 (76 FR 71836; âNovember 2011 final ruleâ)â
+                    <SU>8</SU>
+                    <FTREF/>
+                     as those rules pertained to vented gas hearth products. 
+                    <E T="03">Hearth, Patio &amp; Barbecue Association</E>
+                     v. 
+                    <E T="03">Department of Energy, et al.,</E>
+                     No. 10-1113 (D.C. Cir. filed July 1, 2010). On February 8, 2013, the Court ruled that DOE had improperly covered decorative fireplaces in the definition of âvented hearth heaterâ as established in the April 2010 final rule and amended in the November 2011 final rule. 
+                    <E T="03">Hearth, Patio &amp; Barbecue Association</E>
+                     v. 
+                    <E T="03">Department of Energy, et al.,</E>
+                     706 F.3d 499 (D.C. Cir. 2013). The Court held that the phrase âvented hearth heaterâ did not encompass decorative fireplaces as that term is traditionally understood, vacated the entire statutory definition of âvented hearth heaterâ and remanded for DOE to interpret the challenged provisions consistent with the court's opinion. 
+                    <E T="03">Id. at</E>
+                     509. On July 29, 2014, DOE published a final rule amending the relevant portions of its regulation to reflect the Court's decision to vacate the regulatory definition of âvented hearth heaterâ (and by implication, the associated energy conservation standards). 79 FR 43927.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âIn the November 2011 final rule DOE amended the definition of âvented hearth heater,â to clarify the scope of the current exclusion for those vented hearth heaters that are primarily decorative hearth products by shifting the focus from a maximum input capacity limitation (
+                        <E T="03">i.e.,</E>
+                         9,000 Btu/h) to a number of other factors, including the absence of a standing pilot light or other continuously-burning ignition source. 
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    On December 31, 2013, DOE published a proposed determination of coverage for hearth products. 78 FR 79638 (âDecember 2013 NOPDâ). DOE stated that hearth products are gas-fired equipment that provide space heating and/or provide an aesthetic appeal to the living space. 78 FR 79638, 79639. DOE also stated vented hearth heaters are no longer covered products as a result of the Court ruling. On February 9, 2015, DOE published a NOPR proposing energy conservation standards for hearth products. 80 FR 7082. This NOPR covered both vented and unvented (vent-less) hearth products. 
+                    <E T="03">Id.</E>
+                     at 80 FR 7088-7089. On March 31, 2017, DOE withdrew the December 2013 NOPDâ
+                    <SU>9</SU>
+                    <FTREF/>
+                     in the bi-annual publication of the DOE Regulatory Agenda.
+                    <SU>10</SU>
+                    <FTREF/>
+                     On further consideration, DOE believes that it was overly broad in its discussing the Court's holding in the context of hearth heaters. Given that hearth heaters (vented or unvented) provide space heating and classifying hearth heaters as vented or unvented (as applicable) home heating equipment would be consistent with the Court's opinion. 
+                    <E T="03">See</E>
+                     706 F.3d 499, 505. As discussed, currently there are not energy conservation standards for such products and such products were not considered in the analysis of whether the existing standards for vented and unvented home heating equipment should be amended. To the extent DOE considers energy conservation standards for hearth heaters, it intends to do so in a separate rulemaking.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âWithdrawal of the December 2013 NOPD also withdraws the February 2016 NOPR.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âPast publications of DOE's Regulatory Agenda can be found at: 
+                        <E T="03">https://resources.regulations.gov/public/component/main.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Analysis for This Final Determination</HD>
+                <HD SOURCE="HD3">1. Overview of the Analysis</HD>
+                <P>As stated previously, in determining that amended standards are not needed, DOE must consider whether amended standards would result in significant conservation of energy, are technologically feasible, and are cost-effective as described in 42 U.S.C. 6295(o)(2)(B)(i)(II). (42 U.S.C. 6295(m)(1)(A) and 42 U.S.C. 6295(n)(2)). An evaluation of cost-effectiveness under 42 U.S.C. 6295(o)(2)(B)(i)(II) requires that DOE consider savings in operating costs throughout the estimated average life of the covered products in the type (or class) compared to any increase in the price, initial charges, or maintenance expenses for the covered products that are likely to result from the standard. (42 U.S.C. 6295(n)(2) and 42 U.S.C. 6295(o)(2)(B)(i)(II)) Before potential energy savings and cost-effectiveness of amended standards can be estimated, available and working prototype technologies with the potential to improve energy efficiency must first be evaluated. Accordingly, DOE generally starts with this technology evaluation.</P>
+                <HD SOURCE="HD3">a. Technological Feasibility</HD>
+                <P>
+                    In evaluating potential amendments to energy conservation standards, DOE first conducts a market and technology assessment to survey the products currently available on the market and identify technology options (including prototype technologies) that could improve the efficiency of the products or equipment that are the subject of the rulemaking. DOE then conducts a screening analysis for the technologies identified, and, as a first step, determines which of those means for improving efficiency are technologically feasible. DOE considers technologies incorporated in commercially-available products or in working prototypes to be technologically feasible. 10 CFR part 430, subpart C, appendix A, sections 6(a)(3)(iii)(A) and 7(b)(1) (âProcess Ruleâ).
+                    <PRTPAGE P="66410"/>
+                </P>
+                <P>
+                    After DOE has determined that particular technology options are technologically feasible, it further evaluates each technology option in light of the following additional screening criteria: (1) Practicability to manufacture, install, and service; (2) adverse impacts on product utility or availability; (3) adverse impacts on health or safety, and (4) unique-pathway proprietary technologies. Sections 6(a)(3)(iii)(B)-(E) and 7(b)(2)-(5) of the Process Rule. The technology options identified for this final determination are essentially those technologies identified and considered for the October 2016 final determination. 
+                    <E T="03">See</E>
+                     sections III.B.3.b. and III.B.3.c. of this document for additional discussion.
+                </P>
+                <P>
+                    EPCA requires that in proposing to adopt an amended or new energy conservation standard, or proposing no amendment or no new standard for a type (or class) of covered product, DOE must determine the maximum improvement in energy efficiency or maximum reduction in energy use that is technologically feasible for each type (or class) of covered product. (42 U.S.C. 6295(p)(1)) Accordingly, DOE determined the max-tech improvements in energy efficiency for vented heaters, using the design parameters for the most efficient products available on the market or in working prototypes. 
+                    <E T="03">See</E>
+                     section III.B.3.d. of this document for further discussion.
+                </P>
+                <HD SOURCE="HD3">b. Energy Savings</HD>
+                <P>
+                    To adopt any new or amended standards for a covered product, DOE must determine that such action would result in significant energy savings. (42 U.S.C. 6295(o)(3)(B)) Although the term âsignificantâ is not defined in the EPCA, the U.S. Court of Appeals, for the District of Columbia Circuit in 
+                    <E T="03">Natural Resources Defense Council</E>
+                     v. 
+                    <E T="03">Herrington,</E>
+                     768 F.2d 1355, 1373 (D.C. Cir. 1985), opined that Congress intended âsignificantâ energy savings in the context of EPCA to be savings that were not âgenuinely trivial.â
+                </P>
+                <P>
+                    The significance of energy savings offered by a new or amended energy conservation standard cannot be determined without knowledge of the specific circumstances surrounding a given rulemaking. For example, the United States has now rejoined the Paris Agreement and will exert leadership in confronting the climate crisis.
+                    <SU>11</SU>
+                    <FTREF/>
+                     Additionally, some covered products and equipment have most of their energy consumption occur during periods of peak energy demand. The impacts of these products on the energy infrastructure can be more pronounced than products with relatively constant demand. In evaluating the significance of energy savings, DOE considers differences in primary energy and FFC effects for different covered products and equipment when determining whether energy savings are significant. Primary energy and FFC effects include the energy consumed in electricity production (depending on load shape), in distribution and transmission, and in extracting, processing, and transporting primary fuels (
+                    <E T="03">i.e.,</E>
+                     coal, natural gas, petroleum fuels), and thus present a more complete picture of the impacts of energy conservation standards. Accordingly, DOE evaluates the significance of energy savings on a case-by-case basis.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âSee Executive Order 14008, 86 FR 7619 (Feb. 1, 2021) (âTackling the Climate Crisis at Home and Abroadâ).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">c. Cost-Effectiveness</HD>
+                <P>
+                    Under EPCA's 6-year-lookback review provision for existing energy conservation standards at 42 U.S.C. 6295(m)(1), cost-effectiveness of potential amended standards is a relevant consideration both where DOE proposes to adopt such standards, as well as where it does not. In considering cost-effectiveness when making a determination of whether existing energy conservation standards do not need to be amended, DOE considers the savings in operating costs throughout the estimated average life of the covered product compared to any increase in the price of, or in the initial charges for, or maintenance expenses of, the covered product that are likely to result from a standard. (42 U.S.C. 6295(m)(1)(A)(
+                    <E T="03">referencing</E>
+                     42 U.S.C. 6295(n)(2))) Additionally, any new or amended 
+                    <E T="03">energy conservation standard</E>
+                     prescribed by the
+                    <E T="03"> Secretary</E>
+                     for any type (or class) of
+                    <E T="03"> covered product</E>
+                     shall be designed to achieve the maximum improvement in energy efficiency which the
+                    <E T="03"> Secretary</E>
+                     determines is technologically
+                    <E T="03"> feasible</E>
+                     and economically justified. (42 U.S.C. 6295(o)(2)(A)) Cost-effectiveness is one of the factors that DOE must ultimately consider under 42 U.S.C. 6295(o)(2)(B) to support a finding of economic justification, if it is determined that amended standards are appropriate under the applicable statutory criteria. (42 U.S.C. 6295(o)(2)(B)(i)(II))
+                </P>
+                <P>
+                    In determining cost effectiveness of potential amended standards for DHE, DOE considered the life-cycle cost (âLCCâ) and payback period (âPBPâ) analyses that estimate the costs and benefits to users from the standards. The LCC is the sum of the initial price of equipment (including its installation) and the operating expense (including energy, maintenance, and repair expenditures) discounted over the lifetime of the equipment. The LCC analysis requires a variety of inputs, such as equipment prices, equipment energy consumption, energy prices, maintenance and repair costs, equipment lifetime, and discount rates appropriate for consumers. To account for uncertainty and variability in specific inputs (
+                    <E T="03">e.g.,</E>
+                     equipment lifetime and discount rate), DOE uses a distribution of values, with probabilities attached to each value.
+                </P>
+                <P>The PBP is the estimated amount of time (in years) it takes consumers to recover the increased purchase cost (including installation) of more-efficient equipment through lower operating costs. DOE calculates the PBP by dividing the change in total installation cost due to a more-stringent standard by the change in annual operating cost for the year that standards are assumed to take effect.</P>
+                <P>To further inform DOE's consideration of the cost-effectiveness of potential amended standards, DOE may also consider the NPV of total costs and benefits estimated as part of the national impact analysis (NIA). The inputs for determining the NPV of the total costs and benefits experienced by consumers are: (1) Total annual installed cost, (2) total annual operating costs (energy costs and repair and maintenance costs), and (3) a discount factor to calculate the present value of costs and savings.</P>
+                <P>For the determination in this document, DOE considered the LCC and PBP analyses from the April 2010 final rule, as well as the evaluation in the October 2016 final determination, and information gathered on the current market and technologies.</P>
+                <HD SOURCE="HD3">d. Further Considerations</HD>
+                <P>
+                    As stated previously, pursuant to EPCA, if DOE does not issue a notification of determination that energy conservation standards for DHE do not need to be amended, DOE must issue a NOPR that includes new proposed standards. (42 U.S.C. 6295(m)(1)(B)) The new proposed standards in any such NOPR must be based on the criteria established under 42 U.S.C. 6295(o). (42 U.S.C. 6295(m)(1)(B)) The criteria in 42 U.S.C. 6295(o) require that standards be designed to achieve the maximum improvement in energy efficiency, which the Secretary determines is technologically feasible and economically justified. (42 U.S.C. 6295(o)(2)(A)) In deciding whether a proposed standard is economically justified, DOE must determine whether the benefits of the standard exceed its 
+                    <PRTPAGE P="66411"/>
+                    burdens. (42 U.S.C. 6295(o)(2)(B)(i)) DOE must make this determination after receiving comments on the proposed standard, and by considering, to the greatest extent practicable, the following seven statutory factors:
+                </P>
+                <EXTRACT>
+                    <P>(1) The economic impact of the standard on manufacturers and consumers of the products subject to the standard;</P>
+                    <P>(2) The savings in operating costs throughout the estimated average life of the covered products in the type (or class) compared to any increase in the price, initial charges for, or maintenance expenses of the covered products that are likely to result from the standard;</P>
+                    <P>(3) The total projected amount of energy (or as applicable, water) savings likely to result directly from the standard;</P>
+                    <P>(4) Any lessening of the utility or the performance of the covered products likely to result from the standard;</P>
+                    <P>(5) The impact of any lessening of competition, as determined in writing by the Attorney General, that is likely to result from the standard;</P>
+                    <P>(6) The need for national energy and water conservation; and</P>
+                    <P>(7) Other factors the Secretary of Energy (Secretary) considers relevant.</P>
+                </EXTRACT>
+                <FP>(42 U.S.C. 6295(o)(2)(B)(i)(I)-(VII))</FP>
+                <P>As discussed in the October 2016 final determination, DOE found that amended standards for vented heaters would not be economically justified under the considerations of the seven factors prescribed in EPCA. 81 FR 71325, 71328-71329 (Oct. 17, 2016). For the determination in this document, DOE has considered the previous evaluation of amended standards in the October 2016 final determination.</P>
+                <HD SOURCE="HD3">2. Unvented Heaters</HD>
+                <P>
+                    In response to the December 2020 NOPD, the Joint Advocates and NEEA stated that the technology to eliminate standing pilot lights (
+                    <E T="03">i.e.,</E>
+                     electronic ignition) is readily available and low cost and urged DOE to consider standards specifically for unvented gas heaters that would ban standing pilot lights. (Joint Advocates, No. 16 at p. 1-2; NEEA, No. 20 at p. 2) The Joint Advocates further stated that in the technical support document (TSD) for the hearth products NOPR that DOE published on February 9, 2015, DOE found that electronic ignition systems operate an average of 3.94 hours per year at an estimated 50 W, could be manufactured at an incremental price of approximately $80 and have a PBP and LCC savings of 2.9 years and $327, respectively. (Joint Advocates, No. 16 at p. 1-2; see also chapter 8 of the TSD to the February 2015 NOPR (80 FR 7082 (Feb. 9, 2015))) NEEA also referenced the February 2015 NOPR for hearth products stating that eliminating standing pilots could save an average of $165 over the life of the product. 80 FR 7082, 7084. (NEEA, No. 20 at p. 2)
+                </P>
+                <P>The CA IOUs and Joint Advocates stated that Appendix G, which does not require the energy consumption of the standing pilot light to be measured if there are instructions for turning the pilot light off when the heater is not in use, may not account for actual consumer behavior and stated that DOE did not provide evidence to support the assumption that consumers will follow the instructions in manufacturer-provided literature and urged DOE to conduct further research. (CA IOUs, No. 17 at p. 3; Joint Advocates, No. 16 at p. 1) The Joint Advocates stated that in the February 2015 NOPR for hearth products DOE analysis showed that 40 percent of the consumers of hearth products leave standing pilot lights on all year and that the average operating hours for standing pilot lights is close to 4,000 hours per year. (Joint Advocates, No. 16 at p. 1)</P>
+                <P>
+                    Section 2.3.1 of Appendix G states that measurement of the pilot light input rate is not required for unvented heaters where the pilot light is designed to be turned off by the user when the heater is not in use (
+                    <E T="03">i.e.,</E>
+                     for units where turning the control to the OFF position will shut off the gas supply to the burner(s) and the pilot light) and instruction to turn off the unit is provided on the heater near the gas control value (
+                    <E T="03">e.g.,</E>
+                     by label). Section 2.3.1 of Appendix G requires for unvented heaters with a pilot light that is not designed to be turned off when not in use, or that does not include an instruction to do so, the pilot light input rate must be measured, but is not used in the calculation of rated output in section 3.4 of Appendix G. As explained in the final rule published December 17, 2012, that addressed standby and off mode energy use for unvented heaters, these provisions exclude from the standby mode and off mode requirements a standing pilot light if there are means to disconnect the electric or gas power source when not in use and instructions to do so are clearly visible. 77 FR 74559, 74563 (âDecember 2012 final ruleâ). DOE explained that the exclusion is identical to that applicable to manually-controlled vented heatersâ
+                    <SU>12</SU>
+                    <FTREF/>
+                     and that DOE believes this exclusion should also apply to unvented heaters so equipped. 
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âSection 1.21 of Appendix O defines a âmanually controlled vented heaterâ as âeither gas or oil fueled vented heaters equipped without thermostats.â
+                    </P>
+                </FTNT>
+                <P>
+                    The discussion in the December 2012 final rule and the reference to a comparable application for manually-controlled vented heaters indicates that the exclusion in section 2.3.1 of Appendix G was to exclude manually-controlled heaters (
+                    <E T="03">i.e.,</E>
+                     without thermostats) in which the burner and pilot light are turned off when the consumer turns the unit off. As a manually-controlled heater operates only when heat is desired by the consumer, all energy use is useful to the consumer. However, the exclusion in section 2.3.1 of Appendix G is more broadly written than the similar exclusion in section 3.5.2 of Appendix O for manually-controlled vented heaters and applies to products that operate with a thermostat or that are manually-controlled. Further, DOE has found that there are manually-controlled unvented gas heaters on the marketâ
+                    <SU>13</SU>
+                    <FTREF/>
+                     that have both a fully off mode (
+                    <E T="03">i.e.,</E>
+                     turning the unit off will turn off the gas to the burner and pilot light) and a mode in which the pilot stays on when heat from the burner is not desired. Such products meet the exclusion criteria in section 2.3.1 of Appendix G but also may not be turned fully off by a consumer when heat is not desired. DOE agrees that amendments to Appendix G to limit the exclusion to unvented heaters that are controlled with a thermostat or manually-controlled unvented heaters with both a fully off mode and a pilot on mode may be appropriate. DOE intends to address this issue further in the ongoing test procedure rulemaking for unvented heaters.
+                    <SU>14</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âFor example, the installation and operations manual for an unvented gas heater that can be manually-controlled and has fully off and pilot modes can be found at: 
+                        <E T="03">https://images.thdstatic.com/catalog/pdfImages/2e/2e682fa1-3dba-4905-8cb5-785611455daa.pdf.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âDOE published an NOPR regarding test procedures for DHE. 86 FR 20053 (April 16, 2021). The docket for the test procedure NOPR is available at: 
+                        <E T="03">www.regulations.gov/docket?D=EERE-2019-BT-TP-0003.</E>
+                    </P>
+                </FTNT>
+                <P>There may be the potential for energy savings if consumer behavior regarding the operation of the standing pilot lights for unvented heaters is examined further. However, the values stated by the Joint Advocates cannot be used directly as hearth products, as defined in the February 2015 NOPR, but may be used differently than unvented heaters. At the time of this analysis, DOE has not received information regarding consumer behavior for unvented heaters, but will continue to evaluate in subsequent rulemakings.</P>
+                <P>
+                    The Joint Gas Utilities stated that unvented gas heaters are required by the consensus safety standard ANSI 
+                    <PRTPAGE P="66412"/>
+                    Z21.11.1, âGas-Fired Room Heaters V: Vented Room Heaters,â to incorporate an oxygen depletion safety (ODS) system that also acts as a burner ignition system and stated that because of this requirement in the safety standard, prohibition of standing pilot lights would essentially prohibit manufacturing unvented gas heaters. (Joint Gas Utilities, No. 15 at p. 4) DOE found that CSA/ANSI Z21.11.2-2019 (ANSI Z21.1.2-2019), âGas-Fired Room Heaters, Volume II, Unvented Room Heatersâ covers unvented gas heaters and that while section 4.9 of ANSI Z21.11.2-2019 does specify that an ODS system be equipped at the point of manufacture, it does not require that a standing pilot light be used in the ODS system. Further, DOE has found that unvented heaters exist on the marketâ
+                    <SU>15</SU>
+                    <FTREF/>
+                     with ODS systems and without standing pilot lights.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âSpecification sheet for an unvented gas heater with electronic ignition and a ODS system: www.
+                        <E T="03">media.rinnai.us/salsify_asset/s-515b633c-2926-43a2-98ff-7ac8fbc7c1ab/FC510%20(RCE-391A-H)%20SP.pdf?_ga=2.116400966.1386589753.1625773392-36239730.1625773392.</E>
+                    </P>
+                </FTNT>
+                <P>AHAM supported DOE's assessment from the December 2020 NOPD which stipulated that for unvented heaters any heat losses are lost to the living space and, therefore, unvented heaters are nearly 100 percent efficient. (AHAM, No. 19 at p. 2) Flux Tailor urged DOE to reconsider its blanket assumption that all unvented heaters are 100 percent efficient, suggesting that, depending on type of convection technology and other factors, the heater's real capacity to heat a given space may vary significantly and ultimately effect overall energy consumption. (Flux Tailor, No. 21 at p.â21)</P>
+                <P>
+                    Section 3.1 of Appendix G contains a calculation for annual energy consumption for primary electric heaters. This calculation uses the national average heating load hours (
+                    <E T="03">i.e.,</E>
+                     2,080 hours). Appendix G does not provide for calculating the annual energy consumption of supplementary electric heaters or unvented gas or oil heaters. To account for potential variation in a unit's ârealâ heating capacity, as suggested by Flux Tailor, an annual energy consumption calculation would need to be developed for all unvented heaters that addressed the heating load hours based on quantity of heat a unit provides to a given space. As this would necessitate amendment to the test procedure, Flux Tailor's comment is more appropriately addressed in the ongoing test procedure rulemaking.
+                    <SU>16</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âDOE published an NOPR regarding test procedures for DHE. 86 FR 20053 (April 16, 2021). The docket for the test procedure NOPR is available at: 
+                        <E T="03">www.regulations.gov/docket?D=EERE-2019-BT-TP-0003.</E>
+                    </P>
+                </FTNT>
+                <P>As stated in section III.A.3., this final determination does not consider unvented hearth heaters. To the extent DOE will consider energy conservation standards for unvented hearth heaters it would do so in a separate rulemaking.</P>
+                <HD SOURCE="HD3">3. Vented Heaters</HD>
+                <HD SOURCE="HD3">a. Market Assessment</HD>
+                <P>Models on the Market</P>
+                <P>DOE has conducted a review of the vented heater market, including product literature and product listings in the CCMS database and AHRI product directory. DOE has concluded that the number of models offered in each of the vented heater product classes has continued to decrease overall since the October 2016 final determination, as shown in Table III.3 of this document. The model counts presented in Table III.3 of this document are counts of individual model numbers, as opposed to basic model numbers. A basic model can have multiple individual model numbers certified under it. The model counts from previous rulemakings were individual model numbers, so for consistency of comparison, the model counts for 2021 that are presented in Table III.3 of this document are also in terms of individual model number. DOE acknowledges that, although changes in model counts and shipments sometimes correlate, changes to available model counts do not necessarily indicate a change in the number of units sold. For example, a model could be taken off of the market, but more units of another model could be sold, thereby resulting in roughly the same amount of sales as before the first model was taken off the market. Shipments of vented heaters are discussed is section III.B.3.g of this document.</P>
+                <GPOTABLE COLS="4" OPTS="L2,i1" CDEF="s100,12,18,14">
+                    <TTITLE>Table III.3âVented Heater Individual Model Counts by Product Class for Current and Previous Rulemakings</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Product class</CHED>
+                        <CHED H="1">Model count by product class</CHED>
+                        <CHED H="2">2021â*</CHED>
+                        <CHED H="2">
+                            October 2016 final 
+                            <LI>determinationâ**</LI>
+                        </CHED>
+                        <CHED H="2">April 2010 final ruleâ***</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Gas Wall Fan Type</ENT>
+                        <ENT>51</ENT>
+                        <ENT>64</ENT>
+                        <ENT>82</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Wall Gravity Type</ENT>
+                        <ENT>57</ENT>
+                        <ENT>56</ENT>
+                        <ENT>52</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Floor</ENT>
+                        <ENT>10</ENT>
+                        <ENT>15</ENT>
+                        <ENT>15</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Room</ENT>
+                        <ENT>19</ENT>
+                        <ENT>28</ENT>
+                        <ENT>29</ENT>
+                    </ROW>
+                    <TNOTE>*âCCMS database (last accessed on July 8, 2021), with further information taken from the AHRI Directory (last accessed on July 8, 2021). Models designated as âProduction Stoppedâ within the AHRI Directory are not included in the model count.</TNOTE>
+                    <TNOTE>**âCCMS database (last accessed on July 16, 2015), with further information taken from the AHRI Directory (last accessed on July 16, 2015). Models designated as âDiscontinuedâ within the AHRI Directory are not included in the model count.</TNOTE>
+                    <TNOTE>
+                        ***âGas Appliance Manufacturers Association (GAMA) Directory for Direct Heating Equipmentâ
+                        <SU>17</SU>
+                         (downloaded March 2, 2009). Models designated as âDiscontinuedâ within the GAMA Directory are not included in the model count.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>
+                    In
+                    <FTREF/>
+                     response to the February 2019 RFI, AHRI confirmed that there are fewer models in the AHRI Directory now than there were at the time of the October 2016 final determination. (AHRI, No. 6 at p. 4)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âAHRI is the trade association that represents manufacturers of heating products. It was formed on January 1, 2008, by the merger of GAMA, which formerly represented these manufacturers, and the Air-Conditioning and Refrigeration Institute. As stated previously, AHRI maintains a Consumers' Directory of Certified Product Performance for direct heating equipment, which can be found on AHRI's website at: 
+                        <E T="03">www.ahridirectory.org/Search/SearchHome?ReturnUrl=%2f.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    In response to the December 2020 NOPD, the Joint Gas Utilities supported DOE's tentative conclusion that new DHE product lines are generally not being developed, the market for DHE is declining, and most product lines function mainly to replace existing units. (Joint Gas Utilities, No. 15 at p. 3) AHAM and AHRI stated that DHE products have not seen significant technological advancement since 2016 (
+                    <E T="03">i.e.,</E>
+                     when the October 2016 final 
+                    <PRTPAGE P="66413"/>
+                    determination was published) and that products on the market today are approximately the same as those available in 2016. (AHAM, No. 19 at p.â2; AHRI, No. 18 at p. 2) DOE has also found that the products available on the market today are approximately the same as those available in 2016, as discussed in section III.B.3.d, and that the market for DHE is declining, as discussed in section III.B.3.g. of this document.
+                </P>
+                <HD SOURCE="HD3">Manufacturers</HD>
+                <P>
+                    In the December 2020 NOPD, DOE noted that the number of manufacturers producing vented heaters increased in the CCMS database from four to five between the October 2016 final determination and the December 2020 NOPD. 85 FR 77017, 77028-77029 (Dec. 1, 2020). This new manufacturer mainly produces hearth products (which are not subject to this final determination) but also manufactures two gas wall gravity type vented heaters with input rate and AFUE values that are comparable to the input rate and AFUE values of other models available on the market, and that are similar in design. Since the publication of the December 2020 NOPD, one manufacturer acquired another manufacturer's vented heater brand, resulting in four manufacturers producing vented heaters.
+                    <SU>18</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âHVAC Insider, 
+                        <E T="03">Williams Acquires Cozy Heating Systems,</E>
+                         2021. 
+                        <E T="03">www.hvacinsider.com/williams-acquires-cozy-heating-systems/</E>
+                         (Last accessed July 20, 2021).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">b. Technology Options for Efficiency Improvement</HD>
+                <P>In the February 2019 RFI and December 2020 NOPD, DOE listed the technology options considered in the previous rulemakings to increase AFUE and requested comment on these options and any other technology options that would be relevant to vented heaters. 84 FR 6095, 6099 (Feb. 26, 2019); 85 FR 77017, 77029 (Dec. 1, 2020). Specifically, DOE identified the technologies in the following Table III.4 for improving the efficiency of vented heaters.</P>
+                <GPOTABLE COLS="1" OPTS="L2,i1" CDEF="s150">
+                    <TTITLE>Table III.4âTechnology Options for Vented Heaters</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Technology options</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Increased heat exchanger surface area.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Multiple flues.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Multiple turns in flue.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Direct vent (concentric).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Increased heat transfer coefficient.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Electronic ignition.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Thermal vent damper.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Electrical vent damper.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Power burner.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Induced draft.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Two-stage and modulating operation.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Improved fan or blower motor efficiency.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Increased insulation.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Condensing.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Condensing Pulse Combustion.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Air circulation fan.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Sealed combustion.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    As stated in the December 2020 NOPD, DOE found that the available range of input rates and AFUE values of vented heater products available on the market have stayed largely the same since the October 2016 final determination. 85 FR 77017, 77029 (Dec. 1, 2020). DOE further stated that differences in the available input rate and AFUE were mostly due to models being taken off the market as opposed to new models being added and that this indicates that the technology options currently available are similar to those examined in both the April 2010 final rule and October 2016 final determination. 
+                    <E T="03">Id.</E>
+                     DOE did not identify any additional technologies, and there were not any comments suggesting additional technology options for vented heaters that were not previously considered. Therefore, DOE used the technology options in Table III.4 of this document for its review of potential amended vented heater energy conservation standard levels in this document.
+                </P>
+                <HD SOURCE="HD3">c. Screening Analysis</HD>
+                <P>
+                    In the February 2019 RFI, DOE identified and explained why four of the technologies on its initial list had been previously screened out: (1) Increased heat transfer coefficient (practicability to manufacture, install, and service); (2) power burner (practicability to manufacture, install, and service); (3) condensing pulse combustion (technological feasibility); and (4) improved fan or blower motor efficiency (practicability to manufacture, install, and service). 84 FR 6095, 6099-6100 (Feb. 26, 2019). DOE also noted that it only considers potential efficiency levels achieved through the use of proprietary designs in the engineering analysis if they are not part of a unique pathway to achieve the efficiency level (
+                    <E T="03">i.e.,</E>
+                     if there are other non-proprietary technologies capable of achieving the same efficiency level). 84 FR 6095, 6099 (Feb. 26, 2019). In the December 2020 NOPD, DOE maintained the tentative screening approach presented in the February 2019 RFI. 85 FR 77017, 77029 (Dec. 1, 2020). DOE did not receive comments on the screening analysis in response to the December 2020 NOPD.
+                </P>
+                <P>In evaluating potential technology options for this final determination, DOE maintained the list from the February 2019 RFI and December 2020 NOPD, as discussed in section III.B.3.b. of this document. In addition, DOE did not find that any of the technology options should be screened out from consideration as options for improving the AFUE of vented heaters other than the four previously screened-out.</P>
+                <HD SOURCE="HD3">d. Engineering Analysis</HD>
+                <P>
+                    For the April 2010 final rule, DOE determined technology options by efficiency level for each of the vented heater product classes. These technology options are found in section 5.7 of the April 2010 final rule TSDâ
+                    <SU>19</SU>
+                    <FTREF/>
+                     and are reproduced in Table III.5 of this document. The representative input rate ranges from the April 2010 final rule are: &gt;42,000 Btu/h for gas wall fan type vented heaters, &gt;27,000 Btu/h and â¤46,000 Btu/h for gas wall gravity type vented heaters, &gt;37,000 Btu/h for gas floor vented heaters, and &gt;27,000 Btu/h and â¤46,000 Btu/h for gas room vented heaters. 75 FR 20112, 20114 (April 16, 2010).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âAvailable at: 
+                        <E T="03">www.regulations.gov/document?D=EERE-2006-STD-0129-0149.</E>
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="4" OPTS="L2,i1" CDEF="s50,xl50,12,r100">
+                    <TTITLE>Table III.5âApril 2010 Final Rule Technology Options by Efficiency Level for the Representative Input Rate Ranges of the Vented Heater Product Classes</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">DHE type</CHED>
+                        <CHED H="1">Heat circulation type</CHED>
+                        <CHED H="1">
+                            Efficiency level
+                            <LI>(AFUE)</LI>
+                        </CHED>
+                        <CHED H="1">Technology</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Gas Wall</ENT>
+                        <ENT>Fan Type</ENT>
+                        <ENT>*74</ENT>
+                        <ENT>Standing Pilot.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">*â75</ENT>
+                        <ENT>Intermittent Ignition and Two-Speed Blower.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">**â76</ENT>
+                        <ENT>Intermittent Ignition and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="66414"/>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">77</ENT>
+                        <ENT>Intermittent Ignition, Two-Speed Blower, and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">80</ENT>
+                        <ENT>Induced Draft and Electronic Ignition.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Gravity Type</ENT>
+                        <ENT>*64</ENT>
+                        <ENT>Standing Pilot.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">**â66</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">*â68</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">*â69</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">70</ENT>
+                        <ENT>Electronic Ignition.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Floor</ENT>
+                        <ENT>All</ENT>
+                        <ENT>*â57</ENT>
+                        <ENT>Standing Pilot.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">**â58</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Room</ENT>
+                        <ENT>All</ENT>
+                        <ENT>*â64</ENT>
+                        <ENT>Standing Pilot.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">*â65</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">*â66</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">**â67</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">68</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">*ââ 83</ENT>
+                        <ENT>Electronic Ignition and Multiple Heat Exchanger Design.</ENT>
+                    </ROW>
+                    <TNOTE>*âNo longer available on the market.</TNOTE>
+                    <TNOTE>**âEfficiency level adopted in as the Federal standard the April 2010 final rule at the representative input rate.</TNOTE>
+                    <TNOTE>â âThis was a theoretical model and was not on the market at the time of the April 2010 final rule analysis.</TNOTE>
+                </GPOTABLE>
+                <P>DOE reviewed the technology options available in the current vented heater market for the representative input rate ranges from the April 2010 final rule. The available efficiency levels and associated technologies are shown in Table III.6 of this document.</P>
+                <GPOTABLE COLS="4" OPTS="L2,i1" CDEF="s50,xl50,12,r100">
+                    <TTITLE>Table III.6âCurrent Technology Options by Efficiency Level of the Representative Input Rate Ranges of the Vented Heater Product Classes from the April 2010 Final Rule</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">DHE type</CHED>
+                        <CHED H="1">Heat circulation type</CHED>
+                        <CHED H="1">
+                            Efficiency
+                            <LI>level</LI>
+                            <LI>(AFUE)</LI>
+                        </CHED>
+                        <CHED H="1">Technology</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Gas Wall</ENT>
+                        <ENT>Fan Type</ENT>
+                        <ENT>76</ENT>
+                        <ENT>Intermittent Ignition and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">77</ENT>
+                        <ENT>Intermittent Ignition, Two-Speed Blower, and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">80</ENT>
+                        <ENT>Induced Draft and Electronic Ignition</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">*â90</ENT>
+                        <ENT>Electronic Ignition and Condensing.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Gravity Type</ENT>
+                        <ENT>66</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">68</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">69</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">70</ENT>
+                        <ENT>Electronic Ignition.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Floor</ENT>
+                        <ENT>All</ENT>
+                        <ENT>58</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Room</ENT>
+                        <ENT>All</ENT>
+                        <ENT>67</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">68</ENT>
+                        <ENT>Standing Pilot and Improved Heat Exchanger.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT/>
+                        <ENT O="xl">**â83</ENT>
+                        <ENT>Electronic Ignition and Multiple Heat Exchanger Design.</ENT>
+                    </ROW>
+                    <TNOTE>*âCondensing gas wall fan type vented heaters exist in an input rate range that was not the representative input rate range in the April 2010 final rule. Thus, the max-tech level presented is theoretical for the representative input range, but exists in models on the market in other input ranges.</TNOTE>
+                    <TNOTE>**âThis is a theoretical efficiency level based on the analysis for the April 2010 final rule, and is not available in any model currently on the market.</TNOTE>
+                </GPOTABLE>
+                <P>
+                    The maximum available efficiency level is the highest efficiency model currently available on the market for that class. The max-tech efficiency level represents the theoretical maximum possible efficiency if all available design options are incorporated in a model. In some cases, models at the max-tech efficiency level are not commercially available because, although the level is technically achievable, manufacturers have determined that it is not economically feasible (either for the manufacturer to produce or for consumers to purchase). However, DOE seeks to determine the max-tech level for purposes of its analyses. The current maximum available efficiencies for the 11 existing product classes are included in Table III.7, along with the maximum available efficiencies from the April 2010 final rule and those evaluated for the October 2016 final determination.
+                    <PRTPAGE P="66415"/>
+                </P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,r50,12,13,12">
+                    <TTITLE>Table III.7âMaximum Available Efficiency Levels for the Vented Heater Product ClassesâCurrent and Previous Rulemakings</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Product class</CHED>
+                        <CHED H="1">
+                            Input rate,
+                            <LI>kBtu/h</LI>
+                        </CHED>
+                        <CHED H="1">2021</CHED>
+                        <CHED H="1">
+                            October 2016
+                            <LI>final</LI>
+                            <LI>determination</LI>
+                        </CHED>
+                        <CHED H="1">
+                            April 2010
+                            <LI>final rule</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Gas Wall Fan Type</ENT>
+                        <ENT>â¤42</ENT>
+                        <ENT>90</ENT>
+                        <ENT>92</ENT>
+                        <ENT>83</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>&gt;42</ENT>
+                        <ENT>80</ENT>
+                        <ENT>80</ENT>
+                        <ENT>80</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Wall Gravity Type</ENT>
+                        <ENT>â¤27</ENT>
+                        <ENT>72</ENT>
+                        <ENT>80</ENT>
+                        <ENT>80</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>&gt;27 and â¤46</ENT>
+                        <ENT>70</ENT>
+                        <ENT>69</ENT>
+                        <ENT>69</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>&gt;46</ENT>
+                        <ENT>70</ENT>
+                        <ENT>70</ENT>
+                        <ENT>69</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Floor</ENT>
+                        <ENT>â¤37</ENT>
+                        <ENT>57</ENT>
+                        <ENT>57</ENT>
+                        <ENT>57</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>&gt;37</ENT>
+                        <ENT>58</ENT>
+                        <ENT>58</ENT>
+                        <ENT>58</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Room</ENT>
+                        <ENT>â¤20</ENT>
+                        <ENT>71</ENT>
+                        <ENT>71</ENT>
+                        <ENT>59</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>&gt;20 and â¤27</ENT>
+                        <ENT>66</ENT>
+                        <ENT>66</ENT>
+                        <ENT>63</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>&gt;27 and â¤46</ENT>
+                        <ENT>68</ENT>
+                        <ENT>68</ENT>
+                        <ENT>83</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>&gt;46</ENT>
+                        <ENT>70</ENT>
+                        <ENT>70</ENT>
+                        <ENT>70</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>In the April 2010 final rule, DOE determined max-tech efficiency levels using the technology options available at that time. For gas wall fan type vented heaters with an input rate over 42,000 Btu/h, DOE identified a max-tech efficiency level design with induced draft combustion and electronic ignition, resulting in an AFUE of 80 percent. For gas wall gravity type vented heaters with an input rate over 27,000 Btu/h and up to 46,000 Btu/h, DOE identified 70 percent AFUE as a theoretical max-tech level, which was achievable with an improved heat exchanger design and electronic ignition. For gas floor vented heaters with an input rate over 37,000 Btu/h, DOE identified the max-tech efficiency level as 58 percent AFUE, which DOE stated could be reached using a standing pilot light and an improved heat exchanger design. For gas room vented heaters with an input rate over 27,000 Btu/h and up to 46,000 Btu/h, DOE identified a theoretical max-tech efficiency level of 83 percent AFUE, which manufacturers could achieve using an electronic ignition and a multiple heat exchanger design. 75 FR 20112, 20145-20146 (April 16, 2010).</P>
+                <P>In the October 2016 final determination, DOE noted that condensing gas wall fan type vented heater models with input rates at or below 42,000 Btu/h had become available, and DOE considered this the max-tech level for all gas wall fan type vented heaters. Based on information obtained during manufacturer interviews and a manufacturer production cost developed through a teardown analysis performed for the proposed determination, DOE determined that condensing technology was not economically justified for gas wall fan type vented heaters at that time. 81 FR 21276, 21280 (April 11, 2016); 81 FR 71325, 71328-71329 (Oct. 17, 2016).</P>
+                <P>
+                    Since the October 2016 final determination, the highest efficiency condensing gas wall fan type vented heater, with an input rate at or below 42,000 Btu/h, available on the market has been rerated (
+                    <E T="03">e.g.,</E>
+                     the same model number has been rated with at least two different AFUE values between the October 2016 final determination and this NOPD) from an AFUE of 92 percent to an AFUE of 90 percent, which is the only condensing AFUE level on the market. The maximum available AFUE for gas wall gravity type vented heaters, with an input rate over 27,000 Btu/h and up to 46,000 Btu/h, increased to 70 percent, which is the max-tech level analyzed in the April 2010 final rule. In total, the maximum available AFUE decreased for two input rate ranges and increased for one input rate range. All other input rate ranges have the same maximum available AFUE as in the October 2016 final determination.
+                </P>
+                <P>In response to the December 2020 NOPD, NEEA urged DOE to consider condensing technology as a technology option and analyze the maximum levels technologically feasible, not just those available. (NEEA, No. 150 at p. 2) The CA IOUs recommended DOE conduct an updated analysis to reconsider the max-tech levels for all DHE products rather than rely on max-tech levels from the analysis conducted for the April 2010 final rule. (CA IOUs, No. 17 at p. 1) The CA IOUs also stated that without a thorough engineering analysis of gas wall fan type vented heaters, the December 2020 NOPD gives insufficient justification that the AFUE level attained by the few condensing products on the market can be considered max-tech and that if DOE were to apply a different max-tech level for condensing technology, the energy savings threshold to initiate a new rulemaking could be met. (CA IOUs, No. 17 at p. 2) For gas wall gravity type and gas room vented heaters, CA IOUs asserted that the absence of any condensing efficiency level products on the market does not relieve DOE of the obligation to explore condensing tech as max-tech for these categories. (CA IOUs, No. 17 at p. 2)</P>
+                <P>DOE has included condensing technology in the list of technology options for the entirety of the analysis conducted for this final determination. Gas wall fan type vented heaters could have a theoretical AFUE above the level analyzed in the October 2016 final determination and December 2020 NOPD as max-tech and this theoretical level results in increased energy savings. 81 FR 71325, 71327 (Oct. 17, 2016); 85 FR 77017, 77030 (Dec. 1, 2020). As discussed in section III.B.1.a, in screening for technologies that are technologically feasible, DOE considers technologies incorporated in commercial products or in working prototypes. 10 CFR part 430 subpart C appendix A section 6(c)(3)(i). DOE did not identify gas wall gravity type and gas room vented heaters with condensing technologies on the market or as prototypes that incorporated condensing technology, that achieved an AFUE higher than that considered.</P>
+                <P>
+                    As discussed in the following sections, DOE has determined that energy conservation standards do not need to be amended based on the continued likelihood that amending the vented heater energy conservation standards would impose a substantial burden on manufacturers of vented heaters, particularly to small manufacturers. For gas wall gravity type, gas floor, and gas room vented heaters, the technologies available on the market produce AFUE values that are well below near-condensing operation, suggesting significant redesign would be required to incorporate condensing technology, likely resulting in increasing potential costs to manufacturers. Given that an 
+                    <PRTPAGE P="66416"/>
+                    energy conservation standard that required use of condensing technology would further exacerbate the estimated impacts of amended standards as determined in the prior determinations, DOE did not include condensing technology in its engineering analysis beyond that considered in the prior engineering analysis conducted for the October 2016 final determination. 81 FR 71325, 71327-71328 (Oct. 17, 2016).
+                </P>
+                <P>In response to the December 2020 NOPD, CA IOUs stated that DOE has not presented information to suggest that electronic ignition could not be included in gas floor vented heaters, and encouraged DOE to complete a thorough analysis that appropriately considers electronic ignition technology. (CA IOUs, No. 17 at p. 3) As stated, DOE has determined that standards do not need to be amended based on the continued likelihood that amending the vented heater energy conservation standards would impose a substantial burden on manufacturers of vented heaters, particularly to small manufacturers. As discussed in sections III.B.3.g and III.B.3.i, vented heater shipments have declined since the April 2010 final rule and one of the two manufacturers of gas floor vented heaters is a small business while it is unclear whether the other manufacturer remains a small business after acquiring another small business manufacturer's gas floor vented heater brand. Gas floor vented heaters are also the smallest product class by model count. As such, DOE did not include electronic ignition in its engineering analysis.</P>
+                <P>The Joint Advocates asserted that some models of vented heaters meet the current energy conservation standards but still have standing pilot lights, and that pilot lights left burning year-round can consume 6.8 MMBtu of fuel per year, which would account for around 25 percent of total annual gas consumption for vented heaters. (Joint Advocates, No. 16 at p. 1) DOE has identified vented heaters on the market with standing pilot lights that meet the current energy conservation standards. The energy conservation standards established in the April 2010 final rule were set at a level attainable by units that use standing pilot lights as evidenced by the technology options listed for each efficiency level in chapter 5 of the TSD for the April 2010 final rule.</P>
+                <HD SOURCE="HD3">Manufacturer Production Costs</HD>
+                <P>
+                    After establishing the efficiency levels in the April 2010 final rule, DOE estimated the manufacturer production cost (MPC) of attaining each efficiency level based on the technology options identified for that level. The MPC takes into account the costs for material, labor, depreciation, and overhead. These values were developed based on product teardowns that generated bills of materials for all components and manufacturing processes required to manufacture vented heaters at a given efficiency level for each product class. DOE uses these bills of material, along with information on material and component prices, costs for labor, depreciation, and overhead to derive the MPC. In development of the April 2010 final rule, manufacturer interviews were conducted to verify the accuracy of the inputs to DOE's analysis of MPCs (
+                    <E T="03">e.g.,</E>
+                     material prices, labor rates) and the resulting MPCs. 75 FR 20112, 20147-20148 (April 16, 2010). As discussed in section II.B.3.b., after the April 2010 final rule and before October 2016 final determination, a condensing gas was fan type vented heater came on the market. In a NOPD which preceded the October 2016 final determination, DOE stated that the MPC for a condensing gas wall fan type vented heater had a 23 percent higher incremental cost than a unit at 80 percent AFUE (
+                    <E T="03">i.e.,</E>
+                     the max-tech efficiency level evaluated in the April 2010 final rule). 81 FR 21276, 21280 (April 11, 2016) (April 2016 NOPD). DOE received feedback during manufacturer interviews which indicated that condensing models are significantly more expensive to manufacture than non-condensing models and to confirm these statements, DOE performed a product teardown of a condensing model. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    DOE reviewed its April 2010 final rule and October 2016 final determination engineering analyses to determine whether the results are still valid in the context of the current market. As the market conditions for manufacturers remains substantially the same as the previous rulemakings (
+                    <E T="03">i.e.,</E>
+                     production volumes remain similar or slightly lower than previously projected, while material prices and labor rates are also similar), DOE has determined that the engineering analysis performed during the April 2010 final rule and October 2016 final determination are still valid for estimating MPC. DOE also reviewed retail prices for models currently available on the market and found that the current retail prices are comparable to those published in chapter 8, section 8.2.3.5 of the April 2010 final rule TSD, when adjusted for inflation. Because DOE has not found distribution channels or mark-ups to have changed since the April 2010 final rule, the similarity of the predicted retail prices in the April 2010 final rule analysis to those of current products indicates that the MPC are likely to be unchanged from the April 2010 final rule analysis.
+                </P>
+                <HD SOURCE="HD3">e. Energy Use Analysis</HD>
+                <P>Table III.8 presents the average energy consumption, from section 7.3.6 of the April 2010 final rule TSD, for each vented heater product class and efficiency level. DOE has concluded that the current average energy consumption for these vented heaters is comparable to the estimates developed for the April 2010 final rule and relied on in the October 2016 final determination, as the technology options at each efficiency level have not changed substantially.</P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,r50,12,12,12">
+                    <TTITLE>Table III.8âAverage Energy Consumption for the Vented Heater Product Classes From April 2010 Final Rule</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">DHE type</CHED>
+                        <CHED H="1">Heat circulation type</CHED>
+                        <CHED H="1">Efficiency level (AFUE)</CHED>
+                        <CHED H="1">Average energy consumption</CHED>
+                        <CHED H="2">
+                            Gas
+                            <LI>(MMBtu/yr)</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Electricity
+                            <LI>(kWh/yr)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Gas Wall</ENT>
+                        <ENT>Fan Type</ENT>
+                        <ENT>*â74</ENT>
+                        <ENT>29.9</ENT>
+                        <ENT>38.6</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>*â75</ENT>
+                        <ENT>28.2</ENT>
+                        <ENT>45.7</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>**â76</ENT>
+                        <ENT>27.8</ENT>
+                        <ENT>45.2</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>77</ENT>
+                        <ENT>27.4</ENT>
+                        <ENT>44.7</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>80</ENT>
+                        <ENT>26.3</ENT>
+                        <ENT>66.2</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Gravity Type</ENT>
+                        <ENT>*â64</ENT>
+                        <ENT>29.9</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>**â66</ENT>
+                        <ENT>29.0</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>*â68</ENT>
+                        <ENT>28.2</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>*â69</ENT>
+                        <ENT>27.8</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="66417"/>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>70</ENT>
+                        <ENT>26.5</ENT>
+                        <ENT>17.7</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Floor</ENT>
+                        <ENT>All</ENT>
+                        <ENT>
+                            *â57
+                            <LI>**â58</LI>
+                        </ENT>
+                        <ENT>
+                            30.8
+                            <LI>30.3</LI>
+                        </ENT>
+                        <ENT>
+                            0.0
+                            <LI>0.0</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Gas Room</ENT>
+                        <ENT>All</ENT>
+                        <ENT>*â64</ENT>
+                        <ENT>27.5</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>*â65</ENT>
+                        <ENT>27.1</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>*â66</ENT>
+                        <ENT>26.7</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>**â67</ENT>
+                        <ENT>26.3</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>68</ENT>
+                        <ENT>26.0</ENT>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>*â â83</ENT>
+                        <ENT>20.2</ENT>
+                        <ENT>81.1</ENT>
+                    </ROW>
+                    <TNOTE>*âNo longer available on the market.</TNOTE>
+                    <TNOTE>**âEfficiency level adopted in as the Federal standard the April 2010 final rule at the representative input rate.</TNOTE>
+                    <TNOTE>â âThis was a theoretical model and was not on the market at the time of the April 2010 final rule analysis.</TNOTE>
+                </GPOTABLE>
+                <P>
+                    The Joint Advocates stated that in the February 2015 NOPR for hearth products, DOE analysis showed that 40 percent of the consumers of hearth products leave standing pilot lights on all year and that the average operating hours for standing pilot lights is close to 4,000 hours per year. (
+                    <E T="03">Id.</E>
+                    ) CA IOUs asserted that vented heaters are not often used in an on/off configuration and that intermittent heating use during shoulder seasons will also lead to wasted energy if the standing pilot light is burning the whole time but the heater is only used during small portions of the day. (CA IOUs, No. 21 at p. 20)
+                </P>
+                <P>DOE notes that the estimates developed for the April 2010 final rule assumes that 100 percent of consumers have the pilot on year-round, so the impact of pilot use is considered in this analysis. DOE believes that the fraction of vented heaters that have standing pilot on during the non-heating season is likely much higher than for hearth products, but likely not 100 percent. Therefore, the April 2010 final rule analysis likely overestimates the potential energy savings from electronic ignition since a fraction of consumers might turn the standing pilot off during the non-heating season. DOE also notes that standing pilot energy use during the shoulder season could offset some time that the main burner would be on, which is not considered in the April 2010 final rule analysis, and could offset some of the energy savings as well.</P>
+                <HD SOURCE="HD3">f. Life-Cycle Cost and Payback Period Analysis</HD>
+                <P>LCC is the total consumer expense over the life of an appliance, including the total installed cost and operating costs (including energy expenditures, maintenance, and repair). DOE discounts future operating costs to the time of purchase, and sums them over the lifetime of the product.</P>
+                <P>
+                    The total installed cost is determined by combining the installation cost with the equipment price. The equipment price is determined using the MPC and applying a manufacturer mark-up, a wholesaler mark-up, a mechanical contractor mark-up, and sales tax.
+                    <SU>20</SU>
+                    <FTREF/>
+                     As presented in section III.B.3.d. of this document, DOE has determined that the MPC has not changed significantly since the April 2010 final rule. DOE has also concluded that the average mark-ups, sales taxes, and installation costs are comparable to the estimates developed for the April 2010 final rule. Therefore, the total installed costs for the products and efficiency levels that are still on the market and were evaluated during the April 2010 final rule are estimated to have remained approximately the same given that the analyzed technology options have not changed. As discussed in section II.B.3.b., condensing gas wall fan type vented heaters came on the market between the April 2010 final rule and October 2016 final determination. DOE additionally estimates that the total installed cost for the 90-percent AFUE gas wall fan type vented heater would be considerably higher compared to lower efficiency gas wall fan type vented heaters, since there are considerable development and production costs (as discussed in section III.B.3.d. of this document), as well as additional installation costs.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âFor new construction, builder mark-up is also included. For the April 2010 final rule, the new construction market shares are 10 percent for vented gas wall fan, vented gas wall gravity, and vented gas room heaters, and 0 percent for vented gas floor furnace heaters.
+                    </P>
+                </FTNT>
+                <P>
+                    The annual operating cost is determined by the energy consumption of vented heaters, the energy prices of the fuel used, and any repair and maintenance costs that would be required. DOE has determined that the energy consumption (as discussed in section III.B.3.e. of this document) and repair and maintenance costs associated with each efficiency level have not changed significantly from that in the April 2010 final rule for the vented heaters that are still on the market, as the technology options have not changed. DOE additionally estimates that the average energy consumption for the 90-percent AFUE gas wall fan type vented heater would be proportionally lower compared to the 80-percent AFUE gas wall fan type vented heaters, and repair and maintenance costs would be higher than for the 80-percent AFUE gas wall fan type vented heaters. To assess the impact of energy prices, DOE compared the April 2010 final rule's average energy prices for 2013 (
+                    <E T="03">i.e.,</E>
+                     the starting year in the analysis) to a likely starting year if DOE performed a revised analysis in a new rulemaking. The April 2010 final rule used Energy Information Administration's (EIA) 
+                    <E T="03">Annual Energy Outlook</E>
+                     (
+                    <E T="03">AEO</E>
+                    ) 2010 energy price trends.
+                    <SU>21</SU>
+                    <FTREF/>
+                     To assess the impact of updated energy price estimates, DOE used EIA's 
+                    <E T="03">AEO</E>
+                     2021 energy price trends to estimate the energy prices in 2027,
+                    <SU>22</SU>
+                    <FTREF/>
+                     the expected compliance year for the updated analysis.
+                    <SU>23</SU>
+                    <FTREF/>
+                     Both the 
+                    <PRTPAGE P="66418"/>
+                    natural gas and propane prices projected in 2027 are lower ($10.99/MMBtu in 2019$ and $21.11/MMBtu in 2020$, respectively) compared to the 2013 natural gas and propane prices used in the April 2010 final rule ($13.47/MMBtu in 2019$ and $33.12/MMBtu in 2020$, respectively).
+                    <SU>24</SU>
+                    <FTREF/>
+                     Additionally, the 30-year trends are comparable in the two 
+                    <E T="03">AEO</E>
+                     editions. Due to comparable energy use and lower energy prices, DOE has determined that the annual operating cost of vented heaters has either decreased or not changed significantly from that estimated in the April 2010 final rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âU.S. Department of EnergyâEnergy Information Administration, 
+                        <E T="03">Annual Energy Outlook 2010 with Projections to 2035 (Early Release)</E>
+                         (Available at: 
+                        <E T="03">www.eia.gov/outlooks/aeo/</E>
+                        ) (Last accessed July 20, 2021).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        âFor purposes of the updated analysis, DOE estimated 2027 as the first year of compliance by assuming that the publication of a potential final rule would occur by 2022 and any amended standards would apply to DHEs manufactured 5 years after this date. (42 U.S.C. 6295(m)(4)(A)(ii))
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âU.S. Department of EnergyâEnergy Information Administration, 
+                        <E T="03">Annual Energy Outlook 2021 with Projections to 2050</E>
+                         (Available at: 
+                        <PRTPAGE/>
+                        <E T="03">www.eia.gov/outlooks/aeo/</E>
+                        ) (Last accessed July 20, 2021).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âFor the April 2010 final rule, the fraction of propane installations is 12 percent for vented gas wall fan and vented gas wall gravity, 9 percent for vented gas floor furnace heaters, and 38 percent for vented gas room heaters.
+                    </P>
+                </FTNT>
+                <P>As vented heaters have not significantly changed since the April 2010 final rule, DOE has determined that the product lifetime has remained largely the same. DOE has also determined that residential discount rates have not changed significantly from those in the April 2010 final rule.</P>
+                <P>Because the total installed costs are estimated not to have changed significantly, and operating costs are estimated to be comparable, DOE has determined that the LCC savings for each efficiency level of vented heaters are similar to the estimates in the April 2010 final rule. Further, DOE has determined that the relative comparisons between each efficiency level for each product class remain unchanged and that the conclusions from the April 2010 final rule and October 2016 final determination are still applicable.</P>
+                <P>
+                    The PBP is the amount of time it takes the consumer, in a typical case, to recover the estimated higher purchase expense of more energy-efficient products through lower operating costs. Numerically, the PBP is the ratio of the increase in purchase expense (
+                    <E T="03">i.e.,</E>
+                     due to a more energy-efficient design) to the decrease in annual operating expenditures. This type of calculation is known as a âsimpleâ payback period, because it does not take into account changes in operating expense over time or the time value of money (
+                    <E T="03">i.e.,</E>
+                     the calculation is done at an effective discount rate of zero percent). Payback periods are expressed in years. Payback periods greater than the life of the product indicate that the increased total installed cost is not recovered by the reduced operating expenses.
+                </P>
+                <P>As previously stated, DOE has estimated that the total installed costs have not changed significantly, and operating costs are comparable to the April 2010 final rule results. Therefore, DOE has determined that the âsimpleâ payback period for each efficiency level of vented heaters is similar to the âsimpleâ payback period results from the April 2010 final rule. Further, DOE has determined that the relative comparisons between each efficiency level for each product class remain unchanged and that the conclusions from the April 2010 final rule and October 2016 final determination are still applicable.</P>
+                <P>In response to the December 2020 NOPD, the Joint Gas Utilities stated their support for DOE's tentative determination in the December 2020 NOPD that amended energy conservation standards are not cost-effective on an energy price basis, based on the LCC and PBP analyses. (Joint Gas Utilities, No. 15 at p. 3) For gas wall gravity type vented heaters that do not have electricity, NEEA requested that DOE consider the costs of bringing an electrical connection to the unit and adding a circulation fan in its LCC analysis to determine whether updated standards would be cost-effective. (NEEA, No. 20 at p. 2) Flux Tailor suggested that DOE also consider projected electricity prices in its analysis as they may well increase in the future, even if natural gas prices are predicted to decrease. (Flux Tailor, No. 21 at p. 42)</P>
+                <P>In chapter 8 section 8.2.3.4 of the TSD for the April 2010 final rule, DOE stated that it included an additional installation cost for the design options that require electricity. Therefore, the cost of adding an electrical connection is already accounted for in the LCC analysis for the product classes that do not use electricity at the baseline and have higher efficiency levels which use electricity. DOE disagrees that adding an aftermarket circulation fan to a gas wall gravity type vented heater should be considered in the LCC analysis. The addition of an external fan would help circulate heated air throughout the space but does not help with the heat exchange process and therefore would not have a noticeable effect on the efficiency of the gas wall gravity type vented heater as measured by appendix O. Further, adding an internal circulation fan to a gas wall gravity type vented heater would make the unit a gas wall fan type vented heater and would therefore not be covered by the gas wall gravity type vented heater product class and the energy conservation standards. DOE agrees with Flux Tailor and uses projected electricity prices in its LCC analysis.</P>
+                <HD SOURCE="HD3">g. Shipments</HD>
+                <P>
+                    In the February 2019 RFI, DOE stated that from the April 2010 final rule, the Department has included vented heater historical shipment data from AHRI for gas wall vented heaters from 1990 to 1998 and from 2000 to 2006, for gas floor vented heaters from 1990 to 2007, and for gas room vented heaters from 1990 to 2005. DOE also has limited disaggregated shipments for fan type and gravity type gas wall vented heaters and by input capacity. DOE requested comment on the annual sales data (
+                    <E T="03">i.e.,</E>
+                     number of shipments) for each vented heater product class from 2008-2018. 84 FR 6095, 6104-6105 (Feb. 26, 2019). In 2016, AHRI presented data showing the percentage change in total shipments for the years 2010-2015 compared with the total shipments over the period 2001-2006, estimating that gas wall vented heater (including both fan and gravity type units) shipments were 21 percent less, that direct vent gas wall vented heater (a form of gas wall vented heater) shipments were 31 percent less, and that gas room vented heater shipments were 44 percent less.
+                    <SU>25</SU>
+                    <FTREF/>
+                     AHRI did not have an active statistics program for gas floor vented heaters and was attempting to collect annual shipments information for recent years through a special data collection.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        âAHRI Comment to the NOPD for Direct Heating Equipment published in 2016 (June 10, 2016) (Comment No. 7) (Available at: 
+                        <E T="03">www.regulations.gov/document/EERE-2016-BT-STD-0007-0007</E>
+                        ) (Last accessed July 20, 2021).
+                    </P>
+                </FTNT>
+                <P>In response to the December 2020 NOPD, AHRI stated that it was conducting a special data collection to gather shipment data for each vented heater product class from 2016-2018, and that these data will be provided to DOE at a later date. (AHRI, No. 6 at p. 4) At this time, AHRI has not submitted data for the 2016-2018 time period.</P>
+                <P>In response to the December 2020 NOPD, the CA IOUs urged DOE to find new sources of data for the shipment analysis, noting that, because of the Great Recession, relying on pre-2010 shipment data for DHE market forecasting may not be prudent. (CA IOUs, No. 17 at p. 3) CA IOUs also commented that AHRI is conducting a special data collection of shipments for vented heater products from 2016-2018 and encouraged DOE to delay any final determination until additional shipments data from the DHE industry is received and analyzed. (CA IOUs, No. 17 at p. 3)</P>
+                <P>
+                    As stated in the December 2020 NOPD, AHRI provided the percent change in total shipments for the vented heater market for the years of 2010 
+                    <PRTPAGE P="66419"/>
+                    through 2015 as compared to 2001 through 2006 and showed a reduction in shipments for gas wall vented heaters and gas room vented heaters. 85 FR 77017, 77034 (Dec. 1, 2020). Also, as stated in the December 2020 NOPD, these shipments are lower than the projected shipments from the April 2010 final rule indicating that the decline in vented heater shipments has been faster than expected. 
+                    <E T="03">Id.</E>
+                     at 77038. DOE has not received shipments data more recent than 2015, however, the alignment of April 2010 final rule shipment projections and the actual shipment data received from AHRI for 2010 through 2015 along with the reduction in model counts since 2015 (see section III.B.3) suggest that the number of shipments have continued to decline for the vented heater market. Therefore, DOE has determined the shipments data relied on for its prior determination are appropriate for the present determination.
+                </P>
+                <HD SOURCE="HD3">h. National Energy Savings</HD>
+                <P>
+                    As explained in sections III.B.3.d. through III.B.3.g. of this document, the technology options, energy use, and shipments for DHE have not changed significantly since the April 2010 final rule and October 2016 final determination. Accordingly, the national energy savings are expected to be largely the same as the national energy savings projected in the April 2010 final rule. In the April 2010 final rule, DOE estimated that the max-tech TSL (TSL 6) would result in an additional 0.13 quads of site energy savings over 30 years, as compared to the adopted TSL (
+                    <E T="03">i.e.,</E>
+                     the current standard levels).
+                    <SU>26</SU>
+                    <FTREF/>
+                     The site energy savings from the max-tech TSL represent approximately a six-percent reduction compared to the total 30-year site energy consumption, as compared to the current standard levels.
+                    <SU>27</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        âDOE used the April 2010 final rule National Impact Analysis (NIA) spreadsheet for DHE to calculate the site energy savings difference between the max-tech level (TSL 6) and current standard level (TSL 2). The site energy savings are available in the âNational Impacts Summaryâ worksheet for each product class. The site energy savings calculation was adjusted to take into account the site energy savings over 30 years of product shipments (2013-2042) and to include the full lifetime of products shipped over the 30 year period (2013-2042). The published version of the DHE NIA spreadsheet only accounted for site energy savings from 2013-2042. The resulting 30-year site energy savings per product class are: 0.02 quads for gas wall fan type vented heaters, 0.07 quads for gas wall gravity type vented heaters, 0.00 quads for gas floor vented heaters, and 0.04 quads for gas room vented heaters. The DHE NIA spreadsheet (published March 23, 2010) (Available at: 
+                        <E T="03">www.regulations.gov/document?D=EERE-2006-STD-0129-0148</E>
+                        ) (Last accessed Aug. 13, 2020).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        âDOE used the April 2010 final rule NIA spreadsheet for DHE to calculate the total 30-year site energy consumption at the current standard levels (then TSL 2). The âBase Case Consumptionâ worksheet is used to calculate the total site energy consumption at the current standard levels for each product class. This worksheet includes the total âsource energy (Quads)â per product class. DOE converted the total source energy to site energy by removing the site-to-source factors (which come from the âEnergyPrices SitetoSourceâ worksheet) from the calculation. The site energy consumption calculation was then expanded to take into account the site energy consumption over 30 years of product shipments (2013-2042) and include the full lifetime of products shipped over the 30 year period (2013-2042), to match the site energy savings calculation. Finally, the totals per product class were adjusted to take into account the energy savings for the current standard (then TSL 2). The resulting 30-year site energy consumption totals per product class are: 0.55 quads for gas wall fan type vented heaters, 1.30 quads for gas wall gravity type vented heaters, 0.02 quads for gas floor vented heaters, and 0.24 quads for gas room vented heaters. The 0.13 quads of 30-year site energy savings from the max-tech TSL are then divided by the resulting total value of 2.11 quads for the 30-year site energy consumption at the current standard levels, which results in the 6-percent value.
+                    </P>
+                </FTNT>
+                <P>The April 2010 final rule did not contemplate or include a TSL with specific provisions for a condensing gas wall fan type vented heater. DOE identified one manufacturer of condensing gas fan type vented heaters which produces two models at 90-percent AFUE.</P>
+                <HD SOURCE="HD3">i. Manufacturer Impacts</HD>
+                <HD SOURCE="HD3">December 2009 NOPR</HD>
+                <P>As stated in section II.B.3.b. of this document, in the NOPR that preceded the April 2010 final rule, DOE proposed to amend standards for vented heaters to TSL 3. 74 FR 65852, 65973 (Dec. 11, 2009). In response to that proposal, DOE received several comments expressing concerns that:</P>
+                <P>â¢ Shipments of vented heaters were low, and, therefore, potential energy savings were low;</P>
+                <P>â¢ Low shipments would make it difficult for manufacturers to recoup the costs to comply with amended standards;</P>
+                <P>â¢ Product offerings may be limited as a response to amended standards;</P>
+                <P>â¢ Manufacturers may exit the industry as a result of amended standards;</P>
+                <P>â¢ Employment may be negatively impacted due to reduced product lines and insufficient return on investment. 75 FR 20112, 20218 (April 16, 2010).</P>
+                <HD SOURCE="HD3">April 2010 Final Rule</HD>
+                <P>In the April 2010 final rule, DOE additionally found that the industry had gone through considerable consolidation due to decreased shipments, that product lines were primarily maintained to provide replacement products, and that some small business manufacturers could be disproportionately affected by a more-stringent standard. 75 FR 20112, 20199, and 20218 (April 16, 2010). As mentioned in section III.B.3.g. of this document, the April 2010 final rule presented a trend of declining annual shipments throughout the 30-year analysis period. As discussed in section II.B.2.b. of this document, DOE ultimately adopted standards at TSL 2 for vented heaters, which was one TSL below the proposed level. In rejecting proposed TSL 3, DOE concluded that the benefits of higher potential standard levels would be outweighed by the economic burden on some consumers, the large capital conversion costs that could result in a large reduction in INPV for the manufacturers of vented heaters, and the potential for small business manufacturers of vented heaters to reduce their product offerings or to be forced to exit the market completely, thereby reducing competition in the vented heater market. 75 FR 20112, 20218-20219 (April 16, 2010).</P>
+                <HD SOURCE="HD3">October 2016 Final Determination</HD>
+                <P>In the April 2016 proposed determination that preceded the October 2016 final determination, DOE tentatively determined that the conclusions presented in the April 2010 final rule were still valid. 81 FR 21276, 21281 (April 11, 2016). Further, DOE has found that the number of models offered in each of the vented heater product classes decreased in the time between the April 2010 final rule and the October 2016 final determination, which indicated that the vented heater market was shrinking and product lines were mainly maintained as replacements for current vented heater products. 81 FR 71325, 71327 (Oct. 17, 2016).</P>
+                <P>In the October 2016 final determination, DOE noted that the number of manufacturers declined from six to four, indicating consolidation in the vented heater industry. 81 FR 71325, 71328 (Oct. 17, 2016).</P>
+                <HD SOURCE="HD3">Current Analysis of Manufacturer Impacts</HD>
+                <P>
+                    In DOE's most recent review of the market, a total of four manufacturers were identified within the vented heater industry. At least two of those four manufacturers are domestic small businesses. In the December 2020 NOPD, DOE had previously identified five manufacturers, four of which were domestic small businesses. 85 FR 77017, 77028 (Dec. 1, 2020). Between the 
+                    <PRTPAGE P="66420"/>
+                    publication of the December 2020 NOPD and this final determination one small business manufacturer purchased the other small business manufacturer's vented heater brand. It is unclear at this time whether the combined business remains below the SBA's headcount threshold of 500 people to be considered a small business.
+                </P>
+                <P>In the February 2019 RFI, DOE requested comment on annual sales data for each vented heater product class from 2008-2018. 84 FR 6095, 6105 (Feb. 26, 2019). DOE did not receive any comment or information regarding the number and classification of manufacturers presented in the February 2019 RFI and December 2020 NOPD and, therefore, considers its previous analysis of industry shipments to still be valid. DOE also did not receive any comments or data suggesting that DOE's analysis of the DHE market in the April 2016 NOPD was inaccurate. AHRI supported DOE's tentative conclusion that if new or amended standards were proposed, DHE manufacturers would need to undergo significant design upgrades to existing products that would not be economically supported by current sales volumes. (AHRI, No. 18 at p. 1) Because the market conditions are substantially the same as when DOE considered manufacturer impacts for the April 2010 final rule and October 2016 final determination, DOE concludes that manufacturers would likely face similar impacts under more-stringent standards as those previously discussed.</P>
+                <HD SOURCE="HD2">C. Final Determination</HD>
+                <P>In response to the December 2020 NOPD, AHAM, AHRI, the Joint Gas Utilities, and Ms. Spotswood supported DOE's tentative determination not to amend standards. (AHAM, No. 19 at p. 1; AHRI, No. 18 at p. 1; Joint Gas Utilities, No. 15 at p. 3; Ms. Spotswood, No. 14 at p. 1) The CA IOUs urged DOE to set aside its tentative conclusion not to amend DHE standards, gather additional and more current technical/market data, and conduct a thorough energy savings, market, and technical analysis before proceeding. (CA IOUs, No. 17 at p. 4)</P>
+                <P>After carefully considering the comments on the February 2019 RFI and the December 2020 NOPD, along with the available data and information, DOE has determined that energy conservation standards for DHE do not need to be amended, for the reasons explained in the paragraphs immediately following. As discussed in the preceding sections, DOE's review of the current DHE market indicates that the technology options, product cost, and energy use have not changed significantly since the October 2016 final determination. As such, the conclusions found in the April 2010 final rule and October 2016 final determination are still valid.</P>
+                <HD SOURCE="HD3">1. Unvented Heaters</HD>
+                <P>As discussed in sections II.B.2.a. and II.B.3.a. of this document, the efficiency inherent with unvented electric heaters provides negligible opportunity for energy savings, because any heat loss of the product is transferred to the conditioned space and not wasted. Therefore, consistent with previous rulemakings in which it has addressed unvented electric heaters, DOE has determined that energy conservation standards for unvented electric heaters are not needed.</P>
+                <P>As discussed in section III.B.2 of this document, there may be potential for energy savings for unvented gas and oil heaters subject to potential test procedure amendments to Appendix G that would require the measurement of standing pilot light energy use in unvented heaters that are thermostatically-controlled. As stated, further analysis is required to fully understand consumer behavior regarding actual operation of unvented heaters. In particular, the extent to which consumers turn the standing pilot light off during the non-heating season requires further investigation. Given the lack of adequate information on consumer behavior and test procedure provisions that would capture the related energy savings, DOE has determined not to establish energy conservation standards for unvented gas and oil heaters at this time.</P>
+                <HD SOURCE="HD3">2. Vented Heaters</HD>
+                <P>For vented heaters, DOE analyzed each product classâgas wall fan type, gas wall gravity type, gas floor, and gas roomâseparately in the market and evaluated: Technology assessment (sections III.B.3.a. and III.B.3.b. of this document), the screening analysis (section III.B.3.c. of this document), the engineering analysis (section III.B.3.d. of this document), the LCC and PBP analysis (section III.B.3.f. of this document), the shipments analysis (section III.B.3.g. of this document), all vented heaters together in the energy use analysis (section III.B.3.e. of this document), the national energy savings analysis (section III.B.3.h. of this document), and the manufacturer impact analysis (section III.B.3.i. of this document) when making a determination of whether amended standards are justified under EPCA.</P>
+                <HD SOURCE="HD3">a. Technological Feasibility</HD>
+                <P>
+                    EPCA mandates that DOE consider whether amended energy conservation standards for vented heaters would be technologically feasible. (42 U.S.C. 6295(m)(1)(A) and 42 U.S.C. 6295(n)(2)(B)) For gas floor vented heaters, as discussed in section III.B.3.d. of this document, the maximum available efficiency level on the market is at the baseline efficiency level (
+                    <E T="03">i.e.,</E>
+                     the current standard). Since there are no models available on the market above baseline and DOE is unaware of any prototype designs that have demonstrated higher efficiencies for gas floor vented heaters, DOE concludes that more stringent standards for gas floor vented heaters are not technologically feasible.
+                </P>
+                <P>
+                    DOE has determined that there are technology options that would improve the efficiency of gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters. These technology options are being used in commercially available gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters and, therefore, are technologically feasible. (
+                    <E T="03">See</E>
+                     section III.B.3.b. of this document for further information.) Hence, DOE has determined that amended energy conservation standards for gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters are technologically feasible.
+                </P>
+                <HD SOURCE="HD3">b. Cost-Effectiveness</HD>
+                <P>
+                    As the next step in the agency's analysis, EPCA requires DOE to then consider whether amended energy conservation standards for gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters would be cost-effective through an evaluation of the savings in operating costs throughout the estimated average life of the covered product compared to any increase in the price of, or in the initial charges for, or maintenance expenses of the covered products which are likely to result from the amended standard. (42 U.S.C. 6295(m)(1)(A), 42 U.S.C. 6295(n)(2)(C), and 42 U.S.C. 6295(o)(2)(B)(i)(II)) As discussed in sections II.B.2.b and III.B.3.f. of this document, DOE determined that the LCC and PBP analyses of TSL 3, the TSL immediately above the level adopted as a Federal standard (and which was proposed in the October 2009 NOPR and rejected in the April 2010 final rule), as evaluated in the April 2010 final rule, indicated that initial costs to some consumers 
+                    <PRTPAGE P="66421"/>
+                    outweighed the consumer benefits. 75 FR 20112, 20218-20219 (April 16, 2010); 81 FR 71325, 71327 (Oct. 17, 2016) DOE's full determination in the April 2010 final rule was also based on the impact to manufacturers as discussed in section III.B.3.i. and section III.C.2.d. of this document. DOE has determined that the LCC and PBP analyses conducted for the April 2010 final rule remain generally applicable.
+                </P>
+                <HD SOURCE="HD3">c. Energy Savings</HD>
+                <P>As discussed in section III.B.3.e. of this document, DOE has determined it appropriate to base its energy savings analysis on the estimates developed during the April 2010 final rule and October 2016 final determination. Based on its analysis, DOE estimated that for gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters, potential site energy savings from more-stringent standards at the max-tech level would be 0.13 quads.</P>
+                <HD SOURCE="HD3">d. Further Considerations</HD>
+                <P>As previously discussed, DOE is required to publish either a notification of a determination that standards for vented heaters do not need to be amended, or a NOPR including new proposed standards. (42 U.S.C. 6295(m)(1) and 42 U.S.C. 6295(m)(3)(B)) If DOE publishes a NOPR including new proposed standards, the proposed standards must be designed to achieve the maximum improvement in energy efficiency, which DOE determines is technologically feasible and economically justified. (42 U.S.C. 6295(m)(1)(B); 42 U.S.C. 6295(o)(2)(A)). In determining whether new proposed standards would be economically justified, DOE must determine whether the benefits of the standards exceed their burdens by considering, to the greatest extent practicable, the seven statutory criteria previously discussed. (42 U.S.C. 6295(o)(2)(B)(i))</P>
+                <P>For gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters, DOE considered the findings of the April 2010 final rule and the October 2016 final determination, in addition to comments received in response to the February 2019 RFI and December 2020 NOPD. As discussed in section III.B.3.g. of this document, the number of vented heater shipments were projected to decline in the April 2010 final rule, and comments received during the rulemaking that resulted in the October 2016 final determination indicated that shipments have indeed continued to decline since the previous analysis was conducted. Further, DOE stated in the April 2016 NOPD which preceded the October 2016 final determination that shipments were in fact lower than projected in the April 2010 final rule, indicating that the decline has been faster than expected. 81 FR 21276, 21281 (April 11, 2016) This supports the notion that the vented heater market is continuing to shrink, that product lines are mainly maintained as replacements for existing vented heaters units, and that new product lines generally are not being developed. In addition, the one new manufacturer of vented heaters that has entered the market since the October 2016 final determination only produces two models, neither of which have AFUE values outside of the range offered by other manufacturers, or any other characteristics that make them unique from other products already on the market and one small business manufacturer has left the market. As discussed in sections III.B.3.a. and III.B.3.d. of this document, DOE found that the available AFUE values have largely stayed the same or decreased, with more-efficient products being taken off the market or rerated to lower AFUE values.</P>
+                <P>As discussed in section III.B.3.f. of this document, an examination of how the inputs to the LCC and PBP analysis have changed since the April 2010 final rule indicates that the LCC and PBP results from the April 2010 final rule would be comparable today. As discussed in section III.B.3.i. of this document, DOE did not receive any comments or data in response to the February 2019 RFI or December 2020 NOPD that suggested a change in the historical trends within this industry.</P>
+                <P>
+                    In the April 2010 final rule, DOE rejected higher standards, finding that capital conversion costs would lead to a large reduction in INPV and that small businesses would be disproportionately impacted, which would outweigh any benefits from higher standard levels. 75 FR 20112, 20217-20218 (April 16, 2010) Upon reviewing the current market for vented heaters, DOE has determined that its prior determination regarding the impact on INPV remains valid (
+                    <E T="03">i.e.,</E>
+                     standard levels above the current Federal energy conservation standard would require manufacturers to make significant capital investments of the magnitude initially projected in the April 2010 final rule). As shipments for vented heaters have continued to decrease, manufacturers would be required to make investments to update model lines and manufacturing facilities with fewer shipments over which to spread the cost. This would lead to even more difficulty in recovering their investment than was projected in the April 2010 final rule.
+                </P>
+                <P>
+                    In addition, DOE has determined that its conclusions regarding small business impacts from the April 2010 final rule and the October 2016 final determination are still valid concerns (
+                    <E T="03">i.e.,</E>
+                     small businesses would likely reduce product offerings or leave the vented heater market entirely if the standard were to be set above the level adopted in that rulemaking). Two of the four identified manufacturers of gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters are small businesses.
+                </P>
+                <HD SOURCE="HD3">e. Standby Mode and Off Mode</HD>
+                <P>EPCA requires DOE to incorporate standby mode and off mode energy use into a single amended or new standard (if feasible) or prescribe a separate standard for standby mode and off mode energy consumption in any final rule establishing or revising a standard for a covered product, adopted after July 1, 2010. (42 U.S.C. 6295(gg)(3)(A)-(B)) Because DOE is not amending standards for DHE in this rule, DOE is not required to adopt amended standards that include standby and off mode energy use. DOE notes that fossil fuel energy use in standby mode and off mode is already included in the AFUE metric, and DOE anticipates that electric standby and off mode energy use is small in comparison to fossil fuel energy use.</P>
+                <HD SOURCE="HD3">f. Summary</HD>
+                <P>For gas floor vented heaters, DOE concludes that more-stringent standards for gas floor vented heaters are not technologically feasible. As such, DOE also concludes that there is no conservation of energy possible from including gas floor vented heaters. Therefore, DOE has determined that amended standards for gas floor vented heaters are not needed.</P>
+                <P>
+                    DOE has determined that, for gas wall fan type vented heaters, gas wall gravity type vented heaters, and gas room vented heaters, the potential benefits from amended standards would be outweighed by burdens on manufacturers. As such, DOE has determined that new proposed standards would not be economically justified. Therefore, DOE has determined that amended standards for gas wall fan type vented heaters, gas wall gravity type heaters, and gas room vented heaters are not justified at this time.
+                    <PRTPAGE P="66422"/>
+                </P>
+                <HD SOURCE="HD1">IV. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866</HD>
+                <P>The Office of Management and Budget (OMB) has determined that this final determination does not constitute a âsignificant regulatory actionâ under section 3(f) of Executive Order (E.O.) 12866, âRegulatory Planning and Review,â 58 FR 51735 (Oct. 4, 1993). Accordingly, this action was not subject to review under E.O. 12866 by the Office of Information and Regulatory Affairs (OIRA) at OMB.</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis (IRFA) for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (August 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the DOE rulemaking process. 68 FR 7990 DOE has made its procedures and policies available on the Office of the General Counsel's website (
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                    ).
+                </P>
+                <P>DOE reviewed this final determination under the provisions of the Regulatory Flexibility Act and the policies and procedures published on February 19, 2003. DOE is proposing to not amend standards for DHE. On the basis of the foregoing, DOE certifies that the final determination will not have a âsignificant economic impact on a substantial number of small entities.â Accordingly, DOE has not prepared an FRFA for this final determination. DOE will transmit this certification and supporting statement of factual basis to the Chief Counsel for Advocacy of the Small Business Administration for review under 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act</HD>
+                <P>
+                    This final determination, which determines that amended energy conservation standards for DHE are not justified, would impose no new informational or recordkeeping requirements. Accordingly, OMB clearance is not required under the Paperwork Reduction Act. (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    )
+                </P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>Pursuant to the National Environmental Policy Act (NEPA) of 1969, DOE has analyzed this proposed action in accordance with NEPA and DOE's NEPA implementing regulations (10 CFR part 1021). DOE has determined that this rule qualifies for categorical exclusion under 10 CFR part 1021, subpart D, appendix A5 because it is an interpretive rulemaking that does not change the environmental effect of the rule and meets the requirements for application of a CX. See 10 CFR 1021.410. Therefore, DOE has determined that promulgation of this rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA, and does not require an EA or EIS.</P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>E.O. 13132, âFederalism,â 64 FR 43255 (August 10, 1999), imposes certain requirements on Federal agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. E.O. 13132 requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. E.O. 13132 also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735 DOE has examined this final determination and has determined that it would not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. EPCA governs and prescribes Federal preemption of State regulations as to energy conservation for the products that are the subject of this final determination. States can petition DOE for exemption from such preemption to the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 6297) As this final determination would not amend the standards for DHE, there is no impact on the policymaking discretion of the States. Therefore, no action is required by E.O. 13132.</P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>Regarding the review of existing regulations and the promulgation of new regulations, section 3(a) of E.O. 12988, âCivil Justice Reform,â imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; (3) provide a clear legal standard for affected conduct rather than a general standard, and (4) promote simplification and burden reduction. 61 FR 4729 (Feb. 7, 1996). Regarding the review required by section 3(a), section 3(b) of E.O. 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms, and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of E.O. 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this final determination meets the relevant standards of E.O. 12988.</P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments and the private sector. Public Law 104-4, sec. 201 (codified at 2 U.S.C. 1531). For a proposed regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a proposed âsignificant intergovernmental mandate,â and 
+                    <PRTPAGE P="66423"/>
+                    requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect them. On March 18, 1997, DOE published a policy statement on its process for intergovernmental consultation under UMRA. 62 FR 12820. DOE's policy statement is also available at: 
+                    <E T="03">www.energy.gov/sites/prod/files/gcprod/documents/umra_97.pdf.</E>
+                </P>
+                <P>DOE examined this final determination according to UMRA and its policy statement and determined that the final determination does not contain a Federal intergovernmental mandate, nor is it expected to require expenditures of $100 million or more in any one year. As a result, the analytical requirements of UMRA do not apply.</P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final determination would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>Pursuant to E.O. 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (March 18, 1988), DOE has determined that this final determination would not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) provides for Federal agencies to review most disseminations of information to the public under information quality guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). DOE has reviewed this final determination under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>E.O. 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA at OMB, a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule, and that: (1) Is a significant regulatory action under E.O. 12866, or any successor Executive Order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution and use.</P>
+                <P>This final determination, which does not amend the energy conservation standards for DHE, is not a significant regulatory action under E.O. 12866. Moreover, it will not have a significant adverse effect on the supply, distribution, or use of energy, nor has it been designated as a significant energy action by the Administrator at OIRA. Therefore, it is not a significant energy action, and accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">L. Information Quality</HD>
+                <P>
+                    On December 16, 2004, OMB, in consultation with the Office of Science and Technology Policy (OSTP), issued its Final Information Quality Bulletin for Peer Review (the Bulletin). 70 FR 2664 (Jan. 14, 2005). The Bulletin establishes that certain scientific information shall be peer reviewed by qualified specialists before it is disseminated by the Federal Government, including influential scientific information related to agency regulatory actions. The purpose of the bulletin is to enhance the quality and credibility of the Government's scientific information. Under the Bulletin, the energy conservation standards rulemaking analyses are âinfluential scientific information,â which the Bulletin defines as âscientific information the agency reasonably can determine will have, or does have, a clear and substantial impact on important public policies or private sector decisions.â 
+                    <E T="03">Id.</E>
+                     at 70 FR 2667.
+                </P>
+                <P>
+                    In response to OMB's Bulletin, DOE conducted formal peer reviews of the energy conservation standards development process and the analyses that are typically used and has prepared a peer review report pertaining to the energy conservation standards rulemaking analyses.
+                    <SU>28</SU>
+                    <FTREF/>
+                     Generation of this report involved a rigorous, formal, and documented evaluation using objective criteria and qualified and independent reviewers to make a judgment as to the technical/scientific/business merit, the actual or anticipated results, and the productivity and management effectiveness of programs and/or projects. DOE has determined that the peer-reviewed analytical process continues to reflect current practice, and the Department followed that process for considering amended energy conservation standards in the case of the present action.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        ââEnergy Conservation Standards Rulemaking Peer Review Reportâ (2007) (Available at: 
+                        <E T="03">www.energy.gov/eere/buildings/downloads/energy-conservation-standards-rulemaking-peer-review-report-0</E>
+                        ).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">V. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final determination.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 430</HD>
+                    <P>Administrative practice and procedure, Confidential business information, Energy conservation, Household appliances, Imports, Intergovernmental relations, Reporting and recordkeeping requirements, and Small businesses.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on November 17, 2021, by Kelly J. Speakes-Backman, Principal Deputy Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <PRTPAGE P="66424"/>
+                    <DATED>Signed in Washington, DC, on November 18, 2021.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2021-25537 Filed 11-22-21; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

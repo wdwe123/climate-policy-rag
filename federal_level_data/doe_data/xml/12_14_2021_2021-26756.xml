@@ -1,0 +1,878 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="70945"/>
+                <AGENCY TYPE="S">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Parts 430 and 431</CFR>
+                <DEPDOC>[EERE-2019-BT-NOA-0011]</DEPDOC>
+                <RIN>RIN 1904-AE24</RIN>
+                <SUBJECT>Test Procedure Interim Waiver Process</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy (EERE), U.S. Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The U.S. Department of Energy (âDOEâ or the âDepartmentâ) is revising the Department's test procedure interim waiver process. The revisions address areas of the test procedure interim waiver process regulations that may result in alternate test procedures that are inconsistent with the purpose and requirements of the Energy Policy and Conservation Act, and that otherwise appear not to effectuate the statute properly.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective February 14, 2022.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, public meeting attendee lists and transcripts, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                    <P>
+                        The docket web page can be found at: 
+                        <E T="03">www.regulations.gov/docket?D=EERE-2019-BT-NOA-0011.</E>
+                         The 
+                        <E T="03">www.regulations.gov</E>
+                         web page contains instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P/>
+                    <P>
+                        Ms. Sarah Butler, U.S. Department of Energy, Office of General Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585-0121. Email: 
+                        <E T="03">Sarah.Butler@hq.doe.gov.</E>
+                    </P>
+                    <P>
+                        Ms. Julia Hegarty, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC 20585-0121. Email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Summary of Final Rule</FP>
+                    <FP SOURCE="FP-2">II. Authority and Background</FP>
+                    <FP SOURCE="FP1-2">A. Authority</FP>
+                    <FP SOURCE="FP1-2">B. Background</FP>
+                    <FP SOURCE="FP-2">III. Discussion</FP>
+                    <FP SOURCE="FP1-2">A. Automatic Granting of Interim Waiver After Prescribed Time Period</FP>
+                    <FP SOURCE="FP1-2">B. Timeframe for Review of Interim Waivers</FP>
+                    <FP SOURCE="FP1-2">C. Clarification of Necessary Contents of Interim Waiver</FP>
+                    <FP SOURCE="FP1-2">D. Duration of Applicability of Interim Waivers and Waivers</FP>
+                    <FP SOURCE="FP1-2">E. Transition Period for Compliance With Decision and Order or Amended Test Procedure</FP>
+                    <FP SOURCE="FP1-2">F. Consistency With Enforcement Requirements</FP>
+                    <FP SOURCE="FP1-2">G. Reasons for Rescinding or Modifying Waiver or Interim Waiver</FP>
+                    <FP SOURCE="FP-2">IV. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Order 12866</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">J. Review Under Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Review Consistent With OMB's Information Quality Bulletin for Peer Review</FP>
+                    <FP SOURCE="FP1-2">M. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VI. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Summary of Final Rule</HD>
+                <P>
+                    On December 11, 2020, DOE published a final rule (âDecember 2020 Final Ruleâ) in the 
+                    <E T="04">Federal Register</E>
+                     that made significant revisions to its procedures for processing petitions for interim waivers from test procedures mandated pursuant to the Energy Policy and Conservation Act (âEPCAâ), found in 10 CFR 430.27 and 10 CFR 431.401. 85 FR 79802.
+                </P>
+                <P>
+                    Subsequently, on January 20, 2021, the White House issued Executive Order 13990, âProtecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis.â 86 FR 7037 (Jan. 25, 2021). Section 1 of that Order listed several policies related to the protection of public health and the environment, including reducing greenhouse gas emissions and bolstering the Nation's resilience to climate change. 
+                    <E T="03">Id.</E>
+                     at 86 FR 7037, 7041. Section 2 of the Order instructs all agencies to review âexisting regulations, orders, guidance documents, policies, and any other similar agency actions (agency actions) promulgated, issued, or adopted between January 20, 2017, and January 20, 2021, that are or may be inconsistent with, or present obstacles to, [these policies].â 
+                    <E T="03">Id.</E>
+                     Agencies are then directed, as appropriate and consistent with applicable law, to consider suspending, revising, or rescinding these agency actions and to immediately commence work to confront the climate crisis. 
+                    <E T="03">Id.</E>
+                     In addition, the White House explicitly enumerated certain agency actions, including the December 2020 Final Rule, as actions that would be reviewed to determine consistency with Section 1 of the Order.
+                    <SU>1</SU>
+                    <FTREF/>
+                     Executive Order 13990, Fact Sheet.
+                    <SU>2</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âFact Sheet: List of Agency Actions for Review (Jan. 20, 2021), 
+                        <E T="03">https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/fact-sheet-list-of-agency-actions-for-review/.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âThe Joint Advocates, Sierra Club and Earthjustice, and DEEP (as identified in Table II.1 of this document) urged DOE to comply with the deadline for final action on this proposal contained in Executive Order 13990. (Joint Advocates, No. 65 at p. 2; Sierra Club and Earthjustice, No. 67 at p. 1; DEEP, No. 59 at p. 2)
+                    </P>
+                </FTNT>
+                <P>DOE proposed revisions to its procedures for processing petitions for interim waivers from test procedures mandated pursuant to EPCA in a notice of proposed rulemaking (âNOPRâ) that was published on August 19, 2021 (âAugust 2021 NOPRâ). 86 FR 46793.</P>
+                <P>
+                    While E.O. 13990 triggered the Department's re-evaluation, DOE is relying on the analysis presented below, based upon EPCA, to revise its prior rule. In conducting its review of the December 2020 Final Rule, DOE has identified areas that do not meet DOE's responsibilities under EPCA. The December 2020 Final Rule mandates a 
+                    <PRTPAGE P="70946"/>
+                    process that may result in alternate test procedures that are inconsistent with EPCA's purpose and requirements. In addition, as discussed in greater detail in section III of this document, upon reconsideration, DOE believes provisions implemented by the December 2020 Final Rule could weaken energy conservation standards by allowing manufacturers to place noncompliant products in the market. In furtherance of its duties under EPCA and in accordance with Executive Order 13990, DOE is revising its procedures for processing interim waiver requests.
+                </P>
+                <P>In this final rule, DOE amends 10 CFR 430.27 and 10 CFR 431.401 by: (1) Removing the provisions, adopted in the December 2020 Final Rule, that interim waivers will be automatically granted if DOE fails to notify the petitioner of the disposition of the petition within 45 business days of receipt of the petition, and instead specifying that DOE will make best efforts to process any interim waiver request within 90 days of receipt; (2) providing the requirements for a complete petition for interim waiver, and specifying that DOE would notify petitioners of incomplete petitions via email and that DOE will post a complete petition for interim waiver on its website within five business days of receipt of the complete petition; (3) stating the information that must be provided in a request to extend a waiver to additional basic models; (4) revising the compliance certification and representation requirements; (5) specifying that interim waivers will automatically terminate on the compliance date of a new or amended test procedure; (6) harmonizing the consumer product and commercial equipment waiver provisions with enforcement requirements; and (7) allowing DOE to rescind or modify a waiver for appropriate reasons.</P>
+                <HD SOURCE="HD1">II. Authority and Background</HD>
+                <HD SOURCE="HD2">A. Authority</HD>
+                <P>
+                    EPCA,
+                    <SU>3</SU>
+                    <FTREF/>
+                     Public Law 94-163 (42 U.S.C. 6291-6317) authorizes DOE to regulate the energy efficiency of a number of consumer products and industrial equipment types. Title III, Part Bâ
+                    <SU>4</SU>
+                    <FTREF/>
+                     of EPCA established the Energy Conservation Program for Consumer Products Other Than Automobiles. Title III, Part Câ
+                    <SU>5</SU>
+                    <FTREF/>
+                     of EPCA established the Energy Conservation Program for Certain Industrial Equipment. The energy conservation program under EPCA consists essentially of four parts: (1) Testing, (2) labeling, (3) Federal energy conservation standards, and (4) certification and enforcement procedures.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âAll references to EPCA in this document refer to the statute as amended through the Energy Act of 2020, Public Law 116-260 (Dec. 27, 2020).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âFor editorial reasons, Part B was redesignated as Part A upon codification in the U.S. Code.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âFor editorial reasons, Part C was redesignated as Part A-1 upon codification in the U.S. Code.
+                    </P>
+                </FTNT>
+                <P>The Federal testing requirements consist of test procedures that manufacturers of covered products and equipment generally must use as the basis for: (1) Certifying to DOE that the product or equipment complies with the applicable energy conservation standards adopted pursuant to EPCA (42 U.S.C. 6295(s); 42 U.S.C. 6316(a)), and (2) making representations about the efficiency of the products or equipment (42 U.S.C. 6293(c); 42 U.S.C. 6314(d)). Similarly, DOE must use these test procedures to determine whether the product or equipment complies with relevant standards promulgated under EPCA. (42 U.S.C. 6295(s); 42 U.S.C. 6316(a))</P>
+                <P>Under 42 U.S.C. 6293 and 42 U.S.C. 6314, EPCA sets forth the criteria and procedures DOE is required to follow when prescribing or amending test procedures for covered products and equipment. Specifically, test procedures must be reasonably designed to produce test results that reflect energy efficiency, energy use or estimated annual operating cost of a covered product or covered equipment during a representative average use cycle or period of use, and must not be unduly burdensome to conduct. (42 U.S.C. 6293(b)(3); 42 U.S.C. 6314(a)(2))</P>
+                <HD SOURCE="HD2">B. Background</HD>
+                <P>This final rule involves the regulatory provisions governing the submission and processing of test procedure waivers for both consumer products under Part A of EPCA and industrial equipment under Part A-1. DOE's regulations in Title 10 of the Code of Federal Regulations (âCFRâ), Â§â430.27 (consumer products) and Â§â431.401 (commercial equipment), contain provisions allowing a person to seek a waiver from the test procedure requirements if certain conditions are met. DOE will grant a waiver from the test procedure requirements if DOE determines either that the basic model for which the waiver was requested contains a design characteristic that prevents testing of the basic model according to the prescribed test procedures, or that the prescribed test procedure evaluates the basic model in a manner so unrepresentative of its true energy consumption characteristics as to provide materially inaccurate comparative data. 10 CFR 430.27(a)(1) and 10 CFR 431.401(a)(1). DOE may grant the waiver subject to conditions, including adherence to alternate test procedures. In addition, the waiver process permits parties submitting a petition for waiver to also file an application for interim waiver from the applicable test procedure requirements. 10 CFR 430.27(a) and 10 CFR 431.401(a). DOE will grant an interim waiver if it appears likely that the petition for waiver will be granted and/or if DOE determines that it would be desirable for public policy reasons to grant immediate relief pending a decision on the petition for waiver. 10 CFR 430.27(e)(2) and 10 CFR 431.401(e)(2).</P>
+                <P>On May 1, 2019, DOE published a NOPR to amend the existing test procedure interim waiver process (âMay 2019 NOPRâ). 84 FR 18414. After considering the comments received, DOE published the December 2020 Final Rule, which significantly revised its procedures for test procedure interim waivers. 85 FR 79802.</P>
+                <P>
+                    The December 2020 Final Rule adopted an approach to DOE's test procedure interim waiver decision-making process that requires the Department to notify, in writing, an applicant for an interim waiver of the disposition of the request within 45 business days of receipt of the application. 10 CFR 430.27(e)(ii) and 10 CFR 431.401(e)(ii). Importantly, under the recent amendments, if DOE does not notify the applicant in writing of the disposition of the interim waiver within 45 business days, the interim waiver is granted automatically and the manufacturer is authorized to test subject products or equipment using the alternate test procedure proposed by the manufacturer in the petition. 
+                    <E T="03">Id.</E>
+                     If DOE denies the interim waiver petition, DOE is required to notify the petitioner within 45 business days and post the notice on the Department's website as well as publish its determination in the 
+                    <E T="04">Federal Register</E>
+                     as soon as possible after such notification. 
+                    <E T="03">Id.</E>
+                     If DOE ultimately denies an associated petition for waiver or grants the petition with a test procedure that differs from the alternate test procedure specified in the interim waiver, manufacturers are allowed a 180-day grace period before the manufacturer is required to use the DOE test procedure or the alternate test procedure specified in the decision and order to make representations regarding energy efficiency. 10 CFR 430.27(i)(1) and 10 CFR 431.401(i)(1).
+                    <SU>6</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âIn proposing an amendment to 10 CFR 430.27(i) and 431.401(i), DOE stated thatââThe 180 day duration was proposed because that time frame is consistent with the EPCA provision that provides 
+                        <PRTPAGE/>
+                        manufacturers 180 days from issuance of a new or amended test procedure to begin using that test procedure for representation of energy efficiency.â 84 FR 18414, 18416; (
+                        <E T="03">See</E>
+                         42 U.S.C. 6293(c)(2)). In the December 2020 Final Rule, DOE stated that it was maintaining the 180-day grace period as proposed. 85 FR 79802, 79813. As such, under 10 CFR 430.27(i) and 431.401(i) as finalized in the December 2020 Final Rule, were a Decision and Order issued with an alternate test procedure that differed from that required under the interim waiver, beginning 180 days following publication of the Decision and Order any representations made by the petitioner must fairly disclose the results of testing in accordance with the alternate test procedure specified by the final Order and the applicable requirements of 10 CFR part 429.
+                    </P>
+                </FTNT>
+                <PRTPAGE P="70947"/>
+                <P>In the December 2020 Final Rule, DOE made a policy decision to place significant weight on reducing manufacturers' burdens, providing greater certainty and transparency to manufacturers, and reducing delays in manufacturers' ability to bring innovative product options to consumers. 85 FR 79816. To justify these changes to DOE's interim waiver process, DOE noted that it intended to shift the burden of any delays in the review process onto the Department and allow for innovative products to be made available more quickly to consumers. 85 FR 79802, 79803 and 79811.</P>
+                <P>In the August 2021 NOPR, DOE stated that in reconsideration of the December 2020 Final Rule, DOE is weighing these policy considerations differently. DOE tentatively determined that the changes under the December 2020 Final Rule may not allow DOE sufficient time to review an alternate test procedure, leading to increased risks to consumers of purchasing noncompliant products, decreased energy savings, and an unfair playing field for competing manufacturers in the market. Given EPCA's goal of energy conservation and DOE's statutory obligations under EPCA, in this final rule DOE places greater weight on ensuring compliant test procedures, decreasing risks to consumers and manufacturers, and ensuring that DOE meets its statutory obligations. 86 FR 46793, 46795.</P>
+                <P>In response to the August 2021 NOPR, DOE received comments from the interested parties listed in Table II.1.</P>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s150,r60,r60">
+                    <TTITLE>Table II.1âWritten Comments Received in Response to August 2021 NOPR</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Commenter(s)</CHED>
+                        <CHED H="1">Reference in this final rule</CHED>
+                        <CHED H="1">Commenter type</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Appliance Standards Awareness Project, American Council for an Energy-Efficient Economy, Consumer Federation of America, National Consumer Law Center (on behalf of its low-income clients), and Natural Resources Defense Council</ENT>
+                        <ENT>Joint Advocates</ENT>
+                        <ENT>Efficiency Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Sierra Club and Earthjustice</ENT>
+                        <ENT>Sierra Club and Earthjustice</ENT>
+                        <ENT>Efficiency Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Attorneys General of New York, Colorado, Connecticut, Illinois, Maine, Maryland, Michigan, Minnesota, Nevada, New Jersey, New Mexico, Oregon, Vermont, Washington, the Commonwealths of Massachusetts And Pennsylvania, the District Of Columbia and the City Of New York</ENT>
+                        <ENT>Joint Attorneys General</ENT>
+                        <ENT>State and Local Governments.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Connecticut Department of Energy and Environmental Protection</ENT>
+                        <ENT>DEEP</ENT>
+                        <ENT>State.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">California Investor-Owned Utilities (Pacific Gas and Electric, San Diego Gas and Electric, and Southern California Edison)</ENT>
+                        <ENT>CA IOUs</ENT>
+                        <ENT>Utility.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Madison Indoor Air Quality</ENT>
+                        <ENT>MIAQ</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">North American Association of Food Equipment Manufacturers</ENT>
+                        <ENT>NAFEM</ENT>
+                        <ENT>Trade Association.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Air-Conditioning, Heating, and Refrigeration Institute</ENT>
+                        <ENT>AHRI</ENT>
+                        <ENT>Trade Association.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Air-Conditioning, Heating, and Refrigeration Institute, Association of Home Appliance Manufacturers, and National Electrical Manufacturers Association</ENT>
+                        <ENT>Joint Commenters</ENT>
+                        <ENT>Trade Associations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Carrier Corporation</ENT>
+                        <ENT>Carrier</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Bradford White Corporation</ENT>
+                        <ENT>BWC</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Lennox International Inc</ENT>
+                        <ENT>Lennox</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    A parenthetical reference at the end of a comment quotation or paraphrase provides the location of the item in the public record.
+                    <SU>7</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âThe parenthetical reference provides a reference for information located in the docket of DOE's rulemaking to amend the test procedure interim waiver process. (Docket NO. EERE-2019-BT-NOA-0011, which is maintained at 
+                        <E T="03">www.regulations.gov</E>
+                        ). The references are arranged as follows: (Commenter name, comment docket ID number, page of that document).
+                    </P>
+                </FTNT>
+                <P>Other comments pertaining to specific proposals are discussed in section III.</P>
+                <HD SOURCE="HD1">III. Discussion</HD>
+                <P>As noted previously, DOE is required to develop test procedures to measure the energy efficiency, energy use, or estimated annual operating cost of each covered product and covered equipment during a representative average use cycle or period of use. (42 U.S.C. 6293; 42 U.S.C. 6314) Manufacturers of covered products and covered equipment must use the prescribed DOE test procedure to certify that their products and equipment meet the applicable energy conservation standards adopted under EPCA, and also when making any other representations to the public regarding the energy use or efficiency of those products. (42 U.S.C. 6293(c), 6295(s), 42 U.S.C. 6314(d) and 42 U.S.C. 6316(a)) In accordance with EPCA, manufacturers are prohibited from distributing a covered product without first demonstrating compliance with applicable standards through the use of DOE test procedures. (42 U.S.C. 6302(a)(5), 42 U.S.C. 6295(s))</P>
+                <P>
+                    DOE has determined that, upon weighing the aforementioned policy considerations differently, certain provisions implemented by the December 2020 Final Rule are not appropriate or necessary. DOE acknowledges that its interim waiver process often involves a lengthy period following submission of interim waiver and waiver applications and imposes burdens on manufacturers who are unable to certify their products or equipment absent an interim waiver or waiver from DOE. The December 2020 Final Rule, however, mandates a process that, by prioritizing the speeding up of the petition process, may result in alternate test procedures that are inconsistent with EPCA's purpose and requirements and have adverse environmental impacts. Further, to encourage waivers and prevent the Department's administrative waiver process from delaying or deterring the introduction of novel, innovative products into the marketplace, the Department has a long-stated Enforcement Policy StatementâPending Test Procedure Waiver Applications 
+                    <PRTPAGE P="70948"/>
+                    (âTest Procedure Waiver Enforcement Policyâ), which provides that DOE will refrain from an enforcement action related to a specific basic model while a waiver request is pending.
+                    <SU>8</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âDepartment of Energy, Enforcement Policy StatementâPending Test Procedure Waiver Applications (Apr. 5. 2017), available at 
+                        <E T="03">www.energy.gov/sites/default/files/2017/04/f34/Enforcement%20Policy%20-%20waivers.pdf.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">A. Automatic Granting of Interim Waiver After Prescribed Time Period</HD>
+                <P>
+                    Under the interim waiver process established in the December 2020 Final Rule, an interim waiver granted by default after the 45-day period would lack DOE review and would not benefit from a determination that the alternate test procedure meets EPCA requirements. As demonstrated in the examples discussed in this section, DOE often requires longer than 45 business days to adequately evaluate an alternate test procedure in order to determine whether the proposed test procedure accurately reflect the product's energy consumption during an average use cycle. The default waiver process may result in test procedures later found to be inconsistent with EPCA, which would allow manufacturers to distribute noncompliant products in commerce, resulting in additional costs (
+                    <E T="03">i.e.,</E>
+                     cost of energy use) to consumers and materially inaccurate information to the marketplace.
+                </P>
+                <P>
+                    DOE noted in the December 2020 Final Rule that some commenters stated that the amendments to the interim waiver process would weaken the energy conservation standards program because the automatic granting of interim waivers without review could place noncompliant products in the market and allow them to remain for an additional 180 days after DOE acts on the associated petition. 85 FR 79802, 79806. In addition, some commenters noted that the amendments could indirectly allow for backsliding of energy conservation standards, noting that 42 U.S.C. 6295(o)(1) forbids DOE from prescribing an energy conservation standard that decreases the required energy efficiency of a product. 85 FR 79802, 79813. These commenters argued that the amendments proposed in the May 2019 NOPR (and that were ultimately adopted in the December 2020 Final Rule) would lead to the same loss of efficiency that EPCA's anti-backsliding provision was intended to prevent. 
+                    <E T="03">Id.</E>
+                     DOE's decision under the December 2020 Final Rule reflected a policy choice to reject these comments raising concerns about the risks of non-compliant products in favor of perceived greater certainty and transparency, and a less burdensome process for manufacturers. In support of the December 2020 Final Rule, DOE explained that the changes were in response to concerns that the current system for processing interim waiver petitions was not working as it should, and in DOE's view, manufacturers should not be constrained from selling their products for significant periods while DOE reviews the interim waiver petition. 85 FR 79802, 79807.
+                </P>
+                <P>Analyses of recent petitions indicate that, based on the time required to review appropriately and respond properly to interim waiver requests, the number of noncompliant test procedures granted without sufficient time to review would be higher than DOE estimated previously. As noted, allowing any test procedure that does not provide an accurate, representative result runs counter to DOE's statutory obligations under EPCA.</P>
+                <P>
+                    One example illustrating DOE's concerns is as follows. On June 30, 2021, DOE issued a notice denying the interim waiver application from General Electric Appliance (âGEAâ) for certain miscellaneous refrigeration product (âMREFâ) basic models. 86 FR 35766. The original petition for waiver and interim waiver from the test procedure for MREFs set forth at appendix A to subpart B of 10 CFR part 430 was received on April 9, 2021. (EERE-2021-BT-WAV-0009, GEA, No. 1 at p. 1) As discussed in the August 2021 NOPR, from the time that DOE received GEA's original petition, to the time that the petition was denied, 55 business days passed. DOE was provided more than the 45-business day period in this case because GEA revised and supplemented its original petition in response to DOE's technical questions. However, if DOE did not have sufficient time to gather the additional information about GEA's MREF basic models and how such models are applied in the field, an alternate test procedure could have erroneously been applied that did not meet the requirements in EPCA. DOE needed time to understand more about the product and the proposed alternate test procedure, and after several exchanges, came to understand that the GEA proposed alternate test procedure did not include all the energy consumption to represent an average use cycle and thus, the test procedure proposed by GEA was not representative. 
+                    <E T="03">See</E>
+                     42 U.S.C. 6293. If the alternate test procedure proposed by GEA was automatically granted, the tested energy use of the basic models subject to the interim waiver would have been based on a test procedure that improperly underestimates the energy consumption of the product and would not have provided accurate information to the customers about the representative average use of the product.
+                </P>
+                <P>
+                    In another example, on October 25, 2016, AHT Cooling Systems GmbH and AHT Cooling Systems USA, Inc. (âAHTâ) filed a petition for waiver and interim waiver from the DOE test procedure for commercial refrigeration equipment set forth in 10 CFR part 431, subpart C, appendix B. (EERE-2017-BT-WAV-0027, AHT, No. 1 at pp. 1-10) AHT petitioned for waiver for six model lines that are capable of multi-mode operation (
+                    <E T="03">i.e.,</E>
+                     as ice cream freezer and commercial refrigerator). In the petition, AHT stated that the DOE test procedure is not clear regarding how to test multi-mode equipment. 82 FR 15345, 15349. To address multi-mode operation, AHT requested that their equipment be tested and rated only as ice cream freezers (with integrated average temperature of â15âÂ°F +/â2.0âÂ°F and use of total display area to determine associated energy conservation standards). 82 FR 15345, 15349-15350. As discussed in the August 2021 NOPR, AHT's proposed alternate test procedure would have rated its multi-mode basic models in a manner that was unrepresentative because it would have only accounted for ice-cream freezer mode operation and would not have accounted for operation in the other applicable equipment categories. 82 FR 15345, 15347. After evaluating AHT's petition and alternate test procedure, DOE partially granted AHT's interim waiver. 82 FR 15345. DOE required 102 business days for this review. If DOE had not had sufficient time to evaluate this test procedure waiver and AHT had moved forward with its request without modification, AHT would not have evaluated the multi-mode operation in a manner representative of field use in each applicable equipment category, which would have resulted in equipment being distributed in commerce that may have otherwise been non-compliant with the energy conservation standards.
+                </P>
+                <P>
+                    DOE has determined that the December 2020 Final Rule did not place sufficient weight on the potential for alternate test procedures granted without sufficient DOE review to allow manufacturers to place products in the market that do not meet applicable energy conservation standards. To the extent that test procedure results are unrepresentative and do not provide comparative data, energy savings may not be realized, and consumers may not be able to make informed choices. As discussed previously, DOE has an 
+                    <PRTPAGE P="70949"/>
+                    obligation under EPCA to ensure that all test procedures authorized by the Department yield measurements of energy consumption that are representative of actual product or equipment performance. (42 U.S.C. 6293) As commenters noted in the December 2020 Final Rule, a DOE test procedure that inaccurately measures energy use of a covered product or equipment could inadvertently allow for the backsliding of energy conservation measures in violation of 42 U.S.C. 9265(o). As seen with the GEA and AHT petitions, DOE cannot appropriately determine whether an alternate test procedure will accurately measure energy use if there is insufficient time to understand a product and validate an alternate test procedure. Accordingly, DOE proposed removing the provision that interim waivers will be automatically granted if DOE fails to notify the petitioner of the disposition of the petition within 45 business days of receipt. DOE also proposed to remove the language at 10 CFR 430.27(e)(1)(iii) and 10 CFR 431.401(e)(1)(iii) specifying when a petition is considered âreceivedâ by DOE. These provisions were added for purposes of determining the start of the 45-business day window and serve no purpose upon removing the provision to automatically grant an interim waiver within a specified time period.
+                </P>
+                <P>DOE requested comments, information, and data on its proposal to remove the provision that interim waivers will be automatically granted if DOE fails to respond to the request within 45 business days of receipt of the petition.</P>
+                <P>DOE received comments expressing support for DOE's proposal to remove the provision that interim waivers will be automatically granted if DOE fails to respond to the request within 45 business days of receipt of the petition. (DEEP, No. 59 at p. 1; Lennox, No 60 at p. 1-3; Joint Attorneys General, No. 63 at pp. 1-2; CA IOUs, No. 64 at p. 1; Joint Advocates, No. 65 at p. 1; Carrier, No. 66 at p. 1; Sierra Club and Earthjustice, No. 67 at p. 1) Sierra Club and Earthjustice stated that the changes DOE adopted to the test procedure waiver process in December 2020 are unlawful, and stated that in proposing to discard this provision, DOE will close a loophole for manufacturers to offer noncompliant products that increase air pollutant emissions and impose higher energy costs on end-users. (Sierra Club and Earthjustice, No. 67 at p. 1) Joint Advocates noted a similar elimination of a pathway for noncompliant products to be brought into the market. (Joint Advocates, No. 65 at p. 1) Similarly, Carrier stated that DOE rightly identified the risk that the default waiver process may result in manufacturers distributing products in commerce that result in additional costs to consumers, and that automatically granting petitions increases the risk that a level marketplace is not maintained for all competitors. (Carrier, No. 66 at p. 1) Lennox agreed that a âgranted by defaultâ approach would weaken the energy conservation standards program by placing noncompliant products on the market. (Lennox, No. 60 at p. 2) The Joint Attorneys General stated that the proposal to eliminate automatic waivers would restore a process that affords DOE the necessary time and discretion to properly review waiver requests to ensure that alternate test procedures meet EPCA requirements. (Joint Attorneys General, No. 63 at p. 2)</P>
+                <P>
+                    Several interested parties expressed qualified support and/or alternatives for DOE's proposal to remove the provision that interim waivers will be automatically granted if DOE fails to respond to the request within 45-business days of receipt of the petition. MIAQ stated that a passive grant of an interim test procedure waiver assures timeliness but does not protect against potential for gamesmanship or ensure transparency, and that DOE should undertake an affirmative completeness assessment prior to granting an interim waiver. (MIAQ, No. 61 at p. 1) For most petitions for interim waivers, the Joint Commenters and AHRI expressed support to remove the requirement that an interim waiver is automatically granted after 45 days. (Joint Commenters, No. 69 at pp. 3-4; AHRI, No. 70 at p. 2) AHRI stated that while interim test procedures are temporary and the impact of harm would be limited, a fraudulently gained interim test procedure waiver could result in unfair market impacts. (AHRI, No. 70 at p. 2) AHRI advocated for affirmative intervention by DOE before an interim waiver is granted. (
+                    <E T="03">Id.</E>
+                    ) The Joint Commenters stated that they recognize DOE and manufacturers' interest in ensuring interim waivers are fair and accurate and a good predictor of the ultimate final test procedure waiver. (Joint Commenters, No. 69 at pp. 3-4) However, the Joint Commenters and AHRI stated that the current requirementâthat the petition is deemed granted if DOE does not respond within 45 days of receipt of a complete notificationâshould continue to apply in two cases, specifically: (1) Waivers in which a petitioner seeks an interim waiver and waiver identical to one already granted to another company for models with similar technology (
+                    <E T="03">i.e.,</E>
+                     âsame-technology waiver petitionsâ); and (2) waiver petitions that seek to extend alternate test methods granted in existing interim or final waivers to additional models (
+                    <E T="03">i.e.,</E>
+                     âwaiver extension petitionsâ). (Joint Commenters, No. 69 at pp. 3-4, AHRI, No. 70 at p. 2) AHRI stated that in these cases, DOE has already done the resource- and time-intensive work of reviewing the alternate method of test, and in this case need only decide that the petition includes models that should be tested in the same way. (AHRI, No. 70 at p. 2) The Joint Commenters stated that these waivers do not require the same level of review, should be prioritized, and when combined with the proposal to make clear the criteria for the petition to extend a waiver to additional basic models, should reduce the back-and-forth needed. (Joint Commenters, No. 69 at p. 4)
+                </P>
+                <P>
+                    Similarly, Carrier stated that in cases when the petitioner provides sufficient data to demonstrate that a request is the same as, or an extension of, a previously granted waiver petition, DOE should make a determination within 45 days. (Carrier, No. 66 at p. 2) Lennox stated that it does not oppose the âgranted by defaultâ approach staying in place when it involves a manufacturer simply adding additional models to an existing waiver or another manufacturer seeking the same relief that is already granted to a different company; however, Lennox noted that in these cases, DOE should affirmatively determine that the applications are administratively complete, publish receipt of application for such waivers on its website, and also publish notice of these waivers being granted both on its website and in the 
+                    <E T="04">Federal Register</E>
+                    . (Lennox, No. 60 at p. 7)
+                </P>
+                <P>DOE received a comment objecting to its proposal from NAFEM. NAFEM stated that DOE should precisely define the information needed in a petition, but that as soon as a company submits a âcomplete petition,â DOE should make decisions within the existing 45-day process set forth in the December 2020 final rule. In addition, NAFEM recognized that there are times when a manufacturer submits a completely new and different waiver petition and DOE must initiate its review from scratch. In such cases, NAFEM stated that it would support, as a compromise alternative, DOE being allowed to request an additional 45 days (for a total of 90 days) for its review and response on new waiver petitions. (NAFEM, No. 62 at p. 3)</P>
+                <P>
+                    BWC noted that DOE is reversing course based on âincreased risk to 
+                    <PRTPAGE P="70950"/>
+                    consumers of purchasing noncompliant products and decreased energy savingsâ and requested that DOE expand on what data supports that the delayed energy savings from utilizing a test procedure waiver would be less than from potential noncompliant products on the market. (BWC, No. 68 at p. 1)
+                </P>
+                <P>DOE has considered the suggestions by multiple commenters to maintain the automatic granting of interim waivers after 45 days for same-technology waiver petitions or waiver extension petitions. Contrary to assertions by commenters, DOE applies the same level of rigor and scrutiny during its review of same-technology waiver petitions and waiver extension petitions as it does for the initial interim waiver petitions. DOE reviews the details of each same-technology waiver petition to ensure that the alternate test procedure specified in the initial interim waiver would yield results that accurately reflect the product's energy consumption during an average use cycle so as to provide materially accurate comparative data. Despite employing the same or similar technology as a previously granted waiver, each manufacturer that petitions for a same-technology waiver may have unique product designs that require a similar timeframe for evaluation by DOE as the basic model subject to the original waiver, which as described, may require more than 45 business days. Similarly for waiver extension petitions, DOE must be afforded sufficient opportunity to review a waiver extension request to confirm not only that the additional basic models employ the same technology as the basic model set forth in the original petition, but that the alternate test procedure specified for the original basic model would evaluate the performance of the additional basic models in a manner representative of the energy and/or water consumption characteristics of the additional basic models.</P>
+                <P>
+                    The comment from BWC refers to DOE's statement in the August 2021 NOPR that DOE had tentatively determined that the changes under the December 2020 Final Rule may not allow DOE sufficient time to review an alternate test procedure, leading to increased risks to consumers of purchasing noncompliant products and decreased energy savings. 86 FR 46793, 46795. By this, DOE meant that the current processâin which an interim waiver will be automatically granted if DOE fails to respond to the request within 45 business days of receipt of the petitionâincreases the risk (with respect to the previous interim waiver process prior to the December 2020 Final Rule) that a manufacturer could place a product into the market for which the results of the suggested test procedure are not representative and therefore not appropriate for determining compliance with the applicable energy conservation standard. This risks the product not being complaint with the applicable standard when tested according to a test procedure that is not representative of average energy use. Placing a non-compliant product into the market would result in increased energy use (
+                    <E T="03">i.e.,</E>
+                     decreased energy savings) by consumers.
+                </P>
+                <P>DOE agrees with other commenters that any interim waiver granted should be the result of an affirmative determination by DOE. DOE has an obligation under EPCA to ensure that all test procedures authorized by the Department yield measurements of energy consumption that are representative of actual product or equipment performance. (42 U.S.C. 6293) A DOE test procedure that inaccurately measures energy use of a covered product or equipment could place noncompliant products in the market and/or inadvertently allow for the backsliding of energy conservation measures in violation of 42 U.S.C. 9265(o).</P>
+                <P>DOE also considered the suggestion that DOE be allowed to request an additional 45 days (for a total of 90 days) for its review and response on new waiver petitions. Despite the longer suggested timeframe for review, this approach would maintain the possibility of an interim waiver being automatically granted after 90 days, presenting the same risks to consumers as the current process, as described above.</P>
+                <P>Therefore, for the reasons discussed, DOE is removing the provision that interim waivers will be automatically granted if DOE fails to respond to the request within 45 business days of receipt of the petition.</P>
+                <HD SOURCE="HD2">B. Timeframe for Review of Interim Waivers</HD>
+                <P>
+                    Separately from DOE's consideration of and determination not to automatically grant an interim waiver if DOE fails to respond to the request within 45 business days of receipt of the petition, DOE reconsidered whether a 45-business-day review timeframe provides sufficient time for DOE to properly evaluate a proposed alternate test procedure. As discussed in the December 2020 Final Rule, DOE's analysis of the processing time of 33 interim waivers between 2016 and 2018 showed review periods between the receipt of the waiver application and issuance of an interim waiver significantly longer than 45 business days. 85 FR 79802, 79812-79813. Of those 33 interim waiver requests, only four were granted within 45 business days of receipt. 
+                    <E T="03">Id.</E>
+                     On average, interim waiver requests received in 2016 took 162 days to resolve, those received in 2017 took 202 days, and those received in 2018 took 208 days. 
+                    <E T="03">Id.</E>
+                     DOE noted in the December 2020 Final Rule that this data illustrated that there was a need to issue decisions on interim waiver requests in a more timely manner. 85 FR 79802, 79813.
+                </P>
+                <P>
+                    After further consideration, DOE acknowledges that there is a need for improvement in its process to more timely address interim waivers, but DOE has determined that the 45-business day timeframe implemented by the December 2020 Final Rule is often too brief and rigid. An inflexible rule can fail to take relevant circumstances into account. As seen with the GEA and AHT petitions, a longer timeframe is often needed for DOE to understand the product, the proposed alternate test procedure, and whether that alternate test procedure will accurately reflect the product's energy consumption during an average use cycle. Many delays in processing waiver and interim waiver petitions arise from iterative efforts by DOE to obtain sufficient information upon which to base a decision to grant an interim waiver. Determining that an alternate test procedure complies with EPCA also requires careful analysis and sometimes requires testing by DOE. DOE stated in the December 2020 Final Rule that a downside of this iterative process is the inability of interested stakeholders to participate in the development of an interim test procedure. 85 FR 79802, 79809. The amendments adopted in this final rule maintain transparency provided through posting of a complete petition within five days of its receipt and afford the development, as necessary, of the alternate test procedure on which stakeholders will have the opportunity to comment. Further, the regulations continue to require notification of a requested alternated test procedure to affected manufacturers and opportunity for comment. 10 CFR 430.24(b)(iv) and 10 CFR 431.401(b)(iv). DOE has a statutory obligation under EPCA to ensure that alternative test methods authorized by the Department yield measurements of energy consumption that are representative of actual performance. Providing a longer, flexible timeframe that better reflects DOE's experience will allow DOE to 
+                    <PRTPAGE P="70951"/>
+                    complete the analysis required, while providing a realistic timeframe on which manufacturers can more reasonably rely.
+                </P>
+                <P>Accordingly, DOE proposed in the August 2021 NOPR that DOE will make best efforts to respond to interim waiver requests within 90 business days. Based on DOE's experience, a period of 90 business days would still represent an improvement in response time, and in most cases would allow DOE sufficient time for proper analysis, review, and testing. Importantly, this longer timeframe would ensure that DOE can fulfill its obligation under EPCA to ensure that alternative test methods yield results that are representative of the product's true energy (or water) consumption characteristics so as to provide materially accurate comparative data, while still accounting for circumstances that dictate a lengthier period than the current 45-day requirement for consideration of a particular request.</P>
+                <P>DOE requested comments, information, and data on its proposal that DOE will make best efforts to respond to an interim waiver request within 90 business days.</P>
+                <P>DOE received comments expressing support for its proposal that DOE will make best efforts to respond to an interim waiver request within 90 business days from the Joint Attorneys General, DEEP, CA IOUs, and Joint Advocates. (Joint Attorney Generals, No. 63 at pp. 1-2,; DEEP, No. 59 at p. 1-2; CA IOUs, No. 64 at p. 1; Joint Advocates, No. 65 at p. 1) The Joint Advocates stated that DOE has proposed a balanced approach that recognizes the complexity of many waiver applications and the time that can be required for review, yet still provides applicants a prompt response. (Joint Advocates, No. 65 at p. 1) The CA IOUs stated that the proposal strikes the proper balance between making the interim waiver process quicker and more predictable, and ensuring DOE compliance with EPCA. (CA IOUs, No. 64 at p. 1) DEEP stated that this proposal should give DOE a more realistic amount of time to thoroughly review the request and to meet its obligations under EPCA. (DEEP, No. 59 at p. 2) The Joint Attorneys General stated that these changes are critically important to balance DOE's statutory obligations under EPCA and manufacturers' desire for timely review of their waiver applications; allowing DOE to obtain sufficient information from manufacturers, understand the product, validate the alternate test procedure, and complete the analysis required. (Joint Attorneys General, No. 63 at p. 2)</P>
+                <P>Carrier expressed qualified support of the proposal that DOE will make best efforts to respond to an interim waiver request within 90 business days, suggesting that DOE consider modifying the proposal to make an exception for certain cases noted previously, in which 45 days should be required. (Carrier, No. 66 at p. 2)</P>
+                <P>DOE received comments opposing DOE's proposal that it make its best efforts to respond within 90 days from the Joint Commenters, BWC, MIAQ, AHRI, Lennox, and NAFEM. (Joint Commenters, No. 69 at p. 3; BWC, No. 68 at p. 1; MIAQ, No. 61 at p. 2; AHRI; No. 70 at p. 2; Lennox, No. 60 at p. 4; NAFEM; No. 62 at p. 3) As stated previously, NAFEM supported the requirement to make a decision in 45 days or in certain circumstances a maximum of 90 days. (NAFEM, No. 62 at p. 3) BWC stated that, in acknowledgment that not all waiver requests are equal nor are submitted correctly the first time, it would prefer that DOE designate a longer, guaranteed time to respond to the waiver request versus a shorter, uncertain time, and that the timeline should be measured from when the test procedure was received. BWC did not identify a specific alternative timeline. (BWC, No. 68 at p. 1) The Joint Commenters asserted that it was unlikely that the 90-day timeline would be met by DOE and that there would be no incentive pushing DOE to meet that goal. Instead, the Joint Commenters proposed that DOE be required to complete review of the petition for interim and final waiver within 120 days. The Joint Commenters noted that this is longer than the 90 days that DOE proposed and would help to ensure that the stricter timeline can be met even under exigent circumstances. The Joint Commenters further asserted that a strict timeline is necessary to balance the sometimes competing needs for thoroughly vetted alternate procedures that are approved and finalized relatively quickly. (Joint Commenters, No. 69 at pp. 1-3)</P>
+                <P>
+                    Similarly, MIAQ and Lennox stated that DOE should be required to make a decision within a defined deadline. (MIAQ, No. 61 at p. 2; Lennox, No. 60 at p. 4) Lennox stated that DOE should have to respond within 90 to 120 days, measured from when DOE receives a complete petition (Lennox, No. 60 at p. 3). Lennox stated that DOE must promulgate an orderly, predictable, reasonably expeditious process for processing interim test procedure waivers, while also providing for transparency and stakeholder comment before issuing an interim waiver. Toward that end, Lennox said that DOE should (1) post to its public website an interim waiver petition immediately upon receipt (consistent with current regulations), and not wait to make such a posting until DOE deems those materials administratively âcomplete;â (2) within 30 days of receipt of a petition, if the request includes a technically feasible test procedure and appears administratively complete, DOE should make a preliminary finding in that regard and post a subsequent update to the website when DOE deems the petition complete and submit the petition and supporting documentation to the 
+                    <E T="04">Federal Register</E>
+                     for expedited publication for a 30 day public comment period; or if the request is not yet complete, notify the petitioner within that 30 day period; and (3) if stakeholders do not identify any problems during the comment period, DOE should render a decision within 30 days after the comment period close, or if problems are identified, DOE should either: (a) Afford itself an additional 30 days for review; or (b) deny or grant the waiver, potentially with modifications. (Lennox, No. 60 at pp. 4-6) Lennox also opposed removal of the language specifying when a petition is considered âreceivedâ by DOE, stating that some regulatory indication of this is appropriate for triggering obligations and timelines. (Lennox, No. 60 at p. 4) Lennox recommended that DOE seek comment before granting an interim waiver. (Lennox, No. 60 at p. 7)
+                </P>
+                <P>
+                    MIAQ stated that DOE should be permitted no more than 120 days to process the interim waiver from the time that it is filed. This would include 30 days to review for completeness and publish in the 
+                    <E T="04">Federal Register</E>
+                     and on DOE's website, a 30-day comment period, a 30-day period for DOE to review comments and determine whether to grant or deny the waiver, and an additional 30-day optional review period. (MIAQ, No. 61 at p. 2)
+                </P>
+                <P>
+                    AHRI similarly stated that DOE should be permitted no more than 120 days to process an interim waiver application from the time that it is filed. AHRI stated that DOE should afford stakeholders a thirty-day comment period after a proposal is published. It stated that: (1) If stakeholders and DOE do not identify any problems, DOE should be obligated to issue the interim waiver thirty days after the comment period closes; and (2) if DOE or other commenters note problems with the waiver application, DOE can elect to either afford itself an additional thirty days for investigation and review, or deny or grant the waiver, potentially with modifications. (AHRI, No. 70 at p. 2)
+                    <PRTPAGE P="70952"/>
+                </P>
+                <P>
+                    DOE has considered the suggestions by some commenters to implement a timeline that is longer than proposed 90-day target (
+                    <E T="03">e.g.,</E>
+                     120 days), but that would be mandatory. Although it is likely that 120 days would be sufficient for the vast majority of waiver and interim waiver petitions, any mandatory timeline that would result in the automatic granting of an interim waiver would introduce the previously described risks of an alternate test procedure being used that produces results that are unrepresentative, does not provide accurate comparative results, and/or allows a manufacturer to place a product in the market that does not meet applicable energy conservation standards.
+                </P>
+                <P>Regarding the appropriateness of the proposed 90-day target, DOE's evaluation of waiver and interim waiver petitions since the December 2020 Final Rule indicates that a 90-day period of evaluation is achievable in most cases. Those cases that required longer than 90 days since the submission of the initial petition have been cases where DOE determined that initial petition to be invalid, or where additional time has been required for DOE to actively engage with the manufacturer to provide additional technical information necessary for DOE to evaluate the merits of the petition.</P>
+                <P>DOE also surmises that maintaining a mandatory timeline may increase the likelihood of an interim waiver denial in the event that there is insufficient time for DOE to resolve outstanding questions regarding the petition; whereas, affording a longer time period within which to actively engage the manufacturer could result in a petition being granted that would have otherwise been denied under a mandatory timeline scenario.</P>
+                <P>
+                    Regarding the timing of when DOE posts a waiver or interim waiver application to its website, DOE disagrees with commenters that suggested that DOE post an interim waiver petition on its public website immediately upon receipt, rather than waiting until DOE deems the petition to be complete. Most notably, DOE has received multiple interim waiver petitions containing requests for confidential treatment of informationâ
+                    <SU>9</SU>
+                    <FTREF/>
+                     without a corresponding copy from which the information claimed to be confidential has been properly deleted consistent with the request.
+                    <SU>10</SU>
+                    <FTREF/>
+                     In such cases, DOE engages with the manufacturer to resubmit the petition with the information for which confidential treatment is requested properly redacted before posting to DOE's website. This is one of several âchecksâ that DOE performs on every waiver and interim waiver petition to determine whether an application is complete. Were DOE to be required to post a waiver or interim waiver petition to its website before determining that the petition is complete, CBI could be disclosed inadvertently, among other risks.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âPursuant to 10 CFR 430.27(b)(1)(iv) and 10 CFR 431.401(b)(1)(iv), any request for confidential treatment of any information contained in a petition for waiver or in supporting documentation must be accompanied by a copy of the petition, application, or supporting documentation from which the information claimed to be confidential has been deleted. DOE will publish in the 
+                        <E T="04">Federal Register</E>
+                         the petition and supporting documents from which confidential information, as determined by DOE, has been deleted in accordance with 10 CFR 1004.11 and will solicit comments, data, and information with respect to the determination of the petition.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âFor example, in one such case, the redacted information could be discerned by copying and âpastingâ the blacked-out text from the PDF document into a new document.
+                    </P>
+                </FTNT>
+                <P>
+                    Once complete, a petition is posted to DOE's website providing interested parties notification that DOE is evaluating a request for an interim waiver along with the substance of that petition. The regulations continue to require petitioners to notify potentially interested manufacturers. 10 CFR 430.27(c)(1) and 10 CFR 431.401(c)(1). DOE notes that neither the process established under the December 2020 Final Rule, nor the process adopted in this final rule provide for a formal comment process for petitions posted to DOE's website. The amendments adopted today continue to provide for publication in the 
+                    <E T="04">Federal Register</E>
+                     notification of receipt of a petition and grant or denial of an interim waiver. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>DOE considered the potential benefits and risks of allowing the opportunity for public comment before granting a decision on an interim waiver petition. However, introducing a comment period before rendering a decision on an interim waiver petition would prolong the review process, outweighing the benefit of early stakeholder input. As discussed, the current process affords interested parties the ability to comment on the alternate test procedure granted in an interim waiver before DOE makes a determination whether to grant a waiver.</P>
+                <P>After carefully considering the comments received on this topic, DOE has decided to implement a 90-day target for reviewing interim waiver petitions, which would not be mandatory, and which would provide a more realistic and appropriate timeline for evaluating interim waiver petitions than the current mandatory 45-day period. As discussed, DOE's recent experience indicates that a 90-day timeline should be sufficient for the vast majority of interim waiver petitions; and the flexibility to extend beyond 90 days as needed will afford additional time for those petitions for which a longer timeframe is necessary. This final rule implements the 90-day target as proposed in the August 2021 NOPR.</P>
+                <HD SOURCE="HD2">C. Clarification of Necessary Contents of Interim Waiver</HD>
+                <P>
+                    To clarify the necessary contents of a petition for interim waiver, DOE proposed amendments to 10 CFR 430.27(b) and 10 CFR 431.401(b), which specify the requirements for petition content and publication. As noted previously, many of the delays in interim waiver processing arise from the back-and-forth between DOE and manufacturers to ensure that the manufacturer has submitted the necessary information to support its request. Before DOE can act on a request for interim waiver, DOE may correspond with a manufacturer several times to obtain all necessary information and ensure that the manufacturer has submitted a complete petition. In addition, to formalize the process by which DOE will respond to incomplete petitions, DOE proposed to specify at 10 CFR 430.27(e)(2) and 10 CFR 431.401(e)(2) that a petition for interim waiver will be considered incomplete if it does not meet the content requirements of 10 CFR 430.27(b) or 10 CFR 431.401(b), as applicable. In such a case, DOE would notify the petitioner of an incomplete petition via email. DOE would continue the iterative process by which DOE assists manufacturers in completing their petitions. Consistent with these proposals, DOE also proposed to state at 10 CFR 430.27(e)(1) and 10 CFR 431.401(e)(1) that DOE will post a petition for interim waiver on its website within five business days of receipt of a 
+                    <E T="03">complete</E>
+                     petition.
+                </P>
+                <P>
+                    DOE similarly proposed amendments to 10 CFR 430.27(g) and 10 CFR 431.401(g) to specify the information that must be provided in a request to extend a waiver to additional basic models. Specifically, DOE proposed that the petition for extension must identify the particular basic model(s) for which a waiver extension is requested, each brand name under which the identified basic model(s) will be distributed in commerce, and documentation supporting the claim that the additional basic models employ the same technology as the basic model(s) set forth in the original petition. Including these requirements in the regulations would make clear to manufacturers the 
+                    <PRTPAGE P="70953"/>
+                    information required for an extension request and allow DOE to process such requests more expeditiously.
+                </P>
+                <P>DOE requested comments on its proposals to specify the contents of a complete petition for interim waiver, to formalize the process by which DOE will respond to incomplete petitions, and to specify the information that must be provided in a request to extend a waiver to additional basic models.</P>
+                <P>DOE received comments expressing support for these proposals from multiple interested parties. The Joint Advocates stated that DOE has made clear in the proposed rule what constitutes a complete application. (Joint Advocates, No. 65 at p. 1-2) The CA IOUs stated that they appreciate DOE's efforts to clarify its data needs for waiver evaluation and anticipate that this will limit confusion and unnecessary delays so that DOE can more easily strive towards the new proposed evaluation period. (CA IOUs, No. 64 at p. 1) DEEP stated that these proposed amendments will help increase clarity and transparency on the requirements for a complete interim waiver request and that these changes will benefit both the manufacturer(s) submitting the request and competitors subject to the same test procedure. DEEP also supported allowing iterative communication and assistance between DOE and a petitioner. (DEEP, No. 59 at p. 2)</P>
+                <P>The Joint Commenters, Carrier, and Lennox supported DOE's proposals to establish criteria for determining when an interim test procedure waiver application is complete. (Joint Commenters, No. 69 at p. 4; Carrier, No. 66 at p. 2; Lennox, No. 60 at p. 3) The Joint Commenters supported DOE reviewing each application to ensure completeness. (Joint Commenters, No. 69 at p. 4) Lennox added that the regulations should affirmatively require that an interim waiver application include an appropriate alternate test method before being deemed administratively complete. (Lennox, No. 60 at p. 3)</P>
+                <P>NAFEM stated that to maintain the 45-day review, NAFEM could support better guidance and clarity regarding what constitutes a âcomplete petitionâ to ensure that DOE received all of the necessary information for its decision-making process upfront. (NAFEM, No. 62 at p. 3)</P>
+                <P>The Joint Commenters and MIAQ supported a clearly articulated process by which DOE will respond to incomplete petitions. (Joint Commenters, No. 69 at p. 4; MIAQ, No. 61 at p. 2) BWC supported DOE's proposal to conduct communication with a manufacturer to clarify a waiver request via email versus formal letters. (BWC, No. 68 at p. 1)</P>
+                <P>DOE also received comments requesting additions to the proposal. BWC recommended that DOE provide a template or example of what information would ensure a proper submittal instead of just including it as text in the Code of Federal Regulations. (BWC, No. 68 at p. 1) The Joint Commenters and Carrier requested that DOE include a requirement that DOE respond to the petitioner within 10 business days regarding the completeness of their petition. (Carrier, No. 66 at p. 2; Joint Commenters, No. 69 at p. 4) Carrier requested that DOE consider including language to clearly articulate the iterative process by which DOE will assist manufacturers in completing their petitions. (Carrier, No. 66 at p. 2)</P>
+                <P>The Joint Commenters, Carrier, and MIAQ supported DOE's proposal to state at 10 CFR 430.27(e)(1) and 10 CFR 431.401(e)(1) that DOE will post a petition for interim waiver on its website within five business days of receipt of a complete petition. (Carrier, No. 66 at p. 2, Joint Commenters, No. 69 at p. 4; MIAQ, No. 61 at p. 2) Joint Advocates also supported this proposal, stating that posting complete applications in 5 days will improve transparency, providing notice to competitors and others that an application is under consideration. (Joint Advocates, No. 65 at p. 1-2) The Joint Commenters and MIAQ suggested DOE promote transparency by sending an email to the appropriate mailing lists to announce posting of a complete waiver petition. (Joint Commenter, No. 69 at p. 4; MIAQ, No. 61 at p.2)</P>
+                <P>Joint Commenters, Carrier, and MIAQ supported DOE's proposed amendments to 10 CFR 430.27(g) and 10 CFR 431.401(g) to specify the information that must be provided in a request to extend a waiver to additional basic models. (Carrier, No. 66 at p. 2; Joint Commenters, No. 69 at p. 4; MIAQ, No. 61 at p.2) NAFEM stated that there must be a clear and precise mechanism for extending waivers to additional basic models, noting that waivers must allow for manufacturers that are continuing to improve the products subject to the waiver, which then become similar but not identical products that should also be covered by the waiver. (NAFEM, No. 62 at p. 3)</P>
+                <P>
+                    DOE appreciates the suggestion by BWC regarding the usefulness of a template that would clearly outline the information required to ensure a complete waiver or interim waiver petition, which manufacturers could reference when drafting a petition. DOE will consider developing such a template or an example submission that could be made available on the Department's waiver websiteâ
+                    <SU>11</SU>
+                    <FTREF/>
+                     following the effective date of this final rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âDOE's waiver website is available at 
+                        <E T="03">www.energy.gov/eere/buildings/current-test-procedure-waivers.</E>
+                    </P>
+                </FTNT>
+                <P>Regarding the suggestion to require that DOE respond to the petitioner within 10 business days regarding completeness of petitionâas a regular course of action, DOE typically notifies a manufacturer regarding the completeness of a petition within 5 business days of submission (as part of its obligation to satisfy the current requirements at 10 CFR 430.27(e)(1)(i) and 431.401(e)(1)(i) to post a petition for an interim waiver on its website within 5 business days of receipt). DOE believes that its current practice in this regard is working well and that an additional regulatory requirement regarding notification of completeness is not needed at this time.</P>
+                <P>Regarding the suggestion for DOE to clearly articulate in the waiver regulations the iterative process by which DOE will assist manufacturers in completing their petitionsâin DOE's experience, in cases where DOE has determined that a submitted petition is incomplete, DOE notifies the manufacturer within 5 business days and explains how the petition is incomplete. The manufacturer then makes the required corrections and resubmits the petition. DOE reviews the revised petition and communicates any deficiencies to the manufacturer via email, as necessary, or proceeds with processing the petition if the revised petition meets the content requirements of 10 CFR 430.27(b) or 10 CFR 431.401(b). DOE believes that specifying the content requirements of a complete petition for interim waiver and the method by which DOE will communicate with manufacturers is sufficiently detailed and that an additional regulatory requirement regarding the process by which DOE assists manufacturers in submitting a complete petition is not needed at this time.</P>
+                <P>
+                    Regarding the suggestion by multiple commenters that DOE send an email to the appropriate mailing lists to announce posting of a complete waiver petitionâDOE appreciates the suggestion and will consider incorporating this approach into its general practices moving forward. DOE notes that it already uses this communication approach for most 
+                    <PRTPAGE P="70954"/>
+                    regulatory actions such as issuance of a test procedure rulemaking notice. DOE further notes that 10 CFR 430.27(c)(1) and 10 CFR 431.401(c)(1) require each petitioner for interim waiver, upon publication of a grant of an interim waiver in the 
+                    <E T="04">Federal Register</E>
+                    <E T="03">,</E>
+                     notify in writing all known manufacturers of domestically marketed basic models of the same product or equipment class (as specified in 10 CFR 430.32 or the relevant subpart of 10 CFR part 431) and of other product or equipment classes known to the petitioner to use the technology or have the characteristic at issue in the waiver.
+                    <SU>12</SU>
+                    <FTREF/>
+                     The notification must include a statement that DOE has published the interim waiver and petition for waiver in the 
+                    <E T="04">Federal Register</E>
+                     and the date the petition for waiver was published. The notification must also include a statement that DOE will receive and consider timely written comments on the petition for waiver.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âSimilarly, 10 CFR 430.27(c)(2) and 10 CFR 431.401(c)(2) require that if a petitioner does not request an interim waiver and notification has not been provided pursuant to paragraph (c)(1), each petitioner, after filing a petition for waiver with DOE, and after the petition for waiver has been published in the 
+                        <E T="04">Federal Register</E>
+                        <E T="03">,</E>
+                         must, within five working days of such publication, notify in writing all known manufacturers of domestically marketed units of the same product or equipment class (as listed in 10 CFR 430.32 or the relevant subpart of 10 CFR part 431) and of other product or equipment classes known to the petitioner to use the technology or have the characteristic at issue in the waiver. The notification must include a statement that DOE has published the petition in the 
+                        <E T="04">Federal Register</E>
+                         and the date the petition for waiver was published.
+                    </P>
+                </FTNT>
+                <P>In this final rule, DOE finalizes the amendments as proposed in the August 2021 NOPR to specify the contents of a complete petition for interim waiver, to formalize the process by which DOE will respond to incomplete petitions, and to specify the information that must be provided in a request to extend a waiver to additional basic models.</P>
+                <HD SOURCE="HD2">D. Duration of Applicability of Interim Waivers and Waivers</HD>
+                <P>
+                    DOE proposed amendments to 10 CFR 430.27(h) and 10 CFR 431.401(h), which specify the duration of applicability of interim waivers and waivers. The current regulations provide that upon publication in the 
+                    <E T="04">Federal Register</E>
+                     of a new or amended test procedure that addresses the issue(s) presented in a waiver, an interim waiver will cease to be in effect. 10 CFR 430.27(h)(1)(ii) and 10 CFR 431.401(h)(1)(ii). Under this provision, a manufacturer can no longer rely on an interim waiver upon the 
+                    <E T="03">publication date</E>
+                     of a new or amended test procedure. In contrast, final waivers automatically terminate on the date on which use of such test procedure is required to demonstrate compliance (
+                    <E T="03">i.e.,</E>
+                     a certain amount of time after the date of publication in the 
+                    <E T="04">Federal Register</E>
+                    ). To ensure equitable treatment of final waivers and interim waivers that are in place at the time a test procedure final rule publishes, DOE proposed to specify that final waivers and interim waivers both automatically terminate on the compliance date of the amended test procedure that addresses the issues presented in a waiver or interim waiver.
+                </P>
+                <P>DOE requested comments on its proposal to specify that interim waivers in place at the time a test procedure final rule is published will automatically terminate on the compliance date of the amended test procedure.</P>
+                <P>Joint Commenters, Carrier, and MIAQ supported DOE's proposal to specify that final waivers and interim waivers both automatically terminate on the compliance date of the amended test procedure, stating that this would ensure equitable treatment of manufacturers complying under both final waivers and interim waivers. (Carrier, No. 66 at p. 3; MIAQ, No. 61 at p. 3; Joint Commenters, No. 69 at p. 4) BWC supported waivers and interim waivers terminating when the new or revised test procedure becomes effective, rather than when it is published. (BWC, No. 68 at p. 2)</P>
+                <P>NAFEM stated that a blanket rule on terminating interim waivers is improper and that only waivers that were clearly addressed by the new test procedure can be terminated, but that others not addressed should be allowed to stand, as appropriate. (NAFEM, No. 62 at p. 4)</P>
+                <P>Lennox noted that the proposed regulatory text for the commercial provisions at 10 CFR 431.401(h)(2) is missing the word âterminate.â (Lennox, No. 60 at p. 8)</P>
+                <P>
+                    The proposed provisions specified that when DOE amends the test procedure 
+                    <E T="03">to address the issues presented in a waiver</E>
+                     [emphasis added], the waiver or interim waiver would automatically terminate on the compliance date of the amended test procedure. Were DOE to publish an amended test procedure that did not address the issues presented in a particular waiver or interim waiver (
+                    <E T="03">e.g.,</E>
+                     an amended test procedure was necessary to make limited and specific corrections, or the timing of a test procedure final rule did not afford full consideration of a granted waiver or interim waiver), such waiver or interim waiver would continue to apply until such time as DOE amends the test procedure to address the issues presented in such waiver or interim waiver.
+                </P>
+                <P>This final rule finalizes the amendments as proposed in the August 2021 NOPR to specify that when DOE amends a test procedure to address the issues presented in a waiver, the waiver or interim waiver will automatically terminate on the compliance date of the amended test procedure. This final rule also adds the word âterminateâ at 10 CFR 431.401(h)(2), which was missing in the proposed regulatory text of the August 2021 NOPR. In addition, DOE is also adopting language at 10 CFR 430.27(h)(4) and 10 CFR 431.401(h)(4) to specify when an existing waiver terminates following the issuance of a modified waiver.</P>
+                <HD SOURCE="HD2">E. Transition Period for Compliance With Decision and Order or Amended Test Procedure</HD>
+                <P>
+                    DOE proposed amendments to 10 CFR 430.27(i) and 10 CFR 431.401(i) (
+                    <E T="03">Compliance Certification</E>
+                    ) to clearly state the transition period for compliance with a decision and order or test procedure final rule. These amendments are necessary to make clear the transition periods for scenarios not previously addressed by these provisions. As proposed, these provisions would apply to required certifications and any representations. DOE proposed to specify at 10 CFR 430.27(i)(1)â
+                    <SU>13</SU>
+                    <FTREF/>
+                     and 10 CFR 431.401(i)(1) that manufacturers have 180 days (or up to 360 days, as applicable for commercial equipment and as specified by DOE in the final decision and order) to comply with a decision and order or test procedure methodology, unless otherwise specified by DOE in the decision and order. DOE also proposed to specify at 10 CFR 430.27(i)(1) and 10 CFR 431.401(i)(1) that once a manufacturer uses the decision and order test procedure methodology in a certification report or any representation, all subsequent certification reports and any representations would be required to be made using the decision and order test procedure methodology while the waiver is valid.
+                    <SU>14</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âIn the August 2021 NOPR, these proposed amendments were inadvertently included in the proposed regulatory text at 10 CFR 430.27(i) rather than at 10 CFR 430.27(i)(1) as indicated by the preamble discussion.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âThis aspect of the proposal was included in the proposed regulatory amendments at 10 CFR 431.401(i)(1) but was inadvertently omitted from the proposed amendments to 10 CFR 430.27(i)(1).
+                    </P>
+                </FTNT>
+                <P>
+                    In addition, DOE proposed similar amendments to clarify when certification reports and any representations are required to be based on a new or amended test procedure. Specifically, DOE proposed that 10 CFR 
+                    <PRTPAGE P="70955"/>
+                    430.27(i)(2)â
+                    <SU>15</SU>
+                    <FTREF/>
+                     and 10 CFR 431.401(i)(2) would provide that when DOE publishes a new or amended test procedure, certification reports and any representations may be based on the testing methodology of an applicable final waiver or interim waiver, or the new or amended test procedure until the compliance date of such test procedure. Thereafter, certification reports and any representations must be based on the test procedure final rule methodology unless specified by DOE in the test procedure final rule. Consistent with this provision, as necessary, DOE would be able to specify in a test procedure final rule that a manufacturer need not recertify basic models where testing under the interim waiver or final waiver test procedure methodology, as compared to the amended test procedure methodology, does not result in a change in measured energy use. DOE also proposed to specify that once a manufacturer uses the test procedure final rule methodology in a certification report or any representation, all subsequent certification reports and any representations must be made using the test procedure final rule methodology.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âThe proposed amendments to 10 CFR 430.27(i)(2) were inadvertently omitted from the proposed amendments to the CFR regulatory text in the August 2021 NOPR.
+                    </P>
+                </FTNT>
+                <P>DOE requested comments on the proposed amendment to 10 CFR 430.27(i) and 10 CFR 431.401(i).</P>
+                <P>Carrier, MIAQ and the Joint Commenters supported the proposed changes to 10 CFR 430.27(i) and 10 CFR 431.401(i). (Carrier, No. 66 at p. 3, MIAQ, No. 61 at p. 2, Joint Commenters, No. 69 at p. 5) Carrier stated that these amendments would add additional clarity to the transition period scenarios. (Carrier, No. 66 at p. 3) The Joint Commenters stated that the proposed changes would provide a consistent process, promote certainty, eliminate duplicative testing, and reduce unnecessary burden, and added that the 180-day period would provide manufacturers a reasonable timeline to retest and recertify. (Joint Commenters, No. 69 at p. 5)</P>
+                <P>The Joint Commenters stated that DOE should maintain the existing language in these sections specifying that when basic models have already been certified using the test procedure permitted following DOE grant of an interim test procedure waiver, a manufacturer is not required to re-test and re-rate those basic models under certain circumstances, rather than the simplified language that DOE proposed. (Joint Commenters, No. 69 at p. 5) Lennox noted that DOE appears to have inadvertently left out transition provisions in 10 CFR 430.27(i), with the preamble describing proposals to 10 CFR 430.27(i)(1) and (2), which were not provided in the regulatory text. Lennox supported the proposed language as described in the preamble for these sections. (Lennox, No. 60 at p. 8)</P>
+                <P>Regarding the suggestion from the Joint Commenters that manufacturers not be required to re-test and re-rate under certain circumstances, were DOE to finalize in a decision and order an alternate test procedure that differs from the alternate test procedure specified in an interim waiver, or finalize an amended test procedure that differs from a granted alternate test procedure, any such change would be the result of a determination by DOE, supported by information and/or data, that the subsequent test procedure more appropriately provides representative results. However, the final rule also retains the flexibility for DOE to specify in the decision and order that a manufacturer is not required to re-test and re-rate basic models certified to an interim waiver under certain circumstances. As discussed above and as noted by commenters, the proposed amendments to the regulatory text at 10 CFR 430.27(i) inadvertently omitted language reflecting this intention in the context of consumer products. This final rule corrects this language and reflects the proposed amendments provided at 431.401(i), consistent with the intent of the preamble discussion in the August 2021 NOPR. DOE is also adopting language at 10 CFR 430.27(i)(3) and 10 CFR 431.401(i)(3) to explicitly provide that a manufacturer would have 180-360 days following a modification to a decision and order to comply with any such modification.</P>
+                <HD SOURCE="HD2">F. Consistency With Enforcement Requirements</HD>
+                <P>
+                    DOE proposed amendments to 10 CFR 430.27(j) and 10 CFR 431.401(j) (
+                    <E T="03">Petition for waiver required of other manufacturers</E>
+                    ) for simplification and consistency with the enforcement requirements at 10 CFR part 429. Under 10 CFR 430.27(j) and 10 CFR 431.401(j) manufacturers of products or equipment employing a technology or characteristic for which a waiver was granted for another basic model must also seek a waiver for basic models of their product or equipment. Under these provisions, manufacturers currently distributing such products in commerce have 60 days to submit a waiver application, and manufacturers of such products that are not currently distributing such products in commerce must petition for and be granted a waiver prior to distribution in commerce. When originally implemented, the intent of these provisions was to ensure that similar products are rated in a comparable manner. 77 FR 74616, 74618. As discussed in the August 2021 NOPR, DOE sought to preserve this intent, but believes this language to be confusing when read in context with 10 CFR part 429. Pursuant to 10 CFR 429.12, a basic model must be certified prior to distribution in commerce, and that certification must be based on testing conducted in conformance with the applicable test requirements prescribed in 10 CFR parts 429, 430 and 431, or in accordance with the terms of an applicable test procedure waiver. 
+                    <E T="03">See</E>
+                     10 CFR 429.12(c)(2). Manufacturers must comply with 10 CFR part 429 prior to distributing their product in commerce (
+                    <E T="03">i.e.,</E>
+                     no grace period is provided), and 10 CFR part 429 draws no distinction between models currently being distributed and models that will be distributed in the future. To align with 10 CFR part 429, DOE proposed to remove the specification of a 60-day period and to make no distinction between models currently being distributed and models that will be distributed in the future. DOE stated in the August 2021 NOPR that it believes the proposed amendments would continue to achieve the original intent of paragraph (j) while better aligning with 10 CFR part 429.
+                </P>
+                <P>DOE requested comments on the proposed amendment to 10 CFR 430.27(j) and 10 CFR 431.401(j).</P>
+                <P>Carrier and MIAQ supported DOE's proposal to amend 10 CFR 430.27(j) and 10 CFR 431.401(j) for simplification and consistency with the enforcement requirements at 10 CFR part 429. (Carrier, No. 66 at p. 3; MIAQ, No. 61 at p. 3) Carrier supported removing the 60-day period given to any manufacturer currently distributing in commerce products or equipment employing a technology or characteristic for which a waiver was granted for another basic model. (Carrier, No. 66 at p. 3)</P>
+                <P>
+                    NAFEM opposed DOE's proposed elimination of the 60-day period from 10 CFR 430.27(j) and 10 CFR 431.401(j), noting that small businesses trying to enter various market segments may need that small timing buffer to figure out and engage in the test procedure waiver process, and that there is only a small chance that a small business would actually introduce products to market within this short period, creating limited risk of compliance or enforcement issues. (NAFEM, No. 62 at p. 4)
+                    <PRTPAGE P="70956"/>
+                </P>
+                <P>In response to NAFEM's comments regarding small businesses trying to enter market segments, DOE notes that the 60-day time period currently applies only to manufacturers already distributing in commerce in the United States a product employing a technology or characteristic that results in the same need for a waiver. The amendments that DOE is promulgating with this final rule (for example, more clearly specifying the requirements for submitting a valid waiver or interim waiver petition) would provide greater clarity and support for any small business seeking a test procedure waiver. In this final rule, DOE amends 10 CFR 430.27(j) and 10 CFR 431.401(j) consistent with the proposal from the August 2021 NOPR.</P>
+                <HD SOURCE="HD2">G. Reasons for Rescinding or Modifying Waiver or Interim Waiver</HD>
+                <P>Finally, DOE proposed an amendment to 10 CFR 430.27(k)(1) and 10 CFR 431.401(k)(1). Currently those provisions provide that DOE may rescind or modify a waiver or interim waiver at any time upon DOE's determination that the factual basis underlying the petition for waiver or interim waiver is incorrect or upon a determination that the results from the alternate test procedure are unrepresentative of the basic model(s)' true energy consumption characteristics. As described in the August 2021 NOPR, DOE envisions that there could be other circumstances, such as new methodology, that might necessitate modification of a waiver. As such, DOE proposed to add to this provision that DOE may rescind or modify a waiver for other appropriate reasons.</P>
+                <P>DOE requested comments on the proposed amendment to 10 CFR 430.27(k)(1) and 10 CFR 431.401(k)(1).</P>
+                <P>The Joint Advocates expressed support for clarifying DOE's authority to rescind or modify a waiver for appropriate reasons such as the availability of a new testing methodology. (Joint Advocates, No. 65 at p. 2)</P>
+                <P>Joint Commenters, Carrier, Lennox, and NAFEM opposed DOE's proposal to allow DOE to rescind or modify a waiver for âother appropriate reasons.â (Joint Commenters, No. 69 at p. 6; Carrier, No. 66 at p. 4; Lennox, No. 60 at p. 7; NAFEM, No. 62 at p.3) Carrier stated that this would create unnecessary ambiguity and urged DOE not to modify the current provisions at 10 CFR 430.27(k)(1) and 10 CFR 431.401(k)(1). (Carrier, No. 66 at p. 4) Joint Commenters and Carrier stated that if DOE wants to modify the alternate test procedure granted in a waiver, it should do so through amendments to the test procedure and not through revisions to already-granted waivers. (Joint Commenters, No. 69 at p. 6; Carrier, No. 66 at p. 4) Lennox stated that it is unclear what DOE means by ânew methodology,â and that if a defined category of circumstances exist where DOE may need to rescind an interim waiver, the regulations should state those circumstances specifically. Lennox asserted that the âother appropriate reasonâ language is insufficiently supported in the August 2021 NOPR. (Lennox, No. 60 at p. 7) NAFEM noted that this proposal would return the waiver process to the completely discretionary realm that, according to NAFEM, caused industry and DOE to revisit this process over the past several years of rulemakings. (NAFEM, No. 62 at p. 3)</P>
+                <P>Joint Commenters, MIAQ, and Lennox recommended that if DOE makes a determination to rescind a waiver based on false or inaccurate information, then the 180-day transition timeline should be discretionary. (Joint Commenters, No. 69 at p. 5; MIAQ, No. 61 at p.3; Lennox, No. 60 at p. 7)</P>
+                <P>
+                    DOE notes that the current provisions at 10 CFR 430.27(k)(1) and 10 CFR 431.401(k)(1) already provide DOE with authority to modify the alternate test procedure granted in a waiver under certain circumstances. In describing in the August 2021 NOPR a ânew methodologyâ as one example of a circumstance that might necessitate modification of a waiver, DOE was referring to the possibility of a new or improved alternate test procedure (
+                    <E T="03">i.e.,</E>
+                     methodology) that would provide results that are more representative than the alternate test procedure specified in a previously granted waiver. Another appropriate reason that might necessitate modification of a waiver is DOE being made aware of additional data that would suggest a more representative alternate test procedure than the alternate test procedure specified in a previously granted waiver (
+                    <E T="03">e.g.,</E>
+                     data used as the basis for specifying a particular test condition or weighting factor). In such cases, DOE may determine that it is necessary to modify a previous waiver or interim waiver sooner than would be possible through the test procedure rulemaking process (
+                    <E T="03">e.g.,</E>
+                     products such as consumer electronics with rapidly-changing markets; products such as room air conditioners with highly seasonal markets, in which new products are typically brought to market annually during a relative short period of time).
+                </P>
+                <P>DOE notes that the current regulations at 10 CFR 430.27(k)(3) and 10 CFR 431.401(k)(3) require that any waiver recission or modification be subject to public comment, which provides interested parties an opportunity to comment on DOE's proposed recission or modification before DOE publishes a final decision. DOE did not propose any amendments to those sections of the CFR and any proposal by DOE to rescind or modify a waiver, for any reason, will be subject to those provisions.</P>
+                <P>In reference to comments regarding the transition timeline, if DOE were to make a determination to rescind a waiver based on false or inaccurate information, the provisions at 10 CFR 430.27(k)(5) and 10 CFR 431.401(k)(5) specify that after the effective date of a rescission, any basic model(s) previously subject to a waiver must be tested and certified using the applicable DOE test procedure in 10 CFR part 430 or part 431, as applicable. The manufacturer would thus be required to certify compliance using the applicable DOE test procedure no later than the effective date of the rescission. To further clarify the compliance requirements when a waiver is modified, DOE is adding provisions at 10 CFR 430.27(i)(3) and 10 CFR 431.401(i)(3) to specify the applicable grace periods. Similarly, 10 CFR 430.27(h)(4) and 10 CFR 431.401(h)(4) specify when an existing waiver terminates following the issuance of a modified waiver.</P>
+                <P>This final rule amends 10 CFR 430.27(k)(1) and 10 CFR 431.401(k)(1) consistent with the proposal in the September 2021 NOPR.</P>
+                <HD SOURCE="HD1">IV. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866</HD>
+                <P>The Office of Information and Regulatory Affairs (âOIRAâ) in the Office of Management and Budget (âOMBâ) waived Executive Order (âE.O.â) 12866, âRegulatory Planning and Reviewâ review of this rule.</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of a final regulatory flexibility analysis (âFRFAâ) for any final rule where the agency was first required by law to publish a proposed rule for public comment, unless the agency certifies that the rule will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on 
+                    <PRTPAGE P="70957"/>
+                    February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. DOE has made its procedures and policies available on the Office of the General Counsel's website (
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                    ).
+                </P>
+                <P>This final rule would not impose any new requirements on any manufacturers, including small businesses. This final rule removes the provision automatically granting interim waivers within 45 business days of receipt and adds a new provision that DOE will make best efforts to process an interim waiver request within 90 days of receipt. While this proposal allows DOE a longer period to review interim waiver petitions, in light of DOE's Test Procedure Waiver Enforcement Policy regarding models that are the subject of a pending test procedure waiver application, DOE expects that many manufacturers will choose to sell products tested in accordance with a filed petition while awaiting DOE's decision. As such, DOE anticipates any additional review period will minimally impact manufacturers, including small businesses.</P>
+                <P>
+                    Lennox stated that any enforcement guidance protections, whereby DOE refrains from enforcement for products while a waiver request is pending with DOE, should not arise until at least when DOE has deemed the relevant interim waiver petition administratively complete and submitted it for public comment in the 
+                    <E T="04">Federal Register</E>
+                    <E T="03">,</E>
+                     in order to avoid manufacturers seeking unwarranted protection under such enforcement guidance merely by submitting an incomplete interim waiver application that has no chance of being approved as submitted. Lennox stated that a small delay of 30 days for DOE to determine completeness should not materially adversely impact manufacturers given lengthy product development cycles and should significantly increase consumer protections against non-compliant products. (Lennox, No. 60 at p. 8)
+                </P>
+                <P>As discussed in section III.C, current practice is for DOE to notify a manufacturer regarding the completeness of a petition within 5 business days of submission. As such, it is highly unlikely that manufacturers would use this short period between submission and notification to introduce noncompliant products to the market. DOE has seen no evidence to suggest that a manufacturer would submit an incomplete interim waiver petition as a strategy for bringing a non-compliant unit to the market. Further, DOE's Test Procedure Waiver Enforcement Policy does not provide boundless enforcement protection for any manufacturer who has submitted a petition. If the waiver request is denied, DOE would still employ its enforcement discretion to determine whether to pursue enforcement action against a manufacturer for units sold while the (ultimately denied) application was pending.</P>
+                <P>
+                    Under this final rule, DOE is also specifying a number of requirements for complete petitions for interim waiver and petitions for an extension of a waiver. These are not new requirements (
+                    <E T="03">i.e.,</E>
+                     petitions must currently include this information), but are being included in DOE's regulations to make clearer to manufacturers the information required for a petition or an extension request and to allow DOE to process such requests more expeditiously. DOE expects that these clarifications will decrease burden on manufactures by reducing instances of manufacturers submitting incomplete petitions, which will reduce administrative burden (
+                    <E T="03">i.e.,</E>
+                     avoid the need to re-submit a petition) and allow manufactures to bring new products to the market more quickly.
+                </P>
+                <P>DOE is also eliminating the 60-day period from 10 CFR 430.27(j) and 10 CFR 431.401(j) to align with enforcement requirements at 10 CFR part 429. DOE believes this amendment will minimally impact manufacturers, including small businesses, as they are already subject to the requirements at 10 CFR part 429, which provides no grace period. Finally, DOE believes its revisions to the compliance certification and representation requirements and clarification of the duration of interim waivers will provide clarity to manufacturers and does not increase the burden on manufacturers, including small businesses. DOE does not anticipate any impact on small businesses as a result of the amendments to 10 CFR 430.27(k)(1) and 10 CFR 431.401(k)(1).</P>
+                <P>For these reasons, DOE concludes that this final rule will not have a âsignificant economic impact on a substantial number of small entities,â and that the preparation of a FRFA is not warranted. DOE has submitted a certification and supporting statement of factual basis to the Chief Counsel for Advocacy of the Small Business Administration for review under 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act of 1995</HD>
+                <P>Manufacturers of covered products/equipment must certify to DOE that their products comply with any applicable energy conservation standards. To certify compliance, manufacturers must first obtain test data for their products according to the DOE test procedures, including any amendments adopted for those test procedures. DOE has established regulations for the certification and recordkeeping requirements for all covered consumer products and commercial equipment. 76 FR 12422 (March 7, 2011); 80 FR 5099 (Jan. 30, 2015). The collection-of-information requirement for certification and recordkeeping is subject to review and approval by OMB under the Paperwork Reduction Act (âPRAâ). This requirement has been approved by OMB under OMB control number 1910-1400. Public reporting burden for the certification is estimated to average 35 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.</P>
+                <P>Notwithstanding any other provision of the law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the PRA, unless that collection of information displays a currently valid OMB Control Number.</P>
+                <P>Specifically, this final rule, addressing revisions to DOE's test procedure waiver process, does not increase the burden hours or the number of entities that are subject to reporting under OMB control number 1910-1400.</P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>Pursuant to the National Environmental Policy Act (NEPA) of 1969, DOE has analyzed this proposed action in accordance with NEPA and DOE's NEPA implementing regulations (10 CFR part 1021). DOE has determined that this rule qualifies for categorical exclusion under 10 CFR part 1021, subpart D, appendix A5 because it is an interpretive rulemaking that does not change the environmental effect of the rule and meets the requirements for application of a CX. See 10 CFR 1021.410. Therefore, DOE has determined that promulgation of this rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA, and does not require an EA or EIS.</P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>
+                    Executive Order 13132, âFederalism,â 64 FR 43255 (August 4, 1999), imposes 
+                    <PRTPAGE P="70958"/>
+                    certain requirements on agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735. DOE examined this final rule and determined that it will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. EPCA governs and prescribes Federal preemption of State regulations as to energy conservation for the products that are the subject of this final rule. States can petition DOE for exemption from such preemption to the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 6297(d)) No further action is required by Executive Order 13132.
+                </P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>Regarding the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â 61 FR 4729 (Feb. 7, 1996), imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; (3) provide a clear legal standard for affected conduct rather than a general standard; and (4) promote simplification and burden reduction. Section 3(b) of Executive Order 12988 specifically requires that each executive agency make every reasonable effort to ensure that when it issues a regulation, the regulation: (1) Clearly specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in sections 3(a) and 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and has determined that, to the extent permitted by law, this final rule meets the relevant standards of Executive Order 12988.</P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (âUMRAâ) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments and the private sector. (Pub. L. 104-4, sec. 201 (codified at 2 U.S.C. 1531)) For a proposed regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a proposed âsignificant intergovernmental mandate,â and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect small governments. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. 62 FR 12820; also available at 
+                    <E T="03">www.energy.gov/gc/office-general-counsel.</E>
+                     DOE examined this final rule according to UMRA and its statement of policy and has determined that the rule contains neither an intergovernmental mandate, nor a mandate that may result in the expenditure of $100 million or more in any year, so these requirements under the Unfunded Mandates Reform Act do not apply.
+                </P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final rule will not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>DOE has determined, under Executive Order 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rightsâ 53 FR 8859 (March 18, 1988), that this regulation will not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant to OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act (April 24, 2019), DOE published updated guidelines which are available at 
+                    <E T="03">www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf.</E>
+                     DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.
+                </P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>
+                    Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OMB, a Statement of Energy Effects for any significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy; or (3) is designated by the Administrator of OIRA as a significant energy action. For any significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use if the regulation is implemented, and of reasonable alternatives to the action and 
+                    <PRTPAGE P="70959"/>
+                    their expected benefits on energy supply, distribution, and use.
+                </P>
+                <P>This regulatory action is not a significant regulatory action under Executive Order 12866. Moreover, it would not have a significant adverse effect on the supply, distribution, or use of energy, nor has it been designated as a significant energy action by the Administrator of OIRA. Therefore, it is not a significant energy action, and, accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">L. Review Consistent With OMB's Information Quality Bulletin for Peer Review</HD>
+                <P>
+                    On December 16, 2004, OMB, in consultation with the Office of Science and Technology Policy (OSTP), issued its Final Information Quality Bulletin for Peer Review (the Bulletin). 70 FR 2664 (Jan. 14, 2005). The Bulletin establishes that certain scientific information shall be peer reviewed by qualified specialists before it is disseminated by the Federal Government, including influential scientific information related to agency regulatory actions. The purpose of the bulletin is to enhance the quality and credibility of the Government's scientific information. Under the Bulletin, the energy conservation standards rulemaking analyses are âinfluential scientific information,â which the Bulletin defines as âscientific information the agency reasonably can determine will have or does have a clear and substantial impact on important public policies or private sector decisions.â 
+                    <E T="03">Id.</E>
+                     at 70 FR 2667.
+                </P>
+                <P>
+                    In response to OMB's Bulletin, DOE conducted formal in-progress peer reviews of the energy conservation standards development process and analyses and has prepared a Peer Review Report pertaining to the energy conservation standards rulemaking analyses. Generation of this report involved a rigorous, formal, and documented evaluation using objective criteria and qualified and independent reviewers to make a judgment as to the technical/scientific/business merit, the actual or anticipated results, and the productivity and management effectiveness of programs and/or projects. The âEnergy Conservation Standards Rulemaking Peer Review Report,â dated February 2007, has been disseminated and is available at the following website: 
+                    <E T="03">www1.eere.energy.gov/buildings/appliance_standards/peer_review.html.</E>
+                     Because available data, models, and technological understanding have changed since 2007, DOE has engaged with the National Academy of Sciences to review DOE's analytical methodologies to ascertain whether modifications are needed to improve the Department's analyses. The results from that review are expected later in 2021 or early in 2022.
+                </P>
+                <HD SOURCE="HD2">M. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule before its effective date. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VI. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects</HD>
+                    <CFR>10 CFR Part 430</CFR>
+                    <P>Administrative practice and procedure, Confidential business information, Energy conservation, Household appliances, Imports, Incorporation by reference, Intergovernmental relations, Small businesses.</P>
+                    <CFR>10 CFR Part 431</CFR>
+                    <P>Administrative practice and procedure, Confidential business information, Energy conservation test procedures, Incorporation by reference, and Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on December 3, 2021, by Kelly J. Speakes-Backman, Principal Deputy Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on December 7, 2021.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, DOE amends parts 430 and 431 of chapter II, subchapter D, of title 10 of the Code of Federal Regulations, as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 430âENERGY CONSERVATION PROGRAM FOR CONSUMER PRODUCTS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>1. The authority citation for part 430 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 42 U.S.C. 6291-6309; 28 U.S.C. 2461 note.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>2. Section 430.27 is amended by revising paragraphs (b), (e), (g), (h), (i), (j), and (k)(1) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â430.27</SECTNO>
+                        <SUBJECT> Petitions for waiver and interim waiver of the test procedure.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            (b) 
+                            <E T="03">Petition content and publication.</E>
+                             (1) Each petition for interim waiver and waiver must:
+                        </P>
+                        <P>(i) Identify the particular basic model(s) for which a waiver is requested, each brand name under which the identified basic model(s) will be distributed in commerce, the design characteristic(s) constituting the grounds for the petition, and the specific requirements sought to be waived, and must discuss in detail the need for the requested waiver;</P>
+                        <P>(ii) Identify manufacturers of all other basic models distributed in commerce in the United States and known to the petitioner to incorporate design characteristic(s) similar to those found in the basic model that is the subject of the petition;</P>
+                        <P>(iii) Include any alternate test procedures known to the petitioner to evaluate the performance of the product type in a manner representative of the energy and/or water consumption characteristics of the basic model; and</P>
+                        <P>
+                            (iv) Be signed by the petitioner or an authorized representative. In accordance with the provisions set forth in 10 CFR 1004.11, any request for confidential treatment of any information contained in a petition or in supporting documentation must be accompanied by a copy of the petition, application or supporting documentation from which the information claimed to be confidential has been deleted. DOE will publish in the 
+                            <E T="04">Federal Register</E>
+                             the petition and supporting documents from which confidential information, as determined by DOE, has been deleted in accordance with 10 CFR 1004.11 and will solicit comments, data and information with respect to the determination of the petition.
+                        </P>
+                        <P>
+                            (2) In addition to the requirements in paragraph (b)(1) of this section, each petition for interim waiver must reference the related petition for waiver, demonstrate likely success of the petition for waiver, and address what 
+                            <PRTPAGE P="70960"/>
+                            economic hardship and/or competitive disadvantage is likely to result absent a favorable determination on the petition for interim waiver.
+                        </P>
+                        <STARS/>
+                        <P>
+                            (e) 
+                            <E T="03">Provisions specific to interim waivers</E>
+                            â(1) DOE will post a petition for interim waiver on its website within 5 business days of receipt of a complete petition. DOE will make best efforts to review a petition for interim waiver within 90 business days of receipt of a complete petition.
+                        </P>
+                        <P>(2) A petition for interim waiver that does not meet the content requirements of paragraph (b) of this section will be considered incomplete. DOE will notify the petitioner of an incomplete petition via email.</P>
+                        <P>
+                            (3) DOE will grant an interim waiver from the test procedure requirements if it appears likely that the petition for waiver will be granted and/or if DOE determines that it would be desirable for public policy reasons to grant immediate relief pending a determination on the petition for waiver. Notice of DOE's determination on the petition for interim waiver will be published in the 
+                            <E T="04">Federal Register</E>
+                            .
+                        </P>
+                        <STARS/>
+                        <P>
+                            (g) 
+                            <E T="03">Extension to additional basic models.</E>
+                             A petitioner may request that DOE extend the scope of a waiver or an interim waiver to include additional basic models employing the same technology as the basic model(s) set forth in the original petition. The petition for extension must identify the particular basic model(s) for which a waiver extension is requested, each brand name under which the identified basic model(s) will be distributed in commerce, and documentation supporting the claim that the additional basic models employ the same technology as the basic model(s) set forth in the original petition. DOE will publish any such extension in the 
+                            <E T="04">Federal Register.</E>
+                        </P>
+                        <P>
+                            (h) 
+                            <E T="03">Duration.</E>
+                             (1) Within one year of issuance of an interim waiver, DOE will either:
+                        </P>
+                        <P>
+                            (i) Publish in the 
+                            <E T="04">Federal Register</E>
+                             a determination on the petition for waiver; or
+                        </P>
+                        <P>
+                            (ii) Publish in the 
+                            <E T="04">Federal Register</E>
+                             a new or amended test procedure that addresses the issues presented in the waiver.
+                        </P>
+                        <P>
+                            (2) When DOE publishes a decision and order on a petition for waiver in the 
+                            <E T="04">Federal Register</E>
+                             pursuant to paragraph (f) of this section, the interim waiver will terminate upon the data specified in the decision and order, in accordance with paragraph (i) of this section.
+                        </P>
+                        <P>(3) When DOE amends the test procedure to address the issues presented in a waiver, the waiver or interim waiver will automatically terminate on the date on which use of that test procedure is required to demonstrate compliance.</P>
+                        <P>
+                            (4) When DOE publishes a decision and order in the 
+                            <E T="04">Federal Register</E>
+                             to modify a waiver pursuant to paragraph (k) of this section, the existing waiver will terminate 180 days after the publication date of the decision and order.
+                        </P>
+                        <P>
+                            (i) 
+                            <E T="03">Compliance certification and representations.</E>
+                             (1) If the interim waiver test procedure methodology is different than the decision and order test procedure methodology, certification reports to DOE required under 10 CFR 429.12 and any representations must be based on either of the two methodologies until 180 days after the publication date of the decision and order. Thereafter, certification reports and any representations must be based on the decision and order test procedure methodology, unless otherwise specified by DOE. Once a manufacturer uses the decision and order test procedure methodology in a certification report or any representation, all subsequent certification reports and any representations must be made using the decision and order test procedure methodology while the waiver is valid.
+                        </P>
+                        <P>(2) When DOE publishes a new or amended test procedure, certification reports to DOE required under 10 CFR 429.12 and any representations must be based on the testing methodology of an applicable waiver or interim waiver, or the new or amended test procedure until the date on which use of such test procedure is required to demonstrate compliance, unless otherwise specified by DOE in the test procedure final rule. Thereafter, certification reports and any representations must be based on the test procedure final rule methodology. Once a manufacturer uses the test procedure final rule methodology in a certification report or any representation, all subsequent certification reports and any representations must be made using the test procedure final rule methodology.</P>
+                        <P>(3) If DOE publishes a decision and order modifying an existing waiver, certification reports to DOE required under 10 CFR 429.12 and any representations must be based on either of the two methodologies until 180 days after the publication date of the decision and order modifying the waiver. Thereafter, certification reports and any representations must be based on the modified test procedure methodology unless otherwise specified by DOE. Once a manufacturer uses the modified test procedure methodology in a certification report or any representation, all subsequent certification reports and any representations must be made using the modified test procedure methodology while the modified waiver is valid.</P>
+                        <P>
+                            (j) 
+                            <E T="03">Petition for waiver required of other manufactures.</E>
+                             Any manufacturer of a basic model employing a technology or characteristic for which a waiver was granted for another basic model and that results in the need for a waiver (as specified by DOE in a published decision and order in the 
+                            <E T="04">Federal Register</E>
+                            ) must petition for and be granted a waiver for that basic model. Manufacturers may also submit a request for interim waiver pursuant to the requirements of this section.
+                        </P>
+                        <P>(k) * * * (1) DOE may rescind or modify a waiver or interim waiver at any time upon DOE's determination that the factual basis underlying the petition for waiver or interim waiver is incorrect, upon a determination that the results from the alternate test procedure are unrepresentative of the basic model(s)' true energy consumption characteristics, or for other appropriate reason. Waivers and interim waivers are conditioned upon the validity of statements, representations, and documents provided by the requestor; any evidence that the original grant of a waiver or interim waiver was based upon inaccurate information will weigh against continuation of the waiver. DOE's decision will specify the basis for its determination and, in the case of a modification, will also specify the change to the authorized test procedure.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <PART>
+                    <HD SOURCE="HED">PART 431âENERGY EFFICIENCY PROGRAM FOR CERTAIN COMMERCIAL AND INDUSTRIAL EQUIPMENT</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="431">
+                    <AMDPAR>3. The authority citation for part 431 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>42 U.S.C. 6291-6317; 28 U.S.C. 2461 note.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="431">
+                    <AMDPAR>4. Section 431.401 is amended by revising paragraphs (b), (e), (g), (h), (i), (j), and (k)(1) to read as follows:</AMDPAR>
+                </REGTEXT>
+                <SECTION>
+                    <SECTNO>Â§â431.401</SECTNO>
+                    <SUBJECT> Petitions for waiver and interim waiver of the test procedure.</SUBJECT>
+                </SECTION>
+                <REGTEXT>
+                    <STARS/>
+                    <P>
+                        (b) 
+                        <E T="03">Petition content and publication.</E>
+                         (1) Each petition for interim waiver and waiver must:
+                    </P>
+                    <P>
+                        (i) Identify the particular basic model(s) for which a waiver is requested, each brand name under which the identified basic model(s) will be distributed in commerce, the design characteristic(s) constituting the 
+                        <PRTPAGE P="70961"/>
+                        grounds for the petition, and the specific requirements sought to be waived, and must discuss in detail the need for the requested waiver;
+                    </P>
+                    <P>(ii) Identify manufacturers of all other basic models distributed in commerce in the United States and known to the petitioner to incorporate design characteristic(s) similar to those found in the basic model that is the subject of the petition;</P>
+                    <P>(iii) Include any alternate test procedures known to the petitioner to evaluate the performance of the equipment type in a manner representative of the energy and/or water consumption characteristics of the basic model; and</P>
+                    <P>
+                        (iv) Be signed by the petitioner or an authorized representative. In accordance with the provisions set forth in 10 CFR 1004.11, any request for confidential treatment of any information contained in a petition or in supporting documentation must be accompanied by a copy of the petition, application or supporting documentation from which the information claimed to be confidential has been deleted. DOE will publish in the 
+                        <E T="04">Federal Register</E>
+                         the petition and supporting documents from which confidential information, as determined by DOE, has been deleted in accordance with 10 CFR 1004.11 and will solicit comments, data and information with respect to the determination of the petition.
+                    </P>
+                    <P>(2) In addition to the requirements in paragraph (b)(1) of this section, each petition for interim waiver must reference the related petition for waiver, demonstrate likely success of the petition for waiver, and address what economic hardship and/or competitive disadvantage is likely to result absent a favorable determination on the petition for interim waiver.</P>
+                    <STARS/>
+                    <P>
+                        (e) 
+                        <E T="03">Provisions specific to interim waivers.</E>
+                         (1) DOE will post a petition for interim waiver on its website within 5 business days of receipt of a complete petition. DOE will make best efforts to review a petition for interim waiver within 90 business days of receipt of a complete petition.
+                    </P>
+                    <P>(2) A petition for interim waiver that does not meet the content requirements of paragraph (b) of this section will be considered incomplete. DOE will notify the petitioner of an incomplete petition via email.</P>
+                    <P>
+                        (3) DOE will grant an interim waiver from the test procedure requirements if it appears likely that the petition for waiver will be granted and/or if DOE determines that it would be desirable for public policy reasons to grant immediate relief pending a determination on the petition for waiver. Notice of DOE's determination on the petition for interim waiver will be published in the 
+                        <E T="04">Federal Register</E>
+                        .
+                    </P>
+                    <STARS/>
+                    <P>
+                        (g) 
+                        <E T="03">Extension to additional basic models.</E>
+                         A petitioner may request that DOE extend the scope of a waiver or an interim waiver to include additional basic models employing the same technology as the basic model(s) set forth in the original petition. The petition for extension must identify the particular basic model(s) for which a waiver extension is requested, each brand name under which the identified basic model(s) will be distributed in commerce, and documentation supporting the claim that the additional basic models employ the same technology as the basic model(s) set forth in the original petition. DOE will publish any such extension in the 
+                        <E T="04">Federal Register</E>
+                        .
+                    </P>
+                    <P>
+                        (h) 
+                        <E T="03">Duration.</E>
+                         (1) Within one year of issuance of an interim waiver, DOE will either:
+                    </P>
+                    <P>
+                        (i) Publish in the 
+                        <E T="04">Federal Register</E>
+                         a final determination on the petition for waiver; or
+                    </P>
+                    <P>
+                        (ii) Publish in the 
+                        <E T="04">Federal Register</E>
+                         a new or amended test procedure that addresses the issues presented in the waiver.
+                    </P>
+                    <P>
+                        (2) When DOE publishes a decision and order on a petition for waiver in the 
+                        <E T="04">Federal Register</E>
+                         pursuant to paragraph (f) of this section, the interim waiver will terminate upon the date specified in the decision and order, in accordance with paragraph (i) of this section.
+                    </P>
+                    <P>(3) When DOE amends the test procedure to address the issues presented in a waiver, the waiver or interim waiver will automatically terminate on the date on which use of that test procedure is required to demonstrate compliance.</P>
+                    <P>
+                        (4) When DOE publishes a decision and order in the 
+                        <E T="04">Federal Register</E>
+                         to modify a waiver pursuant to paragraph (k) of this section, the existing waiver will terminate upon the date specified in the decision and order, in accordance with paragraph (i) of this section.
+                    </P>
+                    <P>
+                        (i) 
+                        <E T="03">Compliance certification and representations.</E>
+                         (1) If the interim waiver test procedure methodology is different than the decision and order test procedure methodology, certification reports to DOE required under 10 CFR 429.12 and any representations must be based on either of the two methodologies until 180-360 days after the publication date of the decision and order, as specified by DOE in the decision and order. Thereafter, certification reports and any representations must be based on the decision and order test procedure methodology, unless otherwise specified by DOE. Once a manufacturer uses the decision and order test procedure methodology in a certification report or any representation, all subsequent certification reports and any representations must be made using the decision and order test procedure methodology while the waiver is valid.
+                    </P>
+                    <P>(2) When DOE publishes a new or amended test procedure, certification reports to DOE required under 10 CFR 429.12 and any representations must be based on the testing methodology of an applicable waiver or interim waiver, or the new or amended test procedure until the date on which use of such test procedure is required to demonstrate compliance, unless otherwise specified by DOE in the test procedure final rule. Thereafter, certification reports and any representations must be based on the test procedure final rule methodology. Once a manufacturer uses the test procedure final rule methodology in a certification report or any representation, all subsequent certification reports and any representations must be made using the test procedure final rule methodology.</P>
+                    <P>(3) If DOE publishes a decision and order modifying an existing waiver, certification reports to DOE required under 10 CFR 429.12 and any representations must be based on either of the two methodologies until 180-360 days after the publication date of the decision and order modifying the waiver, as specified by DOE in the decision and order. Thereafter, certification reports and any representations must be based on the modified test procedure methodology unless otherwise specified by DOE. Once a manufacturer uses the modified test procedure methodology in a certification report or any representation, all subsequent certification reports and any representations must be made using the modified test procedure methodology while the modified waiver is valid.</P>
+                    <P>
+                        (j) 
+                        <E T="03">Petition for waiver required of other manufactures.</E>
+                         Any manufacturer of a basic model employing a technology or characteristic for which a waiver was granted for another basic model and that results in the need for a waiver (as specified by DOE in a published decision and order in the 
+                        <E T="04">Federal Register</E>
+                        ) must petition for and be granted a waiver for that basic model. Manufacturers may also submit a request for interim waiver pursuant to the requirements of this section.
+                        <PRTPAGE P="70962"/>
+                    </P>
+                    <P>(k) * * * (1) DOE may rescind or modify a waiver or interim waiver at any time upon DOE's determination that the factual basis underlying the petition for waiver or interim waiver is incorrect, upon a determination that the results from the alternate test procedure are unrepresentative of the basic model(s)' true energy consumption characteristics, or for other appropriate reason. Waivers and interim waivers are conditioned upon the validity of statements, representations, and documents provided by the requestor; any evidence that the original grant of a waiver or interim waiver was based upon inaccurate information will weigh against continuation of the waiver. DOE's decision will specify the basis for its determination and, in the case of a modification, will also specify the change to the authorized test procedure.</P>
+                    <STARS/>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2021-26756 Filed 12-13-21; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

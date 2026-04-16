@@ -1,0 +1,681 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">ENVIRONMENTAL PROTECTION AGENCY</AGENCY>
+                <CFR>40 CFR Part 81</CFR>
+                <DEPDOC>[EPA-R09-OAR-2022-0525; FRL-9961-02-R9]</DEPDOC>
+                <SUBJECT>Finding of Failure To Attain and Reclassification of Las Vegas Area as Moderate for the 2015 Ozone National Ambient Air Quality Standard</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Environmental Protection Agency (EPA).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Environmental Protection Agency (EPA or Agency) is determining that the Las Vegas, Nevada nonattainment area (âLas Vegasâ) failed to attain the 2015 ozone National Ambient Air Quality Standard (NAAQS) by the applicable attainment date. The effect of failing to attain by the applicable attainment date is that Las Vegas is being reclassified by operation of law as âModerateâ nonattainment for the 2015 ozone NAAQS on January 5, 2023, the effective date of this final rule. Accordingly, the Nevada Division of Environmental Protection (NDEP) must submit State Implementation Plan (SIP) revisions and implement controls to satisfy the statutory and regulatory requirements for Moderate areas for the 2015 ozone NAAQS according to the deadlines established in this final rule.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The effective date of this rule is January 5, 2023.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The EPA has established a public docket for this action at 
+                        <E T="03">https://www.regulations.gov</E>
+                         under Docket ID No. EPA-R09-OAR-2022-0525. Although listed in the docket index, some information is not publicly available, 
+                        <E T="03">e.g.,</E>
+                         Confidential Business Information or other information whose disclosure is restricted by statute. Certain other material, such as copyrighted material, is not placed on the internet and will be publicly available only in hard copy form. Publicly available docket materials are available through 
+                        <E T="03">https://www.regulations.gov,</E>
+                         or please contact the person identified in the 
+                        <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                         section for additional availability information. If you need assistance in a language other than English or if you are a person with disabilities who needs a reasonable accommodation at no cost to you, please contact the person identified in the 
+                        <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                         section.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Karina O'Connor, Air Planning Office (AIR-2), EPA Region IX, 75 Hawthorne Street, San Francisco, CA 94105; By 
+                        <PRTPAGE P="776"/>
+                        phone: (775) 434-8176 or by email at 
+                        <E T="03">oconnor.karina@epa.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <P>The following is an outline of the Preamble.</P>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Proposed Actions</FP>
+                    <FP SOURCE="FP1-2">A. Proposed Determination of Failure To Attain by the Attainment Date</FP>
+                    <FP SOURCE="FP1-2">B. Proposed Moderate Area SIP Submission and Controls Implementation Deadlines</FP>
+                    <FP SOURCE="FP-2">II. Responses to Comments and Final Action</FP>
+                    <FP SOURCE="FP1-2">A. Determination of Failure To Attain and Reclassification</FP>
+                    <FP SOURCE="FP1-2">B. Moderate Area SIP Submission and Implementation Deadlines</FP>
+                    <FP SOURCE="FP1-2">C. Final Action</FP>
+                    <FP SOURCE="FP-2">III. Good Cause Exemption Under the Administrative Procedure Act (APA) for Immediate Effective Date</FP>
+                    <FP SOURCE="FP-2">IV. Statutory and Executive Order Reviews</FP>
+                    <FP SOURCE="FP1-2">A. Executive Order 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">B. Paperwork Reduction Act (PRA)</FP>
+                    <FP SOURCE="FP1-2">C. Regulatory Flexibility Act (RFA)</FP>
+                    <FP SOURCE="FP1-2">D. Unfunded Mandates Reform Act (UMRA)</FP>
+                    <FP SOURCE="FP1-2">E. Executive Order 13132: Federalism</FP>
+                    <FP SOURCE="FP1-2">F. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</FP>
+                    <FP SOURCE="FP1-2">G. Executive Order 13045: Protection of Children From Environmental Health and Safety Risks</FP>
+                    <FP SOURCE="FP1-2">H. Executive Order 13211: Actions That Significantly Affect Energy Supply, Distribution, or Use</FP>
+                    <FP SOURCE="FP1-2">I. National Technology Transfer and Advancement Act (NTTAA)</FP>
+                    <FP SOURCE="FP1-2">J. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</FP>
+                    <FP SOURCE="FP1-2">K. Congressional Review Act (CRA)</FP>
+                    <FP SOURCE="FP1-2">L. Judicial Review</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Proposed Actions</HD>
+                <HD SOURCE="HD2">A. Proposed Determination of Failure To Attain by the Attainment Date</HD>
+                <P>
+                    On July 22, 2022, the EPA proposed to determine that Las Vegas failed to attain the 2015 ozone NAAQS by the applicable attainment date and did not qualify for a 1-year attainment date extension. Under Clean Air Act (CAA or âActâ) section 181, the EPA has a statutory obligation to determine whether the Marginal nonattainment area attained the 2015 ozone NAAQS by August 3, 2021, the applicable attainment date.
+                    <SU>1</SU>
+                    <FTREF/>
+                     The proposed determination was based upon complete, quality-assured and certified ozone air quality monitoring data that showed that the 8-hour ozone design value (DV) for the area exceeded 0.070 parts per million (ppm) for the period 2018-2020, 
+                    <E T="03">i.e.,</E>
+                     the area's DV as of the attainment date. The EPA proposed that Las Vegas would be reclassified as a Moderate nonattainment area by operation of law on the effective date of a final action finding that the area failed to attain the 2015 ozone NAAQS by the applicable attainment date for Marginal areas.
+                    <SU>2</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        â87 FR 43764 (July 22, 2022).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âCAA section 181(b)(2)(A).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Proposed Moderate Area SIP Submission and Controls Implementation Deadlines</HD>
+                <P>
+                    In the July 2022 proposal, the EPA solicited comment on adjusting the due dates, in accordance with CAA section 182(i), for submission and implementation deadlines for all SIP requirements that apply to Las Vegas.
+                    <SU>3</SU>
+                    <FTREF/>
+                     Under CAA section 181(b)(2), Marginal nonattainment areas that fail to attain the 2015 ozone NAAQS by the applicable attainment date will be reclassified as Moderate by operation of law upon the effective date of the final determination. Once Las Vegas is reclassified as Moderate, NDEP must subsequently submit a SIP revision that satisfies the air quality planning requirements for a Moderate area under CAA section 182(b).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âSee CAA sections 172(c)(1) and 182(a) and (b), and 40 CFR 51.1300 
+                        <E T="03">et seq.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    The EPA proposed to align the submission deadline for all Moderate area SIP elements for Las Vegas with the proposed January 1, 2023, deadline for other areas being reclassified from Marginal to Moderate in the EPA's national determination for Marginal areas under the 2015 ozone NAAQS.
+                    <SU>4</SU>
+                    <FTREF/>
+                     The EPA adopted this approach previously for Marginal areas reclassified as Moderate for failure to timely attain the 2008 ozone NAAQS and in recent actions for the 2008 and 2015 ozone NAAQS to achieve consistency among required SIP submissions for areas facing a similarly compressed timeframe between the effective date of reclassification and the Moderate area attainment date.
+                    <SU>5</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âProposed RuleâDeterminations of Attainment by the Attainment Date, Extensions of the Attainment Date, and Reclassification of Areas Classified as Marginal for the 2015 Ozone National Ambient Air Quality Standards (81 FR 21842, April 13, 2022).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âFinal RuleâDeterminations of Attainment by the Attainment Date, Extensions of the Attainment Date, and Reclassification of Several Areas for the 2008 Ozone National Ambient Air Quality Standards (81 FR 26697, 26705, May 4, 2016). Final RuleâDeterminations of Attainment by the Attainment Date, Extensions of the Attainment Date, and Reclassification of Areas Classified as Marginal for the 2015 Ozone National Ambient Air Quality Standards (87 FR 60897, October 7, 2022).
+                    </P>
+                </FTNT>
+                <P>
+                    The EPA's implementing regulations for the 2015 ozone NAAQS require that, for areas initially classified as Moderate or higher, a state shall provide for implementation of reasonable available control technology (RACT) as expeditiously as practicable but no later than January 1 of the fifth year after the effective date of designation, which corresponds with the beginning of the attainment year for initially classified Moderate areas (
+                    <E T="03">i.e.,</E>
+                     January 1, 2023).
+                    <SU>6</SU>
+                    <FTREF/>
+                     The modeling and attainment demonstration requirements for 2015 ozone NAAQS nonattainment areas classified Moderate or higher require that a state must provide for implementation of all control measures needed for attainment no later than the beginning of the attainment year ozone season, notwithstanding any alternative deadline established per 
+                    <E T="03">40 CFR 51.1312.</E>
+                    <SU>7</SU>
+                    <FTREF/>
+                     For reclassified areas, the EPA's implementing regulations for the 2015 ozone NAAQS require that the state shall provide for implementation of RACT as expeditiously as practicable, but no later than the start of the attainment year ozone season associated with the area's new attainment deadline, or January 1 of the third year after the associated SIP submission deadline, whichever is earlier; or the deadline established by the Administrator in the final action issuing the area reclassification.
+                    <SU>8</SU>
+                    <FTREF/>
+                     The EPA requested comment on the proposed January 1, 2023, reasonably available control measures (RACM)/RACT implementation deadline. This proposed deadline is the same as the single RACT implementation deadline for all areas initially classified Moderate per 
+                    <E T="03">40 CFR 51.1312(a)(3) in the national rulemaking</E>
+                     and would require implementation of any identified RACM/RACT at the beginning of the Las Vegas Moderate area's attainment year ozone season (January 1, 2023) to influence the area's air quality and 2021-2023 attainment DV. The proposed RACT implementation deadline would also align with the proposed SIP submission deadline of January 1, 2023, and ensure that any control measures needed for attainment, including RACM, would be submitted no later than when those controls are required to be implemented.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âSee 
+                        <E T="03">40 CFR 51.1312(a)(3)(i).</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âSee 
+                        <E T="03">40 CFR 51.1308(d).</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âSee 
+                        <E T="03">40 CFR 51.1312(a)(3)(ii).</E>
+                    </P>
+                </FTNT>
+                <P>
+                    A âBasicâ vehicle inspection and maintenance program (I/M program) is required for all urbanized Moderate areas under the 2015 ozone NAAQS. The Las Vegas nonattainment area is currently operating I/M programs as part 
+                    <PRTPAGE P="777"/>
+                    of its maintenance plan for the 1971 carbon monoxide standard for which the area had been classified as Serious nonattainment and subsequently redesignated.
+                    <SU>9</SU>
+                    <FTREF/>
+                     With respect to the implementation deadline for any revisions to the current I/M program that may be necessary, if Clark County Department of Environment and Sustainability (âClark County DESâ) and NDEP intend to use emissions reductions from a revised I/M program for the 2015 ozone NAAQS, they would need to have such revisions fully established and start testing as expeditiously as practicable but no later than January 1, 2023. However, if the state does not intend to rely upon emissions reductions from a revised I/M program in the Moderate area attainment or reasonable further progress (RFP) demonstrations, the EPA proposed to allow the I/M program to be fully implemented no later than 4 years after the effective date of reclassification.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âSee the July 2022 proposal for more background information on I/M SIP requirements (87 FR 43764, 43769-43770).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">II. Responses to Comments and Final Action</HD>
+                <P>The public comment period for the EPA's July 2022 proposal closed on August 22, 2022. The EPA requested comment on the determination of failure to attain and subsequent reclassification from Marginal to Moderate as well as the Moderate area SIP revision and implementation deadlines. The two comment letters received during this period can be found in the docket for this action. In the first letter, the Clark County DES disagrees with the EPA's proposed reclassification and the associated timelines for the SIP revision and implementation. In the second letter, Earthjustice, on behalf of Sierra Club, supports all aspects of the EPA's proposal but expresses a concern about review of wildfires under the Exceptional Events Rule (EER).</P>
+                <HD SOURCE="HD2">A. Determination of Failure To Attain and Reclassification</HD>
+                <P>The EPA received adverse comments on its proposal to determine that Las Vegas failed to attain by the applicable attainment date and to reclassify the area as Moderate from the Clark County DES.</P>
+                <P>
+                    <E T="03">Comment:</E>
+                     Clark County DES stated opposition to the proposed reclassification of Las Vegas as Moderate, indicating that the area is heavily impacted by ozone precursors originating from upwind states and asserting that as a result, further actions taken by the State to address Moderate area planning requirements are unlikely to significantly improve air quality in Las Vegas.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The EPA disagrees that Las Vegas should not be reclassified as Moderate. The EPA has a mandatory duty under CAA section 181(b)(2)(A) to determine whether Las Vegas attained by its attainment date of August 3, 2021, based on the area's design value as of the attainment date. The CAA also requires that any area that the EPA finds has not attained the standard by the attainment deadline shall be reclassified by operation of law to the higher of the next âhigherâ classification (
+                    <E T="03">e.g.,</E>
+                     Marginal to Moderate, Moderate to Serious, etc.) or the classification applicable to the area's DV. Further, the Agency's mandatory duty to make determinations of attainment or failure to attain the NAAQS exists regardless of the nature or effect of transported ozone on monitored air quality in a given nonattainment area.
+                    <SU>10</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        â
+                        <E T="03">Cf. Sierra Club</E>
+                         v. 
+                        <E T="03">EPA,</E>
+                         294 F.3d 155 (D.C. Cir. 2002) (rejecting the EPA's decision not to reclassify a downwind nonattainment area that failed to timely attain due to transported pollution from upwind states).
+                    </P>
+                </FTNT>
+                <P>
+                    Under the EPA regulations at 40 CFR part 50, Appendix U, the 2015 ozone NAAQS is attained at a monitoring site when the three-year average of the annual fourth-highest daily maximum eight-hour average ozone concentration (
+                    <E T="03">i.e.,</E>
+                     the DV) is less than or equal to 0.070 ppm. When the DV is less than or equal to 0.070 ppm at each regulatory ambient air quality monitoring site within the area, the area is deemed to be meeting the NAAQS. If the DV is greater than 0.070 ppm at any site in the area, the area is deemed to be violating the NAAQS. Four monitoring sites in Las Vegas have design values greater than 0.070 ppm (the highest design value measured in the area is 0.074 ppm) for the 2018-2020 period;â
+                    <SU>11</SU>
+                    <FTREF/>
+                     therefore, the EPA must determine that the area failed to attain the standard by the August 3, 2021, Marginal attainment deadline and reclassify the area as Moderate as required by section 181(b)(2) of the CAA.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âAQS report AMP480_2054242.pdf dated 20221025.
+                    </P>
+                </FTNT>
+                <P>
+                    <E T="03">Comment:</E>
+                     Clark County DES strongly disagreed with the EPA's nonconcurrence on exceptional event (EE) demonstrations submitted in support of Clark County DES's requested determination of attainment or, alternatively, a 1-year attainment date extension for the Las Vegas area for the 2015 ozone NAAQS.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The EPA disagrees that its nonconcurrence with regard to Clark County DES' EE demonstrations was incorrect. The 2016 EER applies to data showing exceedances or violations of an air quality standard for purposes of qualifying regulatory determinations (
+                    <E T="03">i.e.,</E>
+                     having âregulatory significanceâ), and requires that, if a state demonstrates to the EPA's satisfaction that an exceptional event meets the requirements of the EER, the EPA shall exclude the data from use in determinations of exceedances and violations with respect to such regulatory determinations.
+                    <SU>12</SU>
+                    <FTREF/>
+                     In addition to having regulatory significance and meeting certain procedural requirements for submitting an EE demonstration, the demonstration must include: (1) a narrative conceptual model describing the event(s) causing the exceedance or violation, (2) a demonstration of a clear causal relationship between the event and the monitored exceedance or violation, (3) analyses comparing the event-influenced concentration to concentrations at the same monitoring site at other times to support the clear causal relationship; (4) a demonstration that the event was both not reasonably controllable and not reasonably preventable; and (5) a demonstration that the event was caused by human activity that is unlikely to recur at a particular location or was a natural event.
+                    <SU>13</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        â81 FR 68216 (October 3, 2016).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âSee 40 CFR 50.14(c)(3)(iv).
+                    </P>
+                </FTNT>
+                <P>
+                    Of the seventeen EE demonstrations submitted by Clark County DES, the EPA first reviewed three wildfire events and two stratospheric ozone intrusion (SOI) events, based on the regulatory significance and critical potential effect on design values and 2020 data of these five events. As more fully discussed in the EE technical support documents included in the docket to this rulemaking, the EPA ultimately found that none of the five demonstrations fully satisfied all of the EER criteria required for the EPA to concur; specifically, the EPA determined that each of the five demonstrations did not sufficiently show a clear causal relationship between the specific events and the monitored exceedances. This conclusion was based on the technical review of extensive information presented in the demonstrations, such as meteorological data, fire and stratospheric ozone intrusion information and analyses, trajectory analysis, ground level monitoring data, and statistical modeling analysis. The technical data and analyses presented did not support that event emissions were transported to the Clark County 
+                    <PRTPAGE P="778"/>
+                    monitoring sites and influenced air quality sufficiently to cause exceedances of the 2015 ozone NAAQS, and therefore did not satisfy the clear causal relationship criterion of the EER.
+                </P>
+                <P>The EPA notified Clark County DES of its decision to nonconcur on the five demonstrations on April 11, 2022. As a result of the nonconcurrences on the five demonstrations, the remaining demonstrations submitted by Clark County DES, even if concurred upon, would not have resulted in an attaining DV or air quality that would have met the criterion for an attainment date extension. Therefore, the remaining EE demonstrations no longer had regulatory significance, as required by the 2016 EER, and were not reviewed by the EPA.</P>
+                <P>
+                    <E T="03">Comment:</E>
+                     Clark County DES expressed concerns about the increasing impact of western wildfires and associated smoke on air quality in Las Vegas, noting that control of wildfires and the transport of the emissions were out of their jurisdiction and control. The commenter requested that the EPA consider changes to the EER and EE guidance to clearly define what qualifies as a wildfire-related EE because normal levels of wildfire smoke have changed. Another commenter expressed concern that implementation of the EER undermines the goals of the attaining the NAAQS because wildfire occurrences are becoming more frequent.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The EPA recognizes that many areas in the West are experiencing more intense wildfire activity, in large part driven by severe drought conditions that are affecting nearly ninety percent of the region.
+                    <SU>14</SU>
+                    <FTREF/>
+                     The EPA recognizes that these wildfire impacts are generally outside of the control of local air quality agencies, like Clark County DES. Indeed, the purpose of the EER and related guidance is to exclude these types of air quality impacts, 
+                    <E T="03">i.e.,</E>
+                     naturally occurring events that can affect air quality but that are not reasonably controllable using techniques that tribal, state or local air agencies may implement in order to attain and maintain the NAAQS, to avoid imposing unreasonable planning or implementation requirements on air quality agencies. Additionally, as noted in 40 CFR 50.1(n), a wildfire occuring predominantly on wildland is defined as a natural event, and the definition of natural events at 40 CFR 50.1(k) clarifies that such events may recur at the same location. Therefore, the EER continues to allow for exclusion of data affected by more frequent wildfires, presuming those events otherwise meet the requirements of the EER.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âFact Sheet: The Biden-Harris Administration Acts to Address the Growing Wildfire Threat, The White House (June 30, 2021), 
+                        <E T="03">https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/.</E>
+                         While heat waves and droughts do not directly cause pollutant emissions and are not themselves considered exceptional events, they can combine with or exacerbate the effects of events that do meet the requirements, provisions, and criteria of the EER.
+                    </P>
+                </FTNT>
+                <P>The EPA acknowledges the complexity and intricacies of regional conditions prevalent across the country and is committed to continuing to provide clarification and assistance to states as the EER is implemented and through communications between the Regions and the states to ensure that these regional conditions are adequately addressed. However, to the extent that the commenters suggest the EPA revisit the EER and EE guidance in this rulemaking, either to provide additional clarifications or because of a commenter's concern that implementation of the EER undermines attainment of the NAAQS, the EPA believes that doing so is beyond the scope of this rulemaking to determine whether Las Vegas attained by its Marginal area attainment date.</P>
+                <P>While we acknowledge that wildfires have become more common in the West, we reiterate that the EPA carefully examined Clark County DES' EE demonstrations, and, as described in more detail above and in the EE technical support documents included in the docket to this rulemaking, found that the EE demonstrations submitted by Clark County DES did not sufficiently establish a clear causal relationship between wildfire emissions and ozone concentrations during the three identified wildfire exceedance events reviewed by the EPA. The EPA's evaluation of the âclear causal relationshipâ criterion did not rely on the frequency of events, and therefore an increasing frequency or intensity of wildfires were not considered in the EPA's nonconcurrence determinations issued with respect to the Clark County DES wildfire demonstrations.</P>
+                <P>
+                    <E T="03">Comment:</E>
+                     In identifying the local impacts from increased wildfires, Clark County DES also highlighted the need for federal action to research, prevent, and contain these wildfires.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     We recognize that many areas in the West are experiencing more wildfire activity, as well as drought conditions and high temperatures. The White House and many executive agencies, including the EPA, are committed to devoting federal resources to study and reduce these wildfire impacts to the extent possible. For example, land managers, landowners, air agencies and communities may be able to lessen the impacts of wildfires by working collaboratively to take steps to minimize fuel loading in areas vulnerable to fire. There are specific Department of the Interiorâ
+                    <SU>15</SU>
+                    <FTREF/>
+                     and United States Forest Serviceâ
+                    <SU>16</SU>
+                    <FTREF/>
+                     federal plans to increase fuel load minimization efforts in areas at high risk of wildfire. The recently passed Bipartisan Infrastructure Lawâ
+                    <SU>17</SU>
+                    <FTREF/>
+                     and Inflation Reduction Actâ
+                    <SU>18</SU>
+                    <FTREF/>
+                     further direct agencies and provides funding for such efforts at the federal level as well as at state, tribal, local and private landowner levels.
+                    <SU>19</SU>
+                    <FTREF/>
+                     For example, the White House recently outlined a plan to leverage $8 billion from the Bipartisan Infrastructure Law to improve wildfire response capabilities by bolstering the wildland firefighting workforce and utilizing data and technology to better detect and respond to wildfires, among other tools to strengthen prevention, preparedness, mitigation, and response efforts to wildfires.
+                    <SU>20</SU>
+                    <FTREF/>
+                     It is important to note that the EPA is not a land management agency, and therefore land management techniques to prevent and control wildfires are outside of our jurisdiction. However, we work closely with other federal agencies including the United States Forest Service on multiple interagency groups to discuss the use of prescribed fires and other land management control techniques.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âSee 
+                        <E T="03">https://www.doi.gov/sites/doi.gov/files/bil-5-year-wildfire-risk-mmt-plan.04.2022.owf_.final_.pdf.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âSee 
+                        <E T="03">https://www.fs.usda.gov/sites/default/files/Confronting-Wildfire-Crisis.pdf.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âInflation Reduction Act, Public Law 117-169 available at 
+                        <E T="03">https://www.congress.gov/bill/117th-congress/house-bill/5376/text.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âInfrastructure Investment and Jobs Act, Public Law 117-58, available at 
+                        <E T="03">https://www.congress.gov/117/plaws/publ58/PLAW-117publ58.pdf.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âInflation Reduction Act, Public Law 117-169 available at 
+                        <E T="03">https://www.congress.gov/bill/117th-congress/house-bill/5376/text.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âSee Fact Sheet: âThe Biden-Harris Administration Acts to Address the Growing Wildfire Threatâ, The White House (June 30, 2021
+                        <E T="03">), https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat</E>
+                        /; Fact Sheet: President Biden Signs Executive Order to Strengthen America's Forests, Boost Wildfire Resilience, and Combat Global Deforestation The White House (April 22, 2022), 
+                        <E T="03">https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/#:~:text=To%20strengthen%20America's%20forests20and,growth%%20forests%20on%20federal%20lands.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    From an air quality perspective, the EPA has multiple Air Sensor Loan Programs to help bolster local air quality monitoring efforts. One example of this is the Wildfire Smoke Air Monitoring 
+                    <PRTPAGE P="779"/>
+                    Technology (WSMART) Pilot program.
+                    <SU>21</SU>
+                    <FTREF/>
+                     The WSMART program allows state, local, or tribal air agencies to loan one of two types of stationary sampling systems to supplement air quality data in smoke-impacted communities. In addition, the EPA regularly deploys air quality experts to large smoke events, where they help predict, analyze, and communicate smoke impacts from fires, along with other air experts, to the public.
+                    <SU>22</SU>
+                    <FTREF/>
+                     The EPA is also involved in numerous research efforts. Current research includes a study on the safety and efficacy of using Do-It-Yourself air cleaners, which are in-home air filtration devices made by attaching an air filter to a box fan, as an alternative to other air cleaners. A second study is research on the use of N95 masks to protect against wildfire smoke when used with varying levels of instruction.
+                    <SU>23</SU>
+                    <FTREF/>
+                     This research helps us understand the safety and efficacy of different tools the public can use to protect themselves.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âWildfire Smoke Air Monitoring Response Technology (WSMART) Pilot, EPA, 
+                        <E T="03">https://www.epa.gov/air-sensor-toolbox/wildfire-smoke-air-monitoring-response-technology-wsmart-pilot.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        âAir Resource Advisor Deployments, Interagency Wildland Fire Air Quality Response Program, 
+                        <E T="03">https://www.wildlandfiresmoke.net/ara/deployments.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âWhen research results are published, they will appear on the EPA's Wildland Fire Research to Protect Health and the Environment page, 
+                        <E T="03">https://www.epa.gov/air-research/wildland-fire-research-protect-health-and-environment.</E>
+                    </P>
+                </FTNT>
+                <P>Federal agencies will continue to engage on various fronts to address wildfires and the associated impacts, and the EPA will continue to incorporate the tools and research information to work with Clark County DES and others toward protecting the environment and human health.</P>
+                <HD SOURCE="HD2">B. Moderate Area SIP Submission and Implementation Deadlines</HD>
+                <P>The EPA received one supportive comment from the Sierra Club and adverse comments from Clark County DES on our proposed deadlines, which are addressed as follows. We acknowledge that meeting a January 1, 2023, SIP submission and RACM/RACT implementation deadline will be challenging. As discussed in our responses, the options for establishing deadlines within the CAA framework of attainment timeframes and RACT implementation requirements are constrained. We also note that a state may at any time requestâand the EPA must grantâa voluntary reclassification under CAA section 181(b)(3). As a general matter, the EPA remains committed to working closely with affected states to help them prepare their SIP revisions in a timely manner. One additional comment, regarding future contingency measures policy is also addressed below.</P>
+                <P>
+                    <E T="03">Comment:</E>
+                     Regarding the EPA's proposed January 1, 2023, SIP submission deadline for Clark County's Moderate area SIP revision, the commenter states that the deadline was without a rational basis because the EPA knows NDEP cannot meet the deadline, and further asserts that the proposed deadline is not specifically mandated by the CAA or the EPA's regulations. The commenter observed that the proposed deadline would be less than three months from final area reclassification, which they note is less than the planning timeframe allowed for initially designated areas (up to, 
+                    <E T="03">e.g.,</E>
+                     3 years for RFP demonstrations) or for reclassified areas under 40 CFR 51.1312(a)(2)(ii), which allows up to 2 years for RACT SIPs. Clark County DES did not request a specific deadline but was concerned that the proposed submission deadline was unachievable given the timing and need for development of the plan and the need for providing the public with opportunity to comment, also noting that the EPA's delayed rulemaking in this action has contributed to the planning burden on the nonattainment area.
+                </P>
+                <P>The commenter disagrees with the EPA's exercise of discretion under CAA section 182(i) to provide for consistency among the required SIP submissions by harmonizing the SIP submission and RACT SIP implementation deadlines, claiming the EPA has not yet shown that its exercise of discretion is ânecessary or appropriateâ under the Act.</P>
+                <P>Further, the commenter requests that the EPA use its general regulatory authorities under CAA section 301(a)(1) to harmonize the SIP submission deadlines and the attainment date on the grounds that Congress intended for the EPA to give adequate time for states to implement control measures before facing sanctions or additional bump-ups. The commenter notes that the D.C. Circuit Court of Appeals has held that an agency's statutory interpretation must âavoid unnecessary hardship or surprise to affected parties and remains within the general statutory bounds prescribed.â</P>
+                <P>
+                    <E T="03">Response:</E>
+                     The EPA acknowledges the short planning timeframe available to NDEP and Clark County DES for the newly reclassified Las Vegas Moderate area, and that delays in this rulemaking, including additional time needed to review the EE demonstrations described above, have contributed to this shortened timeframe. We further acknowledge that the available timeframe here will present significant challenges to Clark County DES, but we believe that our approach here is consistent with prior determination and reclassification actions and with the confines of the CAA. Further, we maintain that the aligned SIP submission and RACT implementation deadline established in this final action best addresses the regulatory requirement under 
+                    <E T="03">40 CFR 51.1312(a)(3)(ii)</E>
+                     that RACT be implemented as expeditiously as practicable, but no later than the start of the attainment year ozone season associated with the area's new attainment deadlineâin this case, January 1, 2023, for the Las Vegas area.
+                </P>
+                <P>We note that first and foremost, the primary purpose of title I of the CAA and subpart 2 in particular is the expeditious attainment of the NAAQS in all areas. We do not agree that the Act provides support for the notion that the overriding goal of these statutory provisions is to provide adequate time to states for implementing control measures, or that our proposed SIP submission and implementation deadlines would result in âunnecessary hardship or surpriseâ that exceeds permissible bounds. The plain language of the CAA mandates that the Las Vegas area be reclassified as Moderate as a matter of law because the area failed to attain the NAAQS by its Marginal attainment date. The Act, and its implementing regulations, further mandate that, once reclassified, the area's new attainment date is August 3, 2024.</P>
+                <P>The State, in this case, has been on notice since December 2020 that there was a possibility that Las Vegas would be reclassified, given the preliminary air quality data for the time period relevant to attainment demonstrations (2018-2020). Moreover, the EPA shared with the State in April of this year that we did not agree with the state's exceptional events demonstrations, paving the way for a finding that the area did not attain and would be reclassified. A state need not wait until EPA's finding and reclassification is made effective before beginning to develop an attainment plan for a higher classification of an air quality standard. At the time of the proposed finding and reclassification for Las Vegas, there was nearly two full years until the area's attainment date, including the entire attainment year ozone season of 2023.</P>
+                <P>
+                    Given these facts and circumstances, we think it is appropriate and necessary to establish deadlines that would result in the most expeditious schedule for adopting and implementing control 
+                    <PRTPAGE P="780"/>
+                    measures, as we have in similarly situated areas all over the country, in order to provide Las Vegas with the best chance of timely attainment by its new 2024 attainment deadline. It is not appropriate, when there is still time to affect whether the area will timely attain, to delay the area's SIP submission or implementation deadlines, such that none of the controls adopted or implemented could ever affect whether the area attained by its next attainment deadline. We also therefore do not think CAA section 301(a)(1)'s gap-filling authority is needed or appropriate here, where CAA section 182(i) provides the EPA with the specific authority to establish new deadlines for areas that are reclassified for failing to timely attain by their attainment date.
+                </P>
+                <P>
+                    Areas initially classified as Moderate under the 2015 ozone NAAQS were required to prepare and submit SIP revisions by deadlines relative to the effective date of the nonattainment designation (
+                    <E T="03">i.e.,</E>
+                     August 3, 2018), which ranged from 2 to 3 years after the effective date of designation (
+                    <E T="03">e.g.,</E>
+                     2 years for the RACT SIP, and 3 years for the attainment plan with RACM and attainment demonstration). These SIP submission deadlines preceded the RACT implementation deadline (
+                    <E T="03">i.e.,</E>
+                     as expeditiously as practicable but no later than January 1 of the 5th year after the effective date of designations) and have the practical effect of ensuring that SIPs requiring control measures needed for attainment, including RACM, would be submitted prior to when those controls are required to be implementedâin this case, no later than the beginning of the Moderate area attainment year. 
+                    <E T="03">i.e.,</E>
+                     January 1, 2023.
+                </P>
+                <P>
+                    Section 181(b)(2)(A) of the CAA requires that within 6 months following the applicable attainment date, the EPA shall determine whether an ozone nonattainment area attained the ozone standard, and those areas that failed to attain and were not granted a 1-year attainment date extension are reclassified by operation of law. Although Congress did not articulate specific SIP submission deadlines for reclassified areas in the Act, it provided the EPA with authority under CAA section 182(i) to adjust any related deadlines for requirements under CAA sections 182(b) through (d) â. . . to the extent such adjustment is necessary or appropriate to assure consistency among the required submissions.â Notably, explicitly excluded from CAA section 182(i) is authority to adjust attainment dates.
+                    <SU>24</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âCAA section 182(i)(â. . . the Administrator may adjust any applicable deadlines (other than attainment dates) . . .â).
+                    </P>
+                </FTNT>
+                <P>
+                    The area classifications and attainment date framework established in Table 1 of CAA section 181(a)(1) and interpreted by 40 CFR 51.1303 inherently constrains the planning and implementation timeframe for reclassified areas, particularly for lower area classifications. The time increments between the Marginal and Moderate, and the Moderate and Serious area statutory attainment dates are only three years. These short timeframes are further constrained by the RACT implementation deadline for reclassified areas. Consistent with the RACT requirements of 40 CFR 51.1312(a)(3)(ii), the EPA proposed a RACT implementation deadline for the reclassified Las Vegas Moderate area corresponding with the beginning of the area's attainment year ozone season (
+                    <E T="03">i.e.,</E>
+                     January 1, 2023). Aligning the RACT implementation and SIP submission deadlines ensures that SIPs requiring control measures needed for attainment, including RACM, are submitted no later than when those controls are required to be implemented.
+                    <SU>25</SU>
+                    <FTREF/>
+                     The combination of constraints dictated by the statutory and regulatory requirements for reclassified ozone areas, particularly at the lower classifications, are a primary cause of the compressed timeframe for SIP development and implementation.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        âSee 87 FR 21842, 21856 (April 13, 2022).
+                    </P>
+                </FTNT>
+                <P>
+                    The EPA also notes that voluntary reclassification provides a way for states to anticipate and manage the tight timeframes for SIP development for nonattainment areas. An air agency can requestâand the EPA 
+                    <E T="03">must</E>
+                     grantâa voluntary reclassification under CAA section 181(b)(3), which resets the area's attainment date into the future, and would therefore likely provide more time and flexibility for developing and submitting required SIP revisions. Of particular benefit for states is the longer timeframe to prepare RACT analyses and adopt SIP revisions for voluntarily reclassified areas, which could result in states determining that additional controls are reasonable and in turn help expedite air quality improvements in these areas.
+                </P>
+                <P>Thus, while we recognize that Clark County DES may face difficulty in meeting the submission and implementation deadlines in this final rule, we continue to believe our proposed approach is consistent with the CAA and our regulations. As a reclassified Moderate area, Las Vegas is required to attain the 2015 ozone NAAQS by August 3, 2024, and per Congress's clear statutory instruction in CAA section 182(i), the EPA may not alter attainment deadlines for reclassified areas. Given the competing considerations outlined above and the remaining planning options available for Clark County, we maintain that the deadlines imposed by the final action are reasonable, and an appropriate exercise of the EPA's discretion under CAA section 182(i).</P>
+                <P>
+                    <E T="03">Comment:</E>
+                     Regarding the proposed January 1, 2023, RACT implementation deadline for reclassified Moderate areas, the EPA received comments from Clark County DES stating that the deadline was unreasonable, and/or the resulting compressed timeframe provided insufficient time for RACT SIP development and implementation by affected sources. The commenter contended that the RACT implementation deadline would not provide enough time for the area to adopt new measures and also allow time for the EPA to approve the measures into the SIP, making them federally enforceable before the implementation deadline. The commentor argued that it is inappropriate to ask sources to make capital investments for new control measures before the EPA approves the SIP because they could have additional requirements to meet. Finally, the commenter considered the EPA's reliance upon the Moderate area attainment date to justify the RACT SIP submission deadline as not rational because the RACT SIP requirement is independent from attainment planning.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     As discussed previously, the EPA considers the compressed planning and RACT implementation timeframe for reclassified Moderate areas to be largely dictated by the area classifications and attainment date framework established in the CAA, and the regulatory RACT implementation deadline for reclassified areasâin this case, January 1, 2023, for the reclassified Las Vegas Moderate area. The EPA recognizes that measures that states identify as âreasonably availableâ and that affected sources must implement are directly tied to the amount of time provided by the EPA in establishing a due date within the statutory and regulatory constraints discussed previously, which includes the time needed for EPA to approve these measures into the SIP. Therefore, an area may be limited to RACM and RACT measures that are already on the books or well into the state's adoption process and might not generate additional emissions reductions. However, delaying the implementation deadline 
+                    <PRTPAGE P="781"/>
+                    for RACT will not make it more likely that the area will attain by its attainment date. The deadline the EPA is finalizing is already the beginning of the last year in that any emissions reductions could influence an area's DV as of their next attainment date.
+                </P>
+                <P>Moreover, a states' obligation to adopt and implement RACT are not conditioned in any way on the EPA's action on those SIP revisions. There are no provisions of the CAA that permit states an extension of time to adopt SIP revisions or require implementation of control measures based on the timing of the EPA's action on the state's submissions. It is the state's obligation to adopt control measures and to implement those measures in order to attain the NAAQS, and the more expeditiously those controls are adopted and implemented, the likelier Las Vegas is to timely attain.</P>
+                <P>To the extent that the commenter does not think it will be possible to implement any controls beyond what has already been federally approved and recognizes that additional controls are necessary for that area to reach attainment, the area may, as discussed previously, exercise the option to request a voluntary reclassification, which the EPA must approve. The EPA cannot, under the CAA, reclassify ozone areas based on its presumption that an area will not attain or is unlikely to attain by the attainment date; but states are fully within their rights to recognize this and put themselves in a better position for longer planning and implementation timeframes.</P>
+                <P>
+                    Finally, the EPA disagrees with the commenter that it would be irrational to consider the attainment deadline when determining the proper RACT implementation deadline. The CAA and the EPA's regulations require the agency to consider the attainment date when determining the RACT implementation deadline.
+                    <SU>26</SU>
+                    <FTREF/>
+                     Moreover, although the EPA considers the requirement to adopt RACT to be generally independent of attainment planning requirements, the EPA does not take the position that the RACT implementation requirement is fully independent of all other attainment planning requirements. The purpose of generally considering the RACT implementation requirement independent of attainment planning, particularly after reclassification to a higher standard, is to ensure continued progress toward and maintenance of attainment for those areas with more difficult air quality problems.
+                    <SU>27</SU>
+                    <FTREF/>
+                     A nonattainment area is not required to submit certain attainment planning demonstrations, 
+                    <E T="03">e.g.,</E>
+                     attainment and RFP demonstrations, if the EPA finds that the area is in fact attaining the standard, with the caveat that those demonstrations will be required if the area again violates the standard.
+                    <SU>28</SU>
+                    <FTREF/>
+                     RACT implementation, however, would still be required in the event that attainment could be demonstrated.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        âSee 
+                        <E T="03">e.g.,</E>
+                         Clean Air Act 182(b)(2); 40 CFR 51.1312(a)(3)(ii).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        âSee 81 FR 58010, 58081 (August 24, 2016).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        âSee Memo from John Seitz, âReasonable Further Progress, Attainment Demonstration, and Related Requirements for Ozone Nonattainment Areas Meeting the Ozone National Ambient Air Quality Standardâ (1995).
+                    </P>
+                </FTNT>
+                <P>With respect to the Las Vegas area, in contrast, attainment has not been demonstrated and the nonattainment area will be required to submit all SIP planning requirements for Moderate nonattainment areas in addition to RACT implementation. Given this context, considering the attainment deadline when determining the optimal timeline for RACT implementation is a reasonable exercise of discretion in ensuring continued progress towards attainment.</P>
+                <P>
+                    <E T="03">Comment:</E>
+                     In the remaining comment received from Clark County DES, the commenter asked that any future guidance on development and implementation of contingency measures not be applicable to the Las Vegas Moderate SIP for the 2015 ozone standard due to the short timeframe for SIP development.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The EPA recognizes that many states are seeking guidance from the EPA on contingency measures, and as noted by the commenter, the EPA intends to release draft guidance on contingency measures for public review in the coming months. We appreciate the concerns expressed by the commenter and note that this comment is outside of the scope of this current rulemaking. Clark County DES will have an opportunity to comment on the draft guidance when it is released for public comment in the future, and the EPA is committed to continuing to support Clark County DES during the development of the Moderate area plan for Las Vegas.
+                </P>
+                <HD SOURCE="HD2">C. Final Action</HD>
+                <P>
+                    Pursuant to CAA section 181(b)(2) and after considering comments received, the EPA is finalizing its proposed determination that Las Vegas failed to attain the 2015 ozone NAAQS by the applicable attainment date of August 3, 2021. Therefore, upon the effective date of this final action, Las Vegas will be reclassified, by operation of law, as Moderate for the 2015 ozone NAAQS. Once reclassified as Moderate, Las Vegas will be required to attain the standard âas expeditiously as practicableâ but no later than 6 years after the initial designation as nonattainment, which in this case would be no later than August 3, 2024. If the area attains the 2015 ozone NAAQS prior to the Moderate area attainment date, NDEP may request redesignation to attainment, provided the state can demonstrate at a minimum that the other criteria under CAA section 107(d)(3)(E) are met.
+                    <SU>29</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>29</SU>
+                        âMore information about redesignation is available at 
+                        <E T="03">https://www.epa.gov/ground-level-ozone-pollution/redesignation-and-clean-data-policy-cdp.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Pursuant to CAA section 182(i) and after considering comments received, the EPA is finalizing its proposed deadlines for the Las Vegas Moderate area SIP revisions and implementation of RACM/RACT for the 2015 ozone NAAQS. SIP revisions required for the newly reclassified Las Vegas Moderate area, including the I/M SIP revision, must be submitted no later than January 1, 2023, and RACM/RACT for these areas must be implemented as expeditiously as practicable, but no later than the same date.
+                    <SU>30</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>30</SU>
+                        âIn addition to EPA Region 9's technical assistance, the EPA's Office of Transportation and Air Quality recently provided new guidance for performance standard modeling that is required for I/M SIPs for the 2015 ozone NAAQS. See EPA's I/M website for additional information at 
+                        <E T="03">www.epa.gov/state-and-local-transportation/vehicle-emissions-inspection-and-maintenance-im.</E>
+                    </P>
+                </FTNT>
+                <P>For any revisions to the current I/M program that may be necessary, the EPA is finalizing an implementation deadline of no later than 4 years after the effective date of reclassification if the state does not intend to rely upon emissions reductions from a revised Basic I/M program in the Moderate area attainment or RFP demonstrations. The EPA received no comments on the implementation deadline for the Basic I/M program in Las Vegas.</P>
+                <HD SOURCE="HD1">III. Good Cause Exemption Under the Administrative Procedure Act (APA) for Immediate Effective Date</HD>
+                <P>
+                    Under APA section 553(d)(3), 5 U.S.C. 553(d)(3), an agency may make a rule immediately effective âfor good cause found and published with the rule.â The EPA believes that there is âgood causeâ to make this rule effective upon publication in the 
+                    <E T="04">Federal Register</E>
+                     to avoid any additional delay in development and implementation of the SIP requirements under 182(b), given the closeness to the beginning of the 2023 ozone season and the proximity of EPA's final action to the submission and implementation deadlines described in this rule. While EPA acknowledges and 
+                    <PRTPAGE P="782"/>
+                    addresses comments related to the compressed timeline associated with this action elsewhere in this notice, the agency believes that establishing an effective date of this action simultaneous with the date of publication will reconcile the competing statutory interests by minimizing a potentially impractical outcome in which the area might otherwise be subject to Moderate nonattainment area statutory and regulatory deadlines that would already have passed prior to the normal 30 days post-publication effective date.
+                </P>
+                <P>As described above, when 2020 monitoring data became available showing that the Las Vegas area may not have attained the 2015 ozone NAAQS, nor be eligible for a one-year extension, Clark County DES had every reason to anticipate and prepare for reclassification. In addition, EPA notified Clark County DES in April 2022 that it did not agree with the area's exceptional events demonstrations, published its proposed rule for this reclassification on July 22, 2022, and is providing direct notice to the state and county of this final action simultaneous with signature of this rule. Accordingly, the EPA finds that the preparation time actually available to the state and the need to reconcile the statutory interest in reclassification with the deadlines for submission of Moderate area SIP revisions and compliance with RACT implementation requirements, constitute good cause under 5 U.S.C. 553(d)(3) to make this final action effective upon publication.</P>
+                <HD SOURCE="HD1">IV. Statutory and Executive Order Reviews</HD>
+                <HD SOURCE="HD2">A. Executive Order 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</HD>
+                <P>This action is exempt from review by the Office of Management and Budget (OMB) because it responds to the CAA requirement to determine whether areas designated nonattainment for an ozone NAAQS attained the standard by the applicable attainment date, and to take certain steps for areas that failed to attain.</P>
+                <HD SOURCE="HD2">B. Paperwork Reduction Act (PRA)</HD>
+                <P>This rule does not impose any new information collection burden under the PRA not already approved by the Office of Management and Budget. This action does not contain any information collection activities and serves only to make final: (1) determinations that the Las Vegas Marginal nonattainment area failed to attain the 2015 ozone standards by the August 3, 2021, attainment date where such areas will be reclassified as Moderate nonattainment for the 2015 ozone standards by operation of law upon the effective date of the final reclassification action; and (2) adjust any applicable implementation deadlines.</P>
+                <HD SOURCE="HD2">C. Regulatory Flexibility Act (RFA)</HD>
+                <P>I certify that this action will not have a significant economic impact on a substantial number of small entities under the RFA. This action will not impose any requirements on small entities. The determination of failure to attain the 2015 ozone standards (and resulting reclassifications), do not in and of themselves create any new requirements beyond what is mandated by the CAA. This final action would require the state to adopt and submit SIP revisions to satisfy CAA requirements and would not itself directly regulate any small entities.</P>
+                <HD SOURCE="HD2">D. Unfunded Mandates Reform Act (UMRA)</HD>
+                <P>This action does not contain any unfunded mandate as described in UMRA, 2 U.S.C. 1531-1538 and does not significantly or uniquely affect small governments. The action imposes no enforceable duty on any state, local or tribal governments or the private sector.</P>
+                <HD SOURCE="HD2">E. Executive Order 13132: Federalism</HD>
+                <P>This action does not have federalism implications. It will not have substantial direct effects on the states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among the various levels of government. The division of responsibility between the federal government and the states for purposes of implementing the NAAQS is established under the CAA.</P>
+                <HD SOURCE="HD2">F. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</HD>
+                <P>
+                    The Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony have areas of Indian country located within the Las Vegas Valley nonattainment area for the 2015 ozone NAAQS. The EPA has concluded that this final rule may have implications for this tribe for the purposes of Executive Order 13175 but would not impose substantial direct costs upon the tribes, nor would it preempt tribal law. A tribe that is part of an area that is reclassified from Marginal to Moderate nonattainment is not required to submit a tribal implementation plan revision to address new Moderate area requirements.
+                    <SU>31</SU>
+                    <FTREF/>
+                     However, the NNSR major source threshold and offset requirements will change for stationary sources seeking preconstruction permits in any nonattainment areas newly reclassified as Moderate (Section II.D.1 of the proposed rule), including on tribal lands within these nonattainment areas.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>31</SU>
+                        âSee 87 FR 21842, 21846 (April 13, 2022).
+                    </P>
+                </FTNT>
+                <P>Given the potential implications, the EPA contacted tribal officials early in the process of developing our proposed rule to provide an opportunity to have meaningful and timely input into its development. In a letter dated July 16, 2021, the EPA invited the Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony to consult on our evaluation and determination of whether the Las Vegas nonattainment area attained or failed to attain by its Marginal area attainment date and notified the Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony of the proposed action. The tribe did not comment or request consultation.</P>
+                <HD SOURCE="HD2">G. Executive Order 13045: Protection of Children From Environmental Health and Safety Risks</HD>
+                <P>The EPA interprets Executive Order 13045 as applying to those regulatory actions that concern environmental health or safety risks that the EPA has reason to believe may disproportionately affect children, per the definition of âcovered regulatory actionâ in section 2-202 of the Executive Order. This action is not subject to Executive Order 13045 because it does not establish an environmental standard intended to mitigate health or safety risks.</P>
+                <HD SOURCE="HD2">H. Executive Order 13211: Actions That Significantly Affect Energy Supply, Distribution, or Use</HD>
+                <P>This action is not subject to Executive Order 13211 because it is not a significant regulatory action under Executive Order 12866.</P>
+                <HD SOURCE="HD2">I. National Technology Transfer and Advancement Act (NTTAA)</HD>
+                <P>This rulemaking does not involve technical standards.</P>
+                <HD SOURCE="HD2">J. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</HD>
+                <P>
+                    Executive Order 12898 establishes federal executive policy on environmental justice. Its main provision directs federal agencies, to the greatest extent practicable and permitted by law, to make 
+                    <PRTPAGE P="783"/>
+                    environmental justice part of their mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of their programs, policies, and activities on minority populations and low-income populations in the United States. There is no information in the record indicating that this action would be inconsistent with the stated goals of Executive Order 12898 of achieving environmental justice for people of color, low-income populations, and indigenous peoples.
+                </P>
+                <HD SOURCE="HD2">K. Congressional Review Act (CRA)</HD>
+                <P>This rule is exempt from the CRA because it is a rule of particular applicability. The rule makes factual determinations for specific entities and does not directly regulate any entities. The determination of failure to attain the 2015 ozone NAAQS (and resulting reclassification), do not in themselves create any new requirements beyond what is mandated by the CAA.</P>
+                <HD SOURCE="HD2">L. Judicial Review</HD>
+                <P>Under section 307(b)(1) of the Clean Air Act, petitions for judicial review of this action must be filed in the United States Court of Appeals for the appropriate circuit by March 6, 2023. Filing a petition for reconsideration by the Administrator of this final rule does not affect the finality of this action for the purposes of judicial review nor does it extend the time within which a petition for judicial review may be filed, and shall not postpone the effectiveness of such rule or action. This action may not be challenged later in proceedings to enforce its requirements. (See section 307(b)(2).)</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 40 CFR Part 81</HD>
+                    <P>Environmental protection, Administrative practice and procedure, Air pollution control, Designations and classifications, Intergovernmental relations, Nitrogen oxides, Ozone, Reporting and recordkeeping requirements, and Volatile organic compounds.</P>
+                </LSTSUB>
+                <SIG>
+                    <DATED>Dated: December 22, 2022.</DATED>
+                    <NAME>Martha Guzman Aceves,</NAME>
+                    <TITLE>Regional Administrator, Region IX.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, part 81, title 40, chapter 1 of the Code of Federal Regulations are amended as follows:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 81âDESIGNATION OF AREAS FOR AIR QUALITY PLANNING PURPOSES</HD>
+                </PART>
+                <REGTEXT TITLE="40" PART="81">
+                    <AMDPAR>1. The authority citation for part 81 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                             42 U.S.C. 7401, 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart CâSection 107 Attainment Status Designations</HD>
+                </SUBPART>
+                <REGTEXT TITLE="40" PART="81">
+                    <AMDPAR>2. Section 81.329 is amended in the table for âNevadaâ2015 8-Hour Ozone NAAQS [Primary and Secondary]â by revising the entry for âLas Vegas, NVâ to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â81.329 </SECTNO>
+                        <SUBJECT>Nevada.</SUBJECT>
+                        <STARS/>
+                        <GPOTABLE COLS="5" OPTS="L1,i1" CDEF="s100,xs70,xs70,xs70,xs70">
+                            <TTITLE>Nevadaâ2015 8-Hour Ozone NAAQS</TTITLE>
+                            <TDESC>[Primary and Secondary]</TDESC>
+                            <BOXHD>
+                                <CHED H="1">
+                                    Designated areaâ
+                                    <SU>1</SU>
+                                </CHED>
+                                <CHED H="1">Designation</CHED>
+                                <CHED H="2">
+                                    Dateâ
+                                    <SU>2</SU>
+                                </CHED>
+                                <CHED H="2">Type</CHED>
+                                <CHED H="1">Classification</CHED>
+                                <CHED H="2">
+                                    Dateâ
+                                    <SU>2</SU>
+                                </CHED>
+                                <CHED H="2">Type</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="01">Las Vegas, NV</ENT>
+                                <ENT/>
+                                <ENT>Nonattainment</ENT>
+                                <ENT>January 5, 2023</ENT>
+                                <ENT>Moderate.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="03" O="xl">Clark County (part)</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="03" O="xl">
+                                    That portion of Clark County that lies in hydrographic area 212.
+                                    <SU>3</SU>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="03" O="xl">Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <TNOTE>
+                                <SU>1</SU>
+                                âIncludes any Indian country in each county or area, unless otherwise specified. EPA is not determining the boundaries of any area of Indian country in this table, including any area of Indian country located in the larger designation area. The inclusion of any Indian country in the designation area is not a determination that the state has regulatory authority under the Clean Air Act for such Indian country.
+                            </TNOTE>
+                            <TNOTE>
+                                <SU>2</SU>
+                                âThis date is August 3, 2018, unless otherwise noted.
+                            </TNOTE>
+                            <TNOTE>
+                                <SU>3</SU>
+                                âHydrographic areas are shown on the State of Nevada Division of Water Resources' map titled Water Resources and Inter-basin Flows (September 1971).
+                            </TNOTE>
+                        </GPOTABLE>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2022-28319 Filed 1-3-23; 4:15 pm]</FRDOC>
+            <BILCOD>BILLING CODE 6560-50-P</BILCOD>
+        </RULE>

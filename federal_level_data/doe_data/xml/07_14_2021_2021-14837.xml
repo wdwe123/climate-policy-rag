@@ -1,0 +1,1483 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="37001"/>
+                <AGENCY TYPE="S">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 431</CFR>
+                <DEPDOC>[EERE-2017-BT-STD-0032]</DEPDOC>
+                <RIN>RIN 1904-AE07</RIN>
+                <SUBJECT>Energy Conservation Program: Energy Conservation Standards for Evaporatively-Cooled Commercial Package Air Conditioners and Water-Cooled Commercial Package Air Conditioners</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final determination.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Energy Policy and Conservation Act (âEPCAâ), as amended, prescribes energy conservation standards for various consumer products and certain commercial and industrial equipment, including evaporatively-cooled commercial package air conditioners and water-cooled commercial package air conditioners (referred to as evaporatively-cooled commercial unitary air conditioners (âECUACsâ) and water-cooled commercial unitary air conditioners (âWCUACsâ) in this document). EPCA also requires the U.S. Department of Energy (âDOEâ) to periodically determine whether more stringent, amended standards would result in significant additional conservation of energy, be technologically feasible, and be economically justified. In this final determination, DOE has determined that more stringent standards for small (cooling capacity less than 135,000 Btu/h), large (cooling capacity greater than or equal to 135,000 and less than 240,000 Btu/h), and very large (cooling capacity greater than or equal to 240,000 and less than 760,000 Btu/h) ECUACs and WCUACs would not result in significant additional conservation of energy, and thus has determined that the standards for ECUACs and WCUACs do not need to be amended.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The effective date of this final determination is July 14, 2021.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">https://www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">https://www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                    <P>
+                        The docket web page can be found at 
+                        <E T="03">https://www.regulations.gov/docket?D=EERE-2017-BT-STD-0032.</E>
+                         The docket web page contains instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                    <P>
+                        For further information on how to review the docket, contact the Appliance and Equipment Standards Program staff at (202) 287-1445 or by email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Ms. Catherine Rivest, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW., Washington, DC, 20585-0121. Telephone: (202) 586-7335. Email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                    <P>
+                        Ms. Linda Field, U.S. Department of Energy, Office of the General Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: (202) 586-3440. Email: 
+                        <E T="03">Linda.Field@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <EXTRACT>
+                    <HD SOURCE="HD1">Table of Contents</HD>
+                    <FP SOURCE="FP-2">I. Synopsis of the Final Determination</FP>
+                    <FP SOURCE="FP-2">II. Introduction</FP>
+                    <FP SOURCE="FP1-2">A. Authority</FP>
+                    <FP SOURCE="FP1-2">B. Background</FP>
+                    <FP SOURCE="FP1-2">1. Current Standards</FP>
+                    <FP SOURCE="FP1-2">2. Rulemaking History</FP>
+                    <FP SOURCE="FP-2">III. Discussion and Rationale</FP>
+                    <FP SOURCE="FP1-2">A. General Comments</FP>
+                    <FP SOURCE="FP1-2">B. Energy Efficiency Metric</FP>
+                    <FP SOURCE="FP1-2">C. Market Analysis</FP>
+                    <FP SOURCE="FP1-2">1. Shipments Estimates</FP>
+                    <FP SOURCE="FP1-2">2. Model Counts</FP>
+                    <FP SOURCE="FP1-2">3. Current Market Efficiency Distributions</FP>
+                    <FP SOURCE="FP-2">IV. Final Determination</FP>
+                    <FP SOURCE="FP-2">V. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Orders 12866 and 13563</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">J. Review Under the Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Information Quality</FP>
+                    <FP SOURCE="FP-2">VI. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Synopsis of the Final Determination</HD>
+                <P>
+                    Title III, Part Câ
+                    <SU>1</SU>
+                    <FTREF/>
+                     of EPCAâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     established the Energy Conservation Program for Certain Industrial Equipment, (42 U.S.C. 6311-6317, as codified). This equipment includes ECUACs and WCUACs, the subject of this final determination.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âFor editorial reasons, upon codification in the U.S. Code, Part C was re-designated Part A-1.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âAll references to EPCA in this document refer to the statute as amended through the Consolidated Appropriations Act, 2021, Public Law 116-260 (Dec. 27, 2020).
+                    </P>
+                </FTNT>
+                <P>DOE is issuing this final determination pursuant to the EPCA requirement that not later than 6 years after issuance of any final rule establishing or amending an energy conservation standard for covered equipment, DOE must publish either a notice of determination that standards for the equipment do not need to be amended, or a notice of proposed rulemaking (âNOPRâ) including new proposed energy conservation standards (proceeding to a final rule, as appropriate). (42 U.S.C. 6316(a)(6)(C)(i))</P>
+                <P>
+                    For this final determination, DOE analyzed the ECUACs and WCUACs subject to the standards found at title 10 of the Code of Federal Regulations (âCFRâ) part 431. 
+                    <E T="03">See</E>
+                     10 CFR 431.97. DOE first analyzed the potential for energy savings of more efficient ECUACs and WCUACs. Based on this analysis, as summarized in section IV of this document, DOE has determined that there is not clear and convincing evidence that amended standards would result in significant additional conservation of energy. (42 U.S.C. 6313(a)(6)(A)(ii)) Therefore, DOE has determined that the current standards 
+                    <PRTPAGE P="37002"/>
+                    for ECUACs and WCUACs do not need to be amended.
+                </P>
+                <HD SOURCE="HD1">II. Introduction</HD>
+                <P>The following section briefly discusses the statutory authority underlying this final determination, as well as some of the relevant historical background related to the establishment of standards for ECUACs and WCUACs.</P>
+                <HD SOURCE="HD2">A. Authority</HD>
+                <P>EPCA authorizes DOE to regulate the energy efficiency of a number of consumer products and certain industrial equipment. Title III, Part C of EPCA, added by Public Law 95-619, Title IV, 441(a) (42 U.S.C. 6311-6317, as codified), established the Energy Conservation Program for Certain Industrial Equipment, which sets forth a variety of provisions designed to improve energy efficiency. This includes the ECUACs and WCUACs that are the subject of this final determination. (42 U.S.C. 6311(1)(B)-(D))</P>
+                <P>The energy conservation program under EPCA consists essentially of four parts: (1) Testing, (2) labeling, (3) the establishment of Federal energy conservation standards, and (4) certification and enforcement procedures. Relevant provisions of EPCA specifically include definitions (42 U.S.C. 6311), energy conservation standards (42 U.S.C. 6313), test procedures (42 U.S.C. 6314), labeling provisions (42 U.S.C. 6315), and the authority to require information and reports from manufacturers (42 U.S.C. 6316).</P>
+                <P>Federal energy conservation requirements for covered equipment established under EPCA generally supersede state laws and regulations concerning energy conservation testing, labeling, and standards. (42 U.S.C. 6316(a) and (b); 42 U.S.C. 6297) DOE may, however, grant waivers of Federal preemption in limited instances for particular state laws or regulations, in accordance with the procedures and other provisions set forth under EPCA. (See 42 U.S.C. 6316(b)(2)(D) applying the preemption waiver provisions of 42 U.S.C. 6297).</P>
+                <P>
+                    EPCA contains mandatory energy conservation standards for commercial heating, air-conditioning, and water-heating equipment. (42 U.S.C. 6313(a)) Specifically, the statute sets standards for small, large, and very large commercial package air conditioning and heating equipment, packaged terminal air conditioners (âPTACsâ) and packaged terminal heat pumps (âPTHPsâ), warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks. (
+                    <E T="03">Id.</E>
+                    ) In doing so, EPCA established Federal energy conservation standards that generally correspond to the levels in American Society of Heating, Refrigerating, and Air-Conditioning Engineers (âASHRAEâ) Standard 90.1, âEnergy Standard for Buildings Except Low-Rise Residential Buildings,â in effect on October 24, 1992 (
+                    <E T="03">i.e.,</E>
+                     ASHRAE Standard 90.1-1989). ECUACs and WCUACs are covered under EPCA's definition of commercial package air conditioning and heating equipment. (42 U.S.C. 6311(8)) EPCA established initial standards for ECUACs and WCUACs with cooling capacity less than 240,000 Btu/h. (42 U.S.C. 6313(a))
+                </P>
+                <P>
+                    If ASHRAE Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard for certain commercial equipment, including ECUACs and WCUACs, not later than 180 days after the amendment of the standard, DOE must publish in the 
+                    <E T="04">Federal Register</E>
+                     for public comment an analysis of the energy savings potential of amended energy efficiency standards. (42 U.S.C. 6313(a)(6)(A)(i)) Within certain exceptions, DOE must adopt amended energy conservation standards at the new efficiency level in ASHRAE Standard 90.1, unless DOE determines that there is clear and convincing evidence to support a determination that the adoption of a more stringent efficiency level as a uniform national standard would produce significant additional energy savings and be technologically feasible and economically justified. (42 U.S.C. 6313(a)(6)(A)(ii))
+                </P>
+                <P>To determine whether a standard is economically justified, EPCA requires that DOE determine whether the benefits of the standard exceed its burdens by considering, to the greatest extent practicable, the following seven factors:</P>
+                <P>(1) The economic impact of the standard on the manufacturers and consumers of the affected products;</P>
+                <P>(2) The savings in operating costs throughout the estimated average life of the product compared to any increases in the initial cost, or maintenance expenses;</P>
+                <P>(3) The total projected amount of energy and water (if applicable) savings likely to result directly from the standard;</P>
+                <P>(4) Any lessening of the utility or the performance of the products likely to result from the standard;</P>
+                <P>(5) The impact of any lessening of competition, as determined in writing by the Attorney General, that is likely to result from the standard;</P>
+                <P>(6) The need for national energy and water conservation; and</P>
+                <P>(7) Other factors the Secretary of Energy (âSecretaryâ) considers relevant.</P>
+                <P>(42 U.S.C. 6313(a)(6)(B)(ii)(I)-(VII))</P>
+                <P>If DOE decides to adopt, as a uniform national standard, the efficiency levels specified in the amended ASHRAE Standard 90.1, DOE must establish such standard not later than 18 months after publication of the amended industry standard. (42 U.S.C. 6313(a)(6)(A)(ii)(I)) However, if DOE determines, supported by clear and convincing evidence, that a more stringent uniform national standard would result in significant additional conservation of energy and is technologically feasible and economically justified, then DOE must establish the more stringent standard not later than 30 months after publication of the amended ASHRAE Standard 90.1. (42 U.S.C. 6313(a)(6)(A)(ii)(II) and (B)(i))</P>
+                <P>
+                    EPCA also requires that every six years DOE evaluate the energy conservation standards for certain commercial equipment, including ECUACs and WCUACs, and publish either a notice of determination that the standards do not need to be amended, or a NOPR that includes new proposed energy conservation standards (proceeding to a final rule, as appropriate). (42 U.S.C. 6313(a)(6)(C)(i)) EPCA further provides that, not later than three years after the issuance of a final determination to not amend standards, DOE must publish either a notice of determination that standards for the product do not need to be amended, or a NOPR including new proposed energy conservation standards (proceeding to a final rule, as appropriate). (42 U.S.C. 6313(a)(6)(C)(iii)(II)) DOE must make the analysis on which the determination is based publicly available and provide an opportunity for written comment. (42 U.S.C. 6313(a)(6)(C)(ii)) Further, a determination that more stringent standards would (1) result in significant additional conservation of energy, (2) be technologically feasible and (3) economically justified must be supported by clear and convincing evidence. (42 U.S.C. 6313(a)(6)(C)(i); 42 U.S.C. 6313(a)(6)(A).) A determination that amended energy conservation standards are not needed must be based on the same considerations as if it were adopting a standard that is more stringent than an amendment to ASHRAE Standard 90.1. (42 U.S.C. 6313(a)(6)(C)(i)(I); 42 U.S.C. 6313(a)(6)(B))
+                    <PRTPAGE P="37003"/>
+                </P>
+                <P>DOE is publishing this final determination pursuant to the six-year review required by EPCA, having determined that amended standards for ECUACs and WCUACs would not result in significant additional conservation of energy, be technologically feasible, and be economically justified.</P>
+                <HD SOURCE="HD2">B. Background</HD>
+                <HD SOURCE="HD3">1. Current Standards</HD>
+                <P>The current energy conservation standards for ECUACs and WCUACs are located in Table 1 of 10 CFR 431.97. These standards and their compliance dates are presented in Table II.1 of this document. The current efficiency metric used for ECUACs and WCUACs is the energy efficiency ratio (âEERâ).</P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,r50,r50,12,xs80">
+                    <TTITLE>Table II.1âFederal Energy Conservation Standards for Water-Cooled and Evaporatively-Cooled Commercial Package Air-Conditioning and Heating Equipment</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Equipment type</CHED>
+                        <CHED H="1">Cooling capacity (Btu/h)</CHED>
+                        <CHED H="1">Heating type</CHED>
+                        <CHED H="1">Minimum EER</CHED>
+                        <CHED H="1">Compliance date</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Small Water-Cooled</ENT>
+                        <ENT>&lt;65,000</ENT>
+                        <ENT>All</ENT>
+                        <ENT>12.1</ENT>
+                        <ENT>October 29, 2003.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Small Water-Cooled</ENT>
+                        <ENT>â¥65,000 and &lt;135,000</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>12.1</ENT>
+                        <ENT>June 1, 2013.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>11.9</ENT>
+                        <ENT>June 1, 2013.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Large Water-Cooled</ENT>
+                        <ENT>â¥135,000 and &lt;240,000</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>12.5</ENT>
+                        <ENT>June 1, 2014.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>12.3</ENT>
+                        <ENT>June 1, 2014.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Very Large Water-Cooled</ENT>
+                        <ENT>â¥240,000 and &lt;760,000</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>12.4</ENT>
+                        <ENT>June 1, 2014.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>12.2</ENT>
+                        <ENT>June 1, 2014.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Small Evaporatively-Cooled</ENT>
+                        <ENT>&lt;65,000</ENT>
+                        <ENT>All</ENT>
+                        <ENT>12.1</ENT>
+                        <ENT>October 29, 2003.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Small Evaporatively-Cooled</ENT>
+                        <ENT>â¥65,000 and &lt;135,000</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>12.1</ENT>
+                        <ENT>June 1, 2013.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>11.9</ENT>
+                        <ENT>June 1, 2013.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Large Evaporatively-Cooled</ENT>
+                        <ENT>â¥135,000 and &lt;240,000</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>12.0</ENT>
+                        <ENT>June 1, 2014.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>11.8</ENT>
+                        <ENT>June 1, 2014.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Very Large Evaporatively-Cooled</ENT>
+                        <ENT>â¥240,000 and &lt;760,000</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>11.9</ENT>
+                        <ENT>June 1, 2014.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>11.7</ENT>
+                        <ENT>June 1, 2014.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD3">2. Rulemaking History</HD>
+                <P>
+                    On October 29, 2010, ASHRAE updated ASHRAE Standard 90.1 with respect to small, large, and very large commercial package air conditioning and heating equipment (
+                    <E T="03">i.e.,</E>
+                     ASHRAE 90.1-2010). With regard to ECUACs and WCUACs, ASHRAE 90.1-2010 updated efficiency levels for certain small (
+                    <E T="03">i.e.,</E>
+                     cooling capacity greater than or equal to 65,000 Btu/h and less than 135,000 Btu/h), large, and very large ECUACs and WCUACs. ASHRAE 90.1-2010 also updated its referenced test procedures for this equipment. ASHRAE 90.1-2010 did not amend the efficiency levels for certain small (
+                    <E T="03">i.e.,</E>
+                     cooling capacity less than 65,000 Btu/h) WCUACs and ECUACs but did amend the test procedure for this equipment.
+                </P>
+                <P>
+                    In a final rule published May 16, 2012, DOE amended the standards for ECUACs and WCUACs by adopting EER levels for this equipment established in ASHRAE 90.1-2010. 77 FR 28928 (âMay 2012 final ruleâ). For certain small (
+                    <E T="03">i.e.,</E>
+                     cooling capacity greater than or equal to 65,000 Btu/h and less than 135,000 Btu/h), large, and very large WCUACs and ECUACs, DOE estimated the energy savings potential of standards at the max-techâ
+                    <SU>3</SU>
+                    <FTREF/>
+                     efficiency levels over those efficiency levels in ASHRAE 90.1-2010 (
+                    <E T="03">i.e.,</E>
+                     energy savings estimates for max-tech levels do not include the energy savings from increasing the Federal standard at the time to the level found in ASHRAE 90.1-2010). 76 FR 25622, 25644-25646 (May 5, 2011). Based on an analysis of two different shipment scenarios (shipments based on historical trends and constant shipments fixed to 2009 shipment levels), DOE estimated that efficiency standards at the max-tech level would result in additional energy savings of between 0.0061 to 0.0102 quads primary energy savings for the six classes of small, large, and very large WCUACs analyzed (76 FR 25622, 25644-25645), representing approximately 4.9 percent to 5.5 percent of estimated WCUAC energy use during the analysis period. DOE estimated that efficiency standards at the max-tech level would result in additional energy savings of between 0.0013 to 0.0021 quads primary energy for the two classes of very large ECUACs analyzed (76 FR 25622, 25646), representing approximately 3.7 percent to 3.9 percent of estimated ECUAC energy use during the analysis period. DOE did not examine certain small WCUACs and ECUACs (
+                    <E T="03">i.e.,</E>
+                     equipment less than 65,000 Btu/h cooling capacity) because the levels in ASHRAE 90.1-2010 for such equipment were not amended. 76 FR 25622, 25631. Additionally, DOE did not assess potential energy savings for ECUACs with cooling capacity greater than or equal to 65,000 Btu/h but less than 240,000 Btu/h because it did not find any equipment in this capacity range in the U.S. market. 
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âThe max-tech level represented the highest efficiency level of equipment available on the market at the time of the analysis.
+                    </P>
+                </FTNT>
+                <P>
+                    Based on its analysis and the review of the market, DOE determined that it did not have âclear and convincing evidenceâ that significant additional conservation of energy would result from adoption of more stringent standard levels than those in ASHRAE 90.1-2010 for ECUACs and WCUACs. 77 FR 28928, 28979. DOE did not conduct an economic analysis of standards more stringent than the ASHRAE 90.1-2010 levels for ECUACs and WCUACs because of the conclusion that more stringent standards would result in minimal energy savings. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    Since ASHRAE 90.1-2010 was published, ASHRAE 90.1 has undergone three revisions. On October 9, 2013, ASHRAE published ASHRAE 90.1-2013; on October 26, 2016, ASHRAE published ASHRAE 90.1-2016; and on October 24, 2019, ASHRAE published ASHRAE 90.1-2019. In none of these 
+                    <PRTPAGE P="37004"/>
+                    publications did ASHRAE amend minimum EER levels for small, large, and very large WCUACs or ECUACs; therefore, DOE was not prompted to examine amended standards for this equipment under 42 U.S.C. 6313(a)(6)(A). As a result, the current federal standards for ECUACs and WCUACs are those set forth in the May 2012 final rule and codified in Table 1 of 10 CFR 431.97.
+                </P>
+                <P>On July 29, 2019, DOE published a request for information (âRFIâ) to solicit information and data from interested parties to consider amendments to the DOE energy conservation standards for ECUACs and WCUACs. 84 FR 36480 (âJuly 2019 ECS RFIâ).</P>
+                <P>
+                    On September 15, 2020 DOE published a notice of proposed determination (âNOPDâ) with the tentative determination that energy conservation standards for ECUACs and WCUACs do not need to be amended (âSeptember 2020 NOPDâ). 85 FR 57149. The comment period for this notice closed on November 30, 2020. On October 1, 2020, DOE held a public webinarâ
+                    <SU>4</SU>
+                    <FTREF/>
+                     to discuss the analysis and results from the September 2020 NOPD.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                         The public webinar presentation and transcript can both be found at 
+                        <E T="03">http://www.regulations.gov</E>
+                         under docket number EERE-2017-BT-STD-0032.
+                    </P>
+                </FTNT>
+                <P>DOE received several comments from interested parties in response to the publication of the September 2020 NOPD. Table II.2 lists the commenters, their abbreviated names used throughout this final determination, and organization type. Discussion of the relevant comments provided by these organizations and DOE's responses are provided in the appropriate sections of this document.</P>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s100,xs64,xs84">
+                    <TTITLE>Table II.2âInterested Parties That Provided Written and Oral Comments Regarding the September 2020 NOPD</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Name</CHED>
+                        <CHED H="1">Abbreviation</CHED>
+                        <CHED H="1">Commenter type</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">United CoolAir</ENT>
+                        <ENT>UCA</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Institute for Policy Integrity at NYU School of Law</ENT>
+                        <ENT>IPI</ENT>
+                        <ENT>Academic Institution.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">California Investor Owned Utilities (Pacific Gas and Electric Company, San Diego Gas and Electric, and California Edison)</ENT>
+                        <ENT>CA IOUs</ENT>
+                        <ENT>Utilities.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Trane Technologies</ENT>
+                        <ENT>Trane</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Daikin</ENT>
+                        <ENT>Daikin</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    A parenthetical reference at the end of a comment, quotation or paraphrase provides the location of the item in the public record.
+                    <SU>5</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âThe parenthetical reference provides a reference for information located in the docket for this determination. (Docket No. EERE-2017-BT-STD-0032, which is maintained at 
+                        <E T="03">https://www.regulations.gov/docket?D=EERE-2017-BT-STD-0032</E>
+                        ). The references are arranged as follows: (Commenter name, comment docket ID number, page of that document).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">III. Discussion and Rationale</HD>
+                <P>DOE developed the conclusions in this notice after considering oral and written comments, data, and information from interested parties that represent a variety of interests. This section addresses the analyses DOE performed for this final determination regarding ECUACs and WCUACs. Separate subsections address each component of DOE's analyses and responses to relevant comments received regarding the September 2020 NOPD.</P>
+                <HD SOURCE="HD2">A. General Comments</HD>
+                <P>In response to the September 2020 NOPD, DOE received several general comments. CA IOUs supported DOE's initial determination to maintain the current standards, stating that the market for this equipment is extremely small. (CA IOUs, No. 13 at p. 2) UCA stated that if DOE is correct in its assumed decline of shipments, then there is no need for an increase in efficiency at this time. (UCA, No. 11 at p. 1)</P>
+                <P>As discussed below, DOE has determined that it lacks clear and convincing evidence that amended standards for ECUACs and WCUACs would result in significant additional energy savings and be technologically feasible and economically justified.</P>
+                <P>
+                    DOE received comments from UCA and CA IOUs regarding the test procedures for ECUACs and WCUACs. (UCA, No. 11 at p. 1; CA IOUs, No. 13 at p. 2) UCA stated that several third party test facilities are limited in the physical size and capacity limits they can test; therefore, they stated that certain UCA models cannot be tested at these facilities. (UCA, No. 11 at p. 1) CA IOUs encouraged DOE to expedite work on an updated test standard for all CUACs. (CA IOUs, No. 13 at p. 2) Specifically, CA IOUs commented that the Appliance Standards and Rulemaking Federal Advisory Committee (âASRACâ), Commercial Package Air Conditioners and Commercial Warm Air Furnaces Working Group unanimously agreed that a new test procedure for CUACs, which should include a more representative evaluation of indoor fan power consumption, should be completed no later than January 1, 2019. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    The September 2020 NOPD sought comment on DOE's determination of whether the energy conservation standards for ECUACs and WCUACs should be amended. Consideration of amendments to the test procedures are not within the scope of this determination. DOE will consider comments received regarding ECUAC and WCUAC test procedures in the ongoing evaluation of the CUAC test procedure. 
+                    <E T="03">See</E>
+                     82 FR 34427 (July 25, 2017).
+                </P>
+                <HD SOURCE="HD2">B. Energy Efficiency Metric</HD>
+                <P>The current energy efficiency descriptor for the ECUAC and WCUAC Federal standards is EER. 10 CFR 431.97. ASHRAE 90.1 has specified both EER and integrated energy efficiency ratio (âIEERâ) minimum efficiency levels since 2010.</P>
+                <P>
+                    The EER metric represents the efficiency of the equipment operating at full load. The IEER metric factors in the efficiency of operating at part loads of 75 percent, 50 percent, and 25 percent of capacity as well as the efficiency at full load by weighting the full- and part-load efficiencies based on the average amount of time operating at each load point. Additionally, IEER incorporates reduced condenser temperatures (
+                    <E T="03">i.e.,</E>
+                     reduced entering water temperature for WCUACs and reduced outdoor air dry-bulb and wet-bulb temperatures for ECUACs) to reflect the representative ambient conditions for part-load operation in the field. Table III.1 shows the IEER test conditions for ECUACs and WCUACs specified in AHRI Standard 340/360-2019, âPerformance Rating of Commercial and Industrial Unitary Air-conditioning and Heat 
+                    <PRTPAGE P="37005"/>
+                    Pump Equipmentâ (âAHRI 340/360-2019â).
+                    <SU>6</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âAHRI 340/360-2019 is the industry test procedure referenced in ASHRAE 90.1-2019 for testing CUACs with cooling capacity greater than or equal to 65,000 Btu/h.
+                    </P>
+                    <P>
+                        <SU>7</SU>
+                        âUCA pointed out a typographical error in Table III.6 in the September 2020 NOPD (
+                        <E T="03">see</E>
+                         85 FR 57149, 57159), in which the entering air dry-bulb temperature should be a test condition for ECUACs and not WCUACs. (UCA, No. 11 at p. 1) This has been corrected in Table III.1 of this final determination.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,r50,r50,r50,r50">
+                    <TTITLE>Table III.1 IEER Test Conditions for Water-cooled and Evaporatively-Cooled Air Conditioners From AHRI 340/360-2019</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Percent load</CHED>
+                        <CHED H="1">Water-cooled</CHED>
+                        <CHED H="2">
+                            Entering water 
+                            <LI>temperature (Â°F)</LI>
+                        </CHED>
+                        <CHED H="1">Evaporatively-cooled</CHED>
+                        <CHED H="2">
+                            Entering air dry-bulb 
+                            <LI>
+                                temperatureâ
+                                <SU>7</SU>
+                                 (Â°F)
+                            </LI>
+                        </CHED>
+                        <CHED H="2">
+                            Entering air wet-bulb 
+                            <LI>temperature (Â°F)</LI>
+                        </CHED>
+                        <CHED H="2">Makeup water temperature (Â°F)</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">100</ENT>
+                        <ENT>85.0</ENT>
+                        <ENT>95.0</ENT>
+                        <ENT>75.0</ENT>
+                        <ENT>85.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">75</ENT>
+                        <ENT>73.5</ENT>
+                        <ENT>81.5</ENT>
+                        <ENT>66.2</ENT>
+                        <ENT>81.5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">50</ENT>
+                        <ENT>62.0</ENT>
+                        <ENT>68.0</ENT>
+                        <ENT>57.5</ENT>
+                        <ENT>68.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">25</ENT>
+                        <ENT>55.0</ENT>
+                        <ENT>65.0</ENT>
+                        <ENT>52.8</ENT>
+                        <ENT>65.0</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>The following equation shows the weighting factors for each testing condition.</P>
+                <FP SOURCE="FP-2">
+                    <E T="03">IIIIIIII</E>
+                     = (0.020 â¢ A) + (0.617 â¢ B) + (0.238 â¢ C) + (0.125 â¢ D)
+                </FP>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">Where (see Table III.1 for condenser temperature for all four test points):</FP>
+                    <FP SOURCE="FP-2">A = EER, Btu/Wâ¢h, at 100 percent capacity at standard rating conditions</FP>
+                    <FP SOURCE="FP-2">B = EER, Btu/Wâ¢h, at 75 percent capacity and reduced condenser temperature </FP>
+                    <FP SOURCE="FP-2">C = EER, Btu/Wâ¢h, at 50 percent capacity and reduced condenser temperature </FP>
+                    <FP SOURCE="FP-2">D = EER, Btu/Wâ¢h, at 25 percent capacity and reduced condenser temperature.</FP>
+                </EXTRACT>
+                <P>The intent of this weighted average across a range of condenser temperatures is to produce an IEER rating that is more representative of outdoor conditions that air conditioners face for much of the year, rather than just the peak temperature experienced in most climates for only a small minority of operating hours.</P>
+                <P>In the September 2020 NOPD, DOE proposed to maintain standards for ECUACs and WCUACs in terms of EER because the current IEER metric may not be representative for ECUACs and WCUACs and compliance with IEER would impose additional testing and certification burden on a small market. 85 FR 57149, 57161. DOE initially determined that for ECUACs, the weighting factors for IEER may not be representative of typical applications.</P>
+                <P>
+                    ECUACs may be disproportionately marketed and sold in relatively hot and dry climates where there is a larger efficiency benefit to using evaporative condenser cooling. 85 FR 57149, 57160. The IEER equation assigns a weighting factor of just 2 percent for the full-load test point, so almost all of the IEER rating for ECUACs would reflect performance at outdoor air temperatures which is cooler than what would typically be experienced in the hot and dry climates where this equipment is installed. For ECUACs with cooling capacity less than 65,000 Btu/h DOE's preliminary analysis suggested that these units are primarily marketed for residential applications, whereas the IEER metric was developed for commercial applications by analyzing air conditioner energy use in commercial buildings. 
+                    <E T="03">Id.</E>
+                     For WCUACs, it is not certain whether the IEER weighting factors appropriately reflect the average use of WCUACs given that IEER was developed based on an analysis of air-cooled CUACs (âACUACsâ). 
+                    <E T="03">Id.</E>
+                </P>
+                <P>Additionally, IEER requires at least four tests whereas EER requires a single test. Examining the models listed in the CCMS database, DOE found that many models did not have any online product literature demonstrating that they are rated with IEER, suggesting that many WCUAC and ECUAC models would need to be retested in order to comply with Federal IEER standards. 85 FR 57149, 57161.</P>
+                <P>In response to the September 2020 NOPD, DOE received several comments in support of its proposal to maintain standards in terms of the EER metric. UCA supported DOE's proposal to maintain the EER metric for WCUACs, stating that they disagreed with using IEER for certain WCUACs installed indoors within mechanical rooms because these units typically see constant water temperatures year-round. (UCA, No. 11 at p. 1) CA IOUs supported maintaining EER and not adopting IEER for ECUACs until the test procedure has been updated and DOE has evaluated the appropriate condenser entering air dry-bulb and wet-bulb temperatures for the climates in which ECUACs are typically installed. (CA IOUs, No. 13 at p. 2)</P>
+                <P>
+                    Regarding WCUACs, CA IOUs stated that if DOE were to adopt IEER, DOE should complete the test procedure rulemaking first and consider aligning the temperature test points and weighting factors with those of water-cooled variable refrigerant flow (âVRFâ) equipment. (CA IOUs, No. 13 at p. 2; Public Webinar Transcript,
+                    <SU>4</SU>
+                     No. 10 at p. 21).
+                </P>
+                <P>For the reasons provided previously and presented in the September 2020 NOPD, DOE is maintaining federal standards for ECUACs and WCUACs in terms of EER.</P>
+                <P>DOE's analysis in support of the final determination is based on an evaluation of ECUACs and WCUACs in terms of EER.</P>
+                <HD SOURCE="HD2">C. Market Analysis</HD>
+                <P>
+                    DOE develops information in the market analysis that provides an overall picture of the market for the equipment concerned. For this final determination, DOE conducted a review of the current market for ECUACs and WCUACs, including equipment literature, the AHRI Directory of Certified Product Performance (âAHRI Directoryâ),
+                    <SU>8</SU>
+                    <FTREF/>
+                     and the DOE Compliance Certification Management System (âCCMSâ) database.
+                    <SU>9</SU>
+                    <FTREF/>
+                     DOE also considered market data and stakeholder comments received in response to the July 2019 ECS RFI and the September 2020 NOPD, the analysis performed in the previous standards rulemaking for ECUACs and WCUACs, and the energy savings 
+                    <PRTPAGE P="37006"/>
+                    potential for amended standards determined in the May 2012 final rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âThe AHRI Directory for unitary large equipment can be found at 
+                        <E T="03">https://www.ahridirectory.org/Search/SearchHome.</E>
+                         AHRI's certification program does not currently include ECUACs of any cooling capacities or WCUACs with cooling capacity greater than 250,000 Btu/h.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âData from the DOE CCMS database used in the September 2020 NOPD and this final determination was accessed on December 16, 2019. This database can be found at 
+                        <E T="03">http://www.regulations.doe.gov/certification-data/.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">1. Shipments Estimates</HD>
+                <P>
+                    DOE uses projections of annual product shipments to calculate the national impacts of potential amended energy conservation standards on energy use.
+                    <SU>10</SU>
+                    <FTREF/>
+                     The shipments model takes an accounting approach in tracking market shares of each product class and the vintage of units in the stock.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âDOE uses data on manufacturing shipments as a proxy for national sales, as aggregate data on sales are lacking. In general, one would expect a close correspondence between shipments and sales.
+                    </P>
+                </FTNT>
+                <P>The analysis conducted for the September 2020 NOPD was based on the same model specification used for the May 2012 final rule and incorporated additional shipments data provided by AHRI in response to the July 2019 ECS RFI. 85 FR 57149, 57155-57156. Based on the shipments data, the DOE September 2020 NOPD analysis indicated declining future shipments for WCUACs and ECUACs with cooling capacity less than 65,000 Btu/h.</P>
+                <P>Table III.2 presents the historical shipments for WCUACs from the May 2012 final rule (1984-2009) along with historical shipments in the following years as provided by AHRI (2010-2018). As shown in Table III.2 for the small and large WCUACs, shipments starting in 2009 are lower than in prior years. The very large WCUAC shipments fell in the years immediately following 2008, and while the shipments have rebounded, they did not rebound to the highest shipment levels seen previously.</P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,12,12,12,12">
+                    <TTITLE>Table III.2âHistorical Shipments Data for WCUACs</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Yearâ*</CHED>
+                        <CHED H="1">
+                            Small AC water-cooled
+                            <LI>(&lt;64.9 kBtu/h)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Small AC water-cooled
+                            <LI>(65 to 134.9 kBtu/h)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Large AC water-cooled
+                            <LI>(135 to 249 kBtu/h)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Very large AC water-cooled
+                            <LI>(â¥250 kBtu/h)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1989</ENT>
+                        <ENT/>
+                        <ENT>1437</ENT>
+                        <ENT>793</ENT>
+                        <ENT>1622</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1990</ENT>
+                        <ENT/>
+                        <ENT>1503</ENT>
+                        <ENT>779</ENT>
+                        <ENT>1211</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1991</ENT>
+                        <ENT/>
+                        <ENT>1107</ENT>
+                        <ENT>621</ENT>
+                        <ENT>908</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1992</ENT>
+                        <ENT/>
+                        <ENT>1068</ENT>
+                        <ENT>537</ENT>
+                        <ENT>720</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1993</ENT>
+                        <ENT/>
+                        <ENT>985</ENT>
+                        <ENT>520</ENT>
+                        <ENT>668</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1994</ENT>
+                        <ENT/>
+                        <ENT>922</ENT>
+                        <ENT>504</ENT>
+                        <ENT>815</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1995</ENT>
+                        <ENT/>
+                        <ENT>1121</ENT>
+                        <ENT>493</ENT>
+                        <ENT>805</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1996</ENT>
+                        <ENT/>
+                        <ENT>1217</ENT>
+                        <ENT>652</ENT>
+                        <ENT>1020</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1997</ENT>
+                        <ENT/>
+                        <ENT>989</ENT>
+                        <ENT>522</ENT>
+                        <ENT>1216</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1998</ENT>
+                        <ENT/>
+                        <ENT>795</ENT>
+                        <ENT>623</ENT>
+                        <ENT>1886</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1999</ENT>
+                        <ENT/>
+                        <ENT>874</ENT>
+                        <ENT>477</ENT>
+                        <ENT>898</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2000</ENT>
+                        <ENT/>
+                        <ENT>1478</ENT>
+                        <ENT>1621</ENT>
+                        <ENT>1170</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2001</ENT>
+                        <ENT/>
+                        <ENT>606</ENT>
+                        <ENT>409</ENT>
+                        <ENT>762</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2002</ENT>
+                        <ENT/>
+                        <ENT>502</ENT>
+                        <ENT>355</ENT>
+                        <ENT>1227</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2003</ENT>
+                        <ENT/>
+                        <ENT>390</ENT>
+                        <ENT>287</ENT>
+                        <ENT>740</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2004</ENT>
+                        <ENT/>
+                        <ENT>447</ENT>
+                        <ENT>291</ENT>
+                        <ENT>711</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2005</ENT>
+                        <ENT/>
+                        <ENT>177</ENT>
+                        <ENT>188</ENT>
+                        <ENT>861</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2006</ENT>
+                        <ENT/>
+                        <ENT>316</ENT>
+                        <ENT>278</ENT>
+                        <ENT>1231</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2007</ENT>
+                        <ENT/>
+                        <ENT>359</ENT>
+                        <ENT>317</ENT>
+                        <ENT>1231</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2008</ENT>
+                        <ENT/>
+                        <ENT>282</ENT>
+                        <ENT>311</ENT>
+                        <ENT>1390</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2009</ENT>
+                        <ENT>91</ENT>
+                        <ENT>152</ENT>
+                        <ENT>182</ENT>
+                        <ENT>585</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2010</ENT>
+                        <ENT>119</ENT>
+                        <ENT>139</ENT>
+                        <ENT>186</ENT>
+                        <ENT>531</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2011</ENT>
+                        <ENT>84</ENT>
+                        <ENT>209</ENT>
+                        <ENT>180</ENT>
+                        <ENT>609</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2012</ENT>
+                        <ENT>95</ENT>
+                        <ENT>230</ENT>
+                        <ENT>137</ENT>
+                        <ENT>624</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2013</ENT>
+                        <ENT>59</ENT>
+                        <ENT>198</ENT>
+                        <ENT>164</ENT>
+                        <ENT>751</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2014</ENT>
+                        <ENT>54</ENT>
+                        <ENT>216</ENT>
+                        <ENT>114</ENT>
+                        <ENT>829</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2015</ENT>
+                        <ENT>52</ENT>
+                        <ENT>137</ENT>
+                        <ENT>147</ENT>
+                        <ENT>770</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2016</ENT>
+                        <ENT>44</ENT>
+                        <ENT>105</ENT>
+                        <ENT>154</ENT>
+                        <ENT>946</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2017</ENT>
+                        <ENT>45</ENT>
+                        <ENT>62</ENT>
+                        <ENT>128</ENT>
+                        <ENT>985</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2018</ENT>
+                        <ENT>39</ENT>
+                        <ENT>106</ENT>
+                        <ENT>108</ENT>
+                        <ENT>844</ENT>
+                    </ROW>
+                    <TNOTE>*âData for 1989-2009 from the May 2012 Final Rule. This data does not include WCUACs with cooling capacity less than 65,000 Btu/h because this class was not included in that rulemaking. Data for 2009-2018 provided by AHRI in response to the July 2019 ECS RFI.</TNOTE>
+                </GPOTABLE>
+                <P>DOE developed two shipment projections for the September 2020 NOPD analysis; one based on historical trends and one that held shipments constant at the 2018 shipment level (referred to as â2019 trendâ and â2019 constantâ, respectively). 85 FR 57149, 57155-57156. The 2019 trend and 2019 constant projections are compared to projections from the May 2012 final rule that were based on the historical trends and fixed at the level of the 2009 shipments (referred to as â2012 trendâ and â2012 constantâ, respectively). This comparison is shown in Table III.3 of this document.</P>
+                <P>
+                    DOE was unable to identify shipments data for the ECUAC equipment classes and none were provided by the stakeholders. For the September 2020 NOPD analysis, shipment projections were developed by scaling the WCUAC shipment projections using a ratio of unique model counts for each equipment class. 85 FR 57149, 57155. For the small (cooling capacity less than 65,000 Btu/h) ECUAC class of products, the shipment projection was further adjusted by a factor of 0.5 to better reflect the approximate size of the market in the mid-2000s.
+                    <SU>11</SU>
+                    <FTREF/>
+                      
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âPacific Gas and Electric Company; Emerging Technologies Program, Application Assessment Report # 0605. Evaluation of the Freus Residential Evaporative Condenser System in PG&amp;E Service Territory. 
+                        <E T="03">https://www.etcc-ca.com/sites/default/files/OLD/images/stories/pdf/ETCC_Report_464.pdf</E>
+                         accessed December 18, 2019.
+                    </P>
+                </FTNT>
+                <P>
+                    WCUACs are typically sold as part of a large project (
+                    <E T="03">i.e.,</E>
+                     a multi-tenant, multi-story office building). To account for shipments being a function of large office construction, DOE also developed a third projection for the very large WCUAC equipment class, using a regression analysis with historical data 
+                    <PRTPAGE P="37007"/>
+                    and projections of large office existing floor space and large office additions as the variables (referred to as â2019 regressionâ in Table III.3). 85 FR 57149, 57156.
+                </P>
+                <GPOTABLE COLS="8" OPTS="L2,i1" CDEF="s50,6,6,6,6,6,6,6">
+                    <TTITLE>Table III.3âComparison of Shipment Projections for WCUACs and ECUACs by Equipment Class</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">â</CHED>
+                        <CHED H="1">2018</CHED>
+                        <CHED H="1">2020</CHED>
+                        <CHED H="1">2025</CHED>
+                        <CHED H="1">2030</CHED>
+                        <CHED H="1">2035</CHED>
+                        <CHED H="1">2040</CHED>
+                        <CHED H="1">2045</CHED>
+                    </BOXHD>
+                    <ROW EXPSTB="07" RUL="sî">
+                        <ENT I="22">
+                            <E T="02">Small WCUAC, &lt;65,000 Btu/h</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">2012 trend</ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2012 constant (=2009)</ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 trend</ENT>
+                        <ENT>39</ENT>
+                        <ENT>33</ENT>
+                        <ENT>18</ENT>
+                        <ENT>10</ENT>
+                        <ENT>6</ENT>
+                        <ENT>3</ENT>
+                        <ENT>2</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="01">2019 constant (=2018)</ENT>
+                        <ENT>39</ENT>
+                        <ENT>39</ENT>
+                        <ENT>39</ENT>
+                        <ENT>39</ENT>
+                        <ENT>39</ENT>
+                        <ENT>39</ENT>
+                        <ENT>39</ENT>
+                    </ROW>
+                    <ROW EXPSTB="07" RUL="sî">
+                        <ENT I="22">
+                            <E T="02">Small WCUAC, â¥65,000 and &lt;135,000 Btu/h</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">2012 trend</ENT>
+                        <ENT>93</ENT>
+                        <ENT>76</ENT>
+                        <ENT>46</ENT>
+                        <ENT>28</ENT>
+                        <ENT>17</ENT>
+                        <ENT>10</ENT>
+                        <ENT>6</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2012 constant (=2009)</ENT>
+                        <ENT>152</ENT>
+                        <ENT>152</ENT>
+                        <ENT>152</ENT>
+                        <ENT>152</ENT>
+                        <ENT>152</ENT>
+                        <ENT>152</ENT>
+                        <ENT>152</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 trend</ENT>
+                        <ENT>106</ENT>
+                        <ENT>87</ENT>
+                        <ENT>52</ENT>
+                        <ENT>32</ENT>
+                        <ENT>19</ENT>
+                        <ENT>11</ENT>
+                        <ENT>7</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="01">2019 constant (=2018)</ENT>
+                        <ENT>106</ENT>
+                        <ENT>106</ENT>
+                        <ENT>106</ENT>
+                        <ENT>106</ENT>
+                        <ENT>106</ENT>
+                        <ENT>106</ENT>
+                        <ENT>106</ENT>
+                    </ROW>
+                    <ROW EXPSTB="07" RUL="sî">
+                        <ENT I="22">
+                            <E T="02">Large WCUAC, â¥135,000 and &lt;240,000 Btu/h</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">2012 trend</ENT>
+                        <ENT>132</ENT>
+                        <ENT>117</ENT>
+                        <ENT>87</ENT>
+                        <ENT>64</ENT>
+                        <ENT>47</ENT>
+                        <ENT>35</ENT>
+                        <ENT>26</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2012 constant (=2009)</ENT>
+                        <ENT>182</ENT>
+                        <ENT>182</ENT>
+                        <ENT>182</ENT>
+                        <ENT>182</ENT>
+                        <ENT>182</ENT>
+                        <ENT>182</ENT>
+                        <ENT>182</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 trend</ENT>
+                        <ENT>108</ENT>
+                        <ENT>110</ENT>
+                        <ENT>78</ENT>
+                        <ENT>55</ENT>
+                        <ENT>39</ENT>
+                        <ENT>28</ENT>
+                        <ENT>20</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="01">2019 constant (=2018)</ENT>
+                        <ENT>108</ENT>
+                        <ENT>108</ENT>
+                        <ENT>108</ENT>
+                        <ENT>108</ENT>
+                        <ENT>108</ENT>
+                        <ENT>108</ENT>
+                        <ENT>108</ENT>
+                    </ROW>
+                    <ROW EXPSTB="07" RUL="sî">
+                        <ENT I="22">
+                            <E T="02">Very Large WCUAC, â¥240,000 and â¤760,000 Btu/h</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">2012 trend</ENT>
+                        <ENT>953</ENT>
+                        <ENT>944</ENT>
+                        <ENT>923</ENT>
+                        <ENT>903</ENT>
+                        <ENT>882</ENT>
+                        <ENT>861</ENT>
+                        <ENT>840</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2012 constant (=2009)</ENT>
+                        <ENT>585</ENT>
+                        <ENT>585</ENT>
+                        <ENT>585</ENT>
+                        <ENT>585</ENT>
+                        <ENT>585</ENT>
+                        <ENT>585</ENT>
+                        <ENT>585</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 trend</ENT>
+                        <ENT>844</ENT>
+                        <ENT>777</ENT>
+                        <ENT>721</ENT>
+                        <ENT>664</ENT>
+                        <ENT>608</ENT>
+                        <ENT>551</ENT>
+                        <ENT>495</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 constant (=2018)</ENT>
+                        <ENT>844</ENT>
+                        <ENT>844</ENT>
+                        <ENT>844</ENT>
+                        <ENT>844</ENT>
+                        <ENT>844</ENT>
+                        <ENT>844</ENT>
+                        <ENT>844</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="01">2019 regression</ENT>
+                        <ENT>844</ENT>
+                        <ENT>1000</ENT>
+                        <ENT>929</ENT>
+                        <ENT>927</ENT>
+                        <ENT>865</ENT>
+                        <ENT>844</ENT>
+                        <ENT>828</ENT>
+                    </ROW>
+                    <ROW EXPSTB="07" RUL="sî">
+                        <ENT I="22">
+                            <E T="02">Small ECUAC, &lt;65,000 Btu/h</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">2012 trend</ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2012 constant (=2009)</ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 trend</ENT>
+                        <ENT>156</ENT>
+                        <ENT>132</ENT>
+                        <ENT>72</ENT>
+                        <ENT>40</ENT>
+                        <ENT>24</ENT>
+                        <ENT>12</ENT>
+                        <ENT>8</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="01">2019 constant (=2018)</ENT>
+                        <ENT>156</ENT>
+                        <ENT>156</ENT>
+                        <ENT>156</ENT>
+                        <ENT>156</ENT>
+                        <ENT>156</ENT>
+                        <ENT>156</ENT>
+                        <ENT>156</ENT>
+                    </ROW>
+                    <ROW EXPSTB="07" RUL="sî">
+                        <ENT I="22">
+                            <E T="02">Very Large ECUAC, â¥240,000 and â¤760,000 Btu/h</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">2012 trend</ENT>
+                        <ENT>245</ENT>
+                        <ENT>243</ENT>
+                        <ENT>238</ENT>
+                        <ENT>232</ENT>
+                        <ENT>227</ENT>
+                        <ENT>221</ENT>
+                        <ENT>216</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2012 constant (=2009)</ENT>
+                        <ENT>150</ENT>
+                        <ENT>150</ENT>
+                        <ENT>150</ENT>
+                        <ENT>150</ENT>
+                        <ENT>150</ENT>
+                        <ENT>150</ENT>
+                        <ENT>150</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 trend</ENT>
+                        <ENT>14</ENT>
+                        <ENT>13</ENT>
+                        <ENT>12</ENT>
+                        <ENT>11</ENT>
+                        <ENT>10</ENT>
+                        <ENT>9</ENT>
+                        <ENT>9</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 constant (=2018)</ENT>
+                        <ENT>14</ENT>
+                        <ENT>14</ENT>
+                        <ENT>14</ENT>
+                        <ENT>14</ENT>
+                        <ENT>14</ENT>
+                        <ENT>14</ENT>
+                        <ENT>14</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2019 regression</ENT>
+                        <ENT>14</ENT>
+                        <ENT>17</ENT>
+                        <ENT>16</ENT>
+                        <ENT>16</ENT>
+                        <ENT>14</ENT>
+                        <ENT>14</ENT>
+                        <ENT>14</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    In the May 2012 final rule, DOE did not analyze small ECUACs and WCUACs with cooling capacity less than 65,000 Btu/h. 77 FR 28927, 28934-28937. For the July 2019 ECS RFI, DOE identified a single manufacturer of ECUACs in this capacity range, and the models offered are single-phase equipment and appear to be predominantly marketed for residential applications in regions of the United States with hot and dry climates, suggesting that there are few if any shipments in other regions of the United States. 84 FR 36480, 36485. DOE identified only two distinct product lines of WCUACs with cooling capacity less than 65,000 Btu/h, and DOE's examination of manufacturer literature for these WCUACs suggested that these models do not comprise a significant share of the market for air conditioners in residential or commercial applications. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>The projected trends from the May 2012 final rule and those based on the updated data both generally show declines in shipments for small (â¥65,000 and &lt;135,000 Btu/h), large and very large WCUACs, and very large ECUACs. The shipment levels under the 2019 constant projections are lower than the 2012 constant projections for small (â¥65,000 and &lt;135,000 Btu/h) and large WCUACs and very large ECUACs. The 2019 constant projections for very large WCUACs are higher than the 2012 constant projections (but lower than the 2012 trend projections). The 2019 regression projections for very large WCUACs and ECUACs show a more stable level of shipments over the analysis period than the 2019 trend models, but are lower than the 2012 trend projection.</P>
+                <P>Given that DOE did not analyze ECUACs and WCUACs with cooling capacity less than 65,000 Btu/h for the May 2012 final rule, no comparisons to the current projections are possible. The current trended shipments projections for the small (cooling capacity less than 65,000 Btu/h) equipment classes reach 10 or fewer shipments by 2045.</P>
+                <P>
+                    In response to the September 2020 NOPD, UCA stated that the historical shipments data presented by DOE is not complete and asserted that the shipments data does not capture dozens of manufacturers that do not belong to 
+                    <PRTPAGE P="37008"/>
+                    AHRI and do not report their shipments to AHRI. UCA further stated that it sold 40 units in the WCUAC &lt;64.9 kBtu/h category in 2018, while the table shows only 39 total units shipped in that year. UCA suggested the number could be 10 times higher and asserted similar discrepancies could apply across all categories. (UCA, No. 11 at p. 1)
+                </P>
+                <P>
+                    In the July 2019 ECS RFI, DOE requested data on shipments, and in response to the RFI, DOE received shipments data from AHRI. In the September 2020 NOPD, DOE presented the shipments information received to that point. In addition, DOE requested comments and data concerning the tentative determination and the underlying data and analyses. The previously discussed number of shipments provided by UCA (40 units) only applies for a single manufacturer for a single equipment class of WCUAC (&lt;65,000 Btu/h) equipment for a single year. Because this was a single data point, DOE lacked sufficient context to incorporate it into the shipment analysis (
+                    <E T="03">e.g.,</E>
+                     how this data point compares to UCA's shipments in previous years, how this compares to UCA's shipments for other WCUAC capacity ranges). Without such context DOE could not incorporate this data point. For this Final Determination, DOE did not identify any other sources of shipments data beyond the AHRI data incorporated in the September 2020 NOPD analyses.
+                </P>
+                <P>
+                    UCA also disagreed with shipment trends showing a decline in WCUACs over the next 20-plus years, as it stated that there are thousands of WCUACs that will be replaced over the next decade in the very large WCUAC class. (UCA, No. 11 at p. 1) UCA also commented that its sales for its main equipment line has gone down substantially, and that the equipment capacities it now offers are more limited. (UCA, No. 11-1
+                    <SU>12</SU>
+                    <FTREF/>
+                     at p. 1) For this final determination, the three shipment projections developed by DOE were based on the historic shipments data available and presented in the September 2020 NOPD, and as historical data they would include any replacement shipments that have taken place. As additional shipments data were not provided to support UCA's assertion regarding replacement of WCUACs over the next decade, DOE did not modify the shipment projections.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âA hyphenated comment number indicates that the specific comment referenced is found in an attachment accompanying the comment submitted by the commenter. The number following the hyphen indicates which attachment is being referenced.
+                    </P>
+                </FTNT>
+                <P>Trane commented that there was a major drop in unitary air conditioner shipments that also affected WCUACs and ECUACs during the great recession of 2008(?), so looking forward 15-20 years, the market should also reflect that drop because there will not be units to replace. (Public Webinar Transcript, No. 10 at p. 15) Daikin commented that the need for office space likely will be declining for the foreseeable future stating that it was informed by one office building client that the client will only need about 70 percent of its current square footage going forward. (Public Webinar Transcript, No. 10 at p. 11)</P>
+                <P>As stated, DOE did not receive additional shipments data in response to the September 2020 NOPD. As such, DOE relied on the shipments data presented in the September 2020 NOPD for this final determination. Based on the existing shipments data, DOE developed a series of shipment projections to reflect uncertainty in the future of ECUAC and WCUAC shipments. As presented in the September 2020 NOPD, DOE developed three shipment projections (â2019 trend,â â2019 constant,â and â2019 regressionâ). DOE continued to rely on the 2019 trend, 2019 constant, and 2019 regression projections presented in September 2020 NOPD for this final determination. Additionally, DOE performed a sensitivity case to reflect a potential underreporting of ECUAC and WCUAC shipments. DOE developed a sensitivity analysis by multiplying the three shipment projections by 10 for all equipment classes to examine an upper bound estimate for potentially unreported shipments. The results of the sensitivity analysis are presented in section III.C.3 of this document.</P>
+                <HD SOURCE="HD3">2. Model Counts</HD>
+                <P>
+                    Prior to receipt of updated shipments from AHRI in response to the July 2019 ECS RFI, DOE conducted a review of the market for WCUACs and ECUACs based on models included in the DOE CCMS database.
+                    <SU>9</SU>
+                     84 FR 36480, 36484. In the September 2020 NOPD DOE provided that the number of ECUAC and WCUAC models on the market is substantially less than the number of ACUAC models on the market for all capacity ranges, and that this is consistent with the relationship between model counts identified in the May 2012 final rule. 85 FR 57149, 57156. This initial understanding of the ECUAC and WCUAC market as compared to the ACUAC market was further supported by the shipments data provided by AHRI. See discussion in section III.C.1 of this document. DOE did not receive any comments on the model counts presented in the September 2020 NOPD.
+                </P>
+                <HD SOURCE="HD3">3. Current Market Efficiency Distributions</HD>
+                <P>
+                    For the September 2020 NOPD, DOE examined the efficiency ratings of ECUACs and WCUACs currently on the market and presented efficiency distributions to reflect the current market. 85 FR 57149, 57157-57159. Table III.4 presents the summary of statistics by equipment category and capacity range of equipment for unique models
+                    <SU>13</SU>
+                    <FTREF/>
+                     from DOE's CCMS Database.
+                    <SU>9</SU>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âThe count of unique models excludes basic models that appear to be duplicatesâ
+                        <E T="03">i.e.,</E>
+                         basic models sharing the same manufacturer and certified cooling capacity and EER ratings. For basic models that had multiple individual models certified with different capacities and different EER ratings, the individual models were considered to be unique models.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="7" OPTS="L2,i1" CDEF="s50,10,12,10,10,10,10">
+                    <TTITLE>Table III.4âCurrent Market Efficiency Distributions for WCUACs and ECUAC</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">
+                            Cooling capacity range
+                            <LI>(Btu/h)</LI>
+                        </CHED>
+                        <CHED H="1">Number of unique models</CHED>
+                        <CHED H="1">
+                            Average cooling capacity
+                            <LI>(Btu/h)</LI>
+                        </CHED>
+                        <CHED H="1">EER</CHED>
+                        <CHED H="2">Minimum</CHED>
+                        <CHED H="2">Average</CHED>
+                        <CHED H="2">Maximum</CHED>
+                        <CHED H="1">
+                            Current
+                            <LI>Federal</LI>
+                            <LI>EER</LI>
+                            <LI>Standard Levelâ*</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW EXPSTB="06" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">Water-Cooled Air Conditioners</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">&lt;65,000</ENT>
+                        <ENT>1</ENT>
+                        <ENT>58,000</ENT>
+                        <ENT>12.2</ENT>
+                        <ENT>12.2</ENT>
+                        <ENT>12.2</ENT>
+                        <ENT>12.1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥65,000 and &lt;135,000</ENT>
+                        <ENT>23</ENT>
+                        <ENT>99,478</ENT>
+                        <ENT>12.1</ENT>
+                        <ENT>12.8</ENT>
+                        <ENT>15.3</ENT>
+                        <ENT>12.1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥135,000 and &lt;240,000</ENT>
+                        <ENT>15</ENT>
+                        <ENT>175,600</ENT>
+                        <ENT>13.5</ENT>
+                        <ENT>14.6</ENT>
+                        <ENT>16.3</ENT>
+                        <ENT>12.5</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="01">â¥240,000 and &lt;760,000</ENT>
+                        <ENT>234</ENT>
+                        <ENT>493,556</ENT>
+                        <ENT>12.5</ENT>
+                        <ENT>13.8</ENT>
+                        <ENT>16.1**</ENT>
+                        <ENT>12.4</ENT>
+                    </ROW>
+                    <ROW EXPSTB="06" RUL="sî">
+                        <PRTPAGE P="37009"/>
+                        <ENT I="21">
+                            <E T="02">Evaporatively-Cooled Air Conditioners</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">&lt;65,000</ENT>
+                        <ENT>8</ENT>
+                        <ENT>37,950</ENT>
+                        <ENT>13.2</ENT>
+                        <ENT>15.0</ENT>
+                        <ENT>16.0</ENT>
+                        <ENT>12.1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥65,000 and &lt;135,000</ENT>
+                        <ENT>0</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥135,000 and &lt;240,000</ENT>
+                        <ENT>0</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥240,000 and &lt;760,000</ENT>
+                        <ENT>4</ENT>
+                        <ENT>442,750</ENT>
+                        <ENT>11.8</ENT>
+                        <ENT>12.7</ENT>
+                        <ENT>13.4</ENT>
+                        <ENT>11.7</ENT>
+                    </ROW>
+                    <TNOTE>*âFor all capacity ranges except very large evaporatively-cooled air conditioners, the Federal EER standard listed is for âno heat or electric heatâ class. For the very large evaporatively-cooled air conditioner class, the Federal EER standard listed is the âall other types of heatingâ class.</TNOTE>
+                    <TNOTE>
+                        **âAs mentioned later in this section, this maximum EER value was determined to be an outlier, and thus the next highest efficiency level (
+                        <E T="03">i.e.,</E>
+                         an EER of 15) was used as the âmax-techâ value.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>DOE used these efficiency distributions and the previously described shipment projections to develop estimated energy savings and percent of no-new-standards energy consumption for 30 years of shipments (2020-2049).</P>
+                <P>Energy savings were estimated based on the forecasted shipments labeled 2019 trend, 2019 constant, and 2019 regression. For the savings estimates labeled 2019 regression, as noted in section III.C.1 of this final determination, a regression projection was only developed for the very large equipment class.</P>
+                <P>
+                    As mentioned in section II.B.2 of this final determination, the cumulative site energy savings are calculated using the max-tech level, which is the highest value of efficiency in DOE's CCMS Database within each capacity range of ECUACs and WCUACs (
+                    <E T="03">i.e.,</E>
+                     &lt;65,000 Btu/h, 65,000-135,000 Btu/h, 135,000-240,000 Btu/h, and 240,000-760,000 Btu/h). However, for very large WCUACs, consideration of the highest efficiency value in DOE's CCMS database may not be appropriate for evaluating potential amendments to the energy conservation standards. As explained in the September 2020 NOPD, DOE considered the single model rated at 16.1 to be an outlier and subsequently calculated the energy savings from potential amended standards for very large WCUACs using the next highest level that was achievable across the range of capacities (
+                    <E T="03">i.e.,</E>
+                     an EER of 15). 85 FR 57149, 57158. DOE did not receive any comments on the use of the max-tech efficiency levels in calculating the estimated savings in the NOPD, and the same max-tech levels were used for the final determination.
+                </P>
+                <P>For the September 2020 NOPD, DOE did not incorporate changing trends in shipments by efficiency over time in the no-new-standards case. No comments were received on efficiency trends and DOE retained this assumption in the energy savings estimates, which vary by shipment scenario and equipment class, presented in Table III.5 of this final determination.</P>
+                <P>Selecting the minimum and maximum estimated savings scenario for each equipment class resulted in a range of total estimated site energy savings for the WCUAC classes of between 0.0030 quads (8.5 percent of estimated site energy use) and 0.0046 quads (8.6 percent of estimated site energy use), and for the ECUAC classes of 0.00006 quads (6.2 percent of estimated site energy use) and 0.00011 quads (6.0 percent of estimated site energy use) during the analysis period. For both equipment categories, the resulting estimated savings ranged between 0.0031 quads (8.5 percent of estimated site energy consumption) and 0.0047 quads (8.6 percent of estimated site energy consumption) during the analysis period depending on the combination of shipment projections analyzed. Because DOE received no comments resulting in changes to inputs or the analysis, the estimate savings presented in Table III.5 are the same as those presented in the September 2020 NOPD.</P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,12,12,12,12">
+                    <TTITLE>Table III.5âEstimated National Site Energy Savings and Percent Energy Reductions for WCUACs and ECUACs at the Max-Tech Level</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">
+                            Cooling capacity range
+                            <LI>(Btu/h)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Cumulative site national energy savings
+                            <LI>(quads)â*</LI>
+                        </CHED>
+                        <CHED H="2">Trend</CHED>
+                        <CHED H="2">Constant</CHED>
+                        <CHED H="2">Regression</CHED>
+                        <CHED H="1">
+                            Reduction in
+                            <LI>national site</LI>
+                            <LI>energy consumption</LI>
+                            <LI>(percent)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW EXPSTB="04" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">WCUACs</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">&lt;65,000</ENT>
+                        <ENT>0.00000</ENT>
+                        <ENT>0.00000</ENT>
+                        <ENT/>
+                        <ENT>0.0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥65,000 and &lt;135,000</ENT>
+                        <ENT>0.00005</ENT>
+                        <ENT>0.00019</ENT>
+                        <ENT/>
+                        <ENT>13.3</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥135,000 and &lt;240,000</ENT>
+                        <ENT>0.00011</ENT>
+                        <ENT>0.00025</ENT>
+                        <ENT/>
+                        <ENT>10.1</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="01">â¥240,000 and &lt;760,000</ENT>
+                        <ENT>0.00287</ENT>
+                        <ENT>0.00395</ENT>
+                        <ENT>0.00413</ENT>
+                        <ENT>8.4</ENT>
+                    </ROW>
+                    <ROW EXPSTB="04" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">ECUACs</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">&lt;65,000</ENT>
+                        <ENT>0.00001</ENT>
+                        <ENT>0.00004</ENT>
+                        <ENT/>
+                        <ENT>5.3</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥65,000 and &lt;135,000</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">â¥135,000 and &lt;240,000</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                        <ENT>N/A</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="37010"/>
+                        <ENT I="01">â¥240,000 and &lt;760,000</ENT>
+                        <ENT>0.00005</ENT>
+                        <ENT>0.00006</ENT>
+                        <ENT>0.00007</ENT>
+                        <ENT>6.5</ENT>
+                    </ROW>
+                    <TNOTE>*âCumulative national energy savings are measured over the lifetime of ECUACs and WCUACs purchased in the 30- year analysis period (2020-2049).</TNOTE>
+                </GPOTABLE>
+                <P>As noted in section III.C.1 of this document, in response to a UCA comment regarding the completeness of shipment data, DOE conducted a sensitivity analysis by multiplying annual shipments in the three shipment projections by 10 and calculating the resulting estimated energy savings using the higher shipment projections. This sensitivity resulted in estimated total site energy savings for the WCUAC classes of between 0.0303 quads (8.5 percent of estimated site energy use of the evaluated equipment) and 0.0456 quads (8.6 percent of estimated site energy use of the evaluated equipment), and for the ECUAC classes of 0.0006 quads (6.2 percent of estimated site energy use of the evaluated equipment) and 0.0011 quads (6.0 percent of estimated site energy use of the evaluated equipment) during the analysis period. For both equipment categories, the resulting estimated savings ranged between 0.0308 quads (8.5 percent of estimated site energy use of the evaluated equipment) and 0.0467 quads (8.6 percent of estimated site energy use of the evaluated equipment) during the analysis period.</P>
+                <HD SOURCE="HD1">IV. Final Determination</HD>
+                <P>As required by EPCA, this final determination analyzes whether amended standards for ECUACs and WCUACs would result in significant conservation of energy, be technologically feasible and economically justified. 42 U.S.C. 6313(a)(6)(A)(ii)(II). DOE has determined that the energy conservation standards for WCUACs and ECUACs do not need to be amended, having determined that it lacks âclear and convincingâ evidence that amended standards would result in significant additional conservation of energy. As previously discussed, EPCA specifies that for any commercial and industrial equipment addressed under 42 U.S.C. 6313(a)(6)(A)(i), including WCUACs and ECUACs, DOE may prescribe an energy conservation standard more stringent than the level for such equipment in ASHRAE Standard 90.1 only if âclear and convincing evidenceâ shows that a more stringent standard would result in significant additional conservation of energy and is technologically feasible and economically justified. (42 U.S.C. 6313(a)(6)(C)(i); 42 U.S.C. 6313(a)(6)(A)(ii)(II))</P>
+                <P>
+                    IPI objected to DOE's reliance on the significance of energy threshold established in the Process Rule. (IPI, No, 12 at p. 1) IPI reiterated its comments regarding the significance of energy threshold it previously submitted to the rulemaking to update the Process Rule. (
+                    <E T="03">See</E>
+                     IPI, 
+                    <SU>14</SU>
+                    <FTREF/>
+                     No. 12-3) IPI stated that DOE failed to analyze the benefit to consumers and the environment and the costs of achieving the 8.6 percent energy savings calculated using max-tech efficiency levels. (IPI, No. 12 at p. 1)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âIn the February 14, 2020 final rule amending the Process Rule the Institute for Policy Integrity at New York University's School of Law (referred to as âIPIâ in this document) is abbreviated as âNYU Lawâ. 
+                        <E T="03">See</E>
+                         85 FR 8626.
+                    </P>
+                </FTNT>
+                <P>
+                    DOE disagrees with IPI's characterization of the statutory requirements applicable in the present case. EPCA specifically stipulates that the Secretary may not adopt a uniform national standard more stringent than the amended ASHRAE Standard 90.1 unless such standard would result in significant additional conservation of energy and is technologically feasible and economically justified. (42 U.S.C. 6313(a)(6)(A)(ii)(II)). A determination of whether energy savings would be significant is distinct from consideration of potential consumer cost impacts or environmental impacts, which are separate considerations in determining whether an amended standard is economically justified. (
+                    <E T="03">See</E>
+                     42 U.S.C. 6313(a)(6)(B)(ii)). In this final determination DOE is unable to determine, with clear and convincing evidence, that amended standards would result in significant additional conservation of energy based on the low projected energy savings combined with low and potentially declining product shipments (see sections III.C.3 and III.C.1, respectively).
+                </P>
+                <P>An analysis of shipments data, a review of the CCMS database and the AHRI Directory, and comments received indicate that WCUACs and ECUACs continue to be a minor portion of total commercial air-cooled shipments with total combined shipments of less than 1,300 units in 2018. The shipments of very large WCUACs may be cyclical, linked to investment in commercial buildings, but the shipment projections also suggest that shipments may be continuing to decline.</P>
+                <P>
+                    DOE estimates that amended standards for ECUACs at the respective âmax-techâ levels would result in additional site energy savings of no more than 0.0001 quads during the analysis period. DOE has determined the energy savings potential for ECUACs is 
+                    <E T="03">de minimis.</E>
+                     A sensitivity analysis allowing for a factor of 10 increase in shipments also resulted in an energy savings potential that is 
+                    <E T="03">de minimis</E>
+                     (see Section III.C.3). Therefore, DOE has determined that it lacks clear and convincing evidence that amended standards for ECUACs would result in significant additional conservation of energy.
+                </P>
+                <P>
+                    For WCUACs, DOE estimated the additional energy savings based on the max- tech levels for small and large WCUACs, which were determined by identifying the highest efficiency ratings in the DOE CCMS Database. For very large WCUACs DOE determined that there is substantial doubt as to the appropriateness of using the highest efficiency reported in the DOE CCMS Database as the max-tech level. As discussed, there is a substantial question of whether the combination of technologies used to achieve the highest reported level for very large WCUACs is practicable for basic models across the capacity range of that equipment class. As such, DOE has determined that an energy savings calculation that would rely on the highest reported efficiency for very large WCUACs would not meet the âclear and convincing evidenceâ threshold required by EPCA. Instead, DOE analyzed the next most efficient level reported in the DOE CCMS 
+                    <PRTPAGE P="37011"/>
+                    Database for very large WCUACs, which did not raise similar concerns, as the max-tech level for very large WCUACs.
+                </P>
+                <P>
+                    Using this next highest efficiency level for very large WCUACs and the max-tech efficiency levels for the small and large classes of WCUACs, DOE calculated that amended standards would result in additional site energy savings of no more than 0.0046 quads for all WCUAC classes during the analysis period. DOE has determined the energy savings potential for WCUACs is 
+                    <E T="03">de minimis.</E>
+                     A sensitivity analysis allowing for a factor of 10 increase in shipments also resulted an energy savings potential that is 
+                    <E T="03">de minimis</E>
+                     (see Section III.C.3). Therefore, DOE has determined that it lacks clear and convincing evidence that amended standards for WCUACs would result in significant additional conservation of energy. Based on the consideration of significant additional conservation of energy and that these markets are small and may be declining, DOE has determined that the energy conservation standards for ECUACs and WCUACs do not need to be amended.
+                </P>
+                <HD SOURCE="HD1">V. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Orders 12866 and 13563</HD>
+                <P>This final determination has been determined to be not significant for purposes of Executive Order (âE.O.â) 12866, Regulatory Planning and Review, 58 FR 51735 (Oct. 4, 1993). As a result, the Office of Management and Budget (âOMBâ) did not review this final determination.</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis (âIRFAâ) for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by Executive Order 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. DOE has made its procedures and policies available on the Office of the General Counsel's website (
+                    <E T="03">https://energy.gov/gc/office-general-counsel</E>
+                    ).
+                </P>
+                <P>
+                    In response to the NOPD, UCA provided a number of general comments regarding the potential impacts of efficiency regulations on equipment and small businesses. UCA commented that small businesses are often not members of trade associations and do not have staff reading the 
+                    <E T="04">Federal Register</E>
+                    <E T="03">,</E>
+                     and therefore do not get information on regulations. UCA also stated that small businesses generally do not have the resources to evaluate and access newer technologies at the same time as larger companies and do not have the resources to develop an alternative efficiency determination method. UCA further stated that small commercial HVAC manufacturers have higher costs to fabricate units for testing. (UCA No. 11-1, pp. 2-3)
+                </P>
+                <P>DOE reviewed this final determination pursuant to the Regulatory Flexibility Act and the policies and procedures published on February 19, 2003. As stated, this final determination is not amending standards for ECUACs and WCUACs. Further, this final determination does not amend the certification and reporting requirements. Therefore, DOE certifies that this final determination has no significant economic impact on a substantial number of small entities. Accordingly, DOE has not prepared a final regulatory flexibility analysis (âFRFAâ) for this final determination. DOE will transmit this certification and supporting statement of factual basis to the Chief Counsel for Advocacy of the Small Business Administration for review under 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act</HD>
+                <P>Manufacturers of ECUACs and WCUACs must certify to DOE that their equipment complies with any applicable energy conservation standards. In certifying compliance, manufacturers must test their equipment according to the DOE test procedures for ECUACs and WCUACs, including any amendments adopted for those test procedures. DOE has established regulations for the certification and recordkeeping requirements for all covered consumer products and commercial equipment, including ECUACs and WCUACs. 76 FR 12422 (March 7, 2011); 80 FR 5099 (Jan. 30, 2015). The collection-of-information requirement for the certification and recordkeeping is subject to review and approval by OMB under the Paperwork Reduction Act (âPRAâ). This requirement has been approved by OMB under OMB control number 1910-1400. Public reporting burden for the certification is estimated to average 35 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.</P>
+                <P>Notwithstanding any other provision of the law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the PRA, unless that collection of information displays a currently valid OMB Control Number.</P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>Pursuant to the National Environmental Policy Act of 1969 (âNEPAâ), DOE has analyzed this final determination in accordance with NEPA and DOE's NEPA implementing regulations (10 CFR part 1021). DOE has determined that this rule qualifies for categorical exclusion A4 because it is an interpretation or ruling in regards to an existing regulation and otherwise meets the requirements for application of a categorical exclusion. See 10 CFR 1021.410. Therefore, DOE has determined that promulgation of this rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA, and does not require an environmental assessment or an environmental impact statement.</P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>
+                    Executive Order 13132, âFederalism,â 64 FR 43255 (Aug. 10, 1999), imposes certain requirements on Federal agencies formulating and implementing policies or regulations that preempt State law or that have Federalism implications. The Executive Order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive Order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have Federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735. As this final determination does not amend the standards for ECUACs and WCUACs, there is no impact on the policymaking discretion of the States. Therefore, no action is required by Executive Order 13132.
+                    <PRTPAGE P="37012"/>
+                </P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity, (2) write regulations to minimize litigation, (3) provide a clear legal standard for affected conduct rather than a general standard, and (4) promote simplification and burden reduction. 61 FR 4729 (Feb. 7, 1996). Regarding the review required by section 3(a), section 3(b) of Executive Order 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the preemptive effect, if any, (2) clearly specifies any effect on existing Federal law or regulation, (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction, (4) specifies the retroactive effect, if any, (5) adequately defines key terms, and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this final determination meets the relevant standards of Executive Order 12988.</P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (âUMRAâ) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments and the private sector. Public Law 104-4, sec. 201 (codified at 2 U.S.C. 1531). For a proposed regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a proposed âsignificant intergovernmental mandate,â and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect them. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. 62 FR 12820. DOE's policy statement is also available at 
+                    <E T="03">https://energy.gov/sites/prod/files/gcprod/documents/umra_97.pdf.</E>
+                </P>
+                <P>This final determination does not contain a Federal intergovernmental mandate, nor is it expected to require expenditure of $100 million or more in one year by State, local, and Tribal governments, in the aggregate, or by the private sector. As a result, the analytical requirements of UMRA do not apply.</P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final determination would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>Pursuant to Executive Order 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (March 15, 1988), DOE has determined that this final determination would not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant to OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act (April 24, 2019), DOE published updated guidelines which are available at 
+                    <E T="03">https://www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf.</E>
+                     DOE has reviewed this final determination under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.
+                </P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to the Office of Information and Regulatory Affairs (âOIRAâ) at OMB, a Statement of Energy Effects for any significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule, and that (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use.</P>
+                <P>Because this final determination does not amend the current standards for ECUACs and WCUACs, it is not a significant energy action, nor has it been designated as such by the Administrator at OIRA. Accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">L. Information Quality</HD>
+                <P>
+                    On December 16, 2004, OMB, in consultation with the Office of Science and Technology Policy (âOSTPâ), issued its Final Information Quality Bulletin for Peer Review (âthe Bulletinâ). 70 FR 2664 (Jan. 14, 2005). The Bulletin establishes that certain scientific information shall be peer reviewed by qualified specialists before it is disseminated by the Federal Government, including influential scientific information related to agency regulatory actions. The purpose of the bulletin is to enhance the quality and credibility of the Government's scientific information. Under the Bulletin, the energy conservation standards rulemaking analyses are âinfluential scientific information,â which the Bulletin defines as âscientific information the agency reasonably can 
+                    <PRTPAGE P="37013"/>
+                    determine will have, or does have, a clear and substantial impact on important public policies or private sector decisions.â 
+                    <E T="03">Id.</E>
+                     at 70 FR 2667.
+                </P>
+                <P>
+                    In response to OMB's Bulletin, DOE conducted formal peer reviews of the energy conservation standards development process and the analyses that are typically used and has prepared a report describing that peer review.
+                    <SU>15</SU>
+                    <FTREF/>
+                     Generation of this report involved a rigorous, formal, and documented evaluation using objective criteria and qualified and independent reviewers to make a judgment as to the technical/scientific/business merit, the actual or anticipated results, and the productivity and management effectiveness of programs and/or projects. DOE has determined that the peer-reviewed analytical process continues to reflect current practice, and the Department followed that process for developing energy conservation standards in the case of the present rulemaking.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        ââEnergy Conservation Standards Rulemaking Peer Review Report.â 2007. Available at 
+                        <E T="03">https://energy.gov/eere/buildings/downloads/energy-conservation-standards-rulemaking-peer-review-report-0.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">VI. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final determination.</P>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on July 7, 2021, by Kelly Speakes-Backman, Principal Deputy Assistant Secretary and Acting Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE 
+                    <E T="04">Federal Register</E>
+                     Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on July 8, 2021.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2021-14837 Filed 7-13-21; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

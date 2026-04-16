@@ -1,0 +1,408 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="45537"/>
+                <AGENCY TYPE="F">DEPARTMENT OF AGRICULTURE</AGENCY>
+                <SUBAGY>Federal Crop Insurance Corporation</SUBAGY>
+                <CFR>7 CFR Parts 402, 407, and 457</CFR>
+                <RIN>RIN 0563-AC19</RIN>
+                <SUBJECT>Catastrophic Risk Protection Endorsement; Group Risk Plan of Insurance Regulations; and the Common Crop Insurance Regulations, Basic Provisions</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Federal Crop Insurance Corporation, USDA.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Federal Crop Insurance Corporation (FCIC) finalizes the Catastrophic Risk Protection Endorsement, the Group Risk Plan of Insurance Regulations, and the Common Crop Insurance Regulations, Basic Provisions to revise those provisions as mandated by the Food, Conservation, and Energy Act of 2008 (2008 Farm Bill). The changes will apply for the 2010 and succeeding crop years for all crops with a 2010 crop year contract change date on or after the effective date of this rule and for the 2011 and succeeding crop years for all crops with a 2010 crop year contract change date prior to the effective date of this rule.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>
+                        <E T="03">Effective Date:</E>
+                         This rule is effective October 5, 2009.
+                    </P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>Erin Albright, Risk Management Specialist, Product Management, Product Administration and Standards Division, Risk Management Agency, United States Department of Agriculture, Beacon FacilityâMail Stop 0812, PO Box 419205, Kansas City, MO 64141-6205, telephone (816) 926-7730.</P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Executive Order 12866</HD>
+                <P>The Office of Management and Budget (OMB) has determined that this rule is non-significant for the purposes of Executive Order 12866 and, therefore, it has not been reviewed by OMB.</P>
+                <HD SOURCE="HD1">Paperwork Reduction Act of 1995</HD>
+                <P>Pursuant to the provisions of the Paperwork Reduction Act of 1995 (44 U.S.C. chapter 35), the collections of information in this rule have been approved by OMB under control number 0563-0053 through March 31, 2012.</P>
+                <HD SOURCE="HD1">E-Government Act Compliance</HD>
+                <P>FCIC is committed to complying with the E-Government Act of 2002, to promote the use of the Internet and other information technologies to provide increased opportunities for citizen access to Government information and services, and for other purposes.</P>
+                <HD SOURCE="HD1">Unfunded Mandates Reform Act of 1995</HD>
+                <P>Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) establishes requirements for Federal agencies to assess the effects of their regulatory actions on State, local, and tribal governments and the private sector. This rule contains no Federal mandates (under the regulatory provisions of title II of the UMRA) for State, local, and tribal governments or the private sector. Therefore, this rule is not subject to the requirements of sections 202 and 205 of UMRA.</P>
+                <HD SOURCE="HD1">Executive Order 13132</HD>
+                <P>It has been determined under section 1(a) of Executive Order 13132, Federalism, that this rule does not have sufficient implications to warrant consultation with the States. The provisions contained in this rule will not have a substantial direct effect on States, or on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government.</P>
+                <HD SOURCE="HD1">Regulatory Flexibility Act</HD>
+                <P>FCIC certifies that this regulation will not have a significant economic impact on a substantial number of small entities. Program requirements for the Federal crop insurance program are the same for all producers regardless of the size of their farming operation. For instance, all producers are required to submit an application and acreage report to establish their insurance guarantees and compute premium amounts, and all producers are required to submit a notice of loss and production information to determine the amount of an indemnity payment in the event of an insured cause of crop loss. Whether a producer has 10 acres or 1,000 acres, there is no difference in the kind of information collected. To ensure crop insurance is available to small entities, the Federal Crop Insurance Act authorizes FCIC to waive collection of administrative fees from limited resource farmers. FCIC believes this waiver helps to ensure that small entities are given the same opportunities as large entities to manage their risks through the use of crop insurance. A Regulatory Flexibility Analysis has not been prepared since this regulation does not have an impact on small entities, and, therefore, this regulation is exempt from the provisions of the Regulatory Flexibility Act (5 U.S.C. 605).</P>
+                <HD SOURCE="HD1">Federal Assistance Program</HD>
+                <P>This program is listed in the Catalog of Federal Domestic Assistance under No. 10.450.</P>
+                <HD SOURCE="HD1">Executive Order 12372</HD>
+                <P>This program is not subject to the provisions of Executive Order 12372, which require intergovernmental consultation with State and local officials. See the Notice related to 7 CFR part 3015, subpart V, published at 48 FR 29115, June 24, 1983.</P>
+                <HD SOURCE="HD1">Executive Order 12988</HD>
+                <P>This final rule has been reviewed in accordance with Executive Order 12988 on civil justice reform. The provisions of this rule will not have a retroactive effect. The provisions of this rule will preempt State and local laws to the extent such State and local laws are inconsistent herewith. With respect to any direct action taken by FCIC or to require the insurance provider to take specific action under the terms of the crop insurance policy, the administrative appeal provisions published at 7 CFR part 11 must be exhausted before any action against FCIC for judicial review may be brought.</P>
+                <HD SOURCE="HD1">Environmental Evaluation</HD>
+                <P>
+                    This action is not expected to have a significant economic impact on the quality of the human environment, health, or safety. Therefore, neither an 
+                    <PRTPAGE P="45538"/>
+                    Environmental Assessment nor an Environmental Impact Statement is needed.
+                </P>
+                <HD SOURCE="HD2">Background</HD>
+                <P>
+                    This rule finalizes changes to the Catastrophic Risk Protection Endorsement, the Group Risk Plan of Insurance Regulations, and the Common Crop Insurance Regulations, Basic Provisions, mandated by the 2008 Farm Bill, that were published by FCIC on November 24, 2008, as a notice of interim rulemaking in the 
+                    <E T="04">Federal Register</E>
+                     at 73 FR 70861-70865. The public was afforded 60 days to submit written comments and opinions.
+                </P>
+                <P>A total of 52 comments were received from 14 commenters. The commenters were reinsured companies, conservation organizations, a state agricultural association, an insurance service organization, a grower association, a government agency, and other interested parties. The public comments received are organized below by the issues identified in this rule and the specific public comments received. The comments received and FCIC's responses are as follows:</P>
+                <HD SOURCE="HD2">General</HD>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter asked how the changes in the interim rule will be conveyed to the insureds. The commenter asked whether the changes will be added to the Basic Provisions as an endorsement or whether the insurance providers will be required to issue a completely new set of Basic Provisions.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The changes will be issued in a revised Farm Bill Amendment. Therefore, the insurance providers will only have to issue the revised endorsement rather than reissue the entire Basic Provisions.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A few commenters stated the language in this interim rule has already been sent, or is in the process of being sent, to all affected policyholders. If RMA makes any changes to what is in the interim rule, the commenters would recommend that any such changes to the Farm Bill Amendment necessitated by the final rule be issued in conjunction with the Administrative Remedies for Non-Compliance Final Rule language (7 CFR Part 400, 407, and 457; RIN 0563-AB73 published on December 18, 2008) instead of having another separate revised Farm Bill Amendment.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     FCIC has already issued the Administrative Remedies for Non-Compliance final rule language in the Sanctions Amendment. Therefore, any changes made in this final rule will result in the revision of the Farm Bill Amendment.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A few commenters stated the Supplementary Information for Executive Order 12866 in item number (3) indicates that this will not impact a large number of insured producers. There are a large number of current policyholders who have their own structures for farm-stored harvested production, and if a substantial percentage of these producers elect to extend the settlement of their claims, this could result in a large number of producers being impacted by this rule.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The provisions only provide a producer the option to postpone settlement of their claim if they have farm-stored production. FCIC does not anticipate a large number of producers will elect this option. Further, the provisions only allow a short delay for calculating a claim and only when there is farm-stored production. Therefore, FCIC does not anticipate the changes within this provision will significantly impact a large number of producers.
+                </P>
+                <HD SOURCE="HD2">Linkage Requirements</HD>
+                <P>
+                    <E T="03">Comment:</E>
+                     A few commenters stated FCIC has proposed removing all references to other United States Department of Agriculture (USDA) program benefits (linkage requirements). A commenter stated even though the question of eligibility is for other agencies to determine, their recommendation would be to maintain this language in the provisions so producers are aware of these requirements. A commenter stated while this makes sense since the question of eligibility and the requirements are dependent on those other programs as they become available, and such details should be provided by those other agencies, it would seem that there should be at least some mention of these potential requirements in the crop insurance policy language so policyholders are aware of them. Both commenters stated if FCIC chooses to continue with removing all language regarding linkage requirements from the policies, it would be beneficial if insurance providers were provided with some kind of notification when those linkage requirements are imposed or changed.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     Producers are generally aware of other USDA program benefits, so FCIC does not believe the addition of a general provision would be of any assistance to them. Further, these requirements have changed over the years. As stated in the interim rule, any program eligibility requirements for a particular program are best provided by the agency administering such program.
+                </P>
+                <HD SOURCE="HD2">Delay of Claims for Farm-Stored Production</HD>
+                <P>
+                    <E T="03">Comment:</E>
+                     A few commenters stated section 12014 of the Farm Bill allows producers with farm-stored production to elect to extend the settlement of their claim for up to four additional months beyond the 60 days allowed in the current policy provisions. The commenters stated this language needs to clarify that it is applicable only to grain crops and also recommended the word âharvestedâ be inserted after the word âHaveâ and in front of the words âfarm-stored productionâ to preclude any arguments from policyholders who maintain they are storing such production in the field (since there was not a definition of âfarm-stored productionâ being added to the provisions).
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     These provisions were intended to only apply to harvested farm-stored grain and FCIC has revised the provisions accordingly.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A few commenters stated the new farm-stored production provisions could potentially present some additional problems of extending the final determination of production for actual production history (APH) purposes beyond the applicable production reporting date. Policyholders may also feel this provides them with additional time to pay their premium beyond the termination date. There could also be APH reviews or other quality control reviews that are delayed beyond the April 30 deadline for reporting such information to the RMA because of this language. The additional time also allows for more things to happen to the grain before a final determination of production is made.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     FCIC is statutorily mandated to allow producers to delay their claims. However, FCIC does not anticipate many producers will opt to wait the full 180 days to determine the amount of farm-stored production. FCIC has added provisions notifying producers they will be assigned their prior year's approved yield in accordance with the temporary yield procedure contained in the Crop Insurance Handbook when extensions go beyond the date production reports are due. FCIC has also added provisions notifying producers that no additional time is provided for payment of premium nor can damage that occurs after grain is stored be covered. When quality control reviews cannot be completed before reports are due because production amounts are not yet 
+                    <PRTPAGE P="45539"/>
+                    available, it should be noted in the report remarks that the review is not yet complete because of the delayed measurement.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A few commenters questioned what happens if the producer elects to delay measurement of the grain for an additional four months but subsequently removes and sells the grain during the four month period. The commenters asked whether the production from the settlement sheets with the buyer would be used in lieu of any measurements in this situation. The commenters also asked what happens if the grain is lost due to tornado or fire during this four month period. The added policy language does not address these issues.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     When production is sold, the sales records will be used to determine the amount of production provided the records are verifiable. Since harvest ends the insurance period, no coverage is provided for any subsequent damage. Provisions have been added to make this clear. When production is lost after the end of the insurance period and no records of production are available, no claim can be paid because there is no way to accurately adjust the claim.
+                </P>
+                <HD SOURCE="HD2">Native Sod Acreage Located in the Prairie Pothole National Priority Area</HD>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter stated placing the Farm Service Agency (FSA) in the position of determining if the soil has been tilled in the past, without an appeals process for the producer, is unacceptable. FSA records are available for only the last 30 to 40 years while the land has been operated for at least 100 years. With the current definition of native sod and no appeals rights, any grass area that does not have a farm number and a field number will be native sod. This goes far beyond the intent of the conference committee and the managers.
+                </P>
+                <P>
+                    A few commenters stated there is acreage that was farmed over a decade ago and now appears to be native sod. This acreage was not farmed again until after May 22, 2008. Therefore, they believe this acreage will not be classified as native sod as defined in the Farm Bill Amendment. RMA must specify the acceptable documentation necessary to prove acreage last farmed over a decade ago is not native sod. This will allow the producer to avoid the 5-year moratorium on coverage if the Governor of a State enacts section 508(o) of the Federal Crop Insurance Act (Act). Because âno record of being tilledâ is based on FSA records and FSA records exist for a limited number of years, as are the producer's records, the commenters asked if acreage that was previously farmed but for which no records exist to prove such farming, is returned to a ânative sodâ status by fact of âno 
+                    <E T="03">record</E>
+                     of being tilled.â If some documentation exists to prove old tillage, the commenters asked how the insurance providers will know if such documentation is considered acceptable (
+                    <E T="03">e.g.</E>
+                    , Fish and Wildlife Refuge rental agreements). RMA must specify a list of documents or document criteria that is acceptable to prove prior tillage of a piece of ground that appears to be native sod but the land owner/producer claims is not. The commenter suggests RMA simply indicate that any available documentation, when outside the retention period, must contain an acceptable legal description (
+                    <E T="03">e.g.</E>
+                    , 578's, CRP contracts).
+                </P>
+                <P>Another commenter recommended the rule specify these records must consist of some type of official, written record tied to the specific piece of property under evaluation or consideration which indicates the property had been tilled at some point in the past; producers should not be allowed to self-certify any tillage records.</P>
+                <P>Another commenter stated FSA records are not infallible. The commenter recommended allowing a landowner to present the FSA with hard evidence that the land has been tilled and cropped in the past. If that evidence is persuasive, the FSA should be allowed to determine that the land had been previously tilled and is thus outside the operation of the rule and thus eligible for crop insurance.</P>
+                <P>A few commenters were concerned about the definition of native sod. The legislative definition of native sod differs from the definition in the regulation. The legislation defines native sod as land âthat has never been tilled for the production of an annual crop as of the date of enactment.â The regulation defines native sod as land âthat has no record date of being tilled (determined in accordance with Farm Service Agency (FSA) records) as of the date of enactment.â The definition in the regulation is significantly more restrictive. In most cases, FSA records are only available for the past 30 or 40 years while the land may have been in production as long as a century ago. It appears that the burden is on the grower to dispute the FSA records even though there is no appeals process available.</P>
+                <P>The commenters stated Congress did not limit the evidence or information a landowner could use to show that the land had been used for the production of an annual crop at some point in the past. Instead of relying on FSA records producers should be permitted to provide photos, personal records and affidavits as evidence that the land in question has been tilled in the past.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     FCIC agrees records other than those from FSA may be used to determine whether land has been tilled in the past. The provisions have been revised to allow the use of written verifiable records from other sources that are acceptable to the insurance provider. Since the kinds of records that could be used to verify prior tillage may vary considerably, FCIC does not intend to provide a specific list of documents, because doing so may eliminate the use of some acceptable records that would clearly indicate prior tillage. Acceptable records of tillage must be verifiable and identify the location of the acreage. Self-certification of past tillage is not acceptable. However, past farm records provided by a producer may be acceptable.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter recommended considering the phrase âtilledâ in its broadest meaning, which they believe agrees with the intent of Congress. That is, if land is converted to cropland using plowing, disking, chemicals like glyphosate, or other methods, the effect is the same and the conversion should fall under the ânative sodâ rules.
+                </P>
+                <P>Another commenter wanted to ensure the term âtilledâ is understood to broadly encapsulate the various means by which acreage may be prepared for an annual crop, including the understanding that the act of seeding an annual crop constitutes tilling. Acreage may be converted with many methods, including chemical treatment and no-till drilling, but the determinative factor is the acreage has no previous record of any means of conversion for an annual crop.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     Plowing, disking, no-till drilling following the termination of existing plants, and chemical tillage would all be considered tillage for the purpose of these provisions, provided it was done for the production of an annual crop. FCIC has added a definition to so specify.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter stated it is not clear what constitutes native sod. The regulation merely transposes the legislative languageâthis is unacceptable. As there is with other conservation programs, there should be a specific list of criteria for what generally constitutes native sod (tall grass, mixed grasses and/or short prairie grasses), specific varieties of sod grasses covered by this provision, and how it will be identified and applied.
+                </P>
+                <P>
+                    A commenter stated there should be an opt-out clause in periods of low or 
+                    <PRTPAGE P="45540"/>
+                    projected low grain stocks, such as because of drought or increased grain demand.
+                </P>
+                <P>The economic implications of this provision and the likelihood it could discourage much needed economic activity on the state level must be considered. There needs to be economic factors to allow a state to opt into or out of the program.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     There are no limitations on what factors a Governor may use to determine whether they will elect to implement the provisions. The choice is for the Governor to make. Further, the 2008 Farm Bill does not provide any authority that would allow an opt-out clause. Once the Governor makes the election, the only exception is for the five acre de minimis. FCIC does not believe specifying tall grass or short prairie grass, etc., provides any additional clarification. The term ânative grassesâ in the definition is clearly inclusive of these grass types. It is up to agricultural experts to determine what constitutes native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing for a particular area. Therefore, no changes have been made in response to this comment.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter stated the definition of ânative sodâ would allow brome grass or other grass-like plants to be declared native sod. The intent is to protect tall-, mixed-, and short-grass prairie. The definition should identify the grasses in those prairies such as big bluestem, Indian grass, green needle grass, blue gamma grass, buffalo grass, little blue stem, etc. A specific list of criteria must be developed for native sod including grass types, soils, and erosion factors before this program is put into effect.
+                </P>
+                <P>Another commenter stated it is clear the definition specifies native grasses but also specifies other plants (grass-like, or forbs, or shrubs) all of which are suitable for grazing and browsing. They emphasized this for the fact the ânativeâ designation of existing grasses is just one of multiple possible plants that meet the definition. In using âorâ the definition emphasizes, in effect, the native or non-native status of the plants present is not the compelling criteria. Rather, it is the broadly referenced native grass, grass-like plants, forbs, or shrubs which are of a type suitable for grazing and browsing.</P>
+                <P>Secondly, and of ultimately higher determinative value, the definition requires the suitable plants are present on âlandâ (section 12020 of the 2008 Farm Bill) or âacreageâ (interim rule) that has never been tilled for the production of an annual crop. The commenter emphasized this second criteria is of higher determinative value because the broad definition of suitable plants ultimately depends upon the plants simply being suitable for grazing and browsing. Additionally, as determined by the âandâ in the interim rules definition which reads â* * * and that has no record of being tilled * * *,â the prevailing factor is that the acreage (âdetermined in accordance with FSA recordsâ) has not previously been in annual crop production.</P>
+                <P>The commenter emphasized these points to clarify appropriate establishment and subsequent adherence to the rule should never be dependent on the native status or specific species of grass or plants. Beyond simply consisting of various plants being suitable for grazing and browsing, the final determining factor is that the acreage has not previously been converted for an annual crop.</P>
+                <P>Another commenter recommended reordering the definition of native sod to read as follows: âAcreages on which no records exist indicating tillage (determined in accordance with FSA records) for the production of an annual crop on or before May 22, 2008, and the plant cover is composed principally of grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.â</P>
+                <P>While the interim rule does not suggest there is a priority in the criteria, the commenter believed the lack of tillage history is a more important indicator of native sod than the plant community description provided. Native sod may also contain nonnative species that have invaded from adjacent habitat and may encounter changes in vegetation composition associated with natural succession and wildfire. Furthermore, the vegetation composition may be difficult to discern by FCIC or FSA staff who are not trained botanists or biologists because plant communities may also vary depending on intensity and frequency of drought, fire and grazing. For these reasons, the commenter recommended the word ânativeâ be stricken from the definition. They believe that doing so, in combination with the suggested reorganization of the definition, will facilitate implementation of the rule and fulfill Congressional intent.</P>
+                <P>Another commenter stated under the law, the definition of âNative Sodâ includes land â* * * on which the plant cover is composed principally of native grasses, grasslike plants, forbs, or shrubs suitable for grazing and browsing * * *â Given the clear Congressional intent of the language, USDA need not consider arguments about which plants should be included as ânative grasses, grasslike plantsâ etc. The real test is whether the producer is converting land to cropland that has not been converted before, and upon which there is therefore no prior crop insurance history. USDA properly relied on statutory language in defining âNative Sod.â The commenter would oppose USDA adopting a substantially different definition of Native Sod. One practice USDA should be wary of is a landowner drilling non-native plant species into a native prairie, and then claiming what they are breaking is not `native sod' and thus outside the operation of the rule. The status of the land as of May 22, 2008, should determine program eligibility under this provision.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     The primary consideration is whether the acreage has been tilled in the past and FCIC has reordered the definition accordingly. The term ânativeâ cannot be removed from the definition because it is specified in the 2008 Farm Bill. Acreage that has never been tilled is very likely to contain the broad categories of plant types listed in the definition. The intent is to protect acreage with native plants that has never been tilled. Acreage that has been tilled and planted with non-native species, such as Smooth Brome Grass, would not be included under the definition of ânative sod.â The native sod provisions are applicable in a wide geographic area and FCIC cannot list all the native plants that may be found in these areas. In questionable cases, agricultural experts in the area may be consulted to determine the native plants for a specific area. FCIC has added a definition of âtilledâ to make it clear that simply drilling non-native plant species into native sod without terminating the native plants would not be considered tilling. Whether there is a prior crop insurance history is not material. The paramount question is whether the acreage has previously been tilled.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     Several comments were received regarding the Governor's authority to determine whether section 508(o) of the Act will be effective in their State. A commenter stated RMA must impose a specific deadline that limits the amount of time the Governor has to make this election. If RMA does not establish a deadline to limit the decision-making window, there is the potential a producer may suffer unwarranted penalties. A fixed number of days following the applicable acreage reporting date is acceptable. In addition, RMA must clarify what crop year this will apply to if the election is imposed after said deadline. (
+                    <E T="03">i.e.,</E>
+                     if section 508(o) of the Act becomes effective more than 
+                    <PRTPAGE P="45541"/>
+                    60 days past the applicable acreage reporting deadline specified in the Special Provisions for the crop year, the election will be effective for the following crop year and succeeding crop years).
+                </P>
+                <P>A few commenters stated as the rule notes, the Governor of each of the five states has the sole authority to determine whether the provision will be operative in his or her state. The commenters appreciated and supported USDA's suggestion that the Governors make their designation by February 15, 2009, to put everyone on notice and allow crop insurance to be purchased where available. The commenters also recognized this as a helpful suggestion with practical advantages for avoiding the complexities of required benefit repayments and premium refunds in the first crop year in which the election may be made. However, the statute does not set a deadline for Governors to make this determination.</P>
+                <P>A few commenters questioned whether the Governor's election to participate or not participate in the provision is a one-time permanent election or if there is some other time period during which the election applies. The rule should clarify whether the Governors can elect to participate at any time in the future or can change their decision at a later time. A commenter questioned if the Governor of a respective state can change their election, does the election start at the date of the election, is the election for one year, or is it a permanent decision. If the election can be changed, the commenter asked whether FCIC would be obligated to âlook-backâ to the May 22, 2008 enactment date of the Farm Bill. A few commenters stated it is not clear whether a future Governor can change the election made by a predecessor.</P>
+                <P>A few commenters recommended the decisions made by the Governor during the 2009 crop year should be final, and language should be inserted into the provisions to clarify the finality of these decisions. The commenters also recommended any decision made by the Governor should be maintained for the duration of the 2008 Farm Bill regardless of whether the Governor who made the decision remains in office during this period. The commenters believed that would ensure consistency for the duration of the 2008 Farm Bill, in fairness to farmers within the affected region who might otherwise be impacted by fines or insurance repayment should a decision be changed after 2009. Another commenter stated section 12020 of the 2008 Farm Bill and the interim rule clearly do not and should not place any limit upon when a current or future Governor within the Prairie Pothole National Priority Area may elect to make section 508(o) of the Act effective, and section 12020 of the 2008 Farm Bill and the interim rule clearly do not and should not enable a current or future Governor to nullify section 508(o) of the Act if an election has been made previously. However, with respect to the complexities of future required benefit repayments and premium refunds on any acreage in the first five years after section 508(o) of the Act is made effectiveâon native sod acreage converted anytime after May 22, 2008âthe commenter recommended that future elections should become effective only prior to February 15 of a given year. Or stated alternatively, elections made after February 15 will become effective for the next crop year.</P>
+                <P>
+                    A few commenters stated it is not clear what constitutes application of a Governor's approval and how the FCIC will notify individual farmers of the election (
+                    <E T="03">e.g.,</E>
+                     a phone call, a document transmitted in writing or by electronic e-mail). To avoid any confusion, it would seem prudent for the FCIC to require a Governor's election in writing. Also, an application should only apply from the date of a Governor's approval. The commenter opposed retroactive âlook-backsâ of any indemnities or other payments.
+                </P>
+                <P>A few commenters had concerns growers will be subject to retroactive penalty as a result of indemnities or disaster assistance payments in the event a Governor decides to enroll in the program at some future date. A producer should only forfeit indemnities and disaster payments that would be received after a Governor elects to make section 508(o) of the Act effective in the state since prior to that time the statute is not applicable. Similarly, the interim rule does not explain whether a Governor has the authority later to withdraw their state from the program once the decision has been made to enroll.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     The 2008 Farm Bill does not contain any deadlines for the Governors to decide whether to implement section 508(o) of the Act. Therefore, FCIC lacks the authority to impose a deadline. However, in correspondence to the Governors and in the interim rule, FCIC explained the potential negative impacts of a delayed decision. Any time a Governor makes the election, the provision becomes effective for any acreage newly tilled after May 22, 2008, and insurance is not available for the first five years of planting. Producers who received an indemnity for acreage tilled after this date will be required to repay it and any premiums paid must be refunded. If the election could be changed, it would effectively negate the provision. If a Governor elects to implement section 508(o) of the Act, it will be announced by RMA via a Manager's Bulletin and posted on the RMA Web site at 
+                    <E T="03">http://www.rma.usda.gov/.</E>
+                     Insurance providers will be directed to notify individual producers when such announcement is made.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     Several commenters stated the interim rule specifies the counties in the Prairie Pothole National Priority Area by referencing the RMA Web site. The commenters recommended the rule identify the specific counties within the States of Iowa, Minnesota, Montana, North Dakota, and South Dakota that are included in the RMA Web site map of the Prairie Pothole National Priority Area to make it clearer, and to avoid inadvertently changing the operation of the rule should the Web site be changed, updated, or become temporarily unavailable. The Web site map should be cited as a reference tool.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The counties identified on the RMA Web site are consistent with the counties identified by the FSA, Agricultural Resource Conservation Program 2-CRP (Revision 4) dated April 28, 2008. The Web site would only be changed or updated if the designated counties change. However, FCIC will include the FSA reference in case the Web site is unavailable.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A few comments were received regarding how the native sod provisions are only applicable in the Prairie Pothole National Priority Area. A commenter questioned why the area in the Prairie Pothole National Priority Area is of more concern than other areas in the state. The arbitrary decision makes it impossible to explain to producers that native sod in the Prairie Pothole National Priority Area
+                    <E T="03"/>
+                     is a higher priority than native sod in other parts of the state. A commenter believed the native sod provisions of the 2008 Farm Bill resulted from a clear problem that applies well beyond the Prairie Pothole National Priority Area. Throughout the Great Plains, and in other parts of the country, native prairie, virgin forest, and other types of native habitat are being tilled, cleared and converted to cropland. Much of this land is marginal and would not be farmed if the risk in doing so were not underwritten by taxpayer-subsidized crop insurance and disaster assistance programs, along with commodity payments and other USDA programs.
+                </P>
+                <P>
+                    The commenter stated in sagebrush grasslands, the rapid pace of conversion 
+                    <PRTPAGE P="45542"/>
+                    represents a long-term threat to the health and viability of sage-grouse populations and other sagebrush obligate species. Portions of the Prairie Pothole National Priority Area within Montana include important sage-grouse habitat as well as native grasslands important to migratory birds of concern. Unfortunately, the current focus on the Prairie Pothole National Priority Area excludes significant blocks of native grasslands within the Great Plains in Montana and other states. Putting the native sod provisions in effect in the Prairie Pothole National Priority Area would be a good first step, but the job is nowhere near complete if we seek to maintain functional working landscapes throughout our nation.
+                </P>
+                <P>The commenter urged USDA to examine this issue carefully, and to undertake monitoring and research on how much native prairie and other native habitat is being converted to cropland and the influence of USDA insurance, commodity, and other programs in those decisions. Should one or more Governors choose to have the provision apply in their state, it would provide an invaluable opportunity to study side-by-side comparisons of conversion rates with and without the availability of Federal crop insurance.</P>
+                <P>Another commenter stated USDA data shows the loss of rangeland and pastureland is not limited to the states of the Prairie Pothole National Priority Area. In fact, data cited in a Government Accountability Office (GAO) report shows states like Colorado, New Mexico and Texas are experiencing losses as bad as or worse than those in the Prairie Pothole National Priority Area. Landowners throughout the country who are maintaining grasslands receive none of the Federal farm program supports that studies show are an important factor in converting grasslands to annual crop production. Again, the GAO detailed that even among annual crop producers, the landowners that are converting the most native sod are receiving far larger insurance benefits than their neighbors who are not. Further, the Federal farm program is paying landowners to re-establish perennial grass and plants on previously converted sod at the very same time crop insurance and other Federal benefits are prodding the conversion of perennial grasslands.</P>
+                <P>The commenter recommended the âadded landâ provision of crop insurance rules be amended to require land without production crop history prior to May 22, 2008, that is subsequently planted to a crop, must establish a full four to ten year actual production history prior to becoming eligible for insurance.</P>
+                <P>A commenter strongly recommended an incentive-based program to help preserve tall-, mixed-, and short-grass prairies in the entire state of South Dakota, as opposed to the current sod saver program for the Prairie Pothole National Priority Area.</P>
+                <P>Another commenter noted in their explanatory language on the new Farm Bill, the Managers Report cites a GAO report and recommendation that USDA should â(1) track annual conversion and provide current data to policymakers, and (2) conduct a study of the relationship between farm program payments and land conversion and report findings to Congress * * * The Managers intend for the Secretary to undertake a study on the influence of the crop insurance program on the conversion of native sod to crop production * * *â and to provide recommendations to Congress.</P>
+                <P>The commenter echoed this call for careful study and recommendations. They also asked USDA to look for other opportunities within the existing structure of Federal crop insurance and non-insured disaster assistance payments to reduce or eliminate the taxpayer-paid incentives that are now in place that encourage landowners to break out native prairie and other native habitats, and to work to combat abuses of the current system that waste taxpayer money.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     Congress created an exception to the rule regarding the eligibility of acreage for insurance. Because it is an exception to the rule, it should not be read more broadly than it is written. The 2008 Farm Bill specifically provided the authority to implement these provisions in the Prairie Pothole National Priority Area. The 2008 Farm Bill also specified the 5-year period in which insurance cannot be offered after native sod acreage has been tilled. In addition, the crop insurance policy already contains provisions that limit insurance on certain acreage on which a crop was not previously planted or harvested in the previous three years. As conversion data is gathered and included in required reports to policymakers, policy changes may be vetted to determine the best land management practices that meet the needs of all land users.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter stated the interim rule makes native sod tilled after May 22, 2008, ineligible for crop insurance for the first five years an annual crop is planted. It appears this will also make the crop ineligible for any disaster payments because crop insurance is a requirement for disaster assistance. This reduces a risk management tool for the producer in the Prairie Pothole National Priority Area. The commenters asked for the justification for eliminating these tools for the producer in the Prairie Pothole National Priority Area and not for the producer across the road in another county that is not in the Prairie Pothole National Priority Area. The commenter recommended an incentive to not break the native sod with a pilot program or a CREP-like program of some sort. Producers who have gone out of the livestock business are limited in the use of the land under Sod Saver. The producer should make decisions based on his or her operation needs, not disincentives for change because he or she lives in the Prairie Pothole National Priority Area.
+                </P>
+                <P>Another commenter stated if a producer falls under the sod saver provisions in the interim rule, they are not eligible for disaster assistance. This would place these farmers at an economic disadvantage relative to other farmers. The commenter was opposed to that outcome.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     FCIC is required to implement the provisions of the 2008 Farm Bill. Further, its provisions limit crop insurance and noninsured crop disaster assistance program benefits. It does not expressly exclude the payment of disaster benefits. FSA provides disaster assistance and any program requirements for insurance are detailed in materials developed and issued by FSA. Producers should contact their local FSA office to verify disaster assistance program requirements.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter stated the interim rule adds a new subsection in section 3 of 7 CFR 407.9 and a new subsection in section 9 of 7 CFR 457.8 to specify when native sod is ineligible for crop insurance. The language is virtually identical in the two sections and is consistent with section 12020 of the 2008 Farm Bill, except in the final sentence of the sections: âIf the Governor makes this election after you have received an indemnity or other payment for native sod acreage, you may be required to repay the amount received and any premium for such acreage may be refunded to you.â
+                </P>
+                <P>Section 12020 of the 2008 Farm Bill states that, â* * * native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this subsection shall be ineligible during the first 5 crop years of planting * * *â</P>
+                <P>
+                    Both section 12020 of the 2008 Farm Bill and the interim rule affirm acreage tilled for production after May 22, 2008 is not insurable, so the commenter 
+                    <PRTPAGE P="45543"/>
+                    believed it will be necessary to specify that a payment received shall be repaid and a premium paid shall be refunded.
+                </P>
+                <P>Further to this point, paragraph d. of the âBackgroundâ section of the interim rule contains the same usage of âmayâ that the commenter asserts should be âshall.â As stated in paragraph d. in adherence to section 12020 of the 2008 Farm Bill, âThe 2008 Farm Bill is specific in that, at the election of the Governors of these states, any acreage of native sod that is tilled for production of an annual crop after the date of enactment will be ineligible for insurance for the first 5 crops years of planting.â The commenter agreed the 2008 Farm Bill is specific and that the ineligibility shall apply whenever a Governor elects to make section 508(o) of the Act effective.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     The commenter is correct that if the election is made by the Governor, acreage first tilled after May 22, 2008, is ineligible for insurance so the provisions should indicate prior payments will have to be repaid. FCIC has revised the provisions accordingly.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter stated the statutory language says âThe Secretary shall exempt areas of 5 acres or lessâ from the clause, which is designed to provide a `de minimum' exemption. The commenter believed the rule's language is clear that âany native sod acreage greater than 5 acresâ is not insurable. The commenter recommended the Secretary, in providing direction to USDA employees, ensures landowners do not skirt the rule by trying to claim an exemption for five acres of an area one year, five more acres the following year, another five acres the third year, etc.
+                </P>
+                <P>
+                    Another commenter stated section 12020 of the 2008 Farm Bill specifies a â
+                    <E T="03">De Minimis Acreage Exemptionâ</E>
+                     that requires areas of 5 acres or less to be exempt from the ineligibility designation. The commenter wanted to emphasize it would contradict the intent and spirit of the law to allow incremental conversion of contiguous parcels of 5 acres or less. They emphasized this point to clarify appropriate establishment and subsequent adherence to the rule must ensure multiple tracts of 5 acres or less that become contiguous tracts totaling more than 5 acres should be regarded as a single tract larger than 5 acres and therefore ineligible for crop insurance.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The intent is to provide an exception for acreage that is legitimately five acres or less. The intent is not to allow incremental increases in the amount of converted acreage. FCIC has added provisions specifying that adding to the acreage so more than 5 acres have been converted would subject all the converted acreage to the provisions beginning the year the producer cumulatively converted more than the 5 acre threshold.
+                </P>
+                <P>
+                    <E T="03">Comment:</E>
+                     A commenter stated they live in a wildlife paradise in Central North Dakota adjacent to U.S. Fish &amp; Wildlife land and the wildlife is every bit as plentiful and cared for on their land as on the government-owned land. They have watched all of these projects and land acquisitions over the years and the amount of tax-payer money that has been spent could surely help eliminate the deficit. The commenter asked USDA to use its influence to deter another costly program.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     Since the program changes contained in this rule were mandated by the 2008 Farm Bill, FCIC is required by law to implement the changes.
+                </P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 7 CFR Parts 402, 407 and 457</HD>
+                    <P>Crop insurance, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <REGTEXT TITLE="17" PART="40">
+                    <HD SOURCE="HD1">Final Rule</HD>
+                    <AMDPAR>Accordingly, as set forth in the preamble and under the authority of 7 U.S.C. 1506(l), 1506(o), the interim rule amending 7 CFR parts 402, 407 and 457 which was published at 73 FR 70861-70865 on November 24, 2008, is adopted as final with the following changes. The amendments listed below are effective for the 2010 and succeeding crop years for all crops with a 2010 crop year contract change date on or after the effective date of this rule and for the 2011 and succeeding crop years for all crops with a 2010 crop year contract change date prior to the effective date of this rule as follows:</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="407">
+                    <PART>
+                        <HD SOURCE="HED">PART 407âGROUP RISK PLAN OF INSURANCE REGULATIONS</HD>
+                    </PART>
+                    <AMDPAR>1. The authority citation for 7 CFR Part 407 continues to read as follows:</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="407">
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>7 U.S.C. 1506(l), 1506(o).</P>
+                    </AUTH>
+                    <AMDPAR>2. Amend Â§â407.9 as follows:</AMDPAR>
+                    <AMDPAR>a. Amend section 1 by adding the definition of âtilledâ and revising the definitions of ânative sodâ and âPrairie Pothole National Priority Area;âââ and</AMDPAR>
+                    <AMDPAR>b. Amend section 3 by revising paragraph (d).</AMDPAR>
+                    <P>The revised and added text reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â407.9 </SECTNO>
+                        <SUBJECT>Group risk plan common policy.</SUBJECT>
+                        <STARS/>
+                        <P>1. Definitions.</P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Native sod.</E>
+                             Acreage that has no record of being tilled (determined in accordance with FSA or other verifiable records acceptable to us) for the production of an annual crop on or before May 22, 2008, and on which the plant cover is composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Prairie Pothole National Priority Area.</E>
+                             Consists of specific counties within the States of Iowa, Minnesota, Montana, North Dakota or South Dakota as specified on the RMA Web site at 
+                            <E T="03">http://www.rma.usda.gov/</E>
+                            , or a successor Web site, or the Farm Service Agency, Agricultural Resource Conservation Program 2-CRP (Revision 4), dated April 28, 2008, or a subsequent publication.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Tilled.</E>
+                             The termination of existing plants by plowing, disking, burning, application of chemicals, or by other means to prepare acreage for the production of an annual crop.
+                        </P>
+                        <STARS/>
+                        <P>3. Insured and Insurable Acreage.</P>
+                        <STARS/>
+                        <P>(d) If the Governor of a State designated within the Prairie Pothole National Priority Area elects to make section 508(o) of the Act effective for the State, any native sod acreage greater than five acres located in a county contained within the Prairie Pothole National Priority Area that has been tilled after May 22, 2008, is not insurable for the first five crop years of planting following the date the native sod acreage is tilled.</P>
+                        <P>(1) If the Governor makes this election after you have received an indemnity or other payment for native sod acreage, you will be required to repay the amount received and any premium for such acreage will be refunded to you.</P>
+                        <P>(2) If we determine you have tilled less than five acres of native sod a year for more than one crop year, we will add all the native sod acreage tilled after May 22, 2008, and all such acreage will be ineligible for insurance for the first five crop years of planting following the date the cumulative native sod acreage tilled exceeds five acres.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <PART>
+                        <HD SOURCE="HED">PART 457âCOMMON CROP INSURANCE REGULATIONS</HD>
+                    </PART>
+                    <AMDPAR>3. The authority citation for 7 CFR part 457 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P>7 U.S.C. 1506(1), 1506(o).</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>4. Amend Â§â457.8 as follows:</AMDPAR>
+                    <AMDPAR>
+                        a. Amend section 1 by adding the definition of âtilledâ and revising the 
+                        <PRTPAGE P="45544"/>
+                        definitions of ânative sodâ and âPrairie Pothole National Priority Area;â
+                    </AMDPAR>
+                    <AMDPAR>b. Amend section 9 by revising paragraph (e); and</AMDPAR>
+                    <AMDPAR>c. Revise section 14(c) (Your Duties).</AMDPAR>
+                    <P>The revised and added text reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.8 </SECTNO>
+                        <SUBJECT>The application and policy.</SUBJECT>
+                        <P>1. Definitions.</P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Native sod.</E>
+                             Acreage that has no record of being tilled (determined in accordance with FSA or other verifiable records acceptable to us) for the production of an annual crop on or before May 22, 2008, and on which the plant cover is composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Prairie Pothole National Priority Area.</E>
+                             Consists of specific counties within the States of Iowa, Minnesota, Montana, North Dakota or South Dakota as specified on the RMA Web site at 
+                            <E T="03">http://www.rma.usda.gov/</E>
+                            , or a successor Web site, or the Farm Service Agency, Agricultural Resource Conservation Program 2-CRP (Revision 4), dated April 28, 2008, or a subsequent publication.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Tilled.</E>
+                             The termination of existing plants by plowing, disking, burning, application of chemicals, or by other means to prepare acreage for the production of an annual crop.
+                        </P>
+                        <STARS/>
+                        <P>9. Insurable Acreage.</P>
+                        <STARS/>
+                        <P>(e) Notwithstanding the provisions in section 9(a)(1), if the Governor of a State designated within the Prairie Pothole National Priority Area elects to make section 508(o) of the Act effective for the State, any native sod acreage greater than five acres located in a county contained within the Prairie Pothole National Priority Area that has been tilled after May 22, 2008, is not insurable for the first five crop years of planting following the date the native sod acreage is tilled.</P>
+                        <P>(1) If the Governor makes this election after you have received an indemnity or other payment for native sod acreage, you will be required to repay the amount received and any premium for such acreage will be refunded to you.</P>
+                        <P>(2) If we determine you have tilled less than five acres of native sod a year for more than one crop year, we will add all the native sod acreage tilled after May 22, 2008, and all such acreage will be ineligible for insurance for the first five crop years of planting following the date the cumulative native sod acreage tilled exceeds five acres.</P>
+                        <STARS/>
+                        <P>14. Duties in the Event of Damage, Loss, Abandonment, Destruction, or Alternative Use of Crop or Acreage.</P>
+                        <P>Your Dutiesâ</P>
+                        <STARS/>
+                        <P>(c) In addition to complying with the notice requirements, you must submit a claim for indemnity declaring the amount of your loss:</P>
+                        <P>(1) Not later than 60 days after the end of the insurance period unless, prior to the end of the 60 day period, you:</P>
+                        <P>(i) Request an extension in writing and we agree to such request (Extensions will only be granted if the amount of loss cannot be determined within such time period because the information needed to determine the amount of the loss is not available); or</P>
+                        <P>(ii) Have harvested farm-stored grain production and elect, in writing, to delay measurement of your farm-stored production and settlement of any potential associated claim for indemnity (Extensions will be granted for this purpose up to 180 days after the end of the insurance period).</P>
+                        <P>(A) For policies that require APH, if such extension continues beyond the date you are required to submit your production report, you will be assigned the previous year's approved yield as a temporary yield in accordance with applicable procedures.</P>
+                        <P>(B) Any extension does not extend any date specified in the policy by which premiums, administrative fees, or other debts owed must be paid.</P>
+                        <P>(C) Damage that occurs after the end of the insurance period (for example, while the harvested crop production is in storage) is not covered; and</P>
+                        <P>(2) That includes all information we require to settle the claim. Failure to submit a claim or provide the required information will result in no indemnity, prevented planting payment or replant payment (even though no indemnity or other payment is due, you will still be required to pay the premium due under the policy for the unit).</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on August 28, 2009.</DATED>
+                    <NAME>William J. Murphy,</NAME>
+                    <TITLE>Manager, Federal Crop Insurance Corporation.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. E9-21233 Filed 9-2-09; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 3410-08-P</BILCOD>
+        </RULE>

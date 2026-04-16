@@ -1,0 +1,140 @@
+<NOTICE>
+            <PREAMB>
+                <AGENCY TYPE="S">DEPARTMENT OF ENERGY</AGENCY>
+                <SUBJECT>Privacy Act of 1974; System of Records</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>U.S. Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Notice of a modified system of records.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        As required by the Privacy Act of 1974 and the Office of Management and Budget (OMB) Circulars A-108 and A-130, the Department of Energy (DOE or the 
+                        <PRTPAGE P="88256"/>
+                        Department) is publishing notice of a modification to an existing Privacy Act system of records. DOE proposes to amend System of Records DOE-17 DOE Alert System. This System of Records Notice (SORN) is being modified to align with new formatting requirements, published by OMB, and to ensure appropriate Privacy Act coverage of business processes and Privacy Act information.
+                    </P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This modified SORN will become applicable following the end of the public comment period on December 9, 2024 unless comments are received that result in a contrary determination.</P>
+                </DATES>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        Written comments should be sent to the DOE Desk Officer, Office of Information and Regulatory Affairs, Office of Management and Budget, New Executive Office Building, Room 10102, 735 17th Street NW, Washington, DC 20503 and to Ken Hunt, Chief Privacy Officer, U.S. Department of Energy, 1000 Independence Avenue SW, Rm. 8H-085, Washington, DC 20585, by facsimile at (202) 586-8151, or by email at 
+                        <E T="03">privacy@hq.doe.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Ken Hunt, Chief Privacy Officer, U.S. Department of Energy, 1000 Independence Avenue SW, Rm. 8H-085, Washington, DC 20585, by facsimile at (202) 586-8151, by email at 
+                        <E T="03">privacy@hq.doe.gov,</E>
+                         or by telephone at (240) 686-9485.
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P>On January 9, 2009, DOE published a Compilation of its Privacy Act systems of records, which included System of DOE-17 DOE Alert System. This notice proposes the following amendments. The system manager has been updated as the Office of Emergency Management. âCategories of Individuals Covered by the Systemâ now includes contractors. âCategories of Records in this Systemâ has been updated to include cell phone number. In the âRoutine Usesâ section, this modified notice deletes a previous routine use concerning efforts responding to a suspected or confirmed loss of confidentiality of information as it appears in DOE's compilation of its Privacy Act systems of records (January 9, 2009) and replaces it with one to assist DOE with responding to a suspected or confirmed breach of its records of Personally Identifiable Information (PII), modeled with language from OMB's Memorandum M-17-12, âPreparing for and Responding to a Breach of Personally Identifiable Informationâ (January 3, 2017). Further, this notice adds one new routine use to ensure that DOE may assist another agency or entity in responding to the other agency's or entity's confirmed or suspected breach of PII, as appropriate, as aligned with OMB's Memorandum M-17-12. An administrative change required by the FOIA Improvement Act of 2016 extends the length of time a requestor is permitted to file an appeal under the Privacy Act from 30 to 90 days. Both the âSystem Locationsâ and âAdministrative, Technical and Physical Safeguardsâ sections have been modified to reflect the Department's usage of cloud-based services for records storage. Language throughout the SORN has been updated to align with applicable Federal privacy laws, policies, procedures, and best practices.</P>
+                <PRIACT>
+                    <HD SOURCE="HD2">SYSTEM NAME AND NUMBER:</HD>
+                    <P>DOE-17 DOE Alert System.</P>
+                    <HD SOURCE="HD2">SECURITY CLASSIFICATION:</HD>
+                    <P>Unclassified.</P>
+                    <HD SOURCE="HD2">SYSTEM LOCATION:</HD>
+                    <P>Systems leveraging this SORN may exist in multiple locations. All systems storing records in a cloud-based server are required to use government-approved cloud services and follow National Institute of Standards and Technology (NIST) security and privacy standards for access and data retention. Records maintained in a government-approved cloud server are accessed through secure data centers in the continental United States.</P>
+                    <P>U.S. Department of Energy, Headquarters, 1000 Independence Avenue SW, Washington, DC 20585.</P>
+                    <HD SOURCE="HD2">SYSTEM MANAGER(S):</HD>
+                    <P>Director, Office of Emergency Management, Office of Continuity Programs and Mission Resilience, U.S. Department of Energy, 1000 Independence Avenue SW, Washington, DC 20585.</P>
+                    <HD SOURCE="HD2">AUTHORITY FOR MAINTENANCE OF THE SYSTEM:</HD>
+                    <P>
+                        42 U.S.C. 7101 
+                        <E T="03">et seq.</E>
+                         and 50 U.S.C. 2401 
+                        <E T="03">et seq.</E>
+                    </P>
+                    <HD SOURCE="HD2">PURPOSE(S) OF THE SYSTEM:</HD>
+                    <P>Records in this system are used by the Department to alert those employees who have requested and registered to be notified in the event of an emergency at DOE or its facilities.</P>
+                    <HD SOURCE="HD2">CATEGORIES OF INDIVIDUALS COVERED BY THE SYSTEM:</HD>
+                    <P>Current DOE, including National Nuclear Security Administration (NNSA), employees and contractor employees, consultants, and board members.</P>
+                    <HD SOURCE="HD2">CATEGORIES OF RECORDS IN THE SYSTEM:</HD>
+                    <P>The records include the name of the individual, work and home email addresses, work and home telephone numbers, cellphone numbers, and pager numbers.</P>
+                    <HD SOURCE="HD2">RECORD SOURCE CATEGORIES:</HD>
+                    <P>The individual to whom the record pertains provides all information maintained in the system.</P>
+                    <HD SOURCE="HD2">ROUTINE USES OF RECORDS MAINTAINED IN THE SYSTEM, INCLUDING CATEGORIES OF USERS AND PURPOSES OF SUCH USES:</HD>
+                    <P>1. A record from this system may be disclosed as a routine use for the purpose of an investigation, settlement of claims, or the preparation and conduct of litigation to (1) persons representing the Department in the investigation, settlement or litigation, and to individuals assisting in such representation; (2) others involved in the investigation, settlement, and litigation, and their representatives and individuals assisting those representatives; (3) witnesses, potential witnesses, or their representatives and assistants; and (4) any other persons who possess information pertaining to the matter when it is necessary to obtain information or testimony relevant to the matter.</P>
+                    <P>2. A record from this system may be disclosed as a routine use in court or administrative proceedings to the tribunals, counsel, other parties, witnesses, and the public (in publicly available pleadings, filings, or discussion in open court) when such disclosure: (1) is relevant to, and necessary for, the proceeding; (2) is compatible with the purpose for which the Department collected the records; and (3) the proceedings involve:</P>
+                    <P>(a) The Department, its predecessor agencies, current or former contractors of the Department, or other United States Government agencies and their components, or</P>
+                    <P>(b) A current or former employee of the Department and its predecessor agencies, current or former contractors of the Department, or other United States Government agencies and their components, who is acting in an official capacity, or in any individual capacity where the Department or other United States Government agency has agreed to represent the employee.</P>
+                    <P>
+                        3. A record from this system may be disclosed as a routine use to the appropriate local, tribal, state, or federal agency when records, alone or in conjunction with other information, indicate a violation or potential violation of law whether civil, criminal, or regulatory in nature, and whether 
+                        <PRTPAGE P="88257"/>
+                        arising by general statute or particular program pursuant thereto.
+                    </P>
+                    <P>4. A record from this system may be disclosed as a routine use to a member of Congress submitting a request involving a constituent when the constituent has requested assistance from the member concerning the subject matter of the record. The member of Congress must provide a copy of the constituent's signed request for assistance.</P>
+                    <P>5. A record from this system may be disclosed as a routine use to DOE contractors in performance of their contracts, and their officers and employees who have a need for the record in the performance of their duties. Those provided information under this routine use are subject to the same limitations applicable to Department officers and employees under the Privacy Act.</P>
+                    <P>6. A record from this system may be disclosed as a routine use to appropriate agencies, entities, and persons when (1) the Department suspects or has confirmed that there has been a breach of the system of records; (2) the Department has determined that as a result of the suspected or confirmed breach there is a risk of harm to individuals, DOE (including its information systems, programs, and operations), the Federal Government, or national security; and (3) the disclosure made to such agencies, entities, and persons is reasonably necessary to assist in connection with the Department's efforts to respond to the suspected or confirmed breach or to prevent, minimize, or remedy such harm.</P>
+                    <P>7. A record from this system may be disclosed as a routine use to another Federal agency or Federal entity, when the Department determines that information from this system of records is reasonably necessary to assist the recipient agency or entity in (1) responding to a suspected or confirmed breach or (2) preventing, minimizing, or remedying the risk of harm to individuals, the recipient agency or entity (including its information systems, programs, and operations), the Federal Government, or national security, resulting from a suspected or confirmed breach.</P>
+                    <HD SOURCE="HD2">POLICIES AND PRACTICES FOR STORAGE OF RECORDS:</HD>
+                    <P>Records may be stored as paper records or electronic media.</P>
+                    <HD SOURCE="HD2">POLICIES AND PRACTICES FOR RETRIEVAL OF RECORDS:</HD>
+                    <P>Records are retrieved by the name of the individual.</P>
+                    <HD SOURCE="HD2">POLICIES AND PRACTICES FOR RETENTION AND DISPOSAL OF RECORDS:</HD>
+                    <P>Retention and disposition of these records is in accordance with the National Archives and Records Administration-approved records disposition schedule with a retention of 3 years.</P>
+                    <HD SOURCE="HD2">ADMINISTRATIVE, TECHNICAL, AND PHYSICAL SAFEGUARDS:</HD>
+                    <P>Electronic records may be secured and maintained on a cloud-based software server and operating system that resides in Federal Risk and Authorization Management Program (FedRAMP) and Federal Information Security Modernization Act (FISMA) hosting environment. Data located in the cloud-based server is firewalled and encrypted at rest and in transit. The security mechanisms for handling data at rest and in transit are in accordance with DOE encryption standards. Records are protected from unauthorized access through the following appropriate safeguards:</P>
+                    <P>
+                        â¢ 
+                        <E T="03">Administrative:</E>
+                         Access to all records is limited to lawful government purposes only, with access to electronic records based on role and either two-factor authentication or password protection. The system requires passwords to be complex and to be changed frequently. Users accessing system records undergo frequent training in Privacy Act and information security requirements. Security and privacy controls are reviewed on an ongoing basis.
+                    </P>
+                    <P>
+                        â¢ 
+                        <E T="03">Technical:</E>
+                         Computerized records systems are safeguarded on Departmental networks configured for role-based access based on job responsibilities and organizational affiliation. Privacy and security controls are in place for this system and are updated in accordance with applicable requirements as determined by NIST and DOE directives and guidance.
+                    </P>
+                    <P>
+                        â¢ 
+                        <E T="03">Physical:</E>
+                         Computer servers on which electronic records are stored are located in secured Department facilities, which are protected by security guards, identification badges, and cameras. Paper copies of all records are locked in file cabinets, file rooms, or offices and are under the control of authorized personnel. Access to these facilities is granted only to authorized personnel and each person granted access to the system must be an individual authorized to use or administer the system.
+                    </P>
+                    <HD SOURCE="HD2">RECORD ACCESS PROCEDURES:</HD>
+                    <P>The Department follows the procedures outlined in 10 CFR 1008.4. Valid identification of the individual making the request is required before information will be processed, given, access granted, or a correction considered, to ensure that information is processed, given, corrected, or records disclosed or corrected only at the request of the proper person.</P>
+                    <HD SOURCE="HD2">CONTESTING RECORD PROCEDURES:</HD>
+                    <P>Any individual may submit a request to the System Manager and request a copy of any records relating to them. In accordance with 10 CFR 1008.11, any individual may appeal the denial of a request made by him or her for information about or for access to or correction or amendment of records. An appeal shall be filed within 90 calendar days after receipt of the denial. When an appeal is filed by mail, the postmark is conclusive as to timeliness. The appeal shall be in writing and must be signed by the individual. The words âPRIVACY ACT APPEALâ should appear in capital letters on the envelope and the letter. Appeals relating to DOE records shall be directed to the Director, Office of Hearings and Appeals (OHA), 1000 Independence Avenue SW, Washington, DC 20585.</P>
+                    <HD SOURCE="HD2">NOTIFICATION PROCEDURES:</HD>
+                    <P>In accordance with the DOE regulation implementing the Privacy Act, at 10 CFR part 1008, a request by an individual to determine if a system of records contains information about themselves should be directed to the U.S. Department of Energy, Headquarters, Privacy Act Officer. The request should include the requester's complete name and the time period for which records are sought.</P>
+                    <HD SOURCE="HD2">EXEMPTIONS PROMULGATED FOR THE SYSTEM:</HD>
+                    <P>None.</P>
+                    <HD SOURCE="HD2">HISTORY:</HD>
+                    <P>
+                        This SORN was last published in the 
+                        <E T="04">Federal Register</E>
+                        <E T="03">,</E>
+                         74 FR 1019-1020, on January 9, 2009.
+                    </P>
+                </PRIACT>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on November 1, 2024, by Ann Dunkin, Senior Agency Official for Privacy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE 
+                    <E T="04">Federal Register</E>
+                     Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters 
+                    <PRTPAGE P="88258"/>
+                    the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on November 4, 2024.</DATED>
+                    <NAME>Jennifer Hartzell,</NAME>
+                    <TITLE>Alternate Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2024-25898 Filed 11-6-24; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </NOTICE>

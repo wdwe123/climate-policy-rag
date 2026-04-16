@@ -1,0 +1,11 @@
+streamlit==1.55.0
+streamlit-folium==0.26.2
+folium==0.20.0
+qdrant-client==1.17.1
+portkey-ai==2.2.0
+rank-bm25==0.2.2
+pandas==2.3.3
+shapely==2.1.2
+numpy==1.26.4
+pillow==12.1.0
+python-dotenv==1.2.2

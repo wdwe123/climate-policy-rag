@@ -1,0 +1,6 @@
+[TABLE]
+| ID | Hazard Addressed: Action: | . Priority: .Estimated Completion: Potential Funding Source: Objective Satisfied: | Status | Disposition | Explanation |
+| --- | --- | --- | --- | --- | --- |
+| 8.0 | Cyber Terrorism; Conduct community outreach to improve cyber; resilience by educating residents, businesses,; organizations, and government entities on cyber; hygiene and best practices. This capability includes; creating a public-facing website for cybersecurity,; building a library of cybersecurit | . High; . Ongoing; . Urban Areas Security; Initiative grant; program; 1,2,&3 | Meets; current; requirements | KEEP | At this time no changes are foreseen as far as Priority, Potential.; Funding or Objective Satisfaction. |
+| 8.1 | Cyber Terrorism; Improve and expand the cyber threat/incident alerting; and notification capability. This will provide timely; alerts/notices of in-process and/or potential cyber; threats and incidents. This will also include possible; measures to prevent, detect, and respond to the.; threats, to re | .High; : 2023; : Urban Areas Security; Initiative grant; program; 1,2,&3 | Meets; currents; requirements | KEEP | No foreseen changes in Priority or funding and should continue into; fiscal year 2024. |
+[/TABLE]

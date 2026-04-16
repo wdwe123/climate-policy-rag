@@ -1,0 +1,1088 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">DEPARTMENT OF THE INTERIOR</AGENCY>
+                <SUBAGY>Fish and Wildlife Service</SUBAGY>
+                <CFR>50 CFR Part 17</CFR>
+                <DEPDOC>[Docket No. FWS-R8-ES-2022-0024; FF09E21000 FXES1111090FEDR 234]</DEPDOC>
+                <RIN>RIN 1018-BG21</RIN>
+                <SUBJECT>Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Dixie Valley Toad</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Fish and Wildlife Service, Interior.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        We, the U.S. Fish and Wildlife Service, are listing the Dixie Valley toad (
+                        <E T="03">Anaxyrus williamsi</E>
+                        ), a toad species from Nevada, as an endangered species under the Endangered Species Act of 1973, as amended (Act). This rule continues the protections of the Act applied to the Dixie Valley toad under our April 7, 2022, temporary emergency listing rule.
+                    </P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective December 2, 2022.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        This final rule and supporting documents are available on the internet at 
+                        <E T="03">https://www.regulations.gov</E>
+                         in Docket No. FWS-R8-ES-2022-0024.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>Justin Barrett, Field Supervisor, U.S. Fish and Wildlife Service, Reno Fish and Wildlife Office, 1340 Financial Blvd., Suite 234, Reno, NV 89502; telephone 775-861-6300. Individuals in the United States who are deaf, deafblind, hard of hearing, or have a speech disability may dial 711 (TTY, TDD, or TeleBraille) to access telecommunications relay services. Individuals outside the United States should use the relay services offered within their country to make international calls to the point-of-contact in the United States.</P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Executive Summary</HD>
+                <P>
+                    <E T="03">Why we need to publish a rule.</E>
+                     Under the Act, a species warrants listing if it meets the definition of an endangered species (in danger of extinction throughout all or a significant portion of its range) or a threatened species (likely to become endangered in the foreseeable future throughout all or a significant portion of its range). If we determine that a species warrants listing, we must list the species promptly and designate the species' critical habitat to the maximum extent prudent and determinable. We have determined that the Dixie Valley toad meets the 
+                    <PRTPAGE P="73972"/>
+                    definition of an endangered species; therefore, we are listing it as such. Listing a species as an endangered or threatened species can be completed only by issuing a rule through the Administrative Procedure Act rulemaking process.
+                </P>
+                <P>
+                    <E T="03">What this document does.</E>
+                     This rule makes final the listing of the Dixie Valley toad as an endangered species.
+                </P>
+                <P>
+                    <E T="03">The basis for our action.</E>
+                     Under the Act, we may determine that a species is an endangered or threatened species because of any of five factors: (A) The present or threatened destruction, modification, or curtailment of its habitat or range; (B) overutilization for commercial, recreational, scientific, or educational purposes; (C) disease or predation; (D) the inadequacy of existing regulatory mechanisms; or (E) other natural or manmade factors affecting its continued existence. We have determined that the Dixie Valley toad is at risk of extinction throughout its range primarily due to the threat of geothermal development and its effects to the toad and the habitat on which it depends. Other threats to the Dixie Valley toad include climate change; chytrid fungus; groundwater pumping associated with human consumption, agriculture, and county planning; and predation by invasive bullfrogs. In addition, existing regulatory mechanisms may be inadequate to protect the species.
+                </P>
+                <HD SOURCE="HD1">List of Acronyms</HD>
+                <P>We use many acronyms in this rule. For the convenience of the reader, we define some of them here:</P>
+                <EXTRACT>
+                    <FP SOURCE="FP-1">afy = acre-feet per year</FP>
+                    <FP SOURCE="FP-1">January Environmental Assessment (EA) = January 2021 Draft EA (Bureau of Land Management (BLM) 2021a, entire)</FP>
+                    <FP SOURCE="FP-1">January Monitoring and Mitigation Plan = January 2021 Aquatic Resources Monitoring and Mitigation Plan (BLM 2021a, Appendix H)</FP>
+                    <FP SOURCE="FP-1">November Environmental Assessment (EA) = November 2021 Final EA (BLM 2021b, entire)</FP>
+                    <FP SOURCE="FP-1">November Monitoring and Mitigation Plan = November 2021 Aquatic Resources Monitoring and Mitigation Plan (BLM 2021b, Appendix H)</FP>
+                    <FP SOURCE="FP-1">BLM = Bureau of Land Management</FP>
+                    <FP SOURCE="FP-1">Â°C = degrees Celsius</FP>
+                    <FP SOURCE="FP-1">CBD = Center for Biological Diversity</FP>
+                    <FP SOURCE="FP-1">CFR = Code of Federal Regulations</FP>
+                    <FP SOURCE="FP-1">cfs = cubic feet per second</FP>
+                    <FP SOURCE="FP-1">m3/yr = cubic meters per year</FP>
+                    <FP SOURCE="FP-1">DoD = Department of Defense</FP>
+                    <FP SOURCE="FP-1">
+                        Act = Endangered Species Act of 1973, as amended (16 U.S.C. 1531 
+                        <E T="03">et seq.</E>
+                        )
+                    </FP>
+                    <FP SOURCE="FP-1">EA = environmental assessment</FP>
+                    <FP SOURCE="FP-1">Â°F = degrees Fahrenheit</FP>
+                    <FP SOURCE="FP-1">NAS Fallon = Fallon Naval Air Station</FP>
+                    <FP SOURCE="FP-1">FR = Federal Register</FP>
+                    <FP SOURCE="FP-1">ft = feet</FP>
+                    <FP SOURCE="FP-1">gpm = gallons per minute</FP>
+                    <FP SOURCE="FP-1">in = inch</FP>
+                    <FP SOURCE="FP-1">km = kilometer</FP>
+                    <FP SOURCE="FP-1">MW = megawatt</FP>
+                    <FP SOURCE="FP-1">m = meter</FP>
+                    <FP SOURCE="FP-1">mm = millimeter</FP>
+                    <FP SOURCE="FP-1">NAC = Nevada Administrative Code</FP>
+                    <FP SOURCE="FP-1">NDOW = Nevada Department of Wildlife</FP>
+                    <FP SOURCE="FP-1">NDNH = Nevada Division of Natural Heritage</FP>
+                    <FP SOURCE="FP-1">NDWR = Nevada Division of Water Resources</FP>
+                    <FP SOURCE="FP-1">Fallon Paiute Shoshone Tribe = Paiute-Shoshone Tribe of the Fallon Reservation and Colony</FP>
+                    <FP SOURCE="FP-1">RCP = representative concentration pathway</FP>
+                    <FP SOURCE="FP-1">SSA = species status assessment</FP>
+                    <FP SOURCE="FP-1">Service = U.S. Fish and Wildlife Service</FP>
+                    <FP SOURCE="FP-1">USGS = U.S. Geological Survey</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">Previous Federal Actions</HD>
+                <P>
+                    We received a petition from the Center for Biological Diversity (CBD) on September 18, 2017, requesting that the Dixie Valley toad be listed as an endangered or threatened species and that the petition be considered on an emergency basis (CBD 2017, entire). The Act does not provide a process to petition for emergency listing; therefore, we evaluated the petition to determine if it presented substantial scientific or commercial information indicating that the petitioned action may be warranted. We published a 90-day finding in the 
+                    <E T="04">Federal Register</E>
+                     on June 27, 2018 (83 FR 30091), stating that the petition presented substantial scientific or commercial information indicating that listing the Dixie Valley toad may be warranted.
+                </P>
+                <P>On April 7, 2022, we published an emergency rule (87 FR 20336) that applies Federal protection under the Act to the Dixie Valley toad for a 240-day period, ending on December 2, 2022. On April 7, 2022, we concurrently published a proposed rule (87 FR 20374) to list the Dixie Valley toad as an endangered species under the Act, and we requested public comments on that proposal for 60 days, ending June 6, 2022.</P>
+                <HD SOURCE="HD1">Supporting Documents</HD>
+                <P>A species status assessment (SSA) team prepared an SSA report for the Dixie Valley toad. The SSA team was composed of Service biologists, in consultation with other scientific experts. The SSA report represents a compilation of the best scientific and commercial data available concerning the status of the species, including the impacts of past, present, and future factors (both negative and beneficial) affecting the species.</P>
+                <P>
+                    In accordance with our joint policy on peer review published in the 
+                    <E T="04">Federal Register</E>
+                     on July 1, 1994 (59 FR 34270), and our August 22, 2016, memorandum updating and clarifying the role of peer review of listing actions under the Act, we sought peer review of the SSA report. The Service sent the SSA report to four independent peer reviewers and received three responses. The purpose of peer review is to ensure that our listing determinations are based on scientifically sound data, assumptions, and analyses. The peer reviewers have expertise in the biology, habitat, and threats to the species. The Service also sent the SSA report to three partner agencies, BLM, NDOW, and DoD, and we received comments from BLM and NDOW. Comments we received during peer and partner review were considered and incorporated into our SSA report and this final listing rule.
+                </P>
+                <HD SOURCE="HD1">Summary of Changes From the Proposed Rule</HD>
+                <P>Based upon our review of the public comments, State agency comments, peer and partner review comments, and relevant information that became available since the proposed rule published (87 FR 20374; April 7, 2022), we updated information in our SSA report, including:</P>
+                <P>â¢ Adding additional individual toad locations provided by NDOW.</P>
+                <P>â¢ Revising the SSA report to include the Dixie Valley toad as a protected species in the State of Nevada.</P>
+                <P>â¢ Adding information from a newly published scientific paper (Rose et al. 2022, entire) regarding occupancy dynamics of the Dixie Valley toad and the different environmental conditions adult and larval toads require.</P>
+                <P>â¢ Clarifying the changes from the BLM's January draft environmental assessment (EA) to the BLM's November final EA.</P>
+                <P>â¢ Clarifying how the Dixie Valley toad uses colder springs in the wetlands.</P>
+                <P>â¢ Adding the Traditional Ecological Knowledge provided by the Fallon Paiute Shoshone Tribe to section 1.2 of the SSA report.</P>
+                <P>â¢ Adding information on the differences between Dixie Meadows and the McGinness Hills, Tungsten Mountain, and Ngatamariki sites.</P>
+                <P>
+                    We also made changes as appropriate in this final rule. In addition to minor clarifying edits and the incorporation of additional information on the species' biology, populations, and threats, this final rule differs from the proposed rule by clarifying why the changes made between the BLM's January draft EA and the BLM's November final EA did not change our conclusion that the Dixie Valley toad meets the Act's definition of an endangered species.
+                    <PRTPAGE P="73973"/>
+                </P>
+                <HD SOURCE="HD1">Summary of Comments and Recommendations</HD>
+                <HD SOURCE="HD2">Peer Reviewer Comments</HD>
+                <P>As discussed in Supporting Documents, above, we received comments from three peer reviewers. We reviewed all comments we received from the peer reviewers for substantive issues and new information regarding the information contained in the SSA report. The peer reviewers generally concurred with our methods and conclusions, and they provided support for thorough and descriptive narratives of assessed issues, as well as additional information, clarifications, and suggestions to improve the final SSA report. Peer reviewer comments are addressed in the following summary and were incorporated into the final SSA report as appropriate.</P>
+                <P>
+                    (1) 
+                    <E T="03">Comment:</E>
+                     One peer reviewer stated that chytrid-positive bullfrogs do not occur in the southern part of the Dixie Valley toad's range. Rather, there is a potential path for introduction of chytrid fungus into Dixie Valley toads from chytrid-fungus-positive American bullfrogs already occurring in Turley Pond, located about 10 kilometers (about 5.7 miles) from Dixie Meadows, to bullfrogs co-occurring with Dixie Valley toads in the southern part of the range.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We have clarified that the location of the chytrid-fungus-positive bullfrogs in Dixie Valley is in Turley Pond, approximately 10 kilometers from Dixie Meadows.
+                </P>
+                <P>
+                    (2) 
+                    <E T="03">Comment:</E>
+                     One peer reviewer asked if the effects of all other uses of groundwater and extended drought would be negligible compared to the impacts of the geothermal development.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Because the geothermal project constitutes the most significant potential localized water-related impact to the springs/wetland complex providing habitat for the Dixie Valley toad, any localized effects of groundwater withdrawals within Dixie Valley, like changes in local climatic conditions, are potential secondary interacting effects.
+                </P>
+                <P>
+                    (3) 
+                    <E T="03">Comment:</E>
+                     One peer reviewer suggested we add historical baselines to the species needs table to better understand how changes in flow and water temperature would affect the species.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     There is little or no information on historical baselines for springflow and water temperature. We used the best available scientific and commercial data from recent studies to determine what the Dixie Valley toad's resource needs are, which are discussed in section 3.3 of the SSA report.
+                </P>
+                <HD SOURCE="HD2">Comments From Tribes</HD>
+                <P>We received comments from the Pauite-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (hereafter Fallon Paiute Shoshone Tribe), expressing support for the listing of the Dixie Valley toad. The Fallon Paiute Shoshone Tribe discussed how Dixie Valley is ancestral territory where they have lived and prayed for more than 10,000 years and is one of the most sacred sites in the Tribe's culture. The Fallon Paiute Shoshone Tribe's reverence for the site includes the ecosystem it supports; thus, they strongly endorse listing the Dixie Valley toad as endangered.</P>
+                <P>
+                    (4) 
+                    <E T="03">Comment:</E>
+                     One Tribal commenter requested that we consider and integrate the Fallon Paiute Shoshone Tribe interests into the final rule. The Tribal commenter provided numerous reasons documenting why the Dixie Meadows ecosystem (also known as Paumu, and including the surface waters of the springs, the surrounding wetlands, the surrounding uplands, and the endemic toad) is of cultural and spiritual significance, such as use of the area for cultural and spiritual practices, and the need to safeguard and properly manage the interests of Indian Tribes. Further, the Tribe asserted that if the springs cease flowing, it would be devastating to both the Dixie Valley toad and the Tribe.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We have updated the SSA report to include the Traditional Ecological Knowledge provided by the Fallon Paiute Shoshone Tribe in section 1.2.
+                </P>
+                <P>
+                    (5) 
+                    <E T="03">Comment:</E>
+                     One Tribal commenter asserted that the entire proposed project must be halted until such time as the BLM consults with the Service under section 7 of the Act and highlighted the importance of halting construction activities and immediately consulting based on Tribal observations of activities detrimental to the Tribe (
+                    <E T="03">e.g.,</E>
+                     construction within approximately 500 feet of surface waters, construction runoff toward the springs, trash in and around the springs, a port-a-potty flowing into the ground, and multiple disturbances) and to the Dixie Valley toad (
+                    <E T="03">i.e.,</E>
+                     the risk of crushing or harming toads). The Tribe requested government-to-government consultation with the Service at its earliest convenience and prior to a final determination on the proposed rule.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We are working toward initiating conversations with the Fallon Paiute Shoshone Tribe. BLM began informal consultation with us on April 7, 2022.
+                </P>
+                <HD SOURCE="HD2">Comments From State Agencies</HD>
+                <P>
+                    (6) 
+                    <E T="03">Comment:</E>
+                     One commenter recommended we get clarification or verification that chytrid-fungus-positive results have been limited to Turley Pond, which is within Dixie Valley but not within the Dixie Valley toad's known range. They stated that recent work evaluating past and current chytrid-fungus sampling data to develop monitoring-protocol recommendations (including sampling in Dixie Meadows and surrounding ponds) is being prepared for journal submission. The commenter recommended contacting the authors to incorporate the most up-to-date information.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We have clarified the location of the chytrid-fungus-positive American bullfrogs, as discussed above under our response to (1) 
+                    <E T="03">Comment.</E>
+                     The paper referred by the commenter is in review at the Journal of Wildlife Diseases; however, the associated data release from USGS was used in the SSA report and cited as Kleeman et al. (2021, entire).
+                </P>
+                <P>
+                    (7) 
+                    <E T="03">Comment:</E>
+                     One commenter recommended we include a discussion on invasive plants, like Russian olive (
+                    <E T="03">Elaeagnus angustifolia</E>
+                    ) and tamarisk (
+                    <E T="03">Tamarix</E>
+                     spp.), as contributing factors in the cumulative analysis, as these species are present within the Dixie Valley toad's range.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Section 3.3.3 in the SSA report acknowledges the presence of certain invasive plant species within Dixie Meadows. We do not have information regarding any population-level threat from these invasive plant species.
+                </P>
+                <HD SOURCE="HD2">Public Comments</HD>
+                <P>
+                    We received thousands of comments asserting various opinions, including that human-induced threats of geothermal development and climate are extensive and irreparably damaging for the Dixie Valley ecosystem and pose a threat to the Dixie Valley toad; suggesting that alternative sites or type of renewable energy source would be better suited to ensure the viability of the Dixie Valley toad; that the developer of the geothermal power plant should be denied a permit because of the environmental damage it will cause to the Dixie Valley toad and its habitat; and that an adequate monitoring plan should be developed and implemented for the Dixie Valley toad. The public comments overwhelmingly urged us to list the toad as an endangered species under the Act. Some of these comments were outside of the scope of this final determination; below, we respond to 
+                    <PRTPAGE P="73974"/>
+                    substantive comments regarding the listing determination.
+                </P>
+                <P>
+                    (8) 
+                    <E T="03">Comment:</E>
+                     One commenter asserted that the proposed rule to list the Dixie Valley toad as an endangered species would significantly adversely affect the social and economic future of Churchill County.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     In making a determination as to whether a species meets the Act's definition of an endangered or threatened species, under section 4(b)(1)(A) of the Act the Secretary is to make that determination based solely on the basis of the best scientific and commercial data. Therefore, we did not evaluate the social and economic impacts of listing the Dixie Valley toad or consider such impacts in this final determination. Under the Act, the Service may evaluate economic impacts only in association with the designation of critical habitat under section 4(b)(2); the Service has concluded that the designation of critical habitat for the Dixie Valley toad is not determinable at this time and, therefore, is not designating critical habitat as part of this rulemaking.
+                </P>
+                <P>
+                    (9) 
+                    <E T="03">Comment:</E>
+                     One commenter claimed that the analysis of threats was incomplete, misrepresented, and did not include all applicable science and information. The commenter stated that it is contradictory to say that the Dixie Valley toad is thriving while concurrently reporting that there is a lack of known water-quality parameters that is preferred by the toad.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     While we still have much to learn about Dixie Valley toads, all monitoring to date indicates that all age classes of the toad are present in Dixie Meadows and breeding is occurring annually. Water-quality parameters are not known with great detail, as described in section 3.3.4 of the SSA report; however, we used the best scientific and commercial data available to inform this rule.
+                </P>
+                <P>
+                    (10) 
+                    <E T="03">Comment:</E>
+                     One commenter stated we should have done an analysis on historical wetted area of the wetlands using aerial photography from 1954 to present, Landsat imagery from 1984-2012, and National Agriculture Inventory Program images.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The Service used a Desert Research Institute report that analyzed much of the information the commenter is suggesting. This information can be found in section 4.2.10 in the SSA report and the corresponding report (Albano et al. 2021, entire).
+                </P>
+                <P>
+                    (11) 
+                    <E T="03">Comment:</E>
+                     One commenter claims our statement that urban development, agriculture, and energy production facilities will likely place additional demands on already limited water resources is not an accurate depiction of activities occurring in Dixie Valley because there is limited private land where these activities may occur. The commenter stated that the private land that existed in Dixie Valley during the 1990s was acquired by the Fallon Naval Air Station, thus limiting these activities in Dixie Valley.
+                </P>
+                <P>In addition, the commenter stated that we did not incorporate the pending DoD/Navy land withdrawals from the Dixie Valley Training Area, which would include the entire valley bottom from the south side of Dixie Meadows to State Highway 50. The commenter stated that this further shows why urban development and agriculture are unlikely to occur in Dixie Valley. Additionally, the commenter stated that we should have included a map of land ownership in Dixie Valley.</P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Our statement regarding an increase in urban development, agriculture, and energy production facilities was in the context of the entire Southwest. Both human settlements and natural ecosystems in the southwestern United States are largely dependent on groundwater resources, and decreased groundwater recharge may occur as a result of climate change (U.S. Global Change Research Program 2009, p. 133). Furthermore, the human population in the Southwest is expected to increase 70 percent by mid-century (Garfin, 2014, p. 470). Resulting increases in urban development, agriculture, and energy production facilities will likely place additional demands on already limited water resources. Climate change will likely increase water demand while at the same time shrink water supply, as water loss may increase evapotranspiration rates and run-off during storm events (Archer and Predick 2008, p. 25). Overall, demand for water is likely to go up and available water resources will likely decrease.
+                </P>
+                <P>An example of increased local water demand is the Dixie Valley Water Project, which is being proposed to provide more water to the neighboring valley experiencing increased urbanization and agriculture growth. There is no information on where water will be withdrawn for the Dixie Valley Water Project; however, we know that the basin is overallocated (NDWR 2021, entire), which could plausibly affect the amount of water in Dixie Meadows. According to the NDWR, two water right applications are pending in Dixie Meadows, seeking water for municipal use, which indicates that there could be increased water demand in Churchill County. Although urban development and agriculture may not increase within Dixie Valley, increases in urbanization and agriculture in surrounding areas may have an impact on water resources in Dixie Valley.</P>
+                <P>
+                    (12) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that we used out-of-date information regarding estimates of perennial yield in Dixie Valley. They claimed that our estimate of 15,000 acre-feet per year (from an abstract on the NDWR website) has been updated on the order of 23,000 acre-feet per year, pointing out three studies (Garcia et al. 2015, entire; Huntington et al. 2014, entire; Smith et al. 2016, entire) that were not cited in the proposed rule and that the commenter believes should have been incorporated into the expert elicitation panel considerations.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We used the best scientific and commercial data available, which in this case is the NDWR (NDWR 2021, entire). We could not find mention of perennial yield in Huntington et al. (2014, entire); however, the author of this scientific paper was one of the expert panelists, and, therefore, this information was considered during the expert elicitation. We also could not find mention of perennial yield in Garcia et al. (2015, entire). Garcia et al. (2015, pp. 1, 75, 78, 80) found an estimate of groundwater discharge by evapotranspiration to be 23,000 acre-feet, but evapotranspiration does not equal perennial yield. Smith et al. (2016, pp. 1, 28, 175) gives a potential perennial yield of the combined Dixie-Fairview-Jersey Valley system of 23,000 acre-feet per year; however, the 15,000 acre-feet per year we cite is from Dixie Valley only. After reviewing the studies referenced in this comment, we continue to conclude that the NDWR has the best available data because it is the authority on water resources in Nevada.
+                </P>
+                <P>
+                    (13) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that we analyzed and reported appropriated water rights in the Dixie Valley as part of our analysis, and that we should have reported estimates of actual consumptive use, which the commenter stated has decreased since the 1980s.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We used appropriated water rights in the Dixie Valley because that is the amount of water that could plausibly be used. Because appropriated water is authorized for use and readily available, we considered the possibility that it could be used in the future. No estimates of consumptive use were provided by the commenter and the NDWR does not compile pumping inventories for Dixie Valley.
+                </P>
+                <P>
+                    (14) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that we included broad statements about 
+                    <PRTPAGE P="73975"/>
+                    the Dixie Valley basin being fully appropriated for consumptive groundwater uses in both the emergency listing rule (87 FR 20336; April 7, 2022) and the SSA report, and that these types of broad statements of the status of a basin as large as Dixie Valley can be misguided and misleading. The commenter also asserted that water quality in Dixie Meadows is very poor for human consumption and there is no interest from the County in accessing waters associated with Dixie Meadows.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We were unable to find information on where water will be withdrawn from the Dixie Valley Water Project; however, we know that the basin is overallocated (NDWR 2021, entire), which could plausibly affect the amount of water in Dixie Meadows. According to the NDWR, Churchill County has two water right applications in review (6 cubic feet per second each) in Dixie Meadows for municipal use. Citations supporting the assertion that water quality in Dixie Meadows is poor for human consumption were not provided. Because the Dixie Valley Basin is overallocated and two applications for water rights for municipal use are held by the County within Dixie Meadows, we considered the potential effects of consumptive groundwater use on the Dixie Valley toad.
+                </P>
+                <P>
+                    (15) 
+                    <E T="03">Comment:</E>
+                     One commenter claimed that Churchill County could develop the Dixie Valley Water project in a manner that has minimal impact on the Dixie Meadows groundwater resources based on monitoring and modeling work completed by the County.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The commenter did not provide data or information on monitoring and modeling work done by the County, and we did not find any publicly available information that would allow us to take this information into consideration in this final rule. We cannot incorporate conservation efforts into our analysis that have not been confirmed or proven, in accordance with our Policy for Evaluation of Conservation Efforts When Making Listing Decisions (68 FR 15100; March 28, 2003).
+                </P>
+                <P>
+                    (16) 
+                    <E T="03">Comment:</E>
+                     One commenter disagreed with our statement that Dixie Meadows has evolved with little historical variation, claiming our statement is not proven or established. The commenter stated that we should have analyzed past land use of Dixie Meadows to demonstrate previous uses that may have significantly altered habitat. They stated that there is a high probability that the meadow was homesteaded, farmed, or altered by early settlers and Native Americans.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Section 4.2.10 of the SSA report discusses evidence of spring modifications and their potential impacts to the Dixie Valley toad and its habitat. Historical water management of Dixie Meadows has likely had negative impacts on how water flows through the wetlands as evidence of dikes, channelization, and deteriorating pipes can be found throughout the area (Stantec 2019, pp. 13, 50-51, 104-105, 132-133; Albano et al. 2021, pp. 72-75). However, the needs of the species have not changed due to this historical alteration.
+                </P>
+                <P>
+                    (17) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that we did not take an active role in the development of the Aquatic Resources Monitoring and Mitigation Plan (hereafter referred to as the Monitoring and Mitigation Plan), and the experts participating in our expert elicitation panel should have had the opportunity to interface with the Monitoring and Mitigation Committee. The commenter also stated that had the Service coordinated with Ormat (as well as with other pertinent agencies) to improve the Monitoring and Mitigation Plan, then emergency listing the Dixie Valley toad would have not been necessary.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Sections 4.2.2 and 4.2.3 of the SSA report summarize coordinated efforts between the BLM and the Service on the geothermal plant and associated Monitoring and Mitigation Plan, including the detailed comments that the Service provided on the January draft EA and Monitoring and Mitigation Plan on February 12, 2021.
+                </P>
+                <P>
+                    (18) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the primary basis for our listing decision was based on the expert panel's predictions on the impacts of the Dixie Meadows Project.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The SSA report contains our full analysis of all the factors that could affect the continued existence of the Dixie Valley toad. Because the Dixie Meadows project is a key factor that could affect the species' viability, the expert panel was assembled to help characterize the uncertainty around its potential impacts. The panel was composed of expert groundwater hydrologists, hydrogeologists, and geologists, including one of the foremost experts on geothermal systems in Nevada, and their judgments provide a reasonable basis for assessing the risk from geothermal development.
+                </P>
+                <P>While the risk of changes to the species' habitat from geothermal development is one aspect of the assessment and the primary threat to the species, the Dixie Valley toad's narrow range, limited opportunities for dispersal, risk of exposure to chytrid fungus, and projected changes in climate, among other factors, were also considered in the listing decision.</P>
+                <P>
+                    (19) 
+                    <E T="03">Comment:</E>
+                     We received multiple comments on the materials provided to the expert panelists for the expert elicitation. Commenters stated that the materials provided were inadequate to provide the experts with understanding of the Dixie Meadows geothermal project, investigations conducted at the site, the hydrogeology of the overall area, or the threats to the toad.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The materials provided to the panelists served a specific purpose as part of accepted best practices for structured expert knowledge elicitation and is only one component of the elicitation process (Gosling 2018, entire; O'Hagan 2019, pp. 73-81; Oakley and O'Hagan 2019, entire). The expert panelists had access to the best available information at the time of the assessment, including the January EA, January 2021 Monitoring and Mitigation Plan for the Dixie Meadows project, all publicly available related materials, and published scientific reports and papers. The expert panelists also have significant professional experience in hydrogeology and the Dixie Valley region and were provided an opportunity to identify any additional studies relevant to the expert knowledge elicitation based on their own professional experience in hydrogeology and the Dixie Valley region. The information provided is based on credible, published scientific sources and is not designed to be an exhaustive reference.
+                </P>
+                <P>
+                    (20) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that that the materials provided to the expert panel that described the location of the major piedmont fault at Dixie Meadows as being coincident with the thermal springs, and additionally that the same fault is the main producing structure at the Comstock and Dixie Valley Power Plant geothermal sites, was a âgross over-simplification.â This led the expert panelists to make ill-informed interpretations about the dynamics of fluid flow at Dixie Meadows in relation to characteristics of the springflows, and consequently toad habitat, and compromised the ability of the panelists to make informed decisions based on the âbest available science.â The commenter also stated that the above is clearly incorrect since it would also mean that all three geothermal systems/cells are connected, which the commenter stated is known not to be the case.
+                    <PRTPAGE P="73976"/>
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Geologic and geophysical investigations conducted beginning in the 1960s have been interpreted to show that the trace of the piedmont fault passes through Dixie Meadows at a location that is nearly coincident (just west) of the thermal springs, and that portions (sections) of the same piedmont fault, which runs up the west side of the valley, are the primary producing structures at the Comstock and Dixie Valley Power Plant geothermal sites, respectively; the commenter incorrectly interprets this evidence as necessitating that the three geothermal cells are hydraulically connected along the length of the piedmont fault (AltaRock Energy Inc. 2014ab, entire).
+                </P>
+                <P>
+                    (21) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the materials provided to the expert panel omitted information describing that dilation zones (
+                    <E T="03">e.g.,</E>
+                     at the intersections of faults striking in different directions) are determinant of the locations of identifiable, separate geothermal cells in Dixie Valley. The commenter stated that each dilation zone is âunique.â The commenter also stated that this led the expert panelists to make ill-informed interpretations about the dynamics of fluid flow at Dixie Meadows in relation to characteristics of the springflows providing habitat for the Dixie Valley toad.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The role of dilation zones as determinant of the occurrence of geothermal cells, which are hydraulically separate, on the west side of Dixie Valley is published in a major Department of Energy-funded study that was available to the expert panelists (AltaRock Energy Inc. 2014a, part I). Thus, this information was considered in our determination.
+                </P>
+                <P>
+                    (22) 
+                    <E T="03">Comment:</E>
+                     One commenter expressed concern that the January 11, 2021, version of the Monitoring and Management Plan was used by the expert elicitation panel conducted by the Service in August 2021, noting that âsignificant changesâ were made in the final version of the plan that was published on November 22, 2021. Two commenters stated that the changes to the plan and project have specific relevance to items of concern identified by us and the expert panelists and described in the proposed and emergency listing rules (87 FR 20374 and 87 FR 20336, both published on April 7, 2022). Specifically, the commenters noted the following changes/additions: (a) implementing a phased power plant development approach; (b) improving data and interpretations regarding the project's flow system and hydrogeologic characterization, including enhanced characterization of the long-recognized basin-fill hydrothermal plume and an enhanced description of the 2017 âflow testâ performed using wells proposed for use in Phase 1 of the project; and (c) modifying and clarifying the period of baseline data collection, clarifying what parameters would be monitored, increasing the frequencies of water quality monitoring and other field measurements, installing additional monitoring wells in the basin-fill hydrothermal plume west of the springs, and/or suspending power generation operations should conservation measures be ânon-satisfactoryâ in maintaining the aquatic habitat at Dixie Meadows.
+                </P>
+                <P>
+                    The commenter(s) stated that the Service did not acknowledge the phased power plant development approach and did not analyze or disclose how this assumption affected the expert panelists' projections of the project's impacts; the new information provided rendered the expert panelists' opinions regarding risk(s) posed to the springs/wetlands complex supporting the toad marginally relevant, at best; and/or changes made between the January Monitoring and Mitigation Plan reviewed by the expert panelists and the final version were not minimal, disagreeing with our conclusion that changes and additions made to the November Monitoring and Mitigation Plan were âminimalâ and did not affect the ability of the plan âto detect or mitigate changesâ (
+                    <E T="03">i.e.,</E>
+                     to provide a robust set of protections).
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The SSA considered the possibility of a phased approach to development. The expert panelists considered the power plant may be managed adaptively (Service 2022, appendix A) when thinking about the timeframe of system changes. This information is captured in the estimates of uncertainty for the various judgments. Even if development is phased, the total production amount approved remains a relevant quantity for assessing risk. Expert judgments on timeframes were based on the point at which the power plant begins operating (Service 2022, appendix A). Moreover, the phased power plant development approach results in no significant improvement to the efficacy or reliability of the November Monitoring and Mitigation Plan or reduction in the potential for adverse project impacts to the springs/wetlands (ability to detect or mitigate project-induced changes) given that the overall magnitude, number, and specific locations of geothermal fluid extraction and injection for each operational phase (12- versus 60-MW) will differ greatly. Additionally, the Service, in evaluating the threat of geothermal development under Factor A (the present or threatened destruction, modification, or curtailment of the species' habitat or range) in making a final listing decision, fully considered the phased approach described in BLM's Decision Record, November final EA, and November Monitoring and Mitigation Plan.
+                </P>
+                <P>The 2017 âflow test,â that is the only field-scale, multi-well pumping or injection test performed at the site to date, is of limited informational value because test pumping and injection were performed simultaneously at comparable rates in relatively close proximity over a limited period of time (compared to the proposed 1-year 12-MW operation), the test included no bedrock monitoring wells between the area of proposed project operations and the springs, depth of water in spring pools was monitored rather than more precise/sensitive springflows, and efforts to interpret the fate of injected tracers were largely unsuccessful.</P>
+                <P>Further, changes and additions made in the November Monitoring and Mitigation Plan resulted in minimal, if any, improvement in the hydrogeologic characterization of the site, refinement of the proposed hydrogeologic conceptual model, increase in the capacity of the monitoring plan to provide effective warning of the propagation of project impacts to the springs and habitat for the toad, or mitigation of any such impacts. Although the BLM's Decision Record discusses suspension of operations, there is a lack of detail in the November Monitoring and Mitigation Plan about a definite schedule for recurring review of monitoring results, the timeline for adaptive management refinements to occur, and length of time between data collection, lab results getting generated, reviewed, and interpreted, and time until a decision is made and implemented about if/when/how to mitigate any adverse effects.</P>
+                <P>
+                    (23) 
+                    <E T="03">Comment:</E>
+                     Two commenters stated that the monitoring established in the November Monitoring and Mitigation Plan will ensure early detection of any changes in the geothermal system prior to the effects spreading to the springs, and âreaction timeâ for the detection of project-induced changes in hydrologic conditions and âmitigation adjustmentsâ are misstated in the Service's emergency listing rule (87 FR 20336; April 7, 2022) based on input from the expert panel that was indicative of a lack of understanding of the monitoring plan, including its utility 
+                    <PRTPAGE P="73977"/>
+                    as a ârapid response mechanism,â the locations and frequency of monitoring, and âthresholdsâ and âtriggersâ established under the November Monitoring and Mitigation Plan. The commenters described the November Monitoring and Mitigation Plan as a hydrologic monitoring network that will be among the most intensive localized monitoring programs in the western United States and noted that it consists of a range of mitigation options, including, if necessary, cessation of geothermal fluid extraction and injection.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We have concluded that the success of the mitigation options described in the November Monitoring and Mitigation Plan are highly uncertain given the likelihood and uncertainties of timely and effective detection of project impacts to the springs through the proposed monitoring, and timely recovery of the springs/wetlands complex following any steps taken to remedy impacts. Our conclusions are based on a number of considerations, including, but not limited to: (a) the concentration of the planned monitoring and mitigation thresholds and triggers in the springs/wetland habitat itself, which provide no early warning of the spreading of project effects to the habitat for the Dixie Valley toad (irrespective of the frequency or density of monitoring); and (b) compounded by a delay in the recovery of the hydrologic system following, in this case, implementation of any mitigation measures involving changes in the location(s) or rate(s) of project pumping or injection (Bredehoeft 2011, entire), which will be of finite but unknown length and is not recognized or acknowledged in the November Monitoring and Mitigation Plan. We note that the November Monitoring and Mitigation Plan is an adaptive management document that contemplates further refinement of thresholds and triggers and may be modified further in the future. The best available information at this time is that the monitoring and mitigation plan is not adequate to protect the species from extinction due to geothermal development in Dixie Valley.
+                </P>
+                <P>
+                    (24) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the expert panel did not have access to the November Monitoring and Mitigation Plan, which included refinements to the hydrogeologic characterization of Dixie Valley and their hydrogeologic conceptual model of the Dixie Meadows site. The commenter suggests this caused the panelists to be influenced by their previously held assumptions about the hydrogeology of Dixie Valley, which then influenced their opinions regarding the potential impacts of the project.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The November Monitoring and Mitigation Plan contains information about the hydrogeology of geothermal systems in Dixie Valley (broadly) that was widely available in published sources to the expert panel. The panel was composed of expert-level groundwater hydrologists/hydrogeologists and a geologist, the latter among the foremost experts on geothermal systems in Nevada. The November Monitoring and Mitigation Plan did not include significant additional data supporting the proposed hydrogeologic conceptual model for the Dixie Meadows site and significant uncertainty remains regarding the primary and/or significant source or sources of the thermal springs. This uncertainty, in turn, has significant ramifications for the effectiveness of the proposed monitoring plan and any mitigation measures that involve changes to the location(s) or rate(s) of geothermal fluid extraction and/or injection, or ceasing them altogether as stipulated in BLM's Decision Record.
+                </P>
+                <P>
+                    (25) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the proposed listing rule (87 FR 20374; April 7, 2022) included unsupported speculation and surmise, especially regarding the Dixie Valley toad's habitat needs and potential geothermal impacts to its habitats. The commenter disagreed with our assessment of the toad's habitat requirements and potential impacts to the habitat from the geothermal project.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We considered the best scientific and commercial data available regarding the Dixie Valley toad to evaluate its potential status under the Act. We solicited peer review of our evaluation of the available data, and our peer reviewers supported our analysis. Science is a cumulative process, and the body of knowledge is ever-growing. In light of this, the Service continually takes new research into consideration. If plausible and significant new research supports amendment or revision of this rule in the future, the Service will consider modifying the rule consistent with the Act as appropriate.
+                </P>
+                <P>We address the habitat requirements of the Dixie Valley toad in section 3.3 of the SSA report and the potential impacts from geothermal development in section 4.2.1 of the SSA report.</P>
+                <P>
+                    (26) 
+                    <E T="03">Comment:</E>
+                     In discussing sufficient wetted area, one commenter stated that in the materials provided to the expert panelists, a USGS study (Huntington et al. 2014, pp. 40-49) indicated the average proportion of hot geothermal water mixing with cooler basin-fill groundwater in Dixie Valley was 10 to 12 percent, although three of the hotter temperature springs had 22 to 31 percent mixing. The commenter stated that in the unlikely event that all geothermal input to the hot springs ceased, 70 to 90 percent of the spring discharge would continue, so a complete loss of habitat postulated by the Service does not seem plausible. Additionally, the commenter stated that although there is a correlation between hot spring discharge, wetted area, and toad habitat, a complete loss of habitat would not occur, especially if only a small variation in hot spring discharge occurred. The commenter referenced table 3.3 in the SSA report to show that there is already a large natural variation in springflow from individual springs.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Multiple members of the expert panel suggested that changes in surface expression of springs could occur well before 100 percent of the geothermal input was lost (Service 2022, appendix B), leading to the range of plausible values reported by the panel. Additionally, a complete loss of the geothermal fluid component of the spring discharges would result in a significant decrease in the temperature of waters within the springs/wetlands complex with potentially substantial negative impacts to the Dixie Valley toad.
+                </P>
+                <P>
+                    (27) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the SSA report does not provide evidence to support the conclusion that thermally heated waters are essential or required for toad habitat or reproduction.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Section 3.3.2 of the SSA report discusses adequate water temperature needs of the Dixie Valley toad. Two studies (Halstead et al. 2021, entire; Rose et al. 2022, entire) establish the importance of thermal waters to Dixie Valley toads. We considered the best scientific and commercial data available regarding the Dixie Valley toad to evaluate their potential status under the Act. We solicited peer review of our evaluation of the available data, and the peer reviewers supported our analysis.
+                </P>
+                <P>
+                    (28) 
+                    <E T="03">Comment:</E>
+                     One commenter discussed how toad sightings in Dixie Meadows from 2009 to 2014 (displayed in figure 4.7 in the SSA report) show that the toads are distributed throughout the spring-fed wetlands but avoid hot water. The commenter stated that many toads were observed near Spring Complex 6, the coldest area, which has a temperature ranging from 12.7 to 15 Â°C (55 to 59âÂ°F), and there were no toads observed near springs that have a temperature greater than 35 Â°C (95âÂ°F). The commenter concludes that the need for hot water is unlikely.
+                    <PRTPAGE P="73978"/>
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Section 3.3.2 of the SSA report discusses adequate water temperature preferred by Dixie Valley toads throughout annual seasonal changes. Figure 4.7 in the SSA report depicts toad use between 2009-2014 during April and May (breeding season) of wetted habitat. The Dixie Valley toad uses different parts of the wetlands during different times of the year. Because figure 4.7 shows toad use of the wetlands during the breeding season only and is not representative of all the areas the toad uses throughout the year, it is not appropriate to use figure 4.7 to discuss the toad's preference for warm water. Instead, please refer to figure 5.1 of the SSA report, which is a more accurate description of occupied habitat and shows the Dixie Valley toad occurs near spring heads. Additionally, the thermal needs of the Dixie Valley toad have been established (Halstead et al. 2021, entire; Rose et al. 2022, entire).
+                </P>
+                <P>Spring Complex 6 is isolated from the other spring complexes and is the southern-most wetland within Dixie Meadows. While toads can be found in this spring complex, many survey attempts in this area are unsuccessful in finding toads and when they are found, few individuals are located. Few individuals are found in Spring Complex 6 because it has water temperatures cooler than the water temperatures preferred by the toad, making it lower-quality habitat. Therefore, although Dixie Valley toads can be found in cooler spring complexes, they are low-quality habitat and do not provide for the needs of the species. We conclude that the low abundance of Dixie Valley toads in Spring Complex 6 supports our conclusion that thermal waters are an essential element of the species' continued existence.</P>
+                <P>
+                    (29) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that employees of Ormat have observed tadpoles in ephemeral ponds that fill after storm events that have no thermal-water input, indicating that hot spring input is also unnecessary for hatching.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Dixie Valley toad larvae need warm water temperatures for survival. Dixie Valley toad larvae have been found in water temperatures ranging from 20-28 Â°C (68-82âÂ°F) (Rose et al. 2022, entire) and have been found close to spring heads and throughout the wetland complexes (Rose et al. 2022, entire). Some sites where larvae have been found are heated by solar radiation, which may have been the case for the anecdotal observation by Ormat employees. Larvae likely use a combination of sites heated by solar radiation and thermal water input; therefore, reduction in thermal-water input will decrease habitat for a life stage with an already highly restricted amount of habitat.
+                </P>
+                <P>
+                    (30) 
+                    <E T="03">Comment:</E>
+                     One commenter disagrees with the correlation between thermal characteristics of the Dixie Valley toad habitat and disease resistance to chytridiomycosis.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Section 4.2.8 in the SSA report describes potential disease impacts from chytridiomycosis and the role that water temperature plays in the establishment and severity of chytridiomycosis. The best available information indicates that the thermal nature of Dixie Valley toad habitat may keep chytrid fungus from becoming established; therefore, it is imperative that the water maintains its natural thermal characteristics (Forrest et al. 2013, pp. 75-85; Halstead et al. 2021, pp. 33-35).
+                </P>
+                <P>
+                    (31) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that because ambient temperatures in Dixie Valley are frequently higher than 25 Â°C (77âÂ°F), our assertion that it is imperative to maintain precise spring-water temperatures is lacking in support.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Available information does not support the assumption that warm air temperatures will keep water temperatures high regardless of effects from geothermal production. Spring complexes 2, 3, 4, and 5 (which provide a majority of the wetland habitat for the Dixie Valley toad) produce water temperatures greater than 25 Â°C (77âÂ°F); thus, ambient air temperature would not be able to warm water temperatures sufficiently. In addition, the commenter only references high temperatures in Dixie Valley. If water temperatures in the springs are decreased by geothermal production, then winter months with colder ambient air temperatures could cool water temperatures to unsuitable levels. In summary, the springs are naturally warmer than air temperatures because of the geothermal conditions, and if the geothermal conditions are removed, the ambient air temperatures would be insufficient to raise the water temperatures to the temperatures required by the Dixie Valley toad for reproduction and survival.
+                </P>
+                <P>
+                    (32) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that there is a wide range in values for total dissolved solids, dissolved oxygen, and pH across Dixie Valley toad aquatic habitat. The commenter asserts that the SSA report does not provide evidence that there is a correlation between toad distribution and changes in water quality.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The Service recognizes that the exact water-quality parameters preferred by Dixie Valley toads are unknown and should be studied further. However, after review of the best available information, we conclude this species has evolved only in Dixie Meadows and is presumed to thrive in the current existing complex mix of water emanating from both the basin-fill aquifer and the deep geothermal reservoir. See section 3.3.4 of the SSA report for more information regarding adequate water quality.
+                </P>
+                <P>
+                    (33) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that there is no evidence for the SSA report's description that the piedmont fault is the source of both the cold and hot springs at Dixie Meadows, and that information was not provided to the expert panel regarding the presence of the basin-fill hydrothermal plume located west of the springs. Additionally, the alternative hypothesis regarding the source of the springs or other interpretations of the hydrologic significance of the piedmont fault were not provided to the expert panelists. The commenter then stated that, due to this omission, the panelists were not provided with the best available scientific information.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We agree that the Piedmont fault is not the source of both cold basin-fill waters and geothermal fluids discharging from the springs, subsequently, we revised the SSA report to correct that error. Based on the chemistry of waters discharging from the thermal springs, we interpret them to be mixtures, to various degrees, of geothermal fluids and basin-fill groundwaters (Huntington et al. 2014, entire), including those flowing west to east from the foot of the mountains toward the springs within the long-recognized basin-fill hydrothermal plume.
+                </P>
+                <P>In regards to the expert panel, the panelists were composed of expert groundwater hydrologists, hydrogeologists, and geologists, including one of the foremost experts on geothermal systems in Nevada, who are aware of the existence of the basin-fill hydrothermal plume and Piedmont fault and their potential roles as sources of waters discharging from the springs.</P>
+                <P>
+                    (34) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the literature used by the Service stating that geothermal energy production is the greatest threat to Dixie Valley toads is flawed because some of the scientific papers cited did not have the requisite hydrogeological analysis to support that assertion. The commenter specifically pointed to Forrest et al. (2017), Gordon et al. (2017), and Halstead et al. (2021).
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We considered the best scientific and commercial data available regarding the Dixie Valley toad to evaluate the species' potential status 
+                    <PRTPAGE P="73979"/>
+                    under the Act. We solicited peer review of our evaluation of the available data, and our peer reviewers supported our analysis. All three papers mentioned by the commenter are peer-reviewed journal articles. The authors of the three papers provided important information on the biology, habitat requirements, and use by the Dixie Valley toad within the Dixie Meadow wetlands. All three papers came to the same conclusion that geothermal development was the greatest threat to the persistence of the toad as described in section 4.2.1 of the SSA report. This conclusion was further supported by the expert panel and our own analysis of the threats facing the Dixie Valley toad.
+                </P>
+                <P>
+                    (35) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the Service recognized that every geothermal site is unique, but then considered the impacts of geothermal energy projects at four other sites in California and Nevada as indicative of the likely impacts of the Dixie Meadows project, without analyzing the differences between those projects and the one planned at Dixie Meadows, with particular consideration given to impacts that have occurred at the Jersey Valley site.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Other geothermal projects were used to inform the range of plausible outcomes, but characteristics of projects were not directly applied to the Dixie Meadows project, nor were they used to determine a most likely outcome. In addition, the expert panelists discussed differences in technology and site characteristics between other geothermal projects and the Dixie Meadows project when forming their opinions (Service 2022, appendix A). The expert panelists used these comparisons to narrow down the range of plausible outcomes of the Dixie Meadows project, subsequently incorporating the differences between other geothermal projects and this project into our analysis.
+                </P>
+                <P>
+                    (36) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the expert panelists questioned whether those responsible for managing the power plant operation would implement the mitigation measures outlined in the January Monitoring and Mitigation Plan if/when the measures are counter to operational goals. This viewpoint likely influencing the panelists' opinions regarding the potential impacts of the project, despite the information provided in the November Monitoring and Mitigation Plan.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The expert panel had access to the January Monitoring and Mitigation Plan, which substantially described the monitoring and mitigation measures, hypotheses concerning the hydrogeology of the Dixie Meadows site and source(s) of geothermal fluids discharging from the springs, and mitigation measures (including significant curtailments of project operations) outlined in the November Monitoring and Mitigation Plan. Based on the panelists' evaluation of the above, as well as other published information about the hydrogeology and surface water resources of the Dixie Meadows site, they collectively expressed low confidence in the ability of the January Monitoring and Mitigation Plan to detect and mitigate project-induced changes in the temperature and/or flow of the springs because of the hydrogeologic complexity and natural hydrologic variability of the site, limited baseline data, inadequacies in the proposed monitoring and mitigation options, and potential interacting effects of climatic change and other groundwater-related uses in the valley. After the experts expressed low confidence in the ability of the January Monitoring and Mitigation Plan to detect and mitigate changes to the springs and wetland complex, they additionally expressed concern that mitigation measures might not be implemented if the measures ran counter to operational goals. Therefore, although the panelists' concern about mitigation measures being implemented was one factor, the other factors discussed above had a greater influence on the experts' judgements.
+                </P>
+                <P>
+                    (37) 
+                    <E T="03">Comment:</E>
+                     One commenter claimed that the Service did not consider instances where geothermal energy projects have had negligible to no impacts on springs or other surface discharges, including the geothermal energy projects at the Tungsten Mountain Power Plant and McGinness Hills facility in Nevada and the 110-MW Ngatamariki geothermal project in New Zealand. The commenter additionally stated that a condition of approval of the Ngatamariki project was an agreement to preserve surface geothermal features within the Orakei Karako thermal system to the northeast.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The expert elicitation panel considered all of these projects in their discussions, with the McGinness Hills project referenced in the elicitation record (Service 2022, appendix A). The Service considered, as part of the expert elicitation and SSA, impacts (or the lack thereof) to surface water resources experienced at other geothermal energy production in evaluating the potential impacts of the project planned at Dixie Meadows. We find that all the other geothermal energy projects referenced by the commenter have important differences from the Dixie Meadows site, such that we find that it is not scientifically supportable to extrapolate their effects to the Dixie Meadows project.
+                </P>
+                <P>
+                    The hydrogeology of the Dixie Meadows site differs significantly from that at the McGinness Hills, Tungsten Mountain, and Ngatamariki sites in that the Dixie Meadows springs are not hydraulically isolated from the underlying geothermal reservoir by one or more low permeability layers; 
+                    <E T="03">e.g.,</E>
+                     clay or clay-rich strata. Consequently, unlike surface water resources at the McGinness Hills, Tungsten Mountain, and Ngatamariki sites, the Dixie Meadows springs can be impacted by production pumping and/or injection in the underlying geothermal reservoir. Additionally, the best available information suggests that no hydraulic connection exists between the Orakei Korako geothermal system and the Ngatamariki site (O'Brien 2010, p. iii). Please refer to section 4.2.1 of the SSA report for further discussion.
+                </P>
+                <P>
+                    (38) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the basin-fill hydrothermal plume is the only source of geothermal fluids discharging from the springs and, as a result, spring flows, including their temperatures, could be maintained by reinjecting some of the available cooled geothermal fluids into the plume; which could additionally result in an increase in the volume of the spring flows. In this respect, the Dixie Meadows site/resource is different than other geothermal projects cited in the proposed and emergency listing rules (87 FR 20374 and 87 FR 20336, both published on April 7, 2022).
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     It is clear from the presence of a major fault scarp just west of the springs (at the location of the Piedmont fault) that surficial groundwaters flowing west to east through the basin fill, including the long-recognized hydrothermal plume (Bergman et al. 2014, pp. 74 and 93), contribute to the spring flows; and that the cold water component of the basin-fill hydrothermal plume varies seasonally and is largely controlled by climatic factors. Additionally, the Piedmont fault may be a significant, if not the primary, source of geothermal fluids discharging from the springs, a matter of dispute (Bergman et al. 2014, entire). The relative contributions of these two potential sources, the basin-fill hydrothermal plume and Piedmont fault, to the flow and temperatures of the springs are unknown.
+                </P>
+                <P>
+                    Due to the variable cold-water contribution of the basin-fill hydrothermal plume to the discharge and temperatures of the springs, which is largely driven by climatic factors 
+                    <PRTPAGE P="73980"/>
+                    (including seasonal variations, such as the amount and timing of snowmelt), as well as the unspecified location(s), rate(s), and timing of the described reinjection of cooled geothermal fluids into the plume, we have low confidence that the measure described by the commenter could be used to reproduce the temperatures and flow rates of various springs at Dixie Meadows.
+                </P>
+                <P>Likewise, any resulting increases in the flow of the springs are likely to be accompanied by a decrease in the temperature of the springs (in that sense, a depletion of the spring flows).</P>
+                <P>Regarding the geologic (and hydrogeologic) characteristics of the Dixie Meadows site, it is not unique among the geothermal energy project sites considered in the emergency listing rule (87 FR 20336; April 7, 2022). The Dixie Valley Power Plant site in northern Dixie Valley is situated within the same Dixie Valley Fault Zone with many of the same major faults; a hydrothermal plume also exists within the overlying basin fill at that site. One or more thermal springs were once present in the vicinities of the Steamboat Springs and Jersey Valley geothermal projects, also referenced in the emergency listing rule.</P>
+                <P>
+                    (39) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that there will be no net depletion of water within the overall hydrologic/hydrogeologic system because consumptive use of the geothermal fluids will be negligible.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We agree the overall water balance of the larger (area-wide) hydrologic/hydrogeologic system may not be affected to any significant degree by the combined geothermal extraction and injection during operations due to the use of binary technology within the power plant. However, the transport of geothermal fluids to the springs, which ultimately depends on the movement of geothermal fluids along discrete permeable structures in faulted/fractured bedrock, may be altered by the project pumping and/or injection in ways that cannot be anticipated in this fractured-rock environment; impacting, in particular, the temperatures of the springs, despite maintenance of the overall water balance within the system. Because water temperature is a key component of Dixie Valley toad survival and reproduction, we are most concerned about the impacts of the project on water temperatures within the toad's habitat.
+                </P>
+                <P>
+                    (40) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that the hydrogeology of the Dixie Meadows site, including the geothermal reservoir, is unique; reasonably well understood and defined based on exploration drilling, flow testing, and spring analyses conducted to date; and not comparable to other geothermal systems in Dixie Valley or elsewhere in the region.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The hydrogeology of the geothermal system at Dixie Meadows has many geologic, hydrogeologic, and thermal characteristics in common with other geothermal systems/cells identified and studied on the west side of Dixie Valley within the Dixie Valley Fault Zone (area of the Comstock Mine and long-time Dixie Valley Power Plant) based on geothermal investigations beginning in the 1960s (Bergman et al. 2014, entire), including the presence of basin-fill hydrothermal plumes emanating from the vicinity of the range-bounding Dixie Valley Fault. In addition to the Dixie Valley Power Plant site, one or more thermal springs were once present in the vicinities of the Steamboat Springs and Jersey Valley geothermal projects, also referenced in the emergency listing rule (87 FR 20336; April 7, 2022).
+                </P>
+                <P>The distinguishing (unique) feature of the Dixie Meadows geothermal system is the presence of numerous thermal springs, numbering well in excess of 20, that provide habitat for an endemic species, the Dixie Valley toad. With respect to the current understanding of the geothermal system/site, its hydrogeology is poorly characterized to date, due, in particular, to limited bedrock exploratory drilling and field-scale multi-well pumping and injection testing. This paucity of information hinders the development of a conceptual hydrogeologic model that includes identification/confirmation of the source(s) of the thermal spring discharges, as well as the development of an effective early-warning monitoring program and mitigation measures, both of which depend on the identification of the source(s) of the thermal spring discharges.</P>
+                <HD SOURCE="HD1">I. Final Listing Determination</HD>
+                <HD SOURCE="HD1">Background</HD>
+                <P>
+                    A thorough review of the taxonomy, life history, and ecology of the Dixie Valley toad (
+                    <E T="03">Anaxyrus williamsi</E>
+                    ) is presented in the SSA report (Service 2022, entire).
+                </P>
+                <P>
+                    The Dixie Valley toad was described as a distinct species in the western toads (
+                    <E T="03">Anaxyrus boreas</E>
+                    ) species complex in 2017, due to morphological differences, genetic information, and its isolated distribution (Gordon et al. 2017, entire). Forrest et al. (2017, entire) also published a paper describing Dixie Valley toad and came up with similar results but stopped short of concluding that it is a unique species. We evaluated both papers and concluded the Gordon et al. (2017, entire) paper provided a better sampling design to answer species-level genetic questions and conducted a more thorough morphological analysis. Additionally, the Dixie Valley toad has been accepted as a valid species by the two leading authoritative amphibian internet sites: (1) amphibiaweb.org (AmphibiaWeb 2022, website) and (2) Amphibian Species of the World (Frost 2021, website). Because both the larger scientific community and our own analysis of the best available scientific information indicate that the findings of Gordon et al. (2017 entire) are well supported, we are accepting their conclusions that the Dixie Valley toad is a unique species (
+                    <E T="03">Anaxyrus williamsi</E>
+                    ). Therefore, we have determined that the Dixie Valley toad is a listable entity under the Act.
+                </P>
+                <P>
+                    Limited information is available specific to the life history of the Dixie Valley toad; therefore, closely associated species are used as surrogates where appropriate. Breeding (denoted by observing a male and female in amplexus, egg masses, or tadpoles) occurs annually between March and May (Forrest 2013, p. 76). Breeding appears protracted due to the thermal nature of the habitat and can last up to 3 months (March-May), with toads breeding early in the year in habitats closer to the thermal spring sources and then moving downstream into habitats as they warm throughout spring and early summer. Other toad species typically have a much more contracted breeding season of 3 to 4 weeks (
+                    <E T="03">e.g.,</E>
+                     Sherman 1980, pp. 18-19, 72-73). Dixie Valley toad tadpoles hatch shortly after being deposited; time to hatching is not known but is likely dependent on water temperature (
+                    <E T="03">e.g.,</E>
+                     black toad (
+                    <E T="03">Anaxyrus exsul</E>
+                    ) tadpoles hatch in 7 to 9 days; Sherman 1980, p. 97). Fully metamorphosed Dixie Valley toadlets were observed 70 days after egg laying (Forrest 2013, pp. 76-77).
+                </P>
+                <P>
+                    The Dixie Valley toad is a narrow-ranging endemic (highly local and known to exist only in their place of origin) known from one population in the Dixie Meadows area of Churchill County, Nevada. The species occurs primarily on Department of Defense (Fallon Naval Air Station) lands (90 percent) and Bureau of Land Management (BLM) lands (10 percent). The wetlands located in Dixie Meadows cover 307.6 hectares (ha) (760 acres (ac)) and are fed by geothermal springs. The potential area of occupancy is estimated to be 146 ha (360 ac) based on the extent of wetland-associated vegetation. The species is heavily reliant on these 
+                    <PRTPAGE P="73981"/>
+                    wetlands, as it is rarely encountered more than 14 meters (m) (46 feet (ft)) from aquatic habitat (Halstead et al. 2021, p. 7).
+                </P>
+                <HD SOURCE="HD1">Regulatory and Analytical Framework</HD>
+                <HD SOURCE="HD2">Regulatory Framework</HD>
+                <P>Section 4 of the Act (16 U.S.C. 1533) and the implementing regulations in title 50 of the Code of Federal Regulations set forth the procedures for determining whether a species is an endangered species or a threatened species, issuing protective regulations for threatened species, and designating critical habitat for threatened and endangered species. In 2019, jointly with the National Marine Fisheries Service, the Service issued final rules that revised the regulations in 50 CFR parts 17 and 424 regarding how we add, remove, and reclassify threatened and endangered species and the criteria for designating listed species' critical habitat (84 FR 45020 and 84 FR 44752; August 27, 2019). At the same time the Service also issued final regulations that, for species listed as threatened species after September 26, 2019, eliminated the Service's general protective regulations automatically applying to threatened species the prohibitions that section 9 of the Act applies to endangered species (collectively, the 2019 regulations).</P>
+                <P>
+                    As with the proposed rule, we are applying the 2019 regulations for this final rule because the 2019 regulations are the governing law just as they were when we completed the proposed rule. Although there was a period in the interimâbetween July 5, 2022, and September 21, 2022âwhen the 2019 regulations became vacated and the pre-2019 regulations therefore governed, the 2019 regulations are now in effect and govern listing and critical habitat decisions (
+                    <E T="03">see Center for Biological Diversity</E>
+                     v. 
+                    <E T="03">Haaland,</E>
+                     No. 4:19-cv-05206-JST, Doc. 168 (N.D. Cal. July 5, 2022) (CBD v. Haaland) (vacating the 2019 regulations and thereby reinstating the pre-2019 regulations)); 
+                    <E T="03">In re: Cattlemen's Ass'n,</E>
+                     No. 22-70194 (9th Cir. Sept. 21, 2022) (staying the district court's order vacating the 2019 regulations until the district court resolved a pending motion to amend the order); 
+                    <E T="03">Center for Biological Diversity</E>
+                     v. 
+                    <E T="03">Haaland,</E>
+                     No. 4:19-cv-5206-JST, Doc. Nos. 197, 198 (N.D. Cal. Nov. 16, 2022) (granting plaintiffs' motion to amend July 5, 2022 order and granting government's motion for remand without vacatur). The Act defines an âendangered speciesâ as a species that is in danger of extinction throughout all or a significant portion of its range, and a âthreatened speciesâ as a species that is likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range. The Act requires that we determine whether any species is an endangered species or a threatened species because of any of the following factors:
+                </P>
+                <P>(A) The present or threatened destruction, modification, or curtailment of its habitat or range;</P>
+                <P>(B) Overutilization for commercial, recreational, scientific, or educational purposes;</P>
+                <P>(C) Disease or predation;</P>
+                <P>(D) The inadequacy of existing regulatory mechanisms; or</P>
+                <P>(E) Other natural or manmade factors affecting its continued existence.</P>
+                <P>These factors represent broad categories of natural or human-caused actions or conditions that could have an effect on a species' continued existence. In evaluating these actions and conditions, we look for those that may have a negative effect on individuals of the species, as well as other actions or conditions that may ameliorate any negative effects or may have positive effects.</P>
+                <P>We use the term âthreatâ to refer in general to actions or conditions that are known to or are reasonably likely to negatively affect individuals of a species. The term âthreatâ includes actions or conditions that have a direct impact on individuals (direct impacts), as well as those that affect individuals through alteration of their habitat or required resources (stressors). The term âthreatâ may encompassâeither together or separatelyâthe source of the action or condition or the action or condition itself.</P>
+                <P>However, the mere identification of any threat(s) does not necessarily mean that the species meets the statutory definition of an âendangered speciesâ or a âthreatened species.â In determining whether a species meets either definition, we must evaluate all identified threats by considering the species' expected response and the effects of the threatsâin light of those actions and conditions that will ameliorate the threatsâon an individual, population, and species level. We evaluate each threat and its expected effects on the species, then analyze the cumulative effect of all of the threats on the species as a whole. We also consider the cumulative effect of the threats in light of those actions and conditions that will have positive effects on the species, such as any existing regulatory mechanisms or conservation efforts. The Secretary determines whether the species meets the definition of an âendangered speciesâ or a âthreatened speciesâ only after conducting this cumulative analysis and describing the expected effect on the species now and in the foreseeable future.</P>
+                <P>The Act does not define the term âforeseeable future,â which appears in the statutory definition of âthreatened species.â Our implementing regulations at 50 CFR 424.11(d) set forth a framework for evaluating the foreseeable future on a case-by-case basis. The term âforeseeable futureâ extends only so far into the future as the Services can reasonably determine that both the future threats and the species' responses to those threats are likely. In other words, the foreseeable future is the period of time in which we can make reliable predictions. âReliableâ does not mean âcertainâ; it means sufficient to provide a reasonable degree of confidence in the prediction. Thus, a prediction is reliable if it is reasonable to depend on it when making decisions.</P>
+                <P>It is not always possible or necessary to define foreseeable future as a particular number of years. Analysis of the foreseeable future uses the best scientific and commercial data available and should consider the timeframes applicable to the relevant threats and to the species' likely responses to those threats in view of its life-history characteristics. Data that are typically relevant to assessing the species' biological response include species-specific factors such as lifespan, reproductive rates or productivity, certain behaviors, and other demographic factors.</P>
+                <HD SOURCE="HD2">Analytical Framework</HD>
+                <P>
+                    The SSA report documents the results of our comprehensive biological review of the best scientific and commercial data regarding the status of the species, including an assessment of the potential threats to the species (Service 2022, entire). The SSA report does not represent our decision on whether the species should be listed as an endangered or threatened species under the Act. However, it does provide the scientific basis that informs our regulatory decisions, which involve the further application of standards within the Act and its implementing regulations and policies. The following is a summary of the key results and conclusions from the SSA report; the full SSA report can be found at Docket No. FWS-R8-ES-2022-0024 on 
+                    <E T="03">https://www.regulations.gov.</E>
+                </P>
+                <P>
+                    To assess the Dixie Valley toad's viability, we used the three conservation biology principles of resiliency, redundancy, and representation (Shaffer 
+                    <PRTPAGE P="73982"/>
+                    and Stein 2000, pp. 306-310). Briefly, resiliency supports the ability of the species to withstand environmental and demographic stochasticity (for example, wet or dry, warm or cold years), redundancy supports the ability of the species to withstand catastrophic events (for example, droughts, large pollution events), and representation supports the ability of the species to adapt over time to long-term changes in the environment (for example, climate changes). In general, the more resilient and redundant a species is and the more representation it has, the more likely it is to sustain populations over time, even under changing environmental conditions. Using these principles, we identified the species' ecological requirements for survival and reproduction at the individual, population, and species levels, and described the beneficial and risk factors influencing the species' viability.
+                </P>
+                <P>The SSA process can be categorized into three sequential stages. During the first stage, we evaluated the individual species' life-history needs. The next stage involved an assessment of the historical and current condition of the species' demographics and habitat characteristics, including an explanation of how the species arrived at its current condition. The final stage of the SSA involved making predictions about the species' responses to positive and negative environmental and anthropogenic influences. Throughout all of these stages, we used the best available information to characterize viability as the ability of a species to sustain populations in the wild over time. We used this information to inform our regulatory decision.</P>
+                <P>We note that, by using the SSA framework to guide our analysis of the scientific information documented in the SSA report, we have not only analyzed individual effects on the species, but we have also analyzed their potential cumulative effects. We incorporate the cumulative effects into our SSA analysis when we characterize the current and future condition of the species. To assess the current and future condition of the species, we undertake an iterative analysis that encompasses and incorporates the threats individually and then accumulates and evaluates the effects of all the factors that may be influencing the species, including threats and conservation efforts. Because the SSA framework considers not just the presence of the factors, but to what degree they collectively influence risk to the entire species, our assessment integrates the cumulative effects of the factors and replaces a standalone cumulative effects analysis.</P>
+                <HD SOURCE="HD1">Summary of Biological Status and Threats</HD>
+                <P>In this discussion, we review the biological condition of the species and its resources, and the threats that influence the species' current and future condition, in order to assess the species' overall viability and the risks to that viability.</P>
+                <HD SOURCE="HD2">Species Needs</HD>
+                <HD SOURCE="HD3">Wetted Area</HD>
+                <P>
+                    Dixie Meadows contains 122 known spring and seep sources and discharges approximately 1,109,396 cubic meters per year (m
+                    <SU>3</SU>
+                    /yr) (900 acre-feet per year (afy)) (BLM 2021b, appendix H, pp. 1-2), which distributes water across the wetland complex then flows out to the playa or is collected in a large ephemeral pond in the northeast portion of the wetland complex. Some of the larger springs have springbrooks that form channels while in other areas the water spreads out over the ground or through wetland vegetation creating a thin layer of water or wet soil that helps maintain the wetland. Spring discharge is inherently linked to the amount of wetted area within the wetland complex. Spring discharge is important for the viability of the Dixie Valley toad because changes to discharge rates likely impact the ability of the toad to survive in a particular spring complex.
+                </P>
+                <P>
+                    Dixie Valley toad is a highly aquatic species rarely found more than 14 m (46 ft) away from water (Halstead et al. 2021, pp. 28, 30). The species needs wetted area for shelter, feeding, reproduction, and dispersal. Any change in the amount of wetted area will directly influence the amount of habitat available to the Dixie Valley toad. Due to the already restricted range of the habitat, the species needs to maintain the entirety of the 1.46-square-kilometer (km
+                    <SU>2</SU>
+                    ) (360-ac) potential area of occupancy, based on the extent of the wetland-associated vegetation.
+                </P>
+                <HD SOURCE="HD3">Adequate Water Temperature</HD>
+                <P>In addition to the Dixie Valley toad being highly aquatic, the temperature of the water is also important to its life history. The species needs warm temperatures for shelter and reproduction. The Dixie Valley toad selects water or substrate that is warmer compared to nearby random paired locations, particularly in spring, fall, and winter months (Halstead et al. 2021, pp. 30, 33-34). During spring, they select areas with warmer water for breeding (oviposition sites), which allows for faster egg hatching and time to metamorphosis (Halstead et al. 2021, pp. 30, 33-34). During fall, they select warmer areas (closer to thermal springs with dense vegetation), which satisfies their thermal preferences as nighttime temperatures decrease (Halstead et al. 2021, pp. 30, 33-34). As winter approaches, toads find areas with consistent warm temperatures during brumation (hibernation for cold-blooded animals), so they do not freeze (Halstead et al. 2021, pp. 30, 33-34). This affinity for warm water temperature during brumation is unique to the Dixie Valley toad as compared to other species within the western toad species complex, which select burrows, rocks, logs, or other structures to survive through winter (Browne and Paszkowski 2010, pp. 53-56; Halstead et al. 2021, p. 34). Therefore, although the exact temperatures are unknown (range between 10-41 Â°C (50-106âÂ°F), Dixie Valley toad requires water temperatures warm enough to successfully breed and survive colder months during the year.</P>
+                <HD SOURCE="HD3">Wetland Vegetation</HD>
+                <P>
+                    The most common wetland vegetation found within Dixie Meadows includes 
+                    <E T="03">Juncus balticus</E>
+                     (Baltic rush), 
+                    <E T="03">Schoenoplectus</E>
+                     spp. (bulrushes), 
+                    <E T="03">Phragmites australis</E>
+                     (common reed), 
+                    <E T="03">Eleocharis</E>
+                     spp. (spikerushes), 
+                    <E T="03">Typha</E>
+                     spp. (cattails), 
+                    <E T="03">Carex</E>
+                     spp. (sedges), and 
+                    <E T="03">Distichlis spicata</E>
+                     (saltgrass) (AMEC Environment and Infrastructure 2014, p. I-1; Tierra Data 2015, pp. 2-25-2-29; BLM 2021b, appendix H, pp. 50-52, 93-99). Several species of invasive and nonnative plants also occur in Dixie Meadows, including 
+                    <E T="03">Cicuta maculata</E>
+                     (water hemlock), 
+                    <E T="03">Cardaria draba</E>
+                     (hoary cress), 
+                    <E T="03">Lepidium latifolium</E>
+                     (perennial pepperweed), 
+                    <E T="03">Elaeagnus angustifolia</E>
+                     (Russian olive), and 
+                    <E T="03">Tamarix ramosissima</E>
+                     (saltcedar) (AMEC Environment and Infrastructure 2014, p. 3-59). The Dixie Valley toad needs sufficient wetland vegetation to use as shelter. At a minimum, maintaining the current heterogeneity of the wetland vegetation found in Dixie Meadows is a necessary component for maintaining the resiliency of the Dixie Valley toad (Halstead et al. 2021, p. 34).
+                </P>
+                <HD SOURCE="HD3">Adequate Water Quality</HD>
+                <P>
+                    Amphibian species spend all or part of their life cycle in water; therefore, water quality characteristics directly affect amphibians. Dissolved oxygen, potential hydrogen (pH), salinity, water conductivity, and excessive nutrient concentrations (among other water quality metrics) all have direct and indirect impacts to the survival, growth, maturation, and physical development 
+                    <PRTPAGE P="73983"/>
+                    of amphibian species when found to be outside of naturally occurring levels for any particular location (Sparling 2010, pp. 105-117).
+                </P>
+                <P>Various water quality data have been collected from a few springs within Dixie Meadows and from wells drilled during geothermal exploration activities (BLM 2021b, appendix H, pp. 57-64). The exact water quality parameters preferred by the Dixie Valley toad are unknown; however, this species has evolved only in Dixie Meadows and is presumed to thrive in the current existing, complex mix of water emanating from both the basin-fill aquifer and the deep geothermal reservoir. Within the unique habitat in Dixie Meadows, and given the life history and physiological strategies employed by the species, a good baseline of existing environmental water quality factors that are most important for all life stages should be studied (Rowe et al. 2003, p. 957). The Dixie Valley toad needs the natural variation of the current water quality parameters found in Dixie Meadows to maintain resiliency.</P>
+                <HD SOURCE="HD2">Threats Analysis</HD>
+                <P>
+                    We reviewed the potential risk factors (
+                    <E T="03">i.e.,</E>
+                     threats, stressors) that may be currently affecting the Dixie Valley toad. In this rule, we discuss only those factors in detail that could meaningfully affect the status of the species.
+                </P>
+                <P>
+                    The primary threats affecting the status of the Dixie Valley toad are geothermal development and associated groundwater pumping (Factor A); establishment of 
+                    <E T="03">Batrachochytrium dendrobatidis</E>
+                     (
+                    <E T="03">Bd;</E>
+                     hereafter referred to as amphibian chytrid fungus), which causes the disease chytridiomycosis (Factor C); predation by the invasive American bullfrog (
+                    <E T="03">Lithobates catesbeianus</E>
+                    ) (Factor C); groundwater pumping associated with human consumption, agriculture, and county planning (Factor A); and climate change (Factor A). Climate change may further influence the degree to which these threats, individually or collectively, may affect the Dixie Valley toad. The risk factors that are unlikely to have significant effects on the Dixie Valley toad, such as livestock grazing and historical spring modifications, are not discussed here but are evaluated in the current condition assessment of the SSA report.
+                </P>
+                <HD SOURCE="HD3">Geothermal Development</HD>
+                <P>Geothermal resources are reservoirs of hot water or steam found at different temperatures and depths below the ground. These geothermal reservoirs can be used to produce energy by drilling a well and bringing the heated water or steam to the surface. Geothermal energy plants use the steam or heat created by the hot water to drive turbines that produce electricity. Three main technologies are being used today to convert geothermal water into electricity: dry steam, flash steam, and binary cycle. Binary technology is the focus for this analysis because that type of geothermal power technology has been approved for development at Dixie Meadows.</P>
+                <P>
+                    Binary cycle power plants use the heat of geothermal fluids extracted from (pumped out of) geothermal reservoirs to heat a secondary fluid (
+                    <E T="03">e.g.,</E>
+                     butane) that generally has a much lower boiling point than water. This process is accomplished through a heat exchanger, and the secondary fluid is flashed into vapor by the heat from the geothermal fluid; the vapor then drives the turbines to generate electricity. The cooled geothermal fluid is subsequently reinjected back into the ground to maintain pressures within the geothermal reservoir and to be reheated, incurring for all practical purposes no losses to evaporation. Consequently, binary cycle power plants do not affect the overall amount of water within the hydrologic system or, optimally, pressures within the geothermal reservoir (despite the project pumping). However, in the case of the Dixie Meadows site, the transport of geothermal fluids to the springs, which ultimately depends on the movement of geothermal fluids along discrete permeable structures in faulted/fractured bedrock, may be altered by the project pumping and/or injection at specific locations in ways that cannot be anticipated in this fractured-rock environment; impacting, in particular, the temperatures of the springs, despite maintenance of the overall water balance within the system.
+                </P>
+                <P>General impacts from geothermal production facilities are presented below. Because every geothermal field is unique, it is difficult to predict what effects from geothermal production may occur.</P>
+                <P>Prior to geothermal development, the flow path of water underneath the land surface is usually not known with sufficient detail to understand and prevent impacts to the surface wetlands dependent upon those flows (Sorey 2000, p. 705). Changes in surface waters connected to underground thermal waters as a result of geothermal production are common and are expected. Typical changes seen include changes in water temperature, flow, and water quality, which are all resource needs of the Dixie Valley toad that could be negatively affected by geothermal production (Sorey 2000, entire; Bonte et al. 2011, pp. 4-8; Kaya et al. 2011, pp. 55-64; Chen et al. 2020, pp. 2-6).</P>
+                <P>
+                    Steam discharge, land subsidence (
+                    <E T="03">i.e.,</E>
+                     gradual settling or sudden sinking of the ground surface due to the withdrawal of large amounts of groundwater), and changes in water temperature and flow have all been documented from geothermal production areas throughout the western United States (Sorey 2000, entire). For example:
+                </P>
+                <P>(1) Long Valley Caldera near Mammoth, California. Geothermal pumping in the period 1985-1998 resulted in several springs ceasing to flow and declines in pressure of the geothermal reservoir, which caused reductions of 10-15 Â°C (50-59âÂ°F) in the reservoir temperature and a localized decrease of approximately 80 Â°C (176âÂ°F) near the reinjection zone (Sorey 2000, p. 706).</P>
+                <P>(2) Steamboat Springs near Reno, Nevada. Geothermal development resulted in the loss of surface discharge (geysers and springs) on the main terrace and a reduction of thermal water discharge to Steamboat Creek by 40 percent (Sorey 2000, p. 707).</P>
+                <P>(3) Northern Dixie Valley near Reno, Nevada. Steam discharge and land subsidence occurred at an existing 56-MW geothermal plant in northern Dixie Valley, Nevada, which has been in production since 1985 (Sorey 2000, p. 708; Huntington et al. 2014, p. 5). To remedy the subsidence, the plant began pumping water from the cold basin fill aquifer (local aquifer) and reinjecting it above the hot geothermal reservoir (regional aquifer) (Huntington et al. 2014, p. 5). This approach may have led to other detrimental impacts as the depth to groundwater increased from 1.8 m (6 ft) in 1985 to 4.3-4.6 m (14-15 ft) in 2009-2011 (Albano et al. 2021, p. 78).</P>
+                <P>
+                    (4) Jersey Valley near Reno, Nevada. In 2011, a 23.5-MW geothermal power plant started production in Jersey Valley, just north of Dixie Valley. Springflow at a perennial thermal spring began to decline almost immediately after the power plant began operation (BLM 2022, p. 1; Nevada Division of Water Resources (NDWR) 2022, unpublished data). By 2014, the Jersey Valley Hot Spring ceased flowing (BLM 2022, p. 1; NDWR 2022, unpublished data). The loss of aquatic insects from the springbrook has diminished the foraging ability of eight different bat species that occur in the area (BLM 2022, p. 28). To mitigate for the spring going dry, the BLM proposed to pipe 
+                    <PRTPAGE P="73984"/>
+                    geothermal fluid to the spring source (BLM 2022, p. 8); however, mitigation has not yet occurred. If a similar outcome were to occur in Dixie Meadows, resulting in the complete drying of the springs, the Dixie Valley toad would likely be extirpated if mitigation to prevent the drying of the springs is not satisfactorily or timely achieved.
+                </P>
+                <P>In an effort to minimize changes in water temperature, quantity, and quality, and to maintain pressure of the geothermal reservoir, geothermal fluids are reinjected into the ground, although reinjected water is at a lower temperature than when it was pumped out of the ground. This practice entails much trial and error in an attempt to equilibrate subsurface reservoir pressure. It can take several years to understand how a new geothermal field will react to production and reinjection wells; however, reinjection does not always have the desired effect (Kaya et al. 2011, pp. 55-64).</P>
+                <P>Geothermal energy production is considered the greatest threat to the persistence of Dixie Valley toad (Forrest et al. 2017, pp. 172-173; Gordon et al. 2017, p. 136; Halstead et al. 2021, p. 35). Geothermal environments often harbor unique flora and fauna that have evolved in these rare habitats (Boothroyd 2009, entire; Service 2019, entire). Changes to these rare habitats often cause declines in these endemic organisms or even result in the destruction of their habitat (Yurchenko 2005, p. 496; Bayer et al. 2013, pp. 455-456; Service 2019, pp. 2-3). Because the Dixie Valley toad relies heavily on wetted area and warm water temperature to remain viable, reduction of these two resource needs could cause significant declines in the population and changes to its habitat that are detrimental to the species and result in it being in danger of extinction.</P>
+                <HD SOURCE="HD3">Disease</HD>
+                <P>Over roughly the last four decades, pathogens have been associated with amphibian population declines, mass die-offs, and extinctions worldwide (Bradford 1991, pp. 174-176; Muths et al. 2003, pp. 359-364; Weldon et al. 2004, pp. 2,101-2,104; Rachowicz et al. 2005, pp. 1,442-1,446; Fisher et al. 2009, pp. 292-302; Knapp et al. 2011, pp. 8-19). One pathogen strongly associated with dramatic declines on all continents that harbor amphibians is chytridiomycosis caused by amphibian chytrid fungus (Rachowicz et al. 2005, pp. 1,442-1,446). Chytrid fungus has now been reported in amphibian species worldwide (Fellers et al. 2001, pp. 947-952; Rachowicz et al. 2005, pp. 1,442-1,446). Early doubt that this particular pathogen was responsible for worldwide die-offs has largely been overcome by the weight of evidence documenting the appearance, spread, and detrimental effects to affected populations (Vredenburg et al. 2010, pp. 9,690-9,692).</P>
+                <P>Clinical signs of chytridiomycosis and diagnosis include abnormal posture, lethargy, and loss of righting reflex (the ability to correct the orientation of the body when it is not in its normal upright position) (Daszak et al. 1999, p. 737). Chytridiomycosis also causes gross lesions, which are usually not apparent and consist of abnormal epidermal sloughing and ulceration, as well as hemorrhages in the skin, muscle, or eye (Daszak et al. 1999, p. 737). Chytridiomycosis can be identified in some species of amphibians by examining the oral discs (tooth rows) of tadpoles that may be abnormally formed or lacking pigment (Fellers et al. 2001, pp. 946-947).</P>
+                <P>
+                    Despite the acknowledged impacts of chytridiomycosis to amphibians, little is known about this disease outside of mass die-off events. There is high variability between species of amphibians in response to being infected, including within the western toad species complex. Two long-term study sites have documented differences in apparent survival of western toads between two different sites in Montana and Wyoming (Russell et al. 2019, pp. 300-301). The chytrid-positive western toad population in Montana was reduced by 19 percent compared to chytrid-negative toads in that areaâin comparison to the western toad population in Wyoming, which was reduced by 55 percent (Russell et al. 2019, p. 301). Various diseases are confirmed to be lethal to Yosemite toads (
+                    <E T="03">Anaxyrus canorus</E>
+                    ) (Green and Sherman 2001, p. 94), and research has elucidated the potential role of chytrid fungus infection as a threat to Yosemite toad populations (Dodge 2013, pp. 6-10, 15-20; Lindauer and Voyles 2019, pp. 189-193). These various diseases and infections, in concert with other factors, have likely contributed to the decline of the Yosemite toad (Sherman and Morton 1993, pp. 189-197) and may continue to pose a risk to the species (Dodge 2013, pp. 10-11; Lindauer and Voyles 2019, pp. 189-193). Amargosa toads (
+                    <E T="03">Anaxyrus nelsoni</E>
+                    ) are known to have high infection rates and high chytrid fungus loads; however, they do not appear to show adverse impacts from the disease (Forrest et al. 2015, pp. 920-922). Not all individual amphibians that test positive for chytrid fungus develop chytridiomycosis.
+                </P>
+                <P>Dixie Valley toad was sampled for chytrid fungus in 2011-2012 (before it was recognized as a species) and 2019-2021 (Forrest 2013, p. 77; Kleeman et al. 2021, entire); chytrid fungus was not found during either survey. However, chytrid fungus has been documented in bullfrogs in Turley Pond, located approximately 10 km south of Dixie Meadows (Forrest 2013, p. 77), and bullfrogs are a known vector species for spreading chytrid fungus and diseases to other species of amphibians (Daszak et al. 2004, pp. 203-206; Urbina et al. 2018, pp. 271-274; Yap et al. 2018, pp. 4-8).</P>
+                <P>
+                    The best available information indicates that the thermal nature of the Dixie Valley toad habitat may keep chytrid fungus from becoming established; therefore, it is imperative that the water maintains its natural thermal characteristics (Forrest 2013, pp. 75-85; Halstead et al. 2021, pp. 33-35). Western toads exposed to chytrid fungus survive longer when exposed to warmer environments (mean 18 Â°C (64âÂ°F)) as compared to western toads in cooler environments (mean 15 Â°C (59âÂ°F)) (Murphy et al. 2011, pp. 35-38). Additionally, chytrid fungus zoosporangia grown at 27.5 Â°C (81.5âÂ°F) remain metabolically active; however, no zoospores are produced, indicating no reproduction at this high temperature (Lindauer et al. 2020, pp. 2-5). Generally, chytrid fungus does not seem to become established in water warmer than 30 Â°C (86âÂ°F) (Forrest and Schlaepfer 2011, pp. 3-7). Dixie Meadows springhead water temperatures range from 13 Â°C (55âÂ°F) to 74 Â°C (165âÂ°F), although the four largest spring complexes (springs that create the largest wetland areas and are inhabited by a majority of the Dixie Valley toad population) range from 16 Â°C (61âÂ°F) to 74 Â°C (165âÂ°F) with median temperatures of at least 25 Â°C (77âÂ°F). Additionally, water temperatures measured in 2019 at toad survey sites throughout Dixie Meadows (
+                    <E T="03">i.e.,</E>
+                     not at springheads) ranged from 10 to 41 Â°C (50 to 106âÂ°F) (Halstead and Kleeman 2020, entire). Any reduction in water temperature, including reductions caused by geothermal development, would not only affect the ability of Dixie Valley toads to survive during cold months, but could also make the species vulnerable to chytrid fungus.
+                </P>
+                <HD SOURCE="HD3">Predation</HD>
+                <P>
+                    Predation has been reported in species similar to the Dixie Valley toad and likely occurs in Dixie Meadows; however, predation of Dixie Valley toads has not been documented. Likely predators on the egg and aquatic larval 
+                    <PRTPAGE P="73985"/>
+                    forms of Dixie Valley toad include predacious diving beetles (
+                    <E T="03">Dytiscus</E>
+                     spp.) and dragonfly larvae (Odonata). Common ravens (
+                    <E T="03">Corvus corax</E>
+                    ) and other corvids are known to feed on juvenile and adult black toads and Yosemite toads (Sherman 1980, pp. 90-92; Sherman and Morton 1993, pp. 194-195). Raven populations are increasing across the western United States and are clearly associated with anthropogenic developments, such as roads and power lines (Coates and Delehanty 2010, pp. 244-245; Howe et al. 2014, pp. 44-46). Ravens are known to nest within Dixie Valley (Environmental Management and Planning Solutions 2016, pp. 3-4).
+                </P>
+                <P>The American bullfrog, a ranid species native to much of central and eastern North America, now occurs within Dixie Meadows (Casper and Hendricks 2005, pp. 540-541; Gordon et al. 2017, p. 136). Bullfrogs are recognized as one of the 100 worst invasive species in the world (Global Invasive Species Database 2021, pp. 1-17). Bullfrogs are known to compete with and prey on other amphibian species (Moyle 1973, pp. 19-21; Kiesecker et al. 2001, pp. 1,966-1,969; Pearl et al. 2004, pp. 16-18; Casper and Hendricks 2005, pp. 543-544; Monello et al. 2006, p. 406; Falaschi et al. 2020, pp. 216-218).</P>
+                <P>Bullfrogs are a gape-limited predator, which means they eat anything they can swallow (Casper and Hendricks 2005, pp. 543-544). The Dixie Valley toad is the smallest toad species in the western toad species complex and can easily be preyed upon by bullfrogs. Smaller bullfrogs eat mostly invertebrates (Casper and Hendricks 2005, p. 544) and thus may compete with Dixie Valley toad for food resources. Within Dixie Valley, bullfrogs are known to occur at Turley Pond and in one area of Dixie Meadows adjacent to occupied Dixie Valley toad habitat (Forrest 2013, pp. 74, 87; Rose et al. 2015, p. 529; Halstead et al. 2021, p. 24).</P>
+                <HD SOURCE="HD3">Climate Change</HD>
+                <P>Both human settlements and natural ecosystems in the southwestern United States are largely dependent on groundwater resources, and decreased groundwater recharge may occur as a result of climate change (U.S. Global Change Research Program 2009, p. 133). Furthermore, the human population in the Southwest is expected to increase 70 percent by mid-century (Garfin 2014, p. 470). Resulting increases in urban development, agriculture, and energy-production facilities will likely place additional demands on already limited water resources. Climate change will likely increase water demand and shrink water supply, since water loss may increase evapotranspiration rates and runoff during storm events (Archer and Predick 2008, p. 25).</P>
+                <P>In order to identify changing climatic conditions more specific to Dixie Meadows, we conducted a climate analysis using the Climate Mapper web tool (Hegewisch et al. 2020, online). The Climate Mapper is a web tool for visualizing past and projected climate and hydrology of the contiguous United States. This tool maps real-time conditions, current forecasts, and future projections of climate information across the United States to assist with decisions related to agriculture, climate, fire conditions, and water.</P>
+                <P>For our analysis, we analyzed mean annual temperature and percent precipitation using the historical period of 1971-2000 and the projected future time period 2040-2069. We examined emission scenarios that used representative concentration pathways (RCPs) 4.5 and 8.5 using ArcGIS Pro.</P>
+                <P>Our analysis predicts increased air temperatures in Dixie Meadows, along with a slight increase in precipitation. Annual mean air temperature is projected to increase between 2.5 and 3.4 Â°C (4.5 and 6.1âÂ°F) and result in average temperatures 3.0 Â°C (5.3âÂ°F) warmer throughout Dixie Meadows between 2040 and 2069 (Hegewisch et al. 2020, Geographic Information System (GIS) data). Under the two emission scenarios, annual precipitation is projected to increase by 4.5 to 7.7 percent (Hegewisch et al. 2020, GIS data).</P>
+                <P>
+                    Climate change may impact the Dixie Valley toad and its habitat in two main ways: (1) reductions in springflow as a result of changes in the amount, type, and timing of precipitation, increased evapotranspiration rates, and reduced aquifer recharge; and (2) reductions in springflow as a result of changes in human behavior in response to climate change (
+                    <E T="03">e.g.,</E>
+                     increased groundwater pumping as surface water resources disappear). A reduction in springflow could be exacerbated by the greater severity of droughts being experienced in the southwestern United States, including Nevada (Snyder et al. 2019, pp. 2-4; Williams et al. 2020, pp. 1-5). Higher temperatures and drier conditions could result in greater evapotranspiration, leading to increased drying of wetland habitat. Impacts vary geographically and identifying the vulnerability of individual springs is challenging. For example, each spring studied in Arches National Park in Utah responded to local precipitation and recharge differently, despite similarities in topographic setting, aquifer type, and climate exposure (Weissinger 2016, p. 9).
+                </P>
+                <P>Predicting individual spring response to climate change is further complicated by the minimal information available about the large hydrological connections for most sites and the high degree of uncertainty inherent in future precipitation models. Regardless, the best available data indicate that the Dixie Valley toad may be vulnerable to climate change, but the best available science currently does not allow for us to predict where and to what degree impacts may manifested.</P>
+                <HD SOURCE="HD3">Groundwater Pumping</HD>
+                <P>
+                    The basin is fully appropriated for consumptive groundwater uses (18,758,663 cubic meters per year (m
+                    <SU>3</SU>
+                    /yr) (15,218 acre-feet per year (afy)) of an estimated 18,489,943 m
+                    <SU>3</SU>
+                    /yr (15,000 afy) perennial yield; NDWR 2021, entire), and the proposed Dixie Valley groundwater export project by Churchill County is seeking an additional 12,326,628-18,489,943 m
+                    <SU>3</SU>
+                    /yr (10,000-15,000 afy) (Huntington et al. 2014, p. 2). Total geothermal water rights appropriated in Dixie Valley as of 2020 are 15,659,749 m
+                    <SU>3</SU>
+                    /yr (12,704 afy) (BLM 2021b, pp. 2-28).
+                </P>
+                <P>Increased groundwater pumping in Nevada is primarily driven by human water demand for municipal purposes; irrigation; and development for oil, gas, geothermal resources, and minerals. Many factors associated with groundwater pumping can affect whether or not an activity will impact a spring. These factors include the amount of groundwater pumped, period of pumping, the proximity of pumping to a spring, depth of pumping, and characteristics of the aquifer being impacted. Depending on these factors, groundwater withdrawal may result in no measurable impact to springs or may reduce spring discharge, change the temperature of the water, reduce free-flowing water, dry springs, alter Dixie Valley toad habitat size and heterogeneity, or create habitat that is more suited to nonnative species than to native species (Sada and Deacon 1994, p. 6). Pumping rates that exceed perennial yield can lower the water table, which in turn will likely affect riparian vegetation (Patten 2008, p. 399).</P>
+                <P>
+                    Determining when groundwater withdrawal exceeds perennial yield is difficult to ascertain and reverse due to inherent delays in detection of pumping impacts and the subsequent lag time required for recovery of discharge at a spring (Bredehoeft 2011, p. 808). Groundwater pumping initially captures stored groundwater near the pumping area until water levels decline and a 
+                    <PRTPAGE P="73986"/>
+                    cone of depression expands, potentially impacting water sources to springs or streams (Dudley and Larson 1976, p. 38). Spring aquifer source and other aquifer characteristics influence the ability and rate at which a spring fills and may recover from groundwater pumping (Heath 1983, pp. 6, 14). Depending on aquifer characteristics and rates of pumping, recovery of the aquifer is variable and may take several years or even centuries (Heath 1983, p. 32; Halford and Jackson 2020, p. 70). Yet where reliable records exist, most springs fed by even the most extensive aquifers are affected by exploitation, and springflow reductions relate directly to quantities of groundwater removed (Dudley and Larson 1976, p. 51).
+                </P>
+                <P>The most extreme potential effects of groundwater withdrawal on the Dixie Valley toad are likely desiccation and extirpation or extinction. If groundwater withdrawal occurs but does not cause a spring to dry, there can still be adverse effects to Dixie Valley toads or their habitat because reduction in springflow reduces both the amount of water and amount of occupied habitat. If the withdrawals also coincide with altered precipitation and temperature from climate change, even less water will be available. Cumulatively, these conditions could result in a delay in groundwater recharge at springs, which may then result in a greater effect to the Dixie Valley toad than the effects of the individual threats acting alone. Across the Dixie Meadows springs, discharge varies greatly, with some springs with low discharge at the current time likely due to a combination of influences, both natural and anthropogenic. Although there is much uncertainty around the magnitude and timing of groundwater withdrawal, and thus the possible effects on the Dixie Meadows spring system, we anticipate that the future effects of groundwater withdrawal could have significant effects on the Dixie Meadows spring system.</P>
+                <HD SOURCE="HD2">Current Condition</HD>
+                <HD SOURCE="HD3">Redundancy, Representation, and Resiliency</HD>
+                <P>Population estimates are not available for the Dixie Valley toad. Time-series data of toad abundance are available from various surveys conducted by the Service and the Nevada Department of Wildlife (NDOW) during the period 2009-2012 (before the Dixie Valley toad was recognized as a species); however, differences in sample methodology between years and low recapture rates of marked toads make it difficult to infer temporal trends or population size. In addition to adult toads, surveys recorded eggs, tadpoles, and juveniles in all survey years, suggesting consistent reproduction is occurring.</P>
+                <P>Adult toads currently have high occupancy rates and are generally more likely than not to occur across the Dixie Meadows wetlands (Rose et al. 2022, p. entire). Dixie Valley toad larvae were more likely detected areas with high surface water, low emergent vegetation, and water temperatures between 20-28 Â°C (68-82.4âÂ°F) (Rose et al. 2022, entire).</P>
+                <P>Larvae are detected less often than adults and warmer water temperatures strongly influence the probability of reproduction (Halstead et al. 2019, pp. 10-11). This finding suggests that adult toads are seeking out a subset of habitat for reproduction based in part on water temperature. The percentage of the range currently occupied by adults remained similarly high throughout 2018-2022 and across seasons (Rose et al. 2022, entire). The high occupancy rate observed from 2018 through 2022, and evidence of reproduction observed in the period 2009-2022, indicate that the Dixie Valley toad is currently maintaining resilience to the historical and current environmental stochasticity present at Dixie Meadows (Rose et al. 2022, entire). However, the narrowly distributed, isolated nature of the single population of the species indicates that the Dixie Valley toad has little ability to withstand stochastic or catastrophic events through dispersal. Because the species evolved in a unique spring system with little historical variation, we conclude that it has low potential to adapt to environmental changes to its habitat. As a single-site endemic with no dispersal opportunities outside the current range, the species has inherently low redundancy and representation and depends entirely on the continued availability of habitat in Dixie Meadows.</P>
+                <P>Below, we discuss the potential impacts the Dixie Meadows Geothermal Utilization Project could have on both the current and future status of the Dixie Valley toad. Based on an expert knowledge elicitation (discussed further below) conducted on the potential outcomes of this geothermal project, peak change to the spring system could occur as early as year 1 of geothermal pumping, with a 90 percent chance that peak change will occur within 10 years of the start of geothermal pumping (Service 2022, pp. 42-43).</P>
+                <HD SOURCE="HD3">Dixie Meadows Geothermal Project</HD>
+                <P>In addition to 50 active geothermal leases within Dixie Valley in Churchill County, two geothermal exploration projects were approved in Dixie Meadows in 2010 and 2011 (BLM 2010, entire; BLM 2011, entire). Most recently, on November 23, 2021, BLM approved and permitted the Dixie Meadows Geothermal Utilization Project (BLM 2021b, entire) after issuing two draft environmental assessments, receiving extensive comments from the Service and NDOW, and developing a Monitoring and Mitigation Plan. This project will consist of up to two 30-MW geothermal power plants on 6.5 ha (16 ac) each; up to 18 well pads (107Ã114 m (350Ã375 ft)), upon which up to three wells per pad may be drilled for exploration, production, or injection; pipelines to carry geothermal fluid between well fields and the power plant(s); and either a 120-kilovolt (kV) or a 230-kV transmission gen-tie and associated access roads and structures (BLM 2021b, p. 1-1). The project proponent (Ormat Nevada Inc. (Ormat)) began construction on the first geothermal plant the week of February 14, 2022, and plans to begin geothermal production by 2024 after completing 12 months of monitoring as described in the Monitoring and Mitigation Plan (BLM 2021b, appendix H). To see a more detailed overview of the approved and permitted project, refer to the BLM November final EA.</P>
+                <P>
+                    As mentioned above, two geothermal exploration projects were approved by the BLM in 2010 and 2011 (BLM 2010, entire; BLM 2011, entire); however, required monitoring and baseline environmental surveys for those exploration projects did not occur (BLM 2021a, pp. 3-17-3-18). As a result, key environmental information (
+                    <E T="03">e.g.,</E>
+                     water quality metrics data such as flow, water temperature, and water pressure) is lacking to determine the effects of the projects on the surrounding environment. Most of the information collected during this timeframe consisted of singular measurements taken quarterly or annually, which do not characterize the variability in environmental conditions observed in Dixie Meadows. The lack of robust baseline environmental information is part of why we, along with experts from the expert knowledge elicitation workshop panel (described below), conclude that the November Monitoring and Mitigation Plan associated with the Dixie Meadows Geothermal Utilization Project needs further refinement to adequately detect and respond to changes in the wetlands and toad populations. The ability of the November Monitoring and Mitigation Plan to detect changes in baseline conditions, and mitigate those changes, is discussed below.
+                    <PRTPAGE P="73987"/>
+                </P>
+                <HD SOURCE="HD3">Expert Knowledge Elicitation</HD>
+                <P>An expert knowledge elicitation workshop was carried out during the period August 17-20, 2021, using the then proposed Dixie Meadows Geothermal Utilization Project January draft EA and Monitoring and Mitigation Plan, along with a summary of all existing data, to determine the range of outcomes of the approved project. This workshop followed established best practices for eliciting expert knowledge (Gosling 2018, entire; O'Hagan 2019, pp. 73-81; Oakley and O'Hagan 2019, entire). The expert panel consisted of a multidisciplinary group with backgrounds in the geologic structure of basin and range systems, various components of deep and shallow groundwater flow, as well as geothermal exploration and development. All panelists have direct experience in the Great Basin, and most in Dixie Valley and Dixie Meadows, specifically. The panelists were asked questions regarding the time until peak changes to the spring system would occur, the ability of the January Monitoring and Mitigation Plan to detect and mitigate change, the amount of time it would take to mitigate change if mitigation is possible, and what the peak changes to springflow and spring temperature could be. For a detailed overview of the expert knowledge elicitation process, refer to the SSA report (Service 2022, appendix A).</P>
+                <P>The expert panelists concluded that the Dixie Meadows spring system will change quickly, and detrimentally, once geothermal energy production begins, with a median response time of roughly 4 years and a 90 percent chance that the largest magnitude changes will occur within 10 years (Service 2022, appendix A). Uncertainty within individual judgments on response time was related to the efficacy of mitigation measures and interactions between short-term impacts from geothermal development and longer-term impacts from climate change and consumptive water use.</P>
+                <P>Experts had low confidence in the ability of the January Monitoring and Mitigation Plan to both detect and mitigate changes to the temperature and flow of surface springs in Dixie Meadows. Although the aggregated distribution for the ability to detect changes ranged from 0 to 100 percent, the median expectation was a roughly 38 percent chance of detecting changes (Service 2022, appendix A). These judgments reflect an expectation that there is less than 50 percent confidence from the experts that the January Monitoring and Mitigation Plan could detect changes in the spring system due to the complexity and natural variability of the system, limited baseline data, and perceived inadequacies of the January Monitoring and Mitigation Plan. The January Monitoring and Mitigation Plan was perceived as inadequate due in part to limited monitoring locations, low frequency of monitoring and reporting, and lack of a statistical approach for addressing variability and uncertainty. The degree of confidence in the ability to mitigate environmental impacts of the project was even lower (median of roughly 29 percent; Service 2022, appendix A) based on previously stated concerns about the plan, lack of information on how water quality would be addressed, interacting effects of climate change and extractive water use, and questions about the motivation to mitigate if measures ran counter to other operating goals of the plant.</P>
+                <P>The expert panel was asked what timeframe would be required to fully mitigate changes in spring temperature and springflow once detectedâassuming that changes have been detected, it is technically feasible to mitigate the problem, and there is a willingness to participate from all parties. Based on those assumptions, the experts judged that it could take multiple years to mitigate perturbations once detected, with a median expectation of 4 years (Service 2022, appendix A).</P>
+                <P>At the time the expert knowledge elicitation occurred, the Dixie Meadows Geothermal Utilization Project was not approved. However, in the discussion about expected peak change in spring temperature and springflow, the experts considered how the spring system would change if the geothermal project was not approved or the January Monitoring and Mitigation Plan was improved. Expert judgments on expected peak change in spring temperature and springflow that considered the geothermal project not getting approved and an improvement in the January Monitoring and Mitigation Plan were not considered in our analysis because the geothermal project was approved in November 2021. Additionally, although the November Monitoring and Mitigation Plan included significant revisions to the frequency of monitoring, those revisions did not substantially affect the ability of the plan to detect or mitigate changes in the spring system. Therefore, it is unlikely the results of the expert knowledge elicitation completed on the January draft EA and the then-existing Monitoring and Mitigation Plan would have changed meaningfully in response to the November final approved EA and Monitoring and Mitigation Plan.</P>
+                <P>
+                    Although there is considerable uncertainty in the magnitude of expected changes from the approved project, there is a high degree of certainty that geothermal energy development will have severe and negative effects on the geothermal springs relied upon by the Dixie Valley toad, including reductions in spring temperature and springflow, which directly affect the resource needs of the species. The plausible range of changes to spring temperatures ranged from a decrease of 10 Â°C (18âÂ°F) to 55 Â°C (99âÂ°F) (Service 2022, appendix A). This range is due to the wide spatial variation in spring temperatures across the spring system and reflects the expectation that the spring temperatures could plausibly drop to ambient levels (
+                    <E T="03">i.e.,</E>
+                     a complete loss of geothermal contributions). Similarly, the experts considered it plausible that springs in Dixie Meadows could dry up (no surface discharge) as the geothermal contribution was reduced, with up to a 31 percent decrease in surface discharge. These judgments reflect the range of operations that may be implemented under the phased power plant approach, perceived inadequacies with the January Monitoring and Mitigation Plan, and the fact that drying of surface springs has been documented at other nearby geothermal development projects (BLM 2022, p. 1) indicates this may be a plausible outcome.
+                </P>
+                <HD SOURCE="HD2">Scenario Considerations for Current and Future Conditions</HD>
+                <P>
+                    In the SSA report, we analyzed four scenarios based on the expert knowledge elicitation. As mentioned earlier, these scenarios could plausibly affect both the current and future condition of the species. Three of the scenarios (scenarios 1-3) assume the Dixie Meadows Geothermal Utilization Project will begin construction as approved, while scenario 4 assumes there will be no geothermal development or the November Monitoring and Mitigation Plan will be significantly improved before project implementation. Scenario 4 was not considered in this decision given the approval of the geothermal project, the beginning of construction on the project, and the lack of substantive improvements to the November Monitoring and Mitigation Plan. As discussed above under âExpert Knowledge Elicitation,â we have low confidence in the ability of the November Monitoring and Mitigation Plan to detect or mitigate changes to the spring system, or to adequately mitigate for potential effects from the project. 
+                    <PRTPAGE P="73988"/>
+                    Therefore, only scenarios 1-3 were considered for this decision.
+                </P>
+                <P>The scenarios incorporated the following considerations from the expert knowledge elicitation: the efficacy of the November Monitoring and Mitigation Plan; how the surficial spring system will respond to geothermal production; and changes in temperature, evapotranspiration, and extreme precipitation events related to climate change. For all scenarios, we project that the basin will remain over-allocated. The lower bound of scenarios (scenario 1) projects that the November Monitoring and Mitigation Plan is ineffective; the springs dry completely; and there are increases in air temperature, evapotranspiration, and extreme precipitation events seen under RCP 8.5. This scenario represents the low confidence the experts have in the November Monitoring and Mitigation Plan and reflects the results in a similar situation that occurred in Jersey Valley where geothermal production caused the spring system to go dry within 3 years of the start of operation (BLM 2022, p. 1; NDWR 2022, unpublished data). The upper bound of scenarios (scenario 3) projects that the November Monitoring and Mitigation Plan is moderately effective; geothermal production has moderate effects on the surficial spring system; and increases in temperature, evapotranspiration, and moderate changes in precipitation seen under RCP 4.5 occur. Because the experts expressed less than 50 percent confidence in the ability of the November Monitoring and Mitigation Plan to both detect and mitigate change, it was logical for this scenario to represent the upper bound of plausibility. Put another way, the experts did not consider it likely that geothermal production would have minor or negligible effects on the surface spring system.</P>
+                <P>These scenarios include the range of peak changes to spring temperature and springflow as discussed earlier (a decrease of 10 Â°C (18âÂ°F) to 55 Â°C (99âÂ°F) in spring temperature, and a 31-100 percent decrease in springflow). These projected changes in spring temperature and flow were used as inputs into a multistate, dynamic occupancy model, which is described further in the SSA report (Service 2022, pp. 61-64). Scenario 1 results in complete reproductive failure because of the drying of springs, and scenarios 2 and 3 project a risk of reproductive failure after 1 year of geothermal production. Under scenario 2, the mean percentage of the range occupied by larvae drops to 0 percent by year 4 of geothermal production. Scenario 3 projects a mean of 1 percent of the range occupied by larvae by year 6 of geothermal production. All scenarios result in a high level of risk of reproductive failure for the Dixie Valley toad in the near future.</P>
+                <P>Although the occupancy model described above represents the best available projection framework for the Dixie Valley toad, not all demographic and risk factors relevant to understanding species viability are included. One major threat not accounted for by the model is the synergistic effect of changes in temperature with the risk posed by exposure to the fungal pathogen chytrid fungus that causes the disease chytridiomycosis (see âDisease,â above). Chytrid fungus growth and survival are sensitive to both cold and hot temperatures, with optimal growth conditions in culture occurring between 15 and 25 Â°C (59 and 77âÂ°F). There is equivocal evidence on whether colder temperatures limit the effects of chytrid fungus (Voyles et al. 2017, pp. 367-369); however, hot geothermal waters above 25 Â°C (77âÂ°F) appear to provide protection against chytrid fungus by allowing individuals to raise body temperatures through behavioral fever (Forrest and Schlaepfer 2011, entire; Murphy et al. 2011, p. 39). This information indicates that future decreases in water temperature associated with scenarios 2 and 3 are likely to increase the risk that chytrid fungus could become established within the Dixie Valley toad population. If chytrid fungus becomes established within the Dixie Valley toad population, there would be negative, and plausibly catastrophic, effects to the species.</P>
+                <P>The seasonal timing of changes in water temperature is also particularly important. Dixie Valley toads strongly rely on aquatic environments throughout their life cycle (Halstead et al. 2021, entire). Unlike western toads that may be found hundreds to thousands of meters from aquatic breeding sites, in surveys, Dixie Valley toads are almost always found in water (Halstead et al. 2021, pp. 30-31). When not detected in water, Dixie Valley toads are found 4.2 m (13.8 ft) from water on average and are found both in and above water during brumation (Halstead et al. 2021, p. 30). Toads select autumn brumation sites that are warmer than random locations available, and toads are 1.3 times more likely to select sites for each 1 Â°C (1.8âÂ°F) increase in water temperature (Halstead et al. 2021, p. 30). Because toads are found closer to spring heads in autumn compared to sites selected during other times of year, it is likely that they are selecting areas where water temperatures will remain stable throughout the winter (Halstead et al. 2021, p. 34). The selection of areas with stable, warm water temperatures indicates that reductions in geothermal contributions during winter could lead to thermal stress, reductions in available habitat as waters cool, or even mortality if geothermal contributions are removed completely or reduced to a level that toads are unable to adapt their brumation strategies.</P>
+                <HD SOURCE="HD2">Conservation Efforts and Regulatory Mechanisms</HD>
+                <P>The Dixie Valley toad occurs only on Federal lands (the DoD's Fallon Naval Air Station and BLM). Various laws, regulations, policies, and management plans may provide conservation or protections for Dixie Valley toads. As such, the following management plans are the existing conservation tools driving the management of Dixie Valley toads and their habitat:</P>
+                <P>
+                    â¢ As required by the Sikes Act (16 U.S.C. 670 
+                    <E T="03">et seq.,</E>
+                     as amended), the DoD has an integrated natural resources management plan (INRMP) (AMEC Environmental and Infrastructure, Inc., 2014, entire) in place for supporting both the installation mission as well as protecting and enhancing installation resources for multiple use, sustainable yield, and biological integrity. The INRMP is being updated to incorporate the DoD's National Strategic Plan for amphibian and reptile conservation and management (Lovich et al. 2015, entire), which will include specific management for Dixie Meadows and the Dixie Valley toad.
+                </P>
+                <P>
+                    â¢ As required by the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 
+                    <E T="03">et seq.</E>
+                    ), BLM has a resource management plan for all actions and authorizations involving BLM-administered lands and resources.
+                </P>
+                <P>
+                    In compliance with the National Environmental Policy Act of 1970, as amended (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ), which is a procedural statute, for projects that Federal agencies fund, authorize, or carry out, BLM, with input from Ormat, developed a Monitoring and Mitigation Plan for the Dixie Meadows Geothermal Utilization Project; it is an appendix in BLM's November final EA. The goal of the November Monitoring and Mitigation Plan is to identify hydrologic and biologic resources, spring-dependent ecosystems, aquatic habitat, and species that could be affected by geothermal exploration, production, and injection in the Dixie Meadows area. The November Monitoring and Mitigation Plan will describe the plan Ormat will implement to monitor and mitigate potential effects to those 
+                    <PRTPAGE P="73989"/>
+                    resources, ecosystems, habitat, and species.
+                </P>
+                <P>
+                    The November Monitoring and Mitigation Plan includes adaptive management and mitigation measures that Ormat would implement if changes are detected in baseline conditions and threshold values are exceeded. Management actions may include geothermal reservoir pumping and injection adjustments (
+                    <E T="03">e.g.,</E>
+                     redistribution of injection between shallow and deep aquifers). Other more aggressive actions include augmenting affected springs with geothermal fluids or fresh water to restore preproduction temperature, flow, stage, and water chemistry. The November Monitoring and Mitigation Plan states that if mitigation actions are not sufficient for the protection of species and aquatic habitat, pumping and injection would be suspended until appropriate mitigation measures are identified, implemented, and shown to be effective.
+                </P>
+                <P>
+                    We, along with other interested parties (
+                    <E T="03">e.g.,</E>
+                     Department of the Navy, NDOW) provided comments to the BLM regarding the November Monitoring and Mitigation Plan, which was first made available to the public in January 2021. We have low confidence in the ability of the November Monitoring and Mitigation Plan to adequately detect and respond to changes because of the complexity and natural variability of the spring system, limited baseline data, and perceived inadequacies of the plan. We determined the November Monitoring and Mitigation Plan is inadequate because of the inadequate time to collect relevant baseline information prior to beginning operation of the plant, limited monitoring locations, lack of a statistical approach for addressing variability and uncertainty, lack of information on how water quality would be addressed, interacting effects of climate change and extractive water use, and uncertainty about the feasibility of certain mitigation measures and implementation of mitigation if measures ran counter to other operating goals of the plant.
+                </P>
+                <P>
+                    The changes made between the January 2021 and November 2021 versions of the Monitoring and Mitigation Plan did not change our view that the plan is inadequate to detect potential changes to the spring system or mitigate for potential effects from project operations. We address the changes made between the two versions under 
+                    <E T="03">Public Comments,</E>
+                     above (see, in particular, Comments 24, 25, 26, 40, and 42). The issues mentioned in the previous paragraph remain; therefore, our conclusion that the plan in its current form is not sufficient to protect the Dixie Valley toad and its habitat remain the same.
+                </P>
+                <P>â¢ Nevada Administrative Code (NAC) at section 503.075(2)(b) lists the Dixie Valley toad as a protected amphibian in the State of Nevada. Under the NAC at section 503.093(1), there is no open season on those species of amphibian classified as protected by the State: â[e]xcept as otherwise provided . . . , a person shall not hunt or take any wildlife which is classified as protected, or possess any part thereof, without first obtaining the appropriate license, permit or written authorization from the [NDOW].â Under the NAC at section 503.0935, the State may issue a special permit to allow a person to handle, move, or temporarily possess any wildlife which is classified as protected for the purpose of reducing or eliminating the risk of harm to the wildlife that may result from any lawful activity conducted on land where the wildlife is located. Under the NAC at section 503.094, the State issues permits for the take and possession of any species (including protected species) of wildlife only for scientific or educational purposes.</P>
+                <P>
+                    The Nevada Department of Conservation and Natural Resources includes the Nevada Division of Natural Heritage (NDNH), which tracks the species status of plants and animals in Nevada. The NDNH recognizes Dixie Valley toads as critically imperiled, rank 
+                    <E T="03">S1.</E>
+                     Ranks of 
+                    <E T="03">S1</E>
+                     are defined as species with very high risks of extirpation in the jurisdiction due to very restricted range, very few populations or occurrences, very steep declines, severe threats, or other factors.
+                </P>
+                <HD SOURCE="HD1">Determination of Dixie Valley Toad's Status</HD>
+                <P>Section 4 of the Act (16 U.S.C. 1533) and its implementing regulations (50 CFR part 424) set forth the procedures for determining whether a species meets the definition of endangered species or threatened species. The Act defines an âendangered speciesâ as a species in danger of extinction throughout all or a significant portion of its range and a âthreatened speciesâ as a species likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range. The Act requires that we determine whether a species meets the definition of an endangered species or a threatened species because of any of the following factors: (A) The present or threatened destruction, modification, or curtailment of its habitat or range; (B) overutilization for commercial, recreational, scientific, or educational purposes; (C) disease or predation; (D) the inadequacy of existing regulatory mechanisms; or (E) other natural or manmade factors affecting its continued existence.</P>
+                <P>In conducting our status assessment of the Dixie Valley toad, we evaluated all identified threats under the Act's section 4(a)(1) factors and assessed how the cumulative impact of all threats acts on the viability of the species as a whole. That is, all the anticipated effects from both habitat-based and direct mortality-based threats are examined in total and then evaluated in the context of what those combined negative effects will mean to the future condition of the Dixie Valley toad.</P>
+                <HD SOURCE="HD2">Status Throughout All of Its Range</HD>
+                <P>After evaluating threats to the species and assessing the cumulative effect of the threats under the Act's section 4(a)(1) factors, we determined that the Dixie Valley toad is currently at risk of extinction throughout its range primarily due to the approval and commencement of geothermal development (Factor A). Other threats identified in this status determination include increased severity of drought due to climate change (Factor A); the threat of chytrid fungus establishing itself in the population (Factor C); groundwater pumping associated with human consumption, agriculture, and county planning (Factor A); and predation by invasive bullfrogs (Factor C). These other threats will likely exacerbate the main threat of geothermal development. Existing regulatory mechanisms do not address the primary threat to the species (Factor D).</P>
+                <P>
+                    Construction of the Dixie Meadows Geothermal Utilization Project has begun, and the first phase of geothermal production is planned to begin before the end of 2024. Based upon the best available scientific and commercial information as described in this determination, the Service has a high degree of certainty that geothermal production will have severe, negative effects on the geothermal springs the species relies upon for habitat (Factor A). These negative effects include reductions in spring temperature and springflow, which directly affect the needs of the species (
+                    <E T="03">i.e.,</E>
+                     adequate water temperature, sufficient wetted areas, sufficient wetland vegetation, including vegetation cover, and adequate water quality (see 
+                    <E T="03">Species Needs,</E>
+                     above)). The best available information indicates that a complete reduction in springflow and significant reduction of water temperature are plausible outcomes of the geothermal project, and these conditions could result in the species no 
+                    <PRTPAGE P="73990"/>
+                    longer persisting (
+                    <E T="03">i.e.,</E>
+                     becoming extinct or functionally extinct as a result of significant habitat degradation, or no reproduction due to highly isolated, non-recruiting individuals).
+                </P>
+                <P>The narrowly distributed, isolated nature of the single, small population of the species indicates that the Dixie Valley toad will have no ability to withstand stochastic or catastrophic events through dispersal. Because the species occurs in only one spring system and has not experienced habitat changes of the magnitude or pace projected, it may have low potential to adapt to a fast-changing environment. As a single-site endemic with no dispersal opportunities outside the current range and low adaptive capacity, the species has inherently low redundancy and representation, and depends entirely on the continued availability of wetland habitat in Dixie Meadows. Low redundancy and representation make the Dixie Valley toad particularly vulnerable to fast-paced change to its habitat and catastrophic events, any of which could plausibly result from the permitted Dixie Meadows Geothermal Utilization Project.</P>
+                <P>The Dixie Valley toad exists in one population that will likely be directly affected to a significant degree by geothermal production in a short timeframe, resulting in a high risk that the species could become extinct.</P>
+                <P>In addition to the current development of the geothermal project, a combination of threats will act synergistically to exacerbate effects from geothermal production on the Dixie Meadows spring system. A reduction in springflow could be exacerbated by the greater severity of droughts being experienced in the southwestern United States, including Nevada (Snyder et al. 2019, pp. 2-4; Williams et al. 2020, pp. 1-5). Higher temperatures and drier conditions could result in greater evapotranspiration, leading to increased drying of wetland habitat. A reduction in water temperature could allow chytrid fungus to become established and negatively impact the Dixie Valley toad population. Chytrid fungus would likely be catastrophic to Dixie Valley toads, as it has caused severe declines in other amphibian species, and the fungus has been found in another known vector species (bullfrog) in Turley Pond, which is about 10 km (6.2 mi) from the southern range of the Dixie Valley toad (Forrest 2013, p. 77). Bullfrogs themselves are a threat to the species, as Dixie Valley toads could be easily preyed upon because of their small size. If bullfrogs were to become established throughout the Dixie Valley toad's habitat, there would likely be a reduction in Dixie Valley toad abundance.</P>
+                <P>
+                    Thus, after assessing the best available information, we conclude that the Dixie Valley toad is currently in danger of extinction throughout all of its range due to the immediacy of the threat of geothermal production, including negative effects such as reductions in spring temperature and springflow, which would directly affect the needs of the species (
+                    <E T="03">i.e.,</E>
+                     adequate water temperature, sufficient wetted areas, sufficient wetland vegetation, including vegetation cover, and adequate water quality), and low confidence in the ability of the Mitigation and Monitoring Plan to effectively minimize and mitigate for potential effects that are likely to manifest in the near term. We find that threatened species status is not appropriate because the threat of extinction is imminent as opposed to being likely to develop within the foreseeable future.
+                </P>
+                <HD SOURCE="HD2">Status Throughout a Significant Portion of Its Range</HD>
+                <P>
+                    Under the Act and our implementing regulations, a species may warrant listing if it is in danger of extinction or likely to become so in the foreseeable future throughout all or a significant portion of its range. We have determined that the Dixie Valley toad is in danger of extinction throughout all of its range and, accordingly, did not undertake an analysis of any significant portion of its range. Because the Dixie Valley toad warrants listing as endangered throughout all of its range, our determination does not conflict with the decision in 
+                    <E T="03">Center for Biological Diversity</E>
+                     v. 
+                    <E T="03">Everson,</E>
+                     435 F. Supp. 3d 69 (D.D.C. 2020), because that decision related to significant-portion-of-the-range analyses for species that warrant listing as threatened, not endangered, throughout all of their range.
+                </P>
+                <HD SOURCE="HD2">Determination of Status</HD>
+                <P>Our review of the best available scientific and commercial information indicates that the Dixie Valley toad meets the Act's definition of an endangered species. Therefore, we are listing the Dixie Valley toad as an endangered species in accordance with sections 3(6) and 4(a)(1) of the Act.</P>
+                <HD SOURCE="HD1">Available Conservation Measures</HD>
+                <P>Conservation measures provided to species listed as endangered or threatened species under the Act include recognition, recovery actions, requirements for Federal protection, and prohibitions against certain practices. Recognition through listing results in public awareness, and conservation by Federal, State, Tribal, and local agencies, private organizations, and individuals. The Act encourages cooperation with the States and requires that recovery actions be carried out for listed species. The protection required by Federal agencies and the prohibitions against certain activities are discussed, in part, below.</P>
+                <P>The primary purpose of the Act is the conservation of endangered and threatened species and the ecosystems upon which they depend. The ultimate goal of such conservation efforts is the recovery of these listed species, so that they no longer need the protective measures of the Act. Section 4(f) of the Act calls for the Service to develop and implement recovery plans for the conservation of endangered and threatened species. The recovery planning process involves the identification of actions that are necessary to halt or reverse the species' decline by addressing the threats to its survival and recovery. The goal of this process is to restore listed species to a point where they are secure, self-sustaining, and functioning components of their ecosystems.</P>
+                <P>
+                    Recovery planning includes the development of a recovery outline shortly after a species is listed and preparation of a draft and final recovery plan. The recovery outline guides the immediate implementation of urgent recovery actions and describes the process to be used to develop a recovery plan. Revisions of the plan may be done to address continuing or new threats to the species, as new substantive information becomes available. The recovery plan identifies site-specific management actions that set a trigger for review of the five factors that control whether a species remains endangered or may be reclassified from endangered to threatened (âdownlistedâ) or removed from protected status (âdelistedâ) and methods for monitoring recovery progress. Recovery plans also establish a framework for agencies to coordinate their recovery efforts and provide estimates of the cost of implementing recovery tasks. Recovery teams (composed of species experts, Federal and State agencies, nongovernmental organizations, and stakeholders) are often established to develop recovery plans. When completed, the recovery outline, draft recovery plan, and the final recovery plan will be available on our website (
+                    <E T="03">https://www.fws.gov/program/endangered-species</E>
+                    ) (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <P>
+                    Implementation of recovery actions generally requires the participation of a 
+                    <PRTPAGE P="73991"/>
+                    broad range of partners, including other Federal agencies, States, Tribes, nongovernmental organizations, businesses, and private landowners. Examples of recovery actions include habitat restoration (
+                    <E T="03">e.g.,</E>
+                     restoration of native vegetation), research, captive propagation and reintroduction, and outreach and education. The recovery of many listed species cannot be accomplished solely on Federal lands because their range may occur primarily or solely on non-Federal lands. To achieve recovery of these species requires cooperative conservation efforts on private, State, and Tribal lands.
+                </P>
+                <P>
+                    Following publication of this final rule, funding for recovery actions will be available from a variety of sources, including Federal budgets, State programs, the academic community, and nongovernmental organizations. In addition, pursuant to section 6 of the Act, the State of Nevada will be eligible for Federal funds to implement management actions that promote the protection or recovery of the Dixie Valley toad. Information on our grant programs that are available to aid species recovery can be found at: 
+                    <E T="03">https://www.fws.gov/service/financial-assistance</E>
+                    .
+                </P>
+                <P>
+                    Please let us know if you are interested in participating in recovery efforts for this species. Additionally, we invite you to submit any new information on this species whenever it becomes available and any information you may have for recovery planning purposes (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <P>Section 7(a) of the Act requires Federal agencies to evaluate their actions with respect to any species that is listed as an endangered or threatened species and with respect to its critical habitat, if any is designated. Regulations implementing this interagency cooperation provision of the Act are codified at 50 CFR part 402. Section 7(a)(4) of the Act requires Federal agencies to ensure that activities they authorize, fund, or carry out are not likely to jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify its critical habitat. If a Federal action may affect a listed species or its critical habitat, the responsible Federal agency (action agency) must enter into consultation with us.</P>
+                <P>Federal agency actions within the species' habitat that may require conference or consultation or both as described in the preceding paragraph may include, but are not limited to:</P>
+                <P>â¢ Management planning and permitting on Federal lands, such as fire management plans, mining permits, integrated natural resources management plans, land resource management plans, oil and natural gas permits, and geothermal project approvals; and</P>
+                <P>â¢ Landscape-altering activities on Federal lands, such as aquatic habitat restoration, fire suppression, fuel reduction treatments, renewable energy development, renewable and alternative energy projects, and geothermal project implementation.</P>
+                <P>The Act and its implementing regulations set forth a series of general prohibitions and exceptions that apply to endangered wildlife. The prohibitions of section 9(a)(1) of the Act, codified at 50 CFR 17.21, make it illegal for any person subject to the jurisdiction of the United States to take (which includes harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect; or to attempt any of these) endangered wildlife within the United States or on the high seas. In addition, it is unlawful to import; export; deliver, receive, carry, transport, or ship in interstate or foreign commerce in the course of commercial activity; or sell or offer for sale in interstate or foreign commerce any species listed as an endangered species. It is also illegal to possess, sell, deliver, carry, transport, or ship any such wildlife that has been taken illegally. Certain exceptions apply to employees of the Service, the National Marine Fisheries Service, other Federal land management agencies, and State conservation agencies.</P>
+                <P>We may issue permits to carry out otherwise prohibited activities involving endangered wildlife under certain circumstances. Regulations governing permits are codified at 50 CFR 17.22. With regard to endangered wildlife, a permit may be issued for the following purposes: for scientific purposes, to enhance the propagation or survival of the species, and for incidental take in connection with otherwise lawful activities. The statute also contains certain exemptions from the prohibitions, which are found in sections 9 and 10 of the Act.</P>
+                <P>
+                    It is our policy, as published in the 
+                    <E T="04">Federal Register</E>
+                     on July 1, 1994 (59 FR 34272), to identify to the maximum extent practicable at the time a species is listed those activities that would or would not constitute a violation of section 9 of the Act. The intent of this policy is to increase public awareness of the effect of a final listing on proposed and ongoing activities within the range of a listed species. Based on the best available information, the following actions are unlikely to result in a violation of section 9, if these activities are carried out in accordance with existing regulations and permit requirements; this list is not comprehensive:
+                </P>
+                <P>(1) Vehicle use on existing roads and trails in compliance with the BLM Carson City District's resource management plan.</P>
+                <P>
+                    (2) Recreational use with minimal ground disturbance (
+                    <E T="03">e.g.,</E>
+                     hiking, walking).
+                </P>
+                <P>Based on the best available information, the following activities may potentially result in a violation of section 9 of the Act if they are not authorized in accordance with applicable law, including the Act; this list is not comprehensive:</P>
+                <P>(1) Unauthorized handling or collecting of the species;</P>
+                <P>(2) Unauthorized livestock grazing that results in direct mortality and direct or indirect destruction of vegetation and aquatic habitat;</P>
+                <P>(3) Destruction/alteration of the species' habitat by draining, ditching, stream channelization or diversion, or diversion or alteration of surface or ground water flow into or out of the wetland;</P>
+                <P>(4) Introduction of nonnative species that compete with or prey upon the Dixie Valley toad or wetland vegetation;</P>
+                <P>(5) The unauthorized release of biological control agents that attack any life stage of the Dixie Valley toad;</P>
+                <P>(6) Modification of the vegetation components on sites known to be occupied by the Dixie Valley toad; and</P>
+                <P>(7) Modification of spring and wetland water temperatures.</P>
+                <P>
+                    Questions regarding whether specific activities would constitute a violation of section 9 of the Act should be directed to the Reno Ecological Services Field Office (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <HD SOURCE="HD1">II. Critical Habitat</HD>
+                <HD SOURCE="HD1">Background</HD>
+                <P>Critical habitat is defined in section 3 of the Act as:</P>
+                <P>(1) The specific areas within the geographical area occupied by the species, at the time it is listed in accordance with the Act, on which are found those physical or biological features</P>
+                <P>(a) Essential to the conservation of the species, and</P>
+                <P>(b) Which may require special management considerations or protection; and</P>
+                <P>
+                    (2) Specific areas outside the geographical area occupied by the species at the time it is listed, upon a determination that such areas are essential for the conservation of the species.
+                    <PRTPAGE P="73992"/>
+                </P>
+                <P>
+                    Our regulations at 50 CFR 424.02 define the geographical area occupied by the species as an area that may generally be delineated around species' occurrences, as determined by the Secretary (
+                    <E T="03">i.e.,</E>
+                     range). Such areas may include those areas used throughout all or part of the species' life cycle, even if not used on a regular basis (
+                    <E T="03">e.g.,</E>
+                     migratory corridors, seasonal habitats, and habitats used periodically, but not solely by vagrant individuals).
+                </P>
+                <P>Conservation, as defined under section 3 of the Act, means to use and the use of all methods and procedures that are necessary to bring an endangered or threatened species to the point at which the measures provided pursuant to the Act are no longer necessary. Such methods and procedures include, but are not limited to, all activities associated with scientific resources management such as research, census, law enforcement, habitat acquisition and maintenance, propagation, live trapping, and transplantation, and, in the extraordinary case where population pressures within a given ecosystem cannot be otherwise relieved, may include regulated taking.</P>
+                <P>Critical habitat receives protection under section 7 of the Act through the requirement that Federal agencies ensure, in consultation with the Service, that any action they authorize, fund, or carry out is not likely to result in the destruction or adverse modification of critical habitat. The designation of critical habitat does not affect land ownership or establish a refuge, wilderness, reserve, preserve, or other conservation area. Such designation also does not allow the government or public to access private lands. Such designation does not require implementation of restoration, recovery, or enhancement measures by non-Federal landowners. Where a landowner requests Federal agency funding or authorization for an action that may affect a listed species or critical habitat, the Federal agency would be required to consult with the Service under section 7(a)(2) of the Act. However, even if the Service were to conclude that the proposed activity would result in destruction or adverse modification of the critical habitat, the Federal action agency and the landowner are not required to abandon the proposed activity, or to restore or recover the species; instead, they must implement âreasonable and prudent alternativesâ to avoid destruction or adverse modification of critical habitat.</P>
+                <P>Under the first prong of the Act's definition of critical habitat, areas within the geographical area occupied by the species at the time it was listed are included in a critical habitat designation if they contain physical or biological features (1) which are essential to the conservation of the species and (2) which may require special management considerations or protection. For these areas, critical habitat designations identify, to the extent known using the best scientific and commercial data available, those physical or biological features that are essential to the conservation of the species (such as space, food, cover, and protected habitat).</P>
+                <P>Under the second prong of the Act's definition of critical habitat, we can designate critical habitat in areas outside the geographical area occupied by the species at the time it is listed, upon a determination that such areas are essential for the conservation of the species.</P>
+                <P>
+                    Section 4 of the Act requires that we designate critical habitat on the basis of the best scientific data available. Further, our Policy on Information Standards Under the Endangered Species Act (published in the 
+                    <E T="04">Federal Register</E>
+                     on July 1, 1994 (59 FR 34271)), the Information Quality Act (section 515 of the Treasury and General Government Appropriations Act for Fiscal Year 2001 (Pub. L. 106-554; H.R. 5658)), and our associated Information Quality Guidelines provide criteria, establish procedures, and provide guidance to ensure that our decisions are based on the best scientific data available. They require our biologists, to the extent consistent with the Act and with the use of the best scientific data available, to use primary and original sources of information as the basis for recommendations to designate critical habitat.
+                </P>
+                <P>When we are determining which areas should be designated as critical habitat, our primary source of information is generally the information from the SSA report and information developed during the listing process for the species. Additional information sources may include any generalized conservation strategy, criteria, or outline that may have been developed for the species; the recovery plan for the species; articles in peer-reviewed journals; conservation plans developed by States and counties; scientific status surveys and studies; biological assessments; other unpublished materials; or experts' opinions or personal knowledge.</P>
+                <P>Habitat is dynamic, and species may move from one area to another over time. We recognize that critical habitat designated at a particular point in time may not include all of the habitat areas that we may later determine are necessary for the recovery of the species. For these reasons, a critical habitat designation does not signal that habitat outside the designated area is unimportant or may not be needed for recovery of the species. Areas that are important to the conservation of the species, both inside and outside the critical habitat designation, will continue to be subject to: (1) conservation actions implemented under section 7(a)(1) of the Act; (2) regulatory protections afforded by the requirement in section 7(a)(2) of the Act for Federal agencies to ensure their actions are not likely to jeopardize the continued existence of any endangered or threatened species; and (3) the prohibitions found in section 9 of the Act for endangered species or the 4(d) rule (for threatened species). Federally funded or permitted projects affecting listed species outside their designated critical habitat areas may still result in jeopardy findings in some cases. These protections and conservation tools will continue to contribute to recovery of the species. Similarly, critical habitat designations made on the basis of the best available information at the time of designation will not control the direction and substance of future recovery plans, habitat conservation plans, or other species conservation planning efforts if new information available at the time of those planning efforts calls for a different outcome.</P>
+                <HD SOURCE="HD1">Prudency Determination</HD>
+                <P>Section 4(a)(3) of the Act, as amended, and implementing regulations (50 CFR 424.12) require that, to the maximum extent prudent and determinable, the Secretary shall designate critical habitat at the time the species is determined to be an endangered or threatened species. Our regulations (50 CFR 424.12(a)(1)) state that the Secretary may, but is not required to, determine that a designation would not be prudent in the following circumstances:</P>
+                <P>(i) The species is threatened by taking or other human activity and identification of critical habitat can be expected to increase the degree of such threat to the species;</P>
+                <P>(ii) The present or threatened destruction, modification, or curtailment of a species' habitat or range is not a threat to the species, or threats to the species' habitat stem solely from causes that cannot be addressed through management actions resulting from consultations under section 7(a)(2) of the Act;</P>
+                <P>
+                    (iii) Areas within the jurisdiction of the United States provide no more than 
+                    <PRTPAGE P="73993"/>
+                    negligible conservation value, if any, for a species occurring primarily outside the jurisdiction of the United States;
+                </P>
+                <P>(iv) No areas meet the definition of critical habitat; or</P>
+                <P>(v) The Secretary otherwise determines that designation of critical habitat would not be prudent based on the best scientific data available.</P>
+                <P>As discussed in the SSA report, there is currently no imminent threat of collection or vandalism identified under Factor B for this species, and identification and mapping of critical habitat is not expected to initiate any such threat. In our SSA report and the emergency listing rule for the Dixie Valley toad (87 FR 20336; April 7, 2022), we determined that the present or threatened destruction, modification, or curtailment of habitat or range is a threat to Dixie Valley toad and that those threats in some way can be addressed by the Act's section 7(a)(2) consultation measures. The species occurs wholly in the jurisdiction of the United States, and we are able to identify areas that meet the definition of critical habitat. Therefore, because none of the circumstances enumerated in our regulations at 50 CFR 424.12(a)(1) have been met and because the Secretary has not identified other circumstances for which this designation of critical habitat would be not prudent, we have determined that the designation of critical habitat is prudent for the Dixie Valley toad.</P>
+                <HD SOURCE="HD1">Critical Habitat Determinability</HD>
+                <P>Having determined that designation is prudent, under section 4(a)(3) of the Act we must find whether critical habitat for the Dixie Valley toad is determinable. Our regulations at 50 CFR 424.12(a)(2) state that critical habitat is not determinable when one or both of the following situations exist:</P>
+                <P>(i) Data sufficient to perform required analyses are lacking, or</P>
+                <P>(ii) The biological needs of the species are not sufficiently well known to identify any area that meets the definition of âcritical habitat.â</P>
+                <P>We reviewed the available information pertaining to the biological needs of the species and habitat characteristics where this species is located. Careful assessments of the economic impacts that may occur due to a critical habitat designation are not yet complete. Therefore, data sufficient to perform required analyses are lacking, and we conclude that the designation of critical habitat for the Dixie Valley toad is not determinable at this time. The Act allows the Service an additional year to publish a critical habitat designation that is not determinable at the time of listing (16 U.S.C. 1533(b)(6)(C)(ii)).</P>
+                <HD SOURCE="HD1">Administrative Procedure Act</HD>
+                <P>
+                    The April 7, 2022, emergency rule (87 FR 20336) that implemented temporary (240-day) protections for the Dixie Valley toad expires on December 2, 2022. Given the immediate threat geothermal development poses to the species, we conclude that it is necessary to establish immediate and seamless protection under the Act for the Dixie Valley toad. Therefore, we have determined that, under the exemption provided in the Administrative Procedure Act (5 U.S.C. 553(d)(3)), âgood causeâ exists to make these regulations effective upon publication (see 
+                    <E T="02">DATES</E>
+                    , above).
+                </P>
+                <HD SOURCE="HD1">Required Determinations</HD>
+                <HD SOURCE="HD2">
+                    National Environmental Policy Act (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    )
+                </HD>
+                <P>
+                    It is our position that, outside the jurisdiction of the U.S. Court of Appeals for the Tenth Circuit, we do not need to prepare environmental analyses pursuant to the National Environmental Policy Act (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ) in connection with regulations adopted pursuant to section 4(a) of the Act. We published a notice outlining our reasons for this determination in the 
+                    <E T="04">Federal Register</E>
+                     on October 25, 1983 (48 FR 49244). This position was upheld by the U.S. Court of Appeals for the Ninth Circuit (
+                    <E T="03">Douglas County</E>
+                     v. 
+                    <E T="03">Babbitt,</E>
+                     48 F.3d 1495 (9th Cir. 1995), cert. denied 516 U.S. 1042 (1996)).
+                </P>
+                <HD SOURCE="HD2">Government-to-Government Relationship With Tribes</HD>
+                <P>In accordance with the President's memorandum of April 29, 1994 (Government-to-Government Relations with Native American Tribal Governments; 59 FR 22951), Executive Order 13175 (Consultation and Coordination with Indian Tribal Governments), and the Department of the Interior's manual at 512 DM 2, we readily acknowledge our responsibility to communicate meaningfully with recognized Federal Tribes on a government-to-government basis. In accordance with Secretarial Order 3206 of June 5, 1997 (American Indian Tribal Rights, Federal-Tribal Trust Responsibilities, and the Endangered Species Act), we readily acknowledge our responsibilities to work directly with Tribes in developing programs for healthy ecosystems, to acknowledge that Tribal lands are not subject to the same controls as Federal public lands, to remain sensitive to Indian culture, and to make information available to Tribes. We requested information from the Paiute-Shoshone Tribe of the Fallon Reservation and Colony during the SSA process. We received a request for a government-to-government consultation from the Paiute-Shoshone Tribe of the Fallon Reservation and Colony during the public comment period and are working toward initiating conversations with the tribe. We will continue to work with Tribal entities in the future, including during development of a critical habitat designation for the Dixie Valley toad.</P>
+                <HD SOURCE="HD1">References Cited</HD>
+                <P>
+                    A complete list of references cited in this rulemaking is available on the internet at 
+                    <E T="03">https://www.regulations.gov</E>
+                     and upon request from the Reno Fish and Wildlife Office (see 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                    ).
+                </P>
+                <HD SOURCE="HD1">Authors</HD>
+                <P>The primary authors of this rule are the staff members of the Fish and Wildlife Service's Species Assessment Team and the Reno Fish and Wildlife Office.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 50 CFR Part 17</HD>
+                    <P>Endangered and threatened species, Exports, Imports, Plants, Reporting and recordkeeping requirements, Transportation, Wildlife.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Regulation Promulgation</HD>
+                <P>Accordingly, we amend part 17, subchapter B of chapter I, title 50 of the Code of Federal Regulations, as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 17âENDANGERED AND THREATENED WILDLIFE AND PLANTS</HD>
+                </PART>
+                <REGTEXT TITLE="50" PART="17">
+                    <AMDPAR>1. The authority citation for part 17 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>16 U.S.C. 1361-1407; 1531-1544; and 4201-4245, unless otherwise noted.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="50" PART="17">
+                    <AMDPAR>2. In Â§â17.11, amend paragraph (h) by adding an entry for âToad, Dixie Valleyâ to the List of Endangered and Threatened Wildlife in alphabetical order under AMPHIBIANS to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â17.11 </SECTNO>
+                        <SUBJECT>Endangered and threatened wildlife.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            (h) * * *
+                            <PRTPAGE P="73994"/>
+                        </P>
+                        <GPOTABLE COLS="05" OPTS="L1,tp0,i1" CDEF="s50,r50,r50,xls30,r100">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Common name</CHED>
+                                <CHED H="1">Scientific name</CHED>
+                                <CHED H="1">Where listed</CHED>
+                                <CHED H="1">Status</CHED>
+                                <CHED H="1">Listing citations and applicable rules</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW RUL="sî">
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW EXPSTB="04" RUL="sî">
+                                <ENT I="21">
+                                    <E T="02">Amphibians</E>
+                                </ENT>
+                            </ROW>
+                            <ROW EXPSTB="00">
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">Toad, Dixie Valley</ENT>
+                                <ENT>
+                                    <E T="03">Anaxyrus williamsi</E>
+                                </ENT>
+                                <ENT>Wherever found</ENT>
+                                <ENT>E</ENT>
+                                <ENT>
+                                    87 FR [Insert 
+                                    <E T="04">Federal Register</E>
+                                     page where the document begins], 12/2/2022.
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <NAME>Stephen Guertin,</NAME>
+                    <TITLE>Acting Director, U.S. Fish and Wildlife Service.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2022-26237 Filed 12-1-22; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 4333-15-P</BILCOD>
+        </RULE>

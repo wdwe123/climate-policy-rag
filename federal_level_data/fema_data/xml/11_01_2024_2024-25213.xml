@@ -1,0 +1,825 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF HOMELAND SECURITY</AGENCY>
+                <SUBAGY>Federal Emergency Management Agency</SUBAGY>
+                <CFR>44 CFR Parts 61 and 62</CFR>
+                <DEPDOC>[Docket ID FEMA-2024-0030]</DEPDOC>
+                <RIN>RIN 1660-AB16</RIN>
+                <SUBJECT>National Flood Insurance Program Installment Payment Plan</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Federal Emergency Management Agency, Department of Homeland Security (DHS).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The National Flood Insurance Program (NFIP) is a voluntary program in which interested persons can purchase flood insurance for their property, if it is located in a community that participates in the NFIP by adopting and enforcing a set of minimum floodplain management requirements to reduce future flood damages. FEMA is revising the NFIP's regulations to offer NFIP policyholders the option of paying their annual flood insurance premium in monthly installments.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective December 31, 2024.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking is available for inspection using the Federal eRulemaking Portal at 
+                        <E T="03">https://www.regulations.gov</E>
+                         and can be viewed by following that website's instructions.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Kelly Bronowicz, Director, Policyholder Services Division, Federal Insurance Directorate, Resilience, Federal Emergency Management Agency, (202) 557-9488, 
+                        <E T="03">Kelly.Bronowicz@fema.dhs.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">I. Background</HD>
+                <HD SOURCE="HD2">A. The National Flood Insurance Program</HD>
+                <P>
+                    Congress created the National Flood Insurance Program (NFIP) through enactment of the National Flood Insurance Act of 1968 (NFIA) (title XIII of Pub. L. 90-448, 82 Stat. 572), 42 U.S.C. 4001 
+                    <E T="03">et seq.</E>
+                     The NFIP is a Federal program enabling property owners in participating communities that adopt and enforce floodplain management regulations to purchase insurance as a protection against flood losses. A consumer may purchase an NFIP federally-backed flood insurance policy either: (1) directly from the Federal Government through a direct servicing agent (referred to as âNFIP Directâ); or (2) from a participating private insurance company through the Write Your Own (WYO) Program. The Standard Flood Insurance Policy (SFIP) sets out the terms and conditions of insurance. 
+                    <E T="03">See</E>
+                     44 CFR part 61, appendix A. FEMA establishes terms and conditions of coverage and sets premiums for coverage. The terms, coverage limits, and flood insurance premiums are the same whether a policy is purchased from the NFIP Direct or a private WYO insurance company in the WYO Program. 
+                    <E T="03">See</E>
+                     44 CFR 62.23(a). Under the regulations in place prior to this rule change, FEMA required policyholders to pay their applicable SFIP annual premium in full at the time of application.
+                    <SU>1</SU>
+                    <FTREF/>
+                     44 CFR 61.4(b). Requiring payment of the annual premium in full at the time of application reduced administrative costs to the program, and because of the seasonal nature of flooding, ensured the receipt of premium and exposure to risk 
+                    <PRTPAGE P="87300"/>
+                    would align.
+                    <SU>2</SU>
+                    <FTREF/>
+                     In 2012, Congress passed the Biggert-Waters Flood Insurance Reform Act (BW-12), amending the NFIA to mandate that FEMA provide NFIP policyholders who were ânot required to escrow their premiums and fees for flood insurance as set forth under section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a)â
+                    <SU>3</SU>
+                    <FTREF/>
+                     with the option of paying their premiums annually or in more frequent installments.â Sec. 100205(d), Public Law 112-141, 126 Stat 405. The Homeowner Flood Insurance Affordability Act of 2014 (HFIAA) amended BW-12 and the NFIA regarding the frequency of the installments by striking the language âannually or in more frequent installmentsâ and inserting âannually or monthlyâ instead. 42 U.S.C. 4001 
+                    <E T="03">et seq.;</E>
+                     sec. 11, Public Law 113-89, 128 Stat. 1025 (2014). The NFIP, having operated for several decades within an annual payment structure for premiums, provides payment compliance measures that will apply to the amended regulations discussed herein.
+                    <SU>4</SU>
+                    <FTREF/>
+                     The changes in this rule will bring FEMA's regulations into compliance with the nondiscretionary statutory mandate to provide policyholders with the option of paying their premiums annually or in monthly installments.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âPolicyholders must also pay policy fees and statutory surcharges at the time of application or policy renewal. 
+                        <E T="03">See</E>
+                         44 CFR 61.10.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âThe NFIA requires FEMA to account for administrative costs when setting rates. 
+                        <E T="03">See</E>
+                         42 U.S.C. 4014(a)(1)(B); 42 U.S.C. 4015(b)(3)). 
+                        <E T="03">See also</E>
+                         44 CFR 61.5(c) (2018) (restricting ability to refund premium due to seasonal nature of flooding).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âPursuant to section 102 of the Flood Disaster Protection Act of 1973, federal entities responsible for regulating lenders must require federally backed lenders to allow borrowers who are required to purchase flood insurance as a condition of a loan to escrow flood insurance premiums âwith the same frequency as payments on the loan are made, for the duration of the loan.â 42 U.S.C. 4012a(d). Mortgage payments are typically made monthly which means mortgagees who are required to have flood insurance already pay for their flood insurance premiums on a monthly basis.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        â
+                        <E T="03">See e.g., Insufficient Premium or Rating Information at</E>
+                         44 CFR part 61, appendix A(1), art. VII.D.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Installment Plans Reduce Barriers To Purchasing Flood Insurance</HD>
+                <P>This rulemaking, in addition to fulfilling a statutory mandate, will also reduce barriers to purchasing flood insurance. In administering the NFIP, FEMA provides information to help communities and individuals better understand their flood risk. However, flood risk knowledge by itself is not enough if households cannot act to protect themselves. Providing an option for monthly installments will expand access to flood insurance to meet the evolving needs of the Nation. The option to pay in installments may also increase policyholders' budgetary flexibility by alleviating cash flow pressure, as they could use the deferred payment to address other monthly needs.</P>
+                <P>
+                    Some consumers may lack the financial ability to pay the entire premium at one time.
+                    <SU>5</SU>
+                    <FTREF/>
+                     In this scenario, consumers will need to either finance their purchase of flood insurance through debt (
+                    <E T="03">e.g.,</E>
+                     interest-bearing credit cards) or forego flood insurance protection entirely. Both outcomes can exacerbate negative financial outcomes following a flood disaster, as many consumers may lack adequate funds to recover. The installment plan relieves the immediate financial pressure on policyholders from paying the entire premium amount at one time.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        â
+                        <E T="03">See Lending Club, 9.3 Million More Consumers Ended 2022 Living Paycheck to Paycheck Than in 2021,</E>
+                         Jan. 30, 2022, 
+                        <E T="03">available at https://ir.lendingclub.com/news/news-details/2023/9.3-Million-More-U.S.-Consumers-Ended-2022-Living-Paycheck-to-Paycheck-Than-in-2021/default.aspx</E>
+                         (reporting that 64 percent of the 166 million consumers in the U.S. were living paycheck to paycheck in 2022) (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <P>Finally, the ability to pay in installments may result in more policyholders retaining their flood insurance protection. Under the NFIP's current annual premium payment requirement, a policyholder who pays annually typically only interacts with their flood insurance coverage at the time of initial purchase or renewal. The policyholder must pay the full cost of flood insurance all at once, creating a different trade-off dynamic than when the cost is spread out. Facing a one-time annual payment, a policyholder may rationalize a decision to opt out of renewing on grounds that they perceive their risk to be low or that they will instead save the money spent on premium to self-fund repairs. In contrast, policyholders who make more frequent flood insurance payments will have an ongoing reminder that they are protected against flood, and may be more aware of flood alerts, news about flooding, and more accurately perceive their risk. At the time of renewal, the ability to pay in installments may support a decision to retain flood insurance.</P>
+                <HD SOURCE="HD1">II. Final Rule</HD>
+                <P>FEMA is revising 44 CFR parts 61 and 62 as follows to add an installment plan payment option for NFIP policies.</P>
+                <HD SOURCE="HD2">A. 44 CFR 61.4: Special Terms and Conditions</HD>
+                <P>Section 61.4(b) requires that flood insurance applicants pay their full policy premium at the time of application. FEMA is removing paragraph (b) because it conflicts with the option to pay by monthly installment plan. FEMA will retain paragraph (a) of Â§â61.4, as that section is unrelated to installment plans, will undesignate paragraph (a), and will rename Â§â61.4 âProperties in violation of law, regulation or ordinanceâ as this more accurately describes the contents of this revised section.</P>
+                <HD SOURCE="HD2">B. 44 CFR 61.10: Requirements for Issuance or Renewal of Flood Insurance Coverage</HD>
+                <P>Section 61.10 provides that FEMA will not issue or renew flood insurance unless FEMA receives: (a) the full amount due (including applicable premiums, surcharges, and fees); and (b) a complete application, including the information necessary to establish a premium rate for the policy, or submission of corrected or additional information necessary to calculate the premium for the renewal of the policy. FEMA is revising paragraph (a) to specify that FEMA will not issue or renew flood insurance unless it receives the full amount due, which is either presentment of the full annual premium, or presentment of the first of a series of monthly premium installment payments inclusive of all surcharges, fees, and assessments.</P>
+                <P>
+                    The revised paragraph (a) requires the first payment to include all surcharges, fees, and assessments because the NFIA categorizes premiums separately from the surcharges, fees, and assessments of administrative expenses the agency is authorized to collect. 
+                    <E T="03">See, e.g.,</E>
+                     42 U.S.C. 4014(a)(1)(B)(ii); 42 U.S.C. 4014(a)(1)(B)(iii). In 1990, Congress authorized the Federal Policy Fee (FPF) which helps pay for the administrative expenses of the program, including the floodplain management and mapping activities FEMA is required to fund.
+                    <SU>6</SU>
+                    <FTREF/>
+                     42 U.S.C. 4017a.; sec. 100212, Public Law 112-141, 126 Stat. 992. In BW-12, Congress also authorized FEMA to establish and maintain a National Flood Insurance Program Reserve Fund to cover future claim and debt expenses, especially those from catastrophic disasters. 42 U.S.C. 4014(a)(1)(B)(iii).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        â42 U.S.C. 4014(a)(1)(B)(iii); 
+                        <E T="03">see also</E>
+                         Congressional Research Service, Introduction to the National Flood Insurance Program, R44593, pg. 18 
+                        <E T="03">available</E>
+                         at 
+                        <E T="03">https://crsreports.congress.gov/product/pdf/R/R44593/42</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <P>
+                    As a result of these statutory distinctions, FEMA currently separates the premium from the fees/surcharges/assessments in the annual bill, allowing policyholders to see their flood risk. Combining divided fees and surcharges with all the installment premium payments might distort the important 
+                    <PRTPAGE P="87301"/>
+                    risk assessment signal to policyholders. See, 
+                    <E T="03">e.g.,</E>
+                     42 U.S.C. 4014(a)(1)(B)(ii)-(iii). In this rulemaking, FEMA continues to separate the premium from the fees/surcharges/assessments and requires payment of the fees and surcharges up front instead of dividing them over the life of the policy. Fees and surcharges are both used to carry out certain mandatory operational activities, such as floodplain management and mapping, and fund the interest-earning National Flood Insurance Reserve Fund. 42. U.S.C. 4017(a); 42 U.S.C. 4017(c). Upfront payment of fees and surcharges with the initial premium payment will reduce administrative costs for the NFIP, a benefit to all policyholders, and align the NFIP with other commercial services familiar to policyholders (
+                    <E T="03">e.g.,</E>
+                     cable, where installation fees, taxes and the like are due up front).
+                </P>
+                <P>FEMA is moving to paragraph (a) the language currently in paragraph (b) that explains FEMA must receive a complete application or submission of corrected or additional information necessary to establish a premium.</P>
+                <P>
+                    FEMA is revising paragraph (b) to include paragraphs (b)(1) and (2). The Standard Flood Insurance Policy currently provides that FEMA will reduce coverage on a policy if the premium it receives is not sufficient to buy the kinds and amounts of coverage requested. 
+                    <E T="03">See e.g.,</E>
+                     44 CFR part 61, appendix A(1), art. VII.D.2. This makes sense in the context of an annual premium payment but not for monthly payments; as such, FEMA has revised paragraph (b) to provide that FEMA will not reduce coverage or reform the policy for any policyholder who makes timely installment payments in accordance with the terms identified in paragraph (a)(1)(i)(B). If a policyholder misses an installment payment, current regulations provide an opportunity to cure, as a policyholder can provide any missed or additional payment and avoid reductions in coverage or policy reformation. 
+                    <E T="03">See e.g.,</E>
+                     44 CFR part 61, appendix A(1), art. VII.D.3.a.(1).
+                </P>
+                <P>
+                    Revised paragraph (b)(1) will further provide that in the event of a claim occurring prior to a policyholder completing all installment payments, the policyholder must remit the balance of the premium owed. The policyholder may settle their balance out of claim proceeds in accordance with the Standard Flood Insurance Policy. 
+                    <E T="03">See e.g.,</E>
+                     44 CFR part 61, appendix A(1), art. VII.D.3.a(3). FEMA is adding this language to avoid a scenario where the policyholder would consider withholding premium for reasons other than ability to pay, such as when they disagree with aspects of FEMA's claim handling, and FEMA would be forced to reduce coverage. 
+                    <E T="03">See e.g., id. at</E>
+                     appendix A(1), art. VII.D.2-3. Giving policyholders the option to pay their remaining premium out of their claims proceeds mitigates this risk.
+                </P>
+                <P>
+                    Revised paragraph (b)(2) will provide that FEMA will require payment in full for premiums in the next policy term for any policyholder who fails to make all installment payments in accordance with the terms identified in paragraph (a)(1).
+                    <SU>7</SU>
+                    <FTREF/>
+                     A significant portion of policyholders are subject to seasonal flooding risk, meaning that the likelihood they will file a claim is higher during certain months of the year. For example, many policyholders in Florida face the risk of flooding due to tropical storms and hurricanes, which typically occur from the start of June through November. The purpose of paragraph (b)(2) will be to ensure policyholders are not incentivized to miss payments or cancel their coverage before the end of the policy term (for instance, at the end of hurricane season), as this could potentially create adverse financial consequences for the NFIP.
+                    <SU>8</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âFEMA does not have discretion in whether to implement the statutory requirement to make installment payments available to NFIP policy holders. However, FEMA relies on 42 U.S.C. 4013(a) and 4015 which provide the terms and conditions of insurability, including premium payments. Section 4013 includes a non-exhaustive list of items to include in regulations, such as âany other terms and conditions relating to insurance coverage or exclusion which may be necessary to carry out the purposes of this chapter.â 
+                        <E T="03">Id.</E>
+                         at 4013(a)(6).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âFor example, imagine a scenario where a policyholder's annual premium is $6,000, with $5,000 being the proportion of the risk attributable to hurricane season (June-November). If a policyholder obtains coverage in June but fails to pay any installments after November, the NFIP will have only collected $3,000 ($500 Ã 6) but will have provided a transfer of risk valued at $5,000. If this occurs on a large enough scale, it would negatively impact the NFIP's financial position and could require FEMA to increase rates among all policyholders.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">C. 44 CFR 62.23: WYO Companies Authorized</HD>
+                <P>Section 62.23 governs FEMA's WYO program. Paragraph (h) describes the procedures used by WYO companies in underwriting and servicing flood insurance policies. Paragraph (h)(7) currently authorizes WYO companies to offer premium payment plans so long as the net premium depository requirements specified under the NFIP/WYO Program accounting procedures are met. This subsection also states that a WYO company's cancellation of a policy for non-payment of premium will not produce a pro rata return of the net premium deposit to the WYO company. In effect, this subsection authorizes WYO companies to offer installment payment plans if they pay the full annual premium to the NFIP and bear the risk of policyholders' non-payment of installments.</P>
+                <P>
+                    FEMA is revising paragraph (h)(7) to explain that WYO companies must offer premium payment plans under the terms prescribed by the FEMA Administrator in Â§â61.10(a)(1). FEMA's current regulations have provided WYO companies the ability to offer payment via installment plan, but to date, no WYO company has chosen to offer it. Because FEMA has a statutory obligation to offer policyholders the option of paying their premium via monthly installment plan, FEMA will require WYO companies to offer installment plans consistent with this rule. 
+                    <E T="03">See</E>
+                     42 U.S.C. 4015. Requiring adherence to FEMA's installment plan terms will ensure that all eligible policyholders with federally backed flood insurance will be treated similarly.
+                </P>
+                <HD SOURCE="HD1">III. Regulatory and Economic Analysis</HD>
+                <HD SOURCE="HD2">A. Administrative Procedure Act</HD>
+                <HD SOURCE="HD3">1. Good Cause Exemption</HD>
+                <P>
+                    The Administrative Procedure Act (APA) generally requires agencies to publish a notice of proposed rulemaking in the 
+                    <E T="04">Federal Register</E>
+                     and provide interested persons the opportunity to submit comments. 
+                    <E T="03">See</E>
+                     5 U.S.C. 553(b) and (c). The Administrative Procedure Act, 5 U.S.C. 553(b)(3)(B), provides that, when an agency for good cause finds that public notice and comment procedures are impracticable, unnecessary, or contrary to the public interest, the agency may issue a rule without providing notice and an opportunity for public comment. FEMA has determined that there is good cause to issue this rulemaking without prior proposal and opportunity for comment. The amendments to the NFIA require FEMA to offer policyholders the option to pay their premiums in monthly installments and the agency lacks discretion to reach a different outcome in response to comment. This rule revises two sections in FEMA's prior regulations requiring policyholders to pay the full amount due on a flood insurance policy before it would issue a policy for flood insurance. FEMA previously interpreted the full amount due to include the annual premium, fees and surcharges, or the amount of premium due at the time of the claim. Previously, the regulations authorized, but did not require, WYO companies to offer the monthly installment plan option to policyholders. The 
+                    <PRTPAGE P="87302"/>
+                    amendment to the NFIA requires FEMA and servicing agent, NFIP Direct, to offer the monthly installment plan as an option to policyholders. The regulations now accurately reflect the statutory language of the NFIA. Considering the statutory mandate, FEMA revises these sections without discretion.
+                </P>
+                <HD SOURCE="HD3">2. Contract Exemption</HD>
+                <P>
+                    Section 553(a)(2) of the APA provides an exception to this prior notice and comment requirement for matters relating to public property, loans, grants, benefits, or contracts. The exemption covers both narrow âmanagerialâ proprietary decisions and broader proprietary âmatters of interpretation and policy.ââ
+                    <E T="03">Alphapointe</E>
+                     v. 
+                    <E T="03">Dep't of Veterans Affairs,</E>
+                     416 F. Supp. 3d (D.D.C. 2019) (
+                    <E T="03">quoting Nat'l Wildlife Fed'n</E>
+                     v. 
+                    <E T="03">Snow,</E>
+                     561 F.2d 227, 231-32 (D.C. Cir. 1976)). The case law interpreting the requirement sets forth a relatively brief framework for analysis: namely, that the exempted subject matters are âclearly and directlyâ implicated in the rulemaking at issue. 
+                    <E T="03">Humana of S.C., Inc.</E>
+                     v. 
+                    <E T="03">Califano,</E>
+                     191 U.S. App. D.C. 368, 590 F.2d 1070, 1082 (1978) (That the governmental function is not strictly âproprietary,â or the regulation's character is not âmechanical,â does not curtail section 553(a)(2)'s permissive effect. Public policy may be sorely affected, and the wisdom of public input manifest, but the statutory exemption still prevails when âgrants,â âbenefits,â or other named subjects are âclearly and directlyâ implicated.).
+                </P>
+                <P>
+                    As described more fully in the background section, 
+                    <E T="03">supra,</E>
+                     this rule is clearly and directly related to contracts. The NFIP is a Federal program enabling property owners in participating communities to purchase insurance as a protection against flood losses. A consumer may purchase a SFIP either: (1) directly from the Federal Government through a direct servicing agent (referred to as âNFIP Directâ); or (2) from a participating private insurance company through the Write Your Own (WYO) Program. The SFIP sets out the terms and conditions of insurance. 
+                    <E T="03">See</E>
+                     44 CFR part 61, appendix A. FEMA establishes terms and conditions of coverage and sets premiums for coverage. The terms, coverage limits, and flood insurance premiums are the same whether purchased from the NFIP Direct or the WYO Program. 
+                    <E T="03">See</E>
+                     44 CFR 62.23(a). For an eligible policyholder to obtain flood insurance from the NFIP, they must pay their premium and any surcharges, fees and assessments, and in exchange, they will be covered by the SFIP (
+                    <E T="03">i.e.,</E>
+                     an insurance contract). This rule provides an additional approach to payment of premium to complete the contractual relationship. This statutory construct is similar to other Federal programs in which Congress has authorized an agency to enter into contracts with individuals and upheld the application of the APA contract exemption to a subsequent agency policy change that ultimately resulted in a change in terms for individual contractees or policyholders. 
+                    <E T="03">See, e.g., Rainbow Valley Citrus Corp.</E>
+                     v. 
+                    <E T="03">FCIC,</E>
+                     506 F.2d 467 (9th Cir. 1974) (Plaintiffs, three citrus growers in Arizona, sued the Federal Crop Insurance Corporation (FCIC) challenging the FCIC's decision to discontinue citrus insurance in their area, and argued that the decision was in violation of the notice and comment rulemaking requirement under the APA. The Court found in favor of the FCIC, citing to the APA contract exemption.); 
+                    <E T="03">Housing Authority of the City of Omaha</E>
+                     vs. 
+                    <E T="03">U.S. Housing Authority,</E>
+                     468 F.2d 1 (8th Cir. 1972) (Plaintiffs, local housing authorities, sued the Department of Housing and Urban Development (HUD) alleging that two circulars issued by HUD that required Plaintiffs to include certain tenant's rights in contracts the housing authorities entered into with renters was in violation of the notice and comment rulemaking requirement under the APA. The Court found in favor of HUD citing to the APA contract exemption.).
+                </P>
+                <P>FEMA acknowledges its general policy to provide for public participation in rulemaking unless it determines that circumstances warrant a departure from that general policy. 44 CFR 1.3(a) and (c). The circumstances presented here warrant such a departure. The statute requires FEMA to offer policyholders the option to pay in monthly installments and notice and opportunity for comment on the revisions is unnecessary because the agency lacks discretion to reach a different outcome regarding installment plan payments for policyholders in response to comment.</P>
+                <HD SOURCE="HD2">B. Executive Orders 12866, âRegulatory Planning and Review,â and 13563, âImproving Regulation and Regulatory Reviewâ</HD>
+                <P>Executive Orders 12866 (Regulatory Planning and Review), as amended by Executive Order 14094 (Modernizing Regulatory Review), and 13563 (Improving Regulation and Regulatory Review) direct agencies to assess the costs and benefits of available regulatory alternatives and, if regulation is necessary, to select regulatory approaches that maximize net benefits (including potential economic, environmental, public health and safety effects, distributive impacts, and equity). Executive Order 13563 emphasizes the importance of quantifying both costs and benefits, reducing costs, harmonizing rules, and promoting flexibility.</P>
+                <P>The Office of Management and Budget (OMB) has not designated this rule a significant regulatory action under section 3(f) of Executive Order 12866, as amended by Executive Order 14094. Accordingly, OMB has not reviewed this regulatory action.</P>
+                <HD SOURCE="HD3">Need for Regulation</HD>
+                <P>
+                    In BW-12 and the HFIAA, Congress amended the NFIA requiring FEMA to provide certain eligible policyholders with a federally backed SFIP, âthe option of paying their premiums annually or monthly.â Sec. 100205(d), Public Law 112-141, 126 Stat. 405, 919 (2012) (codified at 42 U.S.C. 4015(g)), as amended by sec. 11(a), Public Law 113-89, 128 Stat. 1020, 1025 (2014). Currently, FEMA and WYO companies bill their customers' NFIP premiums on an annual basis as a lump sum. This rule will fulfill the statutory requirement by allowing residential and commercial policyholders to pay their premiums in 11 to 12 payments over the course of the year.
+                    <SU>9</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âCustomers will make 11 payments in their first year due to a 30-day waiting period for their initial enrollment in the NFIP. Following years will have 12 monthly payments.
+                    </P>
+                </FTNT>
+                <P>
+                    FEMA, through its subcomponent the Federal Insurance Directorate, is promulgating this rule to implement a monthly installment payment plan option for policyholders not currently paying flood insurance premiums through escrow.
+                    <SU>10</SU>
+                    <FTREF/>
+                     The installment plan option is available for residential and non-residential SFIP policyholders.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âMortgage lenders set aside a portion of monthly mortgage payments to cover annual costs such as property taxes and homeowners' insurance premiums.
+                    </P>
+                </FTNT>
+                <P>
+                    A monthly installment payment plan is in keeping with the property and casualty insurance industry standard. Aligning with these consumer expectations will make it easier for consumers to consider acquiring flood insurance. Additionally, some consumers may lack the financial ability to pay the entire premium at one time. The option to pay in installments may increase policyholders' budgetary flexibility by alleviating cash flow pressure, as they could use the deferred payment to address other needs.
+                    <PRTPAGE P="87303"/>
+                </P>
+                <HD SOURCE="HD3">Affected Population</HD>
+                <P>NFIP enables homeowners, renters, and businesses in participating communities to purchase Federal insurance protection against losses from floods. Communities participate in the NFIP after they agree to adopt and enforce minimum floodplain development regulations designed to reduce future flood risk in Special Flood Hazard Areas (SFHAs).</P>
+                <P>
+                    As of April 30, 2024, according to FEMA's PIVOT database,
+                    <SU>11</SU>
+                    <FTREF/>
+                     there were 4,664,515 NFIP policies in force, including 3,248,737 residential Dwelling Form Policies, 290,800 Commercial Policies, 1,115,443 Condominium Association Policies and 9,535 Group Flood Insurance Policies (GFIPs). GFIPs are not included in the population of policyholders that will pay monthly,
+                    <SU>12</SU>
+                    <FTREF/>
+                     which means the affected population of potentially eligible individual policies is 4,654,980 (3,248,737 + 290,800 + 1,115,443).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âFEMA's PIVOT database contains NFIP information. Please note that PIVOT is the name of the database, and it is not an acronym.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âA GFIP is a policy covering all individuals named by a State as recipients of assistance under FEMA's Individual Assistance (IA) program. 44 CFR 61.17(a). FEMA or the State pays the premium on behalf of recipients by withholding the applicable amount from the IA âother needs assistanceâ (ONA) award for which recipients are eligible. 44 CFR 61.17(b) and 206.119. ONA is provided to recipients as a one-time award, 
+                        <E T="03">i.e.,</E>
+                         on a non-continuing basis; as such, FEMA will continue to make those one-time payments at the time of ONA award.
+                    </P>
+                </FTNT>
+                <P>
+                    FEMA expects the number of individual policyholders who will make the change from paying annually to paying monthly will be much less than the total eligible affected population. FEMA estimates that 45 percentâ
+                    <SU>13</SU>
+                    <FTREF/>
+                     of potentially eligible individual policyholders are residential mortgage holders who already pay their NFIP premiums on a regular basis (generally monthly) into an escrow account as required under section 102 of the Flood Disaster Protection Act of 1973. FEMA does not have enough information to estimate how many condominium association policyholders might switch from an annual payment to a monthly payment. Condominium associations typically include flood insurance payments in their condominium association feesâ
+                    <SU>14</SU>
+                    <FTREF/>
+                     which means such associations typically collect the premium before the renewal premium is due. FEMA does not expect condo associations to utilize installment plans because these associations will have the available cash reserves to pay a yearly premium. Switching to monthly payments would increase uncertainty and unnecessarily complicate their accounting practices.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âDerived by subtracting the 1,794,911 policies without a mortgage from the 3,248,737 total Dwelling Form Policies and finding the percent of that whole [(3,248,737â1,794,911) Ã· 3,248,737].
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âResidential Condominium Building Association Policies (RCBAP) are sold to the condominium associations to cover the whole building. Condominium associations pass on their costs to their members in the form of condo fees 
+                        <E T="03">https://www.fema.gov/pdf/nfip/manual201110/content/06condo.pdf,</E>
+                         pg.1.
+                    </P>
+                </FTNT>
+                <P>
+                    Excluding these two populations from the analysis decreases the total population from approximately 4.7 million policyholders to 1.9 million policyholders. Specifically, according to PIVOT data, in 2023 there were 1,794,911 residential policyholders who did not have a mortgageâ
+                    <SU>15</SU>
+                    <FTREF/>
+                     and were not condominium associations who would most likely opt for installment plans as they must currently make an annual lump sum payment. Additionally, FEMA expects 76,876 small businesses and houses of worship (according to PIVOT data) to change to monthly payment installments because they typically have smaller cash reserves on hand.
+                    <SU>16</SU>
+                    <FTREF/>
+                     This makes a total of 1,871,787 (1,794,911 + 76,876) out of 4,664,515 policyholders that will utilize monthly installment plans to pay their flood insurance premiums. For the purposes of this analysis, FEMA assumed that all eligible policyholders, excluding residential mortgage holders, condominium associations, and larger commercial policyholders will utilize installment plans. This leaves 1,453,826 mortgage-paying residential policyholders, 1,115,443 condominium association policyholders, and 211,175 commercial property policyholders that are not expected to opt for installment plans. This may overestimate the number of policyholders paying in installments and the overall economic impact of this rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âThis group includes condominium owners that have purchased flood insurance for their individual units outside of their condominium association.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âOn average, small businesses hold $12,000 in cash. JP Morgan Chase &amp; Co., Cash is King: Flows, Balances, and Buffer Days (
+                        <E T="03">jpmorganchase.com</E>
+                        ) available at 
+                        <E T="03">https://www.jpmorganchase.com/institute/research/small-business/report-cash-flows-balances-and-buffer-days#finding-2</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">Baseline and Affected Population</HD>
+                <P>Following OMB Circular A-4 guidance, FEMA assessed impacts of this rule against a no-action baseline. The no-action baseline considers what the world will look like without this rule. Accordingly, measuring the rule against a no-action baseline shows the effects of the rule as compared to current FEMA practice, because FEMA has not implemented the option to pay flood insurance premiums through installment plans. Currently, SFIPs are issued on a one-year term, and policyholders must pay full annual premiums at the inception of policy coverage and at annual renewal.</P>
+                <P>
+                    FEMA used policies-in-force data from 2023 to 2024â
+                    <SU>17</SU>
+                    <FTREF/>
+                     to estimate the number of affected NFIP policyholders. During this period, the number of NFIP policies was 4,720,559 on April 1, 2023 and 4,672,375 policies on April 1, 2024. FEMA was not able to forecast an increase in currently uninsured property owners purchasing flood insurance once the installment plan option is available. However, FEMA anticipates the flexibility provided through implementation of an installment payment plan will likely result in greater retention of policyholders and incentivize greater participation in the NFIP.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âThe data was limited due to the implementation of a new risk rating approach on April 1, 2023. Because of these changes, pre-2023 data are not directly comparable to data after April 1, 2023.
+                    </P>
+                </FTNT>
+                <P>Flood insurance premiums are subject to change year-to-year due to any number of factors that may cause unexpected increases in yearly premiums. The option to pay in installments may relieve some of the burden of changes in flood insurance premiums. Due to the numerous factors affecting premium rates and the rate of flood insurance uptake nationwide, FEMA is unable to forecast the impact that the availability of installment plans may have on affordability or future participation in the NFIP.</P>
+                <HD SOURCE="HD3">Costs</HD>
+                <P>This rule will result in start-up (upfront) and annual costs to FEMA and WYO insurance companies. Over 10 years, FEMA estimates a total cost of $34,181,503 undiscounted. The following is a breakdown of the specific costs to FEMA,WYO companies, and NFIP Policyholders.</P>
+                <P>
+                    <E T="03">Federal Cost</E>
+                    s: FEMA expects to incur development costs to adapt current NFIP systems to handle the administration of installment plans and payments that will be processed by the existing 
+                    <E T="03">pay.gov</E>
+                     system.
+                    <SU>18</SU>
+                    <FTREF/>
+                     Based on estimates from FEMA subject matter experts, development work will require one General Schedule (GS)-13 Step 5 and eight GS-12 Step 5 equivalent contractors for a total of 700 hours. According to the Office of Personnel Management (OPM), hourly wage rates in the Washington-Baltimore-Arlington locality for GS-13 Step 5 is $60.83 and 
+                    <PRTPAGE P="87304"/>
+                    GS-12 Step 5 staff is $51.15.
+                    <SU>19</SU>
+                    <FTREF/>
+                     FEMA assumes the contractors would have equivalent salaries to their respective GS levels. The combined hourly staff wage rate equals $470.03 ((1 Ã $60.83) + (8 Ã $51.15)). Additionally, FEMA adds a 1.45 wage multiplier to the wage rate to account for the full cost of employment, making it $681.54 ($470.03 Ã 1.45) per hour for 700 hours for a total of $477,078 (((1 Ã $60.83) + (8 Ã $51.15)) Ã 1.45 Ã 700).
+                    <SU>20</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        â
+                        <E T="03">Pay.gov</E>
+                         is a website where users can fill out a government or pay a bill to a U.S. Government agency. 
+                        <E T="03">See https://www.pay.gov/public/about-us/pay-gov</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âOPM 2023 Pay and Leave Tables for the Washington-Baltimore-Arlington, DC-MD-VA-WV-PA locality, available at: 
+                        <E T="03">http://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/23Tables/html/DCB_h.aspx</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âThe national wage multiplier is calculated by dividing total compensation for all workers of $42.48 by wages and salaries for all workers of $29.32 per hour yielding a benefits multiplier of approximately 1.45.U.S. Bureau of Labor Statistics (BLS), Employer Costs for Employee Compensation, Table 1. Available at 
+                        <E T="03">https://www.bls.gov/news.release/archives/ecec_03172023.pdf.</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <P>To create marketing materials, FEMA subject matter experts estimate a team of four GS-14 level employees working for 40 hours each on this project. Using the prior methodology, OPM wage rate for a GS-14 Step 5 is $71.88 per hour and including the wage multiplier equals $104.23 ($71.88 Ã 1.45) per hour for a total cost of $16,677 ($104.23 Ã 4 staff Ã 40 hours). FEMA expects a total of $493,755 (477,078 + $16,677) for startup costs.</P>
+                <P>
+                    For ongoing costs, FEMA expects to hire two additional GS-13 Step 5 employees to handle the installment plan program full time. This would cost $368,152 (2 GS-13 Step 5 Ã $126,949 annual salary Ã 1.45) per year.
+                    <SU>21</SU>
+                    <FTREF/>
+                     These costs include the cost for FEMA developing and testing guidance materials, systems, trainings, and marketing content as well as ongoing support for managing installment plans. FEMA anticipates that it will largely use existing NFIP infrastructure and resources to support implementation of installment plans and that annual costs associated with maintaining installment plan policies are comparable to annual policies and thus do not represent an additional cost.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âOPM 2023 Pay and Leave Tables for the Washington-Baltimore-Arlington, DC-MD-VA-WV-PA locality, available at 
+                        <E T="03">https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2023/DCB.pdf</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <P>
+                    <E T="03">WYO Costs:</E>
+                     FEMA's current regulations have provided WYO companies the ability to offer payment via installment plan, but to date, no WYO company has chosen to offer it. Because FEMA has a statutory obligation to offer policyholders the option of paying their premium via monthly installment plan, FEMA will require WYO companies to offer installment plans consistent with this rule. WYO insurers will use their customary business practices to secure monthly payment of flood insurance premiums from policyholders.
+                    <SU>22</SU>
+                    <FTREF/>
+                     However, for many WYO insurers, flood insurance premiums are handled separately and will require additional systems or modification of existing systems and infrastructure to support flood insurance installment payment plans. FEMA does not have access to internal WYO insurance company data on their information technology (IT) costs. However, based on FEMA's experience with managing IT costs for insurance purposes, FEMA estimates eight WYO vendorsâ
+                    <SU>23</SU>
+                    <FTREF/>
+                     to each incur $200,000 in costs for updating their internal systems for a total upfront starting cost of $1,600,000 ($200,000 Ã 8) in year 1.
+                    <SU>24</SU>
+                    <FTREF/>
+                     Based on feedback from WYO vendors and their finance teams, FEMA expects each of the eight WYO vendors to hire 2 additional staff members for the support and operation of installment plan systems, incurring $1,986,152 (8 Ã 2 Ã $85,610 Ã 1.45) per year.
+                    <SU>25</SU>
+                    <FTREF/>
+                     Bureau of Labor Statistics data regarding insurance underwriters is used as a proxy for the salary of the additional hires.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        ââWrite Your Ownâ refers to private insurance companies that work with FEMA in providing NFIP policies and are able to write and service NFIP policies in their own names.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âThere are 8 vendors (
+                        <E T="03">i.e.,</E>
+                         companies) that support the 50+ WYOs. All but one WYO work with an outside company to support them in operational work such as management of systems, customer services, financial reporting, servicing of policies, etc.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âImplementation costs are derived from an estimate of IT infrastructure and development costs FEMA anticipates would be borne by WYO vendors servicing payments but paid for by WYO companies.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        âBased on 2023 BLS mean salary data for Insurance Underwriters (SOC 13-2053), available at: 
+                        <E T="03">https://www.bls.gov/oes/2023/may/oes132053.htm</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <P>
+                    <E T="03">Policyholder Costs:</E>
+                     FEMA estimates that there will be no additional financial costs to policyholders.
+                    <SU>26</SU>
+                    <FTREF/>
+                     However, it may result in a small amount of time burden to make 12 installment payments in lieu of one annual payment. Policyholders will make payments via automatic payments from a bank account, debit card, or credit card through the 
+                    <E T="03">pay.gov</E>
+                     system.
+                    <SU>27</SU>
+                    <FTREF/>
+                     FEMA estimates a total burden hour cost of $8,544,708 for NFIP policyholders to enroll in 
+                    <E T="03">pay.gov.</E>
+                     This estimate is based on an expectation that 
+                    <E T="03">pay.gov</E>
+                     account creation takes 6 minutes on averageâ
+                    <SU>28</SU>
+                    <FTREF/>
+                     for a total of 187,179 hours for the estimated 1,871,787 policyholders that will use the system. At a fully loaded wage rate of $45.65 ($31.48 Ã 1.45) per hourâ
+                    <E T="51">29â30</E>
+                    <FTREF/>
+                     for all workers, this makes a total of $8,544,708 one-time cost for account creation. Policyholders that do not have access to 
+                    <E T="03">pay.gov</E>
+                     payment methods will not be eligible. Policyholders that decide to switch to installment plans will receive their information via already existing marketing sources and thus will not incur additional familiarization costs.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        âInstallment plans will be implemented by FEMA using operational dollars within the NFIP and the WYO vendors will use their expense allowance received under their financial agreements with FEMA. The current financial agreements include provisions for WYOs to implement installment plans.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        âAll policyholders, NFIP Direct and WYO, will go through 
+                        <E T="03">pay.gov</E>
+                         to make their installment payment.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        âDep't. of Treasury, OMB Approval No.1530-0071, available at 
+                        <E T="03">https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202308-1530-001</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>29</SU>
+                        âInformation on the mean wage rate from the U.S. Department of Labor, Bureau of Labor Statistics is available at: 
+                        <E T="03">https://www.bls.gov/oes/2023/may/oes_nat.htm</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                    <P>
+                        <SU>30</SU>
+                        âThe national wage multiplier is calculated by dividing total compensation for all workers of $45.42 by wages and salaries for all workers of $31.29 per hour yielding a benefits multiplier of approximately 1.45.Bureau of Labor Statistics, Employer Costs for Employee Compensation, Table 1, available at: 
+                        <E T="03">https://www.bls.gov/news.release/archives/ecec_03132024.pdf</E>
+                         (last accessed October 7, 2024).
+                    </P>
+                </FTNT>
+                <P>Table 1 shows FEMA, WYO, and policyholder estimated costs over a 10-year period. The total cost over 10 years equals $34,181,503 undiscounted and $31,577,602 discounted at 2 percent in 2023 dollars.</P>
+                <GPOTABLE COLS="6" OPTS="L2,i1" CDEF="s50,12,12,13,12,12">
+                    <TTITLE>Table 1âTotal Costs Over 10 Years</TTITLE>
+                    <TDESC>[2023$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Year</CHED>
+                        <CHED H="1">
+                            Policyholder
+                            <LI>costs</LI>
+                        </CHED>
+                        <CHED H="1">FEMA costs</CHED>
+                        <CHED H="1">
+                            WYO
+                            <LI>insurance</LI>
+                            <LI>company costs</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Total costs
+                            <LI>undiscounted</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Annual costs
+                            <LI>discounted</LI>
+                            <LI>at 2%</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$8,544,708</ENT>
+                        <ENT>$861,907</ENT>
+                        <ENT>$3,586,152</ENT>
+                        <ENT>$12,992,767</ENT>
+                        <ENT>$12,738,007</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="87305"/>
+                        <ENT I="01">2</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>2,262,884</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>2,218,513</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>2,175,013</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>2,132,366</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>2,090,555</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>2,049,563</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>2,009,376</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">9</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>1,969,976</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">10</ENT>
+                        <ENT>0</ENT>
+                        <ENT>368,152</ENT>
+                        <ENT>1,986,152</ENT>
+                        <ENT>2,354,304</ENT>
+                        <ENT>1,931,349</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">Total</ENT>
+                        <ENT>8,544,708</ENT>
+                        <ENT>4,175,275</ENT>
+                        <ENT>21,461,520</ENT>
+                        <ENT>34,181,503</ENT>
+                        <ENT>31,577,602</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Annualized</ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT>3,515,425</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD3">Benefits</HD>
+                <P>The benefits from a monthly installment plan option will include increased NFIP policy retention and improved flexibility to policyholders. Allowing policyholders the option of making flood insurance payments in monthly installments rather than a single annual payment provides increased budgetary flexibility on how to use the deferred payment which may be especially relevant for policyholders unable to pay a lump-sum annual premium or otherwise experiencing a financial burden thereby alleviating some cash flow pressure. FEMA believes offering installment plans will help policyholders remain in the program. Policyholder retention also maintains the societal and policyholder benefits associated with the NFIP in proportion to those policyholders retained. FEMA does not have data available to estimate the number of policyholders that will remain in the program due to the installment plan option, or to project any growth in the number of policies.</P>
+                <P>Providing a monthly installment brings the NFIP into alignment with other insurance (auto, homeowners) that typically allow monthly payments, making the flood insurance product more attractive to potential policyholders, and potentially increasing participation in the NFIP.</P>
+                <HD SOURCE="HD3">Transfers</HD>
+                <P>FEMA does not expect transfers from this rule since it does not impact what policyholders pay in premiums, but the timing of when they pay. Policyholders may make investment gains or interest savings based on retaining money throughout the year that they would have spent on a lump sum payment. However, FEMA is unable to estimate if and how policyholders will adjust their behavior based on the ability to pay in installments.</P>
+                <HD SOURCE="HD3">Alternatives Considered</HD>
+                <P>
+                    FEMA did not consider any alternatives to issuing this regulation allowing monthly installments. BW-12 and HFIAA collectively mandated FEMA to promulgate a rule allowing the option of paying flood insurance premiums either annually or monthly. As such, FEMA must pursue a regulatory action to accomplish this requirement. While FEMA could have set a different premium schedule in addition to monthly payments (
+                    <E T="03">i.e.,</E>
+                     quarterly or biannual), FEMA considers monthly payments to be the most appropriate payment schedule that poses the least burden on policyholders.
+                </P>
+                <HD SOURCE="HD3">Conclusion</HD>
+                <P>In summary, FEMA quantitatively estimated the impacts of the rule. This includes estimating the costs to FEMA, WYO companies, and policyholders. In terms of benefits, FEMA anticipates the implementation of an installment payment plan will result in greater retention of policyholders and incentivize greater participation in the NFIP. Transfer payments will be minimal. This rule fulfills a statutory requirement in a cost-effective manner and warrants implementation. For the future 10-year period, the estimated costs of the rule are $34,181,503 undiscounted. The Present Value (PV), discounted at 2 percent, is $31,577,602 ($3,515,425 annualized). The primary benefit associated with installment plans is increased retention and potential increased participation in the NFIP.</P>
+                <HD SOURCE="HD2">C. Regulatory Flexibility Act</HD>
+                <P>The Regulatory Flexibility Act (RFA) (5 U.S.C. 601-612) and section 213(a) of the Small Business Regulatory Enforcement Fairness Act of 1996, Public Law 104-121, 110 Stat. 847, 858-9 (Mar. 29, 1996) (5 U.S.C. 601 note), require that special consideration be given to the effects of regulations on small entities. The RFA applies only when an agency is ârequired by section 553 . . . to publish general notice of proposed rulemaking for any proposed rule.â 5 U.S.C. 603(a). An RFA analysis is not required for this rulemaking because the Regulatory Flexibility Act is inapplicable to final rules issued pursuant to an exemption from notice and comment. FEMA issues the NFIP Installment Plans rulemaking pursuant to the 5 U.S.C. 553(a)(2), for all rules relating to âpublic property, loans, grants, benefits or contracts,â as well as 5 U.S.C. 553(b)(3)(B), which provides that, when an agency for good cause finds that public notice and comment procedures are impracticable, unnecessary, or contrary to the public interest, the agency may issue a rule without providing notice and an opportunity for public comment.</P>
+                <HD SOURCE="HD2">D. Unfunded Mandates Reform Act</HD>
+                <P>
+                    The Unfunded Mandates Reform Act of 1995, 2 U.S.C. 658, 1501-1504, 1531-1536, 1571, pertains to any rulemaking which is likely to result in the promulgation of any rule that includes a Federal mandate that may result in the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector, of $100 million (adjusted annually for inflation) or more in any one year. If the rulemaking includes a Federal mandate, the Act requires an agency to prepare an assessment of the anticipated costs and benefits of the Federal mandate. The Act also pertains to any regulatory requirements that might significantly or uniquely affect small governments. Before establishing 
+                    <PRTPAGE P="87306"/>
+                    any such requirements, an agency must develop a plan allowing for input from the affected governments regarding the requirements.
+                </P>
+                <P>FEMA has determined that this rulemaking will not result in the expenditure by State, local, and Tribal governments, in the aggregate, nor by the private sector, of $100,000,000 or more in any one year as a result of a Federal mandate, and it will not significantly or uniquely affect small governments. Therefore, no actions are deemed necessary under the provisions of the Unfunded Mandates Reform Act of 1995 (UMRA).</P>
+                <P>
+                    Additionally, regulations are only reviewable under UMRA when an agency has published a notice of proposed rulemaking as defined by 5 U.S.C. 553(b). 
+                    <E T="03">See</E>
+                     2 U.S.C. 658(10); 5 U.S.C. 601(2). FEMA is not required to publish a notice of proposed rulemaking; thus, this rule is exempt from UMRA's requirements pertaining to the preparation of a written statement.
+                </P>
+                <HD SOURCE="HD2">E. National Environmental Policy Act of 1969 (NEPA)</HD>
+                <P>
+                    Section 102 of the National Environmental Policy Act of 1969 (NEPA), Public Law 91-190, 83 Stat. 852 (Jan. 1, 1970) (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ), as amended, requires Federal agencies to evaluate the impacts of a proposed major Federal action that significantly affect the quality of the human environment, consider alternatives to the proposed action, provide public notice and opportunity to comment, and properly document its analysis. DHS and its component agencies analyze proposed actions to determine whether NEPA applies to those actions and, if so, what level of documentation and analysis is required. 40 CFR 1501.3.
+                </P>
+                <P>DHS Directive 023-01, Rev. 01 and DHS Instruction Manual 023-01-001-01, Rev. 01 (Instruction Manual) establish the policies and procedures DHS and its component agencies use to comply with NEPA and the Council on Environmental Quality (CEQ) regulations for implementing the procedural requirements of NEPA codified at 40 CFR parts 1500 through 1508. The CEQ regulations allow Federal agencies to establish, in their NEPA implementing procedures, with CEQ review and concurrence, categories of actions (âcategorical exclusionsâ or âCatexâ) that experience has shown normally do not, individually or in the aggregate, have a significant effect on the human environment and, therefore, do not require preparation of an environmental assessment or environmental impact statement. 40 CFR 1501.4, 1507.3(c)(8), 1508.1(e). DHS Instruction Manual, Appendix A, lists the categorical exclusions established by DHS in conformity with CEQ's regulations. Under DHS NEPA implementing procedures, for an action to be categorically excluded it must satisfy each of the following conditions: (1) the entire action clearly fits within one or more of the categorical exclusions; (2) the action is not a piece of a larger action; and (3) no extraordinary circumstances exist that create the potential for a significant environmental effect. Instruction Manual, section V.B. (2) (a-c).</P>
+                <P>
+                    This rulemaking is a major Federal action subject to NEPA. Under DHS Instruction Manual 023-01-001-01, Appendix A, DHS has established that certain categories of rulemaking, to include (1) the promulgation of rules that are of a strictly administrative or procedural nature and (2) rules that implement, without substantive change, statutory or regulatory requirements, meet the criteria for categorical exclusion and therefore do not require preparation of an environmental assessment or environmental impact statement. (Catex A3(a) and (b)). This rulemaking satisfies the conditions for categorical exclusion established under DHS Instruction Manual, section V.B.(2) and Appendix A because: (1) the final rule is both strictly administrative in nature and is intended only to implement, without substantive change, the statutory requirement that FEMA offer policyholders the option of paying their annual flood insurance premiums in monthly installments; (2) the impact of the final rule affects only payment schedules available under the NFIP and is not part of a larger action that would impact other FEMA programs; and (3) the final rule will not result in any extraordinary circumstances that would make application of a categorical exclusion inappropriate or trigger the need for additional analysis. 
+                    <E T="03">See</E>
+                     DHS Instruction Manual 023-01-001-01 V(B)(2). FEMA has therefore determined that this rulemaking is categorically excluded under both Catex A3(a) and (b) of DHS Instruction Manual 023-01-001-01, Appendix A and no further NEPA analysis or documentation is required.
+                </P>
+                <HD SOURCE="HD2">F. Privacy Act/E-Government Act</HD>
+                <P>Under the Privacy Act of 1974, 5 U.S.C. 552a, an agency must determine whether implementation of a proposed regulation will result in a system of records. A ârecordâ is any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his/her education, financial transactions, medical history, and criminal or employment history and that contains his/her name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a finger or voice print or a photograph. 5 U.S.C. 552a(a)(4). A âsystem of recordsâ is a group of records under the control of an agency from which information is retrieved by the name of the individual or by some identifying number, symbols, or other identifying particular assigned to the individual. An agency cannot disclose any record that is contained in a system of records except by following specific procedures. The E-Government Act of 2002, 44 U.S.C. 3501 note, also requires specific procedures when an agency takes action to develop or procure information technology that collects, maintains, or disseminates information that is in an identifiable form. This Act also applies when an agency initiates a new collection of information that will be collected, maintained, or disseminated using information technology if it includes any information in an identifiable form permitting the physical or online contacting of a specific individual.</P>
+                <P>In accordance with DHS policy, FEMA has completed a Privacy Threshold Analysis (PTA) for this rule. DHS/FEMA has determined that this rulemaking does not affect the 1660-0006 OMB Control Number's current compliance with the E-Government Act of 2002 or the Privacy Act of 1974, as amended. As a result, DHS/FEMA has concluded that the 1660-0006 OMB Control Number is covered by the DHS/FEMA/PIA-011âNational Flood Insurance Program Information Technology Systems (NFIP ITS) Privacy Impact Assessment (PIA). Additionally, DHS/FEMA has decided that the 1660-0006 OMB Control Number is covered by the DHS/FEMA-003 National Flood Insurance Program Files, 79 FR 28747, May 19, 2014, System of Records Notice.</P>
+                <HD SOURCE="HD2">G. Paperwork Reduction Act of 1995</HD>
+                <P>
+                    Under the Paperwork Reduction Act of 1995 (PRA), as amended, 44 U.S.C. 3501-3520, an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the agency obtains approval from OMB for the collection and the collection displays a valid OMB control number. 
+                    <E T="03">See</E>
+                     44 U.S.C. 3506,3507. This rulemaking does not call for a new collection of information under the PRA. There is an existing collection of information, 1660-0006, 
+                    <PRTPAGE P="87307"/>
+                    the NFIP Policy Forms, Public Law 90-448 (1968) (expanded by Pub. L. 93-234 (1973)), included in this rulemaking. BW-12 and HFIAA required modifications to the NFIP. Program changes resulting from BW-12 and HFIAA necessitated revision of the NFIP Policy Forms to assure proper classification of properties for rating purposes and to rate and issue the policies in accordance with the provisions of BW-12 and HFIAA. However, this rule will not impact this collection because the forms have already been updated as needed.
+                </P>
+                <HD SOURCE="HD2">H. Executive Order 13175, âConsultation and Coordination With Indian Tribal Governmentsâ</HD>
+                <P>Executive Order 13175, âConsultation and Coordination with Indian Tribal Governments,â 65 FR 67249 (Nov. 9, 2000), applies to agency regulations that have Tribal implications, that is, regulations that have substantial direct effects on one or more Indian Tribes, on the relationship between the Federal Government and Indian Tribes, or on the distribution of power and responsibilities between the Federal Government and Indian Tribes. Under this Executive order, to the extent practicable and permitted by law, no agency shall promulgate any regulation that has Tribal implications, that imposes substantial direct compliance costs on Indian Tribal governments, and that is not required by statute, unless funds necessary to pay the direct costs incurred by the Indian Tribal government in complying with the regulation are provided by the Federal Government or the agency consults with Tribal officials. Nor, to the extent practicable by law, may an agency promulgate a regulation that has Tribal implications and preempts Tribal law, unless the agency consults with Tribal officials. This rule involves no policies that have Tribal implications under Executive Order 13175.</P>
+                <P>The purpose of this rulemaking is to implement the statutory requirement that FEMA offer policyholders the option of paying their flood insurance premiums in installments. FEMA lacks discretion to change course based on public comment which applies to comments from Indian Tribal governments. Further, the benefits anticipated for the general public are similarly shared amongst Indian Tribal Governments. Allowing Tribal Nation citizen policyholders to pay in smaller installments reduces barriers to entry in the flood insurance marketplace. The ability to pay in installments may also result in more Tribal Nation citizen policyholders retaining their flood insurance protection.</P>
+                <P>Under the NFIP's current annual premium payment requirement, a Tribal Nation citizen policyholder who is making annual payments typically only interacts with their flood insurance coverage at the time of initial purchase or renewal. Additionally, the Tribal Nation citizen policyholder must consider the full cost of flood insurance all at once, creating a different trade-off dynamic than when the cost is spread out. Facing a one-time annual payment, the policyholder may rationalize a decision to not renew on grounds that they perceive their risk to be low or that they will instead save the money spent on premium to self-fund repairs. In contrast, Tribal Nation citizen policyholders who make more frequent flood insurance payments will have an ongoing relationship with their insurer and a consistent reminder that they are protected against flood, and may be more aware of flood alerts, news about flooding, and more accurately perceive their risk.</P>
+                <P>This rulemaking would benefit Indian Tribal governments subject to the NFIP, offering existing Tribal Nation citizen policyholders the option of paying their premiums in monthly installments rather than in one annual lump sum. The rulemaking would not have substantial negative direct effects on citizens of Tribal Nations, on the relationship between the Federal Government and Indian Tribes, or the distribution of power and responsibilities between the Federal Government and Indian Tribes.</P>
+                <HD SOURCE="HD2">I. Executive Order 13132, âFederalismâ</HD>
+                <P>Executive Order 13132, âFederalism,â 64 FR 43255 (Aug. 10, 1999), sets forth principles and criteria that agencies must adhere to in formulating and implementing policies that have federalism implications, that is, regulations that have âsubstantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government.â For the purposes of this Executive order, the term States also includes local governments or other subdivisions established by the States. Under this Executive order, Federal agencies must closely examine the statutory authority supporting any action that would limit the policymaking discretion of the States. Further, to the extent practicable and permitted by law, no agency shall promulgate any regulation that has federalism implications, that imposes substantial direct compliance costs on State and local governments, and that is not required by statute, unless the Federal Government provides funds necessary to pay the direct costs incurred by the State and local governments in complying with the regulation, or the agency consults with State and local officials. Nor, to the extent practicable by law, may an agency promulgate a regulation that has federalism implications and preempts State law, unless the agency consults with State and local officials.</P>
+                <P>FEMA has reviewed this rule under Executive Order 13132 and has determined that it does not have substantial direct effects on the States, on the relationship between the National Government and the States, or on the distribution of power and responsibilities among the various levels of government, and therefore does not have federalism implications as defined by the Executive order. This rulemaking implements the statutory requirement that FEMA offer policyholders the option of paying their annual flood insurance premiums in monthly installments. As such, it would not have substantial direct effects on the States or participating communities, on the relationship between the National Government and the States or participating communities, or the distribution of power among the various levels of government.</P>
+                <HD SOURCE="HD2">J. Executive Order 11988, âFloodplain Managementâ</HD>
+                <P>
+                    Executive Order 11988, 42 FR 26951 (May 25, 1977), as amended by Executive Order 13690, âEstablishing a Federal Flood Risk Management Standard (FFRMS) and a Process for Further Soliciting and Considering Stakeholder Input,â 80 FR 6425 (Feb. 4, 2015), and Executive Order 14030, âClimate-Related Financial Risk,â 86 FR 27967 (May 25, 2021), requires each Federal agency to provide leadership and take action to reduce the risk of flood loss, to minimize the impact of floods on human safety, health and welfare, and to restore and preserve the natural and beneficial values served by floodplains in carrying out its responsibilities for (1) acquiring, managing, and disposing of Federal lands and facilities; (2) providing federally undertaken, financed, or assisted construction and improvements; and (3) conducting Federal activities and programs affecting land use, including but not limited to water and related land resources planning, regulating, and licensing activities. In carrying out these responsibilities, each agency must evaluate the potential effects of any 
+                    <PRTPAGE P="87308"/>
+                    actions it may take in a floodplain; ensure that its planning programs and budget requests reflect consideration of flood hazards and floodplain management; and prescribe procedures to implement the policies and requirements of the Executive order.
+                </P>
+                <P>Before promulgating any regulation, an agency must determine whether the proposed regulations will affect a floodplain(s), and if so, the agency must consider alternatives to avoid adverse effects and incompatible development in the floodplain(s). If the head of the agency finds that the only practicable alternative consistent with the law and with the policy set forth in Executive Order 11988 is to promulgate a regulation that affects a floodplain(s), the agency must, prior to promulgating the regulation, design or modify the regulation to minimize potential harm to or within the floodplain, consistent with the agency's floodplain management regulations. It must also prepare and circulate a notice containing an explanation of why the action is proposed to be located in the floodplain.</P>
+                <P>FEMA regulations at 44 CFR part 9 implement E.O.s 11988 and 13690 by establishing an 8-step decision-making process for actions which have the potential to affect floodplains or their occupants, or which are subject to potential harm by location in floodplains. Under 44 CFR 9.5, actions affecting floodplains include actions which have the potential to result in the long- or short-term impacts associated with: (1) the occupancy or modification of floodplains, and the direct or indirect support of floodplain development; or (2) the destruction and modification of wetlands and the direct or indirect support of new construction in wetlands. Pursuant to 44 CFR 9.5(f), FEMA generally must apply the 8-step process for program-wide actions under the NFIP such as regulations, procedures, or other issuances making or amending program policy. This rulemaking implements the statutory requirement under the NFIP that FEMA offer policyholders the option of paying their annual flood insurance premiums in monthly installments. FEMA has determined that the changes in this rule do not meet the definition of an action as outlined in 44 CFR 9.4 and the rulemaking therefore does not trigger the requirements of 44 CFR part 9 as described in 44 CFR 9.5, including those outlined in 44 CFR 9.5(f).</P>
+                <HD SOURCE="HD2">K. Executive Order 11990, âProtection of Wetlandsâ</HD>
+                <P>Executive Order 11990, âProtection of Wetlands,â 42 FR 26961 (May 24, 1977), sets forth that each agency must provide leadership and take action to minimize the destruction, loss or degradation of wetlands, and to preserve and enhance the natural and beneficial values of wetlands in carrying out the agency's responsibilities. These responsibilities include (1) acquiring, managing, and disposing of Federal lands and facilities; and (2) providing federally undertaken, financed, or assisted construction and improvements; and (3) conducting Federal activities and programs affecting land use, including but not limited to water and related land resources planning, regulating, and licensing activities. Each agency, to the extent permitted by law, must avoid undertaking or providing assistance for new construction located in wetlands unless the head of the agency finds (1) that there is no practicable alternative to such construction, and (2) that the proposed action includes all practicable measures to minimize harm to wetlands which may result from such use. In making this finding, the head of the agency may take into account economic, environmental, and other pertinent factors.</P>
+                <P>In carrying out the activities described in Executive Order 11990, each agency must consider factors relevant to a proposal's effect on the survival and quality of the wetlands. These include public health, safety, and welfare, including water supply, quality, recharge and discharge; pollution; flood and storm hazards; sediment and erosion; maintenance of natural systems, including conservation and long-term productivity of existing flora and fauna, species and habitat diversity and stability, hydrologic utility, fish, wildlife, timber, and food and fiber resources. They also include other uses of wetlands in the public interest, including recreational, scientific, and cultural uses.</P>
+                <P>This rulemaking implements the statutory requirement that FEMA offer policyholders the option of paying their annual flood insurance premiums in monthly installments. FEMA has determined that the changes in this rule do not meet the definition of an action as outlined in 44 CFR 9.4 and the rulemaking therefore does not trigger the requirements of 44 CFR part 9 as described in 44 CFR 9.5, including those outlined in 44 CFR 9.5(f).</P>
+                <HD SOURCE="HD2">L. Executive Order 12898, âEnvironmental Justiceâ</HD>
+                <P>Under Executive Order 12898, âFederal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations,â 59 FR 7629 (Feb. 16, 1994), as amended by Executive Order 12948, 60 FR 6381 (Feb. 1, 1995), FEMA incorporates environmental justice into its policies and programs. The Executive order requires each Federal agency to identify and address disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations.</P>
+                <P>This rulemaking will not have a disproportionately high or adverse human health or environmental effect on low-income or minority populations.</P>
+                <HD SOURCE="HD2">M. Congressional Review of Agency Rulemaking</HD>
+                <P>Before a rule can take effect, the Congressional Review of Agency Rulemaking Act (CRA), 5 U.S.C. 801-808, requires the Federal agency promulgating the rule to submit to Congress and to the Government Accountability Office (GAO) a copy of the rule, a concise general statement relating to the rule, including whether it is a major rule, the proposed effective date of the rule, a copy of any cost-benefit analysis, descriptions of the agency's actions under the Regulatory Flexibility Act and the Unfunded Mandates Reform Act, and any other information or statements required by relevant Executive orders.</P>
+                <P>FEMA will send this rule to the Congress and to GAO pursuant to the CRA. This rule is not a âmajor ruleâ within the meaning of the CRA. It will not have an annual effect on the economy of $100,000,000 or more or result in a major increase in costs or prices for consumers, individual industries, Federal, State, or local government agencies, or geographic regions. Nor will it have significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based enterprises to compete with foreign-based enterprises in domestic and export markets.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects</HD>
+                    <CFR>44 CFR Part 61</CFR>
+                    <P>Flood insurance, Reporting and recordkeeping requirements.</P>
+                    <CFR>44 CFR Part 62</CFR>
+                    <P>Claims, Flood insurance, Reporting and recordkeeping requirements. </P>
+                </LSTSUB>
+                <P>For the reasons stated in the preamble, FEMA amends 44 CFR chapter I as follows:</P>
+                <PART>
+                    <PRTPAGE P="87309"/>
+                    <HD SOURCE="HED">PART 61âINSURANCE COVERAGE AND RATES</HD>
+                </PART>
+                <REGTEXT TITLE="44" PART="61">
+                    <AMDPAR>1. The authority citation for part 61 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                            42 U.S.C. 4001 
+                            <E T="03">et seq.;</E>
+                             6 U.S.C. 101 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="44" PART="61">
+                    <AMDPAR>2. Revise Â§â61.4 to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â61.4 </SECTNO>
+                        <SUBJECT> Properties in violation of law, regulation, or ordinance.</SUBJECT>
+                        <P>
+                            No new flood insurance or renewal of flood insurance policies will be written for properties declared by a duly constituted State or local zoning or other authority to be in violation of any floodplain, mudslide (
+                            <E T="03">i.e.,</E>
+                             mudflow), or flood-related erosion area management or control law, regulation, or ordinance.
+                        </P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="44" PART="61">
+                    <AMDPAR>3. Revise Â§â61.10 to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â61.10 </SECTNO>
+                        <SUBJECT> Requirements for issuance or renewal of flood insurance coverage.</SUBJECT>
+                        <P>
+                            (a) 
+                            <E T="03">Issuance or renewal of flood insurance.</E>
+                             FEMA will not issue or renew flood insurance unless FEMA receives:
+                        </P>
+                        <P>(1) The full amount due, which is:</P>
+                        <P>(i) Either:</P>
+                        <P>(A) Presentment of the full premium; or</P>
+                        <P>(B) Presentment of the first of a series of monthly premium installment payments; and</P>
+                        <P>(ii) Presentment of the full amount of surcharges, fees, and assessments; and</P>
+                        <P>(2) A complete application, including the information necessary to establish a premium rate for the policy, or submission of corrected or additional information necessary to calculate the premium for the renewal of the policy.</P>
+                        <P>
+                            (b) 
+                            <E T="03">Impact of installment payments.</E>
+                             (1) FEMA will not reduce coverage or reform the policy for any policyholder who makes timely installment payments in accordance with the terms identified in paragraph (a)(1)(i)(B) of this section. In the event of a claim occurring prior to a policyholder completing all installment payments, the policyholder must remit the balance of payment. The policyholder may settle their balance out of claim proceeds in accordance with the Standard Flood Insurance Policy.
+                        </P>
+                        <P>(2) FEMA shall require payment in full in the next policy term for any policyholder who fails to make all installment payments in accordance with the terms identified in paragraph (a)(1)(i)(B) of this section.</P>
+                    </SECTION>
+                </REGTEXT>
+                <PART>
+                    <HD SOURCE="HED">PART 62âSALE OF INSURANCE AND ADJUSTMENT OF CLAIMS</HD>
+                </PART>
+                <REGTEXT TITLE="44" PART="62">
+                    <AMDPAR>4. The authority citation for part 62 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                            42 U.S.C. 4001 
+                            <E T="03">et seq.;</E>
+                             6 U.S.C. 101 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="44" PART="62">
+                    <AMDPAR>5. Revise Â§â62.23(h)(7) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â62.23 </SECTNO>
+                        <SUBJECT> WYO Companies authorized.</SUBJECT>
+                        <STARS/>
+                        <P>(h) * * *</P>
+                        <P>(7) Premium payment plans must be offered by the WYO Company under the terms prescribed by the Administrator in Â§â61.10(a)(1).</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <NAME>Deanne Criswell,</NAME>
+                    <TITLE>Administrator, Federal Emergency Management Agency.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2024-25213 Filed 10-31-24; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 9111-52-P</BILCOD>
+        </RULE>

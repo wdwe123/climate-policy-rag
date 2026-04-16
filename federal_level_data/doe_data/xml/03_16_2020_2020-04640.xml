@@ -1,0 +1,786 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 1004</CFR>
+                <RIN>RIN 1901-AB44</RIN>
+                <SUBJECT>Critical Electric Infrastructure Information; New Administrative Procedures</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Electricity, U.S. Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The U.S. Department of Energy (DOE or Department) publishes this final rule to implement DOE's critical electric infrastructure information (CEII) designation authority under the Federal Power Act (FPA). In this final rule, DOE establishes administrative procedures intended to ensure that stakeholders and the public understand how the Department would designate, protect, and share CEII.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The effective date of this rule is May 15, 2020.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">https://www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">https://www.regulations.gov</E>
+                         index. However, not all documents listed in the index, such as those containing information that is exempt from public disclosure by law, may be publicly available. A link to the docket web page can be found at 
+                        <E T="03">https://www.regulations.gov/docket?D=DOE-HQ-2019-0003.</E>
+                         The docket web page explains how to access all documents, including public comments, in the docket.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Michael Coe, U.S. Department of Energy, Office of Electricity, Mailstop OE-20, Room 8H-033, 1000 
+                        <PRTPAGE P="14757"/>
+                        Independence Avenue SW, Washington, DC 20585; (202) 287-5166; or 
+                        <E T="03">oeregs@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Introduction</FP>
+                    <FP SOURCE="FP-2">II. Discussion of Final Rule</FP>
+                    <FP SOURCE="FP1-2">A. Background</FP>
+                    <FP SOURCE="FP1-2">B. Filing Procedures and Guidance</FP>
+                    <FP SOURCE="FP1-2">C. Purpose and Scope</FP>
+                    <FP SOURCE="FP1-2">D. Definitions</FP>
+                    <FP SOURCE="FP1-2">E. Authority to Designate Information as CEII</FP>
+                    <FP SOURCE="FP1-2">F. Coordination Among DOE Office Designators</FP>
+                    <FP SOURCE="FP1-2">G. CEII FOIA Exemption</FP>
+                    <FP SOURCE="FP1-2">H. Criteria and Procedures for Designating CEII</FP>
+                    <FP SOURCE="FP1-2">I. Duration of Designation</FP>
+                    <FP SOURCE="FP1-2">J. Review or Requests for Reconsideration of Designation</FP>
+                    <FP SOURCE="FP1-2">K. Sharing of CEII</FP>
+                    <FP SOURCE="FP1-2">L. Procedures for Requesting CEII</FP>
+                    <FP SOURCE="FP1-2">M. Unauthorized Disclosure</FP>
+                    <FP SOURCE="FP-2">III. Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Executive Orders 12866 and 13563</FP>
+                    <FP SOURCE="FP1-2">B. Executive Orders 13771, 13777, and 13783</FP>
+                    <FP SOURCE="FP1-2">C. National Environmental Policy Act</FP>
+                    <FP SOURCE="FP1-2">D. Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">E. Paperwork Reduction Act</FP>
+                    <FP SOURCE="FP1-2">F. Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">G. Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">H. Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">I. Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">J. Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">IV. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Introduction</HD>
+                <P>
+                    In this final rule, the Department of Energy (DOE) establishes procedures for the designation of critical electric infrastructure information (CEII) under section 215A(d) of the Federal Power Act (FPA). Section 61003 of the Fixing America's Surface Transportation Act (FAST Act), Public Law 114-94, added section 215A to the FPA. The new section authorizes both the Secretary of Energy (the Secretary) and the Federal Energy Regulatory Commission (FERC) independently to designate CEII. Under section 215A(d)(1) of the FPA, a CEII designation exempts the data or information so designated from disclosure under the Freedom of Information Act (FOIA) and other laws requiring government disclosure of certain information or records. 16 U.S.C. 824o-1(d)(1); 5 U.S.C. 552(b)(3). Section 215A(d)(2) required FERC, after consultation with the Secretary and within a year of the FAST Act's enactment, to âpromulgate such regulations as necessary to . . . establish criteria and procedures to designate information as [CEII].â 16 U.S.C. 824o-1(d)(2). FERC did so, following a notice-and-comment rulemaking similar to the instant rulemaking. Order No. 833, 
+                    <E T="03">Regulations Implementing FAST Act Section 61003âCritical Electric Infrastructure Security and Amending Critical Energy Infrastructure Information; Availability of Certain North American Electric Reliability Corporation Databases to the Commission,</E>
+                     FERC Docket Nos. RM16-15-000 and RM15-25-001, 157 FERC Â¶â61,123 (2016), 
+                    <E T="03">order on reh'g &amp; clarification,</E>
+                     Order No. 833-A, FERC Docket No. RM16-15-001, 163 FERC Â¶â61,125 (2018). While this rulemaking established criteria for designating CEII applicable to both FERC and the Department, the designation procedures in the rulemaking were limited to FERC. Thus, on October 29, 2018, the Department published a Notice of Proposed Rulemaking (NOPR) to establish its own designation procedures. (83 FR 54274) This final rule establishes DOE's designation procedures, which are consistent with the procedures established by FERC to the maximum extent possible.
+                </P>
+                <P>
+                    The Department is committed to improving the resilience, reliability, and security of the Nation's electricity delivery system. Consistent with its statutory authorities and ongoing work with energy sector entities in furtherance of that mission, the Department anticipates that the majority of CEII the Department will receive will be voluntary submissions, scoped in collaboration with the submitting entity, and for which DOE may often make a CEII designation based on the scoping prior to submission. DOE's role with respect to CEII is not expected to be related to its regulatory functions, and DOE expects that nearly all potential CEII sent to DOE will be voluntary submissions tied to specific programs. The Department anticipates receiving a smaller volume of CEII material than FERC does given the regulatory requirements for mandatory FERC filings by the electricity industry, giving DOE the flexibility to engage in more proactive designations. Even if the submission relates to a DOE regulatory function, DOE will still evaluate it based on the procedures set forth in this rule on whether to designate the information as CEII. If organizations and individuals submit material to DOE, the Department recommends adding all appropriate FOIA exemption markings, as the material may be both Confidential Business Information (CBI) and CEII. Based on the recent opinion of the Supreme Court of the United States in 
+                    <E T="03">Food Marketing Institute</E>
+                     v. 
+                    <E T="03">Argus Leader Media</E>
+                     (No. 18-481), which effectively broadens the scope of data and information that are eligible for the fourth exemption from disclosure under FOIA, DOE notes that all entities submitting information for CEII designation under this rule should also specify whether the material is Confidential Business Information under the new legal standard.
+                </P>
+                <P>
+                    DOE received a total of fourteen (14) written comments in response to the NOPR, all of which are available at 
+                    <E T="03">https://www.regulations.gov.</E>
+                     Generally, the comments addressed the following issues: Scope, purpose, and definitions; authority to designate information as CEII; coordination among DOE Office designators; criteria and procedures for determining what constitutes CEII; duration of designation of CEII; sharing of CEII; and sanctions for unauthorized disclosure of CEII. DOE responds to the comments received in the discussion of the final rule in Section II below.
+                </P>
+                <HD SOURCE="HD1">II. Discussion of Final Rule</HD>
+                <HD SOURCE="HD2">A. Background</HD>
+                <P>After FERC published its CEII designation criteria and procedures, DOE began its rulemaking to establish administrative procedures regarding how the Department would designate, protect, and share CEII. The Department follows the designation criteria FERC has already formulated, but establishes its own procedures for such designation in this final rule. These procedures differ from those established by FERC in that DOE's procedures provide additional time to coordinate with parties that submit CEII to DOE. However, the agencies' overall procedures are similar in providing specific information when requesting that submitted information be designated as CEII, as well as procedures for appealing a CEII designation determination. The Department's rule is consistent with FERC's rule to the maximum extent possible, so that the fundamental objectives of the CEII statutory program will be met regardless of whether the information is submitted to the Department or to FERC.</P>
+                <P>
+                    The Canadian Electricity Association (CEA) expressed support for DOE's effort to harmonize its CEII procedures with FERC's CEII procedures. (CEA, No. 12, p. 4). However, CEA asked for clarification between DOE and FERC's CEII procedures. In particular, CEA sought understanding on processes to ensure consistency between CEII designation, as well as removal of CEII designation, if the same material is shared with both DOE and FERC. 
+                    <E T="03">Id.</E>
+                    <PRTPAGE P="14758"/>
+                </P>
+                <P>The Department recognizes the importance of coordination among Federal agencies with similar programs, as each agency has different procedures related to voluntary information sharing and protection of the information. As mentioned above, the Department has sought to harmonize its procedures with the FERC procedures as much as possible, and DOE will use FERC's designation criteria. The Department's designation, however, does not mean that the information will be automatically shared with FERC, the Department of Homeland Security (DHS), or any other Federal agency. The Department will follow the procedures outlined in this rule to review and designate information and data as CEII. In addition, the Department will continue to coordinate with the DHS regarding its Protected Critical Infrastructure Information program, including as provided for under 1004.13(e)(4). If DOE finds it necessary to provide CEII material to another Federal agency, DOE will provide dissemination instructions prohibiting further distribution. DOE will continue to coordinate with FERC, DHS, and other Federal agencies on all cross-cutting initiatives related to CEII to ensure maximum harmonization.</P>
+                <HD SOURCE="HD2">B. Filing Procedures and Guidance</HD>
+                <P>Proposed Â§â1004.13(a) tells interested stakeholders where to find information about CEII filing procedures and guidance. No comments were received; therefore, DOE finalizes this section as proposed.</P>
+                <HD SOURCE="HD2">C. Purpose and Scope</HD>
+                <P>As described in proposed Â§â1004.13(b), procedures for the designation, protection, and sharing of CEII developed under section 215A of the FPA would apply to anyone who provides CEII to DOE or who receives CEII from DOE, including DOE employees, DOE contractors, agents of DOE, and individuals or organizations who have been permitted access to CEII, as well as non-DOE entities submitting CEII to DOE or receiving CEII from DOE. These proposed procedures would also apply to other Federal agencies seeking CEII designation and protection of information that agencies may submit to DOE.</P>
+                <P>
+                    The joint comments of EarthJustice, Union of Concerned Scientists, and Public Citizen (EarthJustice 
+                    <E T="03">et al.</E>
+                    ) disputed the validity of the Department's notice and comment process in this rulemaking. Their comments alleged that the Department violated the Administrative Procedure Act because it held a meeting in February 2018 (discussed in footnote 1 of this rule) at which âindustry stakeholdersâ laid out concerns in advance of this rulemaking. EarthJustice 
+                    <E T="03">et al.</E>
+                     stated that â[t]he public cannot meaningfully comment on an agency's action if key facts or rationale in support of the decision are not made available for consideration and comment.â (Earth Justice et al., No. 3, p. 13).
+                </P>
+                <P>
+                    The Department disagrees with EarthJustice 
+                    <E T="03">et al.'</E>
+                    s claims of inadequate notice and comment. As explained in the October 2018 NOPR, the Department held a meeting with interested stakeholders in compliance with all applicable laws and procedures.
+                    <SU>1</SU>
+                    <FTREF/>
+                     As a preliminary matter, DOE's ex parte guidelines, promulgated in October 2009 and available at 
+                    <E T="03">https://www.energy.gov/gc/downloads/guidance-ex-parte-communications,</E>
+                     provide that the applicability of the guidelines begins upon release of a NOPR or other preliminary rulemaking document. As noted in the Department's October 2018 NOPR, however, DOE nonetheless made a summary of that meeting available to the public, as specified in the ex parte guidelines. The NOPR subsequently provided regulatory text and a preamble explaining the proposed rule. Commenters were given 60 days to respond to the proposed rule, which is to be binding on the Department in designating CEII. No commenters asked for additional time to comment on the rule. This final rule includes the Department's consideration of, and response to, the comments it received. Based on the above, DOE concludes that commenters had the opportunity to meaningfully comment on the Department's proposed rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âOn February 14 and 15, 2018, DOE's Office of Electricity (OE) (known at the time as DOE's Office of Electricity Delivery and Energy Reliability) and Office of Policy convened an ex-parte meeting with representatives from energy industry, local, state, and Federal government agencies to discuss issues, challenges, and opportunities in CEII-sharing frameworks and optional information sharing protections and protocols leading up to the development of this proposed rule. A memorandum summarizing this meeting is available at 
+                        <E T="03">https://www.regulations.gov/docket?D=DOE-HQ-2019-0003 and https://www.energy.gov/gc/legal-resources/ex-parte-communications.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">D. Definitions</HD>
+                <P>Section 1004.13(c) of the proposed rule defines terms applicable to the proposed procedures in this notice for the designation of CEII. Where the terms are defined by statute or by FERC's CEII regulations, the definitions track those corresponding definitions, either verbatim or with maximum consistency. Other terms are proposed for the first time in this context. The Department received no comments on the proposed definitions. Therefore, unless discussed below, the proposed definitions are adopted without change in this final rule.</P>
+                <P>
+                    The Department adds the definition of âConfidential Business Informationâ to Â§â1004.13(c) to mean âcommercial or financial information that is both customarily and actually treated as private by its owner and that is provided to the government as part of a claimed CEII submission.â This addition is based on the June 24, 2019, opinion of the Supreme Court of the United States in 
+                    <E T="03">Food Marketing Institute</E>
+                     v. 
+                    <E T="03">Argus Leader Media</E>
+                     (No. 18-481). The decision effectively broadens the scope of data and information that are eligible for exemption from disclosure under 5 U.S.C. 552(b)(4). In the case, the Supreme Court rejected the lower courts' holding that âinformation can never be deemed confidential [the FOIA statutory term] unless disclosing it is likely to result in `substantial competitive harm' to the business that provided it.â 
+                    <E T="03">Food Mktg. Inst.</E>
+                     v. 
+                    <E T="03">Argus Leader Media,</E>
+                     No. 18-481, slip op. at 1 (U.S. June 24, 2019). The Court found that the âsubstantial competitive harmâ test which stemmed from the D.C. Circuit's 1974 opinion in 
+                    <E T="03">National Parks &amp; Conservation Association</E>
+                     v. 
+                    <E T="03">Morton,</E>
+                     498 F.2d 765 (DC Cir. 1974), went beyond the language of the statute itself, and did not reflect the typical meaning of the words used when Congress enacted FOIA Exemption 4. 
+                    <E T="03">See Argus Leader,</E>
+                     slip op. at 7-10. The Court held that â[a]t least where commercial or financial information is both customarily and actually treated as private by its owner and provided to the government under an assurance of privacy, the information is `confidential' within the meaning of Exemption 4.â 
+                    <E T="03">Id.</E>
+                     at 12.
+                </P>
+                <P>
+                    The Department clarifies that the CEII Coordinator may delegate the daily implementation of the CEII Coordinator function as described in this rule, in whole or in part, to an Assistant Secretary or Administrator in DOE. The NOPR stated that the final CEII designation authority would reside with the DOE Office exercising its delegated CEII designation authority. The appropriate Assistant Secretary or Administrator would exercise the authority delegated to a DOE Office. Therefore, the Department adopts a definition of CEII Coordinator in Â§â1004.13(c) to specify delegation to the appropriate Assistant Secretary in DOE.
+                    <PRTPAGE P="14759"/>
+                </P>
+                <HD SOURCE="HD2">E. Authority To Designate Information as CEII</HD>
+                <P>Proposed Â§â1004.13(d) allows the Secretary, or DOE Offices with delegated authority, to receive and designate CEII. Practically speaking, the flexibility to delegate allows the Department to handle CEII in a manner ensuring access to the critical information it needs to execute its responsibilities as the lead Sector-Specific Agency for cybersecurity for the energy sector, under section 61003(c) of the FAST Act, and the Sector-Specific Agency for Energy (Critical Infrastructure), under Presidential Policy Directive 21.</P>
+                <P>
+                    EarthJustice 
+                    <E T="03">et al.</E>
+                     claimed that â[t]he Department has no legal authority to establish criteria and procedures for CEII designation.â The comments contended that âwhile both [FERC] and the Department have authority to designate CEII, the power to establish criteria and procedures for doing so is [FERC]'s alone.â (EarthJustice 
+                    <E T="03">et al.,</E>
+                     No. 3, p. 2).
+                </P>
+                <P>
+                    EarthJustice 
+                    <E T="03">et al.</E>
+                     are correct that both the Department and FERC may designate CEII. However, while the Department is obligated to apply the criteria FERC crafted, FERC acknowledged in its final procedural rule that DOE is not bound by the procedures FERC uses, noting that â[t]he FAST Act . . . does not compel DOE to make any changes to its regulations in this regardâ and that ânothing within the Commission's regulations would limit DOE's ability to designate CEII in accordance with the FAST Act,â and specifically âdeclin[ing] to revise [its] regulations to identify specific designation criteria and CEII procedures for DOE.â FERC Order No. 833, 157 FERC Â¶â61,123 at P 39 (2016), 
+                    <E T="03">reh'g denied,</E>
+                     FERC Order No. 833-A, 163 FERC Â¶â61,125 at PP 31-33 (2018). 
+                    <E T="03">See also</E>
+                     Department of Energy Organization Act, as amended, section 644, 42 U.S.C. 7254 (âThe Secretary is authorized to prescribe such procedural . . . rules and regulations as he may deem necessary or appropriate to administer and manage the functions now or hereafter vested in him.â). The Department has therefore designed its own CEII designation procedures, which are consistent with the FERC regulations to the maximum extent possible.
+                </P>
+                <P>
+                    Other commenters requested more detail on how the Department will evaluate information submitted as CEII. For example, Midcontinent Independent System Operator, Inc. (MISO) noted that the proposed rules allowed the delegation of CEII designation authority. (MISO, No. 11, p. 3). Therefore, MISO recommended that â[t]he designation criteria must be specified to enable consistent designation of CEII by each DOE Office, and for CEII submitters to understand the kind of information the DOE will designate as CEII.â 
+                    <E T="03">Id.</E>
+                     Edison Electric Institute (EEI) recommended that, in clarifying the CEII designation criteria, âthe Department consider information on other systems or assets that may negatively affect national security, economic security, and/or public health; information that may enable the misuse of an asset or system that may negatively affect national security, economic security, and/or public health; and information on systems or assets that has previously been made public.â (EEI, No. 9, p. 5).
+                </P>
+                <P>DOE has determined that the existing CEII designation criteria address these concerns. FPA section 215A(a)(2) defines Critical Electric Infrastructure as âa system or asset of the bulk-power system, whether physical or virtual, the incapacity or destruction of which would negatively affect national security, economic security, public health or safety, or any combination of such matters.â FPA section 215A(a)(3) includes âinformation related to critical electric infrastructureâ in its definition of CEII. Under the criteria that FERC established and that DOE follows, FERC and DOE may consider a range of elements in determining what qualifies as CEII. The regulation, as proposed, provides adequate guidance for a submitter and DOE staff to determine whether information is CEII, and for the CEII Coordinator or Coordinator's designee to make a determination.</P>
+                <P>EEI stated that it supported coordination among DOE Office designees to ensure that the FAST Act authorities are consistently implemented within DOE and recommends a robust internal process to ensure that CEII is appropriately and consistently designated, protected, and shared throughout the Department. (EEI, No. 9, p. 11).</P>
+                <P>DOE agrees that the internal process for coordination among DOE Office designees is important and will ensure robust internal controls to appropriately and consistently designate, protect, and share CEII throughout the Department. More information on the internal process is provided in Section F.</P>
+                <HD SOURCE="HD2">F. Coordination Among DOE Office Designators</HD>
+                <P>Proposed Â§â1004.13(e) sets out the functions of the CEII Coordinator and the Coordinator's designee. The CEII Coordinator may make an initial determination as to whether the information fits within the definition of CEII, but final CEII designation authority resides with the CEII Coordinator or DOE Office exercising its delegated CEII designation authority. The proposed subsection also provides that DOE entities with authority to designate CEII would meet to calibrate their approaches to CEII designation, and would meet with representatives of other Federal agencies, as needed and at the discretion of the Coordinator or designee, to ensure consistent understanding of CEII designation processes.</P>
+                <P>The Department clarifies that the CEII Coordinator or Coordinator's designee is delegated the authority already granted to the Secretary, in accordance with FPA section 215A, to designate information sought by DOE as CEII. Therefore, the Department amends Â§â1004.13(e)(1) to include specific mention that the CEII Coordinator or Coordinator's designee can designate certain information sought by DOE as CEII, in accordance with FPA section 215A(a)(3), and using the designation criteria codified at 18 CFR 388.113(c).</P>
+                <P>The Department clarifies that Â§â1004.13(e)(2) was not meant to limit coordination of implementation of DOE's CEII authority with only DOE Offices, PMAs, and the Energy Information Administration (EIA). It was meant to include all CEII Coordinator designees. Therefore, the Department amends Â§â1004.13(e)(2) to remove specific mention of the four PMAs and EIA.</P>
+                <P>The Department clarifies that a submitter requesting information be designated as CEII must clearly label the cover page and pages or portions of the information for which CEII treatment is requested in bold, capital lettering, indicating that it contains CEII, as appropriate, and marked âCEII-CRITICAL ELECTRIC INFRASTRUCTURE INFORMATIONâDO NOT RELEASE.â The additional marking of spelling out CEII is meant to eliminate any confusion related to the use of the new FOIA exemption in DOE. Therefore, the Department amends Â§â1004.13(e)(2)(i) to include the updated marking of CEII as âCEII-CRITICAL ELECTRIC INFRASTRUCTURE INFORMATIONâDO NOT RELEASEâ</P>
+                <P>
+                    The Department clarifies that, based on the addition of the definition of âconfidential business information,â when any person or entity requests CEII designation of submitted material, the submitter must also clearly label the cover page and pages or portions of information that it considers Confidential Business Information in bold, capital lettering, indicating that it contains Confidential Business 
+                    <PRTPAGE P="14760"/>
+                    Information, as appropriate, and marked âCONFIDENTIAL BUSINESS INFORMATIONâDO NOT RELEASE.â In addition, if CEII and CBI are 
+                    <E T="03">both</E>
+                     included in the submission, the information should be marked âCEII-CRITICAL ELECTRIC INFRASTRUCTURE INFORMATION and CONFIDENTIAL BUSINESS INFORMATIONâDO NOT RELEASE.â The Department therefore revises Â§â1004.13(e)(2) to add a new paragraph (ii) to include this additional requirement.
+                </P>
+                <P>
+                    EEI supports the procedures that require the CEII Coordinator or the Coordinator's designee to notify CEII submitters of a non-federal entity request for CEII and to convene a conference call with the affected DOE Office(s) and the CEII submitter(s) to discuss any concerns with sharing the CEII. (EEI, No. 9, pp.11-12). However, EEI ârecommends that the Department provide additional guidance to CEII submitters on what to expect from the CEII Coordinator or his/her designees when convening a conference call to discuss a non-federal entity request for CEII release.â 
+                    <E T="03">Id.</E>
+                     at 12. In particular, EEI requests clarity on whether a âconference call will be scheduled within five days of the request or within five days of when the submitter is notified of the request, and if the submitter will receive the Â§â1004.13(k) request before the conference call is convened.â 
+                    <E T="03">Id.</E>
+                     In addition, EEI supports the Department's proposed coordination with other Federal agencies but recommends that, âin addition to coordination with FERC, coordination with [DHS] under its Protected Critical Infrastructure Information (`PCII') and other information protection authorities and the Nuclear Regulatory Commission (`NRC') are criticalâ because each agency has different procedures related to CEII, and discussions identifying best practices related to voluntary information sharing and protection of the information âwill be key to protecting the nation's critical electric infrastructure.â (EEI, No. 9, pp.12-13).
+                </P>
+                <P>DOE clarifies and amends proposed Â§â1004.13(e)(1)(vii) to state that a conference call will be scheduled within five days of when the CEII submitter is notified of the request, and the submitter will receive a copy of the request before the conference call is convened.</P>
+                <P>The Department agrees with EEI's recommendation that close coordination between all relevant Federal agencies is critical to ensuring protection of the nation's critical electric infrastructure. Therefore, the Department has amended Â§â1004.13(e)(4) to specifically include DHS and the Nuclear Regulatory Commission.</P>
+                <HD SOURCE="HD2">G. CEII FOIA Exemption</HD>
+                <P>The language from Â§â1004.13(f)(6)(ii) of the proposed rule (renumbered as Â§â1004.13(g)(7)(ii)) is moved to new Â§â1004.13(f) and a reference is made to new Â§â1004.13(f) in the renumbered Â§â1004.13(g)(7)(ii). This only moves to a new subsection the content of FPA section 215A(d)(1)(B), stating that all information designated CEII is exempt from disclosure under the FOIA exemption codified at 5 U.S.C. 552(b)(3) and other laws requiring the disclosure of certain information or records, whether at the Federal, State, political subdivision, or tribal level of government.</P>
+                <P>EEI noted that the proposed regulations do not contain a paragraph (g) and the Department should review and edit the number of all paragraphs and references as appropriate before finalizing the rule. (EEI, No. 9, p. 18).</P>
+                <P>DOE appreciates EEI raising the clerical error. The Department has added paragraph (f) to fix the clerical error and codify the requirements of FPA section 215A(d)(1)(B) in this new section.</P>
+                <HD SOURCE="HD2">H. Procedures for Designating CEII</HD>
+                <P>Proposed Â§â1004.13(g) sets forth the procedures the Department would follow to designate CEII. The subsection covers requesting designation for information submitted to or generated by DOE, how DOE would treat submitted information and apply FERC's CEII designation criteria, how DOE would treat information once it has decided whether to designate the information as CEII, and how DOE would protect designated CEII. In particular, proposed Â§â1004.13(g)(3)(ii) stated that â[i]nformation for which CEII treatment is requested will be maintained by the CEII Coordinator or Coordinator's designee in DOE's files as non-public unless and until DOE completes its determination that the information is not entitled to CEII treatment.â To ensure that submitters of CEII are kept informed of the decision to be made, the Department has added the requirement to Â§â1004.13(g)(6)(i) that the designation decision be communicated âpromptly.â</P>
+                <P>CEA shared its concern about the consequences of a submitter's inability to produce a public version of a document containing CEII. To alleviate that concern, CEA asked the Department to âclarify accommodations or outcomes if a submitter is unable to produce a public version of CEII.â (CEA, No. 12, p. 4).</P>
+                <P>In response to CEA's comment, the Department clarifies that if a submitter cannot produce a public version of a document with CEII, then the Department will provide a public version in response to a valid FOIA request with the CEII or other FOIA-exempt material redacted. The Department prefers, however, that a submitter provide public and non-public versions of documents containing CEII. Before the FAST Act amendments to the FPA, filers at FERC would routinely submit two versions of documents in this way. DOE encourages, but does not require, the same approach. The Department also suggests that CEII material be consolidated, to the extent possible, within a document rather than scattered throughout a document.</P>
+                <P>The comments of the American Public Power Association (APPA), the Large Public Power Council (LPPC), and the (National Rural Electric Cooperative Association (NRECA) (collectively, Joint Trade Associations) recommend that âthe Department specify . . . that material maintained `in DOE's files as non-public' during the pendency of a request for CEII designation will be treated and handled in all respects as if it were CEII, as appears to be the Department's intent. [I]n particular, that treatment of electronic information as non-public will include `stor[age] in a secure electronic environment' with appropriate labeling, as the NOPR proposes for CEII.â (Joint Trade Associations, No. 15, pp. 9-10).</P>
+                <P>DOE believes that such a clarification is not necessary. The proposed regulation already states that â[w]hen a requester seeks information for which CEII status has been requested but not designated . . . DOE will render a decision on designation before responding to the requester or releasing such information. Subsequently, the release of information will be treated in accordance with the procedures established for CEII-designated material, or the return of information not designated as CEII.â Therefore, it is sufficiently clear that the Department will treat non-designated, CEII-marked information as if it were already designated CEII, until a designation has been conferred on the information. However, to prevent confusion, the Department amends Â§â1004.13(g)(7)(iii) to state that âsecure placeâ refers to locked room or file cabinet.</P>
+                <P>
+                    EEI recommends that that the Department address how to mark information that cannot be physically labeled such as machine-to-machine information that may be shared with the Department because several DOE Power 
+                    <PRTPAGE P="14761"/>
+                    Marketing Administrations regularly receive machine-to-machine, electronic information from electric companies. (EEI, No. 9, p. 10).
+                </P>
+                <P>In response to EEI's recommendation, DOE amends Â§â1004.13(g)(7) to require the marking of electronic information with the words âCEII-CRITICAL ELECTRIC INFRASTRUCTURE INFORMATIONâDO NOT RELEASEâ in the electronic file name or transmitted under a Non-Disclosure Agreement (NDA) or other agreements or arrangements, such as those identified in Â§â1004.13(j)(3), to an electronic system where such information is stored in a secure electronic environment that identifies the stored information as CEII. The Department agrees that the PMAs receive a significant amount of CEII, including real-time, streaming information. The Department understands that it may not be practical or possible to physically mark each electronic file or each bit of real-time, streaming data submitted to the PMAs. The Department will consider the information marked as long as it is shared with the PMAs under appropriate protections, transmitted through secure protocols, and stored in secure electronic environments that identify information as CEII. For instance, an entity sharing real-time operating information under the North American Electric Reliability Corporation's Operating Reliability Data Confidential Agreement with PMAs does not need to mark the data, provided that the entity supplying the data communicates to the PMAs that such real-time data is being provided under the agreement and the entity providing the data requests CEII designation. The PMAs will store such data in secure electronic environments identifying information as CEII. The Department notes that the DOE CEII Coordinator or Coordinator's designee still needs to review and evaluate such information and make a CEII determination. The marking of information as CEII does not guarantee that such information will be designated as CEII.</P>
+                <P>EEI encourages the Department to clarify the marking requirements for submitting pre-designated and machine-to-machine information as CEII. In particular, EEI supports the pre-designation of information âabout [Defense Critical Electric Infrastructure (DCEI)] on incidents and emergencies reported through the Department's Form OE-417, and Federal spectrum information managed by the National Telecommunications and Information Administration (âNTIAâ) . . . however, it is unclear whether the proposed procedures require submitters of this pre-designated information to follow the submission process outlined in Â§â1004.13(f)(1)(i) through (iv).â (EEI, No. 9, p. 9).</P>
+                <P>
+                    The Joint Trade Associations urge DOE to âpre-designateâ all information as CEII for which a CEII designation is requested. (Joint Trade Associations, No. 15, p. 6). Joint Trade Associations argues that âDefense Critical Infrastructure Information, Form OE-417 submissions, and Federal spectrum information is likely to reflect CEII, and it is appropriate to immediately extend a blanket of protection over these submissions.â 
+                    <E T="03">Id.</E>
+                     This approach would not preclude the case where âindividualized designation determination would still be made on all information for which CEII treatment is requested, which would protect against over-designation of material that does not qualify as CEII.â 
+                    <E T="03">Id.</E>
+                     at 8. Further, the Joint Trade Associations argue âif the Department does not adopt pre-designation for all materials . . . DOE should specify that a public power utility that receives a state public records request for information that has been submitted to DOE with request for CEII designation will have the opportunity to consult with the DOE CEII Coordinator and receive an expedited determination as to whether the submitted information is CEII under DOE's regulations.â 
+                    <E T="03">Id.</E>
+                     at 11.
+                </P>
+                <P>
+                    EarthJustice 
+                    <E T="03">et al.</E>
+                     also raised concerns with the Department's suggested blanket CEII designation of information related to DCEI. The comment doubted that all information related to DCEI would meet the CEII criteria. 
+                    <E T="03">See id.</E>
+                     The comment characterized the automatic DCEI designation as a âsweeping restriction on public access to information that would not lead to disclosure of CEII,â in violation of the FAST Act, âand the Department's failure to provide reasonable justification for this element of the proposal also violates the [Administrative Procedure Act].â 
+                    <E T="03">Id.</E>
+                     at 9.
+                </P>
+                <P>
+                    S&amp;P Global Market Intelligence and E&amp;E News oppose what they describe as the Department's intent to automatically designate the content of submitted Form OE-417 (or successor), including Schedule 2 (the narrative description), as CEII. (S&amp;P Global Market Intelligence, No. 6, p. 1; E&amp;E News, No. 8, at p.1). S&amp;P Global Market Intelligence raised the following three points opposing the Department's proposal. First, the Department did not explain why it must distinguish between OE-417 Schedule 1 (information that is ânot confidentialâ) and Schedule 2 (information that âDOE proposes `will be protected' upon CEII designation requestâ). (S&amp;P Global Market Intelligence, No. 6, p. 1). Second, an automatic exemption would be at odds with FERC's requirement of adequate justification for a CEII designation. Finally, the Department in 2014 proposed to revoke public access to Form OE-417 Schedule 2 under the Confidential Information Protection and Statistical Efficiency Act of 2002, but never did, based on feedback. 
+                    <E T="03">Id.</E>
+                     at 2.
+                </P>
+                <P>
+                    E&amp;E News also opposed the Department's proposal. First, automatically exempting any portion of the Form OE-417 from applicable FOIA laws without proper justification would be in conflict with FERC, which requires adequate justification. (E&amp;E News, No. 8, at p.1). Second, E&amp;E News argues that â[i]n years of processing OE-417 information and releasing accompanying data, in whole or in part, under FOIA, DOE has not demonstrated that the public release of properly-redacted Schedule 1 or 2 information ever threatened to impair the security of critical infrastructure . . . Section 2 is where the clarifying details are often provided in the form, without which the public could get a distorted picture of the exact scope of the concern, issue or threat.â 
+                    <E T="03">Id.</E>
+                     at 2. Finally, E&amp;E News argues that in 2014 DOE proposed to revoke public access to Schedule 2 under the Confidential Information Protection and Statistical Efficiency Act of 2002. But based on feedback received, DOE did not proceed with the proposal. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    Electric Reliability Council of Texas, Inc. (ERCOT) pointed out that the language in the proposed rule is in conflict with respect to schedule 2 of Form OE-417. In Â§â1004.13(g)(3) âDOE intends to `automatically' classify information submitted on schedule 2 of Form OE-417 as CEII upon submission of a request for CEII treatment of that information . . . However, the proposed definition of CEII [in Â§â1004.13(c)(3)] indicates that information submitted on Form OE-417 will be confidential only if it meets the definition of CEII.â (ERCOT, No. 14, p. 2). ERCOT recommends âDOE revise the rule to treat all information submitted on schedule 2 of Form OE-417 as CEII without requiring a further showing of CEII status or even requiring a request for CEII treatment. Otherwise, ERCOT would suggest that the DOE remove the mention of OE-417 from the definition of CEII to avoid confusion.â 
+                    <E T="03">Id.</E>
+                     at 2-3.
+                </P>
+                <P>
+                    In response to the comments above, the Department clarifies that the intent of the Department is not to designate categories of information as CEII through this rulemaking. The 
+                    <PRTPAGE P="14762"/>
+                    Department will therefore remove all references to âpre-designationâ in the Final Rule. All information submitted will be reviewed and evaluated and then, if appropriate, designated as CEII by the CEII Coordinator or his/her designee. The Department will modify the definition of CEII to remove the categories Defense Critical Electric Infrastructure; information on electric incidents and emergencies reported to DOE through the Electric Emergency Incident and Disturbance Report (Form OE-417); and/or Federal spectrum information managed by the National Telecommunications and Information Administration (NTIA). DOE notes that whether the information meets one or more of these categories will still be considered in the Department's determination of whether information is CEII. DOE will also render a decision as to whether information is CEII before sharing the information with other Federal or non-federal entities or releasing that information in response to a FOIA request. As a result, there is no practical change in the protection of information for which a CEII designation is requested between the NOPR and this final rule. The Department intends that this practice will facilitate the energy sector's sharing of CEII with DOE and, in requesting information to support its policy initiatives and priorities, it may request CEII-designated information. If information requested by the Department is determined to meet the CEII designation criteria, the Department will designate such information as CEII upon receipt by the Department.
+                </P>
+                <P>
+                    EarthJustice 
+                    <E T="03">et al.</E>
+                     commented on the Department's âpre-designationâ of material as CEII, as well as its âinterimâ treatment of CEII. The comment stated that the proposed rule would allow such information âto be withheld indefinitely without opportunity for judicial review.â (EarthJustice 
+                    <E T="03">et al.,</E>
+                     No. 3, p. 3). Further, the comment stressed that the Department âfails to explain its need to provide indefinite, interim treatment of information as CEII based solely on the assertion of the information provider.â 
+                    <E T="03">Id.</E>
+                     at 10.
+                </P>
+                <P>As discussed above, the Department will not be pre-designating categories of information as CEII through this rulemaking, and CEII designation will hinge on a rigorous review and application of the criteria defining such information. Notwithstanding that approach, information submitted with a CEII designation request will not be shared with the public except in response to a valid FOIA request, and only then if the information is determined not to be CEII, not to fall under any other FOIA exemption, and applicable administrative and judicial remedies have been exhausted pursuant to paragraph 1004.13(i) of the regulations. To clarify, if the information is sought via FOIA, the Department will review and consider whether the information is eligible for official CEII designation. In any event, a submitter will still need to follow all of the submission process outlined in Â§â1004.13(g)(1)(i) through (iv), and the information will not be designated as CEII until the CEII Coordinator or his/her designee makes a determination.</P>
+                <P>
+                    EarthJustice 
+                    <E T="03">et al.,</E>
+                     discussing a related concern, cautioned that pre-designation and interim treatment would hamstring judicial review of CEII determinations. The comments stressed that the amendments to the FPA demonstrate âclear legislative intent to afford protections against arbitrary CEII designations and ensure public access where appropriate.â 
+                    <E T="03">Id.</E>
+                     at 4. More specifically, EarthJustice 
+                    <E T="03">et al.</E>
+                     were concerned that â[b]ecause neither pre-designation nor interim CEII status appears to trigger an opportunity for a person to request reconsideration of that treatment, which would be a prerequisite to judicial review, DOE's proposed rules effectively and inappropriately nullify this section of law.â 
+                    <E T="03">Id.</E>
+                </P>
+                <P>As discussed above, DOE will not be pre-designating categories of information as CEII in this rulemaking. If a FOIA request is received for material claimed to be CEII but not yet designated as such, the request will result in a decision by DOE whether the information is CEII. If the submitter pursues DOE's decision through the reconsideration stage described at Â§â1004.13(i), that decision would then be subject to judicial review.</P>
+                <P>
+                    Finally, EarthJustice 
+                    <E T="03">et al.</E>
+                     pointed out that the Department's promise to return or destroy material not designated CEII would violate the Federal Records Act. Specifically, they said that â[t]he proposal suggests that records could be requested under FOIA, triggering a determination that a CEII designation is unwarranted, and then the records could be returned or destroyed prior to the resolution of the FOIA request[, which] would be patently unlawful.â (EarthJustice 
+                    <E T="03">et al.,</E>
+                     No. 3, p. 6). The comment warned that information âcould be labeled CEII, however unjustifiably, for the purpose of ensuring that such information is returned or destroyed when a CEII designation is denied, regardless of the information's content or how the Department utilized it.â 
+                    <E T="03">Id.</E>
+                     at 8.
+                </P>
+                <P>The Department agrees that destruction of submitted material examined for CEII designation may be contrary to the Federal Records Act. The Department therefore revises Â§â1004.13(g)(6)(iii) to emphasize that it will in all instances comply with the Federal Records Act.</P>
+                <HD SOURCE="HD2">I. Duration of Designation</HD>
+                <P>Section 1004.13(h) outlines procedures governing the duration of CEII designation, to include re-applications for CEII designation, expiration of designation, removal of designation, and treatment and return of information no longer designated as CEII.</P>
+                <P>
+                    EEI, joined by Southern California Edison (SoCal Edison), expressed concern that the proposed rule would not ease the regulatory burden on submitters of information claimed as CEII. Their comments warned, for instance, that â[d]uplicative tracking [of CEII expiration dates] could quickly become onerous and overwhelming for submitters who may also have to track information they have shared with other Federal entities.â (EEI, No. 9, pp. 15-16). They suggested âthat the Department notify the CEII submitter and automatically initiate the re-designation process before the CEII designation period expires.â 
+                    <E T="03">Id.</E>
+                     at 16. They also recommended a âdefault actionâ of returning or destroying non-CEII and âallowing at least ten days for submitters to comment in writing prior to the removal of CEII designations.â 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    The Joint Trade Associations described similar concerns. Specifically, their comments expressed unease âthat the need for CEII submitters to track designation durations and dates of expiration for potentially numerous CEII submissions over multiple years could be a record-keeping challenge and a potential trap for the unwary that could put CEII designations at risk of inadvertent expiration.â (Joint Trade Associations, No. 15, pp. 11-12). They recommended ârevis[ing] the proposed regulations to specify that, like FERC, DOE will continue to treat CEII as non-public even after a designation has lapsed due to the passage of time,â and that âsubmitters of CEII for which a designation has lapsed would receive notice of any requests for such information (by either a Federal or non-federal entity) and an opportunity to assert that DOE should re-designate the information as CEII.â 
+                    <E T="03">Id.</E>
+                     at 12.
+                </P>
+                <P>
+                    The Department agrees with the comments that the Department could automatically initiate the re-designation process before the CEII designation period expires. Therefore, the 
+                    <PRTPAGE P="14763"/>
+                    Department clarifies there are two methods for initiation of the re-designation process. The Department may automatically initiate the re-designation process or the CEII submitter may request re-designation. Thus, the Department revises Â§â1004.13(h)(1) to add a subparagraph (iii) to make clear that the Department can also automatically initiate the re-designation process at any time during the duration of the designation.
+                </P>
+                <P>Furthermore, the Department clarifies that information whose CEII designation has lapsed will not be immediately disclosed to the public. The information would only be disclosed following a review and determination as to whether CEII or other FOIA exemptions are applicable. Should the Department receive a FOIA request for the information, and determine that the information would be responsive to the FOIA request, the submitter or the Department will have an opportunity to contend that the information should be re-designated CEII prior to release. Regardless of the Department's re-designation decision, the aggrieved party could seek reconsideration, after which judicial review would be available if desired.</P>
+                <P>Finally, the Department cannot return or destroy non-CEII in violation of the Federal Records Act or other applicable laws. The Department therefore declines to institute the default action as the commenters recommended. Instead, the Department will return or destroy non-CEII consistent with applicable law and will make that evaluation on a case-by-case basis.</P>
+                <HD SOURCE="HD2">J. Review or Requests for Reconsideration of Designation</HD>
+                <P>Proposed Â§â1004.13(i) describes how a submitter may request reconsideration of a decision not to designate CEII, not to release CEII in response to a request for release, or not to maintain an existing CEII designation, and discusses eligibility for judicial review. The subsection also notes that, with several exceptions, a reconsideration request triggers a stay of the underlying decision. The Department would like to clarify that all submitters of information proposed for CEII designation may request reconsideration of a DOE decision not to designate that information as CEII. A request for reconsideration can be made through a secure electronic submission or by mail according to the instructions at 10 CFR 205.12. The Department therefore revises Â§â1004.13(i) to allow for secure electronic submission or by mail according to the instructions at 10 CFR 205.12.</P>
+                <P>
+                    EarthJustice 
+                    <E T="03">et al.</E>
+                     stated that the Department does not provide due process to challengers of its decisions. The comment accuses the Department's proposed rule of being âlittle more than an attempt to hide the Department's decision-making process from public scrutiny and obfuscate judicial challenges to the Department's authority.â (EarthJustice 
+                    <E T="03">et al.,</E>
+                     No. 3, p. 14). Further, the comment points out that, in contrast to FERC, â[t]he proposed rules notably do not provide any means for parties to Department proceedings to obtain timely access to information that is designated as CEII or preliminarily treated as CEII, and which therefore cannot be accessed by the public.â 
+                    <E T="03">Id.</E>
+                     at 13. The comment stresses that â[d]enying access to information that forms the basis of Department decision-making to parties affected by those decisions is inconsistent with due process.â 
+                    <E T="03">Id.</E>
+                </P>
+                <P>In response, the Department emphasizes that the CEII designation procedure is an exercise in balancing a requester's need for information against the Nation's interest in national security. When information does not meet the CEII standard, the Department may disclose it if the Department receives a request under FOIA and the information is not otherwise protected from disclosure. When the Department finds that information qualifies as CEII, the Department will withhold it if the Department receives a FOIA request. Those aggrieved by such decisions have a number of avenues to seek relief, as specified in the rule and in DOE's FOIA regulations.</P>
+                <HD SOURCE="HD2">K. Sharing of CEII</HD>
+                <P>As indicated in proposed Â§â1004.13(j), DOE may share CEII as necessary to carry out its specific jurisdictional duties pursuant to section 215A of the FPA and as the lead Sector-Specific Agency for cybersecurity for the energy sector under section 61003(c)(2)(A) of the FAST Act, and the Sector-Specific Agency for Energy (Critical Infrastructure) under Presidential Policy Directive 21, âCritical Infrastructure Security and Resilienceâ (Feb. 12, 2013). Those submitting CEII would have DOE's assurance that the information will be protected from unauthorized disclosure. The Department would follow standardized procedures when sharing CEII with Federal and non-federal entities to ensure the protection of CEII. Non-federal entities would be required to enter into a NDA with the Department, meeting the standards outlined in the proposed rule, prior to receiving CEII from DOE. When a non-federal entity requests such information, the DOE CEII coordinator would notify the submitter of the CEII and the appropriate DOE Office(s), to facilitate coordination and allow the submitter to raise concerns related to a requesting entity. The DOE CEII coordinator would, in consultation with the appropriate DOE Office(s), make a final determination on whether to release any CEII-designated material in response to such a request.</P>
+                <P>As mentioned above, DOE recognizes the importance of coordination among Federal entities with similar programs, therefore DOE revises Â§â1004.13(j)(1) to allow for CEII to be shared with other Federal entities without such entities being subject to the procedures set forth in Â§â1004.13(k). Instead, DOE will evaluate requests by Federal entities for CEII on a case-by-case, fact-specific basis, and may request information from the Federal entity explaining the specific jurisdictional responsibility, and the entity program charged with implementing that responsibility, to be fulfilled by obtaining the CEII. This approach allows DOE to continue its goal of appropriate sharing of CEII within the Federal Government. It also ensures that Federal entities will have access to CEII to carry out jurisdictional responsibilities.</P>
+                <P>
+                    ERCOT urges DOE to reconsider its approach to share CEII with non-federal Entities and instead â[f]or CEII that DOE obtains from external sources, those who can demonstrate a legitimate need for that information should be able to obtain the information directly from the source of that CEII . . .â (ERCOT, No. 14, p. 1). PJM Interconnection LLC (PJM) notes that it âhas its own procedures under which requestors may submit requests and obtain CEII directly from PJM . . . PJM is concerned that as written, the proposed DOE rule potentially allows for requesters to circumvent the more rigorous CEII processes of the RTOs by simply going directly to the DOE for the requested information.â (PJM, No. 13, p. 5). PJM recommends DOE revise its proposed regulations âto require a requestor to first seek the information from the submitter of the CEII . . . Ultimately, if a requester is denied access to CEII from the submitter of the information, the requester could still seek the CEII from the Departmentâ (
+                    <E T="03">Id.</E>
+                     at pp. 5-6). The Joint Trade Associations recommend that âDOE reconsider its proposal to allow sharing of CEII that was not generated by DOE over the objection of the submitting entity in cases where information was 
+                    <E T="03">voluntarily</E>
+                     provided to DOE by the submitter.â (Joint Trade Associations, No. 15, p. 15).
+                    <PRTPAGE P="14764"/>
+                </P>
+                <P>DOE declines to revise its procedures as requested in the comments above. Once the CEII is in the Department's possession, it is the Department's obligation to determine whether to share the information. However, the Department clarifies that it will balance the need for and intended use of the information in the interest of national security against any concerns the CEII submitter has regarding the release of the information. The Department therefore revises Â§â1004.13(j)(2) to emphasize that a request shall not be entertained unless the requesting non-federal entity can demonstrate that the release of information is in the national security interest. In addition, based on other comments set forth below in Section L, DOE is adopting the criteria set forth in the FERC regulations in Â§â1004.13(k) for the detailed statement that is required by a requestor of CEII. These criteria provide more specificity with regard to the proposed Â§â1104.13(k)(2) as to what DOE will expect in the explanation of need provided with a request for CEII.</P>
+                <P>
+                    EEI encourages the Department to clarify and align its procedures for sharing with Federal and non-federal entities. In particular, EEI recommends âthat in Â§â1004.13(j)(1) the Department explicitly require Federal Entities with which the Department shares CEII to protect the CEII from access or disclosure by individuals or organizations that have not been authorized by the Department and limit their use of the CEII.â (EEI, No. 9, p. 19). EEI argues that only requiring minimum protections for CEII shared with non-federal entities creates a disclosure risk for submitters if DOE shares the information with Federal entities. 
+                    <E T="03">Id.</E>
+                     EEI does acknowledge that the Department's procedures allow the Department to impose restrictions on the use and security of the information but without explicitly requiring minimum protections there is a risk that the information could be disclosed inadvertently, knowingly, or willfully to unauthorized individuals or organizations by other Federal entities. 
+                    <E T="03">Id.</E>
+                     EEI encourages the Department to also consider clarifying that the CEII it shares with Federal entities be maintained in accordance with the Department's CEII procedures. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>The Department clarifies that a Federal agency in receipt of CEII from the Department must protect that information in the same manner as the Department. That agency will be required to execute an appropriate Agency Acknowledgment and Agreement. The Department has revised Â§â1004.13(j)(1) to require an authorized agency employee to sign an acknowledgement and agreement that states the agency will protect the CEII in the same manner as the Department and will refer any requests for the information to the Department. Notice of each such request must also be given to the CEII Coordinator, who shall track this information.</P>
+                <P>
+                    PJM points out that â[i]t is unclear from the proposed rule whether the Department intends for the contemplated CEII NDA to apply to each individual request . . . or whether the Department intends for the requester to enter into the CEII NDA once, with such CEII NDA applying to all requests made by the requester for a certain period of time.â (PJM, No. 13, p. 6). PJM recommends âDOE's CEII NDAs to be specific to the requested information, be specific to the named individuals, and subset on their own terms, absent specific requests for renewal after twelve (12) months. Incorporating these parameters into the Department's procedures would avoid the perpetuation of stale NDAs not tied to specific data or signed by individuals no longer employed by the particular entity under which the request was made to the DOE.â 
+                    <E T="03">Id</E>
+                     at 6-7.
+                </P>
+                <P>The Department revises Â§â1004.13(j)(2) to clarify that a requester that has entered into a CEII NDA with the Department is not required to file another NDA with subsequent requests during the calendar year because the original NDA must state that the agreement applies to all subsequent releases of CEII during that calendar year. However, the Department does not believe it is necessary to have an NDA be specific to the individual CEII information requested because all CEII will be maintained and protected in the same manner regardless of source or type of information.</P>
+                <P>
+                    The Joint Trade Associations and the Transmission Access Policy Study Group (TAPS) recommend revising the CEII NDA to include specific reference to the public disclosure law exemption. Both parties contend that including the text of the exemption in the NDA would ensure awareness of the limitation among stakeholders. (Joint Trade Associations, No. 15, p. 10; TAPS, No. 7, p. 3). Further, the Joint Trade Associations pointed out that FERC agreed with this recommendation and referenced the provision in section 215A(d)(1) in its CEII NDA. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>DOE agrees that the CEII NDA should reference the provision in section 215A(d)(1) that CEII is exempt from disclosure under Federal, State, political subdivision, or tribal law requiring public disclosure. Accordingly Â§â1004.13(j)(2) has been revised to include this additional requirement.</P>
+                <P>
+                    EEI encourages âthe Department to share the minimum-level NDA with stakeholders for notice and comment to enable input from potential submitters and requesters on what can and should be agreed upon in the minimum-level NDAs.â (EEI, No. 9, p. 21). EEI goes on to state that although it does not oppose the development of protocols for sharing CEII with Canadian and Mexican authorities it recommends that the Department allow for notice and comment by stakeholders. 
+                    <E T="03">Id.</E>
+                     at 21-22.
+                </P>
+                <P>Section 1004.13(j)(2) already includes minimum requirements for an NDA and is not intended to be exhaustive or preclude other requirements. Under certain circumstances, DOE may add additional provisions to the NDA and submitters may request that additional provisions be added to the NDA.</P>
+                <P>DOE appreciates EEI's concerns about protocols for sharing CEII with Canadian and Mexican authorities. DOE believes stakeholder notice and comment for the development of the protocols is not necessary. DOE clarifies here that a series of bilateral agreements govern and inform its work with Canadian and Mexican Authorities. As the U.S. power grid is integrated with jurisdictions in both Canada and Mexico, DOE fully intends to work closely with Canadian and Mexican authorities. Our three nations have a shared interest in the optimal functionality of our integrated power grid, and DOE will therefore develop sharing protocols that will ensure consistent treatment of information and data.</P>
+                <P>
+                    Section 1004.13(j)(3) was based on section 215A(d)(2)(D) of the FPA. Since the promulgation of Â§â215A, the Presidential Decision Directive 63, âCritical Infrastructure Protectionâ (May 22, 1998) referenced in section 215A(d)(2)(D) was superseded by Homeland Security Presidential Directive/HSPD-7, âCritical Infrastructure, Identification, Prioritization, and Protectionâ (Dec. 17, 2003), which has since been revoked by Presidential Policy Directive 21, âCritical Infrastructure Security and Resilienceâ (Feb. 12, 2013) (PPD-21). Therefore, DOE includes reference to information sharing and analysis organization (ISAO) defined at 6 U.S.C. 671(5), which defines ISAO as âany formal or informal entity or collaboration created or employed by public or private sector organizations for purposes of gathering and analyzing . . . communicating or disclosing . . . and voluntarily disseminating critical infrastructure information, including 
+                    <PRTPAGE P="14765"/>
+                    cybersecurity risks and incidents.â ISAO includes information sharing and analysis centers. 
+                    <E T="03">See, e.g.,</E>
+                     6 U.S.C. 659(d)(1)(B)(ii).
+                </P>
+                <HD SOURCE="HD2">L. Procedures for Requesting CEII</HD>
+                <P>Proposed Â§â1004.13(k) delineates procedures for requesting CEII designation and sharing CEII-designated materials. A request must include contact information, an explanation of the need for and intended use of the CEII, and a signed Non-Disclosure Acknowledgment or Agreement, as applicable.</P>
+                <P>
+                    DOE received several comments requesting additional details concerning the criteria and procedures that DOE will apply in responding to requests for release of CEII. For example, EEI recommends that DOE âconsider clarifying that it will review the legitimacy of received requests and their associated requestors in making its sharing determination.â (EEI, No. 9, p. 15). MISO stated that âDOE should specify criteria for the review of requestors and requests, and consistently abide by those criteria throughout the DOE Offices when making decisions about sharing CEII.â (MISO, No. 11, p. 4). PJM noted that âthe Department should deny a non-federal entity request that merely provides a broad need statement, such as general explanations of the business or profession of the requester or generalized statements that the requester intends to use the CEII in the normal course of the requestor's business or profession.â (PJM, No. 13, p. 3). PJM recommended âthe requestor should be required to detail 
+                    <E T="03">with specificity</E>
+                     its need to know the requested information and why a request to DOE for release of CEII is the sole means for it to accomplish the purpose outlined in its request.â 
+                    <E T="03">Id.</E>
+                     at 4. The Joint Trade Associations recommended that âDOE should specify that any entity requesting CEII will be required to make a particularized showing of how its receipt of CEII will accomplish the stated need for the information.â (Joint Trade Associations, No. 15, p. 16). The Sustainable FERC Project and Natural Resources Defense Council recommend that âDOE adopt FERC's language so that there is consistency across agencies.â (The Sustainable FERC Project and Natural Resources Defense Council, No. 10, p. 3).
+                </P>
+                <P>In response to these comments, DOE is adopting the criteria set forth in the FERC regulations for the detailed statement that is required by a requestor of CEII. In Â§â1004.13(k), DOE shall consider requests for CEII on a case-by-case basis. In addition, the requestor must provide a detailed statement which includes: (1) The extent to which a particular function is dependent upon access to the information; (2) why the function cannot be achieved or performed without access to the information; (3) an explanation of whether other information is available to the requester that could facilitate the same objective; (4) how long the information will be needed; (5) whether or not the information is needed to participate in a specific proceeding (with that proceeding identified); and (6) an explanation of whether the information is needed expeditiously. As noted in section K, these criteria provide more specificity with regard to the proposed Â§â1104.13(k)(2) as to what DOE will expect in the explanation of need provided with a request for CEII.</P>
+                <HD SOURCE="HD2">M. Unauthorized Disclosure</HD>
+                <P>In the NOPR, DOE proposed Â§â1004.13(l), which sets out penalties and sanctions for unauthorized disclosure of CEII, emphasizing that statutory whistleblower protections still apply.</P>
+                <P>
+                    PJM encourages the Department to consider âspecifying disciplinary action for non-Department employees or contractors who knowingly or willfully disclose CEII in an unauthorized mannerâ such as prohibition of making future requests by the requester.â (PJM, No. 13, p. 7). Additionally, PJM recommended the Department âshould consider providing remedies to submitters for incidents of knowing or willful disclosure of CEII in an unauthorized manner.â 
+                    <E T="03">Id.</E>
+                </P>
+                <P>The Department notes that the FAST Act does not require the Department to develop sanctions for external recipients of CEII. However, in order to ensure non-federal entities understand the serious nature of a knowing or willful disclosure of CEII, DOE will amend its proposed regulations at Â§â1004.13(l)(2) to state that any action by a Federal or non-federal Entity who knowingly or willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact; makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry to obtain CEII may constitute a violation of other applicable laws and is potentially punishable by fine and imprisonment. DOE will actively pursue all available remedies, including through referrals to appropriate law enforcement entities.</P>
+                <P>The Department declines to adopt PJM's recommendation that it provide remedies to submitters for incidents of knowing or willful disclosure of CEII in an unauthorized manner. The Department is revising the regulations to specify that knowingly or willfully falsifying information to obtain CEII may constitute a violation of applicable laws and is potentially punishable by fine or imprisonment.</P>
+                <P>EEI (joined by SoCal Edison) and the Joint Trade Associations expressed concern that inadvertent disclosure of CEII could eliminate that material's status as CEII and lift its FOIA exemption. EEI stated that âit is unclear if an inadvertent disclosure will trigger the Department to remove the CEII designation,â and asked the Department to clarify âthe notification procedures for unauthorized CEII disclosures and CEII designation changes.â (EEI, No. 9, p. 13). The Joint Trade Associations asked the Department to âclarify that inadvertent disclosure of CEII by a submitting entity generally would not be a basis for reconsidering/removing a CEII designation.â (Joint Trade Associations, No. 15, p. 4).</P>
+                <P>The Department clarifies that inadvertent disclosure does not affect the disclosed material's CEII status. Such status is to be determined strictly according to the criteria FERC developed and promulgated in December 2016, as mandated by the FAST Act amendments to the FPA that created the CEII designation authority. Once a CEII designation is applied, the designation continues until it expires or is affirmatively removed.</P>
+                <P>
+                    Nonetheless, it is important to distinguish between inadvertent and deliberate disclosure. As stated in proposed Â§â1004.13(l)(1), the Department may remove a CEII designation â[i]f the submitter of information [designated CEII] disclosesâ that information. In response to the comment, the Department revises Â§â1004.13(l)(1) to emphasize that a CEII designation may be removed following 
+                    <E T="03">deliberate</E>
+                     disclosure, meaning disclosure that is not inadvertent and is sanctioned by the person with ultimate authority to determine whether and how the information is to be shared with the public.
+                </P>
+                <HD SOURCE="HD1">III. Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Executive Order 12866 and 13563</HD>
+                <P>
+                    This regulatory action has been determined to be a âsignificant regulatory actionâ under Executive Order 12866, âRegulatory Planning and Review.â 58 FR 51735 (Oct. 4, 1993). Accordingly, this action was subject to 
+                    <PRTPAGE P="14766"/>
+                    review under that Executive Order by the Office of Information and Regulatory Affairs of the Office of Management and Budget. DOE has also reviewed this regulation pursuant to Executive Order 13563, issued on January 18, 2011. 76 FR 3281 (Jan. 21, 2011). Executive Order 13563 is supplemental to and explicitly reaffirms the principles, structures, and definitions governing regulatory review established in Executive Order 12866. To the extent permitted by law, agencies are required by Executive Order 13563 to: (1) Propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs (recognizing that some benefits and costs are difficult to quantify); (2) tailor regulations to impose the least burden on society, consistent with obtaining regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations; (3) select, in choosing among alternative regulatory approaches, those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity); (4) to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt; and (5) identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public.
+                </P>
+                <HD SOURCE="HD2">B. Executive Orders 13771</HD>
+                <P>On January 30, 2017, the President issued Executive Order 13771, âReducing Regulation and Controlling Regulatory Costs.â 82 FR 9339 (Feb. 3, 2017). That Order stated the policy of the executive branch is to be prudent and financially responsible in the expenditure of funds, from both public and private sources. The Order stated it is essential to manage the costs associated with the governmental imposition of private expenditures required to comply with Federal regulations.</P>
+                <P>The development and implementation of the procedures, as laid out in section 215A(d) of the FPA, are designed to protect the security and reliability of the nation's bulk-power system, distribution facilities, and other forms of energy infrastructure. The procedures relate solely to marking information that would facilitate voluntary sharing of CEII among DOE and other appropriate Federal, state, or local entities to address emergencies, accidents, or intentional destructive acts affecting the production, transmission, and delivery of energy resources. There is no new reporting requirement and no new program created as a result of the proposed procedures. This information will be stored on currently existing DOE systems.</P>
+                <P>This final rule is not subject to the requirements of E.O. 13771 (82 FR 9339, February 3, 2017) because this final rule is related to agency organization, management or personnel. Specifically, the rule provides for marking of information submitted to DOE as CEII so that DOE can protect CEII as necessary and appropriate.</P>
+                <HD SOURCE="HD2">C. National Environmental Policy Act</HD>
+                <P>DOE has concluded that promulgation of this rule is covered under the Categorical Exclusion found in DOE's National Environmental Policy Act regulations at paragraph A6 of appendix A to subpart D, 10 CFR part 1021, which applies to rulemakings that are strictly procedural, such as rulemaking (under 48 CFR part 9) establishing procedures for technical and pricing proposals and establishing contract clauses and contracting practices for the purchase of goods and services, and rulemaking (under 10 CFR part 600) establishing application and review procedures for, and administration, audit, and closeout of, grants and cooperative agreements. Accordingly, neither an environmental assessment nor an environmental impact statement is required.</P>
+                <HD SOURCE="HD2">D. Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by Executive Order 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990 (Feb. 19, 2003). DOE's procedures and policies are available on the Office of General Counsel's website: 
+                    <E T="03">https://energy.gov/gc/office-general-counsel.</E>
+                </P>
+                <P>DOE has reviewed this final rule under the provisions of the Regulatory Flexibility Act and the procedures and policies published on February 19, 2003. This final rule sets forth agency procedures for the designation, sharing, and protection of CEII, and applies to DOE employees, DOE contractors, agents of DOE, and individuals or organizations submitting a request for CEII designation or who have requested or been permitted access to CEII. The proposed procedures for marking incoming requests and/or submissions, which are expected to facilitate voluntary sharing of CEII among DOE and other appropriate Federal, state, or local entities to address emergencies, accidents, or intentional destructive acts to the production, transmission, and delivery of energy resources, are not expected to result in a significant impact to stakeholders. FERC's regulations already require entities requesting CEII designation to mark the subject information. DOE's procedures would provide consistency and would also help avoid unauthorized disclosure or release. DOE therefore expects that these procedures would not affect DOE's decision to designate submitted information as CEII, nor any decision to withhold or release information to requesters of energy infrastructure information under FOIA. On the basis of the foregoing, DOE certifies that this regulation will not have a significant economic impact on a substantial number of small entities. Accordingly, DOE has not prepared a regulatory flexibility analysis for this rulemaking. DOE's certification and supporting statement of factual basis was provided to the Chief Counsel for Advocacy of the Small Business Administration pursuant to 5 U.S.C. 605(b) and the Department did not receive any comments on the certification or the economic impacts of the rule.</P>
+                <HD SOURCE="HD2">E. Paperwork Reduction Act</HD>
+                <P>
+                    Pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    ) (PRA) and the procedures implementing that Act at 5 CFR part 1320 require the Office of Management and Budget to review and approve certain information collection requirements imposed by agency rule. This Final Rule does not impose any additional information collection requirements. Therefore, the information collection regulations do not apply to this Final Rule.
+                </P>
+                <HD SOURCE="HD2">F. Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    The Unfunded Mandates Reform Act of 1995 (Pub. L. 104-4) generally requires Federal agencies to examine closely the impacts of regulatory actions on State, local, and tribal governments. Section 101(5) of title I of that law defines a Federal intergovernmental mandate to include any regulation that 
+                    <PRTPAGE P="14767"/>
+                    would impose upon State, local, or tribal governments an enforceable duty, except a condition of Federal assistance or a duty arising from participating in a voluntary Federal program. Title II of that law requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and tribal governments, in the aggregate, or to the private sector, other than to the extent such actions merely incorporate requirements specifically set forth in a statute. Section 202 of that title requires a Federal agency to perform a detailed assessment of the anticipated costs and benefits of any rule that includes a Federal mandate that may result in costs to State, local, or tribal governments, or to the private sector, of $100 million or more in any one year (adjusted annually for inflation). 2 U.S.C. 1532(a) and (b). Section 204 of that title requires each agency that proposes a rule containing a significant Federal intergovernmental mandate to develop an effective process for obtaining meaningful and timely input from elected officers of State, local, and tribal governments. 2 U.S.C. 1534.
+                </P>
+                <P>This rule will not result in the expenditure by State, local, and tribal governments in the aggregate, or by the private sector, of $100 million or more in any one year. Accordingly, no assessment or analysis is required under the Unfunded Mandates Reform Act of 1995.</P>
+                <HD SOURCE="HD2">G. Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This rule will not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">H. Executive Order 13132</HD>
+                <P>Executive Order 13132, âFederalism,â 64 FR 43255 (Aug. 4, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that preempt State law or that have Federalism implications. Agencies are required to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and carefully assess the necessity for such actions. DOE has examined the rule and has determined that it will not preempt State law and will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. No further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">I. Executive Order 12988</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â 61 FR 4729 (Feb. 7, 1996), imposes on Executive agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; and (3) provide a clear legal standard for affected conduct rather than a general standard and promote simplification and burden reduction. Section 3(b)(2) of Executive Order 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the preemptive effect, if any, to be given to the regulation; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any, to be given to the regulation; (5) defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of the standards. DOE has completed the required review and determined that, to the extent permitted by law, the rule meets the relevant standards of Executive Order 12988.</P>
+                <HD SOURCE="HD2">J. Treasury and General Government Appropriations Act, 2001</HD>
+                <P>The Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB.</P>
+                <P>OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). DOE has reviewed this rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">K. Executive Order 13211</HD>
+                <P>Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to the OMB a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that (1) is a significant regulatory action under Executive Order 12866, or any successor order and is likely to have a significant adverse effect on the supply, distribution, or use of energy; or (2) is designated by the Administrator of the OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use. This regulatory action will not have a significant adverse effect on the supply, distribution, or use of energy because it is concerned primarily with the procedures for designating, protecting, and sharing information. As the FAST Act highlighted, protection of CEII will have a positive effect on the energy supply, and is therefore not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">L. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will submit to Congress a report regarding the issuance of this final rule prior to the effective date set forth at the outset of this rulemaking. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 801(2).</P>
+                <HD SOURCE="HD1">IV. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rulemaking.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 1004</HD>
+                    <P>Freedom of Information.</P>
+                </LSTSUB>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on February 28, 2020.</DATED>
+                    <NAME>Dan Brouillette,</NAME>
+                    <TITLE>Secretary of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons set out in the preamble, the DOE amends part 1004 of title 10, Code of Federal Regulations as set forth below:</P>
+                <PART>
+                    <PRTPAGE P="14768"/>
+                    <HD SOURCE="HED">PART 1004âFREEDOM OF INFORMATION ACT (FOIA)</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="1004">
+                    <AMDPAR>1. The authority citation for part 1004 is revised to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P>5 U.S.C. 552; 16 U.S.C. 824o-1.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="1004">
+                    <AMDPAR>2. Add Â§â1004.13 to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â1004.13 </SECTNO>
+                        <SUBJECT>Critical electric infrastructure information.</SUBJECT>
+                        <P>
+                            (a) 
+                            <E T="03">Filing Procedures and guidance.</E>
+                             Information regarding critical electric infrastructure information (CEII) filing procedures and further guidance for submitters and requesters is available on the website of the United States Department of Energy's Office of Electricity at 
+                            <E T="03">https://www.energy.gov/oe/office-electricity.</E>
+                        </P>
+                        <P>
+                            (b) 
+                            <E T="03">Purpose and scope.</E>
+                             This part sets forth the regulations of the Department of Energy (DOE) that implement section 215A(d) of the Federal Power Act (FPA), codified at 16 U.S.C. 824o-1(d). The regulations in this part set forth the DOE procedures for the designation, sharing, and protection of CEII. This section applies to anyone who provides CEII to DOE or who receives CEII from DOE, including DOE employees, DOE contractors, and agents of DOE or of other Federal agencies, as well as individuals or organizations providing CEII or submitting a request for CEII designation to DOE or who have requested or have been permitted access to CEII by DOE. 
+                        </P>
+                        <P>
+                            (c) 
+                            <E T="03">Definitions</E>
+                            â(1) 
+                            <E T="03">Bulk-Power System</E>
+                             means the facilities and control systems necessary for operating an interconnected electric energy transmission network (and any portion thereof), and electric energy from generation facilities needed to maintain transmission system reliability. The term does not include facilities used in the local distribution of electric energy.
+                        </P>
+                        <P>
+                            (2) 
+                            <E T="03">Confidential Business Information</E>
+                             means commercial or financial information that is both customarily and actually treated as private by its owner and that is provided to the government as part of a claimed CEII submission.
+                        </P>
+                        <P>
+                            (3) 
+                            <E T="03">Critical Electric Infrastructure</E>
+                             means a system or asset of the bulk-power system, whether physical or virtual, the incapacity or destruction of which would negatively affect national security, economic security, public health or safety, or any combination of such matters.
+                        </P>
+                        <P>
+                            (4) 
+                            <E T="03">Critical Electric Infrastructure Information (CEII)</E>
+                             is defined at FPA section 215(a)(3), with designation criteria codified at 18 CFR 388.113(c). CEII means information related to critical electric infrastructure, or proposed critical electrical infrastructure, generated by or provided to FERC or another Federal agency, other than classified national security information, that is designated as CEII by FERC or the Secretary pursuant to section 215A(d) of the FPA. Such term includes information that qualifies as critical energy infrastructure information under FERC's regulations.
+                        </P>
+                        <P>
+                            (5) 
+                            <E T="03">CEII Coordinator</E>
+                             means the Assistant Secretary or Principal Deputy Assistant Secretary of the DOE Office of Electricity, who shall coordinate and oversee the implementation of DOE's program for CEII-designation authority under section 215A of the FPA, assist all DOE Offices with respect to requests for CEII designation in determining whether particular information fits within the definition of CEII, and manage DOE's protection, storage, and sharing of CEII materials and oversight of the development of CEII international sharing protocols. The CEII Coordinator may delegate the daily implementation of the CEII Coordinator function as described in this rule, in whole or in part, to an appropriate DOE Office of Electricity official, to an Assistant Secretary in DOE, and to the Administrator of the Bonneville Power Administration, the Energy Information Administration, the Southeastern Power Administration, the Southwestern Power Administration, or the Western Area Power Administration (âCoordinator's designeeâ).
+                        </P>
+                        <P>
+                            (6) 
+                            <E T="03">Department</E>
+                             means the United States Department of Energy.
+                        </P>
+                        <P>
+                            (7) 
+                            <E T="03">Department of Energy (DOE)</E>
+                             means all organizational entities that are part of the Executive Department created by Title II of the DOE Organization Act (Pub. L. 95-91, 91 Stat. 565, 42 U.S.C. 7101 
+                            <E T="03">et seq.</E>
+                            ). For purposes of this Part, the definition of DOE specifically excludes the Federal Energy Regulatory Commission, which has promulgated its own CEII procedures at 18 CFR 388.113.
+                        </P>
+                        <P>
+                            (8) 
+                            <E T="03">DOE Office</E>
+                             means any administrative or operating unit of DOE with authority at or above the level of Assistant Secretary, Principal Deputy Assistant Secretary, or Administrator.
+                        </P>
+                        <P>
+                            (9) 
+                            <E T="03">Secretary</E>
+                             means the Secretary of Energy.
+                        </P>
+                        <P>
+                            (d) 
+                            <E T="03">Authority to designate information as CEII.</E>
+                             The Secretary has the authority to designate information as CEII, in accordance with FPA section 215A. The Secretary may delegate the authority to designate information as CEII to any DOE Office.
+                        </P>
+                        <P>
+                            (e) 
+                            <E T="03">Coordination among DOE Office designators.</E>
+                             The DOE CEII Coordinator shall be the primary point of contact for the submission of all requests for designation of information as CEII by DOE, as well as for requests made to DOE by organizations or individuals for information that may be protected, in whole or in part, as CEII.
+                        </P>
+                        <P>(1) The CEII Coordinator or Coordinator's designee shall:</P>
+                        <P>(i) Receive and review all incoming requests for CEII as defined in paragraph (c) of this section and in accordance with paragraph (g) of this section;</P>
+                        <P>(ii) Make initial determinations as to whether particular information fits within the definition of CEII found in paragraph (c) of this section;</P>
+                        <P>(iii) Assist any DOE Offices with delegated CEII designation authority to make determinations as to whether a particular requester's need for and ability and willingness to protect CEII warrants limited disclosure of the information to the requester;</P>
+                        <P>(iv) Establish reasonable conditions for considering requests for release of CEII-designated material in accordance with paragraphs (g)(5) and (6) of this section;</P>
+                        <P>(v) Make the Department's final determination regarding a request by any non-federal entity (organization or individual) for CEII-designated materials, in consultation with the appropriate DOE Office(s);</P>
+                        <P>(vi) Notify a CEII submitter of a request for such information by a non-federal entity;</P>
+                        <P>(vii) Convene a conference call between an affected DOE Office and a CEII submitter to discuss concerns related to a non-federal entity requesting release of CEII within no more than five (5) business days after the CEII submitter is notified of the request, providing the CEII submitter with a copy of the request prior to the conference call; and</P>
+                        <P>(viii) Perform oversight of the DOE CEII program and establish guidance for the treatment, handling, and storage of all CEII materials in the Department in accordance with paragraph (g)(6) of this section, including those related to CEII international sharing protocols.</P>
+                        <P>(2) DOE Offices with delegated authority to designate CEII in accordance with paragraph (d) of this section, as well as any CEII Coordinator designee(s), will meet regularly, at the discretion of the CEII Coordinator, but not less than once per year, to ensure coordinated implementation of DOE's CEII designation authority.</P>
+                        <P>
+                            (3) DOE, at the discretion of the CEII Coordinator, shall meet with representatives from the Federal Energy Regulatory Commission semi-annually (or more often, as necessary) to ensure that both agencies are applying CEII designation criteria consistently and to share best practices.
+                            <PRTPAGE P="14769"/>
+                        </P>
+                        <P>(4) DOE, at the discretion of the CEII Coordinator, shall meet at least once per year with representatives from the Department of Commerce including the National Telecommunications and Information Administration, the Department of Homeland Security, the Nuclear Regulatory Commission, and other Federal agencies, as needed, to ensure shared understanding and consistent communication among Federal agencies that collect, maintain, and potentially release information that DOE may consider designating as CEII as defined in paragraph (c) of this section.</P>
+                        <P>
+                            (f) 
+                            <E T="03">CEII FOIA Exemption.</E>
+                             All information designated by DOE as CEII is exempt from disclosure under the Freedom of Information Act, 5 U.S.C. 552(b)(3) and shall not be made available by any Federal, state, political subdivision, or tribal authority pursuant to any Federal, State, political subdivision, or tribal law requiring public disclosure of information or records pursuant to section 215A(d)(1)(A) and (B) of the Federal Power Act.
+                        </P>
+                        <P>
+                            (g) 
+                            <E T="03">Criteria and procedures for designating CEII</E>
+                            â(1) 
+                            <E T="03">Criteria.</E>
+                             The CEII Coordinator or Coordinator's designee shall apply the definition of CEII as provided in paragraph (c) of this section, consistent with FPA section 215A(a)(3), and with designation criteria codified at 18 CFR 388.113(c), to information sought by DOE and to information submitted to DOE with a request for designation.
+                        </P>
+                        <P>
+                            (2) 
+                            <E T="03">Requesting CEII designation of information submitted to DOE.</E>
+                             Any person or entity requesting that information submitted to DOE be designated as CEII must submit such request to the DOE CEII Coordinator or Coordinator's designee according to the following procedures:
+                        </P>
+                        <P>(i) The submitter must clearly label the cover page and pages or portions of the information for which CEII treatment is requested in bold, capital lettering, indicating that it contains CEII, as appropriate, and marked âCEIIâCRITICAL ELECTRIC INFRASTRUCTURE INFORMATIONâDO NOT RELEASE.â</P>
+                        <P>(ii) The submitter must clearly label the cover page and pages or portions of information that it considers Confidential Business Information in bold, capital lettering, indicating that it contains Confidential Business Information, as appropriate, and marked âCONFIDENTIAL BUSINESS INFORMATIONâDO NOT RELEASE.â If combined with a CEII label, the information should be marked âCEIIâCRITICAL ELECTRIC INFRASTRUCTURE INFORMATION and CONFIDENTIAL BUSINESS INFORMATIONâDO NOT RELEASE.â</P>
+                        <P>(iii) The submitter must also clearly indicate the DOE Office(s) from which the CEII designation is being requested in bold, capital lettering on the cover page.</P>
+                        <P>(iv) The submitter must also segregate those portions of the information that contain CEII (or information that reasonably could be expected to lead to the disclosure of the CEII) wherever feasible.</P>
+                        <P>(v) The submitter must also label and segregate information that it classifies as Confidential Business Information under the definition at paragraph (c)(2) of this section with the mark âCONFIDENTIAL BUSINESS INFORMATIONâDO NOT RELEASE.â Under separate cover, the submitter may, but is not required to, submit a written justification of why the labeled information meets the definition at paragraph (c)(2) of this section.</P>
+                        <P>(vi) The submitter must submit a public version of the information where information designated CEII and information for which CEII designation is requested is redacted or otherwise protected through extraction from the non-CEII to the DOE CEII Coordinator and the Coordinator's designee in an appropriate DOE Office, where feasible. If the entirety of submitted information is CEII, the submitter must indicate that, but no separate public version is required.</P>
+                        <P>
+                            (3) 
+                            <E T="03">Requesting CEII designation for information generated by DOE.</E>
+                             Any DOE employees, DOE contractors, or agents of DOE requesting that information generated by the Department be designated as CEII must submit such request to the DOE CEII Coordinator or the Coordinator's designee in an appropriate DOE Office according to the following procedures:
+                        </P>
+                        <P>(i) The submitter must clearly label the cover page and pages or portions of the information for which CEII treatment is requested in bold, capital lettering, indicating that it contains CEII, as appropriate, and marked âCEIIâCRITICAL ELECTRIC INFRASTRUCTURE INFORMATIONâDO NOT RELEASE.â</P>
+                        <P>(ii) The submitter must also segregate those portions of the information that contain CEII (or information that reasonably could be expected to lead to the disclosure of the CEII) wherever feasible.</P>
+                        <P>(iii) The submitter must submit a public version of the information where information designated CEII and information for which CEII designation is requested is redacted or otherwise protected through extraction from non-CEII.</P>
+                        <P>(iv) CEII designation for information generated by DOE, to include all organizational entities that are a part of the Executive Department created by Title II of the DOE Organization Act, may be executed at any time, regardless of when such information was generated, where feasible.</P>
+                        <P>
+                            (4) 
+                            <E T="03">Treatment of Submitted Information.</E>
+                             (i) Upon receiving a request for CEII designation of information submitted to DOE, the DOE CEII Coordinator or Coordinator's designee shall review the submission made in accordance with paragraph (g)(2) of this section.
+                        </P>
+                        <P>(ii) Information for which CEII treatment is requested will be maintained by the CEII Coordinator or Coordinator's designee in DOE's files as non-public unless and until DOE completes its determination that the information is not entitled to CEII treatment. This approach does not mean that DOE has made a determination regarding CEII designation, and should under no circumstances be construed as such. DOE will endeavor to make a determination as soon as practicable. The Department retains the right to make determinations about any request for CEII designation at any time, including the removal of a previously granted CEII designation. At such time that a determination is made that information does not meet the CEII criteria, DOE will follow the procedures for return of information not designated as CEII outlined in paragraph (g)(6)(iii) of this section.</P>
+                        <P>(iii) When a requester seeks information for which CEII status has been requested but not designated, or when DOE itself is considering release of such information, DOE will render a decision on designation before responding to the requester or releasing such information. Subsequently, the release of information will be treated in accordance with the procedures established for CEII-designated material, or the return of information not designated as CEII.</P>
+                        <P>
+                            (5) 
+                            <E T="03">Evaluation of CEII designation criteria to inform CEII designation determination.</E>
+                             (i) The DOE CEII Coordinator, or a Coordinator's designee, will execute the Department's evaluation as to whether the submitted information or portions of the information meets the definition of CEII, as described at paragraph (c)(2) of this section, with the appropriate DOE Office with delegated CEII designation authority. The DOE Office will designate submitted information as soon as practicable and will inform 
+                            <PRTPAGE P="14770"/>
+                            submitters of the designation date if requested at the time of submission.
+                        </P>
+                        <P>(ii) [Reserved]</P>
+                        <P>
+                            (6) 
+                            <E T="03">CEII Determination.</E>
+                             (i) 
+                            <E T="03">DOE CEII Coordinator makes CEII designation determination.</E>
+                             The Secretary or delegated DOE Office will make a determination regarding CEII designation after considering the information against the criteria for CEII designation. The DOE CEII Coordinator or Coordinator's designee shall promptly communicate the decision of the Secretary or delegated DOE Office to the submitter.
+                        </P>
+                        <P>
+                            (ii) 
+                            <E T="03">Review of determination.</E>
+                             DOE reserves the right to review at any time information designated by DOE as CEII to determine whether the information is properly designated. The designation of information as CEII, or the removal of such designation, must be reviewed when:
+                        </P>
+                        <P>(A) A FOIA request is submitted for the information under Â§â1004.10; or</P>
+                        <P>(B) A request is made for reconsideration of the designation or removal of the designation under paragraph (i)(1) of this section.</P>
+                        <P>
+                            (iii) 
+                            <E T="03">Return of Information not designated as CEII.</E>
+                             Because the submitter voluntarily provided the information to DOE, at the request of the submitter, DOE will return or destroy information for which CEII designation was requested but not granted, and will attempt to remove all copies of such information from DOE files, both physical and electronic. DOE shall return or destroy non-CEII consistent with the Federal Records Act, and DOE handling of agency records in accordance with DOE Order O.243.1A, Records Management Program, and related requirements and responsibilities for implementing and maintaining an efficient and economic records management program in accordance with law and regulatory requirements. DOE shall not remove electronic files in the ordinary course of business. If a submitter is required to provide information and DOE denies CEII designation, the submitter may file a request for review under the procedures.
+                        </P>
+                        <P>
+                            (7) 
+                            <E T="03">Protection of CEII</E>
+                            â(i) 
+                            <E T="03">Marking of CEII.</E>
+                             All information designated by DOE as CEII, whether submitted to or generated by DOE, shall be clearly labeled as such, and shall include the date on which the information was designated as CEII. For information that meets the definition of CEII but cannot be physically labeled, such as electronic information, the information shall beâ
+                        </P>
+                        <P>(A) Electronically marked with the words âCEIIâCRITICAL ELECTRIC INFRASTRUCTURE INFORMATIONâDO NOT RELEASEâ in the electronic file name; or</P>
+                        <P>(B) Transmitted under a Non-Disclosure Agreement or other agreements or arrangements, such as those identified in paragraph (j)(3) of this section, to an electronic system where such information is stored in a secure electronic environment that identifies the stored information as CEII.</P>
+                        <P>
+                            (ii) 
+                            <E T="03">Protection and Exemption from Disclosure.</E>
+                             All information designated by DOE as CEII is exempt from FOIA and shall not be made available as provided in paragraph (f) of this section.
+                        </P>
+                        <P>
+                            (iii) 
+                            <E T="03">Secure Storage.</E>
+                             DOE will store information for which CEII treatment is requested in a secure place in a manner that would prevent unauthorized access (
+                            <E T="03">e.g.</E>
+                             locked room or file cabinet). Information submitted to DOE in electronic format shall be stored in a secure electronic environment that identifies the stored information as CEII.
+                        </P>
+                        <P>
+                            (8) 
+                            <E T="03">Protection of Confidential Business Information</E>
+                            â
+                            <E T="03">Exemption Determination.</E>
+                             DOE will evaluate information claimed as Confidential Business Information if, and at such time as, a valid FOIA request is submitted and the information is otherwise responsive to the request. DOE will conduct the evaluation pursuant to procedures set forth in this part. In its evaluation, DOE will consult any supplementary justification provided by the submitter as described at paragraph (f)(1)(iv) of this section.
+                        </P>
+                        <P>
+                            (h) 
+                            <E T="03">Duration of designation.</E>
+                             Designation of information as CEII shall be a five-year period, unless removed or re-designated.
+                        </P>
+                        <P>
+                            (1) 
+                            <E T="03">Expiration of designation.</E>
+                             (i) The Secretary or delegated DOE Office will determine the duration of designation at the time of designation.
+                        </P>
+                        <P>(ii) A submitter may re-apply for CEII designation no earlier than one year prior to the date of expiration of the initial designation or re-designation in accordance with the application procedures in paragraph (g)(1) of this section.</P>
+                        <P>(iii) The Secretary, the DOE CEII Coordinator, or a Coordinator's designee may initiate CEII designation at any time prior to the date of expiration of the initial designation or re-designation.</P>
+                        <P>
+                            (2) 
+                            <E T="03">Removal of designation.</E>
+                             The designation of information as CEII may be removed at any time, by the Secretary or the DOE CEII Coordinator in consultation with the DOE Office to which the Secretary has delegated the authority, in whole or in part, upon determination that the unauthorized disclosure of such information could no longer be used to impair the security or reliability of the bulk-power system or distribution facilities or any other form of energy infrastructure. If the CEII designation is to be removed, the submitter and the DOE Office that produced or maintains the CEII will receive electronic notice stating that the CEII designation will be removed at least nine (9) business days before disclosure. In such notice, the DOE CEII Coordinator or Coordinator's designee will provide the submitter and the DOE Office that produced or maintains the CEII an opportunity (at least nine (9) business days) in which to comment in writing prior to the removal of the designation. The final determination will briefly explain DOE's determination.
+                        </P>
+                        <P>
+                            (3) 
+                            <E T="03">Treatment of information no longer designated as CEII.</E>
+                             If a FOIA request is received for information for which CEII designation has expired or has been removed, DOE will work with the submitter to review whether the information is subject to other FOIA exemptions. DOE will destroy non-CEII consistent with the Federal Records Act, and DOE handling of agency records in accordance with DOE Order O.243.1A, Records Management Program, and related requirements and responsibilities for implementing and maintaining an efficient and economic records management program in accordance with law and regulatory requirements.
+                        </P>
+                        <P>
+                            (i) 
+                            <E T="03">Review or requests for reconsideration of designation</E>
+                            â(1) 
+                            <E T="03">Request for Reconsideration.</E>
+                             (i) Any person who has submitted information and requested such information to be designated as CEII may request reconsideration of a DOE decision not to designate that information as CEII, or to remove an existing CEII designation, on grounds that the information does not meet the required CEII criteria. Within ten (10) business days of notification by DOE of its CEII decision, the person must file a request for reconsideration. The request must be sent to the DOE CEII Coordinator and Coordinator's designee through a secure electronic submission or by mail according to the instructions at 10 CFR 205.12. The request must also be sent to the DOE Office that made the decision at issue and to DOE's Office of General Counsel in Washington, DC, according to the instructions at 10 CFR 205.12. A statement in support of the request for reconsideration must be submitted within twenty (20) business days of the date of the determination. The request and the supporting statement will be considered submitted upon receipt by the Office of the General Counsel.
+                        </P>
+                        <P>
+                            (ii) Any person who has received a decision denying a request for the 
+                            <PRTPAGE P="14771"/>
+                            release of CEII, in whole or in part, or a decision denying a request to change the designation of CEII, may request reconsideration of that decision. A statement in support of the request for reconsideration must be submitted to the DOE Office of the General Counsel within twenty (20) business days of the date of the determination.
+                        </P>
+                        <P>(iii) The Secretary or the DOE Office that made the decision at issue will make a determination, in coordination with the DOE CEII Coordinator or Coordinator's designee, with respect to any request for reconsideration within twenty (20) business days after the receipt of the request and will notify the person submitting the request of the determination and the availability of judicial review.</P>
+                        <P>(iv) Before seeking judicial review in Federal District Court under section 215A(d)(11) of the FPA, a person who received a determination from DOE concerning a CEII designation must first request reconsideration of that determination.</P>
+                        <P>(v) A request for reconsideration triggers a stay of the underlying decision, except in instances where voluntary sharing of the disputed information is necessary for law enforcement purposes, to ensure reliable operation or maintenance of electric or energy infrastructure, to maintain infrastructure security, to address potential threats, or to address an urgent need to disseminate the information quickly due to an emergency or other unforeseen circumstance.</P>
+                        <P>
+                            (j) 
+                            <E T="03">Sharing of CEII</E>
+                            â(1) 
+                            <E T="03">Federal Entities.</E>
+                             An employee of a Federal entity acting within the scope of his or her Federal employment may obtain CEII directly from DOE without following the procedures outlined in paragraph (k) of this section. DOE will evaluate requests by Federal entities for CEII on a programmatic, fact-specific basis. DOE may share CEII with affected agencies for those agencies to carry out their specific jurisdictional responsibilities, but it may impose additional restrictions on how the information may be used and maintained. To obtain access to CEII, an authorized agency employee must sign an acknowledgement and agreement that states the agency will protect the CEII in the same manner as the Department and will refer any requests for the information to the Department. Notice of each such request also must be given to the CEII Coordinator.
+                        </P>
+                        <P>
+                            (2) 
+                            <E T="03">Non-federal Entities.</E>
+                             The Secretary or the CEII Coordinator shall make a final determination whether to share CEII materials requested by non-federal entities that are within the categories specified in section 215A(d)(2)(D) of the FPA. A request by such a non-federal entity shall not be entertained unless the requesting non-federal entity demonstrates that the release of information is in the national security interest and it has entered into a Non-Disclosure Agreement with DOE that ensures, at a minimum:
+                        </P>
+                        <P>(i) Use of the information only for authorized purposes and by authorized recipients and under the conditions prescribed by the Secretary or CEII Coordinator;</P>
+                        <P>(ii) Protection of the information in a secure manner to prevent unauthorized access;</P>
+                        <P>(iii) Destruction or return of the information after the intended purposes of receiving the information have been fulfilled;</P>
+                        <P>(iv) Prevention of viewing or access by individuals or organizations that have been prohibited or restricted by the United States or the Department from viewing or accessing CEII;</P>
+                        <P>(v) Compliance with the provisions of the Non-Disclosure Agreement, subject to DOE audit;</P>
+                        <P>(vi) No further sharing of the information without DOE's permission; and</P>
+                        <P>(vii) CEII provided pursuant to the agreement is not subject to release under the Freedom of Information Act, 5 U.S.C. 552(b)(3), and shall not be made available by any Federal, state, political subdivision, or tribal authority pursuant to any Federal, State, political subdivision, or tribal law requiring public disclosure of information or records pursuant to sections 215A(d)(1)(A) and (B) of the Federal Power Act.</P>
+                        <P>(viii) The Non-Disclosure Agreement must state that the agreement applies to all subsequent releases of CEII during the calendar year in which the DOE and the non-federal entity enter into the agreement. As a result, the non-federal entity will not be required to file a Non-Disclosure Agreement with subsequent requests during the calendar year.</P>
+                        <P>
+                            (3) 
+                            <E T="03">Security and Reliability Coordination.</E>
+                             In accordance with section 215A(d)(2)(D) of the FPA, DOE may, taking into account standards of the Electric Reliability Organization, facilitate voluntary sharing of CEII with, between, and by Federal, State, political subdivision, and tribal authorities; the Electric Reliability Organization; regional entities; information sharing and analysis centers or information sharing and analysis organizations; reliability coordinators; balancing authorities; owners, operators, and users of critical electric infrastructure in the United States; and other entities determined appropriate. All entities receiving CEII must execute either a Non-Disclosure Agreement or an Acknowledgement and Agreement or participate in an Electric Reliability Organization or Regional Entity information sharing program that ensures the protection of CEII. A copy of each agreement or program will be maintained by the DOE Office with a copy to the CEII Coordinator or the Coordinator's designee. If DOE facilitates voluntary sharing of CEII under this subsection, DOE may impose additional restrictions on how the information may be used and maintained.
+                        </P>
+                        <P>
+                            (4) 
+                            <E T="03">International Sharing Protocols.</E>
+                             The Secretary may delegate authority to DOE Offices to develop, after consultation with Canadian and Mexican authorities, protocols for the voluntary sharing of CEII with Canadian and Mexican authorities and owners, operators, and users of the bulk-power system outside the United States. The DOE CEII Coordinator or Coordinator's designee would provide assistance and advice to DOE Offices in the development of the international sharing protocols.
+                        </P>
+                        <P>
+                            (5) 
+                            <E T="03">Notice for Sharing of CEII not Generated by DOE.</E>
+                             The DOE CEII Coordinator or Coordinator's designee will provide electronic notice to the CEII submitter no less than ten (10) business days before DOE releases CEII submitted to and not generated by DOE, except in instances where voluntary sharing is necessary for law enforcement purposes, to ensure reliable operation or maintenance of electric or energy infrastructure, to maintain infrastructure security, or to address potential threats; where there is an urgent need to quickly disseminate the information; or where prior notice is not practicable due to an emergency or other unforeseen circumstance. If prior notice is not given, DOE will provide notice as soon as practicable. The DOE CEII Coordinator or Coordinator's designee will convene a phone call within five (5) business days of electronic notice with the CEII submitter to discuss concerns about the proposed release of CEII-designated materials to the requester. DOE will make the final determination as to whether to share CEII not generated by DOE.
+                        </P>
+                        <P>
+                            (k) 
+                            <E T="03">Procedures for requesting CEII.</E>
+                             DOE shall consider requests for CEII on a case-by-case basis. Any person requesting CEII must include the following material with the request:
+                        </P>
+                        <P>
+                            (1) 
+                            <E T="03">Contact Information.</E>
+                             Provide your name, title and employer, work address, work phone number, and work email. If you are requesting the information on 
+                            <PRTPAGE P="14772"/>
+                            behalf of a person or entity other than yourself, you must also list that person's or entity's work contact information, including name, title, address, phone number, and email.
+                        </P>
+                        <P>
+                            (2) 
+                            <E T="03">Explanation of Need.</E>
+                             Provide a detailed statement explaining the particular need for and intended use of the information. This statement must include:
+                        </P>
+                        <P>(i) The extent to which a particular function is dependent upon access to the information;</P>
+                        <P>(ii) Why the function cannot be achieved or performed without access to the information;</P>
+                        <P>(iii) An explanation of whether other information is available to the requester that could facilitate the same objective;</P>
+                        <P>(iv) How long the information will be needed;</P>
+                        <P>(v) Whether or not the information is needed to participate in a specific proceeding (with that proceeding identified); and</P>
+                        <P>(vi) An explanation of whether the information is needed expeditiously.</P>
+                        <P>
+                            (3) 
+                            <E T="03">Signed Non-Disclosure Acknowledgement/Agreement.</E>
+                             Provide an executed Non-Disclosure Acknowledgement (if the requester is a Federal entity) or an executed Non-Disclosure Agreement (if the requester is not a Federal entity) requiring adherence to limitations on the use and disclosure of the information requested.
+                        </P>
+                        <P>
+                            (4) 
+                            <E T="03">DOE evaluation.</E>
+                             Upon receiving a request for CEII, the CEII Coordinator shall contact the DOE Office or Federal agency that created or maintains the CEII. In consultation with the DOE Office, the CEII Coordinator shall carefully consider the statement of need provided by the requester and determine if the need for CEII and the protection afforded to the CEII should result in sharing CEII for the limited purpose identified in the request. If the CEII Coordinator or Coordinator's designee denies the request, the requestor may seek reconsideration, as provided in paragraph (i) of this section.
+                        </P>
+                        <P>
+                            (l) 
+                            <E T="03">Disclosureâ</E>
+                            (1) 
+                            <E T="03">Disclosure by submitter of information.</E>
+                             If the submitter of information deliberately discloses to the public information that has received a CEII designation, then the Department reserves the right to remove its CEII designation.
+                        </P>
+                        <P>
+                            (2) 
+                            <E T="03">Disciplinary Action for Unauthorized Disclosure.</E>
+                             DOE employees or contractors who knowingly or willfully disclose CEII in an unauthorized manner will be subject to appropriate sanctions, including disciplinary action under DOE or DOE Office personnel rules or referral to the DOE Inspector General. Any action by a Federal or non-federal Entity who knowingly or willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact; makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry to obtain CEII may also constitute a violation of other applicable laws and is potentially punishable by fine and imprisonment.
+                        </P>
+                        <P>
+                            (3) 
+                            <E T="03">Whistleblower protection.</E>
+                             In accordance with the Whistleblower Protection Enhancement Act of 2012 (Pub. L. 112-199, 126 Stat. 1465), the provisions of this rule are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute relating to:
+                        </P>
+                        <P>(i) Classified information;</P>
+                        <P>(ii) Communications to Congress;</P>
+                        <P>(iii) The reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; or</P>
+                        <P>(iv) Any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling statutory provisions are not affected by this rule.</P>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2020-04640 Filed 3-13-20; 8:45 am]</FRDOC>
+            <BILCOD> BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

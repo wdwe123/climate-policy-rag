@@ -1,0 +1,972 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="71797"/>
+                <AGENCY TYPE="F">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 430</CFR>
+                <DEPDOC>[EERE-2021-BT-STD-0016]</DEPDOC>
+                <RIN>RIN 1904-AE85</RIN>
+                <SUBJECT>Energy Conservation Program: Definition of Showerhead</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>On July 22, 2021, the U.S. Department of Energy (âDOEâ) published a notice of proposed rulemaking (âNOPRâ) to revise the current definition of âshowerheadâ adopted in the December 16, 2020, final rule (âDecember 2020 Final Ruleâ) by reinstating the October 2013 definition of âshowerhead,â withdraw the December 2020 final rule's interpretation of the term âshowerhead,â and withdraw the associated definition for âbody spray.â DOE did not propose any changes to the definition of âsafety shower showerhead.â In this final rule, DOE revises the current definition of âshowerheadâ adopted in the December 2020 final rule by reinstating the October 2013 definition of âshowerheadâ as the Department finds that it is more consistent with the purposes of the Energy Policy and Conservation Act, as amended (âEPCAâ). In addition, DOE removes the current definition of âbody sprayâ adopted in the December 16, 2020 final rule. Finally, DOE maintains the definition of âsafety shower showerheadâ adopted in the December 2020 final rule.</P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The effective date of this rule is January 19, 2022.</P>
+                </DATES>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this activity, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                    <P>
+                        The docket web page can be found at 
+                        <E T="03">www.regulations.gov/docket/EERE-2021-BT-STD-0016.</E>
+                         The docket web page contains instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                    <P>
+                        For further information on how to review the docket, contact the Appliance and Equipment Standards Program staff at (202) 287-1445 or by email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P/>
+                    <P>
+                        Mr. John Cymbalsky, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC 20585-0121. Email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                    <P>
+                        Ms. Amelia Whiting, U.S. Department of Energy, Office of the General Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585. Telephone: (202) 586-2588. Email: 
+                        <E T="03">Amelia.Whiting@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Introduction</FP>
+                    <FP SOURCE="FP1-2">A. Authority</FP>
+                    <FP SOURCE="FP1-2">B. Background</FP>
+                    <FP SOURCE="FP-2">II. Synopsis of the Final Rule</FP>
+                    <FP SOURCE="FP-2">III. Discussion</FP>
+                    <FP SOURCE="FP1-2">A. Reinstatement of the October 2013 Final Rule's Definition of âShowerheadâ</FP>
+                    <FP SOURCE="FP1-2">1. EPCA's Definition of âShowerheadâ Is Ambiguous</FP>
+                    <FP SOURCE="FP1-2">2. The December 2020 Final Rule's Definition of âShowerheadâ Is Inconsistent With EPCA's Purposes</FP>
+                    <FP SOURCE="FP1-2">3. Reliance on ASME for the Definition of âShowerheadâ Is Not Required</FP>
+                    <FP SOURCE="FP1-2">4. The Reinstated Definition of âShowerheadâ Does Not Effectively Ban Multi-Headed Showerheads</FP>
+                    <FP SOURCE="FP1-2">5. The Definition of âShowerheadâ Falls Within the NTTAA and OMB Circular A-119 Exception</FP>
+                    <FP SOURCE="FP1-2">6. Additional Comments/Issues</FP>
+                    <FP SOURCE="FP1-2">B. Withdrawal of DOE's Current Definition of âBody Sprayâ</FP>
+                    <FP SOURCE="FP1-2">C. Safety Shower Showerhead</FP>
+                    <FP SOURCE="FP-2">IV. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Order 12866</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">J. Review Under Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">V. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Introduction</HD>
+                <P>The following section briefly discusses the statutory authority underlying this final rule, as well as the relevant historical background related to showerheads, the subject of this final rule.</P>
+                <HD SOURCE="HD2">A. Authority</HD>
+                <P>
+                    Title III of Energy Policy and Conservation Act, as amended (âEPCAâ), (42 U.S.C. 6291 
+                    <E T="03">et seq.</E>
+                    ) sets forth a variety of provisions designed to improve energy efficiency and, for certain products, water efficiency.
+                    <SU>1</SU>
+                    <FTREF/>
+                     Part B of Title IIIâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     establishes the âEnergy Conservation Program for Consumer Products Other Than Automobiles,â which includes showerheads (with the exception of safety shower showerheads)âthe subject of this rulemaking. (42 U.S.C. 6292(a)(15)) Under EPCA, the energy conservation program consists essentially of four parts: (1) Testing, (2) labeling, (3) Federal energy conservation standards, and (4) certification and enforcement procedures.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âAll references to EPCA in this final rule refer to the statute as amended through the Energy Act of 2020, Public Law 116-260 (Dec. 27, 2020).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âFor editorial reasons, upon codification in the U.S. Code, Part B was redesignated as Part A.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Background</HD>
+                <P>
+                    EPCA defines a showerhead as âany showerhead (including a handheld showerhead), except a safety shower showerhead.â (42 U.S.C. 6291(31)(D)) In addition to defining âshowerhead,â Congress established a maximum water use threshold of 2.5 gpm applicable to âany showerhead.â (42 U.S.C. 6295(j)(1)). The definition of âshowerheadâ and the water conservation standard for showerheads were added to EPCA by the Energy 
+                    <PRTPAGE P="71798"/>
+                    Policy Act of 1992 (Pub. L. 102-486 (Oct. 24, 1992)) (âEPAct 1992â).
+                </P>
+                <P>
+                    Until 2013, DOE regulations did not contain a separate definition for âshowerhead.â (
+                    <E T="03">See</E>
+                     78 FR 62970) (Oct. 23, 2013) On May 19, 2010, DOE published in the 
+                    <E T="04">Federal Register</E>
+                     a Notice of Availability of a proposed interpretive rule regarding the definition of âshowerhead.â 75 FR 27926 (â2010 Draft Interpretive Ruleâ) In the 2010 Draft Interpretive Rule,
+                    <SU>3</SU>
+                    <FTREF/>
+                     DOE discussed how there was uncertainty about how the EPCA definition of âshowerheadâ applies to the diversified showerhead product offerings. 
+                    <E T="03">Id.</E>
+                     at 1. To address this uncertainty, DOE proposed to define a âshowerheadâ as âany plumbing fitting that is designed to direct water onto a bather.â 
+                    <E T="03">Id.</E>
+                     at 2 (footnote omitted). As such, DOE stated it would âfind a showerhead to be noncompliant with EPCA's maximum water use standard if the showerhead's standard components, operating in their maximum design flow configuration, 
+                    <E T="03">taken together</E>
+                     use in excess of 2.5 gpm.â 
+                    <E T="03">Id.</E>
+                     at 3.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âAvailable at 
+                        <E T="03">www.regulations.gov/document?D=EERE-2010-BT-NOA-0016-0002.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    On March 4, 2011, DOE formally withdrew the draft interpretive rule and issued  showerhead enforcement guidance.
+                    <SU>4</SU>
+                    <FTREF/>
+                     (â2011 Enforcement Guidanceâ) In the 2011 Enforcement Guidance, DOE explained that it had received several complaints alleging that certain showerhead products exceeded EPCA's 2.5 gpm standard. DOE stated that it had learned that some had come to believe that a showerhead that expels water from multiple nozzles constituted not a single showerhead, but rather multiple showerheads and thus could exceed the maximum permitted water use by a multiple equal to the number of nozzles on the showerhead. 
+                    <E T="03">Id.</E>
+                     at 1. Following a review of the record from the 2010 Draft Interpretive Rule, DOE concluded that the term âany showerheadâ has been and continues to be sufficiently clear such that no interpretive rule was needed. 
+                    <E T="03">Id.</E>
+                     at 2. Specifically, DOE stated that âmultiple spraying components sold together as a single unit designed to spray water onto a single bather constitutes a single showerhead for the purpose of the maximum water use standard.â 
+                    <E T="03">Id.</E>
+                     DOE used its discretion and addressed the misunderstanding of how to measure compliance with the standard by providing a two-year enforcement grace period to allow manufacturers to sell any remaining noncompliant products. 
+                    <E T="03">Id.</E>
+                     at 2-3.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âAvailable at 
+                        <E T="03">www.energy.gov/sites/prod/files/gcprod/documents/Showerhead_Guidancel.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    On May 30, 2012, DOE proposed to revise the test procedure for showerheads and other products and to change the regulatory definition of showerheads. 77 FR 31742 (âMay 2012 NOPRâ). DOE proposed to adopt definitions for four terms related to showerheadsââfittingâ, âaccessoryâ, âbody sprayâ, and âshowerheadââin order to address certain provisions of the revised American Society of Mechanical Engineers/American National Standards Institute (âASME/ANSIâ) test procedures that were not contemplated in the versions referenced by the existing DOE test procedure, and to establish greater clarity with respect to product coverage. 77 FR 31742, 31747.
+                    <SU>5</SU>
+                    <FTREF/>
+                     Specifically, DOE proposed to define âshowerheadâ as âan accessory, or set of accessories, to a supply fitting distributed in commerce for attachment to a single supply fitting, for spraying water onto a bather, typically from an overhead position, including body sprays and hand-held showerheads, but excluding safety shower showerheads.â 77 FR 31742. 31755. The proposed definition clarified that DOE considered a âbody sprayâ to be a showerhead for the purposes of regulatory coverage. 77 FR 31742, 31747.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âDOE also proposed to adopt a definition for âhand-held showerheadâ in the May 2012 NOPR. 77 FR 31742, 31747. This final rule does not reference that discussion, as DOE is not proposing any edits to the existing definition of âhand-held showerhead.â
+                    </P>
+                </FTNT>
+                <P>Responding to comments on the May 2012 NOPR, DOE issued on April 8, 2013 a supplemental notice of proposed rulemaking (âSNOPRâ) in which DOE proposed a revised definition of âshowerheadâ and withdrew its proposal to include âbody spraysâ in the definition of âshowerheadâ in light of concerns raised by commenters and DOE's need to further study the issue. 78 FR 20832, 20834-20835, 20841 (âApril 2013 SNOPRâ). The SNOPR's modified definition of âshowerheadâ removed the term âaccessoryâ from the definition based on comments about the use of the term. 78 FR 20832, 20834. Under the proposed modified definition, a âshowerheadâ is âa component of a supply fitting, or set of components distributed in commerce for attachment to a single supply fitting, for spraying water onto a bather, typically from an overhead position, including hand-held showerheads, but excluding safety shower showerheads.â 78 FR 20832, 20834. DOE also requested comment on whether to define the term âsafety shower showerheadâ to address which products qualify for exclusion from coverage under EPCA and DOE regulations. 78 FR 20832, 20835, 20840.</P>
+                <P>
+                    On October 23, 2013, DOE issued a final rule amending test procedures for showerheads and other products and adopting definitions for products, including showerheads. 78 FR 62970 (âOctober 2013 Final Ruleâ). In this final rule, DOE adopted in substance the modified definition of âshowerheadâ proposed in the April 2013 SNOPR. 78 FR 62970, 62986. The October 2013 Final Rule defined âshowerheadâ as âa component or set of components distributed in commerce for attachment to a single supply fitting, for spraying water onto a bather, typically from an overhead position, excluding safety shower showerheads.â 
+                    <E T="03">Id.</E>
+                     at 78 FR 62986. DOE did not finalize the definition of âbody sprayâ proposed in the May 2012 NOPR. 
+                    <E T="03">Id.</E>
+                     at 78 FR 62973. DOE also declined to adopt a definition of âsafety shower showerheadâ, and explained that it was unable to identify a definition that would clearly distinguish these products from the showerheads covered under EPCA. 
+                    <E T="03">Id.</E>
+                     at 78 FR 62974.
+                </P>
+                <P>
+                    On August 13, 2020, DOE proposed revising the definition of a âshowerheadâ to be consistent with the most recent ASME standard. 85 FR 49284 (âAugust 2020 NOPRâ). DOE also proposed to adopt definitions of âbody sprayâ and âsafety shower showerheadâ and to clarify whether the current test procedure would apply to the proposed definitional changes. 
+                    <E T="03">Id.</E>
+                     at 85 FR 49285. In addition, DOE proposed to amend the test procedure for showerheads to address the testing of a single showerhead within a multiheaded showerhead. 
+                    <E T="03">Id.</E>
+                     at 85 FR 49292.
+                </P>
+                <P>
+                    On December 16, 2020, DOE published a final rule amending the definition of âshowerheadâ and adopting definitions for âbody sprayâ and âsafety shower showerhead.â 85 FR 81341. Specifically, the December 2020 Final Rule amended the meaning of âshowerheadâ to restate the statutory definition and explicitly define the term through incorporation of the ASME definition to mean âan accessory to a supply fitting for spraying onto a bather, typically from an overhead position.â 
+                    <E T="03">Id.</E>
+                     at 85 FR 81342, 81359. In the December 2020 Final Rule's definition, DOE interpreted the new definition to mean that each âshowerheadâ included in a product with multiple showerheads would be considered separately for purposes of determining standards compliance. 
+                    <E T="03">Id.</E>
+                     at 85 FR 81342. In addition, DOE established a definition for âbody sprayâ, citing the need to address ambiguity about whether body sprays were considered showerheads 
+                    <PRTPAGE P="71799"/>
+                    under the October 2013 Final Rule. 
+                    <E T="03">Id.</E>
+                     at 85 FR 81342, 81350. DOE defined the term âbody sprayâ as âa shower device for spraying water onto a bather from other than the overhead position. A body spray is not a showerhead.â 
+                    <E T="03">Id.</E>
+                     at 85 FR 81359. Lastly, DOE defined the term âsafety shower showerheadâ by incorporating by reference the definition of âsafety shower showerheadâ from the ANSI/International Safety Equipment Association (âISEAâ) Z358.1-2014,
+                    <SU>6</SU>
+                    <FTREF/>
+                     such that a âsafety shower showerheadâ is âa showerhead designed to meet the requirements of ISEA Z358.1.â 
+                    <E T="03">Id.</E>
+                     at 85 FR 81359. The December 2020 Final Rule determined that leaving the term âsafety shower showerheadâ undefined would cause confusion as to which products are excluded from the definition of âshowerhead.â 
+                    <E T="03">Id.</E>
+                     at 85 FR 81351. DOE did not finalize the test procedure amendments that had been proposed in the August 2020 NOPR. 
+                    <E T="03">Id.</E>
+                     at 85 FR 81351.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âANSI/ISEA Z358.1-2014, âAmerican National Standard for Emergency Eyewash and Shower Equipment.â
+                    </P>
+                </FTNT>
+                <P>
+                    On January 20, 2021, the President issued Executive Order 13990, âProtecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis.â 86 FR 7037 (Jan. 25, 2021) (âE.O. 13990â). Section 1 of that Order lists a number of policies related to the protection of public health and the environment, including reducing greenhouse gas (âGHGâ) emissions and bolstering the Nation's resilience to the impacts of climate change. 
+                    <E T="03">Id.</E>
+                     at 86 FR 7041. Section 2 of the Order instructs all agencies to review âexisting regulations, orders, guidance documents, policies, and any other similar agency actions promulgated, issued, or adopted between January 20, 2017, and January 20, 2021, that are or may be inconsistent with, or present obstacles to, [these policies].â 
+                    <E T="03">Id.</E>
+                     Agencies are directed, as appropriate and consistent with applicable law, to consider suspending, revising, or rescinding these agency actions. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    While E.O. 13990 triggered the Department's re-evaluation of the December 2020 Final Rule, DOE relies upon the analysis presented below, based upon EPCA, to revise the definition âshowerheadâ and to withdraw the definition of âbody sprayâ in the July 2021 NOPR and in this final rule. On July 22, 2021, DOE issued a NOPR (âJuly 2021 NOPRâ) in which it proposed to revise the definition of âshowerheadâ adopted in the December 2020 Final Rule by reinstating the prior definition of âshowerhead.â 86 FR 38594. Further, DOE tentatively determined that, in reinstating the prior definition of âshowerhead,â all components attached to a single supply fitting (
+                    <E T="03">i.e.,</E>
+                     all nozzles or spraying components within a product containing multiple nozzles or spraying components) would be considered part of a single showerhead for determining compliance with the 2.5 gpm standard. 
+                    <E T="03">Id.</E>
+                     In addition, DOE proposed to withdraw the current definition of âbody sprayâ adopted in the December 2020 Final Rule. 
+                    <E T="03">Id.</E>
+                     Finally, DOE did not propose any changes to the definition of âsafety shower showerheadâ adopted in the December 2020 Final Rule. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    DOE invited comment on all aspects of July 2021 NOPR, including data and information to assist in evaluating whether the definition of âshowerheadâ from the October 2013 Final Rule should be reinstated. 
+                    <E T="03">Id.</E>
+                     at 86 FR 38594. On August 31, 2021, DOE held a webinar to present the substance of the July 2021 NOPR and afford interested parties an opportunity to present comments.
+                    <SU>7</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âThe webinar presentation and transcript are available in the docket at 
+                        <E T="03">www.regulations.gov/docket/EERE-2021-BT-STD-0016/document.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    DOE received comments in response to the July 2021 NOPR from the interested parties listed in Table I.1.DOE received two comments that were not within the scope of the rulemaking.
+                    <SU>8</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        â
+                        <E T="03">See</E>
+                         Comment Nos. 9, and 24).
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="3" OPTS="L2,nj,i1" CDEF="s150,xs110,r50">
+                    <TTITLE>Table I.1âWritten Comments Received in Response to July 2021 NOPR</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Commenter(s)</CHED>
+                        <CHED H="1">Reference in this Final Rule</CHED>
+                        <CHED H="1">Commenter type</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Alliance for Water Efficiency (âAWEâ); Amy Vickers and Associates, Inc.; Arizona Municipal Water Users Association; Athens-Clarke County Public Utilities Dept. (GA); Best Management Partners; Center for Water-Efficient Landscaping; Citizens Water Advocacy Group; City of Bend, OR; City of Durham, NC; City of Flagstaff, AZ; City of Hays, KS; City of Mesa, AZ; City of Round Rock, TX; City of Santa Rosa, CA; City of Westminster, CO; Connecticut Water Company; Dickinson Associates; Foothill Municipal Water District (CA); Houston Public Works (TX); Maine Water Company; Metropolitan North Georgia Water Planning District; Monterey Peninsula Water Management District (CA); Municipal Water District of Orange County (CA); National Wildlife Federation; PHCC-National Association; Regional Water Authority (CA); Rancho California Water District; San Antonio Water System (TX); San Jose Water (CA); Seattle Public Utilities (WA); SJWTX (TX); Southern Nevada Water Authority; Tucson Water (AZ); Walnut Valley Water District (CA); Water Demand Management, LLC</ENT>
+                        <ENT>
+                            AWE 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>Efficiency Organizations, Municipal Utilities and Governments, Trade Associations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Anonymous Anonymous</ENT>
+                        <ENT>Anonymous</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Appliance Standards Awareness Project (âASAPâ), Alliance for Water Efficiency, American Council for an Energy-Efficient Economy, Consumer Federation of America, and Natural Resources Defense Council</ENT>
+                        <ENT>Joint Advocates</ENT>
+                        <ENT>Efficiency Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">California Energy Commission</ENT>
+                        <ENT>CEC</ENT>
+                        <ENT>State.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">California Investor-Owned Utilities (Pacific Gas and Electric Company, San Diego Gas and Electric, Southern California Edison)</ENT>
+                        <ENT>CA IOUs</ENT>
+                        <ENT>Utilities.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Competitive Enterprise Institute, FreedomWorks Foundation, Consumers' Research, Citizens Against Government Waste, Caesar Rodney Institute, Project 21, Texas Public Policy Foundation, The Cornwall Alliance for the Stewardship of Creation, 60 Plus Association, Roughrider Policy Center, Americans for Prosperity, Committee for a Constructive Tomorrow</ENT>
+                        <ENT>
+                            CEI 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>Policy Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Andrew Doty</ENT>
+                        <ENT>Doty</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Dan Glucksman</ENT>
+                        <ENT>Glucksman</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Kevin Halligan</ENT>
+                        <ENT>Halligan</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Katherine Hekstra</ENT>
+                        <ENT>Hekstra</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="71800"/>
+                        <ENT I="01">Alicia Johnston</ENT>
+                        <ENT>Johnston</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Shane Kelley</ENT>
+                        <ENT>Kelley</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Metropolitan North Georgia Water Planning District</ENT>
+                        <ENT>the District</ENT>
+                        <ENT>Municipal Government.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Northwest Power and Conservation Council</ENT>
+                        <ENT>NPCC</ENT>
+                        <ENT>Efficiency Organization.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Plumbing Manufacturers International</ENT>
+                        <ENT>PMI</ENT>
+                        <ENT>Trade Association.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">James Ramer</ENT>
+                        <ENT>Ramer</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">James Southerland</ENT>
+                        <ENT>Southerland</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Marl Walters</ENT>
+                        <ENT>Walters</ENT>
+                        <ENT>Individual.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    A parenthetical reference at the end of a comment quotation or paraphrase provides the location of the item in the public record.
+                    <SU>9</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âThe parenthetical reference provides a reference for information located in the docket of DOE's rulemaking to amend the definition of showerhead. (Docket No. EERE-2021-BT-STD-0016, which is maintained at 
+                        <E T="03">www.regulations.gov</E>
+                        ). The references are arranged as follows: (Commenter name, comment docket ID number, page of that document).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">II. Synopsis of the Final Rule</HD>
+                <P>
+                    Following a review of the December 2020 Final Rule and the comments received in response to the August 2020 NOPR, relevant authorities, and comments received in response to the July 2021 NOPR, DOE is withdrawing the December 2020 Final Rule's definition of âshowerhead,â and is reinstating the October 2013 Final Rule's definition of âshowerhead.â 
+                    <E T="03">See</E>
+                     78 FR 62970, 62986. As such, DOE defines the term âshowerheadâ as âa component or set of components distributed in commerce for attachment to a single supply fitting, for spraying water onto a bather, typically from an overhead position, excluding safety shower showerheads.â DOE is also withdrawing the December 2020 Final Rule's interpretation that each âshowerheadâ included in a product with multiple showerheads would be considered separately for purposes of determining standards compliance. Whereas in the December 2020 Final Rule DOE stated that while water conservation is obviously a purpose of EPCA, the definitional changes follow congressional reliance on the ASME standard. DOE has reconsidered this balance and has come to a different policy conclusion that water conservation is a more important EPCA purpose and should be weighed more heavily when amending the definition of a covered product than consistency with ASME (with which DOE has no statutory obligation to align its definition). The Department finds that the definition of âshowerheadâ as presented in this final rule better effectuates EPCA's water conservation purposes. This final action will also provide consumers the benefits derived from water savings that will accrue over time with this return to the definition of âshowerheadâ that existed prior to the December 2020 Final Rule.
+                </P>
+                <P>DOE is also withdrawing the definition of âbody sprayâ adopted in the December 2020 Final Rule. DOE finds that the current definition of âbody sprayâ is inconsistent with the express purpose of EPCA to conserve water by improving the water efficiency of certain plumbing products and appliances as the current definition may lead to increased water use. Further, the definition of âbody sprayâ does not best address the relationship between body sprays and showerheads. This is because the only difference between the definitions of âbody sprayâ and âshowerheadâ is the installation location, as shown by the similar treatment of the two products in the marketplace. Finally, DOE is maintaining the definition of âsafety shower showerhead,â as leaving the term undefined may cause confusion about what products are subject to the energy conservation standards.</P>
+                <HD SOURCE="HD1">III. Discussion</HD>
+                <HD SOURCE="HD2">A. Reinstatement of the October 2013 Final Rule's Definition of âShowerheadâ</HD>
+                <P>
+                    In the July 2021 NOPR, DOE tentatively determined that EPCA's definition of showerhead is ambiguous and that the December 2020 Final Rule's definition of âshowerheadâ is not consistent with EPCA's purposes to conserve water by improving water efficiency of certain plumbing products and appliances and to improve energy efficiency of major appliances and consumer products. 86 FR 38594, 38597; (
+                    <E T="03">See also</E>
+                     42 U.S.C. 6201) DOE also tentatively determined that: Congressional intent does not require DOE to adopt the ASME definition for âshowerheads;â that the October 2013 Final Rule did not effectively ban multi-headed showerheads from the market; and that the December 2020 Final Rule's definition of âshowerheadâ is inconsistent with EPCA's purposes, and falls within the National Technology Transfer and Advancement Act of 1995 (âNTTAAâ) and OMB Circular A-119 exception to the use of voluntary consensus standards. 
+                    <E T="03">Id.</E>
+                     As such, DOE proposed to withdraw the December 2020 Final Rule's definition of âshowerheadâ and to reinstate the definition of âshowerheadâ from the October 2013 Final Rule. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    Based on the discussion in the following sections and the analysis presented in the July 2021 NOPR, DOE is reinstating the pre-December 2020 Final Rule definition of âshowerheadâ as proposed in the July 2021 NOPR. In response to the July 2021 NOPR, PMI, the CA IOUs, the Joint Advocates, and CEC supported DOE's reevaluation of the December 2020 Final Rule and urged the finalization of the proposed rule. (PMI, No. 22 at pp.1-2; CA IOUs, No. 20 at p. 1; Joint Advocates, No. 23 at pp.1, 3; CEC, No. 19 at pp. 1-2; PMI, Public Meeting Transcript at p.6; CA IOUs, Public Meeting Transcript at p.4) AWE, 
+                    <E T="03">et al.,</E>
+                     the District, and NPCC also supported DOE's proposal to reinstate the prior definition of âshowerhead.â (AWE, 
+                    <E T="03">et al.,</E>
+                     No. 21 at p. 1; the District, No. 16 at pp.1-2; NPCC, No. 12 at p. 1; AWE, Public Meeting Transcript at p.7) Additionally, Hekstra and ASAP commented in support of this rulemaking. (Hekstra, No. 17; ASAP, Public Meeting Transcript at p. 4) However, CEI 
+                    <E T="03">et al.</E>
+                     opposed re-instatement of the definition of showerhead as established in the October 2013 Final Rule on the grounds that it is incompatible with the law and detrimental to consumers. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p. 2)
+                </P>
+                <HD SOURCE="HD3">1. EPCA's Definition of âShowerheadâ Is Ambiguous</HD>
+                <P>
+                    In the July 2021 NOPR, DOE tentatively determined that the term âshowerheadâ is ambiguous. 86 FR 38594, 38597-38598. EPCA defines the term âshowerheadâ as âany showerhead (including a handheld showerhead), except a safety shower showerhead.â (42 U.S.C. 6291(31)(D)) Congress adopted this definition of showerhead 
+                    <PRTPAGE P="71801"/>
+                    in 1992 as part of the Energy Policy Act. Thereafter, however, between 1992 and 2010, the designs of showerhead diversified into a myriad of products including waterfalls, shower towers, rainheads, and shower systems.
+                    <SU>10</SU>
+                    <FTREF/>
+                     In the 2010 Draft Interpretive Rule, DOE noted that it had become aware of uncertainty in how the EPCA definition and standard applies to such products. 
+                    <E T="03">Id.</E>
+                     As such, DOE issued the draft interpretive rule to âmake clear to all stakeholdersâ DOE's interpretation of the definition of âshowerheadâ with respect to the 2.5 gpm maximum water use requirement. 
+                    <E T="03">Id.</E>
+                     at 1-2.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âSee 
+                        <E T="03">https://www.regulations.gov/document?D=EERE-2010-BT-NOA-0016-0002.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Similarly, in the 2011 Enforcement Guidance, DOE explained that it had learned that some had come to believe that a showerhead that expels water from multiple nozzles constituted not a single showerhead, but rather multiple showerheads and thus could exceed the maximum permitted water use.
+                    <SU>11</SU>
+                    <FTREF/>
+                     DOE further acknowledged that absence of enforcement could have contributed to that misunderstanding. 
+                    <E T="03">Id.</E>
+                     at 2. While DOE acknowledged such confusion, DOE withdrew the 2010 Draft Interpretive Rule in the 2011 Enforcement Guidance document based on its conclusion that the term âany showerheadâ has been, and continues to be, sufficiently clear such that no interpretive rule is needed. 
+                    <E T="03">Id.</E>
+                     In the 2011 Enforcement Guidance, DOE stated that multiple spraying components sold together as a single unit designed to spray water onto a single bather constitute a single showerhead for purpose of the maximum water use standard. 
+                    <E T="03">Id.</E>
+                     DOE provided manufacturers a two-year grace period to sell any remaining noncompliant products and to adjust product designs for compliance with EPCA and DOE regulations. 
+                    <E T="03">Id.</E>
+                     at 3.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âSee 
+                        <E T="03">https://www.energy.gov/sites/prod/files/gcprod/documents/Showerhead_Guidancel.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>Consequently, the ambiguity of the word âshowerheadâ in EPCA is underscored by its history. DOE's statements in both the 2010 Draft Interpretive Rule and the 2011 Enforcement Guidance illustrate that confusion existed among manufacturers about what constituted a showerhead under the statutory definition. The diversification of the marketplace as it pertains to âshowerheadsâ and the confusion about what products were considered a showerhead by manufacturers following inclusion of the term in EPCA, as amended by EPAct 1992, further illustrate that the statutory definition of âshowerheadâ is ambiguous. In the July 2021 NOPR, DOE stated that it believes that any ambiguity in the statutory meaning should be explicated by a regulatory definition that is consistent with EPCA's purposes. 86 FR 38594, 38598.</P>
+                <P>
+                    In response to the July 2021 NOPR, commenters highlighted the circular nature of the statutory definition of âshowerhead.â CEI 
+                    <E T="03">et al.</E>
+                     commented that the statutory definition of showerhead is circularâthe definition of the term includes the term being defined (
+                    <E T="03">i.e.,</E>
+                     showerhead is a showerhead). Further, CEI 
+                    <E T="03">et al.</E>
+                     argued that the December 2020 Final Rule concluded that the statutory uncertainty was largely resolved when the per-showerhead approach was adopted by ASME, even though the July 2021 NOPR asserted ongoing doubt. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p. 2) And Hekstra agreed that consumers and manufacturers appreciate clarity and a circular definition is not clear. (Hekstra, No. 17 at p. 1).
+                </P>
+                <P>
+                    DOE agrees that the statutory definition of âshowerheadâ is a circular definition, which further illustrates the ambiguity of a term that is defined by itself. Further, contrary to CEI 
+                    <E T="03">et al.'</E>
+                    s assertion that the statutory uncertainty was resolved in the December 2020 Final Rule, the December 2020 Final Rule stated that ambiguity exists regarding what is considered a âshowerheadâ under EPCA and, in that rule, DOE said it was clarifying what constitutes a âshowerhead.â 85 FR 81341, 81344. As outlined in the previous discussion, DOE continues to find that the statutory definition of âshowerheadâ is ambiguous for the reasons presented in the July 2021 NOPR and in this final rule. Ambiguity in the statutory meaning is appropriately resolved by a regulatory definition that furthers EPCA's purposes consistent with that statute.
+                </P>
+                <HD SOURCE="HD3">2. The December 2020 Final Rule's Definition of Showerhead Is Inconsistent With EPCA's Purposes</HD>
+                <P>
+                    As outlined in the July 2021 NOPR, Congress included a statement of purpose in EPCA that sets forth seven purposes related to energy. Most relevant to the Energy Conservation Program, one of the primary purposes of EPCA is âto conserve energy supplies through energy conservation programs, and, where necessary, the regulation of certain energy uses.â (42 U.S.C. 6201(4); Pub. L. 94-163 (Dec. 22, 1975)); 
+                    <E T="03">see</E>
+                     86 FR 38594, 38598. The EPAct 1992 amended EPCA by adding plumbing products, including showerheads, to the products covered by the Energy Conservation Program. (Pub. L. 102-486 (Oct. 24, 1992)) In doing so, EPAct 1992 also added to EPCA the purpose of conservation of water âby improving the water efficiency of certain plumbing products and appliances,â in addition to the purpose of energy savings. (42 U.S.C. 6201(8))
+                </P>
+                <P>
+                    In the 2010 Draft Interpretive Rule, DOE explained that all components that are supplied together and function from one inlet form a single showerhead for purposes of the maximum water use standards under EPCA.
+                    <SU>12</SU>
+                    <FTREF/>
+                     DOE stated that neither the statutory definition nor the test procedures for showerheads treat a showerhead differently based upon the shape, size, placement, or number of sprays or openings it may have. 
+                    <E T="03">Id.</E>
+                     at 2. Further, DOE highlighted that the test procedure contemplates that the regulated showerhead fitting may have additional âaccessoryâ water outlets and specifies that all standard accessories must be attached and set at maximum flow during testing. 
+                    <E T="03">Id.</E>
+                     DOE clarified that a showerhead is determined to be noncompliant if the standard components, operating in their maximum design flow configuration taken together use in excess of 2.5 gpm. 
+                    <E T="03">Id.</E>
+                     at 3. (emphasis omitted) DOE stated that this approach furthers the goal of EPCA to âconserve water by improving the water efficiencyâ of showerheads. 
+                    <E T="03">Id.</E>
+                     In DOE's 2011 Enforcement Guidance, DOE articulated a modified interpretation of the statutory definition of âshowerheadâ from the definition proposed in the 2010 Draft Interpretive Rule. DOE stated that multi spraying units sold together as a single unit designed to spray water onto one bather are considered a single showerhead.
+                    <SU>13</SU>
+                    <FTREF/>
+                     DOE explained that all sprays and nozzles should be turned onto the maximum flow setting to determine water use. 
+                    <E T="03">Id.</E>
+                     DOE found this approach is consistent with the industry standard, the statutory language, and Congressional intent to establish a maximum water use requirement. 
+                    <E T="03">Id.</E>
+                     These previous statements by DOE illustrate that a definition of âshowerheadâ that includes a multi-headed showerhead is consistent with EPCA's purpose of water conservation.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âSee 
+                        <E T="03">https://www.regulations.gov/document?D=EERE-2010-BT-NOA-0016-0002.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âSee 
+                        <E T="03">https://www.energy.gov/sites/prod/files/gcprod/documents/Showerhead_Guidancel.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    While the 2020 rulemaking acknowledged that water conservation is among EPCA's purposes, it did not fully account for how its definition of âshowerheadâ would comport with this purpose of EPCA. 85 FR 81341, 81353. In the July 2021 NOPR, DOE stated that the definition of âshowerheadâ 
+                    <PRTPAGE P="71802"/>
+                    established in the December 2020 Final Rule allows each nozzle within a showerhead with multiple nozzles to be separately subject to the standard, and thereby allows water flow at a multiple of that standard and the related increase of energy for water heating. 86 FR 38594, 38598.
+                </P>
+                <P>
+                    As discussed in the July 2021 NOPR, the contemplated treatment of showerheads in the 2010 Draft Interpretive Rule, the articulated interpretation in the 2011 Enforcement Guidance, and the regulatory definition established in the October 2013 Final Rule (
+                    <E T="03">i.e.,</E>
+                     all components attached to a single supply fitting/inlet are a single showerhead) further the goal of EPCA to âconserve water by improving the water efficiencyâ of showerheads. 86 FR 38594, 38598. In treating all components attached to a single supply fitting/inlet as a shower head, the 2.5 gpm standard applies to the combined water flow of all such attached components.
+                </P>
+                <P>
+                    In response to the July 2021 NOPR, commenters discussed the statutory interpretation of the term âshowerhead.â AWE 
+                    <E T="03">et al.</E>
+                     quoted the definition of the term âshowerheadâ from 
+                    <E T="03">Merriam-Websters.com,</E>
+                     which defines the term as âa fixture for directing the spray of water in a bathroom shower.â AWE 
+                    <E T="03">et al.</E>
+                     stated that the definition of showerhead in the 2013 Rule appropriately aligns with this understanding. AWE 
+                    <E T="03">et al.</E>
+                     further stated that the December 2020 Final Rule meant that a person taking a shower from a multi-nozzle product would be using multiple showerheads at onceâa concept that is awkward under the common, ordinary usage of the word showerhead. (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p. 2) AWE 
+                    <E T="03">et al.</E>
+                     explained that objects that are sold as a set together, installed together, and used together constitute a single product from the consumer's point of view and the usage of these objects simultaneously for the function of showering demonstrates the collection of themâthe nozzles all togetherâis the single product known as a showerhead. (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p. 3) CEC stated that the October 2013 definition more clearly defines the term showerhead to mean any showerhead, other than a safety showerhead, must meet the maximum flow rate of 2.5 gpm. Specifically, CEC explained that DOE's interpretation of the term in the December 2020 final rule is not justified or a permissible construction of the statute and measuring the water flow of all sprayers on a multi-nozzle device at the same time is the only meaningful interpretation of the statutory and regulatory structure of showerhead. (CEC, No. 19 at p. 3)
+                </P>
+                <P>
+                    Conversely, CEI 
+                    <E T="03">et al.</E>
+                     argued that the most likely intent of the statutory definition is that the 2.5 gpm restriction is applicable to each individual showerhead, otherwise the statute would have used the term shower instead. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p. 2)
+                </P>
+                <P>
+                    AWE 
+                    <E T="03">et al.</E>
+                     and CEC's comments discussing the general understanding of the term âshowerheadâ further confirm DOE's positions outlined in the 2010 Draft Interpretive Rule and the 2011 Enforcement Guidance that all components/units sold together as a single unit are considered a single showerhead. CEI 
+                    <E T="03">et al.</E>
+                     suggests that the term âshowerheadâ applies to each individual showerhead, while the term âshowerâ applies to a collection of showerheads. The term âshowerâ is generally understood to mean the location in which plumbing fixtures (
+                    <E T="03">e.g.,</E>
+                     showerhead, tub faucet, body spray) are installed to allow for the act of showering. These comments further illustrate that the term âshowerheadâ is ambiguous, as discussed in section III.A.1. As these comments and statements illustrate that the term âshowerheadâ can comprise a multi-headed showerhead and is consistent with EPCA's purpose of water conservation.
+                </P>
+                <P>In response to the July 2021 NOPR, commenters discussed the impacts of the current definition of âshowerhead.â NPCC stated that the definitions of âshowerheadâ adopted in the December 2020 Final Rule provide two significant loopholes to compliance with the standard inconsistent with the purposes of EPCA, with real significant consequences for energy and water conservation. (NPCC, No. 12 at pp.1-2) NPCC estimated that the December 2020 Final Rule definition of âshowerheadâ could significantly increase water use per shower and significantly impact consumption of electricity as well as natural gas. (NPCC, No. 12 at p. 2) The Joint Advocates stated that the definition of âshowerheadâ that was finalized in the December 2020 Final Rule goes against the purposes of EPCA and allows for showerheads to use an unlimited amount of water. Additionally, the Joint Advocates stated that the current definition of âshowerheadâ would allow for excessive water use and result in increased costs for consumers. (Joint Advocates, No. 23 at p.1) The CA IOUs stated that the December 2020 Final Rule introduced the prospect of limitless water usage in many showerhead products. (CA IOUs, No. 20 at p.1) Hekstra commented that the 2020 definition created a loophole that needs to be closed to meet the goal of creating a system that reduces the amount of water used per minute by the average shower user. (Hekstra, No. 17)</P>
+                <P>CEC stated that the climate and environmental damages, such as harm from increased emissions, worse air quality, unnecessary energy demand, and water availability, resulting from the December 2020 Final Rule are felt across state lines. (CEC, No. 19 at p.2) CEC stated that the definition included in the December 2020 Final Rule results in an increase in water and energy use nationwide by allowing multi-sprayer devices to use more than the maximum flow rate, and is not a permissible construction of the statute. (CEC, No. 19 at p.3)</P>
+                <P>
+                    AWE 
+                    <E T="03">et al.</E>
+                     referenced its prior comments in which it estimated that the current definition could increase annual energy consumption by 25 trillion British thermal units for each gpm increase in shower flow rate, and together with the increased annual domestic water use, could increase annual water and energy bills for American consumers by an estimated $1.14 billion. (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p. 4) AWE 
+                    <E T="03">et al.</E>
+                     explained that the U.S. is experiencing serious water shortages and the December 2020 Final Rule only serves to increase the consumption of drinking water that will have severe impacts on water supplies across the country. Further, AWE 
+                    <E T="03">et al.</E>
+                     stated that the December 2020 Final Rule could increase residential water consumption upwards of 160 gallons annually by allowing multiple showerhead systems to increase flows from the previous 2.5 gpm. AWE 
+                    <E T="03">et al.</E>
+                     also noted the pressure on water utilities will continue to grow, due to population increases in areas like the West, where water is scare, and climate change, which is causing long-term declines in rainfall in many regions. The increased water consumption under the December 2020 Final Rule will increase water utility costs as it becomes necessary to provide new water supplies, and therefore may increase customer bills, as the costs for procuring needed new water supplies is passed onto consumers. (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at pp.2-3) AWE stated that the December 2020 Final Rule would potentially waste billions of gallons of water, increase energy use and power plant emissions, and raise consumer water bills. Further, with much of the country struggling with drought, these 2020 changes could further compromise water supply availability. (AWE, Public Meeting Transcript at p. 7)
+                </P>
+                <P>
+                    CEI 
+                    <E T="03">et al.</E>
+                     asserted that EPCA requires DOE to balance energy and/or water 
+                    <PRTPAGE P="71803"/>
+                    conservation against other factors important to consumers, including costs and other consumer protections. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p. 3) CEI 
+                    <E T="03">et al.</E>
+                     argued that the proposed rule did not provide evidence that it would result in significant water savings as required by statute. CEI 
+                    <E T="03">et al.</E>
+                     further stated that without evidence of widespread adoption of multi-head showers with a maximum flow rate above 2.5 gpm, the agency has not shown that reimposing the restrictions on them would result in significant water savings. CEI 
+                    <E T="03">et al.</E>
+                     also argued that showers are adjustable and even with models that have maximum flow rate above 2.5 gpm, users will not necessarily use that level of water flow for every showerâthe highest settings in such showerhead would only be used occasionally and such use would likely be shorter in duration. CEI 
+                    <E T="03">et al.</E>
+                     continued that the insignificance of the water savings undercuts the climate change rationale for the Proposed Rule. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p. 5) Finally, CEI 
+                    <E T="03">et al.</E>
+                     stated that the July 2021 NOPR's critique of the December 2020 Final Rule is based on the misleading belief that the statutory provisions prioritize efficiency above everything else. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p.6)
+                </P>
+                <P>Anonymous suggested that if less water is coming out of their shower per minute, a consumer may take longer showers. (Anonymous, No. 5 at p. 1) Similarly, Southerland argued that restricting the water flow from a showerhead will not âsaveâ water because if water flow is restricted, a person will take a longer shower defeating the purpose of the limited water flow. (Southerland, No. 2)</P>
+                <P>
+                    DOE has considered these comments in this rulemaking as they relate to the December 2020 Final Rule's definition of âshowerhead.â DOE continues to believe that EPCA's purpose should be considered when amending the definition of a covered product. As this rulemaking does not amend the water conservation standards for showerheads, DOE is not required to conduct the analysis required by 42 U.S.C. 6295(o) suggested by CEI 
+                    <E T="03">et al.</E>
+                     Further, DOE continues to consider all relevant statutory provisions, including those related to consumer protection, which are discussed in section IV.4. DOE agrees with commenters that if maintained, the December 2020 Final Rule âshowerheadâ definition will likely increase water usage and increase associated energy use. These increases would be contrary to EPCA's purposes of reducing water and energy consumption. As such, DOE has determined that the December 2020 Final Rule's definition of âshowerheadâ should be withdrawn.
+                </P>
+                <P>Also, in response to the July 2021 NOPR, DOE received comments about the prior 2013 definition of âshowerhead.â The NPCC stated that the reinstated definition of âshowerheadâ would return stability to the consumption and efficiency aspects of the showerhead standard. Further, NPCC explained that the Northwest has about 10 million showerheads, and reinstating this definition will ensure significant electricity, natural gas, and water savings are not lost. (NPCC, No. 12 at p. 2) The District stated that the proposed withdrawal better fits with the purpose of the EPCA by improving the energy efficiency and water efficiency of consumer products. Further, the District commented that efficient shower fixtures reduce water usage not only per household, but also on a regional scale. This reduction in demand helps conservation efforts especially in regions experiencing frequent droughts and other water-conscious communities that would be detrimentally impacted by unnecessary additional use of water. (The District, No. 16 at pp.1-2) The Joint Advocates stated that the October 2013 definition will not result in excessive water use and with several regions across the country facing droughts and water shortages, it is important now more than ever to reduce water demand and conserve energy. (Joint Advocates, No. 23 at p. 1) Hekstra stated that the 2013 definition will reduce the amount of water used by those that wish to have multiple showerheads in one shower. (Hekstra, No. 17)</P>
+                <P>
+                    AWE 
+                    <E T="03">et al.</E>
+                     commented that DOE's proposal to reinstate the definition from the 2013 Rule will better effectuate EPCA's water conservation purposes. (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p.2) AWE 
+                    <E T="03">et al.</E>
+                     reiterated the significant water and energy savings from the existing definition of âshowerheadâ and that the cumulative savings over 10 years from 2.5 gpm showerheads could supply up to 1 million homes with water and 670,000 homes with energy for a year. AWE 
+                    <E T="03">et al.</E>
+                     also stated that the replacement of older, high-flow showerheads provides 11 billion gallons per year in water savings and 5 trillion Btu per year in energy savings in the United States. (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p. 4)
+                </P>
+                <P>CEC explained that conserving water is especially important because 90 percent of the Western United States is experiencing drought conditions and 54 percent is in âextreme drought.â CEC also noted that California has seen more than 7,200 fire incidents and more than 2 million acres burned, including devastating fires such and that it is imperative to use every available tool to address the unnecessary and inefficient use of energy and water, including and especially improving energy and water conservation standards. (CEC, No. 19 at pp.1-2) The CA IOUs stated that over 95 percent of California's landmass is currently impacted by severe drought, so it is critical for its state that DOE ensure showerhead water efficiency is protected and strengthened. (CA IOUs, Public Meeting Transcript at p.3) And Kelley noted the importance of conserving valuable resources. (Kelley, No. 11)</P>
+                <P>DOE has considered the comments received in response to the July 2021 NOPR and agrees with the commenters that the definition of âshowerheadâ from the October 2013 Final Rule and the associated interpretation provided water and energy savings and protected the environment. As discussed above in this section, DOE continues to find that the history of the definition of âshowerheadâ and the comments in response to July 2021 NOPR illustrate that the term âshowerheadâ can comprise a multi-headed showerhead and is consistent with EPCA's purpose of water conservation. Further, DOE has determined that if maintained, the December 2020 Final Rule âshowerheadâ definition will likely increase water usage and increase associated energy use and as such the current definition of âshowerheadâ should be withdrawn.</P>
+                <P>As such, DOE is withdrawing the definition of showerhead finalized in the December 2020 Final Rule and re-instating the definition established in the October 2013 Final Rule, which as discussed, appropriately addresses the water conservation purpose of EPCA.</P>
+                <HD SOURCE="HD3">3. Reliance on ASME for the Definition of âShowerheadâ Is Not Required</HD>
+                <P>
+                    In the July 2021 NOPR, DOE explained that it tentatively departed from the view expressed in the December 2020 Final Rule that it would be more consistent with Congressional intent to rely on ASME for the definition of âshowerhead.â 86 FR 38594, 38600. DOE stated that DOE does not believe Congress required reliance on the ASME definition. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    As discussed previously in this document, Congress established the definition of âshowerheadâ in EPAct 1992, along with the provisions related to definitions, standards, test procedures, and labeling requirements for plumbing products. (Pub. L. 102-486; Oct. 24, 1992 Sec. 123) EPAct 1992 and EPCA define the term 
+                    <PRTPAGE P="71804"/>
+                    âshowerheadâ as âany showerhead (including a handheld showerhead), except a safety shower showerhead.â (42 U.S.C. 6291(31)(D)) In the same paragraph, Congress provided explicit direction to define the terms âwater closetâ and âurinalâ in accordance with ASME A112.19.2M, but did not provide such instructions with respect to âshowerhead.â (
+                    <E T="03">Cf.</E>
+                     Sec. 123(b)(5) of Pub. L. 102-486) DOE has learned since the July 2021 NOPR that ASME A112.18.1M-1989 did not contain a definition for showerheads, but it did contain requirements for showerheads. Congress adopted the ASME standards only for the water conservation standards, test procedures, and labeling requirements, specified ASME A112.18.1M-1989 as the applicable standard, and required DOE to adopt the revised version of the standard, unless it conflicted with the other requirements of EPCA. (42 U.S.C. 6295(j)(1) and (3); 42 U.S.C. 6293(b)(7); 42 U.S.C. 6294(a)(2)(E)) While Congress could not rely on a definition of âshowerheadâ in ASME A112.18.1M-1989 in defining the term, Congress could have required DOE to adopt a definition of âshowerheadâ as defined in any revised version of the ASME A112.18.1M-1989 as it did with requirements for standards and test procedures related to standards. Congress defined âshowerheadâ and did not explicitly require DOE to amend the definition of âshowerheadâ in conformity with the applicable ASME standard.
+                </P>
+                <P>Further, the mere fact that the terms immediately preceding showerhead are âASMEâ and âANSIâ does not suggest that Congress intended for DOE to rely on the ASME definition. EPCA directly references ASME A112.18.1M-1989, or a revised version of the standard approved by ANSI, for showerhead test procedures, energy conservation standards, and labeling requirements, but noticeably does not direct DOE to adopt a definition of âshowerheadâ from an amended version of the industry standard. Had Congress intended for DOE to apply the definition of âshowerheadsâ from the industry standard, it would have provided the necessary reference. DOE received a comment only from CEC on this issue. CEC stated that DOE correctly concludes that Congress did not require DOE to rely on ASME for the definition of showerheads. (CEC, No. 19 at p. 3).</P>
+                <P>Based on the discussion in the preceding paragraphs and presented in the July 2021 NOPR, DOE maintains its decision that it is not required to define âshowerheadâ according to the ASME definition and that Congress intended DOE to have flexibility to define the term.</P>
+                <HD SOURCE="HD3">4. The Reinstated Definition of âShowerheadâ Does Not Effectively Ban Multi-Headed Showerheads</HD>
+                <P>As discussed in the July 2021 NOPR, EPCA provides that the Secretary is prohibited from prescribing an amended or new standard if the Secretary finds that interested persons have established by a preponderance of the evidence that the standard is likely to result in the unavailability in the United States in any covered product type (or class) of performance characteristics (including reliability), features, sizes, capacities, and volumes that are substantially the same as those generally available in the United States at the time of the Secretary's finding. (42 U.S.C. 6295(o)(4)); 86 FR 38594, 38601.</P>
+                <P>
+                    In the August 2020 NOPR, DOE proposed to adopt an amended definition of âshowerheadâ that complies with the Congressional directive to preserve performance characteristics and features that were available on the market at the time DOE originally acted to eliminate them. 85 FR 49298, 49291. DOE explained that it cannot regulate or otherwise act to remove products with certain performance characteristics and features from the market given the prohibition in 42 U.S.C. 6295(o)(4). 85 FR 49282, 49290. In the December 2020 Final Rule, DOE further explained that considering two, three, or eight showerheads in a given product to be a âfeatureâ is consistent with DOE's previous rulemakings and determinations of what constitutes a feature. 85 FR 81341, 81347. DOE further stated that following the 2011 Enforcement Guidance, which DOE stated appeared to effectively ban the vast majority of products with multiple âshowerheadsâ from the market, DOE codified in DOE regulations its effective ban on products with multiple showerheads from the market. 85 FR 49284, 49291. DOE acknowledged, as is the case with the August 2020 definitional proposed rule, that the October 2013 Final Rule was not a standards rulemaking and did not comply with the statutory requirements of a standards rulemaking. 85 FR 81341, 81347. DOE stated, however, that the effect was the same in that multi-headed showerhead products, while not entirely eliminated from the market, were significantly reduced in availability as a result of the 2011 Enforcement Guidance. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    In the July 2021 NOPR, DOE revisited its application of section 6295(o)(4) of EPCA in the context of the âshowerheadâ definition. 86 FR 38594, 38601. As discussed in the July 2021 NOPR, the âunavailabilityâ provision of section 6295(o)(4) of EPCA applies to the establishment and amendment of standards. Further, assuming arguendo that DOE did amend the water conservation standard or that the rule had the effect of a water conservation standard, the October 2013 Final Rule did not eliminate multi-headed showerheads from the market. DOE reviewed its certification database and found that currently there are 7,704 basic models of showerheads, with multi-headed showerheads continuing to account for 3% of all basic models. Therefore, 42 U.SC. 6295(o)(4) was not applicable in the October 2013 Final Rule as DOE did not amend the standard for showerheads, nor did the rule eliminate multi-headed showerheads from the market as there are currently over 231 basic models on the market. Further, as multi-headed showerheads have not been eliminated from the market, DOE is not determining whether multi-headed showerheads provide a functionality/performance characteristic. 
+                    <E T="03">Id.</E>
+                     at 86 FR 38602.
+                </P>
+                <P>
+                    CEI 
+                    <E T="03">et al.</E>
+                     stated that EPCA forbids any standard that compromises product features and performance. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p. 3) CEI 
+                    <E T="03">et al.</E>
+                     argued that the law only requires a showing that at least one model including such feature was generally available at the time the standard was promulgated, and that Congress could have explicitly overridden the consumer protections in the law and categorically outlawed any and all shower configurations that allow more than 2.5 gpm in total, and that the statute did not clearly do so. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p. 4) Finally, CEI 
+                    <E T="03">et al.</E>
+                     further stated that although DOE reasserted that any changes to the definition of showerhead are not a new or amended standards rulemaking, the reinterpretation has the effect of changing the standard and as such must comply with the pro-consumer provisions in the statute. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at p. 4) CEI 
+                    <E T="03">et al.</E>
+                     also stated that while multi-showerhead units can be manufactured as long as they do not use more than 2.5 gpm in total, such models are unlikely to deliver desired performance and thus would not meet the statutory requirements of being âsubstantially the sameâ. (CEI 
+                    <E T="03">et al.,</E>
+                     No. 18 at pp. 4-5)
+                </P>
+                <P>
+                    In support of the July 2021 NOPR, PMI explained that its members have spent millions of dollars on research and development, manufacturing, third-party certification, packaging, marketing, and distribution of water-efficient showerheads to meet the 
+                    <PRTPAGE P="71805"/>
+                    October 2013 Final Rule definition and that such-products are high-performing plumbing products. (PMI, No. 22 at p. 2) PMI further stated that its member companies did not produce, sell or distribute modified showerheads to meet the new definition of showerhead that was put in place in the December 2020 Final Rule. (
+                    <E T="03">Id.</E>
+                    )
+                </P>
+                <P>
+                    As explained in the December 2020 Final Rule and the July 2021 NOPR, DOE's previous definitional changes and rulemakings for showerheads were not standards rulemakings nor is DOE establishing or amending standards for showerheads. Therefore DOE is not determining whether multi-headed showerheads provide a functionality/performance characteristic. (
+                    <E T="03">See</E>
+                     42 U.S.C. 6295(o)(4)) Even assuming 
+                    <E T="03">arguendo,</E>
+                     as in the July 2021 NOPR (86 FR 38594, 53602), that DOE did amend the water conservation standard or that the rule had the effect of a water conservation standard, the definition established in the October 2013 Final Rule did not eliminate multi-headed showerheads from the market. A review of the market prior to the December 2020 Final Rule illustrated that three percent of the 7,221 basic models of showerheads are multi-headed showerheads. 
+                    <E T="03">See</E>
+                     85 FR 49284, 49293. While the information DOE used to determine the number of multi-headed showerheads in the July 2021 NOPR is no longer available,
+                    <SU>14</SU>
+                    <FTREF/>
+                     DOE has conducted a general review of models currently on the retail market, which indicates that showerheads with multiple nozzles/spray components, continue to be available. Given that multi-headed showerheads continue to be available in the market, this action does not reduce performance nor remove any features from the market as asserted by CEI.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âFor the December 2020 Final Rule, DOE determined the percentage of showerheads that are multi-headed showerheads using a retailer website. However, the same retailer website no longer provides the information needed to calculate an updated percentage. In addition, CCMS does not distinguish multi-headed showerheads from other showerheads.
+                    </P>
+                </FTNT>
+                <P>
+                    CEI 
+                    <E T="03">et al.</E>
+                     also expressed concern about the performance quality of multi-headed showerheads required to meet the 2.5 gpm standard for the whole system. (
+                    <E T="03">See</E>
+                     CEI, No. 18 at pp. 4-5) PMI explained that that its members have been able to produce high-performing showerheads consistent with the October 2013 Final Rule. (
+                    <E T="03">See</E>
+                     PMI, No. 22 at p. 2) If the provision at 42 U.S.C. 6295(o)(4) were applicable to this rulemaking, which as discussed it is not, CEI 
+                    <E T="03">et al.</E>
+                     have not established by a preponderance of evidence the unavailability of showerheads with multiple nozzles/spray components, as required by EPCA. The October 2013 Final Rule definition, 
+                    <E T="03">i.e.,</E>
+                     the definition reinstated by this final rule, did not eliminate multi-head shower heads from the market. As such, the definition adopted in this final rule is consistent with the Congressional directive to preserve performance characteristics and features.
+                </P>
+                <HD SOURCE="HD3">5. The Definition of âShowerheadâ Falls Within the NTTAA and OMB Circular A-119 Exception to Adherence to Voluntary Consensus Standards Because It Is Inconsistent With EPCA and Impractical</HD>
+                <P>
+                    Section 12(d)(1) of the NTTAA requires that Federal departments âuse technical standards that are developed or adopted by voluntary consensus standards bodies, except when the use of the technical standards is inconsistent with applicable law or otherwise impractical.â (Pub. L. 104-113, 110 Stat. 783 (Mar. 7, 1996), as amended by Public Law 107-107, Div. A, Title XI, section 115, 115 Stat. 1241 ((Dec. 28, 2001) (codified at 15 U.S.C. 272 note)). Similarly, OMB Circular A-119 directs Federal agencies to use voluntary consensus standards unless inconsistent with applicable law or otherwise impractical. (Section 1 of OMB Circular A-119; 
+                    <E T="03">www.whitehouse.gov/wp-content/uploads/2020/07/revised_circular_a-119_as_of_1_22.pdf.</E>
+                    )
+                </P>
+                <P>
+                    In the December 2020 Final Rule, DOE stated that the definition of âshowerheadâ adopted in that final rule is consistent with the requirements of the NTTAA and the associated OMB Circular A-119. 85 FR 81341, 81342. DOE explained that EPCA does not preclude DOE from using industry standards and that the statutory text of EPCA does not make compliance with OMB Circular A-119 inconsistent with applicable law or otherwise impracticable. 
+                    <E T="03">Id.</E>
+                     at 85 FR 81348. DOE further stated that it disagrees that the ASME definition frustrates and is inconsistent with the requirements of EPCA. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>As part of DOE's reconsideration of the December 2020 Final Rule, DOE tentatively determined in the July 2021 NOPR, in light of the comments provided during the rulemaking for the December 2020 Final Rule, that it is not appropriate to rely on the consensus industry standards as they relate to showerheads in accordance with the NTTAA and OMB Circular A-119 because the December 2020 Final Rule definition of âshowerheadâ based on ASME consensus industry standards is inconsistent with EPCA and is impractical. 86 FR 38594, 38602-38632. DOE did not receive comment to the July 2021 NOPR regarding the NTTAA and OMB Circular A-119 exception.</P>
+                <P>
+                    For the reasons set forth in the July 2021 NOPR, DOE finds that it should not adopt an industry standard here, as it would conflict with EPCA's requirements and be impractical. (
+                    <E T="03">See</E>
+                     15 U.S.C. 272 note; OMB Circular A-119 section 5.c.
+                    <SU>15</SU>
+                    <FTREF/>
+                    ) DOE's determination in the December 2020 Final Rule did not properly weigh the ASME definition of âshowerheadâ in the context of the purposes of EPCA, as it pertains to the NTTAA and OMB Circular A-119. Upon reconsideration, adopting the ASME industry standards for the definition of âshowerheadâ in the present context conflicts with EPCA and is impractical because it does not serve the purposes of water and energy conservation. And the âshowerheadâ definition and interpretation in the December 2020 Final Rule is inconsistent with EPCA and is impractical because it would permit increased water usage and increased associated energy use, directly contrary to EPCA's purposes. As such, the definition of âshowerheadâ is within the exception of NTTAA and OMB Circular A-119.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âDOE incorrectly referred to the wrong section of OMB Circular A-119 (section 6.a.2.) in the August 2021 NOPR. 86 FR 38594, 38603. The correct citation is used in this document.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">6. Additional Comments/Issues</HD>
+                <P>
+                    DOE received a comment regarding the applicability of EPCA's anti-backsliding provision. AWE 
+                    <E T="03">et al.</E>
+                     stated that on its face, the December 2020 Final Rule change amended the standard applicable to showerheads, and did so in a way that increased the âmaximum allowable water useâ of showerheads. They argue therefore that the 2020 Rule thus violated EPCA's âanti-backslidingâ rule, 42 U.S.C. 6295(o)(1). (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p. 1) AWE 
+                    <E T="03">et al.</E>
+                     further argued that the December 2020 Final Rule rationalized that DOE had not established the previous interpretation through a standards rulemaking. AWE asserted that the anti-backsliding rule does not require, as a predicate, that there was a previous standards-setting rulemaking. Instead, AWE stated that the 2.5-gpm standard was established by Congress, just as EPCA establishes many other initial conservation standards, and DOE established the pre-2020 status quo in an appropriate wayâexplaining its interpretation through a guidance document, reiterating that interpretation 
+                    <PRTPAGE P="71806"/>
+                    in the 2013 rulemaking, and confirming it in a regulatory definition. AWE further stated that regardless of whether the process involved a standards-setting rule, the outcome was certain: Until December 2020, a multiple-nozzle product was allowed to flow only at a maximum rate of 2.5 gpm. AWE 
+                    <E T="03">et al.</E>
+                     suggested that DOE is therefore obligated to revoke the 2020 Rule, because that Rule is simply contrary to EPCA and unlawful. (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p.2)
+                </P>
+                <P>
+                    DOE agrees with AWE, 
+                    <E T="03">et al.</E>
+                     that the December 2020 Final Rule amendment of the definition of âshowerheadâ could lead to increased water use. As discussed in section III.2., DOE also agrees with AWE, 
+                    <E T="03">et al.</E>
+                     that the definition of âshowerheadâ in the December 2020 Final Rule is inconsistent with EPCA's purposes of energy and water conservation. Further, DOE is withdrawing the definition of 'showerhead' adopted in the December 2020 Final Rule and returning to the definition from the October 2013 Final Rule. However, EPCA's anti-backsliding provision prohibits DOE from prescribing âany amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals, water use, or decreases the minimum required energy efficiency, of a covered product.â (42 U.S.C. 6295(o)(1)) The adoption of new or revised definitions for products, including âshowerheadsâ, does not implicate the anti-backsliding provisions because it is not a standard nor does it alter the current standard. This final rule only amends the definition of âshowerheadâ and does not amend the standards for showerheads, which were established by Congress in EPCA. (
+                    <E T="03">See</E>
+                     42 U.S.C. 6295(j)(1))
+                </P>
+                <P>
+                    DOE also received comments generally opposed to the regulation of the water flow of showerheads. (
+                    <E T="03">See</E>
+                     Doty, No. 3 at p. 1; Southerland, No. 2 at p. 1; Walters, No. 4 at p. 1) Ramer commented that the proposed definition will place a higher cost, due to testing, for showerhead manufacturers and consumers. (Ramer, No. 10 at p. 1) Halligan asked whether a grace period would be provided to allow businesses and building owners to retrofit existing models. (Halligan, No. 8 at p. 1) As discussed in section II.B., Congress established the definition of âshowerheadâ in EPAct 1992 and tasked DOE with implementing the provisions related to definitions, standards, and test procedure requirements for plumbing products. (Pub. L. 102-486; Oct. 24, 1992 Sec. 123) Further, the definition adopted in this final rule and the statutory standard apply to products as manufactured, not products already installed. (
+                    <E T="03">See generally</E>
+                     42 U.S.C. 6302)
+                </P>
+                <P>A commenter also questioned whether the December 2020 Final Rule's definition of âshowerheadâ really limited DOE's capabilities in the water conservation effort. (Johnston, No. 7 at p. 1) As discussed in section IV.A.II, the December 2020 Final Rule's definition for âshowerheadâ would increase water and energy use.</P>
+                <HD SOURCE="HD2">B. Withdrawal of DOE's Current Definition of âBody Sprayâ</HD>
+                <P>DOE adopted a definition for âbody sprayâ in the December 2020 Final Rule, concluding that the definition of âshowerheadâ in the October 2013 Final Rule did not specifically include or exclude body sprays and that this omission may have introduced uncertainty for regulated parties and that therefore it is appropriate to clarify that body sprays are not showerheads. 85 FR 81341, 81350. DOE defined the term âbody sprayâ as âa shower device for spraying water onto a bather from other than the overhead position. A body spray is not a showerhead.â 85 FR 81341, 81359. DOE also stated that leaving the scope of products not subject to EPCA's energy conservation standard undefined, and potentially subjecting manufacturers of body sprays to DOE standards, causes more confusion than establishing a regulatory definition. 85 FR 81341, 81350.</P>
+                <P>
+                    In the July 2021 NOPR, DOE revisited the definition of âbody spray,â including the comments received in the rulemaking to the December 2020 Final Rule. In the July 2021 NOPR, DOE tentatively determined that the definition of âbody sprayâ and the interpretation that body sprays are not a showerhead does not effectively address the relationship between these two products. 86 FR 38594, 38603. The 2018 ASME standard, as well as the 2012 ASME standard, treat the products similarly, and the only difference between the definitions of âshowerheadâ and âbody sprayâ is the installation location. Further, the market review conducted by the CA IOUs during the rulemaking for the December 2020 Final Rule indicates that these two products are not treated differently in the marketplace.
+                    <SU>16</SU>
+                    <FTREF/>
+                     Given the similar treatment by the industry standard and the market, as well as the lack of discernable differences between the products, DOE tentatively determined that the current definition does not best address the relationship between these two products. 
+                    <E T="03">Id.</E>
+                     In addition, DOE stated that the current definition of âbody sprayâ may result in excessive water use that is inconsistent with EPCA's purposes. 
+                    <E T="03">Id.</E>
+                     While DOE explained in the December 2020 Final Rule that leaving the term âbody spraysâ undefined introduced uncertainty into the market about whether those products needed to comply with the 2.5 gpm standard, the research done by CA IOUs shows that products with body sprays complied with the energy conservation standard. 
+                    <E T="03">Id.</E>
+                     As such, DOE tentatively determined that the current definition of âbody sprayâ should be withdrawn. 
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        â
+                        <E T="03">See</E>
+                         Docket No. EERE-2020-BT-TP-0002-0084 at pp.3-5.
+                    </P>
+                </FTNT>
+                <P>
+                    In response to the July 2021 NOPR, DOE received comments expressing support for the withdrawal of the recently codified definition of âbody sprayâ from the ASAP, CEC, NPCC, CA IOUs, AWE 
+                    <E T="03">et al.,</E>
+                     the District, and the Joint Advocates. (CEC, No. 19 at p. 3; NPCC, No. 12 at p. 2; CA IOUs, No. 20 at p. 1; AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p. 3; the District, No. 16 at p. 2; Joint Advocates, No. 23 at p. 2; ASAP, Public Meeting Transcript at p. 5)
+                </P>
+                <P>
+                    Specifically, CEC stated that the December 2020 Final Rule established an ambiguous definition for âbody sprayâ that relies solely on manufacturer intent and consumer installation decisions, rather than discernable technical differences between the products. (CEC, No. 19 at p. 3) CEC added that this change to how DOE treats body sprays created a significant loophole for manufacturers to develop and sell devices that perform the same function as a showerhead, but are not required to meet the maximum 2.5 gpm flow rate simply because of âmanufacturer intentâ or device placement. (
+                    <E T="03">Id.</E>
+                     at pp. 3-4) AWE 
+                    <E T="03">et al.</E>
+                     stated that withdrawing the definition of âbody sprayâ is consistent with the purposes of the EPCA and will comply with current ASME A112.18.1/CSA B125.1 standard. (AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p.3) AWE 
+                    <E T="03">et al.</E>
+                     also explained that the body spray exclusion constitutes a significant loophole, allowing a product to be sold, installed, and used with water flow far in excess of the statutory standard, just because the water approaches the bather from a different angle. (
+                    <E T="03">Id.</E>
+                    ) Further, the Joint Advocates explained that industry standards and market research show that body spray and showerhead products are technically comparable and are often treated similarly in the market, with the only difference being the location of installation and as such, body spray products should not be explicitly 
+                    <PRTPAGE P="71807"/>
+                    excluded from meeting the 2.5 gpm standard. (Joint Advocates, No. 23 at p. 2) ASAP also stated that the definition of âbody sprayâ would result in a loophole since a body spray could be installed in pretty much any orientation. (ASAP, Public Meeting Transcript at p. 6)
+                </P>
+                <P>Commenters also discussed the impacts of the current âbody sprayâ definition on energy and water conservation. CEC also stated that by realigning its definition with the October 2013 Final Rule, DOE will reduce confusion and uncertainty in the market, resulting in energy and water conservation nationwide. (CEC, No. 19 at p. 4) The Joint Advocates explained that the current definition of âbody sprayâ has the potential to result in excessive water use by allowing products that meet this definition to be exempt from any energy conservation standards. (Joint Advocates, No. 23 at p. 2)</P>
+                <P>As described in the July 2021 NOPR and reiterated by commenters in response to the July 2021 NOPR, industry standards and the marketplace treat âshowerheadsâ and âbody spraysâ similarly with the only difference being in the installation location. Further, DOE continues to agree with the commenters' concerns about the increased water and energy use of the existing definition of âbody spray.â Having considered the comments received and based on the discussion presented in the preceding paragraphs and in July 2021 NOPR, DOE is withdrawing the current definition of âbody spray.â</P>
+                <HD SOURCE="HD2">C. Safety Shower Showerhead</HD>
+                <P>
+                    In the December 2020 Final Rule, DOE established a definition for the term âsafety shower showerhead.â 85 FR 81341, 81351. Specifically, DOE defined âsafety shower showerheadâ to mean âa showerhead designed to meet the requirements of ANSI/ISEA Z358.1 (incorporated by reference, see Â§â430.3).â 85 FR 81341, 81352; 
+                    <E T="03">see also</E>
+                     10 CFR 430.2.
+                </P>
+                <P>
+                    In the July 2021 NOPR, DOE did not propose to amend the definition of âsafety shower showerheadâ and continued to find that leaving the scope of products not subject to EPCA's energy conservation standard undefined causes confusion and is inappropriate. 86 FR 38594, 38603. Further, DOE continued to find that: What is meant by a âsafety shower showerheadâ or emergency shower is understood in the regulated industry; that it is unlikely that manufacturers of showerheads intended for use by residential consumers would design a showerhead to meet the specifications of the ANSI standard in order to avoid compliance with DOE standards; and that the definition and performance criteria in the definition of âsafety shower showerheadâ addressed concerns noted by the commenters in the 2020 rulemaking and distinguish a showerhead from a safety shower showerhead. 
+                    <E T="03">Id.</E>
+                     at 86 FR 38603-38604. Accordingly, DOE tentatively determined that retaining the definition of âsafety shower showerheadâ was necessary and appropriate. 
+                    <E T="03">Id.</E>
+                     at 86 FR 38604.
+                </P>
+                <P>
+                    In response to the July 2021 NOPR, DOE received comments expressing support for maintaining its definition of a âsafety shower showerheadâ as codified by the 2020 Final Rule from CA IOUs, CEC, ASAP, AWE 
+                    <E T="03">et al.,</E>
+                     and PMI. (CA IOUs, No. 20 at p. 1; CEC, No. 19 at p. 4; ASAP, Public Meeting Transcript at p.4; AWE 
+                    <E T="03">et al.,</E>
+                     No. 21 at p. 3; PMI, No. 22 at p. 2; PMI, Public Meeting Transcript at p. 6) Hekstra requested that there is a definition of âsafety shower showerhead.â Hekstra explained that a manufacturer cannot ensure they are within or without the exception of a safety shower showerhead if they do not know what one is. (Hekstra, No. 17) Glucksman asked whether the definition of âshowerheadâ applies to work and eye wash safety stations or if the July 2021 NOPR applies only to consumer-based showers. (Glucksman, No. 06 at p. 1)
+                </P>
+                <P>
+                    CEC supported the retention of the definition of âsafety shower showerheads,â but commented that that the definition for âsafety shower showerheadsâ presents a potential loophole in that the ANSI/ISEA Z358.1-2014 specifications do not prohibit these devices from operating in a âpartially onâ state, and therefore manufacturers could develop products that meet the requirements of ANSI/ISEA Z358.1-2014, but that could also operate in a âpartially onâ state that resembles a non-compliant showerhead. (CEC, No. 19 at p. 4) CEC stated that it has not identified any such products on the market, but CEC recommended that DOE monitor sales to ensure manufacturers are not exploiting this potential loophole and consider amendments to the definition. (
+                    <E T="03">Id.</E>
+                    ) The Joint Advocates recommended that DOE further improve the definition of âsafety shower showerheadâ to eliminate the possibility of circumvention of federal water efficiency requirements by exploiting perceived ambiguities in the federal definition of showerhead. The Joint Advocates commented future products could conceivably be designed to both meet the ANSI/ISEA standard's requirements 
+                    <E T="03">and</E>
+                     be capable of providing a shower for bathing at flow rates well above the federal standard. (Joint Advocates, No. 23 at p. 2) The Joint Advocates recommended that DOE require that safety shower showerheads both meet the ANSI/ISEA standard's requirements and also be âdesigned and marketed exclusively for emergency shower applications.â (
+                    <E T="03">Id.</E>
+                    )
+                </P>
+                <P>
+                    The comments by Glucksman and Hekstra illustrated the continuing need to have a definition for the term âsafety shower showerhead.â Consistent with the CEC and the Joint Advocates' observations, DOE is not aware of products on the market certified to ANSI/ISEA Z358.1-2014 that allow for operation at a reduced flowrate appropriate for normal bathing. Section 4.2 of ANSI/ISEA Z358.1-2014 specifies that the valve for a safety shower showerhead âshall be simple to operate and shall go from `off' to `on' in 1 second or less.â The specification for the âoffâ to âonâ operation of the valve makes it unlikely that a value with an intermediate setting that provides reduced flow (
+                    <E T="03">i.e.,</E>
+                     reducing the flowrate from 20 gpm specified in the industry standard to a flowrate acceptable for normal bathing) would comply with the definition of âsafety shower showerhead.â Further, the testing procedures for ANSI/ISEA certification of emergency showers in Section 4.4.1 of ANSI/ISEA Z358.1-2014 also requires verification that the valve âfully opens in one second or less and that it stays open,â indicating that valve must be open for the duration of the operation, in turn not allowing for any reduced flow rates. Therefore, DOE finds it unlikely that manufacturers would introduce safety shower showerheads that allow for operation at a reduced flow due to the risk of inadvertent operation of the product at a reduce flow in an emergency situation. As such, DOE is not amending the definition of âsafety shower showerhead.â
+                </P>
+                <HD SOURCE="HD1">IV. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866</HD>
+                <P>The Office of Management and Budget (OMB) has determined that this final rule constitutes a âsignificant regulatory actionâ under section 3(f) of Executive Order (E.O.) 12866, âRegulatory Planning and Review,â 58 FR 51735 (Oct. 4, 1993). Accordingly, this action was subject to review under E.O. 12866 by the Office of Information and Regulatory Affairs (OIRA) at OMB.</P>
+                <P>
+                    This rule provides important benefits to consumers, producers, and society. Clear definitions, as finalized in this 
+                    <PRTPAGE P="71808"/>
+                    rule, are beneficial to resolve ambiguity for manufacturers and consumers. And because returning to the October 2013 definition of âshowerhead,â withdrawing the current definition of âbody spray,â and maintaining the current definition of âsafety shower showerheadâ better effectuate EPCA's water and energy conservation purposes, this rule also reinforces to manufacturers and the public that DOE's overarching goal in implementing EPCA is water and energy conservation.
+                </P>
+                <P>By returning to the definition of âshowerheadâ and to the interpretation of âbody sprayâ that existed prior to the December 2020 Final Rule, the rule provides consumers and society the benefits derived from the water and energy savings of DOE's previous approach to these terms. Consumers have access in the market to high-performing showerheads, including multi-headed showerheads, that meet the definitions finalized here, and so this action does not reduce performance or remove from the market any features that are currently available. DOE expects that these benefits to consumers and society will materialize over the long term as DOE believes that manufacturers have no near-term plans to produce, sell, or distribute modified showerheads that would use more water in ways inconsistent with the definitions being re-adopted in this rule.</P>
+                <P>DOE has weighed the benefits (decreased water usage, increased clarity, and consumer energy savings) against the potential costs, and has determined that the benefits of adopting this definition change outweigh the costs, and that achieving these benefits for consumers and society effectuates the purposes of EPCA.</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of a final regulatory flexibility analysis (âFRFAâ) for any final rule where the agency was first required by law to publish a proposed rule for public comment, unless the agency certifies that the rule will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. DOE has made its procedures and policies available on the Office of the General Counsel's website (
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                    ).
+                </P>
+                <P>DOE reviewed this final rule under the provisions of the Regulatory Flexibility Act and the procedures and policies published on February 19, 2003. DOE certifies that the final rule will not have significant economic impact on a substantial number of small entities. The factual basis for this certification is set forth in the following paragraphs.</P>
+                <P>
+                    The Small Business Administration (âSBAâ) considers a business entity to be a small business, if, together with its affiliates, it employs less than a threshold number of workers or earns less than the average annual receipts specified in 13 CFR part 121. The threshold values set forth in these regulation use size standards codes established by the North American Industry Classification System (âNAICSâ) that are available at: 
+                    <E T="03">www.sba.gov/document/support--table-size-standards.</E>
+                     Plumbing equipment manufacturers are classified under NAICS 332913 âPlumbing Fixture Fitting and Trim Manufacturing,â and NAICS 327110 âPottery, Ceramics, and Plumbing Fixture Manufacturing.â The SBA sets a threshold of 1,000 employees or fewer for an entity to be considered a small business within these categories.
+                </P>
+                <P>
+                    This final rule withdraws the current definition of showerhead and reinstates the prior definition of showerhead. It also withdraws the definition of body sprays. Finally, this final rule retains the definition of safety shower showerhead. DOE has not found any showerheads that have been introduced into the market by any manufacturers, large or small, since the December 2020 Final Rule became effective that certified compliance on the basis of the revised definitions in the December 2020 Final Rule, as compared to the definition established in the October 2013 Final Rule. All certified showerheads in DOE's Compliance Certification Databaseâ
+                    <SU>17</SU>
+                    <FTREF/>
+                     (âCCMSâ) have flow rates no greater than 2.5 gpm and would meet the definition established in the October 2013 Final Rule. Additionally, in response to the July 2021 NOPR, PMI stated that its member companies did not produce, sell, or distribute modified showerheads to meet the new definition of showerhead that was put in place in the December 2020 Final Rule. (PMI, No. 22 at p. 2) As such, DOE has not found any evidence that any manufacturer, large or small, has introduced any showerhead model that relied on the definition of showerhead that was put in place in the December 2020 Final Rule. Based on the foregoing, DOE certifies that this final rule will not have a significant economic impact on a substantial number of small entities.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        â
+                        <E T="03">www.regulations.doe.gov/certification-data.</E>
+                         Last accessed on November 30, 2021.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act of 1995</HD>
+                <P>
+                    Manufacturers of showerheads must certify to DOE that their products comply with any applicable energy conservation standards. To certify compliance, manufacturers must first obtain test data for their products according to the DOE test procedures, including any amendments adopted for those test procedures. DOE has established regulations for the certification and recordkeeping requirements for all covered consumer products and commercial equipment, including showerheads. (
+                    <E T="03">See generally</E>
+                     10 CFR part 429.) The collection-of-information requirement for the certification and recordkeeping is subject to review and approval by OMB under the Paperwork Reduction Act (âPRAâ). This requirement has been approved by OMB under OMB control number 1910-1400. Public reporting burden for the certification is estimated to average 35 hours per response, including time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.
+                </P>
+                <P>This final rule withdraws the current definition of showerhead and reinstates the prior definition of showerhead. It also withdraws the definition of body sprays. Finally, this final rule retains the definition of safety shower showerhead. It does not amend the reporting requirement. Further as noted, DOE has not identified any showerheads that have been introduced into the market since the December 2020 Final Rule became effective for which certification is on the basis of the revised definitions in the December 2020 Final Rule, as compared to the definition established in the October 2013 Final Rule. Specifically, all certified showerheads in the CCMS have flow rates no greater than 2.5 gpm and PMI stated in their comments that its member companies, which comprises over 90 percent plumbing product, did not produce, sell or distribute modified showerheads based on the December 2020 Final Rule. (PMI, No. 22 at p. 2) Showerheads will not be required to recertify based solely on the amendment to the definitional amendments adopted in this final rule.</P>
+                <P>
+                    Notwithstanding any other provision of the law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply 
+                    <PRTPAGE P="71809"/>
+                    with, a collection of information subject to the requirements of the PRA, unless that collection of information displays a currently valid OMB Control Number.
+                </P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    Pursuant to the National Environmental Policy Act (NEPA) of 1969, DOE has analyzed this final action in accordance with NEPA and DOE's NEPA implementing regulations (10 CFR part 1021). DOE has determined that this rule qualifies for categorical exclusion under 10 CFR part 1021, subpart D, appendix A5 because it is an interpretive rulemaking that does not change the environmental effect of the rule and meets the requirements for application of a categorical exclusion. 
+                    <E T="03">See</E>
+                     10 CFR 1021.410. Therefore, DOE has determined that promulgation of this rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA, and does not require an environmental assessment or an environmental impact statement.
+                </P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>E.O. 13132, âFederalism,â 64 FR 43255 (Aug. 10, 1999), imposes certain requirements on Federal agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735. DOE has examined this final rule and has determined that it would not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. EPCA governs and prescribes Federal preemption of State regulations as to energy conservation for the products that are the subject of this final rule. States can petition DOE for exemption from such preemption to the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 6297) No further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of E.O. 12988, âCivil Justice Reform,â imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity, (2) write regulations to minimize litigation, (3) provide a clear legal standard for affected conduct rather than a general standard, and (4) promote simplification and burden reduction. 61 FR 4729 (Feb. 7, 1996). Regarding the review required by section 3(a), section 3(b) of E.O. 12988 specifically requires that executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the preemptive effect, if any, (2) clearly specifies any effect on existing Federal law or regulation, (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction, (4) specifies the retroactive effect, if any, (5) adequately defines key terms, and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this final rule meets the relevant standards of E.O. 12988.</P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (âUMRAâ) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments and the private sector. Public Law 104-4, section 201 (codified at 2 U.S.C. 1531). For a regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a âsignificant intergovernmental mandate,â and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect them. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. 62 FR 12820. DOE's policy statement is also available at 
+                    <E T="03">https://energy.gov/sites/prod/files/gcprod/documents/umra_97.pdf.</E>
+                </P>
+                <P>DOE has concluded that this final rule contains neither an intergovernmental mandate nor a mandate that may result in the expenditures of $100 million or more in any one year, so these requirements under the Unfunded Mandates Reform Act do not apply.</P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This rule will not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>Pursuant to E.O. 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (Mar. 15, 1988), DOE has determined that this final rule will not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under Treasury and General Government Appropriations Act, 2001</HD>
+                <PRTPAGE P="71810"/>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for Federal agencies to review most disseminations of information to the public under information quality guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant to OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act (April 24, 2019), DOE published updated guidelines which are available at 
+                    <E T="03">https://www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf.</E>
+                     DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.
+                </P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>E.O. 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA at OMB, a Statement of Energy Effects for any significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule, and that (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use.</P>
+                <P>DOE has concluded that this regulatory actionâwhich amends the definition of showerhead, withdraws the definition of body spray, and retains the definition of safety shower showerheadâwill not have a significant adverse effect on the supply, distribution, or use of energy and, therefore, is not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects on this final rule.</P>
+                <HD SOURCE="HD2">L. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule before its effective date. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">V. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 430</HD>
+                    <P>Administrative practice and procedure, Confidential business information, Energy conservation, Household appliances, Imports, Incorporation by reference, Intergovernmental relations, Small businesses.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on December 14, 2021, by Kelly J. Speakes-Backman, Principal Deputy Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on December 15, 2021.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons set forth in the preamble, DOE amends part 430 of chapter II, subchapter D, of title 10 of the Code of Federal Regulations, as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 430âENERGY CONSERVATION PROGRAM FOR CONSUMER PRODUCTS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>1. The authority citation for part 430 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 42 U.S.C. 6291-6309; 28 U.S.C. 2461 note.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>2. Section 430.2 is amended by removing the definition of âBody sprayâ and revising the definition of âShowerheadâ, to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â430.2</SECTNO>
+                        <SUBJECT> Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">Showerhead</E>
+                             means a component or set of components distributed in commerce for attachment to a single supply fitting, for spraying water onto a bather, typically from an overhead position, excluding safety shower showerheads.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2021-27462 Filed 12-17-21; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

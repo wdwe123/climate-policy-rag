@@ -1,0 +1,9 @@
+[TABLE]
+| Agencies | Programs |
+| --- | --- |
+|  | and other public and private immunization programs..; Immunization/vaccine direction, guidance, and technical; assistance to enhance the service delivery of immunizations in; order to raise immunization coverage levels for all Arizona; citizens.; Immunization Assessment Section; . Assess immunizatio |
+| AZ Department of Health; Services (ADHS); Bureau of EMS and Trauma; System | Regulatory Functions; . License, inspect, and as necessary investigate trauma centers,; air and ground ambulance companies, EMS medical control; hospitals, EMS training programs, and emergency medical care; technicians.; System Development Functions; Aggregate, evaluate, and report on EMS and trauma |
+| AZ Department of Health; Services (ADHS); PHS/EDC/ODIS | Aids Drug Assistance Program (ADAP); . Provide medications to qualifying clients. ADAP ceases to; provide drugs when available funding is exhausted or; terminated. ADAP is not an entitlement program and does not; create a right to assistance absent available funding. |
+| AZ Department of Health; Services (ADHS); Office of Vital Records | Vital Records: Birth and death certificate issuance; oThe Office of Vital Records (OvR) can issue certified copies of; birth and death records for events that occurred in Arizona.; The OvR can provide some assistance to individuals needing; quick access to a birth record from another state if there |
+| AZ Department of Health; Services (ADHS); Office of Environmental Health | Environmental Toxicology Program; Assist communities and citizens to understand potential public; health effects from known or suspected environmental; exposures.; Food Safety and Environmental Services; To prevent and control human illness related to transmitting; infectious agents or toxic substan |
+[/TABLE]

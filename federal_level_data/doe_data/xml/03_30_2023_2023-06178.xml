@@ -1,0 +1,1750 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="18965"/>
+                <AGENCY TYPE="F">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 431</CFR>
+                <DEPDOC>[EERE-2018-BT-STD-0003]</DEPDOC>
+                <RIN>RIN 1904-AE42</RIN>
+                <SUBJECT>Energy Conservation Program: Energy Conservation Standards for Variable Refrigerant Flow Multi-Split Air Conditioners and Heat Pumps</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Energy Policy and Conservation Act, as amended (EPCA), prescribes energy conservation standards for various consumer products and certain commercial and industrial equipment, including small, large, and very large commercial package air conditioning and heating equipment, of which variable refrigerant flow (VRF) multi-split air conditioners and VRF multi-split system heat pumps (collectively referred to as âVRF multi-split systemsâ) are a category. EPCA requires the U.S. Department of Energy (DOE or the Department) to consider the need for amended standards each time American Society of Heating, Refrigerating and Air Conditioning Engineers (ASHRAE) Standard 90.1 is amended with respect to the standard levels or design requirements applicable to that equipment, or periodically under a six-year-lookback review provision. In this final rule, DOE is adopting amended energy conservation standards for VRF multi-split systems that rely on a new cooling efficiency metric and are equivalent to those levels specified in ASHRAE Standard 90.1. DOE has determined that it lacks the clear and convincing evidence required by the statute to adopt standards more stringent than the levels specified in the industry standard.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P/>
+                    <P>
+                        <E T="03">Effective date:</E>
+                         The effective date of this rule is May 30, 2023.
+                    </P>
+                    <P>
+                        <E T="03">Compliance date:</E>
+                         Compliance with the amended standards established for VRF multi-split systems in this final rule is required on and after January 1, 2024.
+                    </P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, public meeting attendee lists and transcripts, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                    <P>
+                        The docket web page can be found at 
+                        <E T="03">www.regulations.gov/docket/EERE-2018-BT-STD-0003.</E>
+                         The docket web page contains instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Ms. Catherine Rivest, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: (202) 586-7335. Email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                    <P>
+                        Mr. Eric Stas, U.S. Department of Energy, Office of the General Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: (202) 586-5827. Email: 
+                        <E T="03">Eric.Stas@hq.doe.gov.</E>
+                    </P>
+                    <P>
+                        For further information on how to review the docket, contact the Appliance and Equipment Standards Program staff at (202) 287-1445 or by email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Synopsis of the Final Rule</FP>
+                    <FP SOURCE="FP-2">II. Introduction</FP>
+                    <FP SOURCE="FP1-2">A. Authority</FP>
+                    <FP SOURCE="FP1-2">B. Background</FP>
+                    <FP SOURCE="FP1-2">1. Current Standards</FP>
+                    <FP SOURCE="FP1-2">2. ASHRAE Standard 90.1-2016</FP>
+                    <FP SOURCE="FP1-2">3. ASRAC Negotiations</FP>
+                    <FP SOURCE="FP1-2">4. Proposed Standards</FP>
+                    <FP SOURCE="FP-2">III. General Discussion</FP>
+                    <FP SOURCE="FP1-2">A. Test Procedure</FP>
+                    <FP SOURCE="FP1-2">B. Methodology for Efficiency Crosswalk Analysis</FP>
+                    <FP SOURCE="FP1-2">1. Crosswalk Background and Overview</FP>
+                    <FP SOURCE="FP1-2">2. Crosswalk Details and Results</FP>
+                    <FP SOURCE="FP1-2">3. Equipment Class Structure for VRFs</FP>
+                    <FP SOURCE="FP-2">IV. Estimates of Potential Energy Savings</FP>
+                    <FP SOURCE="FP-2">V. Conclusions</FP>
+                    <FP SOURCE="FP1-2">A. Consideration of More-Stringent Efficiency Levels</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Six-Year-Lookback Provision</FP>
+                    <FP SOURCE="FP1-2">C. Amended Energy Conservation Standards</FP>
+                    <FP SOURCE="FP-2">VI. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Orders 12866 and 13563</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">J. Review Under the Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Review Under the Information Quality Bulletin for Peer Review</FP>
+                    <FP SOURCE="FP1-2">M. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VII. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Synopsis of the Final Rule</HD>
+                <P>
+                    The Energy Policy and Conservation Act, Public Law 94-163, (42 U.S.C. 6291-6317, as codified) as amended (EPCA),
+                    <SU>1</SU>
+                    <FTREF/>
+                     authorizes DOE to regulate the energy efficiency of a number of consumer products and certain industrial equipment. Title III, Part Câ
+                    <SU>2</SU>
+                    <FTREF/>
+                     of EPCA established the Energy Conservation Program for Certain Industrial Equipment. (42 U.S.C. 6311-6317) Such equipment includes small, large, and very large commercial package air conditioning and heating equipment, of which VRF multi-split systems, the subject of this rulemaking, are a category. (42 U.S.C. 6311(1)(B)-(D))
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âAll references to EPCA in this document refer to the statute as amended through the Energy Act of 2020, Public Law 116-260 (Dec. 27, 2020), which reflect the last statutory amendments that impact Parts A and A-1 of EPCA.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âFor editorial reasons, upon codification in the U.S. Code, Part C was re-designated Part A-1.
+                    </P>
+                </FTNT>
+                <P>
+                    Pursuant to EPCA, DOE is triggered to consider amending the energy conservation standards for certain types of commercial and industrial equipment, including the equipment at issue in this document, whenever the 
+                    <PRTPAGE P="18966"/>
+                    ASHRAE amends the standard levels or design requirements prescribed in ASHRAE Standard 90.1, âEnergy Standard for Buildings Except Low-Rise Residential Buildings.â Under a separate provision of EPCA, DOE is required to review the existing energy conservation standards for those types of covered equipment subject to ASHRAE Standard 90.1 every six years to determine whether those standards need to be amended. (42 U.S.C. 6313(a)(6)(A)-(C))
+                </P>
+                <P>More specifically, under the âASHRAE triggerâ provision, EPCA directs that for each type of covered equipment, if ASHRAE Standard 90.1 is amended, DOE must adopt amended energy conservation standards at the new efficiency level in ASHRAE Standard 90.1, unless clear and convincing evidence supports a determination that adoption of a more-stringent efficiency level would produce significant additional energy savings and be technologically feasible and economically justified. (42 U.S.C. 6313(a)(6)(A)(ii)) If DOE adopts as a uniform national standard the efficiency level specified in the amended ASHRAE Standard 90.1, DOE must establish such standard not later than 18 months after publication of the amended industry standard. (42 U.S.C. 6313(a)(6)(A)(ii)(I)) If DOE determines that a more-stringent standard is appropriate under the statutory criteria, DOE must establish such more-stringent standard not later than 30 months after publication of the revised ASHRAE Standard 90.1. (42 U.S.C. 6313(a)(6)(B)(i))</P>
+                <P>
+                    Under EPCA, DOE must also review its energy conservation standards for VRF multi-split systems every six years and either: (1) issue a notice of determination that the standards do not need to be amended, as adoption of a more-stringent level under the relevant statutory criteria is not supported by clear and convincing evidence; or (2) issue a notice of proposed rulemaking including new proposed standards based on certain criteria and procedures in subparagraph (B).
+                    <SU>3</SU>
+                    <FTREF/>
+                     (42 U.S.C. 6313(a)(6)(C)(i))
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âIn relevant part, subparagraph (B) specifies that: (1) in making a determination of economic justification, DOE must consider, to the maximum extent practicable, the benefits and burdens of an amended standard based on the seven criteria described in EPCA; (2) DOE may not prescribe any standard that increases the energy use or decreases the energy efficiency of a covered equipment; and (3) DOE may not prescribe an amended standard that interested persons have established by a preponderance of evidence is likely to result in the unavailability in the United States of any product type (or class) of performance characteristics (including reliability, features, sizes, capacities, and volumes) that are substantially the same as those generally available in the United States. (42 U.S.C. 6313(a)(6)(B)(ii)-(iii))
+                    </P>
+                </FTNT>
+                <P>ASHRAE officially released ASHRAE Standard 90.1-2016 on October 26, 2016, thereby triggering DOE's previously referenced obligations pursuant to EPCA to determine for certain classes of VRF multi-split systems, whether: (1) the amended industry standard should be adopted; or (2) clear and convincing evidence exists to justify more-stringent standard levels. For any class where DOE was not triggered, the Department routinely considers those classes under the statute's six-year-lookback review provision at the same time, so as to address the subject equipment in a comprehensive fashion.</P>
+                <P>
+                    The current Federal energy conservation standards for air-cooled VRF multi-split systems with cooling capacity greater than or equal to 65,000 Btu/h and water-source VRF multi-split heat pumps (denominated in terms of EER and COP) are codified in DOE's regulations at 10 CFR 431.97. These standards are specified in terms of Energy Efficiency Ratio (EER) for cooling mode and Coefficient of Performance (COP) for heating mode based on the Federal test procedure at 10 CFR 431.96, which points to applicable appendix D which in turn references American National Standards Institute (ANSI)/Air-Conditioning, Heating, and Refrigeration Institute (AHRI) Standard 1230-2010, â
+                    <E T="03">2010 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment,</E>
+                    â approved August 2, 2010 and updated by Addendum 1 in March 2011 (ANSI/AHRI 1230-2010).
+                </P>
+                <P>
+                    The current Federal energy conservation standards for air-cooled, three-phase VRF multi-split systems with cooling capacity less than 65,000 Btu/h are also codified in 10 CFR 431.97. These standards are specified in terms of Seasonal Energy Efficiency Ratio (SEER) for cooling mode and Heating Seasonal Performance Factor (HSPF) for heating mode based on the rating conditions in ANSI/AHRI 1230-2010. Although the current standards levels are based on the same test procedure as used for all other categories of VRF systems (
+                    <E T="03">i.e.,</E>
+                     air-cooled VRF multi-split systems with cooling capacity greater than or equal to 65,000 Btu/h and water-source VRF multi-split systems), the organizations that maintain the industry consensus test procedures have recently updated their scope such that air-cooled, three-phase VRF multi-split systems with cooling capacity less than 65,000 Btu/h are now covered under AHRI 210/240-2023 instead of AHRI 1230-2021. Consequently, DOE addressed test procedures for air-cooled, three-phase VRF multi-split systems with cooling capacity less than 65,000 Btu/h in a separate test procedure rulemaking for air-cooled, three-phase, small commercial package air conditioning and heating equipment with cooling capacity less than 65,000 Btu/h (
+                    <E T="03">see</E>
+                     87 FR 77298 (Dec. 16, 2022)) instead of in the test procedure rulemaking for VRF multi-split systems (
+                    <E T="03">see</E>
+                     87 FR 63860 (Oct. 20, 2022)). Accordingly, DOE is not evaluating the Federal energy conservation standards for such equipment in this document and is instead addressing energy conservation standards for air-cooled, three-phase VRF multi-split systems with cooling capacity less than 65,000 Btu/h in a separate energy conservation standards rulemaking for air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h (
+                    <E T="03">see</E>
+                     87 FR 18290 (March 30, 2022)).
+                </P>
+                <P>The efficiency levels set forth in ASHRAE Standard 90.1-2016 for VRF multi-split systems with cooling capacity 65,000 Btu/h or greater are specified in terms of both EER and Integrated Energy Efficiency Ratio (IEER) for cooling mode and COP for heating mode. These efficiency levels are based on the rating conditions of ANSI/AHRI Standard 1230-2014 with addendum 1 (ANSI/AHRI 1230-2014), which are identical rating conditions to those found in AHRI 1230-2010. The EER levels found in ASHRAE 90.1-2016 are unchanged from the current Federal EER requirements; however, for certain classes of water-source VRF multi-split heat pumps, the COP levels specified in ASHRAE Standard 90.1-2016 are more stringent. See additional discussion in section II.B.2 of this document.</P>
+                <P>
+                    On April 11, 2018, DOE published in the 
+                    <E T="04">Federal Register</E>
+                     a Notice of Intent to establish a negotiated rulemaking working group (Working Group) under the Appliance Standards and Rulemaking Federal Advisory Committee (ASRAC) to negotiate a proposed test procedure and amended energy conservation standards for VRF multi-split systems. 83 FR 15514. The Working Group reached consensus on an energy conservation standards term sheet (VRF ECS Term Sheet) on November 5, 2019, outlining recommended amended energy conservation standards for all equipment classes of VRF multi-split systems. The standard levels recommended by the Working Group in 
+                    <PRTPAGE P="18967"/>
+                    the VRF ECS Term Sheetâ
+                    <SU>4</SU>
+                    <FTREF/>
+                     are in terms of the IEER and COP metrics and equivalent to the levels specified in ASHRAE Standard 90.1-2022.
+                    <SU>5</SU>
+                    <FTREF/>
+                     The levels recommended by the working group are measured according to the most recent industry test standard for VRF multi-split systemsâ
+                    <SU>6</SU>
+                    <FTREF/>
+                    âAHRI Standard 1230, â
+                    <E T="03">2021 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment</E>
+                    â (AHRI 1230-2021), which is referenced in ASHRAE Standard 90.1-2022. See additional discussion in section II.B.3 of this final rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âThe VRF ECS Term Sheet can be accessed at 
+                        <E T="03">www.regulations.gov/document/EERE-2018-BT-STD-0003-0055.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âDOE notes that on October 24, 2019, ASHRAE officially released for distribution and made public ASHRAE Standard 90.1-2019. ASHRAE Standard 90.1-2019 maintained the equipment class structure for VRF multi-split systems from ASHRAE Standard 90.1-2016 and did not update efficiency levels for any VRF equipment classes. In January 2023, ASHRAE published ASHRAE Standard 90.1-2022, which updates the test procedure reference for VRF multi-split systems to AHRI 1230-2021. ASHRAE Standard 90.1-2022 also maintains IEER standard levels equivalent to those specified in ASHRAE Standard 90.1-2019.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âThe VRF ASRAC Working Group recommended a 2019 draft version of AHRI 1230 with additional recommendations for further development of the test standard outside of the Working Group. The 2019 draft of AHRI 1230 was later released as AHRI 1230-2021, which included the Working Group's recommendations.
+                    </P>
+                </FTNT>
+                <P>As described in detail in section III.B of this document, DOE conducted a crosswalk analysis during the ASRAC negotiation meetings to validate the translation of the EER levels currently required by the DOE standards to IEER, as well as the IEER efficiency levels as recommended by the Working Group. DOE notes that IEER is a more comprehensive metric because it reflects the energy efficiency across a range of operating conditions, as opposed to the efficiency at a single condition. The crosswalk translates the current Federal EER standards (measured per the current DOE test procedure) to IEER levels of equivalent stringency (measured per the September 20, 2019 draft version of the AHRI 1230 standard). As described in section II.B.3 of this document, the recommended 2019 draft test procedure was later published as AHRI 1230-2021, and no substantive changes were made that impact crosswalk results. Differences in the metrics and test procedures cause the crosswalk analysis to yield a range of IEER values corresponding to a given EER value. DOE's translation of the current EER levels to IEER according to the updated test procedure shows that each value recommended by the Working Group is within the range resulting from DOE's evaluation. Given that the metric takes into account a wider breadth of energy consumption across a variety of operating conditions, DOE has determined that the recommended IEER values are at least equivalent in stringency to the current EER values. Further, given that IEER is a more comprehensive metric, DOE has concluded that the recommended IEER values would not decrease the minimum required energy efficiency of VRF basic models.</P>
+                <P>Because the updates in AHRI 1230-2021 do not affect the measurement of COP, no crosswalk was required to evaluate the stringency of the COP levels proposed in the VRF ECS Term Sheet as compared to the existing Federal COP levels.</P>
+                <P>In this final rule, DOE is adopting the energy conservation standard levels and the equipment class structure from ASHRAE Standard 90.1-2016 for air-cooled VRF multi-split systems with cooling capacity greater than or equal to 65,000 Btu/h and for all water-source VRF multi-split heat pumps. The amended standards, which are expressed in terms of IEER and COP, are presented in Table I-1. These standards will apply to all VRF multi-split systems listed in Table I-1 manufactured in, or imported into, the United States starting on January 1, 2024. The amended standard levels are equivalent to the standard levels recommended by the Working Group in the VRF ECS Term Sheet. The amended equipment class structure differs from the existing DOE equipment class structure regarding capacity break points and designations based on heating type; however, DOE has concluded that none of the changes to the equipment class structure for VRF multi-split systems constitute backsliding.</P>
+                <P>
+                    DOE has determined that the potential energy savings associated with adopting the ASHRAE 90.1-2016 standard levels for the triggered classes are 
+                    <E T="03">de minimis.</E>
+                     Also, as described in section V of this document, DOE has determined that insufficient data are available to determine, based on clear and convincing evidence, that more-stringent standards would result in significant additional energy savings and be technologically, feasible and economically justified. As such, DOE has not conducted further analysis of more-stringent standard levels for this final rule. Consequently, DOE is adopting the levels specified in ASHRAE Standard 90.1-2016, as required by EPCA.
+                </P>
+                <GPOTABLE COLS="4" OPTS="L2,p7,7/8,i1" CDEF="s60,r50,r50,r30">
+                    <TTITLE>Table I-1âAmended Energy Conservation Standards for VRF Multi-Split Systems</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Equipment type</CHED>
+                        <CHED H="1">Size category</CHED>
+                        <CHED H="1">Heating type</CHED>
+                        <CHED H="1">Minimum efficiency</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Air Conditioners (Air-Cooled)</ENT>
+                        <ENT>â¥65,000 and &lt;135,000 Btu/h</ENT>
+                        <ENT>All</ENT>
+                        <ENT>15.5 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 and &lt;240,000 Btu/h</ENT>
+                        <ENT>All</ENT>
+                        <ENT>14.9 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>All</ENT>
+                        <ENT>13.9 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Heat Pumps (Air-Cooled)</ENT>
+                        <ENT>â¥65,000 and &lt;135,000 Btu/h</ENT>
+                        <ENT>
+                            Heat Pump without Heat Recovery
+                            <LI>Heat Pump with Heat Recovery</LI>
+                        </ENT>
+                        <ENT>
+                            14.6 IEER, 3.3 COP.
+                            <LI>14.4 IEER, 3.3 COP.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 and &lt;240,000 Btu/h</ENT>
+                        <ENT>
+                            Heat Pump without Heat Recovery
+                            <LI>Heat Pump with Heat Recovery</LI>
+                        </ENT>
+                        <ENT>
+                            13.9 IEER, 3.2 COP.
+                            <LI>13.7 IEER, 3.2 COP.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥240,000 Btu/h and &lt;760,000 btu/h</ENT>
+                        <ENT>
+                            Heat Pump without Heat Recovery
+                            <LI>Heat Pump with Heat Recovery</LI>
+                        </ENT>
+                        <ENT>
+                            12.7 IEER, 3.2 COP.
+                            <LI>12.5 IEER, 3.2 COP.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Heat Pumps (Water-Source)</ENT>
+                        <ENT>&lt;65,000 Btu/h</ENT>
+                        <ENT>
+                            Heat Pump without Heat Recovery
+                            <LI>Heat Pump with Heat Recovery</LI>
+                        </ENT>
+                        <ENT>
+                            16.0 IEER, 4.3 COP.
+                            <LI>15.8 IEER, 4.3 COP.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥65,000 and &lt;135,000 Btu/h</ENT>
+                        <ENT>
+                            Heat Pump without Heat Recovery
+                            <LI>Heat Pump with Heat Recovery</LI>
+                        </ENT>
+                        <ENT>
+                            16.0 IEER, 4.3 COP.
+                            <LI>15.8 IEER, 4.3 COP.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 and &lt;240,000 Btu/h</ENT>
+                        <ENT>
+                            Heat Pump without Heat Recovery
+                            <LI>Heat Pump with Heat Recovery</LI>
+                        </ENT>
+                        <ENT>
+                            14.0 IEER, 4.0 COP.
+                            <LI>13.8 IEER, 4.0 COP.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>
+                            Heat Pump without Heat Recovery
+                            <LI>Heat Pump with Heat Recovery</LI>
+                        </ENT>
+                        <ENT>
+                            12.0 IEER, 3.9 COP.
+                            <LI>11.8 IEER, 3.9 COP.</LI>
+                        </ENT>
+                    </ROW>
+                </GPOTABLE>
+                <PRTPAGE P="18968"/>
+                <HD SOURCE="HD1">II. Introduction</HD>
+                <P>The following section briefly discusses the statutory authority underlying this final rule, as well as some of the relevant historical background related to the establishment of standards for VRF multi-split systems.</P>
+                <HD SOURCE="HD2">A. Authority</HD>
+                <P>EPCA, Public Law 94-163 (42 U.S.C. 6291-6317, as codified), among other things, authorizes DOE to regulate the energy efficiency of a number of consumer products and certain industrial equipment. Title III, Part C of EPCA, added by Public Law 95-619, Title IV, section 441(a), (42 U.S.C. 6311-6317, as codified), established the Energy Conservation Program for Certain Industrial Equipment, which sets forth a variety of provisions designed to improve energy efficiency. This covered equipment includes small, large, and very large commercial package air conditioning and heating equipment, which includes the VRF multi-split systems that are the subject of this document. (42 U.S.C. 6311(1)(B)-(D)) Additionally, as discussed in further detail subsequently, the statute requires DOE to consider amending the energy conservation standards for certain types of commercial and industrial equipment, including the equipment at issue in this document, whenever ASHRAE amends the efficiency levels or design requirements prescribed in ASHRAE Standard 90.1, and even in the absence of an ASHRAE trigger event, a separate provision of EPCA requires DOE to consider amended standards for such equipment, at a minimum, every six years. (42 U.S.C. 6313(a)(6)(A)-(C))</P>
+                <P>Under EPCA, the energy conservation program, consists essentially of four parts: (1) testing, (2) labeling, (3) the establishment of Federal energy conservation standards, and (4) certification and enforcement procedures. Relevant provisions of EPCA specifically include definitions (42 U.S.C. 6311), energy conservation standards (42 U.S.C. 6313), test procedures (42 U.S.C. 6314), labeling provisions (42 U.S.C. 6315), and the authority to require information and reports from manufacturers (42 U.S.C. 6316).</P>
+                <P>Federal energy efficiency requirements for covered equipment established under EPCA generally supersede State laws and regulations concerning energy conservation testing, labeling, and standards. (42 U.S.C. 6316(a) and (b); 42 U.S.C. 6297) DOE may, however, grant waivers of Federal preemption in limited circumstances for particular State laws or regulations, in accordance with the procedures and other provisions set forth under EPCA. (42 U.S.C. 6297(d); 42 U.S.C. 6316(a); 42 U.S.C. 6316(b)(2)(D))</P>
+                <P>Subject to certain criteria and conditions, DOE is required to develop test procedures to measure the energy efficiency, energy use, or estimated annual operating cost of covered equipment during a representative average use cycle and that are not unduly burdensome to conduct. (42 U.S.C. 6314(a)(2)) Manufacturers of covered equipment must use the Federal test procedures as the basis for: (1) certifying to DOE that their equipment complies with the applicable energy conservation standards adopted pursuant to EPCA (42 U.S.C. 6316(b); 42 U.S.C. 6296), and (2) making representations about the energy use or efficiency of that equipment (42 U.S.C. 6314(d)). Similarly, DOE uses these test procedures to determine whether the equipment complies with the relevant energy conservation standards promulgated under EPCA. The DOE test procedures for VRF multi-split systems appear at 10 CFR part 431, subpart F.</P>
+                <P>
+                    ASHRAE Standard 90.1 sets industry energy efficiency levels for small, large, and very large commercial package air-conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks (collectively referred to as âASHRAE equipmentâ). For each type of listed equipment, EPCA directs that if ASHRAE amends ASHRAE Standard 90.1 with respect to the standard levels or design requirements under that standard, DOE must adopt amended standards at the new ASHRAE efficiency level, unless DOE determines, supported by clear and convincing evidence,
+                    <SU>7</SU>
+                    <FTREF/>
+                     that adoption of a more-stringent level would produce significant additional conservation of energy and would be technologically feasible and economically justified. (42 U.S.C. 6313(a)(6)(A)(ii)) If DOE makes such a determination, it must publish a final rule to establish the more-stringent standards. (42 U.S.C. 6313(a)(6)(B)(i))
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âThe clear and convincing threshold is a heightened standard, and would only be met where the Secretary has an abiding conviction, based on available facts, data, and DOE's own analyses, that it is highly probable an amended standard would result in a significant additional amount of energy savings, and is technologically feasible and economically justified. 
+                        <E T="03">American Public Gas Association</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         No. 20-1068, 2022 WL 151923, at *4 (D.C. Cir. January 18, 2022) (citing 
+                        <E T="03">Colorado</E>
+                         v. 
+                        <E T="03">New Mexico,</E>
+                         467 U.S. 310, 316, 104 S.Ct. 2433, 81 L.Ed.2d 247 (1984)).
+                    </P>
+                </FTNT>
+                <P>
+                    Although EPCA does not explicitly define the term âamendedâ in the context of what type of revision to ASHRAE Standard 90.1 would trigger DOE's obligation, DOE's longstanding interpretation has been that the statutory trigger is an amendment to the standard applicable to that equipment under ASHRAE Standard 90.1 that increases the energy efficiency level for that equipment. 
+                    <E T="03">See</E>
+                     72 FR 10038, 10042 (March 7, 2007). If the revised ASHRAE Standard 90.1 leaves the energy efficiency level unchanged (or lowers the energy efficiency level), as compared to the energy efficiency level specified by the uniform national standard adopted pursuant to EPCA, regardless of the other amendments made to the ASHRAE Standard 90.1 requirement (
+                    <E T="03">e.g.,</E>
+                     the inclusion of an additional metric), DOE has stated that it does not have the authority to conduct a rulemaking to consider a higher standard for that equipment pursuant to 42 U.S.C. 6313(a)(6)(A), although this does not limit DOE's authority to consider higher standards as part of a six-year-lookback rulemaking analysis (pursuant to 42 U.S.C. 6313(a)(6)(C); see discussion in the following paragraphs). 
+                    <E T="03">See</E>
+                     74 FR 36312, 36313 (July 22, 2009) and 77 FR 28928, 28937 (May 16, 2012). If an amendment to ASHRAE Standard 90.1 changes the metric for the standard on which the Federal requirement was based, DOE would perform a crosswalk analysis to determine whether the amended metric under ASHRAE Standard 90.1 resulted in an energy efficiency level that was more stringent than the current DOE standard. Under EPCA, DOE must also review its energy conservation standards for VRF multi-split systems every six years and either: (1) issue a notice of determination that the standards do not need to be amended, as adoption of a more-stringent level is not supported by clear and convincing evidence; or (2) issue a notice of proposed rulemaking including new proposed standards based on certain criteria and procedures in subparagraph (B).
+                    <SU>8</SU>
+                    <FTREF/>
+                     (42 U.S.C. 6313(a)(6)(C))
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âIn relevant part, subparagraph (B) specifies that: (1) in making a determination of economic justification, DOE must consider, to the maximum extent practicable, the benefits and burdens of an amended standard based on the seven criteria described in EPCA; (2) DOE may not prescribe any standard that increases the energy use or decreases the energy efficiency of covered equipment; and (3) DOE may not prescribe an amended standard that interested persons have established by a preponderance of evidence is likely to result in the unavailability in the United States of any product type (or class) of performance characteristics 
+                        <PRTPAGE/>
+                        (including reliability, features, sizes, capacities, and volumes) that are substantially the same as those generally available in the United States. (42 U.S.C. 6313(a)(6)(B)(ii)-(iii))
+                    </P>
+                </FTNT>
+                <PRTPAGE P="18969"/>
+                <P>In deciding whether a more-stringent standard is economically justified, under either the provisions of 42 U.S.C. 6313(a)(6)(A) or 42 U.S.C. 6313(a)(6)(C), DOE must determine whether the benefits of the standard exceed its burdens. DOE must make this determination after receiving comments on the proposed standard, and by considering, to the maximum extent practicable, the following seven factors:</P>
+                <P>(1) The economic impact of the standard on manufacturers and consumers of products subject to the standard;</P>
+                <P>(2) The savings in operating costs throughout the estimated average life of the covered products in the type (or class) compared to any increase in the price, initial charges, or maintenance expenses for the covered equipment that are likely to result from the standard;</P>
+                <P>(3) The total projected amount of energy savings likely to result directly from the standard;</P>
+                <P>(4) Any lessening of the utility or the performance of the covered product likely to result from the standard;</P>
+                <P>(5) The impact of any lessening of competition, as determined in writing by the Attorney General, that is likely to result from the standard;</P>
+                <P>(6) The need for national energy conservation; and</P>
+                <P>(7) Other factors the Secretary of Energy considers relevant.</P>
+                <FP>(42 U.S.C. 6313(a)(6)(B)(ii)(I)-(VII))</FP>
+                <P>EPCA, as codified, also contains what is known as an âanti-backslidingâ provision, which prevents the Secretary from prescribing any amended standard that either increases the maximum allowable energy use or decreases the minimum required energy efficiency of a covered product. (42 U.S.C. 6313(a)(6)(B)(iii)(I)) Also, the Secretary may not prescribe an amended or new standard if interested persons have established by a preponderance of the evidence that the standard is likely to result in the unavailability in the United States in any covered product type (or class) of performance characteristics (including reliability), features, sizes, capacities, and volumes that are substantially the same as those generally available in the United States. (42 U.S.C. 6313(a)(6)(B)(iii)(II)(aa)).</P>
+                <HD SOURCE="HD2">B. Background</HD>
+                <HD SOURCE="HD3">1. Current Standards</HD>
+                <P>
+                    EPCA defines âcommercial package air conditioning and heating equipmentâ as air-cooled, water-cooled, evaporatively-cooled, or water-source (not including ground-water-source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application. (42 U.S.C. 6311(8)(A); 10 CFR 431.92) EPCA further classifies âcommercial package air conditioning and heating equipmentâ into categories based on cooling capacity (
+                    <E T="03">i.e.,</E>
+                     small, large, and very large categories). (42 U.S.C. 6311(8)(B)-(D); 10 CFR 431.92) âSmall commercial package air conditioning and heating equipmentâ means equipment rated below 135,000 Btu per hour (cooling capacity). (42 U.S.C. 6311(8)(B); 10 CFR 431.92) âLarge commercial package air conditioning and heating equipmentâ means equipment rated: (i) at or above 135,000 Btu per hour; and (ii) below 240,000 Btu per hour (cooling capacity). (42 U.S.C. 6311(8)(C); 10 CFR 431.92) âVery large commercial package air conditioning and heating equipmentâ means equipment rated: (i) at or above 240,000 Btu per hour; and (ii) below 760,000 Btu per hour (cooling capacity). (42 U.S.C. 6311(8)(D); 10 CFR 431.92)
+                </P>
+                <P>
+                    Pursuant to its authority under EPCA (42 U.S.C. 6313(a)(6)(A)) and in response to updates to ASHRAE Standard 90.1, DOE has established the category of VRF multi-split systems, which meets the EPCA definition of âcommercial package air conditioning and heating equipment,â but which EPCA did not expressly identify. 
+                    <E T="03">See</E>
+                     10 CFR 431.92 and 10 CFR 431.97.
+                </P>
+                <P>
+                    This final rule covers commercial and industrial equipment that meets the definition of âvariable refrigerant flow systems,â included in the definition of âbasic modelâ as codified at 10 CFR 431.92. More specifically, âvariable refrigerant flow systemsâ means all units manufactured by one manufacturer within a single equipment class, having the same primary energy source (
+                    <E T="03">e.g.,</E>
+                     electric or gas), and which have the same or comparably performing compressor(s) that have a common ânominalâ cooling capacity and the same heat rejection medium (
+                    <E T="03">e.g.,</E>
+                     air or water) (includes VRF water-source heat pumps). 
+                    <E T="03">Id.</E>
+                </P>
+                <P>A âvariable refrigerant flow multi-split air conditionerâ means a unit of commercial package air-conditioning and heating equipment that is configured as a split-system air conditioner incorporating a single refrigerant circuit, with one or more outdoor units, at least one variable-speed compressor or an alternate compressor combination for varying the capacity of the system by three or more steps, and multiple indoor fan coil units, each of which is individually metered and individually controlled by an integral control device and common communications network and which can operate independently in response to multiple indoor thermostats. Variable refrigerant flow implies three or more steps of capacity control on common, inter-connecting piping. 10 CFR 431.92.</P>
+                <P>A âvariable refrigerant flow multi-split heat pumpâ means a unit of commercial package air-conditioning and heating equipment that is configured as a split-system heat pump that uses reverse cycle refrigeration as its primary heating source and which may include secondary supplemental heating by means of electrical resistance, steam, hot water, or gas. The equipment incorporates a single refrigerant circuit, with one or more outdoor units, at least one variable-speed compressor or an alternate compressor combination for varying the capacity of the system by three or more steps, and multiple indoor fan coil units, each of which is individually metered and individually controlled by a control device and common communications network and which can operate independently in response to multiple indoor thermostats. Variable refrigerant flow implies three or more steps of capacity control on common, inter-connecting piping. 10 CFR 431.92.</P>
+                <P>
+                    DOE adopted energy conservation standards for VRF multi-split systems in a final rule published in the 
+                    <E T="04">Federal Register</E>
+                     on May 16, 2012 (May 2012 Final Rule). 77 FR 28928, 28995. DOE's initial standards for VRF multi-split systems were prompted by ASHRAE's decision to include minimum efficiency levels for VRF multi-split systems for the first time in the 2010 edition of ASHRAE Standard 90.1 (ASHRAE Standard 90.1-2010). For four of the VRF water-source heat pump classes (including VRF water-source heat pumps with cooling capacity less than 17,000 Btu/h and VRF water-source heat pumps with cooling capacity greater than or equal to 135,000 Btu/h and less than 760,000 Btu/h), DOE adopted the standard levels in ASHRAE Standard 90.1-2010, having determined that the updates to ASHRAE Standard 90.1-2010 either raised the energy efficiency levels above the existing Federal energy conservation standards or set standards for equipment for which DOE did not previously have standards. 77 FR 28928, 28938 (May 16, 2012). For all other equipment classes of VRF multi-split systems, DOE maintained the standards from the equipment class under which the corresponding VRF multi-split system equipment class was previously regulated (
+                    <E T="03">i.e.,</E>
+                     air-cooled VRF multi-
+                    <PRTPAGE P="18970"/>
+                    split systems had previously been covered as small, large, and very large air-cooled central air-conditioning heat pumps with electric resistance heating, while water-source VRF multi-split heat pumps had previously been covered as water-source heat pumps).
+                </P>
+                <P>For the equipment addressed in this final rule, DOE's current equipment classes for VRF multi-split systems are differentiated by refrigeration cycle (air conditioners or heat pumps), condenser heat rejection medium (air-cooled or water-source), cooling capacity, and heating type (for air-cooled: âNo heating or electric resistance heatingâ or âall other types of heatingâ; for water-source: âwithout heat recovery,â âwith heat recovery,â or âallâ). DOE's current standards for VRF multi-split systems are set forth at Table 13 to 10 CFR 431.97 and repeated in Table II-1 of this document.</P>
+                <GPOTABLE COLS="5" OPTS="L2,p7,7/8,i1" CDEF="s50,r50,r50,xs80,xs66">
+                    <TTITLE>Table II-1âCurrent Federal Energy Efficiency Standards for VRF Multi-Split Systems</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Equipment type</CHED>
+                        <CHED H="1">Cooling capacity</CHED>
+                        <CHED H="1">
+                            Heating typeâ
+                            <SU>1</SU>
+                        </CHED>
+                        <CHED H="1">Efficiency level</CHED>
+                        <CHED H="1" O="L">
+                            Compliance date:
+                            <LI>equipment</LI>
+                            <LI>manufactured</LI>
+                            <LI>on and after . . .</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Air Conditioners (Air-Cooled)</ENT>
+                        <ENT>
+                            &lt;65,000 Btu/h
+                            <LI>â¥65,000 Btu/h and &lt;135,000 Btu/h</LI>
+                        </ENT>
+                        <ENT>
+                            All
+                            <LI>No Heating or Electric Resistance Heating</LI>
+                        </ENT>
+                        <ENT>
+                            13.0 SEER
+                            <LI>11.2 EER</LI>
+                        </ENT>
+                        <ENT>
+                            June 16, 2008.
+                            <LI>January 1, 2010.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>11.0 EER</ENT>
+                        <ENT>January 1, 2010.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 Btu/h and &lt;240,000 Btu/h</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>11.0 EER</ENT>
+                        <ENT>January 1, 2010.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>10.8 EER</ENT>
+                        <ENT>January 1, 2010.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>10.0 EER</ENT>
+                        <ENT>January 1, 2010.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>9.8 EER</ENT>
+                        <ENT>January 1, 2010.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Heat Pumps (Air-Cooled)</ENT>
+                        <ENT>
+                            &lt;65,000 Btu/h
+                            <LI>â¥65,000 Btu/h and &lt;135,000 Btu/h</LI>
+                        </ENT>
+                        <ENT>
+                            All
+                            <LI>No Heating or Electric Resistance Heating</LI>
+                        </ENT>
+                        <ENT>
+                            13.0 SEER, 7.7 HSPF
+                            <LI>11.0 EER, 3.3 COP</LI>
+                        </ENT>
+                        <ENT>
+                            June 16, 2008.
+                            <LI>January 1, 2010.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>10.8 EER, 3.3 COP</ENT>
+                        <ENT>January 1, 2010.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 Btu/h and &lt;240,000 Btu/h</ENT>
+                        <ENT>
+                            No Heating or Electric Resistance Heating
+                            <LI>All Other Types of Heating</LI>
+                        </ENT>
+                        <ENT>
+                            10.6 EER, 3.2 COP
+                            <LI O="xl"/>
+                            <LI>10.4 EER, 3.2 COP</LI>
+                        </ENT>
+                        <ENT>
+                            January 1, 2010.
+                            <LI O="xl"/>
+                            <LI>January 1, 2010.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>9.5 EER, 3.2 COP</ENT>
+                        <ENT>January 1, 2010.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>9.3 EER, 3.2 COP</ENT>
+                        <ENT>January 1, 2010.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Heat Pumps (Water-Source)</ENT>
+                        <ENT>&lt;17,000 Btu/h</ENT>
+                        <ENT>Without heat recovery</ENT>
+                        <ENT>12.0 EER, 4.2 COP</ENT>
+                        <ENT>October 29, 2012. October 29, 2003.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>With heat recovery</ENT>
+                        <ENT>11.8 EER, 4.2 COP</ENT>
+                        <ENT>October 29, 2012. October 29, 2003.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>
+                            â¥17,000 Btu/h and &lt;65,000 Btu/h
+                            <LI>â¥65,000 Btu/h and &lt;135,000 Btu/h</LI>
+                        </ENT>
+                        <ENT>
+                            All
+                            <LI>All</LI>
+                        </ENT>
+                        <ENT>
+                            12.0 EER, 4.2 COP
+                            <LI>12.0 EER, 4.2 COP</LI>
+                        </ENT>
+                        <ENT>
+                            October 29, 2003.
+                            <LI>October 29, 2003.</LI>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>Without heat recovery</ENT>
+                        <ENT>10.0 EER, 3.9 COP</ENT>
+                        <ENT>October 29, 2013.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>With heat recovery</ENT>
+                        <ENT>9.8 EER, 3.9 COP</ENT>
+                        <ENT>October 29, 2013.</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>1</SU>
+                        âVRF Multi-Split Heat Pumps (Air-Cooled) with heat recovery fall under the category of âAll Other Types of Heatingâ unless they also have electric resistance heating, in which case they fall under the category for âNo Heating of Electric Resistance Heating.â
+                    </TNOTE>
+                </GPOTABLE>
+                <HD SOURCE="HD3">2. ASHRAE Standard 90.1-2016</HD>
+                <P>ASHRAE released the 2016 version of ASHRAE Standard 90.1 (ASHRAE Standard 90.1-2016) on October 26, 2016, which increased the heating mode efficiency level (in terms of COP) for six of the current DOE VRF multi-split system equipment classes:</P>
+                <P>(1) VRF Multi-Split Heat Pumps, Water-source &lt;17,000 Btu/h, Without Heat Recovery;</P>
+                <P>(2) VRF Multi-Split Heat Pumps, Water-source &lt;17,000 Btu/h, With Heat Recovery;</P>
+                <P>(3) VRF Multi-Split Heat Pumps, Water-source â¥17,000 Btu/h and &lt;65,000 Btu/h;</P>
+                <P>(4) VRF Multi-Split Heat Pumps. Water-source â¥65,000 Btu/h and &lt;135,000 Btu/h;</P>
+                <P>(5) VRF Multi-Split Heat Pumps, Water-source â¥135,000 Btu/h and &lt;760,000 Btu/h, Without Heat Recovery; and</P>
+                <P>(6) VRF Multi-Split Heat Pumps, Water-source â¥135,000 Btu/h and &lt;760,000 Btu/h, With Heat Recovery.</P>
+                <P>
+                    ASHRAE Standard 90.1-2016 left the heating mode efficiency level for the remaining six DOE equipment classes of VRF multi-split heat pump systems with cooling capacity greater than or equal to 65,000 Btu/h and the cooling mode efficiency levels in terms of EER for all DOE equipment classes unchanged. (DOE notes that standards for 3-phase air-cooled VRF heat pumps &lt;65,000 Btu/h are being considered in a separate energy conservation standards rulemaking (
+                    <E T="03">see</E>
+                     Docket EERE-2022-BT-STD-0008).
+                </P>
+                <P>
+                    DOE published a notice of data availability and request for information (NODA/RFI) in response to the amendments to ASHRAE Standard 90.1-2016 in the 
+                    <E T="04">Federal Register</E>
+                     on July 8, 2019 (July 2019 NODA/RFI). 84 FR 32328. In the July 2019 NODA/RFI, DOE compared the current Federal standards for VRF multi-split systems (in terms of EER and COP) to the levels in ASHRAE Standard 90.1-2016 and requested comment on its preliminary findings. 84 FR 32328, 32333-32334 (July 8, 2019). In addition to evaluating amended energy conservation standards for the six equipment classes triggered by the updated levels in ASHRAE Standard 90.1-2016, DOE also examined the other 14 equipment classes of VRF multi-split systems under its six-year-lookback authority (42 U.S.C. 6313(a)(6)(C)) and solicited data from stakeholders. 84 FR 32328, 32334 (July 8, 2019).
+                </P>
+                <P>On October 24, 2019, ASHRAE officially released for distribution and made public ASHRAE Standard 90.1-2019. ASHRAE Standard 90.1-2019 maintained the equipment class structure for VRF multi-split systems from ASHRAE Standard 90.1-2016 and did not update efficiency levels for any VRF equipment classes.</P>
+                <P>
+                    Subsequently, in January 2023, ASHRAE published ASHRAE Standard 90.1-2022. Once again, ASHRAE Standard 90.1-2022 maintained the equipment class structure for VRF multi-split systems from ASHRAE Standard 90.1-2016 and maintained the IEER efficiency levels for all VRF equipment classes.
+                    <PRTPAGE P="18971"/>
+                </P>
+                <HD SOURCE="HD3">3. ASRAC Negotiations</HD>
+                <P>
+                    On April 11, 2018, DOE published in the 
+                    <E T="04">Federal Register</E>
+                     a notice of its intent to establish a negotiated rulemaking working group (Working Group) under the Appliance Standards and Rulemaking Federal Advisory Committee (ASRAC), in accordance with the Federal Advisory Committee Actâ
+                    <SU>9</SU>
+                    <FTREF/>
+                     and the Negotiated Rulemaking Act,
+                    <SU>10</SU>
+                    <FTREF/>
+                     to negotiate an amended test procedure and amended energy conservation standards for VRF multi-split systems. 83 FR 15514. The purpose of the Working Group was to discuss and, if possible, reach consensus on a proposed rule regarding the test procedure and energy conservation standards for VRF multi-split systems, as authorized by EPCA. 
+                    <E T="03">Id.</E>
+                     The Working Group comprised 21 voting members including manufacturers, energy efficiency advocates, utilities, and trade organizations.
+                    <SU>11</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        â5 U.S.C. App. 2, Public Law 92-463.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        â5 U.S.C. 561-570, Public Law 101-648.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âA complete list of the ASRAC VRF Working Group members is available by clicking on the âWorking Groupâ tab at: 
+                        <E T="03">www.energy.gov/eere/buildings/appliance-standards-and-rulemaking-federal-advisory-committee#Variable%20Refrigerant%20Flow%20Multi-Split%20Air%20Conditioners%20and%20Heat%20Pumps%20Working%20Group.</E>
+                    </P>
+                </FTNT>
+                <P>On October 1, 2019, the Working Group reached consensus on a test procedure term sheet (VRF TP Term Sheet; Docket No. EERE-2018-BT-STD-0003-0044) that includes several recommendations. The following list includes the most substantial recommendations:</P>
+                <P>
+                    (1) VRF multi-split systems should be rated with the Integrated Energy Efficiency Ratio (IEER) metric to allow consumers to make consistent comparisons with other equipment using the IEER metric (
+                    <E T="03">e.g.,</E>
+                     rooftop air conditioner ratings).
+                </P>
+                <P>(2) Use of the amended test procedure should not be required until the compliance date of amended energy conservation standards.</P>
+                <P>(3) The Federal test procedure for VRF multi-split systems should be consistent with the September 20, 2019 draft version of AHRI 1230, with additional recommended amendments to be implemented after the conclusion of ASRAC negotiations.</P>
+                <P>Following completion of the VRF TP Term Sheet, the Working Group proceeded to negotiate recommended revised energy conservation standards for VRF multi-split systems that accounted for the translation from the EER metric to the IEER metric, as well as the changes between the Federal test procedure that references AHRI 1230-2010 and the recommended 2019 draft test procedure AHRI 1230 (which was later published as AHRI 1230-2021). As described in greater detail in section III.B of this document, DOE conducted a crosswalk analysis to inform the development of standard levels for VRF multi-split systems in terms of the new test procedure and metric. DOE presented the results of its crosswalk analysis on November 5, 2019 (Docket No. EERE-2018-BT-STD-0003-0061 at p. 45), and subsequently, the Working Group reached consensus on an energy conservation standards term sheet (VRF ECS Term Sheet; Docket No. EERE-2018-BT-STD-0003-0055) recommending:</P>
+                <P>(1) Amendments to the Federal minimum efficiency standards for VRF multi-split systems (as presented in Table II-2 of this final rule) per the test procedure recommended in the VRF TP Term Sheet.</P>
+                <P>(2) The compliance date of the recommended energy conservation standards should be January 1, 2024 for all VRF multi-split system equipment classes included in this rulemaking.</P>
+                <GPOTABLE COLS="2" OPTS="L2,nj,i1" CDEF="s200,xs90">
+                    <TTITLE>Table II-2âRecommended Efficiency Levels From VRF ECS Term Sheet</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Equipment class</CHED>
+                        <CHED H="1">
+                            Energy efficiency
+                            <LI>
+                                levels recommendedâ
+                                <SU>1</SU>
+                            </LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">VRF Air Conditioners, Air-cooled, â¥65,000 Btu/h and &lt;135,000 Btu/h</ENT>
+                        <ENT>15.5 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Air Conditioners, Air-cooled, â¥135,000 Btu/h and &lt;240,000 Btu/h</ENT>
+                        <ENT>14.9 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Air Conditioners, Air-cooled, â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>13.9 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Air-cooled, â¥65,000 Btu/h and &lt;135,000 Btu/h, No Heating or Electric Resistance Heating</ENT>
+                        <ENT>14.6 IEER, 3.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Air-cooled, â¥65,000 Btu/h and &lt;135,000 Btu/h, All Other Types of Heating</ENT>
+                        <ENT>14.4 IEER, 3.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Air-cooled, â¥135,000 Btu/h and &lt;240,000 Btu/h, No Heating or Electric Resistance Heating</ENT>
+                        <ENT>13.9 IEER, 3.2 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Air-cooled, â¥135,000 Btu/h and &lt;240,000 Btu/h, All Other Types of Heating</ENT>
+                        <ENT>13.7 IEER; 3.2 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Air-cooled, â¥240,000 Btu/h and &lt;760,000 Btu/h, No Heating or Electric Resistance Heating</ENT>
+                        <ENT>12.7 IEER, 3.2 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Air-cooled, â¥240,000 Btu/h and &lt;760,000 Btu/h, All Other Types of Heating</ENT>
+                        <ENT>12.5 IEER; 3.2 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, &lt;17,000 Btu/h, Without Heat Recovery</ENT>
+                        <ENT>16.0 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, &lt;17,000 Btu/h, With Heat Recovery</ENT>
+                        <ENT>15.8 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, â¥17,000 Btu/h and &lt;65,000 Btu/h, Without Heat Recovery</ENT>
+                        <ENT>16.0 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, â¥17,000 Btu/h and &lt;65,000 Btu/h, With Heat Recovery</ENT>
+                        <ENT>15.8 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, â¥65,000 Btu/h and &lt;135,000 Btu/h, Without Heat Recovery</ENT>
+                        <ENT>16.0 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, â¥65,000 Btu/h and &lt;135,000 Btu/h, With Heat Recovery</ENT>
+                        <ENT>15.8 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, â¥135,000 Btu/h and &lt;240,000 Btu/h, Without Heat Recovery</ENT>
+                        <ENT>14.0 IEER, 4.0 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, â¥135,000 Btu/h and &lt;240,000 Btu/h, With Heat Recovery</ENT>
+                        <ENT>13.8 IEER, 4.0 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, â¥240,000 Btu/h and &lt;760,000 Btu/h, Without Heat Recovery</ENT>
+                        <ENT>12.0 IEER, 3.9 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Heat Pumps, Water-source, â¥240,000 Btu/h and &lt;760,000 Btu/h, With Heat Recovery</ENT>
+                        <ENT>11.8 IEER, 3.9 COP.</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>1</SU>
+                        âThe VRF ECS Term Sheet includes the notation âCOP
+                        <E T="0732">H</E>
+                        â which indicates coefficient of performance in heating mode at 47âÂ°F outdoor ambient temperature (for air-cooled VRF multi-split heat pumps) and at 68âÂ°F entering water temperature (for water-source VRF multi-split heat pumps).
+                    </TNOTE>
+                </GPOTABLE>
+                <P>DOE notes that there are minor differences in equipment class structure (related to cooling capacity, supplementary heating type, and presence of heat recovery) between the VRF ECS Term Sheet, ASHRAE Standard 90.1-2019, and the current Federal energy conservation standards for VRF multi-split systems. This topic is discussed in greater detail in section II.B.3 of this document.</P>
+                <P>
+                    On May 18, 2021, AHRI published an updated industry test standard for VRF multi-split systems, AHRI 1230-2021. Subsequently, on December 10, 2021, DOE published in the 
+                    <E T="04">Federal Register</E>
+                     the VRF TP NOPR (December 2021 VRF TP NOPR), in which DOE proposed an amended test procedure for VRF multi-split systems that incorporates by reference AHRI 1230-2021 and 
+                    <PRTPAGE P="18972"/>
+                    proposed to adopt IEER as the test metric for VRF multi-split systems. 86 FR 70644, 70652. DOE finalized these proposals in a test procedure final rule published in the 
+                    <E T="04">Federal Register</E>
+                     on October 20, 2022 (October 2022 TP Final Rule). 87 FR 63860. In the October 2022 TP Final Rule, DOE determined that the amendments to the test procedure would alter the measured efficiency of VRF multi-split systems, as compared to ratings using the current Federal regulated metric, EER (
+                    <E T="03">see</E>
+                     10 CFR 431.97). In that document, DOE stated that testing pursuant to the amended test procedure would not be required until such time as manufacturers were required to comply with amended energy conservation standards that are denominated in terms of IEER, should such standards be adopted. 87 FR 63860, 63880 (Oct. 20, 2022).
+                </P>
+                <HD SOURCE="HD3">4. Proposed Standards</HD>
+                <P>
+                    On March 1, 2022, DOE published a NOPR (March 2022 NOPR) in the 
+                    <E T="04">Federal Register</E>
+                     that proposed to adopt the energy conservation standards and equipment class structure for VRF multi-split systems as adopted in ASHRAE Standard 90.1-2016. 87 FR 11335 (March 1, 2022). Specifically, DOE proposed amended energy conservation standards VRF multi-split systems that rely on the IEER metric and are equivalent to those levels specified in ASHRAE Standard 90.1-2016. 
+                    <E T="03">Id.</E>
+                     at 87 FR 11336-11338. In the March 2022 NOPR, DOE outlined its plan to crosswalk the existing VRF energy conservation standards (denominated in terms of EER as the cooling metric) to the efficiency levels in ASHRAE Standard 90.1-2016 (denominated in terms of IEER) and requested comment. 
+                    <E T="03">Id.</E>
+                     at 87 FR 11342-11345. DOE preliminarily determined that it lacks the clear and convincing evidence required by the statute to adopt standards more stringent than the levels specified in the industry standard. 
+                    <E T="03">Id.</E>
+                     at 87 FR 11337. DOE received nine comments in response to the March 2022 NOPR from the interested parties listed in Table II-3.
+                </P>
+                <GPOTABLE COLS="4" OPTS="L2,nj,i1" CDEF="s100,r25,12,r50">
+                    <TTITLE>Table II-3âMarch 2022 NOPR Written Comments</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Commenter(s)</CHED>
+                        <CHED H="1">Abbreviation</CHED>
+                        <CHED H="1">Comment No. in the docket</CHED>
+                        <CHED H="1">Commenter type</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Air-Conditioning, Heating, &amp; Refrigeration Institute</ENT>
+                        <ENT>AHRI</ENT>
+                        <ENT>77</ENT>
+                        <ENT>Industry Trade Association.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Appliance Standards Awareness Project, American Council for an Energy-Efficient Economy, Northwest Energy Efficiency Alliance</ENT>
+                        <ENT>Joint Advocates</ENT>
+                        <ENT>76</ENT>
+                        <ENT>Efficiency Advocacy Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Carrier</ENT>
+                        <ENT>Carrier</ENT>
+                        <ENT>74</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Daikin Comfort Technologies North America, Inc</ENT>
+                        <ENT>Daikin</ENT>
+                        <ENT>79</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">GE Appliancesâa Haier Company</ENT>
+                        <ENT>GE</ENT>
+                        <ENT>78</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Hydronic Industry AllianceâCommercial</ENT>
+                        <ENT>HIA-C</ENT>
+                        <ENT>67</ENT>
+                        <ENT>Industry Trade Association.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Lennox International, Inc</ENT>
+                        <ENT>Lennox</ENT>
+                        <ENT>75</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">New York State Energy Research and Development Authority</ENT>
+                        <ENT>NYSERDA</ENT>
+                        <ENT>73</ENT>
+                        <ENT>State Agency.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Pacific Gas and Electric Company, San Diego Gas &amp; Electric, Southern California Edison (collectively referred to as the âCalifornia Investor-owned Utilitiesâ or âCA IOUsâ)</ENT>
+                        <ENT>CA IOUs</ENT>
+                        <ENT>72</ENT>
+                        <ENT>Utilities.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    A parenthetical reference at the end of a comment quotation or paraphrase provides the location of the item in the public record.
+                    <SU>12</SU>
+                    <FTREF/>
+                     To the extent that interested parties have provided written comments that are substantively consistent with any oral comments provided during the March 23, 2022 public meeting webinar for the VRF multi-split systems energy conservation standards NOPR, DOE cites the written comments throughout this final rule. In this case, DOE did not identify any oral comments provided during the webinar that are not substantively reflected by written comments.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âThe parenthetical reference provides a reference for information located in the docket of DOE's rulemaking to develop energy conservation standards for VRF multi-split systems. (Docket No. EERE-2018-BT-STD-0003, which is maintained at 
+                        <E T="03">www.regulations.gov</E>
+                        ). The references are arranged as follows: (commenter name, comment docket ID number, page of that document).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">III. General Discussion</HD>
+                <P>DOE developed this final rule after considering oral and written comments, data, and information from interested parties that represent a variety of interests. The following discussion addresses issues raised by these commenters.</P>
+                <HD SOURCE="HD2">A. Test Procedure</HD>
+                <P>EPCA sets forth generally applicable criteria and procedures for DOE's adoption and amendment of test procedures. (42 U.S.C. 6314(a)) Manufacturers of covered products must use these test procedures to certify to DOE that their product complies with energy conservation standards and to quantify the efficiency of their product. The IEER and COP standards proposed in the March 2022 NOPR and outlined in section II.B.4 of this document are measured according to the amended industry test standard for VRF multi-split systems, AHRI 1230-2021, in alignment with the VRF ECS Term Sheet discussed in section II.B.3 of this document.</P>
+                <P>In response to the March 2022 NOPR, Lennox and Daikin commented that they support the adoption of IEER, which is a part-load metric. (Lennox, No. 75 at pp. 1-2; Daikin, No. 79 at p. 1) Daikin stated that IEER is more representative of the operating cooling efficiency of a VRF system. (Daikin, No. 79 at p. 1) Lennox further commented that the IEER metric would allow consumers to make comparisons of energy efficiency with other commercial air conditioners that utilize the IEER metric. (Lennox, No. 75 at pp. 1-2) Conversely, HIA-C argued that the standard should focus on certification of VRF performance at limits compared to performance at part-loads, as opposed to comparison between VRF systems or between VRF and other commercial air conditioners. (HIA-C, No. 67 at p. 1)</P>
+                <P>
+                    In response, DOE notes that EPCA does not require the Department to develop energy conservation standards that compare full-load and part-load performance. Instead, DOE must develop energy conservation standards that are as representative of real-world performance as possible. For VRF multi-split systems, this means including both full-load and part-load performance. Additionally, using the same performance metric for multiple types of equipment that serve the same purpose allows for consumers to make informed decisions when selecting their system. Thus, DOE is finalizing its proposal to amend energy conservation standards for VRF multi-split systems in terms of the IEER metric.
+                    <PRTPAGE P="18973"/>
+                </P>
+                <P>
+                    In response to the March 2022 NOPR, Lennox expressed support for DOE adopting the industry test procedure AHRI 1230-2021, stating that it significantly improves the representativeness of the tested value for VRF equipment. (Lennox, No. 75 at pp. 1-2) In contrast, AHRI commented that DOE does not have the authority to propose adopting AHRI 1230-2021 as the Federal test procedure until such time as AHRI 1230-2021 is referenced in ASHRAE Standard 90.1 as the appropriate test standard for VRF systems, elaborating that EPCA requires DOE to adopt a Federal test procedure that is consistent with the applicable test procedure specified in the amended ASHRAE Standard 90.1. (AHRI, No. 77 at p. 2) AHRI and GE commented that DOE should support Addendum ay to ASHRAE Standard 90.1-2019 which updates the test procedure reference for VRF multi-split systems in ASHRAE Standard 90.1 to AHRI 1230-2021.
+                    <SU>13</SU>
+                    <FTREF/>
+                     (AHRI, No. 77 at p. 2; GE, No. 78 at p. 2)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âAddendum ay to ASHRAE Standard 90.1-2019, which updates the test procedure reference for VRF multi-split systems to AHRI 1230-2021, has been incorporated into the recently published ASHRAE Standard 90.1-2022.
+                    </P>
+                </FTNT>
+                <P>
+                    NYSERDA encouraged DOE to start looking ahead to the next test procedure rulemaking and the potential for the VRF test procedure to address cold climate performance. Along these lines, NYSERDA urged DOE to add another low-temperature test point at 5âÂ°F (and as low as â15âÂ°F) for this equipment, as the current 47âÂ°F and the optional 17âÂ°F test condition are not low enough to ensure adequate system performance in cold climates. (NYSERDA, No. 73 at pp. 2-3) HIA-C similarly commented that DOE should clarify the temperatures at which COP tests are performed so as to allow comparison between performance at full and part loads. (HIA-C, No. 67 at p. 1) The commenter further stated that the IEER metric does not address connected cassettes or splits in combination, such that certain refrigerant volumes and tubing lengths are not represented, and it recommended an intermediate step to clarify the temperature at which a metric applies. (
+                    <E T="03">Id.</E>
+                    )
+                </P>
+                <P>
+                    DOE notes that all VRF test procedure issues have been handled in a separate rulemaking. DOE addressed the content and authority of its proposed test procedure amendments in the October 20, 2022 VRF TP Final Rule. 
+                    <E T="03">See</E>
+                     87 FR 63860.
+                </P>
+                <HD SOURCE="HD2">B. Methodology for Efficiency Crosswalk Analysis</HD>
+                <HD SOURCE="HD3">1. Crosswalk Background and Overview</HD>
+                <P>
+                    Consistent with the recommendation of the Working Group, DOE is amending the energy conservation standards for VRF multi-split systems to rely on the IEER metric for cooling efficiency, and maintaining the metric for heating efficiency (
+                    <E T="03">i.e.,</E>
+                     COP). As discussed in the March 2022 NOPR, the Department has concluded that a change of metrics would be beneficial for a number of reasons, including that the IEER metric provides a more representative measure of field performance of VRF multi-split systems by weighting the full-load and part-load (75-percent, 50-percent, and 25-percent of full-load capacity) efficiencies by the average amount of time the equipment spends operating at each load. 87 FR 11335, 11342 (March 1, 2022).
+                </P>
+                <P>As stated, EPCA prohibits DOE from prescribing any amended standard that either increases the maximum allowable energy use or decreases the minimum required energy efficiency of covered equipment. (42 U.S.C. 6313(a)(6)(B)(iii)(I)); commonly referred to as EPCA's âanti-backsliding provisionâ) In consideration of the IEER metric and to ensure any potential amendment would not violate EPCA's âanti-backslidingâ provision, as part of the ASRAC Working Group activities, DOE conducted a crosswalk analysis to validate both the translation of the EER levels currently required by the DOE standards to corresponding IEER levels, as well as the IEER efficiency levels as recommended by the Working Group. The crosswalk analysis translates the current Federal EER standards (measured per the current DOE test procedure) to IEER levels of equivalent stringency (measured per the updated AHRI Standard 1230). (Docket No. EERE-2018-BT-STD-0003-0056)</P>
+                <P>
+                    The energy conservation standards presented in this document were developed based on an update to the relevant industry test standard (
+                    <E T="03">i.e.,</E>
+                     the 2019 draft test procedure AHRI 1230 that was finalized as ASHRAE 1230-2021). Compared to the current Federal test procedure (which references ANSI/AHRI 1230-2010), AHRI 1230-2021 included two substantive changes that impact the translation of standards in EER to standards using IEER. Specifically, DOE considered the following changes in its crosswalk analysis in addition to the metric change from EER to IEER:
+                </P>
+                <P>
+                    (1) Maximum sensible heat ratio (SHR) limits of 0.82 and 0.85 were added for full-load and 75-percent, part-load conditions, respectively. SHR represents the ratio of sensible cooling capacity (
+                    <E T="03">i.e.,</E>
+                     the ability to change the temperature of indoor air) to the total cooling capacity, which also includes latent cooling capacity (
+                    <E T="03">i.e.,</E>
+                     the ability to remove moisture from indoor air). For example, an SHR of 0.80 indicates that 80 percent of the capacity of a system reduces the temperature of the air and the remaining 20 percent dehumidifies the air.
+                </P>
+                <P>(2) A controls verification procedure (CVP) was added that verifies that the values provided by manufacturers in the supplemental test instruction (STI) for setting critical parameters during steady-state testing are within the range of critical parameters that would be used by the system's native controls at the same conditions.</P>
+                <P>On November 5, 2019, DOE presented its crosswalk findings to the Working Group to inform the development of recommended standards levels for VRF multi-split systems in terms of the new test procedure and cooling metric. These findings demonstrated that the translation of the current EER standards to the recommended IEER values would not decrease the minimum required energy efficiency of VRF multi-split systems using a minimally-compliant model. DOE also presented to the Working Group anonymized and aggregated data provided by VRF multi-split system manufacturers. These data showed a preliminary translation of ratings to the IEER metric in terms of the updated test procedure for a collection of VRF multi-split systems spanning four equipment classes. The crosswalked results included the IEER efficiency level specified in the VRF ECS term sheet for the selected classes. Detailed discussion of the crosswalk presentation can be found in Docket No. EERE-2018-BT-STD-0003-0056.</P>
+                <P>
+                    Given that translating the current EER levels to IEER according to the updated test procedure does not provide for a single point answer (as would thereby allow for a direct comparison), DOE stated in the March 2022 NOPR that it believes it is reasonable to ensure that the recommended value lies within the range resulting from DOE's evaluation as a proxy for understanding whether there is a potential for backsliding. Consequently, DOE tentatively determined that the recommended IEER levels are at least equivalent in stringency to the current EER levels. Further, given that IEER is a more comprehensive metric (reflecting energy efficiency across a range of operating conditions, as opposed to the efficiency at a single condition), DOE tentatively determined that the recommended IEER 
+                    <PRTPAGE P="18974"/>
+                    levels would not decrease the minimum required energy efficiency of a VRF multi-split system. 87 FR 11335, 11343 (March 1, 2022). DOE received no comments to the contrary in response to the March 2022 NOPR. Consequently, for the reasons previously explained, DOE maintains this determination in the final rule.
+                </P>
+                <HD SOURCE="HD3">2. Crosswalk Details and Results</HD>
+                <P>
+                    As discussed in further detail in the March 2022 NOPR, DOE conducted a crosswalk analysis to account for the translation from EER to IEER, as well as changes in the updated industry test standardânamely the addition of SHR limits and the introduction of the CVP. 
+                    <E T="03">See</E>
+                     87 FR 11335, 11343-11345 (March 1, 2022). Because these three factors have interacting effects on the measured cooling performance of VRF multi-split systems, DOE modeled their interaction holistically and did not examine incremental changes in performance due to any one factor.
+                </P>
+                <P>
+                    DOE only conducted a crosswalk analysis for the VRF cooling mode efficiency, as DOE did not propose to change the heating efficiency metric (
+                    <E T="03">i.e.,</E>
+                     COP), nor did the changes to the test procedure for VRF multi-split systems impact measured efficiency in heating mode. To develop a crosswalk approach that is applicable to all equipment classes of VRF multi-split systems, DOE analyzed a basic model representative of equipment classes with high sales volume.
+                    <SU>14</SU>
+                    <FTREF/>
+                     Specifically, DOE selected an air-cooled VRF multi-split heat pump system in the cooling capacity range greater than 135,000 Btu/h and less than or equal to 240,000 Btu/h without heat recovery. DOE created a performance model using VapCyc and CoilDesigner softwareâ
+                    <SU>15</SU>
+                    <FTREF/>
+                     to evaluate capacity and efficiency of the selected system per the updated industry test standard at full-load cooling and reduced load conditions.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âAccording to a report from Cadeo group, air-cooled VRF multi-split heat pump systems in the cooling capacity range greater than 135,000 Btu/h and less than or equal to 240,000 Btu/h without heat recovery account for 12.4 percent of the VRF multi-split system market. Air-cooled VRF multi-split systems in the same capacity range equipped with heat recovery account for an additional 32.6 percent of the VRF multi-split system market. (EERE-2017-BT-TP-0018-0002)
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âVapCyc and CoilDesigner are HVAC energy modeling software programs. CoilDesigner is a detailed heat exchanger modeling program. VapCyc integrates CoilDesigner heat exchanger simulations with compressor and expansion models to complete a refrigeration cycle model to simulate performance of an air conditioning or heat pump system at specific operating conditions. (Available at: 
+                        <E T="03">www.optimizedthermalsystems.com.</E>
+                        ) (Last accessed Dec. 30, 2022)
+                    </P>
+                </FTNT>
+                <P>DOE also sought to translate the current EER standards to equivalent IEER standards when tested according to the updated industry test standard. Consequently, DOE investigated ways to translate the SHR requirements and CVP procedure introduced by the amended test procedure for VRF multi-split systems. AHRI 1230-2021 sets SHR limits of 0.82 and 0.85 at the full-load cooling condition and the 75-percent part-load cooling condition, respectively, but does not include SHR limits for the 50-percent or 25-percent part-load cooling conditions. Because manufacturers do not currently certify or publicize any information about SHR at the full-load EER test condition, DOE was unable to precisely determine SHR values representative of a baseline EER VRF multi-split system. So, to account for the effect of the SHR limits in the updated industry test standard in its crosswalk analysis, DOE relied on the native controls test data to establish a range of potential initial SHR values observed at the full-load and 75-percent part-load IEER test conditions. 87 FR 11335, 11343-11344 (March 1, 2022).</P>
+                <P>
+                    To account for the addition of a CVP in AHRI 1230-2021, DOE tentatively concluded that using information about the ranges of operational settings observed during native controls testing to represent a future system that would pass the CVP (
+                    <E T="03">i.e.,</E>
+                     a system for which the certified critical parameter settings would be validated by a CVP conducted with the system operating under native controls) was the most accurate approach for estimating how manufacturers would certify critical parameter control settings as part of testing to IEER as measured by AHRI 1230-2021. 
+                    <E T="03">Id.</E>
+                     at 87 FR 11344.
+                </P>
+                <P>For additional detail regarding the methods used in the crosswalk for VRF multi-split systems, see section III.A.2 of the March 2022 NOPR. 87 FR 11335, 11343-11344 (March 1, 2022).</P>
+                <P>Based on the modeling conducted, the expected performance of the representative equipment class of VRF multi-split systems when tested according to AHRI 1230-2021 would be in the range of 13 to 16 IEER. Because of the wider range of operation conditions captured in IEER as well as the various strategies that manufacturers may employ to respond to the test procedure changes, a single EER baseline value inherently translates to a range of IEER values.</P>
+                <P>
+                    As discussed, the IEER metric captures performance at additional part-load operating conditions not considered by the EER metric; therefore, a single EER value translates to a range of potential IEER values.
+                    <SU>16</SU>
+                    <FTREF/>
+                     IEER captures the impacts of design features and control strategies that may not affect full-load operation but do affect part-load operation. For example, VRF multi-split systems may use different strategies for reducing capacity at partial loads like reducing the number of thermally-active indoor units or slowing compressor speeds, which may result in differential impacts on measured IEER, but which would not have any impact on the measured full-load performance EER. DOE also recognizes that there are a variety of paths that manufacturers may take to account for the new test procedure, and that the crosswalk analysis approximates how manufacturers in the aggregate may respond to test procedure changes. For example, some manufacturers may elect to meet the new SHR limitations by reducing evaporating temperatures, while other manufacturers may meet the new SHR limitations by reducing indoor airflow and decreasing the number of thermally-active indoor units. Each strategy may have different trade-offs in terms of overall system performance and measured energy efficiency.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âIn a January 2016 energy conservation standards direct final rule for ACUACs, DOE discussed a metric translation from EER to IEER in which a single EER level corresponds to a range of IEERs. 81 FR 2420, 2452 (Jan. 15, 2016).
+                    </P>
+                </FTNT>
+                <P>
+                    As described in section I of this document, the Working Group recommended efficiency levels for VRF multi-split systems that align with the efficiency levels specified in ASHRAE Standard 90.1-2016 in terms of IEER and COP. While DOE's crosswalk analysis showed that a single EER baseline could result in a range of IEER values, the IEER levels included in the VRF ECS Term Sheet (which the Working Group recommended as an appropriate crosswalk of current Federal EER standards) are within the range of DOE's crosswalked results. Based on this analysis, in the March 2022 NOPR, DOE tentatively determined that the recommended IEER levels are at least equivalent in stringency to the current EER levels. 87 FR 11335, 11337 (March 1, 2022). Further, given that IEER is a more comprehensive metric (reflecting energy efficiency across a range of operating conditions, as opposed to the efficiency at a single condition), DOE tentatively determined that the recommended IEER levels would not decrease the minimum required energy efficiency of a VRF multi-split system, thereby avoiding statutorily impermissible backsliding with respect to the current Federal standards in terms of EER. 
+                    <E T="03">Id.</E>
+                     at 87 FR 11345. 
+                    <PRTPAGE P="18975"/>
+                    Finally, DOE determined that no changes to heating mode ratings in terms of COP are expected from the changes to the test procedure for VRF multi-split systems included in AHRI 1230-2021. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>In response to the March 2022 NOPR, AHRI, Carrier, and Lennox commented that they support the proposed crosswalk analysis methodology and results. (AHRI, No. 77 at p. 3; Carrier, No. 74 at p. 2; Lennox, No. 75 at p. 2) AHRI and Carrier further commented that they felt that DOE's initial testing supports their tentative conclusion that the recommended IEER levels are at least equivalent in stringency to current EER levels. (AHRI, No. 77 at p. 3; Carrier, No. 74 at p. 2) Carrier commented that they agree with DOE that the recommended IEER levels would not decrease the minimum required energy efficiency of VRF systems. (Carrier, No. 74 at p. 2)</P>
+                <P>However, AHRI and Carrier argued that the proposed changes to the test procedure impact the measured efficiency of VRF multi-split systems in a way that increases the stringency of the standards from the current EER standards as measured by AHRI 1230-2010 and leads to energy savings. (AHRI, No. 77 at p. 3; Carrier, No. 74 at p. 2)</P>
+                <P>In response to these comments, DOE notes that, as discussed in this section, the crosswalk from EER, as measured by AHRI 1230-2010 to IEER as measured by AHRI 1230-2021, resulted in a range of values, which includes the proposed standards. DOE was not provided data that shows that the standards proposed in the March 2022 NOPR are higher in stringency than the current EER levels. DOE also did not receive any negative comments regarding its crosswalk analysis methodology, and, therefore, the Department has not changed it in this final rule. Accordingly, for the reasons previously discussed, DOE maintains its conclusion that the recommended IEER levels are at least equivalent in stringency to the current EER levels.</P>
+                <HD SOURCE="HD3">3. Equipment Class Structure for VRFs</HD>
+                <P>In the July 2019 NODA/RFI, DOE discussed two areas where the equipment class structure for VRF multi-split systems differs between ASHRAE Standard 90.1 and the Federal standards. 84 FR 32328, 32334 (July 8, 2019). These differences were further examined in some detail in the March 2022 NOPR. 87 FR 11335, 11345-11346 (March 1, 2022). The differences can be summarized as follows:</P>
+                <P>
+                    (1) 
+                    <E T="03">Capacity break points.</E>
+                     For water-source VRF multi-split heat pumps, the current Federal standards include VRF multi-split systems with cooling capacity greater than or equal to 135,000 Btu/h and less than 760,000 Btu/h in a single category. ASHRAE Standard 90.1-2016 splits this grouping at 240,000 Btu/h to create capacity categories of greater than or equal to 135,000 and less than 240,000 btu/h and greater than or equal to 240,000 and less than 760,000 Btu/h. Also for water-source VRF multi-split systems, the current Federal standards include separate classes for systems with cooling capacity less than 17,000 Btu/h and for systems with cooling capacity between 17,000 Btu/h and 65,000 Btu/h. ASHRAE Standard 90.1-2016 groups these classes together into a single equipment class with cooling capacity less than 65,000 Btu/h.
+                </P>
+                <P>
+                    (2) 
+                    <E T="03">Heating type.</E>
+                     The current Federal standards are disaggregated for certain classes of VRF multi-split systems based on heating type. For all air-cooled VRF multi-split air conditioners and heat pumps with cooling capacity greater than or equal to 65,000 Btu/h, the Federal cooling standards differ by 0.2 EER points depending on whether a system is equipped with âno heating or electric resistance heatingâ or âall other types of heating.â For water-source VRF multi-split heat pumps, some capacity classes disaggregate instead by systems with heat recovery versus without heat recovery (also with a 0.2 EER difference in the applicable standards classes). Other water-source VRF multi-split heat pump standards are not disaggregated beyond the specified capacity range. ASHRAE 90.1-2016 disaggregates standards for air-cooled and water-source VRF multi-split heat pumps based on the presence of heat recovery, instead of âheating type.â Air-cooled VRF multi-split air conditioners do not have subdivided cooling efficiency levels based on heating type in ASHRAE Standard 90.1-2016.
+                </P>
+                <P>These differences are presented in Table III-1:</P>
+                <GPOTABLE COLS="5" OPTS="L2,p7,7/8,i1" CDEF="s50,r50,r50,xs80,xs66">
+                    <TTITLE>Table III-1âComparison of Current DOE Efficiency Levels With ASHRAE Standard 90.1</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Equipment type</CHED>
+                        <CHED H="1">Cooling capacity</CHED>
+                        <CHED H="1">Heating type</CHED>
+                        <CHED H="1">DOE efficiency level</CHED>
+                        <CHED H="1">
+                            ASHRAE standard 90.1-2016/2019 
+                            <LI>efficiency level</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Air Conditioners (Air-Cooled)</ENT>
+                        <ENT>â¥65,000 Btu/h and &lt;135,000 Btu/h</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>11.2 EER</ENT>
+                        <ENT>11.2 EER, 15.5 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>11.0 EER</ENT>
+                        <ENT>
+                            No Standard.
+                            <SU>3</SU>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 Btu/h and &lt;240,000 Btu/h</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>11.0 EER</ENT>
+                        <ENT>11.0 EER, 14.9 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>10.8 EER</ENT>
+                        <ENT>
+                            No Standard.
+                            <SU>3</SU>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>No Heating or Electric Resistance Heating</ENT>
+                        <ENT>10.0 EER</ENT>
+                        <ENT>10.0 EER, 13.9 IEER.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>All Other Types of Heating</ENT>
+                        <ENT>9.8 EER</ENT>
+                        <ENT>
+                            No Standard.
+                            <SU>3</SU>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Heat Pumps (Air-Cooled)</ENT>
+                        <ENT>â¥65,000 Btu/h and &lt;135,000 Btu/h</ENT>
+                        <ENT>
+                            No Heating or Electric Resistance Heatingâ
+                            <SU>1</SU>
+                        </ENT>
+                        <ENT>11.0 EER, 3.3 COP</ENT>
+                        <ENT>11.0 EER, 14.6 IEER, 3.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>
+                            All Other Types of Heatingâ
+                            <SU>1</SU>
+                            â
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>10.8 EER, 3.3 COP</ENT>
+                        <ENT>10.8 EER, 14.4 IEER, 3.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 Btu/h and &lt;240,000 Btu/h</ENT>
+                        <ENT>
+                            No Heating or Electric Resistance Heatingâ
+                            <SU>1</SU>
+                        </ENT>
+                        <ENT>10.6 EER, 3.2 COP</ENT>
+                        <ENT>10.6 EER, 13.9 IEER, 3.2 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>
+                            All Other Types of Heatingâ
+                            <SU>1</SU>
+                            â
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>10.4 EER, 3.2 COP</ENT>
+                        <ENT>10.4 EER, 13.7 IEER, 3.2 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>
+                            No Heating or Electric Resistance Heatingâ
+                            <SU>1</SU>
+                        </ENT>
+                        <ENT>9.5 EER, 3.2 COP</ENT>
+                        <ENT>9.5 EER, 12.7 IEER, 3.2 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>
+                            All Other Types of Heatingâ
+                            <SU>1</SU>
+                            â
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>9.3 EER, 3.2 COP</ENT>
+                        <ENT>9.3 EER, 12.5 IEER, 3.2 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">VRF Multi-Split Heat Pumps (Water-Source)</ENT>
+                        <ENT>&lt;17,000 Btu/h</ENT>
+                        <ENT>Without heat recovery</ENT>
+                        <ENT>12.0 EER, 4.2 COP</ENT>
+                        <ENT>12.0 EER, 16.0 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>With heat recovery</ENT>
+                        <ENT>11.8 EER, 4.2 COP</ENT>
+                        <ENT>11.8 EER, 15.8 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥17,000 Btu/h and &lt;65,000 Btu/h</ENT>
+                        <ENT>Without heat recovery</ENT>
+                        <ENT>12.0 EER, 4.2 COP</ENT>
+                        <ENT>12.0 EER, 16.0 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="18976"/>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>With heat recovery</ENT>
+                        <ENT O="xl"/>
+                        <ENT>11.8 EER, 15.8 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥65,000 Btu/h and &lt;135,000 Btu/h</ENT>
+                        <ENT>Without heat recovery</ENT>
+                        <ENT>12.0 EER, 4.2 COP</ENT>
+                        <ENT>12.0 EER, 16.0 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>With heat recovery</ENT>
+                        <ENT O="xl"/>
+                        <ENT>11.8 EER, 15.8 IEER, 4.3 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥135,000 Btu/h and &lt;240,000 Btu/h</ENT>
+                        <ENT>Without heat recovery</ENT>
+                        <ENT>10.0 EER, 3.9 COP</ENT>
+                        <ENT>10.0 EER, 14.0 IEER, 4.0 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>With heat recovery</ENT>
+                        <ENT>9.8 EER, 3.9 COP</ENT>
+                        <ENT>9.8 EER, 13.8 IEER, 4.0 COP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                        <ENT>Without heat recovery</ENT>
+                        <ENT>10.0 EER, 3.9 COP</ENT>
+                        <ENT>10.0 EER, 12.0 IEER, 3.9 COP</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT>With heat recovery</ENT>
+                        <ENT>9.8 EER, 3.9 COP</ENT>
+                        <ENT>9.8 EER, 11.8 IEER, 3.9 COP.</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>1</SU>
+                        âIn terms of current Federal standards, VRF Multi-Split Heat Pumps (Air-Cooled) with heat recovery fall under the heating type âAll Other Types of Heatingâ unless they also have electric resistance heating, in which case it falls under the category for âNo Heating or Electric Resistance Heating.â
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>2</SU>
+                        âIn ASHRAE Standard 90.1, this equipment class is referred to as units with heat recovery rather than all other types of heating.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>3</SU>
+                        âASHRAE Standard 90.1 only includes standards for VRF air conditioners with âelectric resistance or noneâ heating type. Because stakeholders have expressed that it is unlikely that VRF air conditioners would ever be paired with other forms of supplemental heating, DOE's amended equipment classes for VRF air conditioners are condensed using âall types of heatingâ to ensure no change in coverage or backsliding.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>
+                    In the March 2022 NOPR, DOE proposed to adopt the ASHRAE Standard 90.1-2016 equipment class structure for VRF multi-split systems in its regulations at 10 CFR 431.97, staying consistent with EPCA's direction to establish amended uniform national standards for the VRF multi-split systems at the minimum levels specified in ASHRAE Standard 90.1. (42 U.S.C. 6313(a)(6)(A)(ii)(I)) 87 FR 11335, 11345-11347 (March 1, 2022). In the March 2022 NOPR, DOE stated that to align with this class structure, DOE would amend the existing DOE class structure by expanding the number of VRF water-source heat pump classes, reducing the number of air-cooled VRF air conditioner classes, and amending the convention for heating type for heat pump systems with and without heat recovery. 
+                    <E T="03">Id.</E>
+                     at 87 FR 11346.
+                </P>
+                <P>DOE proposed a minor clarification in the language used to describe the heating type for VRF multi-split system heat pumps to explicitly designate which classes are with and without heat recovery. 87 FR 11335, 11346-11347 (March 1, 2022). ASHRAE 90.1-2016 currently includes separate classes for systems with and without heat recovery, designated as âVRF multi-split systemsâ or âVRF multi-split system with heat recovery,â while DOE's proposal revised these descriptions to explicitly state either âheat pump without heat recoveryâ or âheat pump with heat recovery.â 87 FR 11335, 11346 (March 1, 2022).</P>
+                <P>
+                    DOE also proposed in the March 2022 NOPR to include separate efficiency levels for VRF multi-split air conditioners that: (1) have either electric resistance heat or no heat and (2) have any other type of heating. Specifically, DOE proposed to label the condensed equipment classes for VRF multi-split air conditioners as having âAllâ types of heating, and to set IEER standards for the proposed condensed classes that are equivalent in stringency to the EER standards for the class with âelectric resistance or noneâ heating type. 87 FR 11335, 11346-11347 (March 1, 2022). DOE tentatively concluded that setting IEER standards to cover âallâ kinds of heating would not constitute an increase of stringency for any models currently in existence because DOE did not have any knowledge of VRF multi-split air conditioners on the market that have âall other types of heatingâ (
+                    <E T="03">e.g.,</E>
+                     a furnace). 
+                    <E T="03">Id.</E>
+                     Such approach was intended to eliminate any anti-backsliding concerns that might otherwise arise if DOE were to adopt a class structure that could be viewed as potentially reducing the current extent of coverage of the VRF energy conservation standards.
+                </P>
+                <P>
+                    Finally, in the March 2022 NOPR, DOE tentatively concluded that adopting the proposed class structure and efficiency levels would not result in a change in stringency for any classes. 
+                    <E T="03">Id.</E>
+                     This was because, in cases where DOE is proposing to subdivide or condense equipment classes relative to the existing DOE equipment class structure, the IEER levels recommended by the Working Group are within the limits of precision determined by DOE's crosswalk translation. For example, in cases where the current DOE equipment class only includes a single EER standard but ASHRAE Standard 90.1-2016 includes separate IEER standards for classes with and without heat recovery, both of the ASHRAE Standard 90.1 IEER levels fall within the crosswalk range determined by DOE to represent equivalent stringency to existing EER standard. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>In response, AHRI, Carrier, the Joint Advocates, and the CA IOUs commented that they support DOE's proposed equipment class structure. (AHRI, No. 77 at p. 3; Carrier, No. 74 at p. 2; Joint Advocates, No. 76 at p. 1; CA IOUs, No. 72 at p. 1) AHRI and Carrier stated that the structure accurately reflects the market for VRFs. (AHRI, No. 77 at p. 3; Carrier, No. 74 at p. 2) Carrier also stated that alignment with the industry standard would facilitate rulemakings in response to future updates. (Carrier, No. 74 at p. 2) AHRI further commented that Addendum ay includes harmonization with the additional clarification for heating type. (AHRI, No. 77 at p. 3)</P>
+                <P>Based on comment responses, in this final rule, DOE is finalizing its proposals to adopt the ASHRAE Standard 90.1-2016 equipment class structure for VRF multi-split systems in its regulations at 10 CFR 431.97, to clarify language used to describe the heating type for VRF multi-split system heat pumps to explicitly designate which classes are with and without heat recovery, and to include separate efficiency levels for VRF multi-split air conditioners that: (1) have either electric resistance heat or no heat and (2) have any other type of heating.</P>
+                <HD SOURCE="HD1">IV. Estimates of Potential Energy Savings</HD>
+                <P>
+                    As required under 42 U.S.C. 6313(a)(6)(A)(i), for VRF multi-split system equipment classes for which ASHRAE Standard 90.1-2016 set levels more stringent than the current Federal standards, DOE performed an assessment to determine the energy-savings potential of amending Federal 
+                    <PRTPAGE P="18977"/>
+                    standard levels to reflect the efficiency levels specified in ASHRAE Standard 90.1-2016. In the July 2019 NODA/RFI, DOE presented the findings of the energy savings potential for the six considered equipment classes for which the Department was triggered. 84 FR 32328, 32335 (July 8, 2019). DOE tentatively determined, based on a report by Cadeo Group,
+                    <SU>17</SU>
+                    <FTREF/>
+                     that four of the six affected classesâthose with cooling capacities that are less than 17,000 Btu/h or greater than or equal to 135,000 Btu/h (with or without heat recovery), do not have any market share and, thus, no energy savings potential from amended standards. The Cadeo report showed that the remaining two affected classes, with cooling capacities greater than 17,000 Btu/h and less than 135,000 Btu/h, represented under three percent of the VRF multi-split system market. DOE tentatively concluded that potential energy savings for these equipment classes were 
+                    <E T="03">de minimis. Id.</E>
+                     DOE noted that in ASHRAE Standard 90.1-2016, the COP was raised by 0.1 on both of these equipment classes, and that most commercial buildings are cooling dominant. 
+                    <E T="03">Id.</E>
+                     DOE is unaware of any additional information available in the intervening period that would alter its initial understanding of the energy savings potential of the VRF multi-split systems equipment classes for which DOE was triggered by ASHRAE Standard 90.1-2016. Given this information, in this final rule DOE concludes that energy savings for these equipment classes are 
+                    <E T="03">de minimis.</E>
+                     Consideration of more-stringent efficiency levels than those specified in ASHRAE Standard 90.1 are discussed in section V.A of this document.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âCadeo Report, Variable Refrigerant Flow: A Preliminary Market Assessment. 
+                        <E T="03">See: www.regulations.gov/document?D=EERE-2017-BT-TP-0018-0002.</E>
+                         The report presents market share by VRF multi-split system equipment class, based on confidential sales data given in interviews with several major manufacturers of VRF multi-split equipment and DOE's Compliance Certification Database.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">V. Conclusions</HD>
+                <HD SOURCE="HD2">A. Consideration of More-Stringent Efficiency Levels</HD>
+                <P>
+                    When triggered by an update to ASHRAE Standard 90.1, EPCA requires DOE to establish an amended uniform national standard for equipment classes at the minimum level specified in the amended ASHRAE Standard 90.1 unless DOE determines, by rule published in the 
+                    <E T="04">Federal Register</E>
+                     and supported by clear and convincing evidence, that adoption of a uniform national standard more stringent than the amended ASHRAE Standard 90.1 for the equipment class would result in significant additional conservation of energy and is technologically feasible and economically justified. (42 U.S.C. 6313(a)(6)(A)(ii)(I)-(II))
+                </P>
+                <P>As discussed in section II.B.3 of this final rule, following publication of the July 2019 NODA/RFI, the ASRAC Working Group reached consensus on two term sheets containing recommendations regarding the test procedure and energy conservation standards for VRF multi-split systems. As discussed in section III.B of this document, the recommended standards are consistent with the crosswalk conducted by DOE to translate the existing Federal standards in terms of EER to equivalent levels in terms of IEER, measured per AHRI 1230-2021. These recommended efficiency levels also align with the IEER and COP levels in ASHRAE Standard 90.1-2016. The Working Group did not consider more-stringent efficiency levels.</P>
+                <P>In the March 2022 NOPR, DOE considered but did not estimate potential energy savings that would occur from more-stringent standards. To assess the magnitude of potential energy savings from amended standards and determine which level, if any, of more-stringent standards would be economically justified, DOE must be able to properly represent the no-new-standards caseâthe case without amended standardsâand must be able to properly characterize the technology options and costs associated with specific levels of efficiency. With regards to VRF multi-split systems, this would require developing efficiency data for the entire market in terms of IEER measured per AHRI 1230-2021. 87 FR 11335, 11348 (March 1, 2022).</P>
+                <P>
+                    DOE considered two approaches for developing market-wide performance data in terms of IEER measured per AHRI 1230-2021: (1) DOE examined whether any such data exist in publicly-available sources, and (2) DOE considered whether existing performance data in terms of EER (measured per the current Federal test procedure) could be effectively translated to IEER (measured per AHRI 1230-2021). 
+                    <E T="03">Id.</E>
+                </P>
+                <P>On the first approach, DOE found that public data in terms of IEER measured per AHRI 1230-2021 are not available, as the rating of VRF multi-split systems using the updated metric and test procedure is not currently required. DOE acknowledged that IEER performance data are widely represented by VRF manufacturers, but that all such data are measured per an earlier version of the industry test standard (AHRI 1230-2014) and, thus, not directly comparable. DOE also found that the AHRI Directory did not yet require IEER representations measured per AHRI 1230-2021. 87 FR 11335, 11348 (March 1, 2022).</P>
+                <P>
+                    On the second approach, DOE considered the results of its crosswalk analysis to determine whether a market-wide translation of existing EER data to IEER data (measured per AHRI 1230-2021) was possible. As discussed in section III.A the NOPR, the combined effect of translating the Federal cooling efficiency metric from EER to IEER and the effect of test procedure changes between the current DOE test procedure (which references AHRI 1230-2010) and the proposed DOE test procedure (which would reference AHRI 1230-2021) is likely to produce different impacts on measured efficiency across different manufacturers and different models. As DOE's crosswalk analysis has shown, a minimally-compliant VRF multi-split system with 10.8 EER can result in a range of crosswalked IEER levels from 13 to 16, depending on control inputs selected by the manufacturer. Additionally, an estimation of energy savings potentials of more-stringent energy efficiency levels would require developing efficiency data for the entire VRF multi-split system market, which would be a much broader analysis than that conducted for the crosswalk. The crosswalk analysis conducted to support the Working Group recommendations and presented in the NOPR only translated the baseline efficiency level between the metrics for a single class of VRF multi-split system and did not translate all efficiency levels currently represented in the market. As noted, there are insufficient market data regarding the performance of VRF multi-split systems measured in terms of IEER per AHRI 1230-2021. As such, DOE preliminarily determined that it lacked clear and convincing evidence to adopt more-stringent standard levels. Regardless of whether DOE preliminarily determined that more-stringent standards would be technologically feasible and economically justified, DOE would be unable to adopt such standards absent a determination, supported by clear and convincing evidence, that more-stringent standards would result in significant additional energy savings. (42 U.S.C. 6313(a)(6)(A)(ii)(II)) Therefore, having preliminarily determined that it lacks clear and convincing evidence as to the energy savings that would result from more-stringent standards, DOE did not conduct analysis as to the technological 
+                    <PRTPAGE P="18978"/>
+                    feasibility or economic justification of such standards for VRF multi-split systems. 87 FR 11335, 11348 (March 1, 2022).
+                </P>
+                <P>In response to the March 2022 NOPR, AHRI commented that it supports the proposed standards. (AHRI. No. 77 at pp. 1-2) The CA IOUs, Lennox, Daikin, and Joint Advocates commented that they support DOE's proposal to adopt the VRF ECS levels from the ASRAC Working Group term sheet. (CA IOUs, No. 72 at p. 1; Lennox, No. 75 at p. 1; Daikin, No. 79 at p. 1; Joint Advocates, No. 76 at p. 1) The CA IOUs commented that they acknowledge the challenges associated with the crosswalk analysis, and that they agree that DOE lacks the evidence necessary to justify efficiency levels above those in ASHRAE Standard 90.1. (CA IOUs, No. 72 at p. 1) Conversely, NYSERDA commented that it is not convinced that the levels being set are the most efficient levels that DOE can justify and urged DOE to reevaluate its VRF standards once a database of equipment is available. (NYSERDA, No. 73 at p. 2)</P>
+                <P>After carefully considering these comments, DOE concludes that it does not have the clear and convincing evidence necessary to justify the adoption of more-stringent energy conservation standard levels for VRF multi-split systems. To be able to properly characterize the technology options and associated costs, DOE would require efficiency data for the entire market in terms of IEER measured per AHRI 1230-2021. As NYSERDA noted, DOE does not presently have such data available. Consequently, DOE concludes that more-stringent standards cannot be justified at this time. Therefore, DOE has not conducted analysis as to the technological feasibility or economic justification of more-stringent standards for VRF multi-split systems.</P>
+                <HD SOURCE="HD2">B. Review Under the Six-Year-Lookback Provision</HD>
+                <P>
+                    As discussed, DOE is required to conduct an evaluation of each class of covered equipment in ASHRAE Standard 90.1 every six years. (42 U.S.C. 6313(a)(6)(C)(i)) Accordingly, DOE is evaluating 12 of the Federal VRF equipment classes for which ASHRAE Standard 90.1-2016 did not increase the stringency of the standards. Energy conservation standards for the two remaining classes of VRF multi-split systems (
+                    <E T="03">i.e.,</E>
+                     three-phase, air-cooled VRF multi-split systems with cooling capacity less than 65,000 Btu/h) are not addressed in this final rule and instead will be addressed in a separate energy conservation standards rulemaking. DOE may only adopt more-stringent standards pursuant to the six-year-lookback review if the Secretary determines, by rule published in the 
+                    <E T="04">Federal Register</E>
+                     and supported by clear and convincing evidence, that the adoption of more-stringent standards would result in significant additional conservation of energy and is technologically feasible and economically justified. (42 U.S.C. 6313(a)(6)(C)(i)(II); 42 U.S.C. 6313(a)(6)(B); 42 U.S.C. 6313(a)(6)(A)(ii)(II))
+                </P>
+                <P>For the reasons presented in the prior section, DOE has determined that it lacks clear and convincing evidence that more-stringent standards for these 12 equipment classes would result in significant additional energy savings. Because DOE does not have sufficient data to meet the âclear and convincingâ threshold for these 12 classes, DOE did not conduct an analysis of standard levels more stringent than the current Federal standard levels for VRF multi-split systems that were not amended in ASHRAE Standard 90.1-2016. See section V.A of this document for further discussion of the consideration of energy efficiency levels more stringent than the ASHRAE Standard 90.1-2016 levels.</P>
+                <HD SOURCE="HD2">C. Amended Energy Conservation Standards</HD>
+                <P>Based on the foregoing, DOE is amending energy conservation standards for VRF multi-split systems in terms of IEER and COP equivalent to those specified for VRF multi-split systems in ASHRAE Standard 90.1-2016, which align with the levels recommended in the ASRAC Working Group's VRF ECS Term Sheet. The amended standards are presented in Table I-1. Compliance with the amended standards is required for VRF multi-split systems manufactured in, or imported into, the United States starting January 1, 2024, which aligns with the Working Group's recommendation in the VRF ECS Term Sheet.</P>
+                <P>
+                    As discussed, ASHRAE Standard 90.1-2016 includes more-stringent COP standards for six water-source VRF multi-split heat pump classes. EPCA provides that the compliance date for prescribing levels contained in ASHRAE Standard 90.1 shall be on or after a date that is two or three years (depending on the equipment type or size) after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE standard. (42 U.S.C. 6313(a)(6)(D)) The effective date for amended COP standards in ASHRAE Standard 90.1-2016 was January 1, 2017. In the March 2022 NOPR, DOE acknowledged that the statute originally tied calculation of a compliance date to either two or three years after the effective date of amended ASHRAE Standard 90.1. However, because these dates have passed, DOE proposed the date recommended in the VRF ECS Term Sheet (
+                    <E T="03">i.e.,</E>
+                     January 1, 2024) as a reasonable amount of lead time supported by a broad array of interested stakeholders. DOE stated that if it received comments in response to the NOPR that recommend alternative compliance date(s) later than January 1, 2024, DOE would consider adopting alternative compliance date(s) in the final rule. 87 FR 11335, 11349 (March 1, 2022).
+                </P>
+                <P>In response to the March 2022 NOPR, AHRI commented that, given that January 1, 2024 is rapidly approaching, DOE should consider using its authority under 42 U.S.C. 6313(a)(6)(A)(ii)(l) to make the proposed energy conservation standard effective sooner than 18 months after the rule is finalized. (AHRI, No. 77 at p. 2) Daikin encouraged DOE to finalize the VRF ECS rulemaking quickly, as industry needs as much time as possible to comply, especially with the revised VRF test procedure. (Daikin, No. 79 at p. 1) The CA IOUs, NYSERDA, and Joint Advocates also commented their support for the proposed compliance date of January 1, 2024. (CA IOUs, No. 72 at p. 1; NYSERDA, No. 73 at p. 1 Joint Advocates, No. 76 at p. 1)</P>
+                <P>GE commented that, because of the amount of time that has passed since the ASRAC Working Group term sheet was published, DOE should postpone the compliance date, as one year of lead time is not sufficient time for manufacturers to evaluate all products and make necessary changes to meet the new standard according to the new test procedure. (GE, No. 78 at p. 2) Similarly, Carrier commented that DOE should consider shifting the compliance date by 12-18 months, so that manufacturers have a minimum of two years between the publication of the final rule and the compliance date to give manufacturers enough time to implement the new test procedure and redesign their impacted equipment accordingly. (Carrier, No. 74 at p. 1)</P>
+                <P>
+                    In response, DOE notes that manufacturers have been aware of the updated levels since the ASRAC Working Group reached consensus on the VRF ECS Term Sheet in 2019. While DOE acknowledges that the test procedure changes will impact rated efficiencies of VRF multi-split systems, the Department further notes that manufacturers have been aware of these changes since at least the publication of 
+                    <PRTPAGE P="18979"/>
+                    AHRI 1230-2021. Thus, DOE concludes that manufacturers have had sufficient time to adjust to both the amended VRF energy conservation standards and the new VRF test procedure. Therefore, in this final rule, DOE maintains its compliance date of January 1, 2024, for amended standards for VRF multi-split systems.
+                </P>
+                <P>NYSERDA commented that DOE should consider beginning a new standards rulemaking prior to the date mandated under the six-year-lookback requirement, as this will allow for advancements in the energy conservation standards for VRF multi-split systems based upon certification data generated by application of the new test procedure. (NYSERDA, No. 73 at p. 2)</P>
+                <P>On NYSERDA's point, DOE will consider appropriate timing of its next proceeding for VRF multi-split systems in light of the relevant statutory deadlines and compliance dates for any future rulemakings.</P>
+                <HD SOURCE="HD1">VI. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Orders 12866 and 13563</HD>
+                <P>Executive Order (âE.O.â) 12866, âRegulatory Planning and Review,â 58 FR 51735 (Oct. 4, 1993), as supplemented and reaffirmed by E.O. 13563, âImproving Regulation and Regulatory Review,â 76 FR 3821 (Jan. 21, 2011), requires agencies, to the extent permitted by law, to: (1) propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs (recognizing that some benefits and costs are difficult to quantify); (2) tailor regulations to impose the least burden on society, consistent with obtaining regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations; (3) select, in choosing among alternative regulatory approaches, those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity); (4) to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt; and (5) identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public. DOE emphasizes as well that E.O. 13563 requires agencies to use the best available techniques to quantify anticipated present and future benefits and costs as accurately as possible. In its guidance, the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB) has emphasized that such techniques may include identifying changing future compliance costs that might result from technological innovation or anticipated behavioral changes. For the reasons stated in the preamble, this regulatory action is consistent with these principles.</P>
+                <P>Section 6(a) of E.O. 12866 also requires agencies to submit âsignificant regulatory actionsâ to OIRA for review. OIRA has determined that this final rule does not constitute a âsignificant regulatory actionâ under section 3(f) of E.O. 12866. Accordingly, this action was not submitted to OIRA for review under E.O. 12866.</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis (IRFA) and a final regulatory flexibility analysis (FRFA) for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (August 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. DOE has made its procedures and policies available on the Office of the General Counsel's website (
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                    ). DOE reviewed this final rule to amend the Federal energy conservation standards for VRF multi-split systems under the provisions of the Regulatory Flexibility Act and the policies and procedures published on February 19, 2003. DOE certifies that this final rule will not have a significant economic impact on a substantial number of small entities. The factual basis for this certification is set forth in the following paragraphs.
+                </P>
+                <P>
+                    In this final rule, DOE is amending the existing Federal minimum energy conservation standards for VRF multi-split systems under EPCA's ASHRAE trigger requirement and the six-year lookback provision. Under the trigger, EPCA directs that if ASHRAE amends ASHRAE Standard 90.1, DOE must adopt uniform national amended standards at the new ASHRAE efficiency level, unless DOE determines, by rule published in the 
+                    <E T="04">Federal Register</E>
+                     and supported by clear and convincing evidence, that adoption of a more-stringent level would produce significant additional conservation of energy and would be technologically feasible and economically justified. (42 U.S.C. 6313(a)(6)(A)(ii)) Under the six-year-lookback, DOE must also review energy efficiency standards for VRF multi-split systems every six years and either: (1) issue a notice of determination that the standards do not need to be amended based upon the criteria in 42 U.S.C. 6313(a)(6)(A) (
+                    <E T="03">i.e.,</E>
+                     that there is clear and convincing evidence to show that adoption of a more-stringent level would save significant additional energy and would be technologically feasible and economically justified); or (2) issue a notice of proposed rulemaking including new proposed standards based on certain criteria and procedures in 42 U.S.C. 6313(a)(6)(B). (42 U.S.C. 6313(a)(6)(C))
+                </P>
+                <P>In this document, DOE is updating the standards for VRF multi-split systems at 10 CFR 431.97 to align with the most recent version of ASHRAE Standard 90.1, including the updated COP levels for the six classes of VRF multi-split water-source heat pumps on which DOE was triggered. DOE is also expressing cooling efficiency standards in terms of the IEER metric, as measured according to the amended industry test procedure AHRI 1230-2021, and removing standard levels in terms of the EER metric, as measured according to the current DOE test procedure. Finally, DOE is amending the equipment class structure for VRF multi-split systems to align with the equipment class structure present in ASHRAE Standard 90.1, with regards to capacity break points, supplementary heating type, and presence of heat recovery. The amended standard levels have a compliance date applying to all VRF multi-split systems manufactured on or after January 1, 2024. Table 14 to paragraph (f)(2) of 10 CFR 431.97 accounts for all changes between the previous Federal VRF multi-split system standards and those outlined in ASHRAE Standard 90.1-2016 (as reaffirmed in ASHRAE Standard 90.1-2019).</P>
+                <P>
+                    DOE uses the Small Business Administration (SBA) small business size standards to determine whether manufacturers qualify as small businesses, which are listed by the North American Industry Classification 
+                    <PRTPAGE P="18980"/>
+                    System (NAICS).
+                    <SU>18</SU>
+                    <FTREF/>
+                     The SBA considers a business entity to be a small business, if, together with its affiliates, it employs less than a threshold number of workers specified in 13 CFR part 121.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âThe size standards are listed by NAICS code and industry description and are available at: 
+                        <E T="03">www.sba.gov/document/support--table-size-standards</E>
+                         (Last accessed on Dec. 30, 2022).
+                    </P>
+                </FTNT>
+                <P>VRF multi-split system manufacturers are classified under NAICS code 333415, âAir-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing.â The SBA sets a threshold of 1,250 employees or fewer for an entity to be considered as a small business for this category. This employee threshold includes all employees in a business's parent company and any other subsidiaries.</P>
+                <P>
+                    Prior to the March 2022 NOPR, DOE conducted a focused inquiry into small business manufacturers of the equipment covered by this rulemaking. DOE used available public information to identify potential small manufacturers that manufacture domestically. DOE identified manufacturers using DOE's Compliance Certification Databaseâ
+                    <SU>19</SU>
+                    <FTREF/>
+                     and the AHRI Directory database. DOE used this publicly-available information to identify ten distinct original equipment manufacturers âOEMsâ of the covered VRF multi-split system equipment. In reviewing the ten OEMs, DOE did not identify any companies that met the SBA criteria for a small entity. 87 FR 11335, 11349-11350 (March 1, 2022). DOE requested comment regarding its tentative conclusions that there are no small business OEMs of VRF multi-split systems, that adoption of the prevailing industry standard levels would not result in any significant economic impact, and, accordingly, that the proposed rule would not have significant impacts on a substantial number of small manufacturers. 
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âDOE's Compliance Certification Database is available at: 
+                        <E T="03">www.regulations.doe.gov/ccms</E>
+                         (Last accessed Dec. 30, 2022).
+                    </P>
+                </FTNT>
+                <P>In response, AHRI commented that they are not aware of any small business OEMs of VRF multi-split systems. (AHRI, No. 77 at p. 3) Therefore, DOE concludes that this final rule will not have âa significant impact on a substantial number of small entitiesâ and that preparation of an IRFA/FRFA is not warranted. Additional information about this final rule is addressed elsewhere in this document. DOE has transmitted its certification and supporting statement of factual basis to the Chief Counsel for Advocacy of the Small Business Administration for review under 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act of 1995</HD>
+                <P>
+                    Manufacturers of VRF multi-split systems must certify to DOE that their equipment complies with any applicable energy conservation standards. In certifying compliance, manufacturers must test their equipment according to the DOE test procedures for VRF multi-split systems, including any amendments adopted for those test procedures. DOE has established regulations for the certification and recordkeeping requirements for all covered consumer products and commercial equipment, including VRF multi-split systems. (
+                    <E T="03">See generally</E>
+                     10 CFR part 429). The collection-of-information requirement for the certification and recordkeeping is subject to review and approval by OMB under the Paperwork Reduction Act (PRA). This requirement has been approved by OMB under OMB control number 1910-1400. Public reporting burden for the certification is estimated to average 35 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.
+                </P>
+                <P>This final rule does not make any changes to the certification and recordkeeping requirements for VRF multi-split system manufacturers.</P>
+                <P>Notwithstanding any other provision of the law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the PRA, unless that collection of information displays a currently valid OMB Control Number.</P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    Pursuant to the National Environmental Policy Act of 1969 (NEPA), DOE has analyzed this final rule in accordance with NEPA and DOE's NEPA implementing regulations (10 CFR part 1021). DOE has determined that this rule qualifies for categorical exclusion under 10 CFR part 1021, subpart D, appendix B5.1 because it is a rulemaking that establishes energy conservation standards for consumer products or industrial equipment, none of the exceptions identified in categorical exclusion B5.1(b) apply, no extraordinary circumstances exist that require further environmental analysis, and it otherwise meets the requirements for application of a categorical exclusion. 
+                    <E T="03">See</E>
+                     10 CFR 1021.410. Therefore, DOE has determined that promulgation of this final rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA, and does not require an environmental assessment or an environmental impact statement.
+                </P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>E.O. 13132, âFederalism,â 64 FR 43255 (August 10, 1999), imposes certain requirements on Federal agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735. DOE has examined this final rule and has determined that it would not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. EPCA governs and prescribes Federal preemption of State regulations as to energy conservation for the equipment that is the subject of this final rule. States can petition DOE for exemption from such preemption to the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 6316(a) and (b); 42 U.S.C. 6297) Therefore, no further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>
+                    With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of E.O. 12988, âCivil Justice Reform,â imposes on Federal agencies the general duty to adhere to the following requirements: (1) eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; (3) provide a clear legal standard for affected conduct rather than a general standard, and (4) promote simplification and burden reduction. 61 FR 4729 (Feb. 7, 1996). Regarding the review required by section 3(a), section 3(b) of E.O. 12988 specifically requires that executive agencies make every reasonable effort to ensure that the regulation: (1) clearly 
+                    <PRTPAGE P="18981"/>
+                    specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms, and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of E.O. 12988 requires executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this final rule meets the relevant standards of E.O. 12988.
+                </P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments and the private sector. Public Law 104-4, sec. 201 (codified at 2 U.S.C. 1531). For a regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a âsignificant intergovernmental mandate,â and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect them. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. 62 FR 12820. DOE's policy statement is also available at: 
+                    <E T="03">www.energy.gov/sites/prod/files/gcprod/documents/umra_97.pdf.</E>
+                </P>
+                <P>DOE examined this final rule according to UMRA and its statement of policy and determined that this rule does not contain a Federal intergovernmental mandate, nor is it expected to require expenditures of $100 million or more in any one year by State, local, and Tribal governments, in the aggregate, or by the private sector. As a result, the analytical requirements of UMRA do not apply.</P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>Pursuant to E.O. 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (March 18, 1988), DOE has determined that this final rule would not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) provides for Federal agencies to review most disseminations of information to the public under information quality guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant to OMB Memorandum M-19-15, âImproving Implementation of the Information Quality Actâ (April 24, 2019), DOE published updated guidelines which are available at: 
+                    <E T="03">www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf.</E>
+                     DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.
+                </P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>E.O. 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA at OMB, a Statement of Energy Effects for any significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule, and that: (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use.</P>
+                <P>DOE has concluded that this regulatory action, which sets forth amended energy conservation standards for VRF multi-split systems, is not a significant energy action because it is not a significant regulatory action under Executive Order 12866. Moreover, the standards are not likely to have a significant adverse effect on the supply, distribution, or use of energy, nor has it been designated as such by the Administrator at OIRA. Accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">L. Review Under the Information Quality Bulletin for Peer Review</HD>
+                <P>
+                    On December 16, 2004, OMB, in consultation with the Office of Science and Technology Policy (OSTP), issued its Final Information Quality Bulletin for Peer Review (the Bulletin). 70 FR 2664 (Jan. 14, 2005). The Bulletin establishes that certain scientific information shall be peer reviewed by qualified specialists before it is disseminated by the Federal Government, including influential scientific information related to agency regulatory actions. The purpose of the Bulletin is to enhance the quality and credibility of the Government's scientific information. Under the Bulletin, the energy conservation standards rulemaking analyses are âinfluential scientific information,â which the Bulletin defines as âscientific information the agency reasonably can determine will have, or does have, a clear and substantial impact on important public policies or private sector decisions.â 
+                    <E T="03">Id.</E>
+                     at 70 FR 2667.
+                </P>
+                <P>
+                    In response to OMB's Bulletin, DOE conducted formal peer reviews of the energy conservation standards development process and the analyses that are typically used and has prepared a Peer Review report pertaining to the energy conservation standards 
+                    <PRTPAGE P="18982"/>
+                    rulemaking analyses.
+                    <SU>20</SU>
+                    <FTREF/>
+                     Generation of this report involved a rigorous, formal, and documented evaluation using objective criteria and qualified and independent reviewers to make a judgment as to the technical/scientific/business merit, the actual or anticipated results, and the productivity and management effectiveness of programs and/or projects. Because available data, models, and technological understanding have changed since 2007, DOE has engaged with the National Academy of Sciences to review DOE's analytical methodologies to ascertain whether modifications are needed to improve the Department's analyses. DOE is in the process of evaluating the resulting December 2021 NAS report.
+                    <SU>21</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âThe 2007 âEnergy Conservation Standards Rulemaking Peer Review Reportâ is available at: 
+                        <E T="03">energy.gov/eere/buildings/downloads/energy-conservation-standards-rulemaking-peer-review-report-0</E>
+                         (Last accessed Oct. 3, 2022).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âThe December 2021 NAS report is available at 
+                        <E T="03">www.nationalacademies.org/our-work/review-of-methods-for-setting-building-and-equipment-performance-standards.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">M. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this final rule prior to its effective date. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VII. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 431</HD>
+                    <P>Administrative practice and procedure, Confidential business information, Energy conservation, Household appliances, Imports, Intergovernmental relations, Laboratories, Reporting and recordkeeping requirements, Small businesses.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on January 30, 2023, by Francisco Alejandro Moreno, Acting Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on March 21, 2023.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons set forth in the preamble, DOE amends part 431 of chapter II, subchapter D, of title 10 of the Code of Federal Regulations, as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 431âENERGY CONSERVATION PROGRAM FOR CERTAIN COMMERCIAL AND INDUSTRIAL EQUIPMENT</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="431">
+                    <AMDPAR>1. The authority citation for part 431 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 42 U.S.C. 6291-6317; 28 U.S.C. 2461 note.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="431">
+                    <AMDPAR>2. Section 431.97 is amended by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraph (f); and</AMDPAR>
+                    <AMDPAR>b. Redesignating âTable 14â as âTable 15â in paragraph (g).</AMDPAR>
+                    <P>The revision reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â431.97</SECTNO>
+                        <SUBJECT>Energy efficiency standards and their compliance dates.</SUBJECT>
+                        <STARS/>
+                        <P>(f)(1) Each variable refrigerant flow air conditioner or heat pump manufactured on or after the compliance date listed in table 13 of this section and prior to January 1, 2024, must meet the applicable minimum energy efficiency standard level(s) set forth in table 13 of this section.</P>
+                        <GPOTABLE COLS="5" OPTS="L2,nj,p7,7/8,i1" CDEF="s60,r65,r60,r40,xs66">
+                            <TTITLE>Table 13 to Paragraph (F)(1) to Â§â431.97âMinimum Efficiency Standards for Variable Refrigerant Flow Multi-Split Air Conditioners and Heat Pumps</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Equipment type</CHED>
+                                <CHED H="1">Cooling capacity</CHED>
+                                <CHED H="1">
+                                    Heating typeâ
+                                    <SU>1</SU>
+                                </CHED>
+                                <CHED H="1">Efficiency level</CHED>
+                                <CHED H="1" O="L">
+                                    Compliance date:
+                                    <LI>equipment</LI>
+                                    <LI>manufactured on and after . . .</LI>
+                                </CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="01">VRF Multi-Split Air Conditioners (Air-Cooled)</ENT>
+                                <ENT>
+                                    &lt;65,000 Btu/h
+                                    <LI>â¥65,000 Btu/h and &lt;135,000 Btu/h</LI>
+                                </ENT>
+                                <ENT>
+                                    All
+                                    <LI>No Heating or Electric Resistance Heating</LI>
+                                </ENT>
+                                <ENT>
+                                    13.0 SEER
+                                    <LI>11.2 EER</LI>
+                                </ENT>
+                                <ENT>
+                                    June 16, 2008.
+                                    <LI>January 1, 2010.</LI>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>All Other Types of Heating</ENT>
+                                <ENT>11.0 EER</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥135,000 Btu/h and &lt;240,000 Btu/h</ENT>
+                                <ENT>No Heating or Electric Resistance Heating</ENT>
+                                <ENT>11.0 EER</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>All Other Types of Heating</ENT>
+                                <ENT>10.8 EER</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                                <ENT>No Heating or Electric Resistance Heating</ENT>
+                                <ENT>10.0 EER</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>All Other Types of Heating</ENT>
+                                <ENT>9.8 EER</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">VRF Multi-Split Heat Pumps (Air-Cooled)</ENT>
+                                <ENT>
+                                    &lt;65,000 Btu/h
+                                    <LI>â¥65,000 Btu/h and &lt;135,000 Btu/h</LI>
+                                </ENT>
+                                <ENT>
+                                    All
+                                    <LI>No Heating or Electric Resistance Heating</LI>
+                                </ENT>
+                                <ENT>
+                                    13.0 SEER, 7.7 HSPF
+                                    <LI>11.0 EER, 3.3 COP</LI>
+                                </ENT>
+                                <ENT>
+                                    June 16, 2008.
+                                    <LI>January 1, 2010.</LI>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>All Other Types of Heating</ENT>
+                                <ENT>10.8 EER, 3.3 COP</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥135,000 Btu/h and &lt;240,000 Btu/h</ENT>
+                                <ENT>No Heating or Electric Resistance Heating</ENT>
+                                <ENT>10.6 EER, 3.2 COP</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>All Other Types of Heating</ENT>
+                                <ENT>10.4 EER, 3.2 COP</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                                <ENT>No Heating or Electric Resistance Heating</ENT>
+                                <ENT>9.5 EER, 3.2 COP</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>All Other Types of Heating</ENT>
+                                <ENT>9.3 EER, 3.2 COP</ENT>
+                                <ENT>January 1, 2010.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">VRF Multi-Split Heat Pumps (Water-Source)</ENT>
+                                <ENT>&lt;17,000 Btu/h</ENT>
+                                <ENT>Without Heat Recovery</ENT>
+                                <ENT>12.0 EER, 4.2 COP</ENT>
+                                <ENT>October 29, 2012. October 29, 2003.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>With Heat Recovery</ENT>
+                                <ENT>11.8 EER, 4.2 COP</ENT>
+                                <ENT>October 29, 2012. October 29, 2003.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥17,000 Btu/h and &lt;65,000 Btu/h</ENT>
+                                <ENT>All</ENT>
+                                <ENT>12.0 EER, 4.2 COP</ENT>
+                                <ENT>October 29, 2003.</ENT>
+                            </ROW>
+                            <ROW>
+                                <PRTPAGE P="18983"/>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥65,000 Btu/h and &lt;135,000 Btu/h</ENT>
+                                <ENT>All</ENT>
+                                <ENT>12.0 EER, 4.2 COP</ENT>
+                                <ENT>October 29, 2003.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥135,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                                <ENT>Without Heat Recovery</ENT>
+                                <ENT>10.0 EER, 3.9 COP</ENT>
+                                <ENT>October 29, 2013.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>With Heat Recovery</ENT>
+                                <ENT>9.8 EER, 3.9 COP</ENT>
+                                <ENT>October 29, 2013.</ENT>
+                            </ROW>
+                            <TNOTE>
+                                <SU>1</SU>
+                                âVRF multi-split heat pumps (air-cooled) with heat recovery fall under the category of âAll Other Types of Heatingâ unless they also have electric resistance heating, in which case it falls under the category for âNo Heating or Electric Resistance Heating.â
+                            </TNOTE>
+                        </GPOTABLE>
+                        <P>(2) Each variable refrigerant flow air conditioner or heat pump (except air-cooled systems with cooling capacity less than 65,000 Btu/h) manufactured on or after January 1, 2024, must meet the applicable minimum energy efficiency standard level(s) set forth in table 14 of this section.</P>
+                        <GPOTABLE COLS="4" OPTS="L2,p7,7/8,i1" CDEF="s60,r50,r50,r30">
+                            <TTITLE>Table 14 to Paragraph (F)(2) to Â§â431.97âUpdated Minimum Efficiency Standards for Variable Refrigerant Flow Multi-Split Air Conditioners and Heat Pumps</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Equipment type</CHED>
+                                <CHED H="1">Size category</CHED>
+                                <CHED H="1">Heating type</CHED>
+                                <CHED H="1">Minimum efficiency</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="01">VRF Multi-Split Air Conditioners (Air-Cooled)</ENT>
+                                <ENT>â¥65,000 and &lt;135,000 Btu/h</ENT>
+                                <ENT>All</ENT>
+                                <ENT>15.5 IEER.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥135,000 and &lt;240,000 Btu/h</ENT>
+                                <ENT>All</ENT>
+                                <ENT>14.9 IEER.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                                <ENT>All</ENT>
+                                <ENT>13.9 IEER.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">VRF Multi-Split Heat Pumps (Air-Cooled)</ENT>
+                                <ENT>â¥65,000 and &lt;135,000 Btu/h</ENT>
+                                <ENT>Heat Pump without Heat Recovery</ENT>
+                                <ENT>14.6 IEER, 3.3 COP.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT O="xl"/>
+                                <ENT>Heat Pump with Heat Recovery</ENT>
+                                <ENT>14.4 IEER, 3.3 COP.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥135,000 and &lt;240,000 Btu/h</ENT>
+                                <ENT>
+                                    Heat Pump without Heat Recovery
+                                    <LI>Heat Pump with Heat Recovery</LI>
+                                </ENT>
+                                <ENT>
+                                    13.9 IEER, 3.2 COP.
+                                    <LI>13.7 IEER, 3.2 COP.</LI>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                                <ENT>
+                                    Heat Pump without Heat Recovery
+                                    <LI>Heat Pump with Heat Recovery</LI>
+                                </ENT>
+                                <ENT>
+                                    12.7 IEER, 3.2 COP.
+                                    <LI>12.5 IEER, 3.2 COP.</LI>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">VRF Multi-Split Heat Pumps (Water-Source)</ENT>
+                                <ENT>&lt;65,000 Btu/h</ENT>
+                                <ENT>
+                                    Heat Pump without Heat Recovery
+                                    <LI>Heat Pump with Heat Recovery</LI>
+                                </ENT>
+                                <ENT>
+                                    16.0 IEER, 4.3 COP.
+                                    <LI>15.8 IEER, 4.3 COP.</LI>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥65,000 and &lt;135,000 Btu/h</ENT>
+                                <ENT>
+                                    Heat Pump without Heat Recovery
+                                    <LI>Heat Pump with Heat Recovery</LI>
+                                </ENT>
+                                <ENT>
+                                    16.0 IEER, 4.3 COP.
+                                    <LI>15.8 IEER, 4.3 COP.</LI>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥135,000 and &lt;240,000 Btu/h</ENT>
+                                <ENT>
+                                    Heat Pump without Heat Recovery
+                                    <LI>Heat Pump with Heat Recovery </LI>
+                                </ENT>
+                                <ENT>
+                                    14.0 IEER, 4.0 COP.
+                                    <LI>13.8 IEER, 4.0 COP.</LI>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                                <ENT>â¥240,000 Btu/h and &lt;760,000 Btu/h</ENT>
+                                <ENT>
+                                    Heat Pump without Heat Recovery
+                                    <LI>Heat Pump with Heat Recovery</LI>
+                                </ENT>
+                                <ENT>
+                                    12.0 IEER, 3.9 COP.
+                                    <LI>11.8 IEER, 3.9 COP.</LI>
+                                </ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2023-06178 Filed 3-29-23; 8:45 a.m.]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

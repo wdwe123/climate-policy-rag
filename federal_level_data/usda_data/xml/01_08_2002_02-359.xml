@@ -1,0 +1,873 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="791"/>
+                <AGENCY TYPE="F">DEPARTMENT OF AGRICULTURE </AGENCY>
+                <SUBAGY>Farm Service Agency </SUBAGY>
+                <CFR>7 CFR Part 764 </CFR>
+                <SUBAGY>Rural Housing Service </SUBAGY>
+                <SUBAGY>Rural Business-Cooperative Service </SUBAGY>
+                <SUBAGY>Rural Utilities Service </SUBAGY>
+                <SUBAGY>Farm Service Agency </SUBAGY>
+                <CFR>7 CFR Part 1945 </CFR>
+                <RIN>RIN 0560-AF72 </RIN>
+                <SUBJECT>Streamlining of the Emergency Farm Loan Program Loan Regulations </SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Farm Service Agency, USDA. </P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Farm Service Agency amends its regulations governing the Farm Service Agency's (FSA) Emergency Farm Loan Program. It clarifies, simplifies, and streamlines the procedures to apply for and make FSA emergency loans. </P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This regulation is effective on February 7, 2002. </P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Mike Hinton, Branch Chief, Loan Making Division, Farm Loan Programs, Farm Service Agency, United States Department of Agriculture, STOP 0522, 1400 Independence Avenue, SW., Washington, DC 20250-0522 telephone (202) 720-1632; or e-mail: 
+                        <E T="03">mike_hinton@wdc.fsa.usda.gov</E>
+                        . 
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Executive Order 12866 </HD>
+                <P>This rule has been determined to be significant for purposes of Executive Order 12866 and, therefore, was reviewed by the Office of Management and Budget. </P>
+                <HD SOURCE="HD1">Regulatory Flexibility Act </HD>
+                <P>The FSA certifies that this rule will not have a significant economic effect on a substantial number of small entities because under the rule the economic effect of the regulation is reduced from the prior rule. Therefore, FSA is not required to perform a Regulatory Flexibility Analysis as required by the Regulatory Flexibility Act (5 U.S.C. 601). This rule does not impact small entities to a greater extent than large entities. </P>
+                <HD SOURCE="HD1">Environmental Impact Statement </HD>
+                <P>
+                    FSA has determined that this action does not constitute a major Federal action significantly affecting the quality of the human environment, and in accordance with the National Environmental Policy Act of 1969, (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ) neither an Environmental Impact Statement nor an environmental assessment is required. 
+                </P>
+                <HD SOURCE="HD1">Executive Order 12988 </HD>
+                <P>This rule has been reviewed in accordance with E.O. 12988, Civil Justice Reform. All State and local laws and regulations that are in conflict with this rule will be preempted. No retroactive effect will be given to this rule. It will not affect agreements entered into prior to the effective date of the rule. The administrative appeal provisions published at 7 CFR parts 11 and 780 must be exhausted before bringing any action for judicial review. </P>
+                <HD SOURCE="HD1">Executive Order 12372 </HD>
+                <P>For reasons contained in the Notice related to 7 CFR part 3015, subpart V (48 FR 29115, June 24, 1983) the programs and activities within this rule are excluded from the scope of Executive Order 12372, which requires intergovernmental consultation with State and local officials. </P>
+                <HD SOURCE="HD1">Executive Order 13132 </HD>
+                <P>The policies contained in this rule do not have any substantial direct effect on states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among various levels of government. Nor does this rule impose substantial direct compliance costs on state and local governments. Therefore, consultation with the states is not required. </P>
+                <HD SOURCE="HD1">Unfunded Mandates </HD>
+                <P>Title II of the Unfunded Mandates Reform Act of 1995 (UMRA), Pub. L. 104-4, establishes requirements for Federal agencies to assess the effects of their regulatory actions on State, local, and tribal governments or the private sector. Agencies generally must prepare a written statement, including a cost benefit assessment, for proposed and final rules with âFederal mandatesâ that may result in expenditures of $100 million or more in any 1 year for State, local, or tribal governments, in the aggregate, or to the private sector. UMRA generally requires agencies to consider alternatives and adopt the more cost effective or least burdensome alternative that achieves the objectives of the rule.</P>
+                <P>The rule contains no Federal mandates, under the regulatory provisions of title II of the UMRA, for State, local, and tribal governments or the private sector. Therefore, this rule is not subject to the requirements of sections 202 and 205 of the UMRA.</P>
+                <HD SOURCE="HD1">Paperwork Reduction Act</HD>
+                <P>The amendments to 7 CFR parts 764 and 1945 contained in this final rule require no revisions to the information collection requirements that are currently approved by OMB under control number 0560-0159. A proposed rule containing an estimate of the information collection burden of this rule was published on September 12, 2000 (65 FR 54973-54981). No comments regarding the burden estimates were received. This information collection has been approved through January 31, 2004. </P>
+                <HD SOURCE="HD1">Federal Assistance Programs </HD>
+                <P>These changes affect the following FSA program as listed in the Catalog of Federal Domestic Assistance: 10.404âEmergency Loans. </P>
+                <HD SOURCE="HD2">New CFR Part </HD>
+                <P>
+                    The proposed rule proposed changes to the existing 7 CFR part 1945, subpart B, and removed subpart D. This final rule, in addition to finalizing, with changes, the proposed rule, moves these provisions to 7 CFR part 764 and removes 7 CFR 1945 subparts B, C, and D. In order to facilitate this change in the final regulation, in all places 1945.5 was replaced with 764 and any numbers following the .5 remained the same. An 
+                    <PRTPAGE P="792"/>
+                    example of this is in the proposed rule there is a section 1945.53(b)(1) in the final rule this has been changed to 764.3(b)(1). FSA is moving its Emergency loan program regulations from Chapter XVIII to Chapter VII of the Code of Federal Regulations (CFR). Prior to the Department of Agriculture Reorganization Act of 1994 (1994 Act), Chapter XVIII was assigned to the Farmers Home Administration (FmHA) and Chapter VII was assigned to the Agricultural Stabilization and Conservation Service (ASCS). Under provisions of the 1994 Act, FmHA and ASCS were abolished. FmHA's Farm Loan Programs and ASCS programs were consolidated under the newly created FSA while the remaining FmHA programs were transferred to one of the following Rural Development mission agencies: Rural Business Cooperative Service, Rural Housing Service, and Rural Business Service. Chapter VII is now assigned to FSA while Chapter XVIII is shared by FSA and the Rural Development mission area agencies. 
+                </P>
+                <HD SOURCE="HD2">Discussion of Comments Received </HD>
+                <P>In response to the proposed rule, 23 respondents, including a farm interest group and individuals, from 14 States commented. The comments received involved a number of different sections of the proposed rule and overwhelmingly supported most of the changes proposed by the Agency. </P>
+                <HD SOURCE="HD2">Emergency Loan Fund Uses</HD>
+                <P>Eighteen comments were received concerning the authorized uses of emergency loan funds outlined in the proposed rule. Five comments supported items that were included as new specific emergency loan fund uses in the proposed rule. </P>
+                <P>One comment on proposed Â§â1945.53(b)(1), which is now Â§â764.3(b)(1), requested an administrative clarification regarding what reorganizing meant. This comment was not addressed in the final rule because the usage is the same as what is in the existing regulation and the Agency will follow the common definition of reorganizing. However, examples of reorganizing will be given in the Agency handbook for clarification. </P>
+                <P>One comment received expressed concern that the proposed regulation did not mention that loan funds can be used to replace dwellings or farm structures or other farm buildings. Another comment suggested that loan funds used for needs associated with the physical loss of real estate be limited to essential real estate. Wording to implement this suggestion was adopted in the introductory text of Â§â764.3(a)(1) of the final rule. This change makes the final rule consistent with the existing regulation, 7 CFR 1945.163(b), which requires that to qualify for a physical loss loan, if the destroyed property is not repaired or replaced, the farmer would be unable to continue the operations on a reasonably sound basis. If the lost or destroyed real estate is not essential to the operation then the policy is that an Emergency loan is not necessary for the operator to continue operation. A definition of âessential real estate (or chattel)â was also added to Â§â764.2 for clarity. </P>
+                <P>One comment suggested that use of funds should only be allowed for replacing buildings or other structures that are essential to the ongoing viability of the operation, that are modest in design and cost, and that meet the functionality of the property destroyed in the disaster. We agree that this loan purpose should be limited for practical reasons and to conserve limited emergency loan funds. Section 764.3(a)(1)(ii) has been modified to state that emergency loan funds may be used to replace or repair buildings or other structures essential to the ongoing viability of the operation. However, the Agency will only finance such replacement or repair to the extent the structures conform to industry standards and meet the needs of the operation and intended purposes of the structure. The intent of this language is to allow the replacement of what was lost with a similar structure which meets the needs of the operation but not necessarily exactly what was lost. One example of this would be the destruction of a family residence. An EM loan to rebuild the house would be based on an assessment of the current needs of the family, not necessarily on the replacement value of the lost residence. Another example is if a 300 foot poultry house was destroyed. Current industry standards require a 400 foot poultry house. The Agency in this case would make a loan for a 400 foot house since a 300 foot house no longer meets the needs of the operation. </P>
+                <P>Two comments suggested that use of physical loss loan funds be limited to replacing what was destroyed. These comments were partially adopted. Physical loss funds can be used to replace or repair what was lost as a result of the disaster. As discussed above, however, consideration of industry standards, needs of the operation, and purposes of the structure may result in a replacement similar to, but not the same as, the structure destroyed. The changes to Â§â764.3(a)(1)(ii) of the final rule address these concerns. </P>
+                <P>Two commentors suggested said that use of physical loss funds for family living, as included in the proposed rule, should not be allowed. This suggestion was not adopted. All livestock losses are treated as physical losses in the final rule, therefore, lost income from market animals should be allowed for family living expenses and operating expenses. However, the language of Â§â764.3(a)(2)(v) was changed to clarify that family living and operating expenses could not be paid if the physical loss was to breeding stock. If the loss was to breeding stock then the physical loss funds should be used to replace the breeding stock because that stock has been determined to be an essential part of the operation. Other livestock losses would be considered to generate normal production income and a loan to replace that income would be allowed for use as family living expenses. </P>
+                <P>One commentor suggested that the restriction in Â§â1945.53(a)(2)(vi) and Â§â1945.53(b)(6) of the proposed rule which prohibits the refinancing of a Farm Loan Program loan with emergency loan funds when the applicant has refinanced the loan more than four times, be removed. This suggestion was not adopted in the final rule as it is a statutory requirement for subtitle B loan purposes in Â§â312(a)(9) of the Consolidated Farm and Rural Development Act (Act) (7 U.S.C. 1942(a)(9)) as adopted by Â§â323 of the Act (7 U.S.C. 1963) for emergency loans.</P>
+                <P>One commentor suggested that livestock should be eligible as a production loss, as well as a physical loss. This suggestion was not adopted because based on the past history of the program and on the experience of Farm Loan Managers in the field, livestock loss rarely qualifies as production loss and by making all livestock losses physical losses it will be easier for livestock producers to qualify for a loan because they will not have to suffer a 30 percent loss to qualify, as is the case for production loans. </P>
+                <P>
+                    One commentor suggested that use of loan funds should not be allowed for the payment of bankruptcy expenses as a cost associated with reorganizing the farm. The Agency adopted this suggestion in Â§â764.3(b)(1) of the final rule because it does not make sense for the Agency to make a loan to file bankruptcy which could result in the Agency having to write-off the loan or other Agency debt. Such debt forgiveness generally renders the farmer in-eligible for further assistance from the Agency. 
+                    <PRTPAGE P="793"/>
+                </P>
+                <HD SOURCE="HD2">Eligibility Requirements </HD>
+                <P>Twenty-two comments were received concerning eligibility requirements contained in the proposed rule. Ten of those comments addressed changes to the test for credit requirement. One comment suggested that the test for credit documentation requirements be consistent with existing requirements in other Agency direct loan programs. In response, Â§â764.4(a)(9) of the final rule was modified to eliminate the proposed extra letter requirement when the applicant's net worth exceeds $1 million. Instead, the final rule allows Agency officials flexibility to contact other commercial lending institutions within reasonable proximity of the applicant and make an independent determination of the applicant's ability to obtain credit elsewhere. This addition allows the Agency to investigate cases where the applicant's net worth or other circumstances indicate that credit may be available elsewhere without increasing the applicant's burden in obtaining additional written declinations of credit. This current flexibility in Â§â1945.156(b)(2) was inadvertently left out of the proposed rule. The provisions in the existing Emergency loan procedures give the loan approval official the ability to contact other lenders and require more than the minimum number of rejection letters if they determine that, based on the applicant's financial condition or local lending practices, other credit should be available. </P>
+                <P>Two commentors disagreed with the proposed changes to the current test for credit documentation requirements. Two others disagreed with inclusion of a waiver for loans of less than $100,000. One suggested that all loans should have at least two rejection letters. Another suggested that one rejection letter be required if the loan request was for $200,000 or less and two rejection letters if the loan request was for more than $200,000, and one suggested that a letter from a Farm Credit institution be required as one of the rejection letters. Although the Agency understands the concerns expressed by these comments, it did not adopt any of these suggestions. The final rule gives the Agency maximum flexibility and is consistent with the minimum requirements of the Act. </P>
+                <P>One commentor pointed out that the proposed rule was inconsistent with Â§â373(b)(2) of the Act (7 U.S.C. 2008h(b)(2)) regarding when an applicant who has received debt forgiveness is eligible for an Emergency loan. This error is corrected in Â§â764.4(a)(10) of the final rule. </P>
+                <P>One comment was received suggesting that the proposed provision that an applicant may demonstrate managerial ability by farming experience within the last 5 years be changed to 3 years. This suggestion was not adopted because it is too restrictive. The Agency believes that farming experience in the last five years is current enough to demonstrate that the applicant understands current farming practices. Additionally, if the change to three years was made many college graduates who were raised on a farm and spent the last 4 years getting a degree would not be eligible for a loan because they had not farmed in the last three years. </P>
+                <P>One commentor suggested that the borrower training requirement contained in the proposed Â§â1945.54(a)(13) should only apply to beginning farmers or farmers who have demonstrated poor management. Section 335 of the Act (7 U.S.C. 2006) does not provide blanket exceptions for certain types of farmers. Furthermore, there are specific criteria under which a waiver of the borrower training requirements may be requested by an applicant in 7 CFR 1924.74. The final rule adopts the proposed language without change in Â§â764.4(a)(13). </P>
+                <P>One comment was received objecting to the proposed Â§â1945.54(a)(15), which established as an eligibility requirement that an applicant demonstrate that they would honestly endeavor to carry out the conditions of the loan and provide current, complete, and truthful information. The comment indicated that this was not an appropriate eligibility requirement because there was no objective criteria. Two other comments were received which supported the provision and one comment suggested incorporating the concept in the definition of past credit history. The Agency agrees that this should not be included as a separate eligibility criteria and removed the proposed requirement from the final rule. Instead, the eligibility requirement of past credit history in Â§â764.4(a)(8) of the final rule was expanded as suggested, to state that as part of the credit history analysis, the Agency will determine whether the applicant has dealt with the Agency in good faith which includes providing current, complete, and truthful information to the Agency and fulfilling its obligations to other Federal agencies and third parties. The Agency believes this language is sufficiently objective. </P>
+                <P>One commentor suggested that harvested and stored crops should be eligible as a physical loss. The Agency agrees and incorporated this very practical suggestion into the final rule in Â§â764.4(b)(2)(iii). This coverage in Â§â1945.163(b) was inadvertently left out of the proposed rule. </P>
+                <P>The Agency also is adding an eligibility requirement in Â§â764.4(a)(15) that the applicant must agree to repay any duplicative Federal assistance to the agency providing such assistance. A person receiving Federal assistance for a major disaster or emergency is liable to the United States to the extent that the assistance duplicates benefits available to the person for the same purpose from another source. This provision is required by 42 U.S.C. 5155, part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. If the Agency determines that it has provided duplicative assistance, the Agency will collect the duplicative assistance from the recipient in accordance with the Federal Debt Collection Act. </P>
+                <HD SOURCE="HD2">Loan Limitations </HD>
+                <P>
+                    Fifteen comments were received regarding proposed changes to loan limitations, including qualifying losses. Three comments were received commending the change in maximum loan amount from 80 percent to100 percent of production loss while two others recommended that the level be left at 80 percent or raised to only 90 percent. Another commentor pointed out that increasing the limit will increase loan losses. Another commentor suggested that if the limit is increased to 100 percent, the Agency should make adjustments for costs not incurred and for substitute crops. Increasing the maximum loan amount to 100 percent should not increase loan losses. In many cases the Agency makes an operating loan for the additional 20 percent of the loss not currently covered by the Emergency loan. Therefore, the Agency has the same exposure as if the Emergency loan were made at 100 percent. However, because the Emergency loan is at a lower interest rate, there is a higher chance of repayment because less interest accrues. Therefore, loan losses could actually be reduced. The suggestions that adjustments be made for costs not incurred and substitute crops were not adopted because they are not required by statute, and such adjustments would only make the calculations more complicated and more prone to error. The Agency believes that the increase to 100 percent is needed to better serve the needs of applicants who have suffered a loss and would not add significant risk of loss to the Agency. Therefore, the language of the proposed Â§â1945.55(b) is incorporated in the final rule at Â§â764.5(b) without revision.
+                    <PRTPAGE P="794"/>
+                </P>
+                <P>One commentor suggested that when loan funds are used for construction, Agency regulations dealing with planning and monitoring construction should be followed. The Agency agrees and has adopted this comment by adding in Â§â764.5(a)(2) of the final rule a requirement that any construction financed by the Agency comply with 7 CFR part 1924, subpart A. </P>
+                <P>Two comments were received suggesting that the use of Emergency loan funds for refinancing consumer debt not be authorized or be restricted. In response, the final rule includes a new section Â§â764.5(a)(3) that prohibits use of emergency loan funds for refinancing consumer debt unless the debt is directly attributable to the farming operation. Subsidized Federal disaster assistance should not be used to refinance vacations, automobiles, or other expenses that were incurred by the farmer but have nothing to do with the farming operation or its recovery from the effects of the disaster. This change balances the farmer's need for funds with the Agency's need to allocate limited emergency loan funds. </P>
+                <HD SOURCE="HD2">Repayment and Security Requirements</HD>
+                <P>Thirty-eight comments were received on the proposed Â§â1945.58 which addressed repayment and security requirements. One commentor recommended that this provision be reworded to ensure that the feasible plan demonstrate that the applicant will meet all other obligations for which the applicant is legally responsible. The Agency agrees and revised the wording in Â§â764.8(a)(1) accordingly. </P>
+                <P>Twelve comments were received expressing opposition to proposed Â§â1945.58(f) which allowed, under certain conditions, an Emergency loan to be made when adequate security is not available because of the disaster. These comments expressed the opinion that the Agency should never make a loan if the value of the security is less than the loan amount. Unfortunately, while we agree from a sound lending standpoint this should never be done, the statute requires otherwise. Due to provisions contained in section 324(d)(2) of the Act, the Agency is prohibited from rejecting a loan because it lacks a particular amount of security. The Agency believes that the proposed rule language complied with this statutory requirement while protecting the Agency's interest. Therefore, the proposed language is adopted as final, with some minor modifications, as discussed below, at Â§â764.8(f). </P>
+                <P>One commentor suggested that, at a minimum, an assignment on any USDA program payments to be received be required when adequate security was lacking. The Agency agrees and added Â§â764.8(f)(4) to the final rule which requires such assignment when there is a lack of adequate security. Incorporating this comment will result in sounder lending practices by allowing the Agency to take Government program payments and apply them to the applicant's loan, thereby reducing the under-secured position. </P>
+                <P>The proposed rule also required that the plan indicate how pricing risks will be addressed through the use of marketing contracts, hedging, options, or revenue insurance and include a marketing plan or similar risk management practice. One comment was received recommending revenue insurance be included as a method of addressing pricing risk, and six comments were received indicating concerns with requiring a marketing plan. The latter comments suggested that the Agency might be opening itself up to lender liability issues and that substantial guidance and clarification was needed as to what constituted an acceptable marketing plan. In response to these comments, the final rule, at Â§â764.8(f)(2), included revenue insurance as an example of risk management for clarity. The Agency removed the requirement for a marketing plan to avoid a wide variance in the interpretation of the term and administrative difficulty in establishing appropriate standards on what would be an acceptable marketing plan. </P>
+                <P>The proposed rule also provided that, where there is a lack of adequate security, the applicant must demonstrate a positive net cash income in at least 1 of the immediately preceding 5 years. The Agency received fifteen comments on this proposed requirement. One suggested that this requirement would keep farmers who have had droughts for the last 5 years from being eligible; 6 commentors said that 1 out of 5 years is not much of an indication that the farmer is successful; one suggested that it should be 50 percent of the time; three suggested it should be 3 out of the last 5 years; and one suggested 1 out of the last 3 years. The other three commentors were concerned that it was too easy to manipulate a farm plan to show repayment ability or wanted a much more complicated formula than that proposed based on net farm income. In response to these comments, Â§â764.8(f)(3) provides that if the applicant is using ability to repay the loan as security, the applicant must have had positive net cash farm income in at least 3 of the past 5 years. Due to natural disasters and fluctuating prices it was determined that 1 out of 3 years was too restrictive. Given the concern that 1 out of 5 years was too liberal and not a good indication of ability to repay, the Agency determined that requiring records from 3 out of the last 5 years to show net cash income made the most sense from a lending standpoint. </P>
+                <P>The proposed rule stated that the Agency will require that the applicant pledge all available assets (including personal assets for both individuals and members of entities). One commentor suggested that if substantial non-essential assets are available, the Agency should require that they be liquidated to reduce the need for an Emergency loan or, if they are not liquidated, the applicant would not be eligible. The Agency did not adopt this suggested change because it believes that taking a lien on such assets is adequate. Also, if there is a substantial amount of non-essential assets, the applicant may be able to obtain credit elsewhere and, therefore, would not be eligible for Agency assistance. The final rule adopted the proposed language at Â§â764.8(g). </P>
+                <P>One comment noted that the proposed regulation did not address taking Indian Trust land as security. In response to that comment, the Agency included Â§â764.8(j), which specifically authorizes taking Indian Trust land as security if the requirements in Â§â1943.17(a)(7) for such security are met. </P>
+                <HD SOURCE="HD2">Appraisal and Valuation Requirements </HD>
+                <P>The proposed rule, at Â§â1945.59(b), provided that the security value of annual agricultural commodities production is presumed to be 100 percent of the amount loaned for annual operating and essential family household expenses. One commentor noted that this may overstate the security value in certain cases. The Agency agreed and revised the final regulation at Â§â764.9(b) to provide that the security value is the lower of the amount loaned for annual operating and essential family household expenses or the amount of expected crop revenue. The amount of expected crop revenue will be equal to the amount of gross receipts from all crop and livestock production as shown on the cashflow used to approve the loan. Expected revenue does not include farm program or crop insurance payments.</P>
+                <HD SOURCE="HD2">Insurance for Loan Security</HD>
+                <P>
+                    The proposed rule, at Â§â1945.60(b), required that all security except growing crops be covered by hazard insurance. One commentor pointed out that this was too restrictive. The Agency agrees. 
+                    <PRTPAGE P="795"/>
+                    In response, the final rule, at Â§â764.10(b), provides that there must be hazard insurance if it is readily available (
+                    <E T="03">i.e.</E>
+                     normally sold by insurance agents in the farmer's normal trade area) and economically feasible. 
+                </P>
+                <HD SOURCE="HD2">Definitions</HD>
+                <P>
+                    Thirty comments were received concerning the proposed definitions. Thirteen of the comments were requests for clarifications and five comments pointed out errors. The proposed definitions of 
+                    <E T="03">additional security, adequate security, agency, agricultural commodity, applicant, basic part of an applicant's total farming operation, established farmer, majority interest, physical loss,</E>
+                     and 
+                    <E T="03">security value</E>
+                     were modified in the final rule at Â§â764.2 to clarify the definitions or to correct errors. For additional clarity, the definition of âentityâ was properly alphabetized. Two comments suggested that the final rule include the entire definition, rather than a reference to another Agency regulation. This suggestion was adopted. 
+                </P>
+                <P>Three comments pointed out that the proposed definition of ânormal production yieldâ could cause inconsistent treatment depending upon whether an applicant had or had not been an Agency borrower. The Agency agrees. The definition was revised as the comments suggested so that all applicants will be treated consistently when determining normal production yield. </P>
+                <P>
+                    The Agency modified the definition of 
+                    <E T="03">established farmer</E>
+                     to state that the term did not include an operation that employs a full-time manager. This provision in current Â§â1945.162(d) was unintentionally omitted in the proposed rule. 
+                </P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects </HD>
+                    <CFR>7 CFR Part 764 </CFR>
+                    <P>Agriculture, Credit, Disaster assistance, Loan programsâAgriculture. </P>
+                    <CFR>7 CFR Part 1945 </CFR>
+                    <P>Agriculture, Credit, Disaster assistance, Loan programsâAgriculture.</P>
+                </LSTSUB>
+                <P>Accordingly, 7 CFR chapters VII and XVIII are amended as follows:</P>
+                <REGTEXT TITLE="7" PART="764">
+                    <P>1. Part 764 is added to read as follows: </P>
+                    <PART>
+                        <HD SOURCE="HED">PART 764âEMERGENCY FARM LOANS </HD>
+                        <CONTENTS>
+                            <SECHD>Sec. </SECHD>
+                            <SECTNO>764.1 </SECTNO>
+                            <SUBJECT>Purpose. </SUBJECT>
+                            <SECTNO>764.2 </SECTNO>
+                            <SUBJECT>Definitions. </SUBJECT>
+                            <SECTNO>764.3 </SECTNO>
+                            <SUBJECT>Emergency loan funds uses. </SUBJECT>
+                            <SECTNO>764.4 </SECTNO>
+                            <SUBJECT>Eligibility requirements. </SUBJECT>
+                            <SECTNO>764.5 </SECTNO>
+                            <SUBJECT>Limitations. </SUBJECT>
+                            <SECTNO>764.6 </SECTNO>
+                            <SUBJECT>Interest rate. </SUBJECT>
+                            <SECTNO>764.7 </SECTNO>
+                            <SUBJECT>Loan terms. </SUBJECT>
+                            <SECTNO>764.8 </SECTNO>
+                            <SUBJECT>Repayment and security requirements. </SUBJECT>
+                            <SECTNO>764.9 </SECTNO>
+                            <SUBJECT>Appraisal and valuation requirements. </SUBJECT>
+                            <SECTNO>764.10 </SECTNO>
+                            <SUBJECT>Insurance for loan security. </SUBJECT>
+                            <SECTNO>764.11 </SECTNO>
+                            <SUBJECT>Charges and fees.</SUBJECT>
+                        </CONTENTS>
+                        <AUTH>
+                            <HD SOURCE="HED">Authority:</HD>
+                            <P>5 U.S.C. 301 and 7 U.S.C. 1989. </P>
+                        </AUTH>
+                        <SECTION>
+                            <SECTNO>Â§â764.1 </SECTNO>
+                            <SUBJECT>Purpose. </SUBJECT>
+                            <P>The purpose of the Emergency Loan Program is to provide financial assistance to family farmers who have suffered losses as the result of a disaster so that they can return to normal farming operations as soon as possible after the disaster. Specifically, this part describes the policies and procedures of the Agency for making Emergency loans to operators of such farms. </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.2 </SECTNO>
+                            <SUBJECT>Definitions. </SUBJECT>
+                            <P>
+                                <E T="03">Act</E>
+                                 means the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 
+                                <E T="03">et seq.</E>
+                                ). 
+                            </P>
+                            <P>
+                                <E T="03">Additional security</E>
+                                 means property that provides security in excess of the amount of security value equal to the loan amount, excluding security described in Â§â764.8(g). 
+                            </P>
+                            <P>
+                                <E T="03">Adequate security</E>
+                                 means property that provides a security value at least equal to the loan amount. 
+                            </P>
+                            <P>
+                                <E T="03">Agency</E>
+                                 means the Farm Service Agency, including its employees, any predecessor agency, and any successor agency. 
+                            </P>
+                            <P>
+                                <E T="03">Agricultural commodity</E>
+                                 means livestock, grains, cotton, oilseeds, dry beans, tobacco, peanuts, sugar beets, sugar cane, fruit, vegetable, forage, tree farming, nursery crops, nuts, aquacultural species, and other plant or animal production as determined by the Agency. 
+                            </P>
+                            <P>
+                                <E T="03">Allowable costs</E>
+                                 means those costs for replacement or repair that are supported by acceptable documentation, including but not limited to written estimates, invoices, and bills. 
+                            </P>
+                            <P>
+                                <E T="03">Applicant</E>
+                                 means an individual or entity (including each owner of the entity unless specified otherwise) operating a farming operation at the time of the disaster, who is requesting assistance from the Agency under this part. All requirements of applicants apply to owners of the entity individually and collectively unless specified otherwise. 
+                            </P>
+                            <P>
+                                <E T="03">Aquacultural species</E>
+                                 means aquatic organisms (including fish, mollusks, crustaceans or other invertebrates, amphibians, reptiles, or aquatic plants) raised in a controlled or selected environment which the applicant has exclusive rights to use. 
+                            </P>
+                            <P>
+                                <E T="03">Basic part of an applicant's total farming operation</E>
+                                 means any single agricultural commodity or livestock production enterprise of an applicant's farming operation which normally generates sufficient income to be considered essential to the success of such farming operation.
+                            </P>
+                            <P>
+                                <E T="03">Borrower</E>
+                                 means an individual or entity which has an outstanding obligation to the Agency under any Farm Loan Program loan, without regard to whether the loan has been accelerated. A borrower includes all parties liable for such obligation owed to the Agency, including collection-only borrowers, except for debtors whose total loans and accounts have been voluntarily or involuntarily foreclosed, sold, or conveyed; or who have been discharged of all such obligations owed to the Agency. 
+                            </P>
+                            <P>
+                                <E T="03">Chattel</E>
+                                 means any property that is not real estate. 
+                            </P>
+                            <P>
+                                <E T="03">Chattel or real estate essential to the farming operation</E>
+                                 means chattel or real estate that would be necessary for the applicant to continue operating the farm on a after the disaster in a manner similar to the manner in which the farm was operated immediately prior to the disaster, as determined by the Agency. 
+                            </P>
+                            <P>
+                                <E T="03">Corporation</E>
+                                 means a private domestic entity recognized as a corporation and authorized as a corporation under the laws of the State or States in which the entity does business. 
+                            </P>
+                            <P>
+                                <E T="03">County</E>
+                                 means a local administrative subdivision of a State or similar political subdivision of the United States. 
+                            </P>
+                            <P>
+                                <E T="03">Debt forgiveness</E>
+                                 means reducing or terminating a debt under the Act in a manner that results in a loss to the Agency (excluding a consolidation, rescheduling, reamortization, or deferral), through: 
+                            </P>
+                            <P>(1) Writing down or writing off a debt pursuant to 7 U.S.C. 2001; </P>
+                            <P>(2) Compromising, adjusting, reducing, or charging off a debt or claim pursuant to 7 U.S.C. 1981; or </P>
+                            <P>(3) Paying a loss pursuant to 7 U.S.C. 2005 on a Farm Loan Program loan guaranteed by the Agency. </P>
+                            <P>
+                                <E T="03">Disaster</E>
+                                 means an event of unusual and adverse weather conditions or other natural phenomena that has substantially affected producers of agricultural commodities by causing physical property or production losses in a county, or similar political subdivision, that triggered the inclusion of such county or political subdivision in the disaster area designated by the Agency. 
+                            </P>
+                            <P>
+                                <E T="03">Disaster area</E>
+                                 means the county, declared or designated as a disaster area for Emergency loan assistance as a result of disaster related losses and counties 
+                                <PRTPAGE P="796"/>
+                                contiguous to those counties declared or designated as disaster areas. 
+                            </P>
+                            <P>
+                                <E T="03">Disaster yield</E>
+                                 means the per-acre yield of an agricultural commodity for the farming operation during the production period when the disaster occurred. 
+                            </P>
+                            <P>
+                                <E T="03">Entity</E>
+                                 means a partnership, corporation, cooperative, or joint operation that is an operator of an operation engaged in farming, ranching, or aquaculture activities at the time the disaster occurs. 
+                            </P>
+                            <P>
+                                <E T="03">Essential family household expenses</E>
+                                 means the expenses associated with providing food, clothing, and shelter necessary to maintain the borrower and the immediate family of the borrower. 
+                            </P>
+                            <P>
+                                <E T="03">Established farmer</E>
+                                 means a farmer who is an operator of the farming operation (in the case of a farming operation operated by an entity, its owners as a group) who: 
+                            </P>
+                            <P>(a) Actively participated in the operation and the management, including but not limited to, exercising control over, making decisions regarding, and establishing the direction of the farming operation at the time of the disaster; </P>
+                            <P>(b) Spends a substantial portion of time in carrying out the farming operation; </P>
+                            <P>(c) Planted the crop, or purchased or produced the livestock on the farming operation; </P>
+                            <P>(d) In the case of an entity, is primarily engaged in farming and has over 50 percent of its gross income from all sources from its farming operation based on the farming operation's projected cash flow for the next crop year or the next 12 month period, as mutually determined; and </P>
+                            <P>(e) Is not: </P>
+                            <P>(1) A corporation with an ownership interest of 50 percent or more held by one or more estates, trusts, other corporations, partnerships, or joint operations; </P>
+                            <P>(2) A partnership or joint operation with an ownership interest of 50 percent or more held by one of more estates, trusts, corporations, other partnerships or other joint operations; </P>
+                            <P>(3) An integrated livestock, poultry, or fish processor who operates primarily and directly as a commercial business through contracts or business arrangements with farmers, except a grower under contract with an integrator or processor may be considered an established farmer, provided the operation is not managed by an outside full-time manager or management service and such loans shall be based on the applicant's share of the agricultural production as contained in the contract; or </P>
+                            <P>(4) An operation that employs a full-time farm manager. </P>
+                            <P>
+                                <E T="03">Family farm</E>
+                                 means a farm that: 
+                            </P>
+                            <P>(a) Produces agricultural commodities for sale in sufficient quantities so that it is recognized in the community as a farm rather than a rural residence. </P>
+                            <P>(b) Provides enough agricultural income by itself, including rented land, or together with any other dependable income, to enable the borrower to: </P>
+                            <P>(1) Pay necessary family and operating expenses; </P>
+                            <P>(2) Maintain essential chattel and real property; and </P>
+                            <P>(3) Pay debts. </P>
+                            <P>(c) Is managed by: </P>
+                            <P>(1) The borrower, when a loan is made to an individual. </P>
+                            <P>(2) The members, stockholders, partners, or joint operators responsible for operating the farm when a loan is made to a entity. </P>
+                            <P>(d) Has a substantial amount of the labor requirements for the farm enterprise provided by: </P>
+                            <P>(1) The borrower and family members for a loan made to an individual. </P>
+                            <P>(2) The members, stockholders, partners, or joint operators responsible for operating the farm, along with the families of these individuals, for a loan made to an entity. </P>
+                            <P>(e) May use a reasonable amount of full-time hired labor and seasonal labor during peak load periods. </P>
+                            <P>
+                                <E T="03">Farm Loan Program loan</E>
+                                 means a Farm Ownership loan, Operating loan, Emergency loan, Soil and Water loan, or Economic Emergency loan made or guaranteed by the Agency pursuant to the Act. 
+                            </P>
+                            <P>
+                                <E T="03">Farmer</E>
+                                 means individuals, cooperatives, corporations, partnerships or joint operations who are farmers, ranchers, or aquaculture operators actively engaged in their operation at the time a disaster occurs. 
+                            </P>
+                            <P>
+                                <E T="03">Feasible plan</E>
+                                 means a plan based upon the applicant's records that show the farming operation's actual production and expenses. These records will be used along with realistic anticipated prices, including farm program payments when available, to determine that the income from the farming operation, along with any other reliable off-farm income, will provide the income necessary for an applicant to at least be able to: 
+                            </P>
+                            <P>(a) Pay all operating expenses and all taxes that are due during the projected farm budget period; </P>
+                            <P>(b) Meet necessary payments on all debts; and </P>
+                            <P>(c) Provide living expenses for family members of an individual borrower or a wage of the farm operator in the case of a entity borrower which is in accordance with the essential family needs. Family members include the individual borrower, or farm operator in the case of an entity, and the immediate members of the family who reside in the same household. </P>
+                            <P>
+                                <E T="03">Hazard insurance</E>
+                                 means coverage against losses due to fire, windstorm, lightning, hail, explosion, business interruption, riot, civil commotion, aircraft, land vehicles, marine vehicles, smoke, builders risk, public liability, property damage, flood or mudslide, workman's compensation, or any similar insurance that is available and needed to protect the security, or that is required by law.
+                            </P>
+                            <P>
+                                <E T="03">Household contents</E>
+                                 means the essential household items necessary to maintain viable living quarters such as: stove, refrigerator, furnace, couch, chairs, tables, beds, lamps, clothes, etc. The term excludes all luxury items including jewelry, furs, antiques, paintings, etc. 
+                            </P>
+                            <P>
+                                <E T="03">Livestock</E>
+                                 means a member of the animal kingdom, or product thereof, as determined by the Agency. 
+                            </P>
+                            <P>
+                                <E T="03">Majority interest</E>
+                                 means an ownership interest of more than 50 percent of the entity. 
+                            </P>
+                            <P>
+                                <E T="03">Non-essential asset</E>
+                                 means those assets in which the applicant has an ownership interest that do not contribute a net income to pay essential family living expenses or to maintain a sound farming operation and are not exempt from judgment creditors or in a bankruptcy action. 
+                            </P>
+                            <P>
+                                <E T="03">Nonfarm enterprise</E>
+                                 means any nonfarm business enterprise, including recreation, that is closely associated with the farm operation and located on or adjacent to the farm and provides income to supplement farm income. This may include, but is not limited to, such enterprises as raising earthworms, exotic birds, tropical fish, dogs, and horses for nonfarm purposes, welding shops, roadside stands, boarding horses and riding stables. 
+                            </P>
+                            <P>
+                                <E T="03">Normal production yield</E>
+                                 means: 
+                            </P>
+                            <P>(a) The per-acre actual production history of the crops produced by the farming operation used to determine Federal crop insurance payments or payment under the Non-Insured Assistance Program for the production year during which the disaster occurred; </P>
+                            <P>
+                                (b) When the actual production history is not available, the applicant's own production records for the previous three years will be used. If the applicant's production records are not available, the records of production on which FSA farm program payments are made that are contained in the applicant's farm program file, for the previous three years will be used; 
+                                <PRTPAGE P="797"/>
+                            </P>
+                            <P>(c) When the production records outlined in paragraphs (a) and (b) of this definition are not available, the county average production yield will be used. </P>
+                            <P>
+                                <E T="03">Owner</E>
+                                 means those persons with an interest in the entity as a stockholder, partner, member, or joint operator. 
+                            </P>
+                            <P>
+                                <E T="03">Physical loss</E>
+                                 means verifiable damage or destruction with respect to real estate or chattel, excluding annual growing crops. 
+                            </P>
+                            <P>
+                                <E T="03">Production loss</E>
+                                 means verifiable damage or destruction with respect to annual growing crops. 
+                            </P>
+                            <P>
+                                <E T="03">Security value</E>
+                                 means the Agency-established market value of property (less the value of any prior liens) used as security for a loan under this part as of the date of the closing of the loan. 
+                            </P>
+                            <P>
+                                <E T="03">United States</E>
+                                 means each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. 
+                            </P>
+                            <P>
+                                <E T="03">Working capital</E>
+                                 means cash available to conduct normal daily farming or ranching operations including, but not limited to, feed, seed, fertilizer, pesticides, farm or ranch supplies, cooperative stock, and cash rent. 
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.3 </SECTNO>
+                            <SUBJECT>Emergency loan funds uses. </SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">Physical losses</E>
+                                â(1) 
+                                <E T="03">Real estate losses.</E>
+                                 Emergency loans may be used to address the needs of the farming operation associated with physical losses of essential real estate that were the result of a disaster to: 
+                            </P>
+                            <P>(i) Acquire or enlarge the farm, as specified in Â§â1943.16(a) of this title, as long such acquisition or enlargement does not cause the farm to exceed the requirements for a family farm; </P>
+                            <P>(ii) Replace or repair buildings or other structures which are essential to the ongoing viability of the operation. The Agency will finance such replacement or repair only to the extent that the structures conform to industry standards and meet the needs of the operation and intended purposes of the structure. </P>
+                            <P>(iii) Pay for activities to promote soil and water conservation and protection on the family farm as specified in Â§â1943.16(c) of this title; </P>
+                            <P>(iv) Pay loan closing costs related to acquiring, enlarging, or improving the family farm as specified in Â§â1943.16(d) of this title, that an applicant cannot pay from other sources; </P>
+                            <P>(v) Replace land or water resources on the family farm which resources cannot be restored; </P>
+                            <P>(vi) Pay costs associated with land and water development for conservation or use purposes; </P>
+                            <P>(vii) Establish a new site for farm dwelling and service buildings outside of a flood or mudslide area; and </P>
+                            <P>(viii) Replace land from the family farm that was sold or conveyed as a direct result of the disaster, if such land is necessary for the farming operation to be effective. </P>
+                            <P>
+                                (2) 
+                                <E T="03">Chattel losses.</E>
+                                 Emergency loans may be used to address the needs of the farming operation associated with the physical losses of essential chattel that were the result of a disaster to: 
+                            </P>
+                            <P>(i) Purchase livestock and farm equipment, including but not limited to quotas, and cooperative stock for credit, production, processing, or marketing purposes; </P>
+                            <P>
+                                (ii) Pay customary costs associated with obtaining, planning, and closing a loan that an applicant cannot pay from other sources (
+                                <E T="03">e.g.</E>
+                                 fees for legal, architectural, and other technical services, but not fees for agricultural management consultation and preparation of Agency forms); 
+                            </P>
+                            <P>
+                                (iii) Repair or replace 
+                                <E T="03">essential</E>
+                                 household contents damaged in the disaster;
+                            </P>
+                            <P>(iv) Pay the costs to restore perennials that produce an agricultural commodity, to the stage of development the damaged perennials had obtained prior to the disaster; </P>
+                            <P>(v) In the case of a farming operation that has suffered livestock losses not from breeding stock, pay essential farm operating and family household expenses; and </P>
+                            <P>(vi) Refinance debt (in the case of Farm Loan Program loan debt, as long as the applicant has not refinanced the loan more than 4 times). </P>
+                            <P>
+                                (b) 
+                                <E T="03">Production losses.</E>
+                                 Emergency loans may be used to address the losses of the farming operation associated with production of agricultural commodities (except the losses associated with the loss of livestock) of the farming operation that were the result of a disaster to: 
+                            </P>
+                            <P>(1) Pay costs associated with reorganizing the family farm to improve its profitability except that such costs shall not include the payment of bankruptcy expenses; </P>
+                            <P>(2) Pay annual operating expenses, which include, but are not limited to, feed, seed, fertilizer, pesticides, farm or ranch supplies, cooperative stock, and cash rent; </P>
+                            <P>(3) Pay costs associated with Federal or State-approved standards under the Occupational Safety and Health Act of 1970 (29 U.S.C. 655 and 667) if the applicant can show that compliance or non-compliance with the standards will cause substantial economic injury; </P>
+                            <P>(4) Pay training costs required or recommended by the Agency; </P>
+                            <P>(5) Pay essential family household expenses; </P>
+                            <P>(6) Refinance debt (in the case of Farm Loan Program loan debt, as long as the applicant has not refinanced the loan more than 4 times); and </P>
+                            <P>(7) Replace lost working capital. </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.4 </SECTNO>
+                            <SUBJECT>Eligibility requirements. </SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">General borrower eligibility requirements.</E>
+                                 An applicant for an Emergency loan must meet the following requirements: 
+                            </P>
+                            <P>
+                                (1) 
+                                <E T="03">Legal capacity.</E>
+                                 The applicant must have the legal capacity to incur the obligation of the loan. 
+                            </P>
+                            <P>
+                                (2) 
+                                <E T="03">Citizenship</E>
+                                â(i) 
+                                <E T="03">Applicant who is an individual.</E>
+                                 The individual applicant must be a citizen of the United States or an alien lawfully admitted to the United States for permanent residence as determined by the U.S. Immigration and Naturalization Service. 
+                            </P>
+                            <P>
+                                (ii) 
+                                <E T="03">Applicant that is an entity.</E>
+                                 If the applicant is an entity, the majority interest of the applicant must be held by individuals who are citizens of the United States or aliens lawfully admitted to the United States for permanent residence, as determined by the U.S. Immigration and Naturalization Service. 
+                            </P>
+                            <P>
+                                (3) 
+                                <E T="03">Family farm and nonfarm enterprise.</E>
+                                 The applicant's farming operation must qualify as a family farm and must not be a nonfarm enterprise. 
+                            </P>
+                            <P>
+                                (4) 
+                                <E T="03">Established farmer.</E>
+                                 An applicant must be an established farmer. 
+                            </P>
+                            <P>
+                                (5) 
+                                <E T="03">Owner and operator requirements.</E>
+                            </P>
+                            <P>
+                                (i) 
+                                <E T="03">Loans for physical losses to real estate.</E>
+                                 In the case of a loan for a purpose specified in Â§â764.3(a)(1), an applicant must be: 
+                            </P>
+                            <P>(A) The owner and operator of the farming operation; or </P>
+                            <P>(B) An operator of the farming operation whose lease on the affected real estate would exceed the term of the loan and give the Agency prior notification of the termination of the lease during the term of the loan, and whose lessor would provide the Agency a mortgage on the real estate as security for the loan. </P>
+                            <P>
+                                (ii) 
+                                <E T="03">Loans for physical losses to chattel.</E>
+                                 In the case of a loan for a purpose specified in Â§â764.3(a)(2), an applicant must be the operator of the farming operation. 
+                            </P>
+                            <P>
+                                (iii) 
+                                <E T="03">Loans for production losses.</E>
+                                 In the case of a loan for a purpose specified in Â§â764.3(b), an applicant must be the operator of the farming operation. 
+                            </P>
+                            <P>
+                                (6) 
+                                <E T="03">Entity applicants.</E>
+                                 For entity applicants: 
+                            </P>
+                            <P>
+                                (i) If the owners holding a majority interest in the entity applicant are 
+                                <PRTPAGE P="798"/>
+                                related by blood or marriage, at least one of such related owners must operate the family farm. 
+                            </P>
+                            <P>(ii) If the owners holding a majority interest in the entity applicant are not related by blood or marriage, the majority interest holders must all operate the family farm. </P>
+                            <P>(iii) If the entity applicant has an operator interest in any other farming operation, that farming operation must not exceed the requirements of a family farm. </P>
+                            <P>
+                                (7) 
+                                <E T="03">Intent to continue farming.</E>
+                                 The applicant must demonstrate the intent to continue the farm operation after the disaster. 
+                            </P>
+                            <P>
+                                (8) 
+                                <E T="03">Credit history.</E>
+                                 The applicant must demonstrate a credit history satisfactory to the Agency. As part of the credit history the Agency will determine whether the applicant has dealt with the Agency in good faith. This includes the applicant providing current, complete, and truthful information when applying for assistance and in all past dealings with the Agency. The Agency will also examine whether the applicant has properly fulfilled its obligations to other parties, including other Federal agencies. The Agency may use credit reports or any other available information to evaluate credit history. 
+                            </P>
+                            <P>
+                                (9) 
+                                <E T="03">Availability of credit elsewhere.</E>
+                                 The applicant must be unable to obtain sufficient credit elsewhere at reasonable rates and terms. To establish this, the applicant must obtain written declinations of credit from legally organized commercial lending institutions within reasonable proximity of the applicant that specify the reasons for the declination as follows: 
+                            </P>
+                            <P>(i) In the case of a loan for $300,000 or more, two written declinations of credit are required; </P>
+                            <P>(ii) In the case of a loan of less than $300,000, one written declination of credit is required; and </P>
+                            <P>(iii) In the case of a loan of $100,000 or less, the Agency may waive the requirement for obtaining a written declination of credit if the Agency determines that it would pose an undue burden on the applicant, the applicant certifies that they cannot get credit elsewhere, and based on the applicant's circumstances credit is not likely to be available; </P>
+                            <P>(iv) Notwithstanding the applicant's submission of the required written declinations of credit, the Agency may contact other commercial lending institutions within reasonable proximity of the applicant and make an independent determination of the applicant's ability to obtain credit elsewhere. </P>
+                            <P>
+                                (10)
+                                <E T="03"> Prior debt forgiveness.</E>
+                                 The applicant must not have received debt forgiveness from the Agency on more than one occasion on or before April 4, 1996, or any time after April 4, 1996. 
+                            </P>
+                            <P>
+                                (11) 
+                                <E T="03">Federal judgment lien.</E>
+                                 The applicant's property must not be subject to a Federal judgment lien (other than a United States Tax Court lien). 
+                            </P>
+                            <P>
+                                (12) 
+                                <E T="03">Managerial ability.</E>
+                                 The applicant must have sufficient managerial ability to assure reasonable prospects of loan repayment, as determined by the Agency. The applicant must demonstrate this managerial ability by education, on-the-job training, or farming experience within the last 5 years that covers an entire production cycle. 
+                            </P>
+                            <P>
+                                (13) 
+                                <E T="03">Borrower training.</E>
+                                 The applicant must agree to meet the borrower training requirements in accordance with Â§â1924.74 of this title. 
+                            </P>
+                            <P>
+                                (14) 
+                                <E T="03">Prior drug convictions.</E>
+                                 The applicant cannot have been convicted under Federal or State law of planting, cultivating, growing, producing, harvesting, or storing a controlled substance, as defined in 21 CFR part 1308, during the current crop year or the previous 4 crop years. 
+                            </P>
+                            <P>
+                                (15) 
+                                <E T="03">Recovery of duplicative benefits.</E>
+                                 The applicant must agree to repay any duplicative Federal assistance to the agency providing such assistance. A person receiving Federal assistance for a major disaster or emergency is liable to the United States to the extent that the assistance duplicates benefits available to the person for the same purpose from another source. 
+                            </P>
+                            <P>
+                                (b) 
+                                <E T="03">Additional Emergency loan eligibility requirements</E>
+                                â(1) 
+                                <E T="03">Timely loan application.</E>
+                                 A loan application must be received by the Agency not later than 8 months after the date the disaster is declared or designated in the county of the applicant's farming operation.
+                            </P>
+                            <P>
+                                (2) 
+                                <E T="03">Qualifying losses</E>
+                                â(i) 
+                                <E T="03">Loss must occur in a disaster area.</E>
+                                 The applicant may seek an Emergency loan only with respect to a family farm that had production or physical losses as a result of a disaster in a disaster area. 
+                            </P>
+                            <P>
+                                (ii) 
+                                <E T="03">Eligible production loss.</E>
+                                 For production loss loans, the applicant must have a disaster yield that is at least 30 percent below the normal production yield of any single crop, as determined by the Agency, that comprises a basic part of an applicant's total farming operation. 
+                            </P>
+                            <P>
+                                (iii) 
+                                <E T="03">Eligible physical loss.</E>
+                                 For physical loss loans, the applicant must have suffered disaster-related damage to chattel or real estate essential to the farming operation, to household items that must be repaired or replaced, to harvested or stored crops, or to perennial crops. 
+                            </P>
+                            <P>
+                                (3) 
+                                <E T="03">Changes in ownership structure.</E>
+                                 The ownership structure of a family farm may change between the time of a qualifying loss and the time an Emergency loan is closed. In such case, all of the following requirements must be met: 
+                            </P>
+                            <P>(i) The applicant, in its new form, including all owners must meet all applicable eligibility requirements contained in this section; </P>
+                            <P>(ii) The new individual applicant, or all owners of a new entity applicant must have had an ownership interest in the farming operation at the time of the disaster; and </P>
+                            <P>(iii) The amount of the loan will be based on the percentage of the former farming operation transferred to the new applicant and in no event will the individual portions, aggregated, equal more than would have been authorized for the former farming operation. </P>
+                            <P>
+                                (4) 
+                                <E T="03">Insurance requirement.</E>
+                                 Emergency loan funds may not be used for physical loss purposes (excluding losses to livestock) unless that physical property was covered by general hazard insurance at the time that the damage caused by the natural disaster occurred. The level of the coverage in effect at the time of the disaster must have been the tax or cost depreciated value, whichever is less. Chattel property must have been covered at the tax or cost depreciated value, whichever is less, when such insurance was readily available and the benefits of the coverage (i.e. the amount of coverage equaling the lesser of the property's tax or cost depreciated value) justify the cost of the insurance. 
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.5</SECTNO>
+                            <SUBJECT>Limitations. </SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">General limitations</E>
+                                â(1) 
+                                <E T="03">Highly erodible soil and wetlands conservation.</E>
+                                 The Agency will not make a loan under this part for any purpose that contributes to erosion of highly-erodible land or the conversion of wetlands to produce an agricultural commodity. 
+                            </P>
+                            <P>
+                                (2) 
+                                <E T="03">Construction.</E>
+                                 Any construction financed by the Agency must comply with applicable Federal, State, local, and industry building standards and subpart A of part 1924 of this title. 
+                            </P>
+                            <P>
+                                (3) 
+                                <E T="03">Refinancing.</E>
+                                 Emergency loan funds may not be used to refinance consumer debt, such as automobile loans, or credit card debt unless such credit card debt is directly attributable to the farming operation. 
+                            </P>
+                            <P>
+                                (b) 
+                                <E T="03">Restriction on loan amount.</E>
+                                 An Emergency loan may not exceed the lesser of:
+                            </P>
+                            <P>
+                                (1) The amount of credit necessary to restore the family farming operation to its pre-disaster condition; 
+                                <PRTPAGE P="799"/>
+                            </P>
+                            <P>(2) In the case of a physical loss loan, the total eligible physical losses caused by the disaster; or </P>
+                            <P>(3) In the case of a production loss loan, 100 percent of the total actual production loss sustained by the applicant calculated pursuant to paragraph (d) of this section. </P>
+                            <P>
+                                (c) 
+                                <E T="03">Maximum cumulative loan principal.</E>
+                                 The maximum cumulative Emergency loan principal that any individual or entity may have outstanding is $500,000. 
+                            </P>
+                            <P>
+                                (d) 
+                                <E T="03">Production losses.</E>
+                                 The applicant's actual production loss with respect to a crop is calculated as follows: 
+                            </P>
+                            <P>(1) Subtract the applicant's disaster yield from the applicant's normal production yield to determine the applicant's per acre production loss; </P>
+                            <P>(2) Multiply the applicant's per acre production loss by the number of acres of the farming operation devoted to the crop to determine the volume of the production loss; </P>
+                            <P>(3) Multiply the volume of the applicant's production loss by the market price for such crop as determined by the Agency to determine the dollar value for the production loss; and </P>
+                            <P>(4) Subtract any other disaster related compensation or insurance indemnities received or to be received by the applicant for the production loss. </P>
+                            <P>
+                                (e) 
+                                <E T="03">Physical loss</E>
+                                â(1) 
+                                <E T="03">Amount of loss.</E>
+                                 The applicant's total eligible physical loss is calculated as follows: 
+                            </P>
+                            <P>(i) Add the allowable costs associated with replacing or repairing chattel covered by hazard insurance (excluding labor, machinery, equipment, or materials contributed by the applicant to repair or replace chattel); </P>
+                            <P>(ii) Add the allowable costs associated with repairing or replacing real estate, covered by hazard insurance; </P>
+                            <P>(iii) Add the value of livestock and livestock products (such valuation will be based on a national or regional valuation of species or product classification, whichever the Agency determines is more accurate); </P>
+                            <P>(iv) Add the allowable costs to restore perennials, which produce an agricultural commodity, to the stage of development the damaged perennials had obtained prior to the disaster; </P>
+                            <P>(v) Add, in the case of an applicant that is an individual, the allowable costs associated with repairing or replacing essential household contents, not to exceed $20,000; and </P>
+                            <P>(vi) Subtract any other disaster-related compensation or insurance indemnities received or to be received by the applicant for the loss or damage to the chattel or real estate. </P>
+                            <P>
+                                (2) 
+                                <E T="03">Documentation.</E>
+                                 In the case of physical losses associated with livestock, the applicant must have written documentation of the inventory of livestock and records of livestock product sales sufficient to allow the Agency to value such livestock or livestock products just prior to the loss. 
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.6</SECTNO>
+                            <SUBJECT>Interest rate. </SUBJECT>
+                            <P>The interest rate applicable for an Emergency loan will be the lower of the interest rate at the time of either loan approval or loan closing and in no event shall exceed 8 percent annually. </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.7</SECTNO>
+                            <SUBJECT>Loan terms. </SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">Basis for repayment.</E>
+                                 The Agency schedules repayment of Emergency loans based on the useful life of the loan security, the applicant's repayment ability, and the type of loss. 
+                            </P>
+                            <P>
+                                (b) 
+                                <E T="03">Minimum payment requirement.</E>
+                                 The repayment schedule must include at least one payment every year. 
+                            </P>
+                            <P>
+                                (c) 
+                                <E T="03">Repayment of loans for annual operating expenses.</E>
+                                 Emergency loans for annual operating expenses, except those expenses associated with establishing a perennial crop, must be repaid within 12 months. The Agency, however, may extend this term to not more than 18 months to accommodate the production cycle of the agricultural commodities of the farming operation. 
+                            </P>
+                            <P>
+                                (d) 
+                                <E T="03">Repayment of loans for production or physical losses to chattel.</E>
+                                 The repayment schedule for loans for production losses or physical losses to chattel (including but not limited to assets with an expected life between 1 and 7 years) may not exceed 7 years. If necessary to improve the repayment ability of the loan and real estate security is available, the term of the loan may be extended up to a total length not to exceed 20 years. 
+                            </P>
+                            <P>
+                                (e) 
+                                <E T="03">Repayment of loans for physical losses to real estate.</E>
+                                 The repayment schedule for loans for physical losses to real estate is based on repayment ability of the applicant and the useful life of the security, but in no case will the term of repayment exceed 40 years. 
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.8</SECTNO>
+                            <SUBJECT>Repayment and security requirements. </SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">General requirements</E>
+                                â(1) 
+                                <E T="03">Ability to repay.</E>
+                                 The applicant must submit a feasible plan that demonstrates the applicant's ability to repay the loan. The plan also must demonstrate that the applicant will meet all other credit needs and obligations, including judgments, for which the applicant is legally responsible. 
+                            </P>
+                            <P>
+                                (2) 
+                                <E T="03">Sufficient equity.</E>
+                                 The applicant must have sufficient equity in the security pledged for an Emergency loan to provide adequate security for the loan except as permitted in paragraph (f) of this section. The applicant must provide additional security, if available, not to exceed 150 percent of the loan amount. 
+                            </P>
+                            <P>
+                                (3) 
+                                <E T="03">Interests in property not owned by the applicant.</E>
+                                 Interests in property not owned by the applicant (such as leases that provide a mortgageable value, water rights, easements, mineral rights, and royalties) can be offered as security for the loan and will be considered in determining whether adequate security is available. 
+                            </P>
+                            <P>
+                                (b) 
+                                <E T="03">Real estate loans.</E>
+                                 In the case of an Emergency loan for real estate losses, the loan shall be secured at a minimum by the real estate that is being purchased, repaired, replaced, or improved with the loan funds.
+                            </P>
+                            <P>
+                                (c) 
+                                <E T="03">Chattel and production loans.</E>
+                                 In the case of an Emergency loan for chattel and production losses, the loan shall be secured, at a minimum, by the chattel that is being purchased, repaired, replaced, refinanced, or produced with the loan funds.
+                            </P>
+                            <P>
+                                (d) 
+                                <E T="03">Agency lien position</E>
+                                â(1) 
+                                <E T="03">Real estate security.</E>
+                                 If real estate is pledged as security for a loan, the Agency must obtain a first lien, if available, on the real estate. When a first lien is not available, the Agency may take a junior lien under the following conditions: 
+                            </P>
+                            <P>(i) The prior lien does not contain any provision that may jeopardize the Agency's interest or the applicant's ability to repay the loan to the Agency; </P>
+                            <P>(ii) Prior lienholders agree to notify the Agency of acceleration and foreclosure whenever State law or other arrangements do not require such notice; and </P>
+                            <P>(iii) The applicant must agree to obtain permission from the Agency prior to granting any additional security interests in the real estate. </P>
+                            <P>
+                                (2) 
+                                <E T="03">Real estate held under a purchase contract.</E>
+                                 If the real estate offered as security is held under a recorded purchase contract: 
+                            </P>
+                            <P>(i) The applicant must provide a security interest in the real estate; </P>
+                            <P>(ii) The applicant and the purchase contract holder must agree in writing that any insurance proceeds received to compensate for real estate losses will be used only to replace or repair the damaged real estate; </P>
+                            <P>
+                                (iii) The applicant must refinance the existing purchase contract, or demonstrate that financing is not available, if an acceptable contract of sale cannot be negotiated or the purchase contract holder refuses to agree to apply all the insurance proceeds to repair or replace the damaged real estate and wants to retain 
+                                <PRTPAGE P="800"/>
+                                some of the proceeds as an extra payment on the balance owed; 
+                            </P>
+                            <P>(iv) The purchase contract must not be subject to summary cancellation on default and must not contain any provisions that are contrary to the Agency's best interests; and </P>
+                            <P>(v) The contract holder must agree in writing to notify the Agency of any breach by the purchaser, and give the Agency the option to rectify the conditions that amount to a breach within 30 days after the date the Agency receives written notice of the breach. </P>
+                            <P>
+                                (3) 
+                                <E T="03">Chattel security.</E>
+                                 If chattel property is pledged as security for a loan the Agency must obtain a first lien on the chattel that is being purchased, repaired, replaced, refinanced, or produced with the loan funds. 
+                            </P>
+                            <P>
+                                (e) 
+                                <E T="03">Same security for multiple loans.</E>
+                                 The same property may be pledged as security for more than one Farm Loan Program loan. 
+                            </P>
+                            <P>
+                                (f) 
+                                <E T="03">Lack of adequate security.</E>
+                                 When adequate security is not available because of the disaster, the loan application may be approved if the Agency determines, based on the plan required in paragraph (a)(1) of this section, that there is a reasonable assurance that the applicant has the ability to repay the loan (based on an on-going operational basis, excluding special one-time sources of income or expenses) provided: 
+                            </P>
+                            <P>(1) The applicant has pledged as collateral for the loan, all available personal and business collateral, except those items listed in paragraphs (h)(1) and (h)(2) of this section; </P>
+                            <P>(2) The feasible plan, approved by the Agency, indicates the loan will be repaid based upon the applicant's production and income history and addresses applicable pricing risks through the use of marketing contracts, hedging, options, revenue insurance or similar risk management practices; </P>
+                            <P>(3) The applicant has had positive net cash farm income in at least 3 of the past 5 years; and </P>
+                            <P>(4) The applicant has given the Agency an assignment on any USDA program payments to be received. </P>
+                            <P>
+                                (g) 
+                                <E T="03">Conditions for taking other assets as security</E>
+                                â(1) 
+                                <E T="03">Conditions.</E>
+                                 In addition to the requirements for adequate and additional security, the Agency will take a security interest in other assets (other than assets listed under the exceptions in paragraph (h) of this section), if available, when: 
+                            </P>
+                            <P>(i) An applicant has non-essential assets that are not being converted to cash to reduce the loan amount; or </P>
+                            <P>(ii) The real estate security and chattel security do not provide adequate security for the loan. </P>
+                            <P>
+                                (2) 
+                                <E T="03">List of other assets.</E>
+                                 Other assets may include: 
+                            </P>
+                            <P>(i) A pledge of real estate or chattel by a third party; </P>
+                            <P>(ii) Patents, copyrights, life insurance, stocks, other securities, and membership in cooperatives, owned by the applicant; </P>
+                            <P>(iii) Assets owned by an applicant that cannot be converted to cash without jeopardizing the farm operation; and </P>
+                            <P>(iv) Non-essential assets owned by the applicant with an aggregate value in excess of $5,000. </P>
+                            <P>
+                                (h) 
+                                <E T="03">Exceptions to security requirements.</E>
+                                 The Agency will not take a security interest in certain property in the following situations: 
+                            </P>
+                            <P>(1) The property proposed as security has environmental contamination, restrictions, or historical impact that could impair the value or expose the Agency to potential liability; </P>
+                            <P>(2) The Agency cannot obtain a valid lien on the security; </P>
+                            <P>(3) The applicant's personal residence and appurtenances are on a parcel of land separate and apart from that real estate being used as adequate security for the loan; or </P>
+                            <P>(4) The applicant's other assets are used for farming or for essential living expenses and are not needed for security purposes, including but not limited to, subsistence livestock, cash or special cash collateral accounts, retirement accounts, personal vehicles, household goods, and small tools and equipment such as hand tools, power lawn mowers. </P>
+                            <P>
+                                (i) 
+                                <E T="03">Requirements for security.</E>
+                                 (1) For loans over $25,000, title clearance is required when real estate is taken as security. 
+                            </P>
+                            <P>(2) For loans of $25,000 or less, when real estate is taken as security, a certification of ownership in real estate is required. Certification of ownership may be in the form of an affidavit which is signed by the applicant, naming the record owner of the real estate in question and listing the balances due on all known debts against the real estate. Whenever the loan approving official is uncertain of the record owner or debts against the real estate security, a title search is required.</P>
+                            <P>
+                                (j) 
+                                <E T="03">Taking Indian Trust lands as security.</E>
+                                 The Agency may take a lien on Indian Trust lands as security provided that the requirements of Â§â1943.19(a)(7) of this title are satisfied. 
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.9 </SECTNO>
+                            <SUBJECT>Appraisal and valuation requirements. </SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">Establishing value for real estate.</E>
+                                 Real estate appraisals conducted pursuant to this part may be completed by designated appraisers or contract appraisers and shall conform to the Uniform Standards of Professional Appraisal Practice guidelines and standards in accordance with Â§â761.8 of this chapter. 
+                            </P>
+                            <P>
+                                (b) 
+                                <E T="03">Establishing value for agricultural commodities and equipment.</E>
+                                 Valuations of agricultural commodities and equipment shall be established as follows: 
+                            </P>
+                            <P>(1) The security value of the annual agricultural commodities production (excluding livestock) will be 100 percent of the amount loaned for annual operating and essential family household expenses, or the amount of expected crop revenue, excluding farm program and insurance payments, whichever is lower. </P>
+                            <P>(2) The value of livestock and equipment will be the market value as determined by the Agency in accordance with Â§â761.8 of this chapter. </P>
+                            <P>
+                                (c) 
+                                <E T="03">Assets damaged by the disaster.</E>
+                                 In the case of farm assets damaged by the disaster, the value of such security shall be established as of the day before the disaster occurred. 
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.10 </SECTNO>
+                            <SUBJECT>Insurance for loan security. </SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">Adequacy of insurance.</E>
+                                 An applicant must obtain insurance, consistent with this section, equal to the lesser of the value of the security at the time of loan closing, or the principal of the loan. 
+                            </P>
+                            <P>
+                                (b) 
+                                <E T="03">Hazard insurance.</E>
+                                 All security (except growing crops) must be covered by hazard insurance if it is readily available (
+                                <E T="03">i.e.</E>
+                                 sold by insurance agents in the applicants normal trade area) and economically feasible. 
+                            </P>
+                            <P>
+                                (c) 
+                                <E T="03">Flood or mudslide insurance.</E>
+                                 Real estate security located in flood or mudslide prone areas, as determined by the Agency, must be covered by flood or mudslide insurance. 
+                            </P>
+                            <P>
+                                (d) 
+                                <E T="03">Crop insurance</E>
+                                â(1) 
+                                <E T="03">Requirement to obtain crop insurance.</E>
+                                 Except as provided in paragraph (d)(2) of this section, prior to closing the loan, the applicant must have obtained at least the catastrophic risk protection level of crop insurance coverage for the crop during the crop year for which the loan is sought for each crop which is a basic part of an applicant's total farming operation, if such insurance is available, unless the applicant executes a written waiver of any emergency crop loss assistance with respect to such crop. 
+                            </P>
+                            <P>
+                                (2) 
+                                <E T="03">Exception.</E>
+                                 Growing crops used to provide adequate security must be covered by crop insurance if such insurance is available. 
+                            </P>
+                            <P>
+                                (e) 
+                                <E T="03">Indemnities.</E>
+                                 A borrower must: 
+                            </P>
+                            <P>
+                                (1) List the Agency as loss payee for the insurance indemnity payment or as 
+                                <PRTPAGE P="801"/>
+                                a beneficiary of a mortgagee loss payable clause; and 
+                            </P>
+                            <P>(2) In the case of crop insurance, execute an assignment of indemnity in favor of the Agency. </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â764.11 </SECTNO>
+                            <SUBJECT>Charges and fees. </SUBJECT>
+                            <P>The applicant must pay all filing, recording, notary, and lien search fees necessary to process and close a loan. The applicant may pay or be reimbursed for these fees from Emergency loan funds.</P>
+                        </SECTION>
+                    </PART>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="1945">
+                    <PART>
+                        <HD SOURCE="HED">PART 1945âEMERGENCY </HD>
+                    </PART>
+                    <AMDPAR>2. Subparts B, C and D are removed.</AMDPAR>
+                </REGTEXT>
+                <SIG>
+                    <DATED>Signed at Washington, DC, on December 31, 2001. </DATED>
+                    <NAME>J.B. Penn, </NAME>
+                    <TITLE>Under Secretary for Farm and Foreign Agricultural Services. </TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 02-359 Filed 1-7-02; 8:45 am] </FRDOC>
+            <BILCOD>BILLING CODE 3410-05-P</BILCOD>
+        </RULE>

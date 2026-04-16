@@ -1,0 +1,743 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">DEPARTMENT OF HOMELAND SECURITY</AGENCY>
+                <SUBAGY>Federal Emergency Management Agency</SUBAGY>
+                <CFR>44 CFR Part 201</CFR>
+                <DEPDOC>[Docket ID: FEMA-2012-0001]</DEPDOC>
+                <RIN>RIN 1660-AA77</RIN>
+                <SUBJECT>Change in Submission Requirements for State Mitigation Plans</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Federal Emergency Management Agency, DHS.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        This Final Rule revises the Federal Emergency Management Agency 
+                        <PRTPAGE P="22874"/>
+                        (FEMA) regulations by changing submission requirements for State Mitigation Plans. This Final Rule reduces the frequency by which States must submit updates to FEMA on their State Mitigation Plans. Previously, these entities prepared and submitted updates with FEMA for review and approval every 3 years. Now, these entities will prepare and submit updates with FEMA for review and approval every 5 years.
+                    </P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>Effective May 27, 2014. Comments regarding the information collection must be submitted on or before May 27, 2014.</P>
+                </DATES>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        Comments and related materials are available online by going to 
+                        <E T="03">www.regulations.gov</E>
+                        , and inserting FEMA-2012-0001 in the âSearchâ box, and then clicking âSearchâ.
+                    </P>
+                    <P>
+                        Submit written comments on the information collection to the Office of Information and Regulatory Affairs, Office of Management and Budget. Comments should be addressed to the Desk Officer for the Department of Homeland Security, Federal Emergency Management Agency, and sent via electronic mail to 
+                        <E T="03">oira.submission@omb.eop.gov</E>
+                         or faxed to (202) 395-5806.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Doug Bellomo, Division Director, Risk Analysis Division, Federal Insurance and Mitigation Administration, DHS/FEMA, 1800 South Bell Street, Arlington, VA 20598-3030. Phone: (202) 646-2903. Facsimile: (202) 646-2787. Email: 
+                        <E T="03">doug.bellomo@fema.dhs.gov</E>
+                        .
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Abbreviations</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-1">CFRâCode of Federal Regulations</FP>
+                    <FP SOURCE="FP-1">DHSâDepartment of Homeland Security</FP>
+                    <FP SOURCE="FP-1">DMA 2000âDisaster Mitigation Act of 2000</FP>
+                    <FP SOURCE="FP-1">EAâEnvironmental Assessment</FP>
+                    <FP SOURCE="FP-1">EISâEnvironmental Impact Statement</FP>
+                    <FP SOURCE="FP-1"> FEMAâFederal Emergency Management Agency</FP>
+                    <FP SOURCE="FP-1">FMAâFlood Mitigation Assistance</FP>
+                    <FP SOURCE="FP-1">HMAâHazard Mitigation Assistance</FP>
+                    <FP SOURCE="FP-1">HMGPâHazard Mitigation Grant Program</FP>
+                    <FP SOURCE="FP-1">IFRâInterim Final Rule</FP>
+                    <FP SOURCE="FP-1">NEMAâ National Emergency Management Association</FP>
+                    <FP SOURCE="FP-1">NEPAâNational Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP-1">NPRMâNotice of Proposed Rulemaking</FP>
+                    <FP SOURCE="FP-1">OMBâOffice of Management and Budget</FP>
+                    <FP SOURCE="FP-1">PDMâPre-Disaster Mitigation</FP>
+                    <FP SOURCE="FP-1">PRAâPaperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP-1">RINâRegulatory Identifier Number</FP>
+                    <FP SOURCE="FP-1">Stafford ActâRobert T. Stafford Disaster Relief and Emergency Assistance Act, as amended</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Basis and Purpose</FP>
+                    <FP SOURCE="FP-2">II. Background</FP>
+                    <FP SOURCE="FP1-2">A. Disaster Mitigation Act of 2000</FP>
+                    <FP SOURCE="FP1-2">B. Hazard Mitigation Assistance</FP>
+                    <FP SOURCE="FP1-2">C. Regulatory History</FP>
+                    <FP SOURCE="FP1-2">D. Discussion of Public Comments and Final Rule</FP>
+                    <FP SOURCE="FP1-2">E. Implementation</FP>
+                    <FP SOURCE="FP-2">III. Regulatory Analyses</FP>
+                    <FP SOURCE="FP1-2">A. Executive Order 12866, Regulatory Planning and Review and Executive Order 13563, Improving Regulation and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">B. Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Unfunded Mandates Reform Act</FP>
+                    <FP SOURCE="FP1-2">D. Paperwork Reduction Act (PRA) of 1995</FP>
+                    <FP SOURCE="FP1-2">E. National Environmental Policy Act (NEPA) of 1969</FP>
+                    <FP SOURCE="FP1-2">F. Executive Order 13175, Consultation and Coordination With Indian Tribal Governments</FP>
+                    <FP SOURCE="FP1-2">G. Executive Order 13132, Federalism</FP>
+                    <FP SOURCE="FP1-2">H. Executive Order 12630, Taking of Private Property</FP>
+                    <FP SOURCE="FP1-2">I. Executive Order 12898, Environmental Justice</FP>
+                    <FP SOURCE="FP1-2">J. Executive Order 12988, Civil Justice Reform</FP>
+                    <FP SOURCE="FP1-2">K. Executive Order 13045, Protection of Children From Environmental Health Risks and Safety Risks</FP>
+                    <FP SOURCE="FP1-2">L. Executive Order 11988, Floodplain Management</FP>
+                    <FP SOURCE="FP1-2">M. Congressional Review Act</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Basis and Purpose</HD>
+                <P>
+                    This Final Rule will change the frequency of State Mitigation Plan updates, by extending the update requirement for States from every 3 years to every 5 years. Currently, State, Tribal, and Local Mitigation Plans submissions are on different schedules: Tribal and local governments submit Mitigation Plan updates to FEMA every 5 years, while States submit their mitigation plan updatesâboth the Standard and the Enhanced Mitigation Planâ
+                    <SU>1</SU>
+                    <FTREF/>
+                     updatesâto FEMA every 3 years.
+                    <SU>2</SU>
+                    <FTREF/>
+                     The Final Rule will put all State, Local, and Tribal Mitigation Plan updates on the same schedule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âState Mitigation Plans are divided into tiers: Standard State Mitigation Plans and Enhanced State Mitigation Plans. Enhanced State Mitigation Plans have additional requirements and, for States that comply with the additional requirements, allow for additional disaster funding.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âIn addition to States, Tribal Governments can also submit Enhanced State Mitigation Plans. This Final Rule reduces the frequency for those Tribes who choose to submit Enhanced State Mitigation Plans; FEMA will now require these updates every 5 years (no longer every 3 years).
+                    </P>
+                </FTNT>
+                <P>FEMA plans to change the frequency of the update requirement for several reasons. First, the proposed reduction in update frequency will reduce the regulatory burden on States as well as burden on FEMA. Second, aligning the update frequency with local and Tribal update requirements may foster closer coordination of mitigation planning and implementation efforts. Third, by relieving the regulatory burden imposed from the frequency of State plan updates, States and FEMA may be able to shift resources from the update and review cycle to other mitigation planning activities, such as increased delivery of training and technical assistance to support local and Tribal Mitigation Planning, and to implement additional mitigation actions identified through the planning process.</P>
+                <HD SOURCE="HD1">II. Background</HD>
+                <P>Hazard mitigation is any sustained action taken to reduce or eliminate long-term risk to people and property from natural hazards and their effects. The purpose of hazard mitigation planning is to identify policies and actions that can be implemented over the long-term to reduce risk and future losses. Mitigation plans form the foundation for a community's long-term strategy to reduce disaster losses and break the cycle of disaster damage, reconstruction, and repeated damage. The planning process is as important as the plan itself. It creates a framework for risk-based decision making to reduce damage to lives, property, and the economy from future disasters. State, Tribal, and local governments benefit from mitigation planning by identifying publicly-accepted cost-effective actions for risk reduction, focusing resources on the greatest risks and vulnerabilities, and building partnerships by involving people, organizations, and businesses. The planning process, and mitigation plans, foster education and awareness of hazards and risk, communicate priorities to State and Federal officials, and align risk reduction with other community objectives, such as community development. State, Tribal, and local governments are required to develop a hazard mitigation plan as a condition for receiving certain types of Federal non-emergency disaster assistance.</P>
+                <HD SOURCE="HD2">A. Disaster Mitigation Act of 2000</HD>
+                <P>
+                    The Disaster Mitigation Act of 2000 (DMA 2000), Public Law 106-390, 114 Stat. 1552, amended the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act) and provided an opportunity for States, Tribes, and local governments to take a new and revitalized approach to mitigation planning. Section 104 of DMA 2000 continued the requirement for a State mitigation plan as a condition of non-emergency Stafford Act assistance and FEMA mitigation grants, and created incentives for increased coordination and integration of mitigation activities at the State level. DMA 2000 repealed section 409 of the Stafford Act, which required mitigation plans and the use of minimum standards, and replaced it with two separate sections of the law: Mitigation 
+                    <PRTPAGE P="22875"/>
+                    planning in section 322 (codified at 42 U.S.C. 5165), and minimum codes and standards in section 323 (codified at 42 U.S.C. 5165a). FEMA previously implemented section 409 through 44 CFR part 206, Subpart M. The DMA 2000 planning requirements were placed in 44 CFR part 201 to reflect the broader relevance of planning to all FEMA mitigation programs, while the minimum codes and standards remained in 44 CFR part 206, Subpart M.
+                </P>
+                <P>Section 104 of DMA 2000 and FEMA's implementing regulations emphasize the need for State, Tribal, and local entities to closely coordinate mitigation planning and implementation efforts. The planning process provides a link between State, Tribal and local mitigation programs. Both State level and local plans should incorporate mitigation implementation strategies and sustainable recovery actions. FEMA also recognizes that governments are involved in a range of planning activities and that mitigation plans may be linked to or reference hazardous materials and other non-natural hazard plans. Improved mitigation planning will result in a better understanding of risks and vulnerabilities, as well as expedite implementation of measures and activities to reduce those risks, both pre- and post-disaster.</P>
+                <P>DMA 2000 included a provision for increased Federal funding for hazard mitigation measures for States with approved mitigation plans. 42 U.S.C. 5165(e). FEMA implemented this provision through development of a new two-tiered State mitigation plan process: Standard State Mitigation Plans, which allow a State to receive Hazard Mitigation Grant Program (HMGP) funding ranging from 7.5 to 15 percent of disaster grants awarded by FEMA, depending on the total estimated eligible Stafford Act disaster assistance, 44 CFR 206.432(b)(1); and Enhanced State Mitigation Plans, which allow a State to receive HMGP funds based on 20 percent of the total estimated eligible Stafford Act disaster assistance. 44 CFR 206.432(b)(2); 44 CFR 201.5. Enhanced State Mitigation Plans must meet the requirements for Standard State Mitigation Plans at 44 CFR 201.4 and must demonstrate further that the State has developed a comprehensive mitigation program, that it effectively uses available mitigation funding, and that it is capable of managing the increased funding. 44 CFR 201.5.</P>
+                <HD SOURCE="HD2">B. Hazard Mitigation Assistance</HD>
+                <P>FEMA Hazard Mitigation Assistance (HMA) grant programs provide funding for eligible mitigation activities that reduce disaster losses and protect life and property from future disaster damages. In general, under each of the three HMA programs, the update of State mitigation plans is eligible for funding.</P>
+                <P>Currently, FEMA administers the following HMA grant programs:</P>
+                <P>â¢ HMGP assists in implementing long-term hazard mitigation measures following Presidential disaster declarations. 44 CFR 206.434(c)(5)(iv). Funding is available to implement projects in accordance with State, Tribal, and local priorities. 44 CFR 206.435. HMGP grants may fund the updating of mitigation plans. 44 CFR 206.434. States must have a FEMA-approved State (Standard or Enhanced) Mitigation Plan at the time of the disaster declaration and at the time HMGP funding is obligated to the Grantee to receive an HMGP award. 44 CFR 201.4(a) and 201.5(a).</P>
+                <P>â¢ Pre-Disaster Mitigation (PDM) provides funds on an annual basis for hazard mitigation planning and the implementation of mitigation projects prior to a disaster. 42 U.S.C. 5133. The goal of the PDM program is to reduce overall risk to the population and structures, while at the same time reducing reliance on Federal funding from actual disaster declarations. 42 U.S.C. 5133. States must have a FEMA-approved State (Standard or Enhanced) Mitigation Plan by the application deadline and at the time of obligation of the grant funds. 44 CFR 201.4(a) and 201.5(a).</P>
+                <P>â¢ Flood Mitigation Assistance (FMA) Program provides funds on an annual basis for flood mitigation planning and the implementation of flood mitigation projects. 42 U.S.C. 4104c. The goal of the FMA Program is to reduce or eliminate claims under the National Flood Insurance Program. 44 CFR 78.1(b). The Biggert-Waters Flood Insurance Reform Act of 2012, Public Law 112-141, 126 Stat. 916, eliminated the Severe Repetitive Loss and the Repetitive Flood Claims programs and changed the FMA program to assist mitigation of repetitive loss and severe repetitive loss properties. States must have a FEMA-approved State (Standard or Enhanced) Mitigation Plan by the application deadline and at the time of obligation of the grant funds. 44 CFR 201.4(a) and 201.5(a).</P>
+                <P>FEMA-approved hazard mitigation plans developed under 44 CFR part 201 are used by FEMA to determine State and Tribal eligibility for Stafford Act assistance, including HMGP and PDM grant funds, and for FMA funding under the National Flood Insurance Act.</P>
+                <P>FEMA HMA grants are provided to eligible applicants (States/Tribes/Territories) for eligible activities, who, in turn, provide subgrants to local governments and other eligible entities. Subgrantees may be a State agency, local government, private non-profit organization (for HMGP only), or Indian Tribal government. The applicant selects and prioritizes subapplications developed and submitted to them by subapplicants. These subapplications are submitted to FEMA for consideration of funding. An Indian Tribal government may have the option to apply for HMA grants through the State as a subapplicant or directly to FEMA as an applicant. Indian Tribal governments acting as a subgrantee are accountable to the State grantee.</P>
+                <HD SOURCE="HD2">C. Regulatory History</HD>
+                <P>
+                    FEMA's February 26, 2002 Interim Final Rule (IFR), entitled âHazard Mitigation Planning and Hazard Mitigation Grant Program,â 67 FR 8844, implemented section 322 of the Stafford Act by adding a new Part 201 to 44 CFR. The IFR required that Standard State Mitigation Plans be updated by November 1, 2003â
+                    <SU>3</SU>
+                    <FTREF/>
+                     and resubmitted to the appropriate Regional Director for approval every 3 years from the date of the approval of the previous plan in order to continue program eligibility. Additionally, the IFR provided criteria for Enhanced State Mitigation Plans and required that for States to be eligible for the 20 percent HMGP funding, the Enhanced State Mitigation Plan must be approved by FEMA within the 3 years prior to the current major disaster declaration, and resubmitted for approval every 3 years. On October 31, 2007, FEMA published a Final Rule adopting, without substantive changes, the requirements for hazard mitigation planning pursuant to section 322 of the Stafford Act. 72 FR 61552.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âAn October 1, 2002 revision changed the date by which the Standard State Mitigation Plans had to be updated from November 1, 2003 to November 1, 2004. 67 FR 61512. A subsequent revision provided for a 6-month extension, up to May 1, 2005, at the request of the Governor or Indian Tribal leader. 69 FR 55094.
+                    </P>
+                </FTNT>
+                <P>
+                    Table 1 displays the regulatory history for the mitigation planning requirements listed in Â§Â§â201.3-201.5 for the Standard and Enhanced State Mitigation Plan reporting requirements. Currently, these Plans have to be updated every 3 years.
+                    <PRTPAGE P="22876"/>
+                </P>
+                <GPOTABLE COLS="6" OPTS="L2" CDEF="s50,r50,12,xs48,r50,r100">
+                    <TTITLE>Table 1</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">RIN</CHED>
+                        <CHED H="1">Action</CHED>
+                        <CHED H="1">Date</CHED>
+                        <CHED H="1">
+                            <E T="02">Federal Register</E>
+                            <LI>citation</LI>
+                        </CHED>
+                        <CHED H="1">Effect on Â§Â§â201.3, 201.4, &amp; 201.5</CHED>
+                        <CHED H="1">Changes to State Mitigation Plan requirements</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">3067-AD22</ENT>
+                        <ENT>IFR</ENT>
+                        <ENT>2/26/02</ENT>
+                        <ENT>67 FR 8844</ENT>
+                        <ENT>Added Â§Â§â201.3, 201.4, &amp; 201.5</ENT>
+                        <ENT>States must have approved Standard State Mitigation Plan by November 1, 2003 and every 3 years from the date of the approval of the previous plan. Enhanced State Mitigation Plans resubmitted to the appropriate Regional Director every 3 years. For State to be eligible for 20 percent HMGP funding, the Enhanced State Mitigation plan must be approved by FEMA within the 3 years prior to current major disaster declaration.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3067-AD22</ENT>
+                        <ENT>IFR</ENT>
+                        <ENT>10/1/02</ENT>
+                        <ENT>67 FR 61512</ENT>
+                        <ENT>Revised Â§â201.3 and Â§â201.4</ENT>
+                        <ENT>Changed the requirement to update the Standard State Mitigation Plan to November 1, 2004.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            1660-AA17â
+                            <SU>4</SU>
+                        </ENT>
+                        <ENT>IFR</ENT>
+                        <ENT>9/13/04</ENT>
+                        <ENT>69 FR 55094</ENT>
+                        <ENT>Added Â§â201.3(c)(7) &amp; Revised Â§â201.4</ENT>
+                        <ENT>Allowed a 6 month extension to the deadline for the Standard State Mitigation Plan, up to May 1, 2005.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1660-AA17</ENT>
+                        <ENT>Final Rule</ENT>
+                        <ENT>10/31/07</ENT>
+                        <ENT>72 FR 61552</ENT>
+                        <ENT>Finalized Part 201</ENT>
+                        <ENT>Corrected a typographical error in 201.4(c)(2)(ii).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1660-AA36</ENT>
+                        <ENT>IFR</ENT>
+                        <ENT>10/31/07</ENT>
+                        <ENT>72 FR 61720</ENT>
+                        <ENT>Revised Â§â201.3</ENT>
+                        <ENT>Removed references to November 1, 2004 deadline and made technical corrections.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">1660-AA36</ENT>
+                        <ENT>Final Rule</ENT>
+                        <ENT>9/16/09</ENT>
+                        <ENT>74 FR 47471</ENT>
+                        <ENT>Finalized Â§â201.3</ENT>
+                        <ENT>No changes.</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>4</SU>
+                        âThe RIN changed from 3067-AD22 to 1660-AA17, as a result of FEMA becoming a component of the Department of Homeland Security.
+                    </TNOTE>
+                </GPOTABLE>
+                <HD SOURCE="HD2">D. Discussion of Public Comments and Final Rule </HD>
+                <P>On March 1, 2013, FEMA published the âChange in Submission Requirements for State Mitigation Plansâ Notice of Proposed Rulemaking (NPRM) at 78 FR 13844. The NPRM proposed to reduce the frequency of Standard State and Enhanced State Mitigation Plan updates by extending the update requirement from 3 to 5 years. </P>
+                <P>The comment period closed on April 30, 2013. FEMA received twenty-three comments in response to the NPRM. Of the 23 comments received, 21 comments were supportive, 1 comment was opposed, and 1 comment was not germane. Following is a discussion of the comments submitted. </P>
+                <P>The 21 comments submitted in support of the NPRM came from a variety of sources, including State and local governments, associations, and commenters that chose to remain anonymous. Many of the supportive comments cited reasons consistent with the rationale provided in the NPRM (78 FR 13847), such as: </P>
+                <P>â¢ reducing the regulatory burden on States and those Indian Tribal governments that may choose to develop Enhanced Mitigation Plans; </P>
+                <P>â¢ aligning with the local and Tribal Mitigation Plan update requirements, which may foster closer coordination of mitigation planning and implementation efforts; and </P>
+                <P>â¢ relieving the regulatory burden, so resources may be shifted to other mitigation planning activities, such as increased delivery of training and technical assistance, and/or to implementing additional mitigation actions. </P>
+                <P>Several comments cited additional reasons in support of the NPRM, such as: </P>
+                <P>â¢ maintaining or improving the quality of the plans and/or program; </P>
+                <P>â¢ facilitating better data sharing; </P>
+                <P>â¢ improving integration and coordination with other planning cycles; and </P>
+                <P>â¢ providing a more realistic time frame for implementation of the mitigation plan. </P>
+                <P>Six comments referenced or included information regarding costs for mitigation plan updates. Such mitigation plan update cost estimates were consistent with the estimates FEMA used to calculate the impacts of the rule. </P>
+                <P>One comment was supportive of the NPRM, provided that planners remain engaged in mitigation planning and implementation, presuming a best practice of annual review and evaluation. The current mitigation planning regulation requires States to include a plan maintenance process that establishes the method and schedule for monitoring, evaluating, and updating the plan (44 CFR 201.4(c)(5)). Through guidance, FEMA encourages, but does not require, States to perform an annual evaluation of the plan, including any changes to the nature and magnitude of hazards, as well as the effectiveness of programs, policies, and projects. </P>
+                <P>While supportive of the NPRM, one comment indicated that a 7-year cycle would be even better. Additional cost savings from a 7-year cycle compared to a 5-year cycle is approximately $857,000 ($2,855,833 annualized 7-year cost savings â$1,999,083 annualized 5-year cost savings = $856,750). The following table highlights costs over 3, 5, and 7 years, as well as provides a comparison. </P>
+                <GPOTABLE COLS="8" OPTS="L2,i1" CDEF="s50,12,12,12,12,12,12,12">
+                    <TTITLE>Table 2 </TTITLE>
+                    <BOXHD>
+                        <CHED H="1">State plan type </CHED>
+                        <CHED H="1">Mitigation plan update unit cost </CHED>
+                        <CHED H="1">Update cost over 3 years </CHED>
+                        <CHED H="1">Update cost over 5 years </CHED>
+                        <CHED H="1">Update cost over 7 years </CHED>
+                        <CHED H="1">
+                            7 years 
+                            <LI>vs. </LI>
+                            <LI>3 years </LI>
+                        </CHED>
+                        <CHED H="1">
+                            7 years 
+                            <LI>vs. </LI>
+                            <LI>5 years </LI>
+                        </CHED>
+                        <CHED H="1">
+                            5 years 
+                            <LI>vs. </LI>
+                            <LI>3 years </LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Standard Plan Update </ENT>
+                        <ENT>$205,000 </ENT>
+                        <ENT>$68,333 </ENT>
+                        <ENT>$41,000 </ENT>
+                        <ENT>$29,286 </ENT>
+                        <ENT>â$39,047 </ENT>
+                        <ENT>â$11,714 </ENT>
+                        <ENT>â$27,333 </ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="22877"/>
+                        <ENT I="01">Enhanced Plan Update </ENT>
+                        <ENT>$524,000 </ENT>
+                        <ENT>$174,667 </ENT>
+                        <ENT>$104,800 </ENT>
+                        <ENT>$74,857 </ENT>
+                        <ENT>â$99,810 </ENT>
+                        <ENT>â$29,943 </ENT>
+                        <ENT>â$69,867 </ENT>
+                    </ROW>
+                    <TNOTE>Values rounded to nearest dollar which distorts overall reduction over time (e.g. 15 years, 21 years, 35 years). </TNOTE>
+                </GPOTABLE>
+                <P>FEMA acknowledges that additional cost savings may be realized from a 7-year update cycle, but FEMA reaffirms the benefits of the 5-year update cycle as stated in the NPRM that lengthening the State Mitigation Plan update cycle to 5 years aligns with the local and Tribal Mitigation Plan update requirements and may foster closer coordination of mitigation planning and implementation efforts. Further, as stated in the NPRM, stakeholders, such as the National Emergency Management Association (NEMA) and Members of Congress, have asked FEMA to amend 44 CFR Part 201 to extend the update cycle and have consistently cited 5 years. The NPRM cited a letter dated November 8, 2011 from 23 Members of Congress stating: </P>
+                <EXTRACT>
+                    <FP>[m]aintaining high quality up-to-date mitigation plans is a critical component of our national disaster response plan. Extending the update cycle to [5] years would ensure that our [S]tate planning offices can complete this vital task, along with their other duties, while maximizing available resources. </FP>
+                </EXTRACT>
+                <P>
+                    The NPRM also stated that in 2011, the Department of Homeland Security (DHS) received public comments on the mitigation planning regulations in response to a 
+                    <E T="04">Federal Register</E>
+                     notice published as part of a retrospective review of its regulations. According to DHS's final report titled âFinal Plan for the Retrospective Review of Existing Regulationsâ dated August 22, 2011 (See page 16), 
+                </P>
+                <EXTRACT>
+                    <P>DHS received a comment (the top-voted comment mentioned above) recommending that DHS change the current FEMA State Standard and Enhanced Hazard Mitigation Plan update requirement from every [3] years to every [5] years so that it is consistent with current Local Hazard Mitigation Plan update requirements. Commenters asserted that [5] years would be an appropriate timeframe for [S]tate mitigation plan updates for both efficiency and resource-limitation reasons. </P>
+                </EXTRACT>
+                <P>Extending the update cycle from 3 to 7 years does not align with the current local and Tribal mitigation planning 5-year update cycle. Additionally, based on the majority of responses from stakeholders, FEMA has chosen not to pursue the suggestion of extending the update cycle from 3 to 7 years. </P>
+                <P>Only one comment, submitted by a non-profit environmental advocacy organization, opposed the NPRM. The comment was submitted to the docket in the form of a letter along with more than 90 individual documents totaling almost 7,900 pages (after accounting for documents submitted in multiple parts and elimination of duplication). The letter cited to 11 of the attachments that the commenter submitted to the docket by footnoting them. Other than the letter, none of the supporting attachments referenced the NPRM. As a result, no response is provided to the attachments. </P>
+                <P>The remainder of this section will address the comment from the non-profit environmental advocacy organization that opposed the NPRM because, as it stated: </P>
+                <EXTRACT>
+                    <FP>the extension is not accompanied by requirements to ensure the quality of the State Mitigation Plans increases to compensate for less frequent updates. FEMA must ensure that the State Mitigation Plans are as effective and as timely as possible since hazard mitigation planning is critical to reduce risks to the public and to improve safety and health. To proceed with the proposed extension as currently articulated is arbitrary, capricious, an abuse of discretion and otherwise not in accordance with law. </FP>
+                </EXTRACT>
+                <P>The comment asserted that if the State Mitigation Plans do not incorporate the most current climate change studies and modeling, FEMA's NPRM would lead to plans losing relevance and becoming outdated more quickly, due to climate change implications, and the quality of hazard mitigation would suffer. The comment further stated that: </P>
+                <EXTRACT>
+                    <P>If the [S]tate update requirement is extended, FEMA should take this opportunity to ensure that [S]tates use the extra [2] years to significantly improve their plans, especially regarding climate change. States tend to rely exclusively on historical data to predict the probability of future hazard events, and determine priorities for mitigation. Unfortunately, most [S]tates are not incorporating climate change projections and therefore are not maximizing accuracy of hazard predictions in risk assessments. FEMA should only approve State Hazard Mitigation Plans that adequately address climate change. FEMA also should provide agency guidance in FEMA's Blue Book on how to incorporate climate change into such plans. In addition to the current proposed rulemaking, FEMA should also initiate another new rulemaking to amend 44 CFR Â§â201.4, in order to confirm that climate change must be addressed by [S]tates in their hazard mitigation plans. </P>
+                </EXTRACT>
+                <P>As stated in the NPRM, in order to be effective, plans must be relevant. Therefore, 44 CFR 201.4(d) requires that the plans be reviewed and revised to reflect changes in development, progress in statewide mitigation efforts, and changes in priorities. Mitigation planning is a continuous process of engaging stakeholders, identifying hazards as conditions may change, assessing risk and vulnerabilities as development patterns may change, and developing a strategy that can be implemented using available resources, programs, and initiatives based on current priorities. </P>
+                <P>The purpose of the NPRM is only to extend the update requirement from 3 to 5 years and does not change the requirements for the content of the Mitigation Plan. While section 201.4(c)(2) does not list or require specific hazards be addressed in the Mitigation Plan, States are required to include an overview of the type and location of all natural hazards that can affect the State. In fact, 44 CFR 201.4(c)(2)(i) requires the Mitigation Plan to contain information not only on previous occurrences but on the probability of future hazard events. This approach allows States discretion in meeting the Federal mitigation planning requirements and recognizes differences that exist among State governments with respect to capability and resources as well as variations in vulnerability within the planning area. </P>
+                <P>
+                    In addition, the FEMA Climate Change Adaptation Policy Statement (2011-OPPA-01) affirms the need to address risks that may be linked to climate change and identifies initial actions within existing statutes and authorities to help integrate climate change adaptation considerations into FEMA programs. Further, the President's Climate Action Plan, released in June 2013, identifies three major initiatives to prepare the United States for the impacts of climate change by building stronger and safer communities and infrastructure, protecting our economy and natural resources, and using sound science to 
+                    <PRTPAGE P="22878"/>
+                    manage climate impacts. FEMA is committed to working with partners to improve the relevance and effectiveness of mitigation planning to increase the Nation's resilience through improvements to policy, guidance, training, technical assistance, as well as other products. 
+                </P>
+                <P>FEMA encourages States to fully engage in the mitigation planning process and, as stated in 44 CFR 201.4(b), to include coordination with other State agencies, appropriate Federal agencies, and interested groups. FEMA also encourages States to integrate their mitigation planning to the extent possible with other ongoing State planning efforts and other FEMA mitigation programs and initiatives. By fully leveraging the mitigation planning process, States may be better able to identify and incorporate the best available data, studies, and models to assess changes in current and future hazards as well as development patterns that may impact vulnerability. Further, States may be better able to develop and implement a plan maintenance process that ensures plan relevance over time. The accuracy and relevance of the plan are important elements to ensure that resources are wisely invested in implementing measures to reduce risk from future events. As stated in the NPRM and the planning regulations at 44 CFR 201.4(a), the mitigation plan is the demonstration of the State's commitment to reduce risks from natural hazards and serves as a guide for State decision makers as they commit resources to reducing the effects of natural hazards. </P>
+                <P>The comment suggests that FEMA initiate another rulemaking requiring States to address climate change in State Mitigation Plans. The current regulation requires the State to include information on future hazard events in its Mitigation Plan and allows the State discretion whether to address climate change. 44 CFR 201.4(c)(2)(i). </P>
+                <P>The comment also encourages FEMA to implement an âadministrative triggerâ meaning that following a âmajor climate-sensitive hazard event,â if the plan did not adequately address climate change, the State would be required to initiate an update; and if the State did not incorporate new information into the plan, FEMA hazard mitigation funding should be withheld. FEMA encourages States to review the plan after disasters and update, if needed, to reflect changes in priorities. States may also consider use of FEMA's Hazard Mitigation Grant Program planning grants for planning related activities to update risk assessments after catastrophic events. FEMA will work with States post disaster, based on availability of resources and funding, to review the State Mitigation Plan, in particular the risk assessment and mitigation strategies, to guide implementation of mitigation actions and the development of a recovery strategy as outlined in the National Disaster Recovery Framework. Requiring plan updates using an administrative trigger would require a change to the mitigation planning regulation. FEMA has chosen not to initiate another rulemaking to implement an administrative trigger, so as not to increase the burden on States and FEMA, but will continue to monitor the necessity of initiating another rulemaking requiring States to review the plan after disasters and update, if needed, to reflect changes in priorities. </P>
+                <P>As previously stated in the preamble, the vast majority of respondents supported the regulatory change proposed in the March 1, 2013 NPRM; therefore, FEMA is adopting as final the NPRM (78 FR 13844, Mar. 1, 2013) without change. </P>
+                <HD SOURCE="HD2">E. Implementation </HD>
+                <P>The Standard State Mitigation Plan and the Enhanced State Mitigation Plan updates will be due 5 years from the date of the approval of the previous plan. </P>
+                <HD SOURCE="HD1">III. Regulatory Analyses </HD>
+                <HD SOURCE="HD2">A. Executive Order 12866, Regulatory Planning and Review and Executive Order 13563, Improving Regulation and Regulatory Review </HD>
+                <P>FEMA has prepared and reviewed this rule under the provisions of Executive Order 12866, âRegulatory Planning and Reviewâ (58 FR 51735, Oct. 4, 1993) as supplemented by Executive Order 13563, âImproving Regulation and Regulatory Reviewâ (76 FR 3821, Jan. 21, 2011). This Final Rule is not a significant regulatory action, and therefore has not been reviewed by the Office of Management and Budget (OMB). </P>
+                <P>This portion of the preamble summarizes FEMA's analysis of the economic impacts of this Final Rule. However, readers seeking greater detail are encouraged to read the full regulatory evaluation, a copy of which FEMA has placed in the docket for this rulemaking. </P>
+                <P>In conducting the aforementioned analyses, FEMA has determined that the Final Rule: (1) Has benefits that justify its costs; (2) is not an economically âsignificant regulatory actionâ as defined in section 3(f) of Executive Order 12866; (3) will not have a significant economic impact on a substantial number of small entities; and (4) will not impose an unfunded mandate on State, local, or Tribal governments, or on the private sector by exceeding $100 million or more annually (adjusted for inflation with a base year of 1995). These analyses are summarized below. </P>
+                <HD SOURCE="HD3">Who Is Potentially Affected by This Rule </HD>
+                <P>The Final Rule will affect States that choose to submit updated Standard State Mitigation Plans or Enhanced State Mitigation Plans to FEMA for approval, and Indian Tribal governments that choose to meet the requirements for Enhanced State Mitigation Plans in order to qualify for increased HMGP funding. </P>
+                <HD SOURCE="HD3">Savings to Society of This Rule </HD>
+                <P>
+                    The cost to update a State's Mitigation Plan is unique to that respective State. However, for the purposes of this analysis, FEMA estimates an average Standard State Mitigation Plan update unit cost of $205,000 and an Enhanced State Mitigation Plan update unit cost of $524,000.
+                    <SU>5</SU>
+                    <FTREF/>
+                     FEMA also assumes that 46 States would submit Standard State Mitigation Plans and 10 States would submit Enhanced State Mitigation Plans. 
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âThese plan update costs reflect cost and burden estimates in section III. D. (âPaperwork Reduction Act (PRA) of 1995â). In section III. D., âhour burdenâ in Table 3 is calculated by taking 23 percent of the State Mitigation Plan update cost, which represents personnel costs, and dividing it by the estimated Urban and Regional Planners wage rate of $45.33. This equates to 1,040 hours (($205,000 Ã 0.23)/$45.33 = 1,040.15) for Standard State Mitigation Plan updates and 2,659 hours (($524,000 Ã 0.23)/$45.33 = 2,658.72) for Enhanced State Mitigation Plan updates. Additionally, 66 percent of the State Mitigation Plan update cost represents contracting costs and 11 percent of the State Mitigation Plan update cost represents non-labor costs (for both standard and enhanced plan updates). The contracting and non-labor costs are used to estimate the âcost burdenâ in Table 4 below. For Standard State Mitigation Plan updates, this equates to $135,300 ($205,000 Ã 0.66 = $135,300) âannual operations and maintenance costsâ and $22,550 ($205,000 Ã 0.11 = $22,550) for âannual non-labor costsâ. For Enhanced State Mitigation Plan updates, this equates to $345,840 ($524,000 Ã 0.66 = $345,840) âannual operations and maintenance costsâ and $57,640 ($524,000 Ã 0.11 = $57,640) for âannual non-labor costsâ. 
+                    </P>
+                </FTNT>
+                <P>FEMA will also incur costs to review State Mitigation Plans. FEMA estimates that a General Schedule 13, Step 1, Federal employee, at a fully loaded wage of $48.08 ($34.34*1.4 = $48.076) will spend 120 hours reviewing a Standard or Enhanced State Mitigation Plan. The resulting FEMA review cost per plan is $5,770 (120 hours * $48.08 per hour = $5,769.60). </P>
+                <P>
+                    Therefore, the cost of State Mitigation Plan updates in a given year, where all 
+                    <PRTPAGE P="22879"/>
+                    updates are submitted, is approximately $15 million (($205,000 + $5,770)*46 + ($524,000 + $5,770)*10 = $14,993,120). The extension of the State Mitigation Plan update frequency from 3 to 5 years will reduce the number of State Mitigation Plan updates submitted by 2 over 15 years. The resulting undiscounted total cost savings is approximately $30 million over 15 years ($14,993,120 * 2 = $29,986,240); or, $18.8 million total cost savings over 15 years if discounted at 7 percent. The annual impact of this rule is approximately $2 million undiscounted ($29,986,240 Ã· 15 = $1,999,083) and $2.06 million annualized at 7 percent.
+                    <SU>6</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âIn Appendix A of the Regulatory Evaluation available in the docket, FEMA includes estimated annualized costs at three and seven percent according to guidance in OMB Circular A-4 (page 45). Office of Management and Budget, Published September 17, 2003. Available at: 
+                        <E T="03">http://www.whitehouse.gov/sites/default/files/omb/assets/omb/circulars/a004/a-4.pdf</E>
+                        . 
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">Benefits of This Rule </HD>
+                <P>The Final Rule will provide a number of unquantified benefits including aligning the State Mitigation Plan update cycle with the Local and Tribal Mitigation Plan update cycle and providing greater flexibility for States to submit their State Mitigation Plan updates. The rule will also provide an opportunity for States to apply cost savings from the reduction in State Mitigation Plan update frequency to other means of increasing resilience and reducing the Nation's risk to natural hazards. </P>
+                <HD SOURCE="HD3"> Significance Determination </HD>
+                <P>Executive Orders 13563 and 12866 direct agencies to assess the costs and benefits of available regulatory alternatives and, if regulation is necessary, to select regulatory approaches that maximize net benefits (including potential economic, environmental, public health and safety effects, distributive impacts, and equity). Executive Order 13563 emphasizes the importance of quantifying both costs and benefits, of reducing costs, of harmonizing rules, and of promoting flexibility. This rule has not been designated a âsignificant regulatory action,â under section 3(f) of Executive Order 12866. Accordingly, the Office of Management and Budget has not reviewed this rule. </P>
+                <P>The rule is estimated to have a net quantified undiscounted savings to society of approximately $30 million over 15 years. The annual impact of this rule is an estimated net quantified savings to society of approximately $2 million undiscounted ($1,999,083) and $2.06 million annualized at 7 percent. </P>
+                <HD SOURCE="HD3">Retrospective Review </HD>
+                <P>To facilitate the periodic review of existing significant regulations, Executive Order 13563 requires agencies to consider how best to promote retrospective analysis of rules that may be outmoded, ineffective, insufficient, or excessively burdensome, and to modify, streamline, expand, or repeal them in accordance with what has been learned. The Executive Order requires agencies to issue a retrospective review plan, consistent with law and the agency's resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified, streamlined, expanded, or repealed so as to make the agency's regulatory program more effective or less burdensome in achieving the regulatory objectives. </P>
+                <P>
+                    DHS issued its âFinal Plan for the Retrospective Review of Existing Regulationsâ (Plan) on August 22, 2011. The Plan can be found on the DHS Open Government Web site at 
+                    <E T="03">http://www.dhs.gov/xlibrary/assets/dhs-ogc-final-retrospective-review-plan-8-22-11-final.pdf.</E>
+                     DHS originally included this rule in the Plan as a long-term retrospective review candidate, meaning the agency would undertake retrospective review of the regulation within 3 years of the date of the Plan. The Plan stated that FEMA would consider whether it would be more efficient to extend the review period to 5 years for each of the plans as requested by public commenters. DHS later moved this rule (1660-AA77) to its list of current retrospective review projects. 
+                </P>
+                <P>
+                    DHS publishes periodic updates on the progress of its retrospective review efforts. DHS published its most recent update, âDHS Retrospective Review Plan Report,â in January 2014. That update can be found on the DHS Open Government Web site at 
+                    <E T="03">http://www.dhs.gov/publication/dhs-january-2014-retrospective-review-plan-report</E>
+                    . 
+                </P>
+                <P>Review of FEMA's existing Mitigation Plan regulations revealed the potential for State cost savings, approximately $30 million over 15 years, as well as other benefits. Therefore, FEMA is extending the State Mitigation Plan minimum update frequency from 3 to 5 years. </P>
+                <HD SOURCE="HD2">B. Regulatory Flexibility Act </HD>
+                <P>Under the Regulatory Flexibility Act (5 U.S.C. 601-612), FEMA evaluated and considered whether this rule would have a significant economic impact on a substantial number of small entities. The term âsmall entitiesâ comprises small businesses, not-for-profit organizations that are independently owned and operated and are not dominant in their fields, and governmental jurisdictions with populations of less than 50,000. </P>
+                <P>In the March 1, 2013 NPRM, FEMA invited comments on the initial Regulatory Flexibility Act (RFA) determination. FEMA did not receive any comments regarding the RFA determination. As the Final Rule will not result in additional costs, FEMA does not anticipate that the rule will have a significant economic impact on a substantial number of small entities. </P>
+                <HD SOURCE="HD2">C. Unfunded Mandates Reform Act </HD>
+                <P>
+                    The Unfunded Mandates Reform Act of 1995, Public Law 104-4, 109 Stat. 48 (Mar. 22, 1995) (2 U.S.C. 1501 
+                    <E T="03">et seq.</E>
+                    ), requires Federal agencies to assess the effects of their discretionary regulatory actions that may result in the expenditure by a State, local, or Tribal government, in the aggregate, or by the private sector of $100,000,000 or more in any one year. As the Final Rule will not have an impact greater than $100,000,000 or more in any one year, it is not an unfunded Federal mandate. 
+                </P>
+                <HD SOURCE="HD2">D. Paperwork Reduction Act (PRA) of 1995 </HD>
+                <P>
+                    As required by the Paperwork Reduction Act of 1995 (PRA), Public Law 104-13, 109 Stat. 163, (May 22, 1995) (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    ), an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the collection of information displays a valid control number. 
+                </P>
+                <P>
+                    In this Final Rule, FEMA is seeking a revision to the already existing collection of information identified as OMB Control Number 1660-0062. This revision reflects the reduction in the annual cost burden to respondents or recordkeepers resulting from the Final Rule, as well as refinements to current estimates in 1660-0062 based on changes to the way cost burden is reported under the PRA. Annual cost burden was previously derived from multiplying total annual burden hours, based on subject matter expert average hour estimates per mitigation plan, by the associated wage rates. However, FEMA has refined how it calculates annual costs and now uses cost estimates based on historical mitigation plan grant data, which includes contract support and other associated costs. This Final Rule serves as the 30-day comment period for this change 
+                    <PRTPAGE P="22880"/>
+                    pursuant to 5 CFR 1320.12. FEMA invites the general public to comment on the collection of information. 
+                </P>
+                <HD SOURCE="HD3">Collection of Information </HD>
+                <P>
+                    <E T="03">Title:</E>
+                     State/Local/Tribal Hazard Mitigation Plans. 
+                </P>
+                <P>
+                    <E T="03">Type of information collection:</E>
+                     Revision of a currently approved collection. 
+                </P>
+                <P>
+                    <E T="03">OMB Number:</E>
+                     1660-0062. 
+                </P>
+                <P>
+                    <E T="03">Form Titles and Numbers:</E>
+                     None. 
+                </P>
+                <P>
+                    <E T="03">Abstract:</E>
+                     The purpose of State, Local, and Tribal Hazard Mitigation Plan requirements is to support the FEMA Mitigation grant programs, and a significant State, local, and Tribal commitment to mitigation activities, comprehensive mitigation planning, and strong program management. Implementation of planned, pre-identified cost-effective mitigation measures will streamline the disaster recovery process. Mitigation plans are the demonstration of the goals and priority to reduce risks from natural hazards. This Final Rule revises FEMA Mitigation Planning regulations in order to reduce the frequency that respondents submit Standard State and Enhanced State Mitigation Plan updates from 3 to 5 years. This change in frequency will reduce 8,899 burden hours on the public and save $1,350,580 annually in respondent burden costs. Due to the change in reporting methods described above, the base line numbers have changed, resulting in an overall increase in the estimated total annual cost. This impact is separate from the effect of the Final Rule. 
+                </P>
+                <P>
+                    <E T="03">Affected Public:</E>
+                     State, local, or Tribal Governments. 
+                </P>
+                <P>
+                    <E T="03">Estimated Number of Respondents:</E>
+                     56 States submit State Mitigation Plan updates to FEMA. (There are 56 States, per the definition of State at 44 CFR 201.2.) In addition, those 56 States also review and submit Local and Tribal Mitigation Plans and plan updates to FEMA. 
+                </P>
+                <P>
+                    <E T="03">Estimated Total Annual Burden Hours:</E>
+                     227,366 hours. 
+                </P>
+                <P>The previously approved Total Annual Burden Hours was 768,320 hours. Based on adjustments to how this burden was estimated (see Information Collection Request for details) and the rule's reduction in burden, the new estimated Total Annual Burden Hours is 227,366 hours. This is a decrease of 540,954 hours, of which approximately 8,899 hours are attributed to the change in State Mitigation Plan update frequency. However, some of the burden hours previously accounted for likely reflected some of the costs, including contract support, now included in the separately-reported categories under total annual cost burden. </P>
+                <P>Table 3 provides estimates of annualized cost to respondents for the hour burdens for the collection of information. </P>
+                <GPOTABLE COLS="9" OPTS="L2,i1" CDEF="s50,r50,12,11.1,12,8,8,8,10">
+                    <TTITLE>Table 3 </TTITLE>
+                    <BOXHD>
+                        <CHED H="1">
+                            Type of
+                            <LI>respondent </LI>
+                        </CHED>
+                        <CHED H="1">Form name/form number </CHED>
+                        <CHED H="1">
+                            Number of
+                            <LI>respondents </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Number of
+                            <LI>responses per</LI>
+                            <LI>
+                                respondentâ
+                                <SU>1</SU>
+                            </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Total number of responsesâ
+                            <SU>2</SU>
+                        </CHED>
+                        <CHED H="1">
+                            Average burden per
+                            <LI>response</LI>
+                            <LI>(hours) </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Total
+                            <LI>annual</LI>
+                            <LI>burden</LI>
+                            <LI>(hours) </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Average hourly wage rateâ
+                            <SU>3</SU>
+                        </CHED>
+                        <CHED H="1">
+                            Total annual respondent costâ
+                            <SU>4</SU>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Local or Tribal Government </ENT>
+                        <ENT>New Local and Tribal Plans </ENT>
+                        <ENT>56 </ENT>
+                        <ENT>5 </ENT>
+                        <ENT>280 </ENT>
+                        <ENT>289 </ENT>
+                        <ENT>80,920 </ENT>
+                        <ENT>$45.33 </ENT>
+                        <ENT>$3,668,104 </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Local or Tribal Government </ENT>
+                        <ENT>Local and Tribal Plan Updates </ENT>
+                        <ENT>56 </ENT>
+                        <ENT>9 </ENT>
+                        <ENT>504 </ENT>
+                        <ENT>249 </ENT>
+                        <ENT>125,496 </ENT>
+                        <ENT>45.33 </ENT>
+                        <ENT>5,688,734 </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">State Government </ENT>
+                        <ENT>State Review of Local and Tribal Plans </ENT>
+                        <ENT>56 </ENT>
+                        <ENT>14 </ENT>
+                        <ENT>784 </ENT>
+                        <ENT>8 </ENT>
+                        <ENT>6,272 </ENT>
+                        <ENT>45.33 </ENT>
+                        <ENT>284,310 </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">State Government </ENT>
+                        <ENT>Standard State Plan Updates </ENT>
+                        <ENT>46 </ENT>
+                        <ENT>0.2 </ENT>
+                        <ENT>9 </ENT>
+                        <ENT>1,040 </ENT>
+                        <ENT>9,360 </ENT>
+                        <ENT>45.33 </ENT>
+                        <ENT>424,289 </ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">State Government </ENT>
+                        <ENT>Enhanced State Plan Updates </ENT>
+                        <ENT>10 </ENT>
+                        <ENT>0.2 </ENT>
+                        <ENT>2 </ENT>
+                        <ENT>2,659 </ENT>
+                        <ENT>5,318 </ENT>
+                        <ENT>45.33 </ENT>
+                        <ENT>241,065 </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Total </ENT>
+                        <ENT/>
+                        <ENT>56 </ENT>
+                        <ENT/>
+                        <ENT>1,579 </ENT>
+                        <ENT/>
+                        <ENT>227,366 </ENT>
+                        <ENT/>
+                        <ENT>10,306,502 </ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>1</SU>
+                        âStandard State Plan Updates and Enhanced State Plan Updates Number of Responses per Respondent represents an annual average over 5 years (1 plan update/5 years = 0.2). 
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>2</SU>
+                        âStandard State Plan Updates Total Number of Responses is rounded to the nearest plan. 
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>3</SU>
+                        âThe âAvg. Hourly Wage Rateâ for each respondent includes a 1.4 multiplier to reflect a loaded wage rate and rounded to the nearest cent. 
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>4</SU>
+                        âRounded to the nearest dollar. 
+                    </TNOTE>
+                </GPOTABLE>
+                <P>
+                    <E T="03">Estimated Total Annual Cost:</E>
+                     $33,532,730. 
+                </P>
+                <P>The previously approved Total Annual Cost was $33,452,652. Based on adjustments to how this cost was estimated (see Information Collection Request for details) and the rule's reduction in cost, the new estimated Total Annual Cost is $33,532,730. This is an increase of $80,078. This includes a $1,350,580 reduction in cost attributed to the change in State Mitigation Plan update frequency. </P>
+                <P>
+                    Table 4 provides estimates of total annual cost burden to respondents or recordkeepers resulting from the collection of information. 
+                    <PRTPAGE P="22881"/>
+                </P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,14,14,14,14">
+                    <TTITLE>Table 4 </TTITLE>
+                    <BOXHD>
+                        <CHED H="1">
+                            Data collection activity/
+                            <LI>instrument </LI>
+                        </CHED>
+                        <CHED H="1">
+                            *âAnnual capital start-up cost
+                            <LI>(investments in overhead,</LI>
+                            <LI>equipment and other one-time expenditures) </LI>
+                        </CHED>
+                        <CHED H="1">
+                            *âAnnual
+                            <LI>operations and</LI>
+                            <LI>maintenance cost</LI>
+                            <LI>(such as</LI>
+                            <LI>recordkeeping,</LI>
+                            <LI>technical/professional services, etc.) </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Annual non-labor cost
+                            <LI>(expenditures on training, travel and other</LI>
+                            <LI>resources) </LI>
+                        </CHED>
+                        <CHED H="1">Total annual cost to respondents </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Development of New Local and Tribal Plans </ENT>
+                        <ENT>$12,289,200 </ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT>$12,289,200 </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Local and Tribal Plan Updates </ENT>
+                        <ENT/>
+                        <ENT>$16,299,360 </ENT>
+                        <ENT>$2,716,560 </ENT>
+                        <ENT>19,015,920 </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">State Review of Local and Tribal Plans </ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT/>
+                        <ENT>0 </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Standard State Mitigation Plan Updates </ENT>
+                        <ENT/>
+                        <ENT>1,217,700 </ENT>
+                        <ENT>202,950 </ENT>
+                        <ENT>1,420,650 </ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Enhanced State Mitigation Plan Updates </ENT>
+                        <ENT/>
+                        <ENT>691,680 </ENT>
+                        <ENT>115,280 </ENT>
+                        <ENT>806,960 </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Total </ENT>
+                        <ENT>12,289,200 </ENT>
+                        <ENT>18,208,740 </ENT>
+                        <ENT>3,034,790 </ENT>
+                        <ENT>33,532,730 </ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    <E T="03">Overall Estimated Total Cost:</E>
+                     $43,839,232. 
+                </P>
+                <P>The overall estimated cost of this collection is $43,839,232 ($10,306,502 + $33,532,730). This is an increase of $10,386,580 ($33,452,652â$43,839,232) from the currently approved OMB inventory. </P>
+                <HD SOURCE="HD2">E. National Environmental Policy Act (NEPA) of 1969 </HD>
+                <P>
+                    Section 102 of the National Environmental Policy Act of 1969 (NEPA), Public Law 91-190, 83 Stat. 852 (Jan. 1, 1970) (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ) requires agencies to consider the impacts in their decision-making on the quality of the human environment. The Council on Environmental Quality's procedures for implementing NEPA, 40 CFR 1500 
+                    <E T="03">et seq.,</E>
+                     require Federal agencies to prepare Environmental Impact Statements (EIS) for major federal actions significantly affecting the quality of the human environment. Each agency can develop categorical exclusions to cover actions that typically do not trigger significant impacts to the human environment individually or cumulatively. Agencies develop environmental assessments (EA) to evaluate those actions that do not fit an agency's categorical exclusion and for which the need for an EIS is not readily apparent. At the end of the EA process the agency will determine whether to make a Finding of No Significant Impact or whether to initiate the EIS process. 
+                </P>
+                <P>
+                    Rulemaking is a major federal action subject to NEPA. The 
+                    <E T="03">List of exclusion categories</E>
+                     at 44 CFR 10.8(d)(2)(ii) excludes the preparation, revision, and adoption of regulations from the preparation of an EA or EIS, where the rule relates to actions that qualify for categorical exclusions. The development of plans under 44 CFR part 201 is categorically excluded under 44 CFR 10.8(d)(2)(iii) and (xviii)(E). No extraordinary circumstances exist that will trigger the need to develop an EA or EIS. See 44 CFR 10.8(d)(3). An EA will not be prepared because a categorical exclusion applies to this rulemaking action and no extraordinary circumstances exist. 
+                </P>
+                <HD SOURCE="HD2">F. Executive Order 13175, Consultation and Coordination With Indian Tribal Governments </HD>
+                <P>Executive Order 13175, âConsultation and Coordination With Indian Tribal Governments,â 65 FR 67249, November 9, 2000, applies to agency regulations that have Tribal implications, that is, regulations that have substantial direct effects on one or more Indian tribes, on the relationship between the Federal Government and Indian Tribes, or on the distribution of power and responsibilities between the Federal Government and Indian Tribes. Under this Executive Order, to the extent practicable and permitted by law, no agency shall promulgate any regulation that has Tribal implications, that imposes substantial direct compliance costs on Indian Tribal governments, and that is not required by statute, unless funds necessary to pay the direct costs incurred by the Indian Tribal government or the Tribe in complying with the regulation are provided by the Federal Government, or the agency consults with Tribal officials. </P>
+                <P>This Final Rule revises FEMA's Mitigation Planning regulations in order to reduce the frequency of Standard State and Enhanced State Mitigation Plan updates from 3 to 5 years. Tribal Mitigation Plan updates are already required every 5 years; however, in accordance with 44 CFR 201.3(e)(3), Indian Tribal governments are potentially eligible to act as grantee and qualify for increased HMGP funding by submitting an Enhanced Mitigation Plan. Indian Tribal governments that wish to submit an Enhanced Mitigation Plan are required to update that plan every 3 years; the Final Rule will reduce that frequency to every 5 years. For these reasons, this rule may have âtribal implicationsâ as defined in the Executive Order. Submission of the plan, however, is voluntary, and changing the frequency of the plan from 3 to 5 years will not impose direct compliance costs on Indian Tribal governments. Therefore, FEMA finds that this Final Rule complies with Executive Order 13175. </P>
+                <HD SOURCE="HD2">G. Executive Order 13132, Federalism </HD>
+                <P>A rule has implications for federalism under Executive Order 13132, âFederalismâ (64 FR 43255, Aug. 10, 1999), if it has a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Under this Executive Order, to the extent practicable and permitted by law, no agency shall promulgate any regulation that has federalism implications, that imposes substantial direct compliance costs on State and local governments, and that is not required by statute, unless funds necessary to pay the direct costs incurred by the State and local governments in complying with the regulation are provided by the Federal Government, or the agency consults with State and local officials. FEMA has analyzed this Final Rule under the Executive Order and determined that it does not have implications for federalism. </P>
+                <P>
+                    This Final Rule revises FEMA's Mitigation Planning regulations in order to reduce the frequency of Standard State and Enhanced State Mitigation Plan updates, extending the update requirement from 3 to 5 years. FEMA has received substantial input requesting that FEMA change its Mitigation Planning regulations to 
+                    <PRTPAGE P="22882"/>
+                    reduce the frequency of Standard State and Enhanced State Mitigation Plan updates. Some of those requests have come from State officials. 
+                </P>
+                <P>The Standard State and Enhanced State Mitigation Plan updates are voluntarily submitted by States. Per DMA 2000, Mitigation Plans are a condition of receipt of increased Federal funding for hazard mitigation measures. If a State chooses not to comply with the regulations in 44 CFR part 201, it still will be eligible for limited emergency assistance under the Stafford Act. (See 42 U.S.C. 5170a, 5170b, 5173, 5174, 5177, 5179, 5180, 5182, 5183, 5184, and 5192). </P>
+                <HD SOURCE="HD2">H. Executive Order 12630, Taking of Private Property </HD>
+                <P>This rule will not effect a taking of private property or otherwise have taking implications under Executive Order 12630, âGovernmental Actions and Interference With Constitutionally Protected Property Rightsâ (53 FR 8859, Mar. 18, 1988). </P>
+                <HD SOURCE="HD2">I. Executive Order 12898, Environmental Justice </HD>
+                <P>Under Executive Order 12898, as amended, âFederal Actions To Address Environmental Justice in Minority Populations and Low-Income Populationsâ (59 FR 7629, Feb. 16, 1994), FEMA incorporates environmental justice into its policies and programs. Executive Order 12898 requires each Federal agency to conduct its programs, policies, and activities that substantially affect human health or the environment, in a manner that ensures that those programs, policies, and activities do not have the effect of excluding persons from participation in, denying persons the benefit of, or subjecting persons to discrimination because of their race, color, or national origin or income level. </P>
+                <P>This rule relates to the implementation of section 322 of the Stafford Act (42 U.S.C. 5165). Section 322 focuses specifically on mitigation planning to identify the natural hazards, risks, and vulnerabilities of areas in States, localities, and Tribal areas; development of Local Mitigation Plans; technical assistance to local and Tribal governments for mitigation planning; and identifying and prioritizing mitigation actions that the State will support as resources become available. The reduction in burden from the update frequency may allow States to focus on implementing additional mitigation actions identified through the planning process as a means to increase resilience and reduce the Nation's risk to natural hazards; thereby also protecting human lives and the environment. No action that FEMA can anticipate under this rule will have a disproportionately high and adverse human health or environmental effect on any segment of the population. </P>
+                <HD SOURCE="HD2"> J. Executive Order 12988, Civil Justice Reform </HD>
+                <P>This Final Rule meets applicable standards in sections 3(a) and 3(b)(2) of Executive Order 12988, âCivil Justice Reformâ (61 FR 4729, Feb. 7, 1996), to minimize litigation, eliminate ambiguity, and reduce burden in the federal court system. </P>
+                <HD SOURCE="HD2">K. Executive Order 13045, Protection of Children From Environmental Health Risks and Safety Risks </HD>
+                <P>This Final Rule will not create environmental health risks or safety risks for children under Executive Order 13045, âProtection of Children From Environmental Health Risks and Safety Risksâ (62 FR 19885, Apr. 23, 1997). </P>
+                <HD SOURCE="HD2">L. Executive Order 11988, Floodplain Management </HD>
+                <P>FEMA has prepared and reviewed this rule under the provisions of Executive Order 11988, as amended, âFloodplain Managementâ (42 FR 26951, May 25, 1977). The regulations at 44 CFR part 9 set forth FEMA's policy, procedures, and responsibilities in implementing this Executive Order. In summary, these are, to the greatest possible degree: to avoid long and short term adverse impacts associated with the occupancy and modification of floodplains; avoid direct and indirect support of floodplain development whenever there is a practical alternative; reduce the risk of flood loss; promote the use of nonstructural flood protection methods to reduce the risk of flood loss; minimize the impacts of floods on human health, safety and welfare; restore and preserve the natural and beneficial values served by floodplains; and adhere to the objectives of the Unified National Program for Floodplain Management. </P>
+                <P>As stated in the preamble, the planning process provides a link between State, Tribal and local mitigation programs. Both State level and local plans should address strategies for incorporating post-disaster early mitigation implementation strategies and sustainable recovery actions. FEMA also recognizes that governments are involved in a range of planning activities and that mitigation plans may be linked to or reference comprehensive plans, land use plans, master plans, and other non-natural hazard plans. Improved mitigation planning will result in a better understanding of risks and vulnerabilities, as well as expediting implementation of measures and activities to reduce those risks, both pre- and post-disaster. This Final Rule revises FEMA's Mitigation Planning regulations in order to reduce the frequency of Standard State and Enhanced State Mitigation Plan updates by extending the update requirement from 3 to 5 years. The change aligns the State update requirements with local and Tribal Mitigation Plan update requirements, which does not conflict with the intent of the Executive Order. </P>
+                <HD SOURCE="HD2">M. Congressional Review Act </HD>
+                <P>FEMA has sent this Final Rule to the Congress and to the Government Accountability Office under the Congressional Review of Agency Rulemaking Act, (âCongressional Review Actâ), Public Law 104-121, 110 Stat. 873 (Mar. 29, 1996) (5 U.S.C. 804). This rule is not a âmajor ruleâ within the meaning of the Congressional Review Act. </P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 44 CFR Part 201 </HD>
+                    <P>Administrative practice and procedure, Disaster assistance, Grant programs, and Reporting and recordkeeping requirements. </P>
+                </LSTSUB>
+                <P>For the reasons set forth in the preamble, amend part 201 of title 44 of the Code of Federal Regulations as follows: </P>
+                <REGTEXT TITLE="44" PART="201">
+                    <PART>
+                        <HD SOURCE="HED">PART 201âMITIGATION PLANNING </HD>
+                    </PART>
+                    <AMDPAR>1. The authority citation for part 201 continues to read as follows: </AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P>Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5121 through 5207; Reorganization Plan No. 3 of 1978, 43 FR 41943, 3 CFR, 1978 Comp., p. 329; Homeland Security Act of 2002, 6 U.S.C. 101; E.O. 12127, 44 FR 19367, 3 CFR, 1979 Comp., p. 376; E.O. 12148, 44 FR 43239, 3 CFR, 1979 Comp., p. 412; E.O. 13286, 68 FR 10619, 3 CFR, 2003 Comp., p. 166. </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="44" PART="201">
+                    <AMDPAR>2. In Â§â201.3, revise paragraphs (b)(5), (c)(2), and (c)(3), and the second sentence of paragraph (e)(3) to read as follows: </AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â201.3</SECTNO>
+                        <SUBJECT>Responsibilities. </SUBJECT>
+                        <STARS/>
+                        <P>(b)  * * * </P>
+                        <P>
+                            (5) Conduct reviews, at least once every 5 years, of State mitigation activities, plans, and programs to ensure that mitigation commitments are fulfilled, and when necessary, take action, including recovery of funds or denial of future funds, if mitigation commitments are not fulfilled. 
+                            <PRTPAGE P="22883"/>
+                        </P>
+                        <P>(c) * * * </P>
+                        <P>(2) In order to be considered for the 20 percent HMGP funding, prepare and submit an Enhanced State Mitigation Plan in accordance with Â§â201.5, which must be reviewed and updated, if necessary, every 5 years from the date of the approval of the previous plan. </P>
+                        <P>(3) At a minimum, review and update the Standard State Mitigation Plan every 5 years from the date of the approval of the previous plan in order to continue program eligibility. </P>
+                        <STARS/>
+                        <P>(e) * * * </P>
+                        <P>(3) * * * The plan must be reviewed and updated at least every 5 years from the date of approval of the previous plan. </P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="44" PART="201">
+                    <AMDPAR>3. In Â§â201.4, revise the first sentence of paragraph (d) to read as follows: </AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â201.4</SECTNO>
+                        <SUBJECT>Standard State Mitigation Plans. </SUBJECT>
+                        <STARS/>
+                        <P>(d) * * * Plan must be reviewed and revised to reflect changes in development, progress in statewide mitigation efforts, and changes in priorities and resubmitted for approval to the appropriate Regional Administrator every 5 years. * * * </P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="44" PART="201">
+                    <AMDPAR>4. In Â§â201.5, revise the third sentence of paragraph (a), revise the first sentence of paragraph (c)(1), and revise (c)(2) to read as follows: </AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â201.5</SECTNO>
+                        <SUBJECT>Enhanced State Mitigation Plans. </SUBJECT>
+                        <P>(a) * * * In order for the State to be eligible for the 20 percent HMGP funding, FEMA must have approved the plan within 5 years prior to the disaster declaration. </P>
+                        <STARS/>
+                        <P>(c) * * * </P>
+                        <P>(1) A State must review and revise its plan to reflect changes in development, progress in statewide mitigation efforts, and changes in priorities, and resubmit it for approval to the appropriate Regional Administrator every 5 years. * * * </P>
+                        <P>(2) In order for a State to be eligible for the 20 percent HMGP funding, the Enhanced State Mitigation plan must be approved by FEMA within the 5 years prior to the current major disaster declaration. </P>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <DATED>Dated: April 17, 2014. </DATED>
+                    <NAME>W. Craig Fugate, </NAME>
+                    <TITLE>Administrator, Federal Emergency Management Agency. </TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2014-09461 Filed 4-24-14; 8:45 am] </FRDOC>
+            <BILCOD>BILLING CODE 9111-66-P </BILCOD>
+        </RULE>

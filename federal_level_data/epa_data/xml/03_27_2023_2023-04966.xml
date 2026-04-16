@@ -1,0 +1,1046 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">ENVIRONMENTAL PROTECTION AGENCY</AGENCY>
+                <CFR>40 CFR Part 60</CFR>
+                <DEPDOC>[EPA-HQ-OAR-2021-0200; FRL-8515-01-OAR]</DEPDOC>
+                <RIN>RIN 2060-AV23</RIN>
+                <SUBJECT>New Source Performance Standards Review for Industrial Surface Coating of Plastic Parts for Business Machines</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Environmental Protection Agency (EPA).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Environmental Protection Agency (EPA) is finalizing amendments to the new source performance standards for Industrial Surface Coating of Plastic Parts for Business Machines pursuant to the review required by the Clean Air Act. For affected facilities that commence construction, modification, or reconstruction after June 21, 2022, the EPA is, in a new subpart, finalizing volatile organic compound (VOC) emission limitations for prime, color, texture, and touch-up coating operations. We are also finalizing a requirement for electronic submission of periodic compliance reports.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This final rule is effective on March 27, 2023. The incorporation by reference of certain publications listed in the rule is approved by the Director of the Federal Register as of March 27, 2023.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The EPA has established a docket for this action under Docket ID No. EPA-HQ-OAR-2021-0200. All documents in the docket are listed on the 
+                        <E T="03">https://www.regulations.gov/</E>
+                         website. Although listed, some information is not publicly available, 
+                        <E T="03">e.g.,</E>
+                         Confidential Business Information (CBI) or other information whose disclosure is restricted by statute. Certain other material, such as copyrighted material, is not placed on the internet and will be publicly available only in hard copy form. Publicly available docket materials are available electronically through 
+                        <E T="03">https://www.regulations.gov/.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Ms. Lisa Sutton, Minerals and Manufacturing Group, Sector Policies and Programs Division (D243-04), Office of Air Quality Planning and Standards, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina 27711; telephone number: (919) 541-3450; and email address: 
+                        <E T="03">sutton.lisa@epa.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <P>
+                    <E T="03">Preamble acronyms and abbreviations.</E>
+                     Throughout this document the use of âwe,â âus,â or âourâ is intended to refer to the EPA. We use multiple acronyms and terms in this preamble. While this list may not be exhaustive, to ease the reading of this preamble and for reference purposes, the EPA defines the following terms and acronyms here:
+                </P>
+                <EXTRACT>
+                    <FP SOURCE="FP-1">ANSIâAmerican National Standards Institute</FP>
+                    <FP SOURCE="FP-1">ASTMâASTM International</FP>
+                    <FP SOURCE="FP-1">BIDâbackground information document</FP>
+                    <FP SOURCE="FP-1">BSERâbest system of emission reduction</FP>
+                    <FP SOURCE="FP-1">CAAâClean Air Act</FP>
+                    <FP SOURCE="FP-1">CBIâConfidential Business Information</FP>
+                    <FP SOURCE="FP-1">CDXâCentral Data Exchange</FP>
+                    <FP SOURCE="FP-1">CEDRIâCompliance and Emissions Data Reporting Interface</FP>
+                    <FP SOURCE="FP-1">CFRâCode of Federal Regulations</FP>
+                    <FP SOURCE="FP-1">CTGâControl Techniques Guidelines document</FP>
+                    <FP SOURCE="FP-1">EJâenvironmental justice</FP>
+                    <FP SOURCE="FP-1">EPAâEnvironmental Protection Agency</FP>
+                    <FP SOURCE="FP-1">FRâFederal Register</FP>
+                    <FP SOURCE="FP-1">IBRâincorporate by reference</FP>
+                    <FP SOURCE="FP-1">ICRâinformation collection request</FP>
+                    <FP SOURCE="FP-1">kmâkilometer</FP>
+                    <FP SOURCE="FP-1">Mgâmegagram</FP>
+                    <FP SOURCE="FP-1">Mg/yrâmegagrams per year</FP>
+                    <FP SOURCE="FP-1">NAAQSâNational Ambient Air Quality Standards</FP>
+                    <FP SOURCE="FP-1">NAICSâNorth American Industry Classification System</FP>
+                    <FP SOURCE="FP-1">NSPSânew source performance standards</FP>
+                    <FP SOURCE="FP-1">NTTAAâNational Technology Transfer and Advancement</FP>
+                    <FP SOURCE="FP-1">OMBâOffice of Management and Budget</FP>
+                    <FP SOURCE="FP-1">PRAâPaperwork Reduction Act</FP>
+                    <FP SOURCE="FP-1">RFAâRegulatory Flexibility Act</FP>
+                    <FP SOURCE="FP-1">RINâRegulatory Information Number</FP>
+                    <FP SOURCE="FP-1">SICâstandard industrial classification</FP>
+                    <FP SOURCE="FP-1">SSMâstartup, shutdown, and malfunctions</FP>
+                    <FP SOURCE="FP-1">tpyâtons per year</FP>
+                    <FP SOURCE="FP-1">UMRAâUnfunded Mandates Reform Act</FP>
+                    <FP SOURCE="FP-1">U.S.C.âUnited States Code</FP>
+                    <FP SOURCE="FP-1">VCSâvoluntary consensus standard</FP>
+                    <FP SOURCE="FP-1">VOCâvolatile organic compound(s)</FP>
+                </EXTRACT>
+                <P>
+                    <E T="03">Organization of this document.</E>
+                     The information in this preamble is organized as follows:
+                </P>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. General Information</FP>
+                    <FP SOURCE="FP1-2">A. Does this action apply to me?</FP>
+                    <FP SOURCE="FP1-2">B. Where can I get a copy of this document and other related information?</FP>
+                    <FP SOURCE="FP1-2">C. Judicial Review and Administrative Review</FP>
+                    <FP SOURCE="FP-2">II. Background</FP>
+                    <FP SOURCE="FP1-2">A. What is the statutory authority for this final action?</FP>
+                    <FP SOURCE="FP1-2">
+                        B. How does the EPA perform the NSPS review?
+                        <PRTPAGE P="18057"/>
+                    </FP>
+                    <FP SOURCE="FP1-2">C. What is the source category regulated in this final action?</FP>
+                    <FP SOURCE="FP-2">III. What changes did we propose for the surface coating of plastic parts for business machines NSPS, and what actions are we finalizing and what is our rationale for such decisions?</FP>
+                    <FP SOURCE="FP1-2">A. Revised NSPS for Surface Coating of Plastic Parts for Business Machines</FP>
+                    <FP SOURCE="FP1-2">B. NSPS Subpart TTTa Without Startup, Shutdown, Malfunctions Exemptions</FP>
+                    <FP SOURCE="FP1-2">C. Testing and Monitoring Requirements</FP>
+                    <FP SOURCE="FP1-2">D. Electronic Reporting</FP>
+                    <FP SOURCE="FP1-2">E. Other Final Amendments</FP>
+                    <FP SOURCE="FP1-2">F. Effective Date and Compliance Dates</FP>
+                    <FP SOURCE="FP-2">IV. Summary of Cost, Environmental, and Economic Impacts</FP>
+                    <FP SOURCE="FP1-2">A. What are the air quality impacts?</FP>
+                    <FP SOURCE="FP1-2">B. What are the secondary impacts?</FP>
+                    <FP SOURCE="FP1-2">C. What are the cost impacts?</FP>
+                    <FP SOURCE="FP1-2">D. What are the economic impacts?</FP>
+                    <FP SOURCE="FP1-2">E. What are the benefits?</FP>
+                    <FP SOURCE="FP1-2">F. What analysis of environmental justice did we conduct?</FP>
+                    <FP SOURCE="FP-2">V. Statutory and Executive Order Reviews</FP>
+                    <FP SOURCE="FP1-2">A. Executive Order 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">B. Paperwork Reduction Act (PRA)</FP>
+                    <FP SOURCE="FP1-2">C. Regulatory Flexibility Act (RFA)</FP>
+                    <FP SOURCE="FP1-2">D. Unfunded Mandates Reform Act (UMRA)</FP>
+                    <FP SOURCE="FP1-2">E. Executive Order 13132: Federalism</FP>
+                    <FP SOURCE="FP1-2">F. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</FP>
+                    <FP SOURCE="FP1-2">G. Executive Order 13045: Protection of Children From Environmental Health Risks and Safety Risks</FP>
+                    <FP SOURCE="FP1-2">H. Executive Order 13211: Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use</FP>
+                    <FP SOURCE="FP1-2">I. National Technology Transfer and Advancement Act (NTTAA) and 1 CFR Part 51</FP>
+                    <FP SOURCE="FP1-2">J. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</FP>
+                    <FP SOURCE="FP1-2">K. Congressional Review Act (CRA)</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. General Information</HD>
+                <HD SOURCE="HD2">A. Does this action apply to me?</HD>
+                <P>
+                    The source category that is the subject of this final action is surface coating of plastic parts for business machines regulated under CAA section 111 New Source Performance Standards. The 2022 North American Industry Classification System (NAICS) code for the source category is 333310âCommercial and Service Industry Machinery Manufacturing. The NAICS code serves as a guide for readers outlining the type of entities that this final action is likely to affect. The new source performance standards (NSPS) codified in 40 CFR part 60, subpart TTTa, are directly applicable to affected facilities that begin construction, reconstruction, or modification after June 21, 2022, which is the date of publication of the proposed rule in the 
+                    <E T="04">Federal Register</E>
+                    . Final amendments to 40 CFR part 60, subpart TTT, are applicable to affected facilities that begin construction, reconstruction, or modification after January 8, 1986, but that begin construction, reconstruction, or modification no later than June 21, 2022. Federal, state, local, and tribal government entities would not be affected by this action. If you have any questions regarding the applicability of this action to a particular entity, you should carefully examine the applicability criteria found in 40 CFR part 60, subparts TTT and TTTa, and consult the person listed in the 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                     section of this preamble, your state air pollution control agency with delegated authority for NSPS, or your EPA Regional Office.
+                </P>
+                <HD SOURCE="HD2">B. Where can I get a copy of this document and other related information?</HD>
+                <P>
+                    In addition to being available in the docket, an electronic copy of this final action is available on the internet at 
+                    <E T="03">https://www.epa.gov/stationary-sources-air-pollution/surface-coating-plastic-parts-business-machines-industrial-surface.</E>
+                     Following publication in the 
+                    <E T="04">Federal Register</E>
+                    , the EPA will post the 
+                    <E T="04">Federal Register</E>
+                     version of the final rule and key technical documents at this same website.
+                </P>
+                <HD SOURCE="HD2">C. Judicial Review and Administrative Review</HD>
+                <P>Under Clean Air Act (CAA) section 307(b)(1), judicial review of this final action is available only by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit by May 26, 2023. Under CAA section 307(b)(2), the requirements established by this final rule may not be challenged separately in any civil or criminal proceedings brought by the EPA to enforce the requirements.</P>
+                <P>
+                    Section 307(d)(7)(B) of the CAA further provides that â[o]nly an objection to a rule or procedure which was raised with reasonable specificity during the period for public comment (including any public hearing) may be raised during judicial review.â This section also provides a mechanism for the EPA to convene a proceeding for reconsideration, â[i]f the person raising an objection can demonstrate to the EPA that it was impracticable to raise such objection within [the period for public comment] or if the grounds for such objection arose after the period for public comment, (but within the time specified for judicial review) and if such objection is of central relevance to the outcome of the rule.â Any person seeking to make such a demonstration to us should submit a Petition for Reconsideration to the Office of the Administrator, U.S. Environmental Protection Agency, Room 3000, WJC West Building, 1200 Pennsylvania Ave. NW, Washington, DC 20460, with a copy to both the person(s) listed in the preceding 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                     section, and the Associate General Counsel for the Air and Radiation Law Office, Office of General Counsel (Mail Code 2344A), U.S. Environmental Protection Agency, 1200 Pennsylvania Ave. NW, Washington, DC 20460.
+                </P>
+                <HD SOURCE="HD1">II. Background</HD>
+                <HD SOURCE="HD2">A. What is the statutory authority for this final action?</HD>
+                <P>The EPA's authority for this final rule is CAA section 111, which governs the establishment of standards of performance for stationary sources. Section 111(b)(1)(A) of the CAA requires the EPA Administrator to list categories of stationary sources that in the Administrator's judgment cause or contribute significantly to air pollution that may reasonably be anticipated to endanger public health or welfare. The EPA must then issue performance standards for new (and modified or reconstructed) sources in each source category pursuant to CAA section 111(b)(1)(B). These standards are referred to as new source performance standards, or NSPS. The EPA has the authority to define the scope of the source categories, determine the pollutants for which standards should be developed, set the emission level of the standards, and distinguish among classes, types, and sizes within categories in establishing the standards.</P>
+                <P>CAA section 111(b)(1)(B) requires the EPA to âat least every 8 years review and, if appropriate, reviseâ new source performance standards. However, the Administrator need not review any such standard if the âAdministrator determines that such review is not appropriate in light of readily available information on the efficacyâ of the standard. When conducting a review of an existing performance standard, the EPA has the discretion and authority to add emission limits for pollutants or emission sources not currently regulated for that source category.</P>
+                <P>
+                    In setting or revising a performance standard, CAA section 111(a)(1) provides that performance standards are to reflect âthe degree of emission limitation achievable through the application of the best system of 
+                    <PRTPAGE P="18058"/>
+                    emission reduction which (taking into account the cost of achieving such reduction and any nonair quality health and environmental impact and energy requirements) the Administrator determines has been adequately demonstrated.â The term âstandard of performanceâ in CAA section 111(a)(1) makes clear that the EPA is to determine both the best system of emission reduction (BSER) for the regulated sources in the source category and the degree of emission limitation achievable through application of the BSER. The EPA must then, under CAA section 111(b)(1)(B), promulgate standards of performance for new sources that reflect that level of stringency. CAA section 111(b)(5) precludes the EPA from prescribing a particular technological system that must be used to comply with a standard of performance. Rather, sources can select any measure or combination of measures that will achieve the standard.
+                </P>
+                <P>
+                    Pursuant to the definition of new source in CAA section 111(a)(2), standards of performance apply to facilities that begin construction, reconstruction, or modification after the date of publication of the proposed standards in the 
+                    <E T="04">Federal Register</E>
+                    . Under CAA section 111(a)(4), âmodificationâ means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted. Changes to an existing facility that do not result in an increase in emissions are not considered modifications. Under the provisions in 40 CFR 60.15, reconstruction means the replacement of components of an existing facility such that: (1) The fixed capital cost of the new components exceeds 50 percent of the fixed capital cost that would be required to construct a comparable entirely new facility; and (2) it is technologically and economically feasible to meet the applicable standards. Pursuant to CAA section 111(b)(1)(B), the standards of performance or revisions thereof shall become effective upon promulgation.
+                </P>
+                <HD SOURCE="HD2">B. How does the EPA perform the NSPS review?</HD>
+                <P>As noted in section II.A of this preamble, CAA section 111 requires the EPA, at least every 8 years to review and, if appropriate revise the standards of performance applicable to new, modified, and reconstructed sources. If the EPA revises the standards of performance, they must reflect the degree of emission limitation achievable through the application of the BSER considering the cost of achieving such reduction and any nonair quality health and environmental impact and energy requirements. CAA section 111(a)(1).</P>
+                <P>In reviewing an NSPS to determine whether it is âappropriateâ to revise the standards of performance, the EPA evaluates the statutory factors, which may include consideration of the following information:</P>
+                <P>â¢ Expected growth for the source category, including how many new facilities, reconstructions, and modifications may trigger NSPS in the future.</P>
+                <P>â¢ Pollution control measures, including advances in control technologies, process operations, design or efficiency improvements, or other systems of emission reduction, that are âadequately demonstratedâ in the regulated industry.</P>
+                <P>â¢ Available information from the implementation and enforcement of current requirements indicates that emission limitations and percent reductions beyond those required by the current standards are achieved in practice.</P>
+                <P>â¢ Costs (including capital and annual costs) associated with implementation of the available pollution control measures.</P>
+                <P>â¢ The amount of emission reductions achievable through application of such pollution control measures.</P>
+                <P>â¢ Any nonair quality health and environmental impact and energy requirements associated with those control measures.</P>
+                <P>In evaluating whether the cost of a particular system of emission reduction is reasonable, the EPA considers various costs associated with the particular air pollution control measure or a level of control, including capital costs and operating costs, and the emission reductions that the control measure or particular level of control can achieve. The Agency considers these costs in the context of the industry's overall capital expenditures and revenues. The Agency also considers cost-effectiveness analysis as a useful metric, and a means of evaluating whether a given control achieves emission reduction at a reasonable cost. A cost-effectiveness analysis allows comparisons of relative costs and outcomes (effects) of two or more options. In general, cost-effectiveness is a measure of the outcomes produced by resources spent. In the context of air pollution control options, cost effectiveness typically refers to the annualized cost of implementing an air pollution control option divided by the amount of pollutant reductions realized annually.</P>
+                <P>
+                    After the EPA evaluates the statutory factors, the EPA compares the various systems of emission reductions and determines which system is âbest,â and therefore represents the BSER. The EPA then establishes a standard of performance that reflects the degree of emission limitation achievable through the implementation of the BSER. In doing this analysis, the EPA can determine whether subcategorization is appropriate based on classes, types, and sizes of sources, and may identify a different BSER and establish different performance standards for each subcategory. The result of the analysis and BSER determination leads to standards of performance that apply to facilities that begin construction, reconstruction, or modification after the date of publication of the proposed standards in the 
+                    <E T="04">Federal Register</E>
+                    . Because the new source performance standards reflect the best system of emission reduction under conditions of proper operation and maintenance, in doing its review, the EPA also evaluates and determines the proper testing, monitoring, recordkeeping and reporting requirements needed to ensure compliance with the emission standards.
+                </P>
+                <HD SOURCE="HD2">C. What is this source category regulated in this final action?</HD>
+                <P>
+                    The surface coating of plastic parts for business machines was listed as a source category for regulation under section 111 of the CAA in 1986, based on the Administrator's determination that emissions from facilities that surface coat plastic business machine parts cause, or contribute significantly to, air pollution which may reasonably be anticipated to endanger public health or welfare. See 51 FR 869 (January 8, 1986). The EPA first promulgated new source performance standards for surface coating of plastic parts for business machines on January 29, 1988 (53 FR 2672) (1988 NSPS). These standards of performance are codified in 40 CFR part 60, subpart TTT, and are applicable to sources that commence construction, modification, or reconstruction after January 8, 1986. These standards of performance regulate VOC emissions from each type of coating used at each spray booth during each nominal 1-month period. Subsequent to promulgation of the NSPS, in 1988, the EPA issued a correction because of an inadvertent inclusion of delegable functions in the list of nondelegable functions in 40 CFR 60.726 (53 FR 19300, May 27, 1988). In 1989, the EPA issued a final rule (54 FR 25458, June 15, 1989) to clarify that electromagnetic interference and radio 
+                    <PRTPAGE P="18059"/>
+                    frequency interference (EMI/RFI) shielding coatings that are applied to the surface of plastic business machine parts to attenuate EMI/RFI signals were exempt from the regulation.
+                </P>
+                <P>
+                    In general, plastic parts are coated to provide color, texture, and protection, improve appearance and durability, attenuate EMI/RFI signals, and conceal mold lines and flaws. Examples of plastic parts specific to the coatings industry sector for the surface coating of plastic parts for business machines include plastic housings for electronic office equipment, such as computers and copy machines, and for medical equipment.
+                    <SU>1</SU>
+                    <FTREF/>
+                     Structural foam injection molding and straight injection molding are among predominant forming techniques used to manufacture plastic parts that are used in business machines. The surface coating of plastic parts for business machines may be performed within several industries, including business machine manufacturers, independent plastic molders and coaters, and âcoating onlyâ shops. Sources that perform surface coating of plastic parts for business machines include job shops that must accommodate a wide variety of coatings and wide range of part shapes.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âAlternative Control Techniques Document: Surface Coating of Automotive/Transportation and Business Machine Plastic Parts, EPA 453/R-94-017, February 1994, p. 2-1.
+                    </P>
+                </FTNT>
+                <P>
+                    In the 1986 NSPS proposal and the 1988 NSPS, the EPA identified the spray booth as the affected facility subject to subpart TTT. In the 1986 proposed NSPS, the EPA explained why the spray booth, a narrow and simple equipment grouping, was selected as the affected facility.
+                    <SU>2</SU>
+                    <FTREF/>
+                     The term âspray boothâ means the structure housing the spray application equipment and ancillary equipment associated with the enclosure. It includes not only the enclosure and ventilation system for spray coating but also the spray gun(s) and ancillary equipment such as pumps and hoses associated with the enclosure.
+                    <SU>3</SU>
+                    <FTREF/>
+                     The 1988 NSPS applies to these sources regardless of production capacity.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âProposed rule, âStandards of Performance for New Stationary Sources: Industrial Surface Coating; Plastic Parts for Business Machinesâ (51 FR 854, January 8, 1986) (1986 proposed NSPS) at 862 and 863.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        â1986 proposed NSPS, 51 FR 854 at 855 and 862.
+                    </P>
+                </FTNT>
+                <P>
+                    As used in the affected facility (spray booth), the types of coatings subject to VOC emission limits in the 1988 NSPS include prime coats, color coats, texture coats, and touch-up coats. The VOC emission sources covered in the 1988 NSPS are: (1) the spray booths; (2) the flash-off areas; and (3) the curing ovens.
+                    <SU>4</SU>
+                    <FTREF/>
+                     According to the regulation at 40 CFR 60.722(b), all VOC emissions that are caused by coatings applied in each affected facility, regardless of the actual point of discharge of emissions into the atmosphere, shall be included in determining compliance with the emission limits. Thus, as the EPA explained in the 1988 NSPS, VOC emissions from the flash-off area and oven are covered by the standards on the basis that the coatings application that takes place in the spray booth is the cause of VOC emissions from the flash-off area and oven.
+                    <SU>5</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âIn this source category, approximately 80 percent of the emissions occur in the spray booths, 10 percent occur in the flash-off areas, and 10 percent occur in the ovens (1986 proposed NSPS, 51 FR 854 at 858 and 863).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        â53 FR 2672 at 2674.
+                    </P>
+                </FTNT>
+                <P>
+                    Typically, a plastic part is surface coated in a spray booth that houses either automatic or manual spray application equipment (one or more spray guns). After being coated, the part is moved, whether manually or by conveyor, to a flash-off area and then to a curing oven. The purpose of the flash-off area is to allow sufficient time for some portion of the solvents from a newly applied coating to evaporate, sometimes between coats, because the coating may not dry correctly unless it is given the recommended flash time. The flash-off area is usually very large and not enclosed, and indoor VOC concentrations resulting from flash-off are typically reduced by dilution ventilation for worker safety.
+                    <SU>6</SU>
+                    <FTREF/>
+                     Whether a batch oven or a conveyor oven, the curing oven applies enough heat to the newly coated part to create a chemical reaction that stabilizes the newly applied coating. For surface coating of plastic parts for business machines, coatings are typically cured at a relatively low temperature, near 60 degrees Celsius (140 degrees Fahrenheit).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        â1986 proposed NSPS, 51 FR 854 at 858 and 863.
+                    </P>
+                </FTNT>
+                <P>
+                    Regardless of the type of coating in use at a facility that surface coats plastic parts for business machines, approximately 80 percent of total VOC emissions occur in the spray booth. Most of the solvent-laden air in these facilities comes from the spray booth and flash-off areas, and the concentration of VOC in that air is very low because it must be diluted to protect workers from breathing harmful levels of organic solvents. The Occupational Safety and Health Administration (OSHA) has specific requirements for the design and construction of spray booths (see 29 CFR 1910.107(b)) and requires a minimum velocity of air into all openings of a spray booth (see 29 CFR 1910.94(c)(6), table G-10). An induced air flow is maintained in a spray booth not only to keep solvent concentrations at a safe level but also to remove overspray in order to minimize contamination. The VOC from these areas can be captured and ducted to a control device, but the high volume of air and low concentration of VOC make this a costly method of control. For example, the cost of using a thermal incinerator with primary heat recovery to control VOC emissions from the spray booths and flash-off areas for a medium-sized model plant was estimated in the EPA's 1985 document titled 
+                    <E T="03">Surface Coating of Plastic Parts for Business MachinesâBackground Information for Proposed Standards,</E>
+                     EPA-450/3-85-019a, December 1985 (1985 BID), available in the docket for this action, to be $11,000 to $21,000 per megagram (Mg) ($10,000 to $19,000 per ton) of VOC controlled, in 1985 dollars.
+                    <SU>7</SU>
+                    <FTREF/>
+                     The specific cost depends in part on the booth ventilation rate.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        â1985 BID, p. 4-14.
+                    </P>
+                </FTNT>
+                <P>The EPA proposed the current review of the surface coating of plastic parts for business machines NSPS subpart TTT on June 21, 2022. No comments were received on the proposed revisions associated with the NSPS review, so the EPA is finalizing these amendments as proposed, as follows: Specific to affected facilities that commence construction, modification, or reconstruction after June 21, 2022, the EPA is, in a new subpart TTTa, finalizing the proposed volatile organic compound (VOC) emission limitations for prime, color, texture, and touch-up coating operations. We are also finalizing in subparts TTTa and TTT the proposed requirements for electronic submission of periodic compliance reports. For the new subpart TTTa, which is specific to affected facilities that are constructed, modified, or reconstructed after June 21, 2022, the EPA estimates that over the next 8 years following this final rule, no affected facilities will be new, modified, or reconstructed that perform surface coating of plastic parts for business machines.</P>
+                <HD SOURCE="HD1">III. What changes did we propose for the surface coating of plastic parts for business machines NSPS, and what actions are we finalizing and what is our rationale for such decisions?</HD>
+                <P>
+                    On June 21, 2022 (87 FR 36796), the EPA proposed to amend NSPS subpart TTT and add a new NSPS subpart TTTa for the surface coating of plastic parts for business machines. In that action, 
+                    <PRTPAGE P="18060"/>
+                    we proposed revised emission limit requirements for new, modified, and reconstructed sources in 40 CFR part 60, subpart TTTa. We also proposed testing, recordkeeping, and reporting requirements associated with 40 CFR part 60, subpart TTTa, that include the requirement for electronic submittal of reports. Further, we proposed changes to the reporting requirements associated with 40 CFR part 60, subpart TTT, by including the requirement for electronic submittal of reports.
+                </P>
+                <P>The EPA is finalizing the proposed revisions to the NSPS for Surface Coating of Plastic Parts for Business Machines pursuant to the CAA section 111(b)(1)(B) review. The EPA is promulgating NSPS revisions in a new subpart, 40 CFR part 60, subpart TTTa. The revised NSPS subpart is applicable to affected sources constructed, modified, or reconstructed after June 21, 2022.The standards of performance in subpart TTTa apply at all times including during periods of startup, shutdown, and malfunction (SSM).</P>
+                <P>The EPA is also finalizing the proposed revisions to NSPS subpart TTT, which applies to affected sources that are constructed, modified, or reconstructed after January 8, 1986, but that are constructed, modified, or reconstructed no later than June 21, 2022. With these changes, NSPS subpart TTT requires electronic reporting, provides an updated definition of âbusiness machine,â and makes new voluntary consensus standards (VCS) available for use as alternatives to EPA Method 24 for industrial surface coating of plastic parts for business machines. These same changes are reflected in new subpart TTTa.</P>
+                <P>No comments were received on these changes, so the EPA is finalizing these amendments as proposed.</P>
+                <HD SOURCE="HD2">A. Revised NSPS for Surface Coating of Plastic Parts for Business Machines</HD>
+                <P>In its BSER review in the proposed rule, the EPA proposed to determine that a combination of coating formulation and efficiency in application technology represents the updated BSER for surface coating of plastic parts for business machines. Additionally, the EPA proposed to determine that the 2008 Control Techniques Guidelines document's (CTG) VOC emission limits for primer, topcoat, texture coat, and touch-up and repair, which are more stringent than the current NSPS subpart TTT emission limits, represent the degree of emission limitation achievable through application of the updated BSER.</P>
+                <P>To make this determination, the EPA compared costs and emission reductions for three regulatory options with a baseline of the requirements in the 1988 NSPS subpart TTT. This analysis utilized a representative coating limit for VOC for each of the three regulatory options and estimated the per-facility VOC emission reduction and the cost effectiveness in dollars per ton of VOC reduced for each option. The CTG-based option was found to represent the BSER because it was the most cost effective of the three regulatory options and has been demonstrated in practice. We found no significant nonair quality impacts or energy requirements associated with this BSER determination. More details on the BSER review and determination can be found in the proposed rule preamble, section III.D (87 FR 36796 at 36805).</P>
+                <P>Based on this BSER review and determination, the EPA is finalizing VOC emission limits in NSPS subpart TTTa for application of coatings onto plastic parts for business machines at affected facilities that commence construction, reconstruction, or modification after June 21, 2022. The finalized NSPS limit VOC emissions from prime coating, color coating, texture coating, and touch-up coating to 1.4 kg VOC/l (12 lb VOC/gal) coating solids applied. Just as in subpart TTT, new subpart TTTa treats fog coating as a type of color coating and applies the same level of VOC emission control to fog coating and other color coating. No comments were received on these changes, so the EPA is finalizing these VOC emission limits as proposed.</P>
+                <P>The EPA is also finalizing the proposed menu of subpart TTT default transfer efficiency (TE) values and their associated spray applicator types in new subpart TTTa. Further, what the EPA is finalizing in subpart TTTa allows a subpart TTTa affected facility, for a given type of coating application equipment at a given coating operation, to use a different (higher) TE with the Administrator's case-by-case approval. The EPA is also finalizing the case-by-case compliance approaches in the new subpart TTTa. Specifically, facilities are not required to use the formulas and compliance demonstrations based on coating content and TE but can demonstrate compliance using add-on controls if the same VOC emissions reductions are demonstrated to the Administrator. No comments were received on including these provisions in new subpart TTTa, so the EPA is finalizing these amendments as proposed.</P>
+                <HD SOURCE="HD2">B. NSPS Subpart TTTa Without Startup, Shutdown, Malfunctions Exemptions</HD>
+                <P>
+                    Consistent with 
+                    <E T="03">Sierra Club</E>
+                     v. 
+                    <E T="03">EPA,</E>
+                     551 F.3d 1019 (D.C. Cir. 2008), the EPA has established standards in this rule that apply at all times. We are finalizing in subpart TTTa specific requirements at Â§â60.723a that override the general provisions for SSM requirements. In finalizing the standards in this rule, the EPA has taken into account startup and shutdown periods and, for the reasons explained in this section of the preamble, has not finalized alternate standards for those periods. The primary means of controlling VOC emissions from surface coating of plastic parts for business machines is use of low-VOC-content coatings. This means of control is unaffected by startup and shutdown events. No comments were received on the proposed requirements, so these requirements are being finalized as proposed.
+                </P>
+                <P>
+                    Periods of startup, normal operations, and shutdown are all predictable and routine aspects of a source's operations. Malfunctions, in contrast, are neither predictable nor routine. Instead, they are, by definition, sudden, infrequent, and not reasonably preventable failures of emissions control, process, or monitoring equipment (40 CFR 60.2). The EPA interprets CAA section 111 as not requiring emissions that occur during periods of malfunction to be factored into development of CAA section 111 standards. Nothing in CAA section 111 or in case law requires that the EPA consider malfunctions when determining what standards of performance reflect the degree of emission limitation achievable through âthe application of the best system of emission reductionâ that the EPA determines is adequately demonstrated. While the EPA accounts for variability in setting emissions standards, nothing in CAA section 111 requires the Agency to consider malfunctions as part of that analysis. The EPA is not required to treat a malfunction in the same manner as the type of variation in performance that occurs during routine operations of a source. A malfunction is a failure of the source to perform in a ânormal or usual mannerâ and no statutory language compels EPA to consider such events in setting section 111 standards of performance. The EPA's approach to malfunctions in the analogous circumstances (setting âachievableâ standards under CAA section 112) has been upheld as reasonable by the D.C. Circuit in 
+                    <E T="03">U.S. Sugar Corp.</E>
+                     v. 
+                    <E T="03">EPA,</E>
+                     830 F.3d 579, 606-610 (2016).
+                    <PRTPAGE P="18061"/>
+                </P>
+                <HD SOURCE="HD2">C. Testing and Monitoring Requirements</HD>
+                <P>
+                    In performing an NSPS review, the EPA also evaluates and determines the proper testing, monitoring, recordkeeping, and reporting requirements needed to demonstrate compliance with the NSPS. The NSPS at 40 CFR part 60, subpart TTT, lists EPA Method 24 as the method for determination of VOC content of each coating as received. In the alternative, 40 CFR 60.725 allows use of âother methods . . . to determine the VOC content of each coating if approved by the Administrator before testing.â In performing this NSPS review, we looked at whether there are voluntary consensus standards (VCS) available and practical for use as alternatives to EPA Method 24 for industrial surface coating of plastic parts for business machines. The results of our initial VCS search, conducted prior to proposal, are provided in the memorandum 
+                    <E T="03">Voluntary Consensus Standard Results for New Source Performance Standards Review for Industrial Surface Coating of Plastic Parts for Business Machines,</E>
+                     which is dated April 18, 2022, and is available in the docket for this action. Subsequent to proposal, the EPA learned, the ASTM International (ASTM) approved and published a new method as replacement for one of the methods that we proposed to incorporate by reference (IBR). The new method, designated ASTM D2697-22, approved July 1, 2022, is titled âStandard Test Method for Volume Nonvolatile Matter in Clear or Pigmented Coatings.â Having compared the new method against the method it replaced, ASTM D2697-03 (2014), the EPA notes that use of the new method would likely improve the overall precision of the measurements, as the new method includes prescriptive procedures instead of referencing other procedures. Accordingly, the EPA has concluded that the new method is preferable to its replacement. The complete list of currently acceptable VCS is listed in a revised memorandum, dated November 30, 2022, and available in the docket. The VCS that that the EPA is incorporating by reference (IBR) under 40 CFR 60.17 as potential alternatives to EPA Method 24 are listed in section V.I of this preamble. These changes are being finalized for use with NSPS subparts TTT and TTTa. No comments were received on the proposed acceptable VCS. The EPA is finalizing these changes as proposed, with the exception that one method last reapproved in 2014 is being replaced by a new 2022 method for purposes of IBR in this final rule. This substitution of one method being incorporated by reference does not change any other aspect of what the EPA proposed and is finalizing.
+                </P>
+                <HD SOURCE="HD2">D. Electronic Reporting</HD>
+                <P>The EPA is finalizing the proposed requirement that owners and operators of facilities that perform surface coating of plastic parts for business machines subject to the current and new NSPS at 40 CFR part 60, subparts TTT and TTTa, submit electronic copies of required performance test reports, quarterly reports of noncompliance, and semiannual statements of compliance, through the EPA's Central Data Exchange (CDX) using the Compliance and Emissions Data Reporting Interface (CEDRI). For sources subject to subpart TTT, before May 26, 2023, performance test reports, quarterly reports of noncompliance, and semiannual statements of compliance shall be postmarked no later than 10 days after the end of the periods specified in paragraphs (b)(1) and (2) of 40 CFR 60.724. Beginning May 26, 2023, performance test reports, quarterly reports of noncompliance, and semiannual statements of compliance shall be submitted as a portable document format (PDF) upload not later than 10 days after the end of the periods specified in paragraphs (b)(1) and (2) of 40 CFR 60.724, according to paragraph (f) of 40 CFR 60.724. No comments were received on the proposed electronic reporting requirements, so the EPA is finalizing these changes as proposed.</P>
+                <HD SOURCE="HD2">E. Other Final Amendments</HD>
+                <P>The EPA is finalizing the proposed definition of âbusiness machineâ in subpart TTT, 40 CFR 60.721, that revises the list of example products included within the definition. Specifically, the EPA is deleting the listed Standard Industrial Classification (SIC) codes, which are no longer in use, and is replacing the list of example products that accompanied those SIC codes with a revised list of examples, as follows: âsuch as products classified as: electronic computing devices; calculating and accounting machines; telephone equipment; office machines; and photocopy machines.â Among example products that the EPA is deleting from the definition are typewriters and telegraph equipment, in light of the fact that these machines are far less commonly used than when this definition was first promulgated in 1988. These same changes are reflected in new subpart TTTa. The EPA received no comments on these proposed revisions to the definition of âbusiness machineâ and so is finalizing these changes as proposed.</P>
+                <HD SOURCE="HD2">F. Effective Date and Compliance Dates</HD>
+                <P>Pursuant to CAA section 111(b)(1)(B), the effective date of the final rule requirements in NSPS subparts TTT and TTTa is the promulgation date. Affected sources that commence construction, reconstruction, or modification after June 21, 2022, must comply with all requirements of subpart TTTa, no later than the effective date of the final rule or upon startup, whichever is later.</P>
+                <HD SOURCE="HD1">IV. Summary of Cost, Environmental, and Economic Impacts</HD>
+                <HD SOURCE="HD2">A. What are the air quality impacts?</HD>
+                <P>Based on the EPA's expectation that there will be no new, modified, or reconstructed sources over the next 8 years, we estimate that there will be no reduction in VOC emissions from NSPS subpart TTTa. If a new source were to be constructed, however, there would be a reduction in VOC emissions, because the subpart TTTa emission limits being finalized are more stringent than the subpart TTT emission limits. There would be no emission control cost associated with that hypothetical emission reduction because compliance with the subpart TTTa emission limits can be achieved through use of low-VOC-content coatings that are commercially available.</P>
+                <P>
+                    As described in the proposed rule preamble, for the baseline level of control for the BSER analysis, the EPA used an emission limit of 1.5 kg VOC/l (13 lb VOC/gal) coating solids applied as the representative coating limit, which is the same as the 1988 NSPS VOC emission limit both for prime coating and color coating. Of the three regulatory options that the EPA identified and evaluated in its NSPS review, the EPA found that its 2008 CTG-based option represents the BSER because it is demonstrated in practice and is the most cost-effective option. The EPA used an emission limit of 1.4 kg VOC/l (12 lb VOC/gal) coating solids applied as the representative coating limit for this option, which is derived from the 2008 CTG. The standard for NSPS subpart TTTa, based on this updated BSER, limits VOC emissions from prime coating, color coating, texture coating, and touch-up coating to 1.4 kg VOC/l (12 lb VOC/gal) coating solids applied. Therefore, the potential reduction in VOC emissions to result from NSPS subpart TTTa is estimated at 1.5 Mg/yr (13.0 tpy) per facility based on the BSER analysis in this NSPS review.
+                    <PRTPAGE P="18062"/>
+                </P>
+                <HD SOURCE="HD2">B. What are the secondary impacts?</HD>
+                <P>Because we do not anticipate that any source will operate a control device to meet NSPS subpart TTTa requirements, we anticipate no energy impacts (electricity, natural gas consumption, greenhouse gas (GHG) emissions production) or secondary air quality impacts from NSPS subpart TTTa.</P>
+                <HD SOURCE="HD2">C. What are the cost impacts?</HD>
+                <P>Based on the EPA's expectation that there will be no new, modified, or reconstructed sources over the next 8 years, we estimate that there will be no capital or annual costs incurred to comply with NSPS subpart TTTa in the 8-year period after the rule is final.</P>
+                <P>We anticipate minimal cost impacts on sources subject to NSPS subpart TTT. The EPA estimates a total cost of $828 ($276 per source), for sources subject to subpart TTT to become familiar with the CDX and CEDRI systems used to comply with the requirement to submit reports electronically. The labor costs (2 hours per source) would occur only in the first year following promulgation of the amendments to NSPS subpart TTT.</P>
+                <HD SOURCE="HD2">D. What are the economic impacts?</HD>
+                <P>
+                    The EPA conducted an economic impact analysis for this review, as detailed in the memorandum 
+                    <E T="03">Economic Impact Analysis for the Proposed New Source Performance Standards Review for Industrial Surface Coating of Plastic Parts for Business Machines,</E>
+                     which is available in the docket for this action.
+                </P>
+                <P>The economic impacts of this finalized rule are expected to be minimal. The only incremental costs are associated with the electronic report submission requirements for the three existing facilities affected by subpart TTT. The EPA estimates total costs for this rule of $828 in 2021 dollars, which will be incurred in the first year following promulgation of the rule. No other costs are expected in the 8 years following promulgation of this rule other than these Year 1 costs. Because the estimated compliance costs are minimal, this rule is not expected to result in market impacts, regardless of whether costs are passed on to consumers or absorbed by affected firms.</P>
+                <P>
+                    Two of the three facilities affected by this rule are owned by small entities. However, neither small entity is expected to incur significant cost impacts based on a comparison of the Year 1 facility-level compliance costs to the annual sales revenues (
+                    <E T="03">i.e.,</E>
+                     cost-to-sales ratios) of the two small parent companies. Thus, this rule will not have a significant economic impact on a substantial number of small entities.
+                </P>
+                <HD SOURCE="HD2">E. What are the benefits?</HD>
+                <P>The requirements in subpart TTT and new subpart TTTa to submit reports and test results electronically will improve monitoring, compliance, and implementation of the rule. Based on the EPA's expectation that there will be no new, modified, or reconstructed sources over the next 8 years, we estimate that there will be no reduction in VOC emissions from NSPS subpart TTTa. If a new source were to be constructed, however, there would be a reduction in VOC emissions, because the subpart TTTa emission limits are more stringent than the subpart TTT emission limits.</P>
+                <P>Reducing emissions of VOC is expected to help reduce ambient concentrations of ground level ozone and increase compliance with the National Ambient Air Quality Standards (NAAQS) for ozone. A quantitative analysis of the impacts on the NAAQS in the areas located near hypothetical new sources that perform surface coating of plastic parts for business machines would be technically complicated, resource intensive, and infeasible to perform in the time available, and would not represent the impacts for new, modified, and reconstructed affected facilities because the locations of those sources are currently unknown. For these reasons, we did not perform a quantitative analysis. However, currently available health effects evidence supporting the December 23, 2020, final decision for the ozone NAAQS continues to support the conclusion that ozone can cause difficulty breathing and other respiratory system effects. For people with asthma, these effects can lead to emergency room visits and hospital admissions. Exposure over the long term may lead to the development of asthma. People most at risk from breathing air containing ozone include people with asthma, children, the elderly, and outdoor workers. For children, exposure to ozone increases their risk of asthma attacks while playing, exercising, or engaging in strenuous activities outdoors.</P>
+                <HD SOURCE="HD2">F. What analysis of environmental justice did we conduct?</HD>
+                <P>Consistent with the EPA's commitment to integrating EJ in the Agency's actions, and following the directives set forth in multiple Executive orders, the Agency has conducted an analysis of the demographic groups living near existing facilities in the surface coating of plastic parts for business machines source category. Because this rule will affect new, modified, or reconstructed facilities that commence construction after June 21, 2022, we are not able to identify the location of those future new, modified, or reconstructed facilities. We anticipate that a total of three existing facilities will be affected by NSPS at 40 CFR part 60, subpart TTT, in the next 8 years and that no facilities will be affected by NSPS at 40 CFR part 60, subpart TTTa, in the next 8 years. For the demographic proximity analysis, we analyzed populations living near existing facilities to serve as a proxy of potential populations living near future facilities. The preamble for the proposed rule (87 FR 36796, June 21, 2022) indicated that the following demographic group was above the national average at the 5 kilometer (km) radius: People without a high school diploma. The analysis of the final rule remains unchanged from proposal. Therefore, the Agency used results from the proposal analysis to assess EJ impacts for this final rule.</P>
+                <P>
+                    Executive Order 12898 directs the EPA to identify the populations of concern who are most likely to experience unequal burdens from environmental harmsâspecifically, minority populations (
+                    <E T="03">i.e.,</E>
+                     people of color), low-income populations, and indigenous peoples (59 FR 7629, February 16, 1994). Additionally, Executive Order 13985 is intended to advance racial equity and support underserved communities through Federal Government actions (86 FR 7009, January 20, 2021). The EPA defines EJ as âthe fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies.â The EPA further defines the term fair treatment to mean that âno group of people should bear a disproportionate burden of environmental harms and risks, including those resulting from the negative environmental consequences of industrial, governmental, and commercial operations or programs and policies.â In recognizing that people of color and low-income populations often bear an unequal burden of environmental harms and risks, the EPA continues to consider ways of protecting them from adverse public health and environmental effects of air pollution.
+                </P>
+                <P>
+                    To examine the potential for any EJ issues that might be associated with the source category, we performed a demographic analysis at proposal and have determined that the data and 
+                    <PRTPAGE P="18063"/>
+                    affected facilities did not change as a result of public comments. Therefore, the analysis from the proposed rule is still applicable for this final action.
+                </P>
+                <P>Because this action finalizes standards of performance for new, modified, and reconstructed sources that commence construction after June 21, 2022, the locations of the construction of new facilities that perform surface coating of plastic parts for business machines are not known. In addition, it is not known which of the existing facilities will be modified or reconstructed in the future. Therefore, the demographic analysis was conducted for the three existing facilities as a characterization of the demographics in areas where these facilities are now located.</P>
+                <P>The results of the demographic analysis can be found in section V.J of the proposed rule's preamble (see 87 FR 36796 at 36813) and are summarized in this document. The analysis included an assessment of individual demographic groups of the populations living within 5 km and within 50 km of the facilities. We then compared the data from the analysis to the national average for each of the demographic groups. The results show that for populations within 5 km of the three existing facilities, the percent of the population that is categorized as people of color (being the total population minus the white population) is below the national average (23 percent versus 40 percent). The percent of people living below the poverty level is below the national average (10 percent versus 13 percent). The percent of the population over 25 without a high school diploma (13 percent) and the percent of the population in linguistic isolation (5 percent) are similar to the corresponding national averages (12 percent and 5 percent, respectively).</P>
+                <P>The results of the analysis of populations within 50 km of the three existing facilities show that the percent of the population that is categorized as people of color (being the total population minus the white population) is significantly below the national average (29 percent versus 40 percent). However, the percent of the population that is African American (17 percent) is higher than the national average (12 percent). All other demographic subgroups within people of color are below the corresponding national averages. The percent of people living below the poverty level is slightly above the national average (14 percent versus 13 percent). The percent of the population over 25 without a high school diploma (10 percent) and the percent of the population in linguistic isolation (2 percent) were below the corresponding national averages (12 percent and 5 percent, respectively).</P>
+                <P>The methodology and the results of the demographic analysis are presented in a technical report, âAnalysis of Demographic Factors for Populations Living Near Surface Coating of Plastic Parts for Business Machines,â available in the docket for this action (Docket ID No. EPA-HQ-OAR-2021-0200).</P>
+                <P>The EPA expects that the NSPS for Industrial Surface Coating of Plastic Parts for Business Machines subpart TTT and new subpart TTTa will ensure compliance via testing, monitoring, recordkeeping and reporting, and that the new subpart TTTa will ensure compliance with the standards at all times (including periods of startup, shutdown, and malfunctions). The rule will also increase data transparency through electronic reporting. Therefore, effects of emissions on populations in proximity to any future affected sources, including in communities potentially overburdened by pollution, which are often people of color and low-income and indigenous communities, will be minimized due to the compliance with the standards of performance being finalized in this action.</P>
+                <HD SOURCE="HD1">V. Statutory and Executive Order Reviews</HD>
+                <P>
+                    Additional information about these statutes and Executive orders can be found at 
+                    <E T="03">https://www.epa.gov/laws-regulations/laws-and-executive-orders.</E>
+                </P>
+                <HD SOURCE="HD2">A. Executive Order 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</HD>
+                <P>This action is not a significant regulatory action and was therefore not submitted to the Office of Management and Budget (OMB) for review.</P>
+                <HD SOURCE="HD2">B. Paperwork Reduction Act (PRA)</HD>
+                <P>The information collection activities in this rule have been submitted for approval to OMB under the PRA. The Information Collection Request (ICR) document that the EPA prepared has been assigned EPA ICR number 1093.15. You can find a copy of the ICR in the docket for this rule, and it is briefly summarized here. The information collection requirements are not enforceable until OMB approves them.</P>
+                <P>The ICR is specific to information collection associated with the source category referred to as surface coating of plastic parts for business machines, through 40 CFR part 60, subparts TTT and TTTa. As part of the NSPS review, the EPA is finalizing emission limit requirements for new, modified, and reconstructed sources in 40 CFR part 60, subpart TTTa. We are also finalizing testing, recordkeeping, and reporting requirements associated with 40 CFR part 60, subpart TTTa, that include the requirement for electronic submittal of reports. Further, we are finalizing changes to the reporting requirements associated with 40 CFR part 60, subpart TTT, by including the requirement for electronic submittal of reports. This information is being collected to assure compliance with 40 CFR part 60, subparts TTT and TTTa.</P>
+                <P>
+                    <E T="03">Respondents/affected entities:</E>
+                     The respondents to the recordkeeping and reporting requirements are owners or operators of facilities performing surface coating of plastic parts for business machines subject to 40 CFR part 60, subparts TTT and TTTa.
+                </P>
+                <P>
+                    <E T="03">Respondent's obligation to respond:</E>
+                     Mandatory (40 CFR part 60, subparts TTT and TTTa).
+                </P>
+                <P>
+                    <E T="03">Estimated number of respondents:</E>
+                     In the 3 years after the amendments are final, approximately 3 respondents per year will be subject to the NSPS at 40 CFR part 60, subpart TTT, and approximately 0 respondents per year will be subject to the NSPS as 40 CFR part 60, subpart TTTa.
+                </P>
+                <P>
+                    <E T="03">Frequency of response:</E>
+                     The frequency of responses varies depending on the burden item. Responses include one-time review of rule requirements, reports of performance tests, quarterly reports of noncompliance, and semiannual statements of compliance.
+                </P>
+                <P>
+                    <E T="03">Total estimated burden:</E>
+                     The annual recordkeeping and reporting burden for responding facilities to comply with all of the requirements in the NSPS subpart TTT and NSPS subpart TTTa over the 3 years after the rule is final is estimated to be 2 hours (per year). The average annual burden to the Agency over the 3 years after the rule is final is estimated to be 0 hours (per year). Burden is defined at 5 CFR 1320.3(b).
+                </P>
+                <P>
+                    <E T="03">Total estimated cost:</E>
+                     The average annual cost to facilities that perform surface coating of plastic parts for business machines is $276 in labor costs in the first 3 years after the rule is final. The average annual capital and operation and maintenance cost is $0. The total average annual Agency cost over the first 3 years after the amendments are final is estimated to be $0.
+                </P>
+                <P>
+                    An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB control numbers for the EPA's regulations in 40 CFR are listed in 40 CFR part 9. When OMB approves this ICR, the Agency will 
+                    <PRTPAGE P="18064"/>
+                    announce that approval in the 
+                    <E T="04">Federal Register</E>
+                     and publish a technical amendment to 40 CFR part 9 to display the OMB control number for the approved information collection activities contained in this final rule.
+                </P>
+                <HD SOURCE="HD2">C. Regulatory Flexibility Act (RFA)</HD>
+                <P>
+                    I certify that this action will not have a significant economic impact on a substantial number of small entities under the RFA. Details of the analysis in support of this determination are presented in the memorandum 
+                    <E T="03">Economic Impact Analysis for the Proposed New Source Performance Standards Review for Industrial Surface Coating of Plastic Parts for Business Machines,</E>
+                     which is available in the docket for this action. The annualized costs associated with the requirements in this action for the affected small entities are described in section IV.C of this preamble.
+                </P>
+                <HD SOURCE="HD2">D. Unfunded Mandates Reform Act (UMRA)</HD>
+                <P>This action does not contain an unfunded mandate of $100 million or more as described in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely affect small governments. While this action creates an enforceable duty on the private sector, the cost does not exceed $100 million or more.</P>
+                <HD SOURCE="HD2">E. Executive Order 13132: Federalism</HD>
+                <P>This action does not have federalism implications. It will not have substantial direct effects on the states, on the relationship between the National Government and the states, or on the distribution of power and responsibilities among the various levels of government.</P>
+                <HD SOURCE="HD2">F. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</HD>
+                <P>This action does not have tribal implications as specified in Executive Order 13175. It will neither impose substantial direct compliance costs on federally recognized tribal governments nor preempt tribal law, and it does not have substantial direct effects on the relationship between the Federal Government and Indian tribes or on the distribution of power and responsibilities between the Federal Government and Indian tribes, as specified in Executive Order 13175 (65 FR 67249, November 9, 2000). No tribal facilities are known to be engaged in the industry that would be affected by this action nor are there any adverse health or environmental effects from this action. However, the EPA conducted a proximity analysis for this source category and found that one affected facility is located within 50 miles of tribal lands. Consistent with the EPA Policy on Consultation and Coordination with Indian Tribes, the EPA offered consultation with tribal officials during the development of this action.</P>
+                <HD SOURCE="HD2">G. Executive Order 13045: Protection of Children From Environmental Health Risks and Safety Risks</HD>
+                <P>This action is not subject to Executive Order 13045 because it is not economically significant as defined in Executive Order 12866, and because the EPA does not believe the environmental health or safety risks addressed by this action present a disproportionate risk to children. No health or risk assessments were performed for this action. As described in section IV.E of this preamble, the EPA estimates that there will be no reduction in VOC emissions from NSPS subpart TTTa. If a new source were to be constructed, however, there would be a reduction in VOC emissions, because the subpart TTTa emission limits are more stringent than the subpart TTT emission limits.</P>
+                <HD SOURCE="HD2">H. Executive Order 13211: Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use</HD>
+                <P>This action is not subject to Executive Order 13211 because it is not a significant regulatory action under Executive Order 12866. This action is not likely to have a significant adverse effect on the supply, distribution, or use of energy. Further, sources will be able to achieve the level of control in NSPS subpart TTTa entirely through use of a variety of currently available coating formulations, without operation of a control device to meet the standards.</P>
+                <HD SOURCE="HD2">I. National Technology Transfer and Advancement Act (NTTAA) and 1 CFR Part 51</HD>
+                <P>This action involves technical standards. Therefore, the EPA conducted searches through the Enhanced National Standards Systems Network (NSSN) Database managed by the American National Standards Institute (ANSI) to determine if there are VCS that are relevant to this action. The Agency also contacted VCS organizations and accessed and searched their databases. Searches were conducted for EPA Method 24.</P>
+                <P>During the search, if the title or abstract (if provided) of the VCS described technical sampling and analytical procedures that are similar to the EPA's reference method, the EPA considered it as a potential equivalent method. All potential standards were reviewed to determine the practicality of the VCS for this rule. This review requires significant method validation data which meets the requirements of the EPA Method 301 for accepting alternative methods or scientific, engineering and policy equivalence to procedures in the EPA reference methods. The EPA may reconsider determinations of impracticality when additional information is available for particular VCS. As a result, the EPA is amending 40 CFR 60.17 to incorporate by reference the following VCS:</P>
+                <P>â¢ ASTM D2369-20, âStandard Test Method for Volatile Content of Coatingsâ is a test method that allows for more accurate results for multi-component chemical resistant coatings and is an alternative to EPA Method 24.</P>
+                <P>â¢ ASTM Method D2697-22, âStandard Test Method for Volume Nonvolatile Matter in Clear or Pigmented Coatingsâ is a test method that can be used to determine the volume of nonvolatile matter in clear and pigmented coatings and is an alternative to EPA Method 24.</P>
+                <P>â¢ ASTM Method D6093-97 (Reapproved 2016) âStandard Test Method for Percent Volume Nonvolatile Matter in Clear or Pigmented Coatings Using a Helium Gas Pycnometerâ is a test method that can be used to determine the percent volume of nonvolatile matter in clear and pigmented coatings and is an alternative to EPA Method 24.</P>
+                <P>We also identified VCS ASTM D2111-10 (2015), âStandard Test Methods for Specific Gravity of Halogenated Organic Solvents and Their Admixtures,â as an acceptable alternative to EPA Method 24. This ASTM standard can be used to determine the density for the specific coatings (halogenated organic solvents) cited using Method B (pycnometer) only (as in ASTM 1217). We are not incorporating by reference this VCS because facilities that perform surface coating of plastic parts for business machines do not use halogenated organic solvents, based on our knowledge of the industry.</P>
+                <P>
+                    The ASTM standards (methods) are available for purchase individually through the American National Standards Institute (ANSI) Webstore, 
+                    <E T="03">https://webstore.ansi.org.</E>
+                     Telephone (212) 642-4980 for customer service.
+                </P>
+                <P>
+                    Additional information for the VCS search and determinations can be found in the memorandum 
+                    <E T="03">Voluntary Consensus Standard Results for New Source Performance Standards Review for Industrial Surface Coating of Plastic Parts for Business Machines Revised,</E>
+                      
+                    <PRTPAGE P="18065"/>
+                    which is dated November 30, 2022, and is available in the docket for this action.
+                </P>
+                <P>Under 40 CFR 60.8(b) and 60.13(i) of the general provisions, a source may apply to the EPA to use alternative test methods or alternative monitoring requirements in place of any required testing methods, performance specifications or procedures in the final rule or any amendments.</P>
+                <HD SOURCE="HD2">J. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</HD>
+                <P>Executive Order 12898 (59 FR 7629, February 16, 1994) directs Federal agencies, to the greatest extent practicable and permitted by law, to make environmental justice part of their mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of their programs, policies, and activities on minority populations (people of color and/or indigenous peoples) and low-income populations.</P>
+                <P>The EPA believes that the human health and environmental conditions that exist prior to this action do not result in disproportionate and adverse effects on people of color, low-income populations, and/or indigenous peoples. See section IV.F of this preamble for additional details on the analysis of the distribution of the demographic groups living near existing facilities in the surface coating of plastic parts for business machines source category conducted by the EPA.</P>
+                <P>The EPA believes that this action is not likely to result in new disproportionate and adverse effects on people of color, low-income populations, and/or indigenous peoples. Based on the EPA's determination that there will be no new, modified, or reconstructed sources over the next 8 years, we estimate that there will be no reduction in VOC emissions from the new NSPS subpart TTTa. If a new source were to be constructed at a future date, the emission limits in subpart TTTa reflect the BSER demonstrated and establish a new more stringent standard of performance for the primary sources of VOC emissions from the source category. Thus, if a source were to be constructed, modified, or reconstructed, the EPA expects that the requirements in subpart TTTa will result in VOC emission reductions for communities surrounding the affected subpart TTTa sources compared to the existing rule in subpart TTT and will result in lower VOC emissions for communities located in areas designated as ozone non-attainment areas. These areas are already overburdened by pollution.</P>
+                <HD SOURCE="HD2">K. Congressional Review Act (CRA)</HD>
+                <P>This action is subject to the CRA, and the EPA will submit a rule report to each House of the Congress and to the Comptroller General of the United States. This action is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 40 CFR Part 60</HD>
+                    <P>Environmental protection, Administrative practice and procedures, Air pollution control, Incorporation by reference, Reporting and recordkeeping requirements, Volatile organic compounds.</P>
+                </LSTSUB>
+                <SIG>
+                    <NAME>Michael S. Regan,</NAME>
+                    <TITLE>Administrator.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, the Environmental Protection Agency is amending part 60 of title 40, chapter I, of the Code of Federal Regulations as follows:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 60âSTANDARDS OF PERFORMANCE FOR NEW STATIONARY SOURCES</HD>
+                </PART>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>1. The authority citation for part 60 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P>
+                            42 U.S.C. 7401 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart AâGeneral Provisions</HD>
+                </SUBPART>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>2. Amend Â§â60.17 by:</AMDPAR>
+                    <AMDPAR>a. Redesignating paragraphs (h)(179) through (214) as paragraphs (h)(182) through (217);</AMDPAR>
+                    <AMDPAR>b. Redesignating paragraphs (h)(108) through (178) as paragraphs (h)(110) through (180);</AMDPAR>
+                    <AMDPAR>c. Redesignating paragraphs (h)(96) through (107) as paragraphs (h)(97) through (108); and</AMDPAR>
+                    <AMDPAR>d. Adding new paragraphs (h)(96), (109), and (181).</AMDPAR>
+                    <P>The additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â60.17</SECTNO>
+                        <SUBJECT>Incorporations by reference.</SUBJECT>
+                        <STARS/>
+                        <P>(h) * * *</P>
+                        <P>
+                            (96) ASTM D2369-20, 
+                            <E T="03">Standard Test Method for Volatile Content of Coatings,</E>
+                             Approved June 1, 2020; IBR approved for Â§Â§â60.723(b)(1), 60.724(a)(2), 60.725(b), 60.723a(b)(1), 60.724a(a)(2), and 60.725a(b).
+                        </P>
+                        <STARS/>
+                        <P>
+                            (109) ASTM D2697-22, 
+                            <E T="03">Standard Test Method for Volume Nonvolatile Matter in Clear or Pigmented Coatings,</E>
+                             Approved July 1, 2022; IBR approved for Â§Â§â60.723(b)(1), 60.724(a)(2), 60.725(b), 60.723a(b)(1), 60.724a(a)(2), and 60.725a(b).
+                        </P>
+                        <STARS/>
+                        <P>
+                            (181) ASTM D6093-97 (Reapproved 2016), 
+                            <E T="03">Standard Test Method for Percent Volume Nonvolatile Matter in Clear or Pigmented Coatings Using a Helium Gas Pycnometer,</E>
+                             Approved December 1, 2016; IBR approved for Â§Â§â60.723(b)(1), 60.724(a)(2), 60.725(b), 60.723a(b)(1), 60.724a(a)(2), and 60.725a(b).
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart TTTâStandards of Performance for Industrial Surface Coating: Surface Coating of Plastic Parts for Business Machines</HD>
+                </SUBPART>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>3. Amend Â§â60.720 by revising paragraph (b) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â60.720</SECTNO>
+                        <SUBJECT>Applicability and designation of affected facility.</SUBJECT>
+                        <STARS/>
+                        <P>(b) This subpart applies to any affected facility for which construction, modification, or reconstruction begins after January 8, 1986, but before June 21, 2022.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>4. Amend Â§â60.721 by revising the definition of âBusiness machineâ in paragraph (a) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â60.721</SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>
+                            <E T="03">Business machine</E>
+                             means a device that uses electronic or mechanical methods to process information, perform calculations, print or copy information, or convert sound into electrical impulses for transmission, such as products classified as: electronic computing devices; calculating and accounting machines; telephone equipment; office machines; and photocopy machines.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>5. Amend Â§â60.723 by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraphs (a) and (b)(1);</AMDPAR>
+                    <AMDPAR>b. In paragraph (b)(2)(i)(C), removing the text âtable 1â and adding, in its place, the text âtable 1 to paragraph (b)(2)(i)(D) of this sectionâ; and</AMDPAR>
+                    <AMDPAR>c. Revising paragraphs (b)(2)(i)(D) and (b)(2)(i)(E) and the last sentence of paragraph (b)(2)(iv).</AMDPAR>
+                    <P>The revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â60.723</SECTNO>
+                        <SUBJECT>Performance tests and compliance provisions.</SUBJECT>
+                        <P>(a) Section 60.8(d) through (i) do not apply to the performance test procedures required by this section.</P>
+                        <P>(b) * * *</P>
+                        <P>
+                            (1) The owner or operator shall determine the composition of coatings by analysis of each coating, as received, using Method 24 of appendix A-7 to this part or an acceptable alternative method, from data that have been determined by the coating manufacturer using Method 24 or an acceptable 
+                            <PRTPAGE P="18066"/>
+                            alternative method. Acceptable alternative methods to Method 24 include: ASTM D2369-20; ASTM D2697-22; and ASTM D6093-97 (all incorporated by reference; see Â§â60.17).
+                        </P>
+                        <P>(2) * * *</P>
+                        <P>(i) * * *</P>
+                        <P>(D) Where more than one application method is used within a single coating operation, the owner or operator shall determine the volume of each coating applied by each method through a means acceptable to the Administrator and compute the volume-weighted average transfer efficiency by the following equation:</P>
+                        <HD SOURCE="HD1">Equation 3 to Paragraph (b)(2)(i)(D)</HD>
+                        <GPH SPAN="3" DEEP="89">
+                            <GID>ER27MR23.002</GID>
+                        </GPH>
+                        <P>Where n is the number of coatings of each type used and p is the number of application methods used.</P>
+                        <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s100,12,r75">
+                            <TTITLE>
+                                Table 1 to Paragraph 
+                                <E T="01">(b)(2)(i)(D)</E>
+                                âTransfer Efficiencies
+                            </TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Application methods</CHED>
+                                <CHED H="1">
+                                    Transfer
+                                    <LI>efficiency</LI>
+                                </CHED>
+                                <CHED H="1">Type of coating</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="01">
+                                    (
+                                    <E T="03">1</E>
+                                    ) Air atomized spray
+                                </ENT>
+                                <ENT>0.25</ENT>
+                                <ENT>Prime, color, texture, touch-up, and fog coats.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (
+                                    <E T="03">2</E>
+                                    ) Air-assisted airless spray
+                                </ENT>
+                                <ENT>0.40</ENT>
+                                <ENT>Prime and color coats.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (
+                                    <E T="03">3</E>
+                                    ) Electrostatic air spray
+                                </ENT>
+                                <ENT>0.40</ENT>
+                                <ENT>Prime and color coats.</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <P>(E) Calculate the volume-weighted average mass of VOC's emitted per unit volume of coating solids applied (N) during each nominal 1-month period for each coating operation for each affected facility by the following equation:</P>
+                        <HD SOURCE="HD1">Equation 4 to Paragraph (b)(2)(i)(E)</HD>
+                        <GPH SPAN="1" DEEP="47">
+                            <GID>ER27MR23.003</GID>
+                        </GPH>
+                        <FP SOURCE="FP-2">
+                            Where T
+                            <E T="52">avg</E>
+                             = T when only one type of coating operation occurs.
+                        </FP>
+                        <STARS/>
+                        <P>(iv) * * * In such cases, compliance will be determined by the Administrator on a case-by-case basis.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>6. Amend Â§â60.724 by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraphs (a)(2), (c), and (e); and</AMDPAR>
+                    <AMDPAR>b. Adding paragraphs (f) and (g).</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â60.724</SECTNO>
+                        <SUBJECT>Reporting and recordkeeping requirements.</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>(2) For each affected facility where compliance is determined under the provisions of Â§â60.723(b)(2)(iii), a list of the coatings used during the initial nominal 1-month period, the VOC content of each coating calculated from data determined using Method 24 of appendix A-7 to this part or an acceptable alternative method, and the lowest transfer efficiency at which each coating is applied during the initial nominal 1-month period. Acceptable alternative methods to Method 24 include: ASTM D2369-20; ASTM D2697-22; and ASTM D6093-97 (all incorporated by reference; see Â§â60.17).</P>
+                        <STARS/>
+                        <P>(c) Before May 26, 2023, performance test reports, quarterly reports of noncompliance, and semiannual statements of compliance shall be postmarked not later than 10 days after the end of the periods specified in paragraphs (b)(1) and (2) of this section. Beginning May 26, 2023, performance test reports, quarterly reports of noncompliance, and semiannual statements of compliance shall be submitted as a portable document format (PDF) upload not later than 10 days after the end of the periods specified in paragraphs (b)(1) and (2) of this section, according to paragraph (f) of this section.</P>
+                        <STARS/>
+                        <P>(e) Monitoring, reporting, and recordkeeping requirements for facilities using add-on controls will be determined by the Administrator on a case-by-case basis.</P>
+                        <P>
+                            (f) Beginning May 26, 2023, the owner or operator must submit all subsequent performance test reports, quarterly reports of noncompliance, and semiannual statements in PDF format to the EPA via the Compliance and Emissions Data Reporting Interface (CEDRI), which can be accessed through EPA's Central Data Exchange (CDX) (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). The EPA will make all the information submitted through CEDRI available to the public without further notice to you. Do not use CEDRI to submit information you claim as Confidential Business Information (CBI). Although we do not expect persons to assert a claim of CBI, if you wish to assert a CBI claim for some of the information in the report, you must submit a complete file, including information claimed to be CBI, to the EPA following the procedures in paragraphs (f)(1) and (2) of this section. Clearly mark the part or all of the information that you claim to be CBI. Information not marked as CBI may be authorized for public release without prior notice. Information marked as CBI will not be disclosed except in accordance with procedures set forth in 40 CFR part 2. All CBI claims must be asserted at the time of submission. Anything submitted using CEDRI cannot later be claimed CBI. Furthermore, under CAA section 114(c), emissions data is not entitled to confidential treatment, and the EPA is required to make emissions data 
+                            <PRTPAGE P="18067"/>
+                            available to the public. Thus, emissions data will not be protected as CBI and will be made publicly available. You must submit the same file submitted to the CBI office with the CBI omitted to the EPA via the EPA's CDX as described earlier in this paragraph (f).
+                        </P>
+                        <P>
+                            (1) The preferred method to receive CBI is for it to be transmitted electronically using email attachments, File Transfer Protocol, or other online file sharing services. Electronic submissions must be transmitted directly to the OAQPS CBI Office at the email address 
+                            <E T="03">oaqpscbi@epa.gov,</E>
+                             and as described in this paragraph (f), should include clear CBI markings and be flagged to the attention of the Surface Coating of Plastic Parts for Business Machines Sector Lead. If assistance is needed with submitting large electronic files that exceed the file size limit for email attachments, and if you do not have your own file sharing service, please email 
+                            <E T="03">oaqpscbi@epa.gov</E>
+                             to request a file transfer link.
+                        </P>
+                        <P>(2) If you cannot transmit the file electronically, you may send CBI information through the postal service to the following address: OAQPS Document Control Officer (C404-02), OAQPS, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina 27711, Attention Surface Coating of Plastic Parts for Business Machines Sector Lead. The mailed CBI material should be double wrapped and clearly marked. Any CBI markings should not show through the outer envelope.</P>
+                        <P>(3) If you are required to electronically submit a notification or report by this paragraph (f) through CEDRI in the EPA's CDX, you may assert a claim of EPA system outage for failure to timely comply with the electronic submittal requirement. To assert a claim of EPA system outage, you must meet the requirements outlined in paragraphs (f)(3)(i) through (vii) of this section.</P>
+                        <P>(i) You must have been or will be precluded from accessing CEDRI and submitting a required notification or report within the time prescribed due to an outage of either the EPA's CEDRI or CDX systems.</P>
+                        <P>(ii) The outage must have occurred within the period of time beginning 5 business days prior to the date that the notification or report is due.</P>
+                        <P>(iii) The outage may be planned or unplanned.</P>
+                        <P>(iv) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in reporting.</P>
+                        <P>(v) You must provide to the Administrator a written description identifying:</P>
+                        <P>(A) The date(s) and time(s) when CDX or CEDRI was accessed and the system was unavailable;</P>
+                        <P>(B) A rationale for attributing the delay in submitting beyond the regulatory deadline to EPA system outage;</P>
+                        <P>(C) Measures taken or to be taken to minimize the delay in submitting; and</P>
+                        <P>(D) The date by which you propose to submit, or if you have already met the electronic submittal requirement in this paragraph (f) at the time of the notification, the date you submitted the notification or report.</P>
+                        <P>(vi) The decision to accept the claim of EPA system outage and allow an extension to the reporting deadline is solely within the discretion of the Administrator.</P>
+                        <P>(vii) In any circumstance, the notification or report must be submitted electronically as soon as possible after the outage is resolved.</P>
+                        <P>(4) If you are required to electronically submit a notification or report by this paragraph (f) through CEDRI in the EPA's CDX, you may assert a claim of force majeure for failure to timely comply with the electronic submittal requirement. To assert a claim of force majeure, you must meet the requirements outlined in paragraphs (f)(4)(i) through (v) of this section.</P>
+                        <P>
+                            (i) You may submit a claim if a force majeure event is about to occur, occurs, or has occurred or there are lingering effects from such an event within the period of time beginning five business days prior to the date the submission is due. For the purposes of this section, a force majeure event is defined as an event that will be or has been caused by circumstances beyond the control of the affected facility, its contractors, or any entity controlled by the affected facility that prevents you from complying with the requirement to submit a notification or report electronically within the time period prescribed. Examples of such events are acts of nature (
+                            <E T="03">e.g.,</E>
+                             hurricanes, earthquakes, or floods), acts of war or terrorism, or equipment failure or safety hazard beyond the control of the affected facility (
+                            <E T="03">e.g.,</E>
+                             large scale power outage).
+                        </P>
+                        <P>(ii) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in submitting through CEDRI.</P>
+                        <P>(iii) You must provide to the Administrator:</P>
+                        <P>(A) A written description of the force majeure event;</P>
+                        <P>(B) A rationale for attributing the delay in reporting beyond the regulatory deadline to the force majeure event;</P>
+                        <P>(C) Measures taken or to be taken to minimize the delay in reporting; and</P>
+                        <P>(D) The date by which you propose to submit the notification or report, or if you have already met the electronic submittal requirement in this paragraph (f) at the time of the notification, the date you submitted the notification or report.</P>
+                        <P>(iv) The decision to accept the claim of force majeure and allow an extension to the submittal deadline is solely within the discretion of the Administrator.</P>
+                        <P>(v) In any circumstance, the reporting must occur as soon as possible after the force majeure event occurs.</P>
+                        <P>(g) Any records required to be maintained by this subpart that are submitted electronically via the EPA's CEDRI may be maintained in electronic format. This ability to maintain electronic copies does not affect the requirement for facilities to make records, data, and reports available upon request to a delegated air agency or the EPA as part of an on-site compliance evaluation.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>7. Amend Â§â60.725 by revising paragraph (b) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â60.725</SECTNO>
+                        <SUBJECT>Test methods and procedures.</SUBJECT>
+                        <STARS/>
+                        <P>(b) Other methods may be used to determine the VOC content of each coating if approved by the Administrator before testing. Acceptable alternative methods to Method 24 of appendix A-7 to this part include: ASTM D2369-20; ASTM D2697-22; and ASTM D6093-97 (all incorporated by reference; see Â§â60.17).</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>8. Amend Â§â60.726 by revising paragraph (b) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â60.726</SECTNO>
+                        <SUBJECT>Delegation of authority.</SUBJECT>
+                        <STARS/>
+                        <P>(b) Authorities which will not be delegated to the States:</P>
+                        <P>(1) Section 60.723(b)(1).</P>
+                        <P>(2) Section 60.723(b)(2)(i)(C).</P>
+                        <P>(3) Section 60.723(b)(2)(iv).</P>
+                        <P>(4) Section 60.724(b).</P>
+                        <P>(5) Section 60.724(e).</P>
+                        <P>(6) Section 60.724(f).</P>
+                        <P>(7) Section 60.725(b).</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="40" PART="60">
+                    <AMDPAR>9. Add subpart TTTa, consisting of Â§Â§â60.720a through 60.726a, to read as follows:</AMDPAR>
+                    <SUBPART>
+                        <PRTPAGE P="18068"/>
+                        <HD SOURCE="HED">Subpart TTTaâStandards of Performance for Industrial Surface Coating: Surface Coating of Plastic Parts for Business Machines for Which Construction, Reconstruction, or Modification Commenced After June 21, 2022</HD>
+                    </SUBPART>
+                    <CONTENTS>
+                        <SECHD>Sec.</SECHD>
+                        <SECTNO>60.720a</SECTNO>
+                        <SUBJECT>Applicability and designation of affected facility.</SUBJECT>
+                        <SECTNO>60.721a</SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <SECTNO>60.722a</SECTNO>
+                        <SUBJECT>Standards for volatile organic compounds.</SUBJECT>
+                        <SECTNO>60.723a</SECTNO>
+                        <SUBJECT>Performance tests and compliance provisions.</SUBJECT>
+                        <SECTNO>60.724a</SECTNO>
+                        <SUBJECT>Reporting and recordkeeping requirements.</SUBJECT>
+                        <SECTNO>60.725a</SECTNO>
+                        <SUBJECT>Test methods and procedures.</SUBJECT>
+                        <SECTNO>60.726a</SECTNO>
+                        <SUBJECT>Delegation of authority.</SUBJECT>
+                    </CONTENTS>
+                    <SECTION>
+                        <SECTNO>Â§â60.720a</SECTNO>
+                        <SUBJECT>Applicability and designation of affected facility.</SUBJECT>
+                        <P>(a) The provisions of this subpart apply to each spray booth in which plastic parts for use in the manufacture of business machines receive prime coats, color coats, texture coats, or touch-up coats.</P>
+                        <P>(b) This subpart applies to any affected facility for which construction, modification, or reconstruction begins after June 21, 2022.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â60.721a</SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <P>(a) As used in this subpart, all terms not defined in this subpart shall have the meaning given them in the Act or in subpart A of this part.</P>
+                        <P>
+                            <E T="03">Business machine</E>
+                             means a device that uses electronic or mechanical methods to process information, perform calculations, print or copy information, or convert sound into electrical impulses for transmission, such as products classified as: electronic computing devices; calculating and accounting machines; telephone equipment; office machines; and photocopy machines.
+                        </P>
+                        <P>
+                            <E T="03">Coating operation</E>
+                             means the use of a spray booth for the application of a single type of coating (
+                            <E T="03">e.g.,</E>
+                             prime coat); the use of the same spray booth for the application of another type of coating (
+                            <E T="03">e.g.,</E>
+                             texture coat) constitutes a separate coating operation for which compliance determinations are performed separately.
+                        </P>
+                        <P>
+                            <E T="03">Coating solids applied</E>
+                             means the coating solids that adhere to the surface of the plastic business machine part being coated.
+                        </P>
+                        <P>
+                            <E T="03">Color coat</E>
+                             means the coat applied to a part that affects the color and gloss of the part, not including the prime coat or texture coat. This definition includes fog coating, but does not include conductive sensitizers or electromagnetic interference/radio frequency interference shielding coatings.
+                        </P>
+                        <P>
+                            <E T="03">Conductive sensitizer</E>
+                             means a coating applied to a plastic substrate to render it conductive for purposes of electrostatic application of subsequent prime, color, texture, or touch-up coats.
+                        </P>
+                        <P>
+                            <E T="03">Electromagnetic interference/radio frequency interference (EMI/RFI) shielding coating</E>
+                             means a conductive coating that is applied to a plastic substrate to attenuate EMI/RFI signals.
+                        </P>
+                        <P>
+                            <E T="03">Fog coating</E>
+                             (also known as mist coating and uniforming) means a thin coating applied to plastic parts that have molded-in color or texture or both to improve color uniformity.
+                        </P>
+                        <P>
+                            <E T="03">Nominal 1-month period</E>
+                             means either a calendar month, 30-day month, accounting month, or similar monthly time period that is established prior to the performance test (
+                            <E T="03">i.e.,</E>
+                             in a statement submitted with notification of anticipated actual startup pursuant to Â§â60.7(2)).
+                        </P>
+                        <P>
+                            <E T="03">Plastic parts</E>
+                             means panels, housings, bases, covers, and other business machine components formed of synthetic polymers.
+                        </P>
+                        <P>
+                            <E T="03">Prime coat</E>
+                             means the initial coat applied to a part when more than one coating is applied, not including conductive sensitizers or electromagnetic interference/radio frequency interference shielding coatings.
+                        </P>
+                        <P>
+                            <E T="03">Spray booth</E>
+                             means the structure housing automatic or manual spray application equipment where a coating is applied to plastic parts for business machines.
+                        </P>
+                        <P>
+                            <E T="03">Texture coat</E>
+                             means the rough coat that is characterized by discrete, raised spots on the exterior surface of the part. This definition does not include conductive sensitizers or EMI/RFI shielding coatings.
+                        </P>
+                        <P>
+                            <E T="03">Touch-up coat</E>
+                             means the coat applied to correct any imperfections in the finish after color or texture coats have been applied. This definition does not include conductive sensitizers or EMI/RFI shielding coatings.
+                        </P>
+                        <P>
+                            <E T="03">Transfer efficiency</E>
+                             means the ratio of the amount of coating solids deposited onto the surface of a plastic business machine part to the total amount of coating solids used.
+                        </P>
+                        <P>
+                            <E T="03">VOC emissions</E>
+                             means the mass of VOC's emitted from the surface coating of plastic parts for business machines expressed as kilograms of VOC's per liter of coating solids applied (
+                            <E T="03">i.e.,</E>
+                             deposited on the surface).
+                        </P>
+                        <P>(b) All symbols used in this subpart not defined in this paragraph (b) are given meaning in the Act or subpart A of this part.</P>
+                        <P>
+                            D
+                            <E T="52">c</E>
+                             = density of each coating as received (kilograms per liter).
+                        </P>
+                        <P>
+                            D
+                            <E T="52">d</E>
+                             = density of each diluent VOC (kilograms per liter).
+                        </P>
+                        <P>
+                            L
+                            <E T="52">c</E>
+                             = the volume of each coating consumed, as received (liters).
+                        </P>
+                        <P>
+                            L
+                            <E T="52">d</E>
+                             = the volume of each diluent VOC added to coatings (liters).
+                        </P>
+                        <P>
+                            L
+                            <E T="52">s</E>
+                             = the volume of coating solids consumed (liters).
+                        </P>
+                        <P>
+                            M
+                            <E T="52">d</E>
+                             = the mass of diluent VOC's consumed (kilograms).
+                        </P>
+                        <P>
+                            M
+                            <E T="52">o</E>
+                             = the mass of VOC's in coatings consumed, as received (kilograms).
+                        </P>
+                        <P>N = the volume-weighted average mass of VOC emissions to the atmosphere per unit volume of coating solids applied (kilograms per liter).</P>
+                        <P>T = the transfer efficiency for each type of application equipment used at a coating operation (fraction).</P>
+                        <P>
+                            T
+                            <E T="52">avg</E>
+                             = the volume-weighted average transfer efficiency for a coating operation (fraction).
+                        </P>
+                        <P>
+                            V
+                            <E T="52">s</E>
+                             = the proportion of solids in each coating, as received (fraction by volume).
+                        </P>
+                        <P>
+                            W
+                            <E T="52">o</E>
+                             = the proportion of VOC's in each coating, as received (fraction by weight).
+                        </P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â60.722a</SECTNO>
+                        <SUBJECT>Standards for volatile organic compounds.</SUBJECT>
+                        <P>(a) Each owner or operator of any affected facility which is subject to the requirements of this subpart shall comply at all times with the emission limitations set forth in this section on and after the date on which the initial performance test, required by Â§Â§â60.8 and 60.723 is completed, but not later than 60 days after achieving the maximum production rate at which the affected facility will be operated, or 180 days after the initial startup, whichever date comes first. No affected facility shall cause the discharge into the atmosphere in excess of:</P>
+                        <P>(1) 1.4 kilograms of VOC's per liter of coating solids applied from prime coating of plastic parts for business machines.</P>
+                        <P>(2) 1.4 kilograms of VOC's per liter of coating solids applied from color coating of plastic parts for business machines.</P>
+                        <P>(3) 1.4 kilograms of VOC's per liter of coating solids applied from texture coating of plastic parts for business machines.</P>
+                        <P>(4) 1.4 kilograms of VOC's per liter of coatings solids applied from touch-up coating of plastic parts for business machines.</P>
+                        <P>
+                            (b) All VOC emissions that are caused by coatings applied in each affected facility, regardless of the actual point of discharge of emissions into the atmosphere, shall be included in determining compliance with the 
+                            <PRTPAGE P="18069"/>
+                            emission limits in paragraph (a) of this section.
+                        </P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â60.723a</SECTNO>
+                        <SUBJECT>Performance tests and compliance provisions.</SUBJECT>
+                        <P>(a) Section 60.8(c) through (i) do not apply to the performance test procedures required by this section.</P>
+                        <P>(b) The owner or operator of an affected facility shall conduct an initial performance test as required under Â§â60.8(a) and thereafter a performance test each nominal 1-month period for each affected facility according to the procedures in this section.</P>
+                        <P>(1) The owner or operator shall determine the composition of coatings by analysis of each coating, as received, using Method 24 of appendix A-7 to this part or an acceptable alternative method, from data that have been determined by the coating manufacturer using Method 24 or an acceptable alternative method. Acceptable alternative methods to Method 24 include: ASTM D2369-20; ASTM D2697-22; and ASTM D6093-97 (all incorporated by reference; see Â§â60.17).</P>
+                        <P>(2) The owner or operator shall determine the volume of coating and the mass of VOC used for dilution of coatings from company records during each nominal 1-month period. If a common coating distribution system serves more than one affected facility or serves both affected and nonaffected spray booths, the owner or operator shall estimate the volume of coatings used at each facility by using procedures approved by the Administrator.</P>
+                        <P>
+                            (i) The owner or operator shall calculate the volume-weighted average mass of VOC's in coatings emitted per unit volume of coating solids applied (N) at each coating operation [
+                            <E T="03">i.e.,</E>
+                             for each type of coating (prime, color, texture, and touch-up) used] during each nominal 1-month period for each affected facility. Each 1-month calculation is considered a performance test. Except as provided in paragraph (b)(2)(iii) of this section, N will be determined by the following procedures:
+                        </P>
+                        <P>
+                            (A) Calculate the mass of VOC's used (M
+                            <E T="52">o</E>
+                             + M
+                            <E T="52">d</E>
+                            ) for each coating operation during each nominal 1-month period for each affected facility by the following equation:
+                        </P>
+                        <HD SOURCE="HD1">Equation 1 to Paragraph (b)(2)(i)(A)</HD>
+                        <GPH SPAN="3" DEEP="55">
+                            <GID>ER27MR23.004</GID>
+                        </GPH>
+                        <FP SOURCE="FP-2">
+                            Where n is the number of coatings of each type used during each nominal 1-month period and m is the number of different diluent VOC's used during each nominal 1-month period. (Î£ L
+                            <E T="52">dj</E>
+                             D
+                            <E T="52">dj</E>
+                             will be 0 if no VOC's are added to the coatings, as received.)
+                        </FP>
+                        <P>
+                            (B) Calculate the total volume of coating solids consumed (L
+                            <E T="52">s</E>
+                            ) in each nominal 1-month period for each coating operation for each affected facility by the following equation:
+                        </P>
+                        <HD SOURCE="HD1">Equation 2 to Paragraph (b)(2)(i)(B)</HD>
+                        <GPH SPAN="1" DEEP="58">
+                            <GID>ER27MR23.005</GID>
+                        </GPH>
+                        <FP SOURCE="FP-2">Where n is the number of coatings of each type used during each nominal 1-month period.</FP>
+                        <P>(C) Select the appropriate transfer efficiency (T) from table 1 to paragraph (b)(2)(i)(D) of this section for each type of coating applications equipment used at each coating operation. If the owner or operator can demonstrate to the satisfaction of the Administrator that transfer efficiencies other than those shown are appropriate, the Administrator will approve their use on a case-by-case basis. Transfer efficiency values for application methods not listed in table 1 to paragraph (b)(2)(i)(D) shall be approved by the Administrator on a case-by-case basis. An owner or operator must submit sufficient data for the Administrator to judge the validity of the transfer efficiency claims.</P>
+                        <P>(D) Where more than one application method is used within a single coating operation, the owner or operator shall determine the volume of each coating applied by each method through a means acceptable to the Administrator and compute the volume-weighted average transfer efficiency by the following equation:</P>
+                        <HD SOURCE="HD1">Equation 3 to Paragraph (b)(2)(i)(D)</HD>
+                        <GPH SPAN="3" DEEP="90">
+                            <GID>ER27MR23.006</GID>
+                        </GPH>
+                        <FP SOURCE="FP-2">
+                            Where n is the number of coatings of each type used and p is the number of application methods used.
+                            <PRTPAGE P="18070"/>
+                        </FP>
+                        <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s100,12,r75">
+                            <TTITLE>
+                                Table 1 to Paragraph 
+                                <E T="01">(b)(2)(i)(D)</E>
+                                âTransfer Efficiencies
+                            </TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Application methods</CHED>
+                                <CHED H="1">
+                                    Transfer
+                                    <LI>efficiency</LI>
+                                </CHED>
+                                <CHED H="1">Type of coating</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="01">
+                                    (
+                                    <E T="03">1</E>
+                                    ) Air atomized spray
+                                </ENT>
+                                <ENT>0.25</ENT>
+                                <ENT>Prime, color, texture, touch-up, and fog coats.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (
+                                    <E T="03">2</E>
+                                    ) Air-assisted airless spray
+                                </ENT>
+                                <ENT>0.40</ENT>
+                                <ENT>Prime and color coats.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (
+                                    <E T="03">3</E>
+                                    ) Electrostatic air spray
+                                </ENT>
+                                <ENT>0.40</ENT>
+                                <ENT>Prime and color coats.</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <P>(E) Calculate the volume-weighted average mass of VOC's emitted per unit volume of coating solids applied (N) during each nominal 1-month period for each coating operation for each affected facility by the following equation:</P>
+                        <HD SOURCE="HD1">Equation 4 to Paragraph (b)(2)(i)(E)</HD>
+                        <GPH SPAN="1" DEEP="47">
+                            <GID>ER27MR23.007</GID>
+                        </GPH>
+                        <FP SOURCE="FP-2">
+                            Where T
+                            <E T="52">avg</E>
+                             = T when only one type of coating operation occurs.
+                        </FP>
+                        <P>(ii) Where the volume-weighted average mass of VOC's emitted to the atmosphere per unit volume of coating solids applied (N) is less than or equal to 1.5 kilograms per liter for prime coats, is less than or equal to 1.5 kilograms per liter for color coats, is less than or equal to 2.3 kilograms per liter for texture coats, and is less than or equal to 2.3 kilograms per liter for touch-up coats, the affected facility is in compliance.</P>
+                        <P>(iii) If each individual coating used by an affected facility has a VOC content (kg VOC/l of solids), as received, which when divided by the lowest transfer efficiency at which the coating is applied for each coating operation results in a value equal to or less than 1.5 kilograms per liter for prime and color coats and equal to or less than 2.3 kilograms per liter for texture and touch-up coats, the affected facility is in compliance provided that no VOC's are added to the coatings during distribution or application.</P>
+                        <P>(iv) If an affected facility uses add-on controls to control VOC emissions and if the owner or operator can demonstrate to the Administrator that the volume-weighted average mass of VOC's emitted to the atmosphere during each nominal 1-month period per unit volume of coating solids applied (N) is within each of the applicable limits expressed in paragraph (b)(2)(ii) of this section because of this equipment, the affected facility is in compliance. In such cases, compliance will be determined by the Administrator on a case-by-case basis.</P>
+                        <P>(c) Performance tests shall be conducted under such conditions as the Administrator shall specify to the plant operator based on representative performance of the affected facility. The owner or operator shall make available to the Administrator such records as may be necessary to determine the conditions of the performance tests.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â60.724a</SECTNO>
+                        <SUBJECT>Reporting and recordkeeping requirements.</SUBJECT>
+                        <P>(a) The reporting requirements of Â§â60.8(a) apply only to the initial performance test. Each owner or operator subject to the provisions of this subpart shall include the following data in the report of the initial performance test required under Â§â60.8(a):</P>
+                        <P>(1) Except as provided for in paragraph (a)(2) of this section, the volume-weighted average mass of VOC's emitted to the atmosphere per volume of applied coating solids (N) for the initial nominal 1-month period for each coating operation from each affected facility.</P>
+                        <P>(2) For each affected facility where compliance is determined under the provisions of Â§â60.723(b)(2)(iii), a list of the coatings used during the initial nominal 1-month period, the VOC content of each coating calculated from data determined using Method 24 of appendix A-7 to this part or an acceptable alternative method, and the lowest transfer efficiency at which each coating is applied during the initial nominal 1-month period. Acceptable alternative methods to Method 24 include: ASTM D2369-20; ASTM D2697-22; and ASTM D6093-97 (all incorporated by reference; see Â§â60.17).</P>
+                        <P>(b) Following the initial report, each owner or operator shall:</P>
+                        <P>(1) Report the volume-weighted average mass of VOC's per unit volume of coating solids applied for each coating operation for each affected facility during each nominal 1-month period in which the facility is not in compliance with the applicable emission limits specified in Â§â60.722. Reports of noncompliance shall be submitted on a quarterly basis, occurring every 3 months following the initial report; and</P>
+                        <P>(2) Submit statements that each affected facility has been in compliance with the applicable emission limits specified in Â§â60.722 during each nominal 1-month period. Statements of compliance shall be submitted on a semiannual basis.</P>
+                        <P>(c) Performance test reports, quarterly reports of noncompliance, and semiannual statements of compliance shall be submitted as a portable document format (PDF) upload not later than 10 days after the end of the periods specified in paragraphs (b)(1) and (2) of this section, according to paragraph (f) of this section.</P>
+                        <P>(d) Each owner or operator subject to the provisions of this subpart shall maintain at the source, for a period of at least 2 years, records of all data and calculations used to determine monthly VOC emissions from each coating operation for each affected facility as specified in Â§â60.7(d).</P>
+                        <P>(e) Monitoring, reporting and recordkeeping requirements for facilities using add-on controls will be determined by the Administrator on a case-by-case basis.</P>
+                        <P>
+                            (f) The owner or operator must submit all performance test reports, quarterly reports of noncompliance, and semiannual statements in PDF format to the EPA viathe Compliance and Emissions Data Reporting Interface (CEDRI), which can be accessed through EPA's Central Data Exchange (CDX) (
+                            <E T="03">https://cdx.epa.gov/</E>
+                            ). The EPA will make all the information submitted through CEDRI available to the public without further notice to you. Do not use CEDRI to submit information you claim as Confidential Business Information (CBI). Although we do not expect persons to assert a claim of CBI, if you wish to assert a CBI claim for some of the information in the report, you must submit a complete file, including information claimed to be CBI, to the EPA following the procedures in paragraphs (f)(1) and (2) of this section. Clearly mark the part or all of the information that you claim to be CBI. Information not marked as CBI may be authorized for public release without prior notice. Information marked as CBI will not be disclosed except in accordance with procedures set forth in 40 CFR part 2. All CBI claims must be asserted at the time of submission. Anything submitted using CEDRI cannot later be claimed CBI. Furthermore, under CAA section 114(c), 
+                            <PRTPAGE P="18071"/>
+                            emissions data is not entitled to confidential treatment, and the EPA is required to make emissions data available to the public. Thus, emissions data will not be protected as CBI and will be made publicly available. You must submit the same file submitted to the CBI office with the CBI omitted to the EPA via the EPA's CDX as described earlier in this paragraph (f).
+                        </P>
+                        <P>
+                            (1) The preferred method to receive CBI is for it to be transmitted electronically using email attachments, File Transfer Protocol, or other online file sharing services. Electronic submissions must be transmitted directly to the OAQPS CBI Office at the email address 
+                            <E T="03">oaqpscbi@epa.gov,</E>
+                             and as described in this paragraph (f), should include clear CBI markings and be flagged to the attention of the Surface Coating of Plastic Parts for Business Machines Sector Lead. If assistance is needed with submitting large electronic files that exceed the file size limit for email attachments, and if you do not have your own file sharing service, please email 
+                            <E T="03">oaqpscbi@epa.gov</E>
+                             to request a file transfer link.
+                        </P>
+                        <P>(2) If you cannot transmit the file electronically, you may send CBI information through the postal service to the following address: OAQPS Document Control Officer (C404-02), OAQPS, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina 27711, Attention Surface Coating of Plastic Parts for Business Machines Sector Lead. The mailed CBI material should be double wrapped and clearly marked. Any CBI markings should not show through the outer envelope.</P>
+                        <P>(3) If you are required to electronically submit a notification or report by this paragraph (f) through CEDRI in the EPA's CDX, you may assert a claim of EPA system outage for failure to timely comply with the electronic submittal requirement. To assert a claim of EPA system outage, you must meet the requirements outlined in paragraphs (f)(3)(i) through (vii) of this section.</P>
+                        <P>(i) You must have been or will be precluded from accessing CEDRI and submitting a required notification or report within the time prescribed due to an outage of either the EPA's CEDRI or CDX systems.</P>
+                        <P>(ii) The outage must have occurred within the period of time beginning 5 business days prior to the date that the notification or report is due.</P>
+                        <P>(iii) The outage may be planned or unplanned.</P>
+                        <P>(iv) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in reporting.</P>
+                        <P>(v) You must provide to the Administrator a written description identifying:</P>
+                        <P>(A) The date(s) and time(s) when CDX or CEDRI was accessed and the system was unavailable;</P>
+                        <P>(B) A rationale for attributing the delay in submitting beyond the regulatory deadline to EPA system outage;</P>
+                        <P>(C) Measures taken or to be taken to minimize the delay in submitting; and</P>
+                        <P>(D) The date by which you propose to submit, or if you have already met the electronic submittal requirement in this paragraph (f) at the time of the notification, the date you submitted the notification or report.</P>
+                        <P>(vi) The decision to accept the claim of EPA system outage and allow an extension to the reporting deadline is solely within the discretion of the Administrator.</P>
+                        <P>(vii) In any circumstance, the notification or report must be submitted electronically as soon as possible after the outage is resolved.</P>
+                        <P>(4) If you are required to electronically submit a notification or report by this paragraph (f) through CEDRI in the EPA's CDX, you may assert a claim of force majeure for failure to timely comply with the electronic submittal requirement. To assert a claim of force majeure, you must meet the requirements outlined in paragraphs (f)(4)(i) through (v) of this section.</P>
+                        <P>
+                            (i) You may submit a claim if a force majeure event is about to occur, occurs, or has occurred or there are lingering effects from such an event within the period of time beginning five business days prior to the date the submission is due. For the purposes of this section, a force majeure event is defined as an event that will be or has been caused by circumstances beyond the control of the affected facility, its contractors, or any entity controlled by the affected facility that prevents you from complying with the requirement to submit a notification or report electronically within the time period prescribed. Examples of such events are acts of nature (
+                            <E T="03">e.g.,</E>
+                             hurricanes, earthquakes, or floods), acts of war or terrorism, or equipment failure or safety hazard beyond the control of the affected facility (
+                            <E T="03">e.g.,</E>
+                             large scale power outage).
+                        </P>
+                        <P>(ii) You must submit notification to the Administrator in writing as soon as possible following the date you first knew, or through due diligence should have known, that the event may cause or has caused a delay in submitting through CEDRI.</P>
+                        <P>(iii) You must provide to the Administrator:</P>
+                        <P>(A) A written description of the force majeure event;</P>
+                        <P>(B) A rationale for attributing the delay in reporting beyond the regulatory deadline to the force majeure event;</P>
+                        <P>(C) Measures taken or to be taken to minimize the delay in reporting; and</P>
+                        <P>(D) The date by which you propose to submit the notification or report, or if you have already met the electronic submittal requirement in this paragraph (f) at the time of the notification, the date you submitted the notification or report.</P>
+                        <P>(iv) The decision to accept the claim of force majeure and allow an extension to the submittal deadline is solely within the discretion of the Administrator.</P>
+                        <P>(v) In any circumstance, the reporting must occur as soon as possible after the force majeure event occurs.</P>
+                        <P>(g) Any records required to be maintained by this subpart that are submitted electronically via the EPA's CEDRI may be maintained in electronic format. This ability to maintain electronic copies does not affect the requirement for facilities to make records, data, and reports available upon request to a delegated air agency or the EPA as part of an on-site compliance evaluation.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â60.725a</SECTNO>
+                        <SUBJECT>Test methods and procedures.</SUBJECT>
+                        <P>(a) The reference methods in appendix A to this part except as provided under Â§â60.8(b) shall be used to determine compliance with Â§â60.722 as follows:</P>
+                        <P>(1) Method 24 of appendix A-7 to this part for determination of VOC content of each coating as received.</P>
+                        <P>(2) For Method 24, the sample must be at least a 1-liter sample in a 1-liter container.</P>
+                        <P>(b) Other methods may be used to determine the VOC content of each coating if approved by the Administrator before testing. Acceptable alternative methods to Method 24 include: ASTM D2369-20; ASTM D2697-22; and ASTM D6093-97 (all incorporated by reference; see Â§â60.17).</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â60.726a</SECTNO>
+                        <SUBJECT>Delegation of authority.</SUBJECT>
+                        <P>(a) In delegating implementation and enforcement authority to a State under section 111(c) of the Act, the authorities contained in paragraph (b) of this section shall be retained by the Administrator and not transferred to a State.</P>
+                        <P>
+                            (b) Authorities which will not be delegated to the States:
+                            <PRTPAGE P="18072"/>
+                        </P>
+                        <P>(1) Section 60.723a(b)(1).</P>
+                        <P>(2) Section 60.723a(b)(2)(i)(C).</P>
+                        <P>(3) Section 60.723a(b)(2)(iv).</P>
+                        <P>(4) Section 60.724a(b).</P>
+                        <P>(5) Section 60.724a(e).</P>
+                        <P>(6) Section 60.724a(f).</P>
+                        <P>(7) Section 60.725a(b).</P>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2023-04966 Filed 3-24-23; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6560-50-P</BILCOD>
+        </RULE>

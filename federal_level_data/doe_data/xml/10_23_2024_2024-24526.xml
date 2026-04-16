@@ -1,0 +1,1341 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF ENERGY</AGENCY>
+                <SUBAGY>Federal Energy Regulatory Commission</SUBAGY>
+                <CFR>18 CFR Parts 50 and 380</CFR>
+                <DEPDOC>[Docket No. RM22-7-001; Order No. 1977-A]</DEPDOC>
+                <SUBJECT>Applications for Permits to Site Interstate Electric Transmission Facilities</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Federal Energy Regulatory Commission, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule; Order addressing arguments raised on rehearing, and setting aside prior order, in part.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>In this order, the Federal Energy Regulatory Commission addresses arguments raised on rehearing of Order No. 1977, which amended the Commission's regulations governing applications for permits to site electric transmission facilities under section 216 of the Federal Power Act, as amended by the Infrastructure Investment and Jobs Act of 2021, and amended its National Environmental Policy Act procedures.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective November 22, 2024.</P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>  </P>
+                    <FP SOURCE="FP-1">
+                        Maggie Suter (Technical Information), Office of Energy Projects, Federal Energy Regulatory Commission, 888 First Street NE, Washington, DC 20426, (202) 502-6344, 
+                        <E T="03">magdalene.suter@ferc.gov</E>
+                    </FP>
+                    <FP SOURCE="FP-1">
+                        Tara DiJohn Bruce (Legal Information), Office of the General Counsel, Federal Energy Regulatory Commission, 888 First Street NE, Washington, DC 20426, (202) 502-8671, 
+                        <E T="03">tara.bruce@ferc.gov</E>
+                    </FP>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P>
+                    1. On May 13, 2024, the Federal Energy Regulatory Commission (Commission) issued Order No. 1977.
+                    <SU>1</SU>
+                    <FTREF/>
+                     Order No. 1977 amended the Commission's regulations governing applications for permits to site electric transmission facilities: to be consistent with section 216 of the Federal Power Act (FPA),
+                    <SU>2</SU>
+                    <FTREF/>
+                     as amended by the Infrastructure Investment and Jobs Act (IIJA);â
+                    <SU>3</SU>
+                    <FTREF/>
+                     to modernize certain regulatory requirements; and to incorporate other updates and clarifications to ensure the efficient and timely review of permit applications. On June 12, 2024, Earthjustice, Environmental Defense Fund, Natural Resources Defense Council, Sierra Club, Sustainable FERC Project, Union of Concerned Scientists, WE ACT for Environmental Justice, and the Yurok Tribe (together, Public Interest Organizations); Louisiana Public Service Commission (Louisiana Commission); New York State Public Service Commission (New York Commission);â
+                    <SU>4</SU>
+                    <FTREF/>
+                     and Pennsylvania Public Utility Commission (Pennsylvania Commission) filed timely requests for rehearing.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        â
+                        <E T="03">Applications for Permits to Site Interstate Elec. Transmission Facilities,</E>
+                         Order No. 1977, 89 FR 46682 (May 29, 2024), 187 FERC Â¶â61,069 (2024).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        â16 U.S.C. 824p.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âPublic Law 117-58, sec. 40105, 135 Stat. 429 (2021).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âNew York Commission seeks rehearing, or in the alternative, clarification of Order No. 1977.
+                    </P>
+                </FTNT>
+                <P>
+                    2. Pursuant to 
+                    <E T="03">Allegheny Defense Project</E>
+                     v. 
+                    <E T="03">FERC,</E>
+                    <SU>5</SU>
+                    <FTREF/>
+                     the rehearing requests filed in this proceeding may be deemed denied by operation of law. However, as permitted by section 313(a) of the FPA,
+                    <SU>6</SU>
+                    <FTREF/>
+                     we are modifying the discussion in Order No. 1977 and setting aside the order, in part, as discussed below.
+                    <SU>7</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        â964 F.3d 1 (D.C. Cir. 2020) (en banc).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        â16 U.S.C. 825
+                        <E T="03">l</E>
+                        (a) (âUntil the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b), the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it under the provisions of this chapter.â).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        â
+                        <E T="03">Allegheny Def. Project,</E>
+                         964 F.3d at 16-17.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">I. Background</HD>
+                <P>
+                    3. The Energy Policy Act of 2005â
+                    <SU>8</SU>
+                    <FTREF/>
+                     added section 216 to the FPA, providing for Federal siting of electric transmission facilities under certain circumstances.
+                    <SU>9</SU>
+                    <FTREF/>
+                     Under section 216, Federal siting authority is divided between the U.S. Department of Energy (DOE) and the Commission. Section 216(a) directs DOE to conduct a study and issue a report on electric transmission congestion and authorizes DOE to designate certain transmission-constrained or congested geographic areas as national interest electric 
+                    <PRTPAGE P="84466"/>
+                    transmission corridors (National Corridors). Section 216(b) provides that the Commission may issue permits to construct or modify electric transmission facilities in a designated National Corridor under specified circumstances.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âPublic Law 109-58, sec. 1221, 119 Stat. 594 (Aug. 8, 2005).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âOrder No. 1977 provides a more detailed discussion of the legislative, regulatory, and judicial actions that preceded the final rule. 
+                        <E T="03">See</E>
+                         Order No. 1977, 187 FERC Â¶â61,069 at pt I.
+                    </P>
+                </FTNT>
+                <P>
+                    4. On November 16, 2006, the Commission issued Order No. 689,
+                    <SU>10</SU>
+                    <FTREF/>
+                     which implemented new regulations for section 216 permit applications by adding part 50 to the Commission's regulations and by modifying part 380 of the Commission's regulations implementing the National Environmental Policy Act of 1969 (NEPA).
+                    <SU>11</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        â
+                        <E T="03">Reguls. for Filing Applications for Permits to Site Interstate Elec. Transmission Facilities,</E>
+                         Order No. 689, 117 FERC Â¶â61,202 (2006) (Order No. 689), 
+                        <E T="03">reh'g denied,</E>
+                         119 FERC Â¶â61,154 (2007) (Order No. 689 Rehearing).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        â42 U.S.C. 4321 
+                        <E T="03">et seq. See also</E>
+                         18 CFR pt. 380 (Commission's regulations implementing NEPA).
+                    </P>
+                </FTNT>
+                <P>
+                    5. On November 15, 2021, the IIJA amended FPA section 216. With respect to the Commission's electric transmission siting authority, the IIJA amended section 216(b)(1)(C) to expressly provide that the Commission may issue a permit if a State has denied an application. As amended, section 216(b)(1)(C) provides that the Commission's siting authority is triggered when a State commission or other entity with authority to approve the siting of the transmission facilities: (i) has not made a determination on a siting application by one year after the later of the date on which the application was filed or the date on which the relevant National Corridor was designated; (ii) has conditioned its approval such that the proposed project will not significantly reduce transmission capacity constraints or congestion in interstate commerce or is not economically feasible; or (iii) has denied an application.
+                    <SU>12</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        â16 U.S.C. 824p(b)(1)(C).
+                    </P>
+                </FTNT>
+                <P>
+                    6. Additionally, the IIJA amended section 216(e), which grants a permit holder the right to acquire the necessary right-of-way by eminent domain.
+                    <SU>13</SU>
+                    <FTREF/>
+                     As amended, section 216(e)(1) requires the Commission to determine, as a precondition to a permit holder exercising eminent domain authority, that the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process.
+                    <SU>14</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        â
+                        <E T="03">Id.</E>
+                         824p(e)(1).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    7. On December 15, 2022, the Commission issued a Notice of Proposed Rulemaking (NOPR) which proposed revisions to parts 50 and 380 of the Commission's regulations to, among other things, address the IIJA's amendments to FPA section 216.
+                    <SU>15</SU>
+                    <FTREF/>
+                     After considering comments on the NOPR, on May 13, 2024, the Commission issued its final rule in Order No. 1977.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        â
+                        <E T="03">Applications for Permits to Site Interstate Elec. Transmission Facilities,</E>
+                         88 FR 2770 (Jan. 17, 2023), 181 FERC Â¶â61,205 (2022) (NOPR), 
+                        <E T="03">errata notice,</E>
+                         182 FERC Â¶â61,020 (2023). The Commission's errata notice for the NOPR, issued on January 17, 2023, reflected certain stylistic revisions requested by the 
+                        <E T="04">Federal Register</E>
+                         as well as minor, non-substantive editorial revisions.
+                    </P>
+                </FTNT>
+                <P>8. On June 12, 2024, Public Interest Organizations, Louisiana Commission, New York Commission, and Pennsylvania Commission requested rehearing. The rehearing requests raise issues related to when the Commission's jurisdiction is triggered; how State siting decisions and evidentiary records, including comments filed in State proceedings, will be considered in the Commission proceeding; the scope of the Applicant Code of Conduct and the Landowner Bill of Rights; and the analysis of climate impacts under NEPA. We address the issues raised on rehearing below.</P>
+                <HD SOURCE="HD1">II. Discussion</HD>
+                <HD SOURCE="HD2">A. Commission Jurisdiction</HD>
+                <HD SOURCE="HD3">1. Order No. 1977</HD>
+                <P>
+                    9. FPA section 216(b)(1)(C)(i), as amended by the IIJA, provides that the Commission may issue a permit for the construction or modification of electric transmission facilities in a National Corridor if a State commission or other entity with authority to approve the siting of the transmission facilities has not made a determination on a siting application by one year after the later of the date on which the application was filed or the date on which the relevant National Corridor was designated.
+                    <SU>16</SU>
+                    <FTREF/>
+                     The final rule revised Â§â50.6(e) of the Commission's regulations, which describes the information that each permit application must provide. As relevant here, Â§â50.6(e)(3)(i) requires that an applicant seeking to invoke the Commission's jurisdiction under FPA section 216(b)(1)(C)(i) must provide, at the time it files an application with the Commission, evidence that a State has not made a determination on an application seeking approval pursuant to applicable law.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        â16 U.S.C. 824p(b)(1)(c).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2. Requests for Rehearing</HD>
+                <P>
+                    10. New York Commission contends that the Commission's failure to explain how the one-year timeframe triggering the Commission's jurisdiction will be calculated is arbitrary and capricious.
+                    <SU>17</SU>
+                    <FTREF/>
+                     Reiterating its comments on the NOPR, New York Commission recommends that the one-year period commence once an application is deemed complete according to applicable State requirements.
+                    <SU>18</SU>
+                    <FTREF/>
+                     It asserts that failure to impose such a requirement leaves the States with significant regulatory uncertainty and could lead to incomplete applications and rushed review.
+                    <SU>19</SU>
+                    <FTREF/>
+                     New York Commission states that the Commission's jurisdiction should not be triggered until a year after a complete application has been filed with the State in order to disincentivize applicants from trying to âgameâ the system by filing deficient applications with the State just to start and exhaust the one-year timeframe.
+                    <SU>20</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âNew York Commission Rehearing Request at 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 6-7.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 6, 7.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 6.
+                    </P>
+                </FTNT>
+                <P>
+                    11. New York Commission asks the Commission to revise the final rule to specify that, where a State has not made a determination on an application, the Commission's jurisdiction is dependent upon the filing of a complete application with the State.
+                    <SU>21</SU>
+                    <FTREF/>
+                     In the alternative, New York Commission asks that the Commission clarify for prospective applicants how the Commission will determine when the statute's one-year period begins to run.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 7-8.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">3. Commission Determination</HD>
+                <P>
+                    12. We agree with New York Commission that the filing of a complete application with the State is an important consideration when Commission jurisdiction is based upon FPA section 216(b)(1)(C)(i). However, we do not find it necessary to revise the final rule to specify that the Commission's consideration of an application pursuant to FPA section 216(b)(1)(C)(i) must hinge upon the filing of a complete application with the State.
+                    <SU>22</SU>
+                    <FTREF/>
+                     As the Commission explained previously, our regulations require that the applicant file information concerning the status of the applicant's filings before State agencies at various points during the Commission's pre-
+                    <PRTPAGE P="84467"/>
+                    filing process.
+                    <SU>23</SU>
+                    <FTREF/>
+                     Specifically, Â§â50.5(b)(3) requires that the applicant, at the initial consultation meeting in pre-filing, discuss when it filed its application with the State and the status of that application. Section 50.5(c)(5) requires that the applicant's pre-filing request describe any work completed or actions taken in conjunction with the State proceeding. Finally, under Â§â50.6(e)(3)(i), the applicant must provide evidence, at the time an application is filed with the Commission, that the State has not made a determination on an application seeking approval under applicable law.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        âWe note that FPA section 216(b)(1)(C)(i) provides that the Commission may issue a permit if a State has not made a determination on an application by the date that is one year after the date on which the application was filed, or the date on which the relevant National Corridor was designated, whichever is later. But the statute does not explicitly state that the one-year period is triggered by the filing of a complete application. 
+                        <E T="03">Compare</E>
+                         16 U.S.C. 824p(b)(1)(C)(i) 
+                        <E T="03">with id.</E>
+                         824p(b)(h)(4)(B) (requiring all permit decisions and environmental reviews be completed within one year âonce an application has been submitted with such data as the Secretary [of Energy] considers necessaryâ)
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âOrder No. 689 Rehearing, 119 FERC Â¶â61,154 at P 34.
+                    </P>
+                </FTNT>
+                <P>13. The Commission will take into account all information provided by the applicant and stakeholders, including the relevant States, concerning the timing and status of the State proceeding in determining whether an application meets the requirements of FPA section 216(b)(1)(C)(i). When rendering a decision on a permit application, the Commission will consider, on a case-by-case basis, arguments regarding whether one year has passed from the date on which the application was filed with the State, including any assertion that such application was incomplete. We find this measured, case-specific approach is appropriate because such a determination will be informed by the specific facts presented in any given proceeding including, as applicable, State-specific laws and regulations.</P>
+                <P>
+                    14. Moreover, we note that in Order No. 1977 the Commission declined to adopt the NOPR proposal to allow simultaneous processing.
+                    <SU>24</SU>
+                    <FTREF/>
+                     This proposal would have allowed the Commission's pre-filing process to begin once an application had been filed with the State.
+                    <SU>25</SU>
+                    <FTREF/>
+                     In declining to adopt simultaneous processing, the Commission continues to recognize the States' primacy in transmission siting and afford States one full year to process an application without any overlapping Commission processes.
+                    <SU>26</SU>
+                    <FTREF/>
+                     An applicant may request to begin the Commission's pre-filing process only after that year has passed.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âOrder No. 1977, 187 FERC Â¶â61,069 at PP 53-54.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        â
+                        <E T="03">See id.</E>
+                         PP 53-54.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        â
+                        <E T="03">See id.</E>
+                         P 40.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. State Siting Proceedings</HD>
+                <HD SOURCE="HD3">1. Order No. 1977</HD>
+                <P>15. Section 50.6(e) requires an application to provide evidence demonstrating that one of the jurisdictional bases set forth in FPA section 216(b)(1) applies to the proposed facilities. In addition, Â§â50.6(f) provides that an application must also demonstrate that the proposed facilities meet the statutory criteria in FPA sections 216(b)(2) through (6), including, among other things, that the proposal is consistent with the public interest.</P>
+                <P>
+                    16. In Order No. 1977, the Commission adopted revisions to Â§â50.6(e) for consistency with the IIJA's amendments to FPA section 216(b)(1).
+                    <SU>27</SU>
+                    <FTREF/>
+                     The IIJA did not amend the criteria in section 216(b)(2) through (6). Therefore, Order No. 1977 did not revise Â§â50.6(f). In response to comments on the NOPR, the Commission declined to adopt a requirement that an applicant file with the Commission all comments submitted in a relevant State siting proceeding.
+                    <SU>28</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        â
+                        <E T="03">Id.</E>
+                         P 33.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        â
+                        <E T="03">Id.</E>
+                         P 216.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2. Requests for Rehearing</HD>
+                <P>
+                    17. Louisiana Commission seeks rehearing of Order No. 1977, arguing that the final rule intrudes on State authority and fails to require consideration of a State's siting decision and the associated evidentiary record.
+                    <SU>29</SU>
+                    <FTREF/>
+                     It asserts that a State's decision on a siting application is deserving of deference and should be presumed correct, with the burden of proof on the applicant in the Federal proceeding to overcome that presumption.
+                    <SU>30</SU>
+                    <FTREF/>
+                     Louisiana Commission urges the Commission to defer, or at least consider and afford great weight, to a State's findings.
+                    <SU>31</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>29</SU>
+                        âLouisiana Commission Rehearing Request at 5, 7-8.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>30</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 8.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>31</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    18. Public Interest Organizations assert that the Commission should incorporate all public comments in the State permitting docket into the administrative record for any subsequent Federal permitting proceeding.
+                    <SU>32</SU>
+                    <FTREF/>
+                     They contend that comments in State permitting processes are generally public and incorporating them in the Commission's docket, even absent explicit permission, will not harm commenters' interests.
+                    <SU>33</SU>
+                    <FTREF/>
+                     Rather, Public Interest Organizations note that this practice would benefit commenters by eliminating the âprocedural trapâ of requiring commenters in a State proceeding to resubmit any input to the Commission.
+                    <SU>34</SU>
+                    <FTREF/>
+                     They also posit that incorporating all comments filed at the State level would help ensure that the Commission has a full administrative record containing all information relevant to the State's decision and that the Commission's permit decision is legally defensible.
+                    <SU>35</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>32</SU>
+                        âPublic Interest Organizations Rehearing Request at 23-34.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>33</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 23.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>34</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 24.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>35</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">3. Commission Determination</HD>
+                <P>
+                    19. The Commission has previously stated that in reviewing a request for a permit to site electric transmission facilities it will consider the record in its entirety, including any information filed regarding actions or findings made in the State proceeding.
+                    <SU>36</SU>
+                    <FTREF/>
+                     We reaffirm that commitment here. Nevertheless, we note that, although the Commission will consider the outcome and relevant findings of State siting decisions, the State's decision is not determinative under the section 216 framework. If the Commission finds that the statutory criteria under section 216(b) have been met, it may issue a permit to construct or modify electric transmission facilities in a National Corridor notwithstanding a State's denial of the same.
+                    <SU>37</SU>
+                    <FTREF/>
+                     The Commission's consideration, as described in the final rule, of whether an application meets the statutory criteria for Commission jurisdiction does not improperly intrude upon State authority.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>36</SU>
+                        âOrder No. 689 Rehearing, 119 FERC Â¶â61,154 at P 4.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>37</SU>
+                        â16 U.S.C. 824p(b)(1)(C)(iii).
+                    </P>
+                </FTNT>
+                <P>
+                    20. When filings made in a Commission proceeding reference information in a State siting proceeding, to the extent that the Commission may find certain elements of the State siting proceeding useful in its decision-making process, it may request that the applicant file this information in the Commission's record, as needed, on a case-by-case basis.
+                    <SU>38</SU>
+                    <FTREF/>
+                     We continue to find that incorporating the State record in its entirety into the Commission's record would require the submission and review of information that may not be relevant to the Commission proceeding.
+                    <SU>39</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>38</SU>
+                        âOrder No. 1977, 187 FERC Â¶â61,069 at P 256.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>39</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    21. We disagree that we are creating a âprocedural trapâ or imperiling the legal defensibility of our orders by declining to mandate that all comments in the State proceeding be filed in the Commission's docket. The commencement of the pre-filing process and the filing of an application are both milestones that trigger requirements that an applicant notify stakeholders. These requirements are intended to encourage stakeholder participation and disseminate information about the proposed project and about how to 
+                    <PRTPAGE P="84468"/>
+                    participate in the Commission's pre-filing and application processes. In particular, applicants must make a good faith effort to notify, among other stakeholders, any known individuals or organizations that have expressed an interest in the State siting proceeding.
+                    <SU>40</SU>
+                    <FTREF/>
+                     In addition, the applicant's Pre-filing Notification must explain that the Commission's pre-filing and application processes are separate from any ongoing State siting proceeding and describe the status of any such State siting proceeding.
+                    <SU>41</SU>
+                    <FTREF/>
+                     We believe these provisions are sufficient to ensure that stakeholders are made aware of the Commission's separate proceeding and how to participate in it, and that stakeholders can then decide whether to file with the Commission information that they have provided to the State.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>40</SU>
+                        â18 CFR 50.4(c)(1).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>41</SU>
+                        â
+                        <E T="03">Id.</E>
+                         Â§â50.4(c)(2)(i)(H).
+                    </P>
+                </FTNT>
+                <P>
+                    22. Moreover, as previously noted, in Order No. 1977 the Commission declined to adopt the NOPR proposal to allow simultaneous processing.
+                    <SU>42</SU>
+                    <FTREF/>
+                     This means that, in cases where the Commission's jurisdiction rests on the pendency of a State's siting determination (
+                    <E T="03">i.e.,</E>
+                     FPA section 216(b)(1)(C)(i)), the pre-filing process will not begin until at least one year after applications have been filed with the relevant States.
+                    <SU>43</SU>
+                    <FTREF/>
+                     The one-year delay between initiation of the State and Federal processes increases the possibility that comments filed in the State siting proceeding may contain outdated information or may not fully reflect the filer's views with respect to the subsequent Commission proceeding. For these reasons, we continue to find it unnecessary to impose a generic requirement that all comments filed in a State siting proceeding should be incorporated into any subsequent Commission proceeding. This does not preclude interested parties from submitting for the Commission's consideration information from the State proceeding.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>42</SU>
+                        âOrder No. 1977, 187 FERC Â¶â61,069 at P 53.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>43</SU>
+                        â
+                        <E T="03">Id.</E>
+                         P 54.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">
+                    C. 
+                    <E T="03">Applicant Code of Conduct Applicability</E>
+                </HD>
+                <HD SOURCE="HD3">1. Order No. 1977</HD>
+                <P>
+                    23. Section 216(e)(1) of the FPA, as amended by the IIJA, requires the Commission to determine, as a prerequisite to a permit holder receiving eminent domain authority, that the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process.
+                    <SU>44</SU>
+                    <FTREF/>
+                     In Order No. 1977, the Commission adopted an Applicant Code of Conduct as one way that an applicant may demonstrate that it has made good faith efforts to engage with landowners.
+                    <SU>45</SU>
+                    <FTREF/>
+                     The Commission further explained that an applicant may choose an alternative method of demonstrating that it meets the good faith efforts standard, so long as it explains how its alternative method is equal to or better than compliance with the Applicant Code of Conduct.
+                    <SU>46</SU>
+                    <FTREF/>
+                     In response to comments about the statute's requirement to make good faith efforts to engage with âother stakeholdersâ in addition to landowners, Order No. 1977 explained that applicants will bear the burden of demonstrating good faith efforts to engage with stakeholders other than landowners and that the Commission will evaluate these efforts on a case-by-case basis, based on the record in each individual proceeding.
+                    <SU>47</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>44</SU>
+                        â16 U.S.C. 824p(e)(1).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>45</SU>
+                        âOrder No. 1977, 187 FERC Â¶â61,069 at PP 73-74.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>46</SU>
+                        â
+                        <E T="03">Id.</E>
+                         P 82.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>47</SU>
+                        â
+                        <E T="03">Id.</E>
+                         P 84.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2. Rehearing Requests</HD>
+                <P>
+                    24. First, Public Interest Organizations contend that the Commission erred by not extending the Applicant Code of Conduct to all stakeholders or, in the alternative, by not adding to the regulations a requirement that applicants demonstrate that they have made good faith efforts to engage with other stakeholders.
+                    <SU>48</SU>
+                    <FTREF/>
+                     To comply with the FPA's good faith efforts requirement, Public Interest Organizations argue that the Applicant Code of Conduct must be applied to all landowners and other stakeholders.
+                    <SU>49</SU>
+                    <FTREF/>
+                     They generally argue this would provide a clear path for applicants to satisfy the statutory requirement and that many of the provisions in the Applicant Code of Conduct are not landowner-specific and apply equally to all stakeholders (
+                    <E T="03">e.g.,</E>
+                     maintaining a discussion log; ensuring communications are factually correct and respectful; avoiding harassing, coercive, manipulative, or intimidating communications or high-pressure tactics).
+                    <SU>50</SU>
+                    <FTREF/>
+                     In the alternative, Public Interest Organizations argue that the Commission must revise its regulations to make clear that the applicant must engage in good faith with all stakeholders.
+                    <SU>51</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>48</SU>
+                        âPublic Interest Organizations Rehearing Request at 2.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>49</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 2-6.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>50</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 5-6.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>51</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 7-8.
+                    </P>
+                </FTNT>
+                <P>
+                    25. Second, Public Interest Organizations assert that if the Applicant Code of Conduct is not extended to all stakeholders it should, at a minimum, apply to an applicant's engagement with Indian Tribes.
+                    <SU>52</SU>
+                    <FTREF/>
+                     Citing that the Commission's reasoning for limiting applicability of the Code of Conduct is to protect landowners whose property may be used or acquired, Public Interest Organizations note that âthese same early-in-the-process protections of honest dealings, consent to enter lands, and documentation of engagement are also necessary to protect Tribes whose remaining resources may be affected, particularly on reservations or lands otherwise held by a Tribe, as well as on Tribes' ancestral lands.ââ
+                    <SU>53</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>52</SU>
+                        â
+                        <E T="03">See id.</E>
+                         at 8-16.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>53</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 10.
+                    </P>
+                </FTNT>
+                <P>
+                    26. Third, Public Interest Organizations urge the Commission to clarify two statements in Order No. 1977's preamble regarding Tribal land ownership. They ask the Commission to recognize that Tribes: (1) meet the Commission's definition of âaffected landownersâ regardless of whether their land is held in fee or in trust,
+                    <SU>54</SU>
+                    <FTREF/>
+                     and (2) retain their sovereign right to exclude nonmembers from reservation land, regardless of the applicability of the Applicant Code of Conduct.
+                    <SU>55</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>54</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 12-15.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>55</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 15-16.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">3. Commission Determination</HD>
+                <P>
+                    27. Order No. 1977 did not err by adopting an Applicant Code of Conduct that focuses on an applicant's engagement with affected landowners. As the Commission previously explained, the Applicant Code of Conduct specifies recordkeeping and information-sharing requirements that are tailored to encourage productive and more sustained engagement with affected landowners regarding the use or acquisition of their property.
+                    <SU>56</SU>
+                    <FTREF/>
+                     The interests of other individual stakeholders may vary in timing and scope, and the amount and type of engagement with each stakeholder will need to be adapted to case-specific circumstances. We continue to find that the most appropriate way to determine whether an applicant has made good faith efforts to engage with other stakeholders is based on the record in each individual proceeding. As the Commission previously explained, the burden is on the applicant to show that the good faith efforts standard is met with respect to stakeholders.
+                    <SU>57</SU>
+                    <FTREF/>
+                     In evaluating whether this showing is met, we will consider, among other things, an applicant's efforts to engage stakeholders as described in the Project 
+                    <PRTPAGE P="84469"/>
+                    Participation Plan (including engagement with environmental justice communities and Tribes) and monthly status reports filed during pre-filing, as well as compliance with project notification requirements.
+                    <SU>58</SU>
+                    <FTREF/>
+                     The Commission will also consider other record information, such as comments filed by stakeholders.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>56</SU>
+                        âOrder No. 1977, 187 FERC Â¶â61,069 at P 84.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>57</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>58</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    28. The Commission has explained that it will make this determination at the time it renders a decision on a permit application.
+                    <SU>59</SU>
+                    <FTREF/>
+                     We intend to evaluate an applicant's engagement with affected landowners based on compliance with the Applicant Code of Conduct, or an alternative method, and an applicant's engagement with other stakeholders based on the record in the proceeding. This approach will provide the Commission with sufficient information to determine whether an applicant has made good faith efforts, and the Commission did not err by declining to either adopt specific criteria or regulatory text reiterating the statutory obligation with respect to other stakeholders.
+                    <SU>60</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>59</SU>
+                        â
+                        <E T="03">Id.</E>
+                         P 78.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>60</SU>
+                        âWe note that, to the extent relevant, nothing precludes applicants from applying generic principles of good faith engagement from the Applicant Code of Conduct to interactions with other stakeholders.
+                    </P>
+                </FTNT>
+                <P>
+                    29. As to Public Interest Organizations' second argument, we similarly find that Order No. 1977 did not err by declining to extend the Applicant Code of Conduct to an applicant's engagement with Tribes. As noted above, we think it appropriate that the Applicant Code of Conduct focuses on affected landowners whose property is most likely to be affected by a proposed projectâ
+                    <E T="03">e.g.,</E>
+                     property that will be crossed or used, abutting property that may be affected by minor adjustments to the route or project facilities, or property containing residences in close proximity to construction areasâand whose property may be subject to eminent domain. Section 216(e) authorizes a permit holder to use eminent domain to acquire the necessary right-of-way to construct, operate, and maintain transmission facilities. But section 216(e)(1) expressly excludes property owned by the United States from the type of property that can be acquired by eminent domain, and Tribal reservation or trust lands are owned by the United States and held in trust for the benefit of Tribes. Therefore, an applicant may not acquire rights-of-way across these lands using eminent domain under section 216(e). Rather, an applicant must apply to the U.S. Department of the Interior's Bureau of Indian Affairs (BIA) for right-of-way authorization to cross Tribal land and comply with the relevant BIA regulations.
+                    <SU>61</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>61</SU>
+                        âIt appears that BIA regulations require an applicant for right-of way authorization to obtain consent from the Tribe or individual Indian landowner. 
+                        <E T="03">See</E>
+                         25 CFR 169.107.
+                    </P>
+                </FTNT>
+                <P>
+                    30. Nevertheless, due to the unique and complex nature of Tribal land ownership, we are modifying the Tribal Engagement Plan to add requirements that will apply if rights-of-way on land owned in trust or restricted status must be obtained for a proposed project.
+                    <SU>62</SU>
+                    <FTREF/>
+                     Specifically, if a proposed project will require this type of right-of-way authorization, the Tribal Engagement Plan must describe how the applicant will engage with the relevant Indian Tribe or individual Indian landowners to obtain the necessary permissions, including consent to access Tribal land to prepare information required by the application (
+                    <E T="03">e.g.,</E>
+                     to survey), if applicable, and ensure that communications with Indian Tribes are honest, factually accurate, and respectful of Tribal sovereignty. These additional requirements, if applicable, will apply to all applicants regardless of whether they choose to comply with the Applicant Code of Conduct.
+                    <SU>63</SU>
+                    <FTREF/>
+                     We clarify that the definition of affected landowner does not specifically encompass Indian Tribes or individual Indian landowners located on Tribal reservations or trust lands owned by the United States and held in trust for the benefit of Tribes.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>62</SU>
+                        âBIA's regulations provide that âtrust or restricted statusâ means: â(1) That the United States holds title to the tract or interest in trust for the benefit of one or more tribes and/or individual Indians; or (2) That one or more tribes and/or individual Indians holds title to the tract or interest, but can alienate or encumber it only with the approval of the United States because of limitations in the conveyance instrument under Federal law or limitations in Federal law.â 25 CFR 169.2.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>63</SU>
+                        âAs in the final rule, we note that the Tribal Engagement Plan does not affect and is separate from the Commission's consultation practices under its Tribal Consultation Policy, as well as existing trust responsibilities and government-to-government relationships with Tribes. 
+                        <E T="03">Pol'y Statement on Consultation with Indian Tribes in Comm'n Procs.,</E>
+                         Order No. 635, 104 FERC Â¶â61,108 (2003), 
+                        <E T="03">revised,</E>
+                         Order No. 863, 169 FERC Â¶â61,036 (2019). The Tribal Consultation Policy is codified at 18 CFR 2.1c. The Commission also has separate responsibilities to consult with Tribes under section 106 of the National Historic Preservation Act.
+                    </P>
+                </FTNT>
+                <P>
+                    31. Finally, in response to Public Interest Organizations' request, we clarify a statement in Order No. 1977's preamble regarding the need to obtain consent to enter Tribal lands. The statement was in reference to applicability of a specific provision of the Applicant Code of Conduct that requires an applicant to obtain an affected landowner's permission prior to accessing their property to survey.
+                    <SU>64</SU>
+                    <FTREF/>
+                     We recognize and clarify that a Tribe's right to exclude, or condition the presence of, nonmembers on Tribal lands is well-established.
+                    <SU>65</SU>
+                    <FTREF/>
+                     Nothing in Order No. 1977, as revised herein, is intended to or can infringe upon Tribal sovereignty.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>64</SU>
+                        â
+                        <E T="03">See</E>
+                         Order No. 1977, 187 FERC Â¶â61,069 at P 94 (âRegarding Tribal concerns for obtaining consent to enter Tribal lands, we clarify that the Applicant Code of Conduct would apply to land owned in fee by a Tribe or member of a Tribe, so Â§â50.12(a)(9) would require approval from the Tribe or member of a Tribe under those circumstances.â).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>65</SU>
+                        â
+                        <E T="03">See, e.g., State of Montana</E>
+                         v. 
+                        <E T="03">U.S.,</E>
+                         450 U.S. 544, 557 (1981) (Tribe may prohibit nonmembers from hunting or fishing on land belonging to the Tribe or held by the United States in trust for the Tribe or it may place conditions upon their entry upon the same); 
+                        <E T="03">Merrion</E>
+                         v. 
+                        <E T="03">Jicarilla Apache Tribe,</E>
+                         455 U.S. 130, 144 (1982) (âNonmembers who lawfully enter tribal lands remain subject to the tribe's power to exclude them. This power necessarily includes the lesser power to place conditions on entry, on continued presence, or on reservation conduct, such as a tax on business activities conducted on the reservation.â).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">D. Landowner Bill of Rights</HD>
+                <HD SOURCE="HD3">1. Order No. 1977</HD>
+                <P>
+                    32. In Order No. 1977, the Commission adopted a new project notification requirement to ensure that any Pre-filing Notification that an applicant mails to an affected landowner include a copy of a Commission document titled âLandowner Bill of Rights in Federal Energy Regulatory Commission Electric Transmission Proceedingsâ (Landowner Bill of Rights).
+                    <SU>66</SU>
+                    <FTREF/>
+                     The Commission explained that requiring applicants to provide this document at the outset of the permitting process would help ensure that affected landowners are informed of their rights in dealings with the applicant, in Commission proceedings, and in eminent domain proceedings.
+                    <SU>67</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>66</SU>
+                        âOrder No. 1977, 187 FERC Â¶â61,069 at P 202 &amp; app. A (providing final version of the Landowner Bill of Rights).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>67</SU>
+                        â
+                        <E T="03">Id.</E>
+                         P 196.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2. Rehearing Requests</HD>
+                <P>
+                    33. Pennsylvania Commission argues that the Commission's decision to require its Landowner Bill of Rights was arbitrary and capricious, an abuse of discretion, and not reasoned decision-making.
+                    <SU>68</SU>
+                    <FTREF/>
+                     Pennsylvania Commission asserts that the Commission failed to consider Pennsylvania Commission's proffered alternative that the Commission endorse State-designed Landowner Bill of Rights for those States willing to engage with the Commission on the contents of the document.
+                    <SU>69</SU>
+                    <FTREF/>
+                     It also faults the 
+                    <PRTPAGE P="84470"/>
+                    Commission-developed Landowner Bill of Rights because it does not mention State siting jurisdiction and gives the impression that Federal permit applications are the only proceedings that matter.
+                    <SU>70</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>68</SU>
+                        âPennsylvania Commission Rehearing Request at 2.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>69</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 4.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>70</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 5.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">3. Commission Determination</HD>
+                <P>
+                    34. In Order No. 1977, the Commission considered and ultimately disagreed with Pennsylvania Commission's recommendation that modifications to the Landowner Bill of Rights, including State-designed versions of the document, should be permissible.
+                    <SU>71</SU>
+                    <FTREF/>
+                     The Commission explained that the purpose of requiring applicants to provide the Landowner Bill of Rights with the Pre-filing Notification is to ensure that affected landowners are informed in a consistent manner of their rights. Allowing applicants to modify or develop their own version of the Landowner Bill of Rights, even with State input, could result in uncertainty and confusion.
+                    <SU>72</SU>
+                    <FTREF/>
+                     We continue to find that to be the case. Endorsing various, potentially conflicting, documents that are specific to each State would be a confusing and inefficient approach. Requiring applicants to provide affected landowners with a copy of the Landowner Bill of Rightsâa generic document developed by the Commission and intended to provide information about the Federal permitting process in a broad and consistent mannerâdoes not preclude an applicant from providing additional information to landowners about additional rights under State law or ongoing State siting proceedings, if applicable.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>71</SU>
+                        â
+                        <E T="03">See</E>
+                         Order No. 1977, 187 FERC Â¶â61,069 at PP 197, 203.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>72</SU>
+                        â
+                        <E T="03">See id.</E>
+                         P 203.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">E. Climate Impacts Analysis Under NEPA</HD>
+                <HD SOURCE="HD3">1. Order No. 1977</HD>
+                <P>
+                    35. In Order No. 1977, the Commission adopted a new environmental resource report that requires an applicant to provide information on proposed transmission facilities' impacts on air quality and environmental noise.
+                    <SU>73</SU>
+                    <FTREF/>
+                     As relevant here, the 
+                    <E T="03">Air quality and environmental noise</E>
+                     resource report requires an applicant to estimate emissions from the proposed project and the corresponding impacts on air quality and the environment. Specifically, the report must disclose the reasonably foreseeable emissions from construction, operation, and maintenance of the project facilities; compare those emissions with applicable General Conformity thresholds for each designated nonattainment or maintenance area; identify the corresponding impacts on communities and the environment in the project area; and describe any proposed mitigation measures to control emissions.
+                    <SU>74</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>73</SU>
+                        â
+                        <E T="03">Id.</E>
+                         PP 379-386.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>74</SU>
+                        â
+                        <E T="03">Id.</E>
+                         P 371; 89 FR 46682, 46738 (to be codified at 18 CFR 380.16(m)(3)(i)-(iv)).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2. Rehearing Requests</HD>
+                <P>
+                    36. Public Interest Organizations assert that the Commission must require a more rigorous analysis of electric transmission projects' climate impacts under NEPA.
+                    <SU>75</SU>
+                    <FTREF/>
+                     They generally argue that the final rule's failure to explicitly require applicants to analyze climate impacts is out of step with recent legal developments, including the Fiscal Responsibility Act of 2023,
+                    <SU>76</SU>
+                    <FTREF/>
+                     the Council on Environmental Quality's (CEQ) Phase 2 final rule,
+                    <SU>77</SU>
+                    <FTREF/>
+                     and DOE's section 216(h) rule.
+                    <SU>78</SU>
+                    <FTREF/>
+                     Public Interest Organizations urge the Commission to adopt relevant language from DOE's regulations and require applicants to â[e]stimate the reasonably foreseeable change in greenhouse gas emissions from the existing, proposed, and reasonably foreseeable generation resources . . . that may connect to the proposed project or interconnect as a result of the proposed project.ââ
+                    <SU>79</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>75</SU>
+                        âPublic Interest Organizations Rehearing Request at 16-22.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>76</SU>
+                        âEnacted on June 3, 2023, the Fiscal Responsibility Act includes a section titled âBuilder Act,â which amended NEPA in several ways. 
+                        <E T="03">See</E>
+                         FISCAL RESPONSIBILITY ACT OF 2023, Public Law 118-5, 137 Stat 10, Â§â321 (providing the âBuilder Actâ).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>77</SU>
+                        âOn May 1, 2024, CEQ published its Phase 2 final rule revising its regulations implementing NEPA, including to implement the Builder Act amendments. CEQ, National Environmental Policy Act Implementing Regulations Revisions Phase 2, 89 FR 35442 (May 1, 2024). CEQ's Phase 2 final rule became effective on July 1, 2024, and agencies have 12 months from the effective date to develop or revise proposed procedures to implement CEQ's revised regulations.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>78</SU>
+                        âPublic Interest Organizations Rehearing Request at 17. On May 1, 2024, DOE issued a final rule revising its regulations under section 216(h) of the FPA to establish a Coordinated Interagency Transmission Authorizations and Permits (CITAP) Program for coordinating the Federal authorization and environmental review process for electric transmission facilities. 
+                        <E T="03">See</E>
+                         DOE, Coordination of Federal Authorizations for Electric Transmission Facilities, 89 FR 35312 (May 1, 2024) (DOE CITAP Final Rule). We note that, pursuant to Delegation Order No. S1-DEL-FERC-2006, DOE delegated to the Commission the responsibility for coordinating the Federal authorization and environmental review process for electric transmission facilities seeking a permit under FPA section 216(b).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>79</SU>
+                        âPublic Interest Organizations Rehearing Request at 21 (quoting CITAP Final Rule, 89 FR at 35378).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">3. Commission Determination</HD>
+                <P>
+                    37. We disagree with Public Interest Organizations' contention that the final rule does not ensure a rigorous analysis of electric transmission projects' climate impacts. The Commission's regulations describe the generally applicable information that permit applications must include. These are minimum filing requirements with which each application must comply. In addition, each project will raise unique issues that will need to be considered on a case-by-case basis. In Order No. 1977, the Commission adopted regulations requiring applicants to estimate a proposed project's emissions and the corresponding impacts on air quality and the environment. Although the regulations are broad, greenhouse gases are considered air pollutants by the Environmental Protection Agency and estimates of such emissions should be included in the 
+                    <E T="03">Air quality and environmental noise</E>
+                     resource report if they are reasonably foreseeable, along with associated climate impacts.
+                </P>
+                <P>38. Public Interest Organizations' concern that an applicant's analysis will be incongruous with new statutory and regulatory authority directing consideration of climate impacts under NEPA is misplaced. It is the Commission's obligation to ensure that its environmental analysis complies with the most current requirements under NEPA. And it is the Commission's responsibility to obtain any additional information needed to ensure such compliance. The Commission's required resource reports are intended to support the Commission's environmental review and NEPA obligations but cannot be exhaustive of all environmental matters that may arise in a proceeding that the Commission may need to address. The Commission will determine on a case-by-case basis whether additional information is needed to analyze the proposed project's reasonably foreseeable effects. This approach is reasonable where, as is the case here, determinations regarding the scope and reasonable foreseeability of a proposed project's climate change impacts will be complex, variable, and will turn on the unique facts of each case.</P>
+                <HD SOURCE="HD1">III. Information Collection Statement</HD>
+                <P>
+                    39. The Paperwork Reduction Actâ
+                    <SU>80</SU>
+                    <FTREF/>
+                     requires each Federal agency to seek and obtain the Office of Management and Budget's (OMB) approval before undertaking a collection of information directed to 10 or more persons or 
+                    <PRTPAGE P="84471"/>
+                    contained in a rule of general applicability. OMB regulations require approval of certain information collection requirements contained in final rules published in the 
+                    <E T="04">Federal Register</E>
+                    .
+                    <SU>81</SU>
+                    <FTREF/>
+                     Upon approval of a collection of information, OMB will assign an OMB control number and an expiration date. Respondents subject to the filing requirements of a rule will not be penalized for failing to respond to the collection of information unless the collection of information displays a valid OMB control number.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>80</SU>
+                        â44 U.S.C. 3501-3521.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>81</SU>
+                        â
+                        <E T="03">See</E>
+                         5 CFR 1320.12.
+                    </P>
+                </FTNT>
+                <P>
+                    40. 
+                    <E T="03">Public Reporting Burden:</E>
+                     On rehearing of Order No. 1977, the Commission is further revising its regulations governing applications for permits to site transmission facilities under section 216 of the FPA. This order on rehearing modifies certain reporting and recordkeeping requirements included in FERC-729 (OMB Control No. 1902-0238).
+                    <SU>82</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>82</SU>
+                        âFERC-729 includes the reporting and recordkeeping requirements for âElectric Transmission Facilities.â
+                    </P>
+                </FTNT>
+                <P>
+                    41. Previously, the Commission submitted to OMB the information collection requirements arising from Order No. 1977 and OMB approved those requirements. In this order on rehearing, the Commission makes one substantive change to those requirements. This order on rehearing revises Â§â50.4(a)(5) to require applicants, under certain circumstances, to provide additional information describing its efforts to engage with Tribes. Specifically, if a right-of-way on Tribal lands must be obtained for a proposed project, the Tribal Engagement Plan must describe how the applicant will engage with the relevant Indian Tribe or individual Indian landowners to obtain the necessary permissions, including consent to access Tribal land to prepare information required by the application (
+                    <E T="03">e.g.,</E>
+                     to survey), if applicable. In addition, the plan must describe how the applicant will ensure communications with Indian Tribes are honest, factually accurate, and respectful of Tribal sovereignty. Accordingly, there is a slight increase in the reporting requirements and burden for FERC-729.
+                </P>
+                <P>
+                    42. The estimated burden and cost for the requirements contained in this order on rehearing follow.
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>83</SU>
+                        âWe consider the filing of an application, including the mandatory pre-filing information, to be a âresponse.â
+                    </P>
+                    <P>
+                        <SU>84</SU>
+                        âThe estimates for cost per response are derived using the following formula: Average Burden Hours per Response * $100 per Hour = Average Cost per Response. The hourly cost figure is the FY2024 FERC average annual salary plus benefits ($207,786/year or $100/hour). Commission staff estimates that industry costs for salary plus benefits are similar to Commission costs.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="6" OPTS="L2(,0,),nj,p7,7/8,i1" CDEF="s25,11,16,15,xs60,xs72">
+                    <TTITLE>Annual Changes Resulting From Order on Rehearing in Docket No. RM22-7-001</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">â</CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>respondents</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>
+                                responsesâ
+                                <SU>83</SU>
+                                 per 
+                            </LI>
+                            <LI>respondent</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Total number 
+                            <LI>of responses</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Avg. burden 
+                            <LI>hrs. &amp; cost </LI>
+                            <LI>
+                                per responseâ
+                                <SU>84</SU>
+                            </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Total annual 
+                            <LI>burden hours &amp; </LI>
+                            <LI>total annual cost</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW RUL="sî">
+                        <ENT I="25">â</ENT>
+                        <ENT>(1)</ENT>
+                        <ENT>(2)</ENT>
+                        <ENT>(1) Ã (2) = (3)</ENT>
+                        <ENT>(4)</ENT>
+                        <ENT>(3) Ã (4) = 5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Tribal Engagement Plan</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>27 hrs.; $2,700</ENT>
+                        <ENT>27 hrs.; $2,700.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>The final rule estimated the burden and cost for the Tribal Engagement Plan to be 24 hours and $2,400. In this order on rehearing, we are requiring applicants to provide additional information in the Tribal Engagement Plan if the proposed transmission facilities will cross Tribal lands. We estimate that this will result in an increase of three burden hours. Therefore, we estimate that the total burden and cost for the Tribal Engagement Plan, as revised herein, to be 27 hours and $2,700. No other information collection requirements contained in Order No. 1977 are affected by this order on rehearing.</P>
+                <P>
+                    43. 
+                    <E T="03">Title:</E>
+                     FERC-729â
+                    <E T="03">Electric Transmission Facilities.</E>
+                </P>
+                <P>
+                    44. 
+                    <E T="03">Action:</E>
+                     Revision of information collection FERC-729 in accordance with Docket No. RM22-7-001.
+                </P>
+                <P>
+                    45.
+                    <E T="03"> OMB Control No.:</E>
+                     1902-0238 (FERC-729).
+                </P>
+                <P>
+                    46. 
+                    <E T="03">Respondents:</E>
+                     Entities proposing to construct electric transmission facilities pursuant to the Commission's authority under section 216 of the FPA.
+                </P>
+                <P>
+                    47. 
+                    <E T="03">Frequency of Information Collection:</E>
+                     Ongoing.
+                </P>
+                <P>
+                    48. 
+                    <E T="03">Necessity of Information:</E>
+                     The new information collection requirements in this order on rehearing are necessary for the Commission to carry out its responsibilities under the FPA, as amended by the IIJA, and NEPA. The required information would enable the Commission to review the features of the proposed project and determine whether the proposed project meets the statutory criteria enumerated in section 216(b) of the FPA as well as evaluate whether an applicant has made good faith efforts to engage with affected landowners and other stakeholders.
+                </P>
+                <P>
+                    49. 
+                    <E T="03">Internal Review:</E>
+                     The Commission has reviewed the revisions and has determined that they are necessary. These requirements conform to the Commission's need for efficient information collection, communication, and management within the energy industry. The Commission has assured itself, by means of internal review, that there is specific, objective support for the burden estimates associated with the information collection requirements.
+                </P>
+                <P>
+                    50. Interested persons may obtain information on the reporting requirements by contacting the Federal Energy Regulatory Commission, 888 First Street NE, Washington, DC 20426 [
+                    <E T="03">Attention:</E>
+                     Kayla Williams, Office of the Executive Director], by email to 
+                    <E T="03">DataClearance@ferc.gov</E>
+                     or by phone (202) 502-6468.
+                </P>
+                <P>
+                    51. Comments concerning the collection of information and the associated burden estimates may also be sent to: Office of Information and Regulatory Affairs, Office of Management and Budget, 725 17th Street NW, Washington, DC 20503 [Attention: Desk Officer for the Federal Energy Regulatory Commission]. Due to security concerns, comments should be sent electronically to the following email address: 
+                    <E T="03">oira_submission@omb.eop.gov.</E>
+                     Comments submitted to OMB should refer to FERC-729 (OMB Control No. 1902-0238). Copies of the comments can be sent to the Commission (identified by Docket No. RM22-7-001 and the specific FERC collection number (FERC-729) electronically through 
+                    <E T="03">https://www.ferc.gov.</E>
+                     For those unable to file electronically, comment copies may be filed by USPS mail or by hand (including courier) delivery: Mail via U.S. Postal Service Only: Addressed to: Federal Energy Regulatory Commission, Secretary of the Commission, 888 First Street NE, Washington, DC 20426. Or hand (including courier) delivery: Deliver to: Federal Energy Regulatory Commission, 12225 Wilkins Avenue, Rockville, MD 20852.
+                </P>
+                <HD SOURCE="HD1">IV. Environmental Analysis</HD>
+                <P>
+                    52. The Commission is required to prepare an environmental assessment or 
+                    <PRTPAGE P="84472"/>
+                    an environmental impact statement for any action that may have a significant effect on the human environment.
+                    <SU>85</SU>
+                    <FTREF/>
+                     The Commission has categorically excluded certain actions from this requirement as not having a significant effect on the human environment, including the promulgation of rules that are clarifying, corrective, or procedural, or that do not substantially change the effect of legislation or the regulations being amended.
+                    <SU>86</SU>
+                    <FTREF/>
+                     Because the final rule promulgated by Order No. 1977, and revised herein, falls within this categorical exclusion, preparation of an environmental assessment or an environmental impact statement is not required.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>85</SU>
+                        â
+                        <E T="03">Reguls. Implementing the Nat'l Envtl. Policy Act of 1969,</E>
+                         Order No. 486, FERC Stats. &amp; Regs. Â¶â30,783 (1987) (cross-referenced at 41 FERC Â¶â61,284).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>86</SU>
+                        â18 CFR 380.4(a)(2)(ii).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">V. Regulatory Flexibility Act</HD>
+                <P>
+                    53. The Regulatory Flexibility Act of 1980 (RFA)â
+                    <SU>87</SU>
+                    <FTREF/>
+                     generally requires a description and analysis of final rules that will have significant economic impact on a substantial number of small entities. The RFA mandates consideration of regulatory alternatives that accomplish the stated objectives of applicable statutes and minimize any significant economic impact on small entities.
+                    <SU>88</SU>
+                    <FTREF/>
+                     In lieu of preparing a regulatory flexibility analysis, an agency may certify that a final rule will not have a significant economic impact on a substantial number of small entities.
+                    <SU>89</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>87</SU>
+                        â5 U.S.C. 601-612.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>88</SU>
+                        â
+                        <E T="03">Id.</E>
+                         603(c).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>89</SU>
+                        â
+                        <E T="03">Id.</E>
+                         605(b).
+                    </P>
+                </FTNT>
+                <P>
+                    54. The Small Business Administration's (SBA) Office of Size Standards develops the numerical definition of a small business.
+                    <SU>90</SU>
+                    <FTREF/>
+                     The SBA size standard for electric utilities is based on the number of employees, including affiliates.
+                    <SU>91</SU>
+                    <FTREF/>
+                     Under SBA's size standards, a transmission owner covered under the category of Electric Bulk Power Transmission and Control (NAICS code 221121)â
+                    <SU>92</SU>
+                    <FTREF/>
+                     is small if, including its affiliates, it employs 500 or fewer people.
+                    <SU>93</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>90</SU>
+                        â13 CFR 121.101.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>91</SU>
+                        â
+                        <E T="03">Id.</E>
+                         121.201.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>92</SU>
+                        âThe North American Industry Classification System (NAICS) is an industry classification system that Federal statistical agencies use to categorize businesses for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. economy. United States Census Bureau, 
+                        <E T="03">North American Industry Classification System, https://www.census.gov/eos/www/naics/.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>93</SU>
+                        â13 CFR 121.201 (Sector 22âUtilities).
+                    </P>
+                </FTNT>
+                <P>
+                    55. In Order No. 1977, the Commission, pursuant to RFA section 605(b), certified that the final rule would not have a significant economic impact on a substantial number of small entities.
+                    <SU>94</SU>
+                    <FTREF/>
+                     This order on rehearing does not disturb that conclusion. For the same reasons cited in Order No. 1977,
+                    <SU>95</SU>
+                    <FTREF/>
+                     we continue to find that the final rule, as revised herein, would not have a significant economic impact on a substantial number of small entities.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>94</SU>
+                        âOrder No. 1977, 187 FERC Â¶â61,069 at PP 427-430.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>95</SU>
+                        â
+                        <E T="03">See id.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">VI. Document Availability</HD>
+                <P>
+                    56. In addition to publishing the full text of this document in the 
+                    <E T="04">Federal Register</E>
+                    , the Commission provides all interested persons an opportunity to view and/or print the contents of this document via the internet through the Commission's Home Page (
+                    <E T="03">http://www.ferc.gov</E>
+                    ).
+                </P>
+                <P>57. From the Commission's Home Page on the internet, this information is available on eLibrary. The full text of this document is available on eLibrary in PDF and Microsoft Word format for viewing, printing, and/or downloading. To access this document in eLibrary, type the docket number excluding the last three digits of this document in the docket number field.</P>
+                <P>
+                    58. User assistance is available for eLibrary and the Commission's website during normal business hours from FERC Online Support at (202) 502-6652 (toll free at 1-866-208-3676) or email at 
+                    <E T="03">ferconlinesupport@ferc.gov,</E>
+                     or the Public Reference Room at (202) 502-8371, TTY (202) 502-8659. Email the Public Reference Room at 
+                    <E T="03">public.referenceroom@ferc.gov.</E>
+                </P>
+                <HD SOURCE="HD1">VII. Effective Date</HD>
+                <P>59. These regulations are effective November 22, 2024.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 18 CFR Part 50</HD>
+                    <P>Administrative practice and procedure, Electric power, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <SIG>
+                    <P>By the Commission.</P>
+                    <DATED>Issued: October 17, 2024.</DATED>
+                    <NAME>Debbie-Anne A. Reese,</NAME>
+                    <TITLE>Secretary.</TITLE>
+                </SIG>
+                <P>In consideration of the foregoing, the Commission amends part 50, chapter I, title 18, Code of Federal Regulations, as follows:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 50âAPPLICATIONS FOR PERMITS TO SITE INTERSTATE ELECTRIC TRANSMISSION FACILITIES </HD>
+                </PART>
+                <REGTEXT TITLE="18" PART="50">
+                    <AMDPAR>1. The authority citation for part 50 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P> 16 U.S.C. 824p; DOE Delegation Order No. S1-DEL-FERC-2006. </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="18" PART="50">
+                    <AMDPAR>2. Amend Â§â50.4 by revising paragraph (a)(5) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â50.4 </SECTNO>
+                        <SUBJECT> Stakeholder participation.</SUBJECT>
+                        <STARS/>
+                        <P>(a) * * *</P>
+                        <P>
+                            (5) Includes a Tribal Engagement Plan that addresses all targeted outreach to identified Indian Tribes. This plan must summarize comments received from potentially affected Indian Tribes during any previous outreach activities and describe planned targeted outreach activities with such Tribes during the pre-filing process and after the filing of an application. This plan must also describe how the applicant will engage Indian Tribes about any potential mitigation measures. If rights-of-way over or across land owned in trust or restricted status must be obtained, this plan must describe how the applicant will engage with the relevant Indian Tribe or individual Indian landowners to obtain the necessary permissions, including consent to access Tribal land to prepare information required by the application (
+                            <E T="03">e.g.,</E>
+                             to survey), if applicable, and ensure communications with Indian Tribes are honest, factually accurate, and respectful of Tribal sovereignty.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2024-24526 Filed 10-22-24; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6717-01-P</BILCOD>
+        </RULE>

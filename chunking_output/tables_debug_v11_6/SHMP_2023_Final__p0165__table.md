@@ -1,0 +1,29 @@
+[TABLE]
+SOUTH REGION Communicable Disease Totals (ADHS)
+County 2021 2020 2019 2018 2017
+232 157 229 Cochise 167 186
+54 58 67 58 78 Graham
+5 13 11 10 10 Greenlee
+Pima 3,093 2,880 3,265 2,408 2,356
+72 94 Santa Cruz 62 92 76
+Yuma 213 173 287 273 247
+Totals 3,953 3,675 3,340 3,005 2,953
+GREENLEE GRAHAM YUMA COUNTY COUNTY POPULATION WITHIN DENSITY>7.5 persons/acre COUNTY %of Exposed Count
+349794 Total Population Exposed: 100.00%
+21.96% 76817 Pop<18
+58538 Pop>65 16.74%
+74641 21.34% Pop below Poverty:
+PIMA
+COUNTY
+COCHISE
+COUNTY
+US-Mexico Ports ofEntry 2021 Population Density 3.374.80 SANTA CRUZ
+COUNTY Persons PerAcre 4.81-6.30 Int Passengers (2017-2022)
+<0.07 6.317.69
+0.07-0.75 1-10 7.70-9.26
+11-400 0.76-2.07 9.2711.62
++ 401-21,000 208-3.36 >11.62
++ >21,000
+2023USDOT.2023ADHS.2023JEF.2023
+Map 34. Infectious disease vulnerability for the Soutth region
+[/TABLE]

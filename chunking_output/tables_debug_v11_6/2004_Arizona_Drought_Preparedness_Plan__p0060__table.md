@@ -1,0 +1,6 @@
+[TABLE]
+| Col1 | diseases to other animals . Reduction in reproduction : Increased animal mortality : Increased predation . Reduced weaning weights resulting in less healthy calves/lambs, etc. | availability |
+| --- | --- | --- |
+| Rangeland; Availability | . Reduced health of; forage; . Loss of forage; . Reduced availability; of water supplies; (stockponds, access to; rivers/streams); . Increased competition; with wildlife; populations | Consider careful reduction of big game and; livestock populations from areas where; concerns of forage resource damage arise; Implement more intensive herd management; programs; Supplemental Feeding; Water Hauling; Utilize Conservation Reserve Program --; Emergency Haying or Grazing; Controlled rest |
+| Economic | . Reduction in market; weights of livestock; . Increased; supplemental feeding; : Increased need for; hauling water; . Reduction of herd; sizes or elimination of; herd; . Reduction of animals; going to market; . Reduced market; prices; . Increased post-; drought market prices | Assist communities and ranchers to develop; supplemental natural resource employment; opportunities to supplement income losses; due to grazing restrictions; Emergency loans |
+[/TABLE]

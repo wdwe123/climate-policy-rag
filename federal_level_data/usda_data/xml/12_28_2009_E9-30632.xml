@@ -1,0 +1,919 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="S">DEPARTMENT OF AGRICULTURE</AGENCY>
+                <SUBAGY>Farm Service Agency</SUBAGY>
+                <CFR>7 CFR Part 760</CFR>
+                <RIN>RIN 0560-AH90</RIN>
+                <SUBJECT>Supplemental Revenue Assistance Payments Program</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Farm Service Agency, USDA.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>This rule implements specific requirements for the new Supplemental Revenue Assistance Payments Program (SURE) authorized by the Food, Conservation, and Energy Act of 2008 (the 2008 Farm Bill). SURE provides disaster assistance to eligible participants who have experienced qualifying crop production losses, or crop quality losses, or both, occurring in crop year 2008 through September 30, 2011. All crops for which crop insurance or noninsured crop disaster assistance program (NAP) coverage is available are eligible crops for SURE. To be eligible for SURE payments, participants must meet a risk management purchase requirement, with some exceptions, and have suffered a qualifying loss due to disaster. A qualifying loss is a loss of at least 10 percent of a crop of economic significance on a participant's farm in a disaster county (a county for which a Secretarial disaster declaration has been issued or a county contiguous to such a county), or on a participant's farm with an overall loss greater than 50 percent of normal production (expected revenue for all crops on the farm) due to disaster. This rule specifies how a qualifying loss is determined, how SURE payments are calculated, and how and when participants may apply for payment.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>
+                        <E T="03">Effective Date:</E>
+                         December 22, 2009.
+                    </P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Steven J. Peterson, Branch Chief, Disaster Assistance Branch, Production, Emergencies, and Compliance Division; Farm Service Agency; United States Department of Agriculture, STOP 0517, 1400 Independence Avenue, SW., Washington, DC 20250-0517; telephone (202) 720-5172; e-mail 
+                        <E T="03">Steve.Peterson@wdc.usda.gov.</E>
+                         Persons with disabilities who require alternative means of communication (Braille, large print, audio tape,
+                        <E T="03"> etc.</E>
+                        ) should contact the USDA Target Center at (202) 720-2600 (voice and TDD).
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Background</HD>
+                <P>This rule implements specific requirements for the SURE program authorized by the 2008 Farm Bill (Pub. L. 110-246) and amendments to the 2008 Farm Bill contained in the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009 (Pub. L. 110-329), an Act to Amend the Commodity Provisions of the Food, Conservation, and Energy Act of 2008 and for other purposes (Pub. L. 110-398), and the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-005, the Recovery Act). The basic core of the SURE program is specified in the 2008 Farm Bill. With the exception of the Recovery Act, the subsequent amendments were technical in nature; the amendments are discussed below.</P>
+                <P>Sections 12033 and 15101 of the 2008 Farm Bill authorize the Secretary of Agriculture (Secretary) to provide assistance to eligible participants with certain crop losses. Under this authority, FSA is establishing SURE, a new permanent disaster assistance program, providing payments to eligible participants who suffered a qualifying loss and who met the risk management purchase requirement.</P>
+                <P>
+                    FSA will administer SURE using funds from the Agricultural Disaster 
+                    <PRTPAGE P="68481"/>
+                    Relief Trust Fund established under section 902 of the Trade Act of 1974 (19 U.S.C. 2497a), as specified in the 2008 Farm Bill. The disaster assistance programs authorized by the 2008 Farm Bill are permanent or âstandingâ disaster assistance programs, some of which have similar scope to previous ad hoc programs. The programs are provided for in two separate places in the 2008 Farm Bill. First, section 12033 adds a new section 531 to the Federal Crop Insurance Act (7 U.S.C. 1501-1524). Second, section 15101 adds sections 901, 902, and 903 to the Trade Act of 1974. The provisions of the two sections as enacted are identical except that the Trade Act of 1974 provisions contain the Trust Fund provisions. The two sections of the 2008 Farm Bill are considered to be interchangeable for the purposes of this rule.
+                </P>
+                <P>SURE is one of five new standing disaster programs authorized by the 2008 Farm Bill. The five new programs are:</P>
+                <P>â¢ Livestock Indemnity Program (LIP);</P>
+                <P>â¢ Livestock Forage Disaster Program (LFP);</P>
+                <P>â¢ Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish (ELAP);</P>
+                <P>â¢ Supplemental Revenue Assistance Payments Program (SURE); and</P>
+                <P>â¢ Tree Assistance Program (TAP).</P>
+                <P>
+                    The programs are being implemented through separate rulemakings; regulations for each of the programs will be implemented in separate subparts of 7 CFR part 760. This rule implements SURE in 7 CFR part 760, subpart G. The LIP final rule, which was published in the 
+                    <E T="04">Federal Register</E>
+                     on July 2, 2009 (74 FR 31567-31578) implemented LIP in 7 CFR part 760, subpart E, and implemented general provisions applicable to more than one program in 7 CFR part 760, subpart B. The ELAP and LFP final rule, which was published in the 
+                    <E T="04">Federal Register</E>
+                     on September 11, 2009 (74 FR 46665-46683) implemented ELAP in 7 CFR part 760, subpart C, and implemented LFP in 7 CFR part 760, subpart D.
+                </P>
+                <P>SURE covers some expected revenue or production losses not covered under other Supplemental Agricultural Disaster Assistance programs established by the 2008 Farm Bill. For example, losses to catfish, crawfish, and other aquaculture species are not covered by LIP, but are covered under SURE because they are eligible for NAP coverage. In other cases, losses are covered by the other programs but not by SURE. For example, losses to honey bees due to colony collapse disorder are covered by ELAP but not by SURE. Livestock, feed emergency, and grazing losses are not covered by SURE but are covered by LIP, ELAP, and LFP. Losses to tree crops (apples, citrus) are covered by SURE, while losses to trees that produce crops are covered by TAP.</P>
+                <HD SOURCE="HD1">Legislative Amendments to the SURE Program</HD>
+                <P>Technical amendments made by legislation enacted after the 2008 Farm Bill included a clarification of terms and some newly defined terms, added the 10 percent actual production loss minimum of an economically significant crop to be a qualifying loss, excluded subsequently planted crops in most cases, specified that regional variations should be considered consistent with crop insurance and NAP in establishing average market prices, and allowed additional waivers or exceptions to the risk management purchase requirement for certain years.</P>
+                <P>The Recovery Act amendments allowed an additional waiver for the 2008 crop year only under certain situations and increased the amount of assistance for 2008 qualifying losses. It also authorized the Secretary discretion to provide equitable treatment for participants suffering multi-year losses and for participants who lacked access to insurance or NAP.</P>
+                <HD SOURCE="HD1">Terms Used in This Rule</HD>
+                <P>This final rule uses the words âproducersâ and âparticipants.â Producers may apply for SURE. Participants are those producers that meet the requirements to be eligible producers to receive SURE payments.</P>
+                <P>Sections 12033 and 15101 of the 2008 Farm Bill include the words assistance, benefits, compensation, relief, and payments. The form of SURE assistance, benefit, relief, or compensation for eligible participants is a payment calculated as specified in this rule. Therefore, this rule uses the word payment to represent the assistance, benefit, relief, and compensation that participants will receive.</P>
+                <P>One part of the payment calculation is the guarantee or âSURE guaranteeâ, which is a âguaranteedâ level of revenue for the farm based on the planted or prevented planted acres, the yield, past production history, and the level of crop insurance selected, among other things. The SURE payment is based on 60 percent of the difference between this guarantee and the total revenue on the farm as calculated in accordance with the 2008 Farm Bill.</P>
+                <P>In general, the word âproductionâ represents the quantity or amount of a crop produced (or harvested). In some terms that include the word âproductionâ it represents the dollar value or the price of the crop, such as ânormal production on the farmâ which is defined in this rule. Because the production for the farm is the total of all the crops produced on the farm, which may be measured in different physical units, the total production of multiple crops on a farm is most sensibly represented in terms of dollar value rather than (for example) using bushels as the unit of measure for production on a farm that produces corn, hay, and catfish.</P>
+                <P>This rule defines âsalvage valueâ as the dollar amount or equivalent value when the commodity cannot be sold in any recognized market for that crop. For example, popcorn that does not meet the standards for popcorn would have âsalvage valueâ as livestock feed.</P>
+                <P>The word âcropâ and âcommodityâ were used in the 2008 Farm Bill. This rule generally uses âcrop,â except in cases where âcommodityâ must be used to be consistent with other regulations and programs.</P>
+                <HD SOURCE="HD1">Definitions</HD>
+                <P>This rule includes terms defined or otherwise used in the 2008 Farm Bill as required to implement the SURE program. In some instances, terms defined in the 2008 Farm Bill have been modified based on agency interpretation and to add further clarity. For example, the term âdisaster countyâ appears in the 2008 Farm Bill and specifies that a disaster county, in addition to meaning a county included in a Secretarial natural disaster declaration, or a county contiguous to such county, is any farm having actual production less than 50 percent of normal during a crop year. These regulations make clear that one farm having a loss of 50 percent or more does not make the farm or the county or counties in which the farm is or are located an actual disaster county. Rather, the disaster county term is defined to only include those counties that have a Secretarial natural disaster declaration or a county contiguous to such county (without regard to participant or farm losses).</P>
+                <P>Other clarifications to definitions in the 2008 Farm Bill include using consistent words and terms as specified in this rule, adding information such as citations, or otherwise clarifying the definition. For example, this involves using the word âcropâ instead of the word âcommodityâ where appropriate, consistent references to âcrop insuranceâ and âcrop insurance indemnity,â and âparticipantâ instead of âproducer.â</P>
+                <P>
+                    The definition of the term âactual production history yieldâ in the 2008 Farm Bill uses the term âweighted.â The 
+                    <PRTPAGE P="68482"/>
+                    definition in this rule refers to an average instead of a weighted average. We did this to clarify that the weighting is done as part of the calculation of the SURE yield; the actual production history yield data from the NAP or RMA program is actual yield data, not weighted.
+                </P>
+                <P>The definition of âactual production on the farmâ was expanded to specifically include the calculation information, which was referred to in the definition in the 2008 Farm Bill. The definition deleted the term âvalue of all crops produced on the farmâ as it would have been redundant because the calculations specify a component is the price of the crop or the value of inventory. The definition was also expanded to specify how value loss crops would be included in the calculation.</P>
+                <P>The definition of âadjusted actual production history yieldâ was expanded to specify the minimum amount, and specify that it is the âaverage of the production historyâ instead of the âactual production history,â to clarify that since the Farm Bill also specified that 4 years of production history are taken into account, that clearly should be an average rather than a sum.</P>
+                <P>The definition of âadjusted NAP yieldâ was expanded to specify the minimum amount, and specifying that it is the âaverage of the production historyâ, rather than the NAP yield, to be consistent with the ways âyieldâ and âproduction historyâ are used in other terms in this rule.</P>
+                <P>The definition of âcounter-cyclical program payment yieldâ was clarified to cite FSA implementing regulations instead of citing various sections of legislation.</P>
+                <P>âCrop of economic significanceâ is defined in the 2008 Farm Bill as having a uniform meaning given it by the Secretary for certain purposes as specifically required by the 2008 Farm Bill. In this rule, a crop of economic significance means one that has contributed at least 5 percent of the total expected revenue of all of the participant's crops on the farm. That would appear to be a fair level at which a farmer might forego risk management measures because of the relative size of the crop. At this time, however, no dollar expectation has been set so as to require that the farm have expected marketings of a certain level to qualify a crop for SURE. However, the crop must be one which is the subject of normal marketings.</P>
+                <P>The definition of âfarmâ was clarified such that âfor saleâ means âfor normal commercial saleâ and was revised for aquaculture based on the requirements for the Aquaculture Grant Program, as specified in the Recovery Act. âNormalâ commercial sale in this regard would mean sales in the normal channels of commerce and would not include, for example, âsalesâ to family members or sales from hobby farms.</P>
+                <P>The definition of ânoninsurable cropâ specifies that the crop is a âcommercially produced cropâ because NAP covered crops are commercially produced crops for which crop insurance is not available.</P>
+                <P>Some terms defined in this rule are terms used in the 2008 Farm Bill, but are not defined in the 2008 Farm Bill. For example, the term âactual crop acreageâ is not defined in the 2008 Farm Bill; however, for the purpose of SURE, the term âactual crop acreageâ is defined to mean that it includes all acreage of each crop planted or intended to be planted on a farm. As is explained below, the term âfarmâ is generally defined expansively in SURE to include all farming interests in which a producer has an interest, no matter where located. Another example is âappraised production,â which, when applicable, will be used in determining a farm's production or revenue. The term is defined in this rule as production determined by FSA, or an insurance provider approved by FCIC, that was unharvested, but which was determined to reflect the crop's yield potential at the time of appraisal. âAquacultureâ is defined to mean the reproduction and rearing of aquatic species in controlled or selected environments as specified in part 1437 of this title.</P>
+                <HD SOURCE="HD1">SURE Compared to Previous Disaster Programs</HD>
+                <P>Some important differences between SURE and previous programs are that SURE payments are based on multi-crop farm revenue, rather than losses to a single crop, and that SURE is a âpermanentâ or âstandingâ program, for losses in the time period covered in the 2008 Farm Bill (coverage begins with the 2008 crop, and losses after September 30, 2011 are not covered). Previous ad hoc crop disaster programs were typically limited to specific crops damaged or destroyed during a specific period of time in specific locations. In contrast to previous programs that addressed losses to particular crops, SURE is an umbrella type of farm revenue program that compliments and augments protections that participants have from various risk management purchases. Under previous crop disaster programs, producers typically requested assistance for particular farm numbers, or units. Under SURE, a participant's assistance will be based on a âwhole farm,â which means the aggregation of all crops in all counties in which the participant has an interest that were planted or intended to be planted for harvest. Participants must have been entitled to an ownership share of the crop; contract growers are not eligible participants for SURE unless they had an ownership share and meet all other eligibility criteria.</P>
+                <P>Payments will not be based on losses to individual crops, although a loss of a crop of economic significance is an eligibility requirement.</P>
+                <P>Funding for the previous ad hoc crop disaster programs was limited and subject to a specific appropriation. Funding for SURE is provided through the Agricultural Disaster Relief Trust Fund and payments will be distributed to eligible participants as they qualify for assistance.</P>
+                <P>Unlike some FSA and Commodity Credit Corporation (CCC) programs, participants do not need to pre-enroll or sign up in advance (prior to the loss) for SURE coverage in order to be eligible. Participants who believe they may be eligible for a SURE payment who satisfy all eligibility criteria can submit an application for payment. Such application will be reviewed to determine if the participant meets such eligibility criteria.</P>
+                <HD SOURCE="HD1">Qualifying Loss</HD>
+                <P>To receive SURE payments, participants must have had a qualifying loss. That means eligible participants must have at least a 10 percent loss of one crop of economic significance due to disaster on either:</P>
+                <P>(1) A farm in a disaster county (a county for which a Secretarial disaster designation has been issued or in a county contiguous to a county with a Secretarial disaster designation), or</P>
+                <P>(2) A farm not located in a disaster county or a county contiguous to such a designated disaster county, that has an overall production loss greater than or equal to 50 percent of the normal production on the farm (expected revenue for all crops on the farm) due to disaster.</P>
+                <P>
+                    A âcrop of economic significanceâ is one that generates or was expected to generate at least 5 percent of the total expected revenue of all of the crops on the participant's farm for the current year. While other FSA programs may use a higher percentage threshold in order to determine whether a crop is economically significant, SURE defines crop of economic significance as having at least 5 percent or more of the total expected revenue from all of the participant's crops on the farm and 
+                    <PRTPAGE P="68483"/>
+                    thereby increases the likelihood that participants will have economically significant crops and be eligible for SURE.
+                </P>
+                <P>A âdisaster countyâ is one where there has been a Secretarial disaster declaration; it includes counties contiguous to such counties declared a disaster. Other kinds of disaster declarations or designations, such as a Presidential disaster declaration, are not relevant to SURE, according to the terms of the 2008 Farm Bill.</P>
+                <P>A farm includes all the crop acreage in all the counties where a participant has planted crops or intended to plant crops for harvest for commercial sale or on-farm livestock feeding. For aquaculture and honey, a farm includes all the acreage used for all aquaculture species, bees, and beehives intended to be harvested for sale by the eligible participant in all counties.</P>
+                <P>A farm not located in a âdisaster countyâ may still be eligible for SURE if it incurs, during a crop year, a qualifying loss of production in which the actual production on the farm is less than 50 percent of the normal production of the farm. Such loss threshold is per farm, not per crop on a farm. The actual total production for the participant's farm, as measured by revenue from all crops and locations, must be less than 50 percent of the normal expected production to be a qualifying loss. A loss of 50 percent of one crop, or losses on one part of a farm where the farm has crops in several locations, will not necessarily be a qualifying loss if the other crops or locations or both had a less severe loss. For this category of qualifying loss, there is no requirement for a disaster declaration.</P>
+                <HD SOURCE="HD1">Risk Management Purchase Requirement</HD>
+                <P>To be eligible for SURE payments, producers must meet certain risk management purchase requirements, with some exceptions. Those requirements are specified in 7 CFR part 760 subpart B, and apply to SURE.</P>
+                <P>The risk management purchase requirements specify that eligible participants must have purchased insurance for each insurable crop; a few exceptions allowed by the 2008 Farm Bill are discussed later in this section. An âinsurable commodityâ means an agricultural commodity for which the producer on the farm is eligible to obtain a policy or plan of insurance under the Federal Crop Insurance Act (FCIA) from the USDA's Risk Management Agency (RMA). A ânoninsurable commodityâ means a crop for which the eligible producers on a farm are eligible to obtain assistance through FSA's noninsured crop disaster assistance program (NAP). In general, to be eligible for SURE payments, participants must have obtained crop insurance or NAP coverage, as may be applicable, for all of their crops.</P>
+                <P>Producers who did not purchase required coverage are not eligible for benefits unless an exception applies. Certain waivers for âsocially disadvantaged farmers and ranchers,â as well as âlimited resource farmers and ranchers,â and âbeginning farmers or ranchersâ are provided by the 2008 Farm Bill.</P>
+                <P>For the 2008 crop year, otherwise eligible producers who paid a certain buy-in fee were provided an exemption from the risk management purchase requirement that would otherwise apply if the buy-in fee was paid by September 16, 2008. By an amendment to the 2008 Farm Bill, a second buy-in permitted participants to buy in for the 2008 crop year from February 17, 2009, up to May 18, 2009 to meet the risk management purchase requirement; however, the participant had to agree to buy crop insurance or NAP for the next crop year for the crops to which the buy-in applied. The buy-in fee was equal to the cost of the minimal catastrophic insurance coverage or NAP coverage, but did not, as with other buy-in exemptions in SURE, entitle the participant to such insurance or NAP coverage. Also, an amendment to the 2008 Farm Bill allows a 2009 crop buy-in if the 2009 Federal Crop Insurance Corporation (FCIC) sales closing date for a crop was prior to August 14, 2008. The deadline for the 2009 crop buy-in was January 12, 2009. In addition to these provisions, section 531(g)(5) of the FCIA (and the corresponding provisions of the Trade Act of 1974; 7 U.S.C. 1531(g) and 19 U.S.C. 2497(g), respectively) have some more general provisions allowing the Secretary discretion to grant equitable relief to certain persons who lack coverage. The buy-in fees were different for 2008 and 2009.</P>
+                <P>Specifically for SURE, and not for the other disaster programs, there are also the following âde minimisâ exceptions to the risk management purchase requirement:</P>
+                <P>(1) Where a portion of the total acreage of a farm of the eligible producer is used to produce a crop that is not of economic significance on the farm, and</P>
+                <P>(2) Crops for which the required administrative fee to purchase NAP coverage for that crop on a particular farm exceeds 10 percent of the value of that coverage.</P>
+                <P>If a participant elects not to purchase risk management coverage for the crop because of one of the de minimis exceptions, such crop will not be included in the SURE guarantee and revenue calculations. The participant must elect the de minimis exception as part of the application for SURE payment.</P>
+                <P>If a producer is ineligible or otherwise barred from the risk management insurance program or NAP because of past violations and those insurance programs would otherwise be available to that producer absent such violations, that producer will also be ineligible for SURE.</P>
+                <P>Other circumstances preventing a producer from obtaining risk management coverage may be addressed on a case-by-case basis, and the Secretary or designee may determine a participant eligible for SURE even if FCIA or NAP coverage was not timely obtained. Section 760.106 âEquitable Reliefâ provides for such relief. For example, equitable relief may, at FSA's discretion, be considered for participants who failed to meet the requirements of this rule because the 2008 Farm Bill was enacted after the closing date for purchasing the applicable insurance. Another example may be relief for a participant who made a late planting decision due to weather-related causes. Relief will not be considered or granted for producers who are in the RMA ineligibility tracking system. In connection with equitable relief, however, producers have no entitlement to relief that is discretionary in nature and FSA's refusal to consider such relief or to grant a particular form of relief that is not particularly mandated by the 2008 Farm Bill or the program regulations will not be construed to be an adverse decision under either part 11 or 780 of this title.</P>
+                <P>If an RMA pilot or Adjusted Gross Revenue insurance program was the only insurance available in that area for that crop, buying that insurance program for that crop will âcountâ as meeting the risk management purchase requirement for that crop. However, producers are not required to purchase pilot or AGR insurance program coverage in order to meet the risk management purchase requirement. Rather, producers can elect not to obtain pilot or AGR insurance program coverage and meet the risk management purchase requirement by obtaining either NAP coverage or by paying the buy-in fee, as may be applicable.</P>
+                <HD SOURCE="HD1">Eligible Crops</HD>
+                <P>
+                    Eligible crops include FCIC insured commodities and crops covered by 
+                    <PRTPAGE P="68484"/>
+                    NAP, excluding acreage intended for grazing. (Grazing losses are covered by LFP, in regulations codified in 7 CFR part 760 subpart D.) SURE does not cover crops covered under LFP or ELAP. NAP is available for crops that are commercially produced for which the catastrophic level of crop insurance coverage is not available. Crops that are not grown commercially are not eligible for either crop insurance or NAP and therefore are not eligible for SURE. All crops for which a policy or plan of crop insurance or NAP coverage is available are eligible for production losses. Most crops are also eligible for quality losses except for value loss cropsâ
+                    <SU>1</SU>
+                    <FTREF/>
+                     and some specialty cropsâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     because of the way normal losses are measured for those crops.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âValue loss crops ineligible for quality losses include aquaculture, floriculture, mushrooms, ginseng root, ornamental nursery, Christmas trees, and turfgrass sod.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âSpecialty crops ineligible for quality losses include honey and maple sap.
+                    </P>
+                </FTNT>
+                <P>Producers who did not obtain risk management coverage for all eligible crops on a farm are ineligible for payment under SURE even if some crops had risk management coverage, unless an exception or waiver applies. For example, if a producer's farm produces insured corn and insured soybeans, and also hay, to be eligible for SURE payment, it is necessary for the producer to either buy insurance or NAP coverage on the hay or have made a âbuy-in,â when such option was available as specified in subpart B of part 760. Producers who meet all the statutory conditions of eligibility, including risk management coverage, will qualify for payment. A producer who does not meet the risk management purchase requirement will not be eligible. A lack of eligibility is not a compliance issue; rather, such producer has merely failed to satisfy a statutory condition of eligibility.</P>
+                <P>In the case of a participant who met the risk management purchase requirement by purchasing crop insurance or NAP, the calculation of the SURE farm revenue and guarantee is based on the insured or NAP crops. For participants who are eligible through waivers and buy-ins, the calculation will explicitly exclude crops that would not be eligible for insurance or NAP. Therefore, there are provisions in this rule that exclude, for example, volunteer crops from the revenue or guarantee calculation. For participants who purchased crop insurance or NAP, those crops would clearly not be included because they were not insured (and cannot be insured). However, these provisions are in the rule to address the situation of calculating the farm revenue or guarantee of a participant who is eligible through a waiver or buy-in. Similarly, this rule excludes from the SURE guarantee and revenue calculation crops grown on land that is not eligible for crop insurance or NAP. For a participant who purchased crop insurance or NAP, those crops would clearly not be included because they were not insured (and cannot be insured). However, these provisions are in the rule to address the situation of calculating the farm revenue or guarantee of a participant who is eligible through a waiver or buy-in.</P>
+                <P>Independent of risk management purchase requirements and de minimis exceptions, certain items or losses are not covered for any participant and will not be included in payment calculation. These include home gardens, losses to crops that were not intended to be harvested in the applicable crop year, and losses to biomass byproducts of the crop such as corn stover or wheat straw.</P>
+                <HD SOURCE="HD1">Payment Limitations and Other General Requirements</HD>
+                <P>All counties, owners, contract growers, lessees, crops, and losses must meet the eligibility criteria provided in this rule. False certifications will result in a denial of program eligibility and payments. General eligibility requirements, as specified in Â§Â§â760.101 through 760.117, including recordkeeping requirements and required compliance with Highly Erodible Land Conservation and Wetland Conservation provisions, are similar to those for the previous ad hoc crop disaster programs and are applicable to SURE.</P>
+                <P>The 2008 Farm Bill limits how much a participant may receive from FSA disaster assistance programs.</P>
+                <P>â¢ In applying payment limitations for 2008, no person, as defined and determined by the regulations in 7 CFR part 1400 in effect for 2008, may receive more than $100,000 total per crop year under ELAP, LFP, LIP and SURE combined.</P>
+                <P>â¢ For 2009 through 2011, no person or legal entity (excluding a joint venture or general partnership), as defined and determined by the regulations in 7 CFR part 1400 may receive, directly or indirectly, more than $100,000 total per crop year under ELAP, LFP, LIP and SURE combined.</P>
+                <P>For the payment limits, both indirect and direct benefits are counted by attribution such that the total amount of payments is attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive payments. In the case of a legal entity, the same payment is attributed to the direct payee in the full amount and those that have an indirect interest to the amount of that indirect interest. For example, under the attribution rules that apply to these programs, assume:</P>
+                <P>â¢ Corporation A is in line to receive a $100,000 SURE payment,</P>
+                <P>â¢ Corporation A is owned 50 percent by Individual A and 50 percent by Corporation B, and</P>
+                <P>â¢ Corporation B is owned by Individual B with a 30 percent interest and by Individual C with a 70 percent interest.</P>
+                <P>If so, Corporation A, for payment limitation purposes would be considered to have received $100,000 and Individual C (who owns 70 percent of Corporation B, which owns 50 percent of Corporation A) would be considered to have indirectly benefitted by the amount of $35,000 (50 percent times 70 percent of the $100,000). Even though no part of the $100,000 was actually paid to Individual C, the $35,000 would count against Individual C's overall payment limitation from all sources and farms. Assume now that Individual C was already at the maximum payment limit. If so, Individual C would not have been eligible to receive $35,000; as a result, the payment to Corporation A would be reduced by $35,000.</P>
+                <P>
+                    The amount of any payment for which a participant may be eligible from the SURE program will be commensurately reduced by any amount received by the participant for the same or any similar loss from any Federal disaster assistance program. Such disaster programs include USDA conservation programs that pay for replanting or replacing plants damaged by disaster. Aquaculture producers who received assistance under the Aquaculture Grant Programâ
+                    <SU>3</SU>
+                    <FTREF/>
+                     will not be eligible for SURE assistance on those species of aquaculture for which a grant payment was received. Indemnities or NAP payments issued for losses of the species will, however, count on the revenue side of the SURE payment calculation. Participants cannot receive SURE assistance for the same loss under ELAP, LIP, LFP or TAP.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âThe Aquaculture Grant Program was authorized by the Recovery Act and implemented through a notice of Funds Availability published in the 
+                        <E T="04">Federal Register</E>
+                         on June 2, 2009 (74 FR 26363-26365).
+                    </P>
+                </FTNT>
+                <P>
+                    Provisions for both pay limits and for limits related to an individual's or entity's adjusted gross income were contained in the administrative subparts of part 760 (discussed above, previously 
+                    <PRTPAGE P="68485"/>
+                    issued to implement other Farm Bill disaster assistance programs) and generally the administration of those limitations will follow general regulations in 7 CFR part 1400. In applying the limitation on average adjusted gross income (AGI) for 2008, an individual or entity is ineligible for SURE payment if the individual's or entity's average annual AGI for 2005, 2006, and 2007 exceeded $2.5 million, under the provisions in 7 CFR part 1400 in effect for 2008. For 2009 through 2011, the average AGI limitation provisions in 7 CFR part 1400 applicable to CCC commodity programs also apply to SURE. As specified in the 2008 Farm Bill, for 2009 through 2011, a person or legal entity with an average adjusted gross nonfarm income, as defined in 7 CFR 1400.3, that exceeds $500,000 for the relevant period, which is the 3 taxable years preceding the most immediately preceding complete taxable year, as determined by CCC, will not be eligible to receive payments under these programs. Likewise, if a person with an indirect interest in a legal entity has an average nonfarm AGI over $500,000, then the payment to the legal entity will be commensurately reduced as calculated based on the percent of interest in the legal entity receiving the payment. For example, continuing with the assumptions in the example above, if Individual B had an average AGI that was over the limit, then the payment to Corporation A will be reduced by 15 percent (Individual B's 30 percent interest in Corporation B times Corporation B's 50 percent interest in Corporation A).
+                </P>
+                <P>Payment and average AGI limits will be determined under regulations specified in 7 CFR part 1400 for CCC commodity programs. The SURE program is not a CCC program, but the CCC regulations in 7 CFR part 1400 are adopted for this program.</P>
+                <P>The relevant AGI period for SURE and the other disaster assistance programs for 2008 is the 3 calendar years that precede the program year involved which are 2005, 2006 and 2007. However, beginning with 2009, the AGI period is the 3 taxable years preceding the most immediately preceding complete taxable year, as determined by CCC. For SURE, the program year is the year that corresponds to the relevant crop year. This program will be administered by crop year and most times the crop year for all crops is easily indentified because both the year of the planting and the year of the harvesting are the same or at least the calendar year of the harvesting is the same nationwide. The Deputy Administrator will be the ultimate arbiter of which production fits in which âcrop yearâ for purposes of SURE calculations. The crop year concept in some limited cases can involve a loss that occurs in a different calendar year than the calendar year whose number corresponds to the crop year. For example, wheat for the 2009 crop year can be planted in the fall of 2008 and be damaged or lost during 2008. SURE payments related to such a loss would be made for the 2009 crop year wheat, because the intent was to harvest this wheat in 2009.</P>
+                <P>Production losses are, in general, determined by calendar year of harvest, but the payment limitation is for a crop year. Also, the national average market price (NAMP) for a marketing year may not be available until the fall of the following crop year, so the SURE payment may often be calculated and paid in a different (later) calendar year than the actual year of loss or losses.</P>
+                <P>The regulations in 7 CFR 1400.105 specify how payments will be attributed and how far the attribution will go. Attribution will be tracked through four levels of ownership in legal entities. The 2008 Farm Bill removed the previous â3 entity rule,â so a person can now receive benefits attributed through an unlimited number of entities, subject to the payment limits and the rules of attribution described in this final rule and in 7 CFR part 1400.</P>
+                <P>In addition, the 2008 Farm Bill imposes limitations of payments to foreign persons. Those limits are specified in the regulations in Â§â760.103.</P>
+                <HD SOURCE="HD1">Payment CalculationâOverview</HD>
+                <P>The SURE guarantee cannot exceed 90 percent of the total expected revenue for the crops on the farm. Depending on the level of insurance coverage the participant elects, the SURE guarantee for a specific participant may be less than 90 percent of the expected revenue. In general, the higher the level of insurance coverage purchased, the higher the SURE guarantee. A participant who purchases the minimum insurance required by this part and meets all other eligibility requirements will be eligible for SURE, but the SURE guarantee will reflect that minimal level of coverage.</P>
+                <BILCOD>BILLING CODE 3410-05-P</BILCOD>
+                <GPH SPAN="3" DEEP="507">
+                    <PRTPAGE P="68486"/>
+                    <GID>ER28DE09.001</GID>
+                </GPH>
+                <BILCOD>BILLING CODE 3410-05-C</BILCOD>
+                <P>The following is an example of how a SURE payment is calculated for a participant with two crops; corn insured with FCIC crop insurance and alfalfa with NAP coverage. After the example, the general SURE payment calculation formula is discussed.</P>
+                <HD SOURCE="HD1">SURE Guarantee Calculation Example for 2009 Through 2011 Crop Years</HD>
+                <P>The SURE program guarantee calculation for insured corn in this example is as follows: Assume 100 payment acres times an assumed 100 bushels per acre (SURE yield) times $4.00 per bushel (price election) times 70 percent (coverage level) times 115 percent (SURE multiplier) equals $32,200.</P>
+                <P>The program guarantee calculation for alfalfa with NAP coverage in this example is as follows: assume 100 payment acres times an assumed 4.0 tons per acre (SURE yield) times an assumed $70 per ton (NAP established price) times 50 percent times 120 percent (SURE multiplier) equals $16,800.</P>
+                <P>The SURE guarantee is: $32,200 (corn) plus $16,800 (alfalfa) equals $49,000.</P>
+                <P>The SURE guarantee is limited to 90 percent of the sum of the expected revenue for each crop on the farm. Expected revenue for corn is: 100 payment acres times 100 bushels per acre (SURE yield) times $4.00 (price) equals $40,000. For alfalfa: 100 payment acres times 4.0 tons per acre (SURE yield) times $70 (NAP established price) equals $28,000.</P>
+                <P>
+                    The expected revenue is: $40,000 (corn) plus $28,000 (alfalfa) equals $68,000.
+                    <PRTPAGE P="68487"/>
+                </P>
+                <P>Total expected revenue $68,000 times 90 percent equals $61,200 (SURE guarantee cap).</P>
+                <HD SOURCE="HD1">Total Farm Revenue Calculation Example for 2008 Through 2011 Crop Years</HD>
+                <P>Revenue for the insured corn in this example is based on a 60 percent loss in production that the participant experienced for this crop, which in the example resulted in a 40 bushel yield. For the purpose of the example, NAMP for insured corn in the State is $4.00 per bushel. Assume, too, a freeze also affected this corn, which resulted in a quality adjustment of 90 percent to account for extra moisture, which is applied to the price. Therefore, the estimated actual value for this crop is $4.00 (NAMP) times 90 percent (quality adjustment) equals $3.60 times 4,000 bushels (actual production of the payment acres) equals $14,400.</P>
+                <P>Revenue for the alfalfa in this example is based on a 25 percent loss in production that the participant experienced for this crop, which resulted in a 3 ton yield. For the purpose of the example, NAMP for alfalfa in the State is $70. There is no quality adjustment for the alfalfa crop. Therefore, estimated actual value for the alfalfa crop is $70 (NAMP capped at 100 percent of the NAP established price) Ã 300 tons (actual production of the payment acres) equals $21,000.</P>
+                <P>Total farm revenue for this participant is $14,400 (corn) + $21,000 (alfalfa) equals $35,400.</P>
+                <P>The SURE payment for this participant would be: $49,000 (SURE guarantee) â $35,400 (total farm revenue) = $13,600 times 60 percent equals $8,160.</P>
+                <HD SOURCE="HD1">SURE Payment Example for 2008 Through 2011 Crop Years</HD>
+                <P>The SURE payment will be calculated based on the difference between a program guarantee and farm revenue as determined for a participant's farm. The SURE program guarantee for a specific participant is based on the participant's risk management purchases. The SURE calculation of revenue is based on an applicant's actual production and NAMP for the commodities produced, as well as a number of other revenue sources such as farm program or NAP payments and insurance indemnities. In general, because SURE is intended to enhance or augment risk management purchases, participants who elect higher amounts of coverage will see greater SURE benefits, compared to those who elect lesser amounts of coverage. Under SURE, the crop insurance indemnity that is counted in the SURE revenue calculation is after subtracting producer-paid premiums for crop insurance in an amount not to exceed the crop insurance indemnity paymenton a per unit basis.</P>
+                <P>The SURE payment is 60 percent of the difference between the SURE guarantee and the total farm revenue. If total farm revenue is below the SURE guarantee, the participant will be eligible for a payment based on the amount of the shortfall. In general, except for additional 2008 assistance made available by the Recovery Act, the SURE guarantee for insurable crops is determined by multiplying:</P>
+                <P>â¢ The number of planted and prevented planted acres, times</P>
+                <P>â¢ The higher of either the adjusted actual production history yield or counter-cyclical yield, times </P>
+                <P>â¢ The coverage level, times </P>
+                <P>â¢ The price determined by the percentage of the crop insurance price elected by the participant, times</P>
+                <P>â¢ 115 percent (1.15).</P>
+                <P>In general, except for additional 2008 assistance made available by the Recovery Act, the SURE guarantee for noninsurable crops is determined by multiplying:</P>
+                <P>â¢ The number of planted and prevented planted acres, times </P>
+                <P>â¢ the higher of either the actual production history yield or the counter-cyclical yield, times</P>
+                <P>â¢ 50 percent (yield coverage under NAP), times</P>
+                <P>â¢ the NAP price, times</P>
+                <P>â¢ 120 percent (1.20).</P>
+                <P>This rule specifies how the basic formula will be adjusted to address a number of specific situations. Those situations include, but are not limited to, adjustments for situations such as:</P>
+                <P>â¢ If a participant was exempt from the risk management purchase requirement, the participant's SURE yield will be determined by the FSA county committee using 65 percent of the higher of the counter-cyclical program yield or the FCIC or county expected yield for the crop as established by the Deputy Administrator.</P>
+                <P>â¢ If a participant's policy or plan of insurance provides for an adjustment in the liability, such as in the case of prevented or late planting, that adjustment will be used in calculating the SURE guarantee.</P>
+                <P>â¢ If a participant's NAP coverage provides for an adjustment in the level of assistance, such as for unharvested crops or prevented or late planting, that adjustment will be used in calculating the SURE guarantee.</P>
+                <P>â¢ If the farm is in an approved multiple cropping or double-cropping area and both crops suffer losses, both crops may be eligible for the calculation of disaster assistance if appropriate documentation is provided. In most cases, only the first or initial crop is eligible and will be used in calculating the SURE guarantee and revenue.</P>
+                <P>â¢ For 2008 only, and only under certain situations where the producer met certain requirements, the Recovery Act provides for changes to the percentages used to calculate the guarantee, such that the multiplier is changed from 115 percent to 120 percent and from 120 percent to 125 percent, respectively. These percentages are used in the comparison calculation to determine the amount of the SURE payment; the Recovery Act specifies the two calculations for the comparison and requires that the greater amount be used. Using the NAP calculation with the 125 percent will never result in being the greater amount; therefore, the calculation in the regulation uses the other calculation in the comparison, which uses 120 percent.</P>
+                <P>Socially disadvantaged producers, limited resource producers, and beginning farmers and ranchers who did not purchase risk management coverage will be eligible for the same level of assistance as participants who satisfied the purchase requirement by obtaining the minimum level of coverage available, which is generally catastrophic or âCATâ coverage for insured crops or the standard NAP level of coverage for noninsured crops. Equitable consideration will be provided for instances involving non-yield based crop insurance policies. For RMA âpilotâ insured crops, having either pilot or NAP coverage on applicable crops would meet the risk management purchase requirement. The payment formulas in this rule are intended to treat similarly situated participants consistently and equitably. However, participants having similar losses on the same or similar crops may not necessarily receive the same payment.</P>
+                <HD SOURCE="HD1">National Average Market Price (NAMP)</HD>
+                <P>
+                    The Deputy Administrator will determine NAMP for each crop in a marketing year, taking into account the best information available that the Deputy Administrator believes is relevant to such decision. The 2008 Farm Bill specifies that the Secretary will adjust NAMP to reflect average quality discounts applied to the local or regional market price of a crop. Adjustments will be made at the State and county levels to account for crop value that is affected by quality or is reduced due to excessive high moisture content resulting from a disaster-related 
+                    <PRTPAGE P="68488"/>
+                    condition. Quality adjustments will require participants to provide verifiable evidence of production that details the extent of the quality loss for a specific quantity. Test evidence to support the need for quality adjustments, in addition to meeting all the requirements of Â§â760.641, must have been completed by January 1 of the year following harvest.
+                </P>
+                <P>For a crop for which an eligible participant on a farm receives assistance under NAP, NAMP will be not more than the price of the crop established under NAP. As determined by the Deputy Administrator, NAMP will be derived using data from the National Agricultural Statistics Service and other sources, and will consist of only one nationwide NAMP for the crop. NAMP may be adjusted, as determined by the Deputy Administrator, to reflect regional variations in a manner consistent with FCIA or NAP. NAMPs may be adjusted by FSA State committees, in accordance with procedures set out by the Deputy Administrator to recognize average quality loss factors that are reflected in market by region. In general, adjustments will be made at the State level for counties or portions of counties. The NAMP will be established on a harvested basis, not including costs of transportation, storage, processing, marketing, or other post-harvest expenses, as determined by FSA.</P>
+                <P>In all cases, matters such as NAMPs and other program provisions that apply generally, which are not established or determined in response to individual participant applications, are not and will not be individually appealable or contestable. Participants have the right to challenge administrative decisions made in response to their particular applications; however, they cannot appeal general program provisions such as average prices, average yields, NAMPs, or factors used for similarly situated participants, as specified in 7 CFR 760.110.</P>
+                <HD SOURCE="HD1">Treatment of Value Loss Crops</HD>
+                <P>Production methods and risk management of value loss crops, such as ornamental nursery and aquaculture, are significantly different than for yield-based crops. Where a yield-based crop is harvested and marketed in a single crop year or marketing year, the participant's inventory of the typical value loss crop fluctuates, sometimes rapidly, in the course of normal business operations. The total value of the inventory fluctuates for reasons that may be unrelated to a disaster or to a farm's expected annual revenue or production.</P>
+                <P>SURE payment eligibility for value loss crops will be determined based on inventory and losses at the time of the disaster and only for the losses due to that disaster. This is in contrast to other types of crops, where the SURE guarantee will typically be based on several years of production history. The guarantee for value loss crops will be based on the inventory on hand immediately before the disaster and the revenue used for the payment calculation will be based on the inventory immediately after the disaster. Daily inventory records required for NAP or crop insurance will typically be sufficient for documenting losses for SURE payment eligibility. All other inventory not marketed immediately prior to and after the disaster event are not relevant for SURE purposes and will not be counted as part of the guarantee or as farm revenue. Further, farm revenue will not be adjusted for market price declines due to the complexity in determining average market prices by species for value loss crops. Quality will also not be further considered in determining revenue. These provisions are consistent with insurance policies and NAP for value loss crops.</P>
+                <P>For value loss crops, the SURE guarantee will be based on the level of insurance coverage selected, as with other crops. For example, if a participant had $100,000 value of value loss crop inventory immediately before the disaster or event and had elected an insurance coverage level of 70 percent, the SURE payment would be calculated on 60 percent of the difference between the dollar value of inventory immediately after disaster ($0 in this example for a total loss) and the SURE guarantee of $80,500 ($100,000 times 70 percent coverage level times 115 percent). If the participant was already paid $70,000 in crop insurance indemnity over the cost of the producer-paid premiums for the farm, as specified in this rule (which counts as revenue), then SURE would pay 60 percent of the difference between the SURE guarantee for the participant ($80,500) and the $70,000 indemnity. In this case, 60 percent of $10,500 equals $6,300.</P>
+                <HD SOURCE="HD1">Application and Certification of Interests Deadline</HD>
+                <P>There is no pre-sign-up or pre-enrollment required for SURE, but participants must submit a complete application in order to be eligible to receive payment. The application for payment will serve as the participant's certification of eligibility and interests. FSA will use these certifications to determine payment eligibility. Participants must submit an application by March 1 of the calendar year two years after the crop year of the loss. For example, for the 2009 crop year, the SURE application including certification of interests must be submitted to the FSA county office by March 1, 2011.</P>
+                <HD SOURCE="HD1">Lack of Access</HD>
+                <P>The 2008 Farm Bill, as amended by the Recovery Act, contains a lack of access provision that authorizes discretion to the Secretary to provide assistance to participants who suffered a 2008 production loss due to a natural cause, except as specified in the Recovery Act. Under that provision, assistance may be provided to producers that did not have access to a policy or plan of insurance or did not qualify for a written agreement because one or more farming practices, which the Secretary has determined are good farming practices, differ significantly from practices of producers of the same crop in other regions of the United States, and were not eligible for NAP coverage. The Deputy Administrator has the authority to exercise this discretion as needed, but it is understood that the scope of this provision is very limited. Whether the Deputy Administrator exercises this authority or not is not a relief determination for an individual program participant based on particular facts but a discretionary determination of general effect. Accordingly, it is FSA's position that such determinations are not subject to administrative appeal either within FSA or before the National Appeal Division of the Department.</P>
+                <HD SOURCE="HD1">Multi-Year Losses</HD>
+                <P>The 2008 Farm Bill, as amended by the Recovery Act, authorized the Secretary to provide equitable treatment as the Secretary considers appropriate for eligible participants on a farm that suffered production losses in the 2008 crop year that result in multi-year production losses. In order to be consistent with policies or plans of risk management coverage available to the majority of crops that are likely to be included in the SURE farm, and due to the complexity and potential problems of calculating multi-year losses on both the farm guarantee and revenue sides, as well as the difficulty in determining whether events in any one crop year were significant enough to result in multi-year losses, the Secretary has elected not to implement any discretionary provisions for multi-year losses under SURE at this time.</P>
+                <HD SOURCE="HD1">Notice and Comment</HD>
+                <P>
+                    The 2008 Consolidated Security, Disaster Assistance, and Continuing 
+                    <PRTPAGE P="68489"/>
+                    Appropriations Act (Pub. L. 110-329) made section 1601(c)(2) of the 2008 Farm Bill applicable in implementing section 12033 of the 2008 Farm Bill. To the extent relevant, the exemptions granted by section 1601(c)(2) of the 2008 Farm Bill apply, we believe, to the corresponding provision enacted in section 15101 since they are identical except for the provisions for funding in section 15101, which do not appear at all in section 12033. Otherwise, the provisions of Public Law 110-329 would have no meaning. Therefore, these regulations are exempt from the notice and comment requirements of the Administrative Procedures Act (5 U.S.C. 553), as specified in section 1601(c)(2) of the 2008 Farm Bill, which requires that the regulations be promulgated and administered without regard to the notice and comment provisions of section 553 of title 5 of the United States Code or the Statement of Policy of the Secretary of Agriculture effective July 24, 1971, (36 FR 13804) relating to notices of proposed rulemaking and public participation in rulemaking.
+                </P>
+                <HD SOURCE="HD1">Executive Order 12866</HD>
+                <P>The Office of Management and Budget (OMB) designated this rule as economically significant under Executive Order 12866 and, therefore, OMB reviewed this final rule. A cost-benefit assessment of this rule is summarized below and is available from the contact information above.</P>
+                <HD SOURCE="HD1">Summary of Economic Impacts</HD>
+                <P>SURE payments for 2008 through 2011 are expected to total $3.4 billion, an average of $0.85 billion per crop year, which represents both the cost of the program and the benefit to participants. This is less than the average of $1.14 billion per year for previous ad hoc crop disaster programs from 1998 to 2007. This estimate for SURE was estimated by taking the cost of ad hoc crop disaster programs from 1998 to 2007 and adjusting that cost for predicted cash value of crop production for 2008 through 2011 and for the specific eligibility requirements for SURE.</P>
+                <P>Although crop prices are expected to continue rising, potentially resulting in greater costs for SURE than for previous programs, the overall costs for SURE are expected to be less than to the cost of previous ad hoc disaster programs because, unlike ad hoc disaster programs, SURE, in general, is additional compensation for established losses under crop insurance or NAP. SURE is not a benefit that replaces or duplicates previously received crop insurance or NAP payments, although the crop insurance indemnity that is counted in the SURE revenue calculation is after subtracting producer-paid premiums for crop insurance in an amount not to exceed the crop insurance indemnity payment. This provision has been included in the rule because the 2008 Farm Bill exempts program indemnities from the calculation of the farm's revenue for purposes of comparing that revenue with the program guarantee. Often, the premium is simply deducted from the indemnity rather than paid outright and it is FSA's view that the 2008 Farm Bill contemplated the âindemnityâ to mean the net revenue paid to the farmer as that would reflect the actual positive effect of that recovery on revenue. This does not suggest in any way that premiums that do not result in a indemnity payment or other farm costs should be deducted, but rather is an accommodation of what it believed to be the perceived intent of this specific provision in the 2008 Farm Bill addressing indemnities.</P>
+                <P>Also, SURE payments are based on farm revenue losses, rather than losses in particular crops or individual units, so participants with losses in one crop but not others may or may not qualify for a SURE payment.</P>
+                <P>The SURE guarantee cap is 90 percent of expected revenue, while previous programs had a cap of 95 percent of normal crop value.</P>
+                <HD SOURCE="HD1">Regulatory Flexibility Act</HD>
+                <P>This rule is not subject to the Regulatory Flexibility Act since FSA is not required to publish a notice of proposed rulemaking for this rule.</P>
+                <HD SOURCE="HD1">Environmental Review</HD>
+                <P>The environmental impacts of this rule have been considered in a manner consistent with the provisions of the National Environmental Policy Act (NEPA), 42 U.S.C. 4321-4347, the regulations of the Council on Environmental Quality (40 CFR parts 1500-1508), and FSA regulations for compliance with NEPA (7 CFR part 799). FSA has determined that the combination of discretionary and non-discretionary provisions of this Rule would not constitute a major Federal action that would significantly affect the quality of the human environment, and therefore, no environmental assessment or environmental impact statement will be prepared.</P>
+                <HD SOURCE="HD1">Executive Order 12372</HD>
+                <P>
+                    This program is not subject to Executive Order 12372, which requires consultation with State and local officials. See the notice related to 7 CFR part 3015, subpart V, published in the 
+                    <E T="04">Federal Register</E>
+                     on June 24, 1983 (48 FR 29115).
+                </P>
+                <HD SOURCE="HD1">Executive Order 12988</HD>
+                <P>The rule has been reviewed in accordance with Executive Order 12988. The provisions of this rule preempt State laws to the extent such laws are inconsistent with the provisions of this rule. Before any judicial action may be brought concerning the provisions of this rule, the administrative remedies must be exhausted.</P>
+                <HD SOURCE="HD1">Executive Order 13132</HD>
+                <P>The policies contained in this rule do not have any substantial direct effect on States, on the relationship between the national government and States, or on the distribution of power and responsibilities among various levels of government. Nor does this rule impose substantial direct compliance costs on State and local governments. Therefore, consultation with States was not required.</P>
+                <HD SOURCE="HD1">Executive Order 13175</HD>
+                <P>The policies contained in this rule do not impose substantial unreimbursed direct compliance costs on Indian tribal governments or have tribal implications that preempt tribal law.</P>
+                <HD SOURCE="HD1">Unfunded Mandates</HD>
+                <P>This rule contains no Federal mandates under the regulatory provisions of Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) for State, local, and tribal governments or the private sector. In addition, FSA was not required to publish a notice of proposed rule making for this rule. Therefore, this rule is not subject to the requirements of sections 202 and 205 of UMRA.</P>
+                <HD SOURCE="HD1">Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA)</HD>
+                <P>
+                    This rule has been determined to be Major under SBREFA (Pub. L. 104-121). SBREFA normally requires that an agency delay the effective date of a major rule for 60 days from the date of publication to allow for Congressional review. Section 808 of SBREFA allows an agency to make a major regulation effective immediately if the agency finds there is good cause to do so. FSA finds that it would be contrary to the public interest to delay implementation of this rule because it would significantly delay assistance to the many people affected by the disasters addressed by this rule. Therefore, this rule is effective immediately.
+                    <PRTPAGE P="68490"/>
+                </P>
+                <HD SOURCE="HD1">Federal Assistance Programs</HD>
+                <P>This rule applies to the following Federal assistance program that is not listed in the Catalog of Federal Domestic Assistance: 10.090-SURE.</P>
+                <HD SOURCE="HD1">Paperwork Reduction Act</HD>
+                <P>The regulations in this rule are exempt from the requirements of the Paperwork Reduction Act (44 U.S.C. Chapter 35), as specified in section 1601(c)(2) of the 2008 Farm Bill, which provides that these regulations be promulgated and administered without regard to the Paperwork Reduction Act.</P>
+                <HD SOURCE="HD1">E-Government Act Compliance</HD>
+                <P>FSA is committed to complying with the E-Government Act, to promote the use of the Internet and other information technologies to provide increased opportunities for citizen access to government information and services, and for other purposes.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 7 CFR Part 760</HD>
+                    <P>Dairy products, Indemnity payments, Pesticide and pests, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <REGTEXT TITLE="7" PART="760">
+                    <AMDPAR>For the reasons discussed above, the Farm Service Agency, USDA, amends 7 CFR part 760 as follows:</AMDPAR>
+                    <PART>
+                        <HD SOURCE="HED">PART 760âINDEMNITY PAYMENT PROGRAMS</HD>
+                    </PART>
+                    <AMDPAR>1. The authority citation for part 760 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 7 U.S.C. 4501, 7 U.S.C. 1531, 16 U.S.C. 3801, note, and 19 U.S.C. 2497; Title III, Pub. L. 109-234, 120 Stat. 474; and Title IX, Pub. L. 110-28, 121 Stat. 211.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="760">
+                    <AMDPAR>2. Add subpart G to read as follows:</AMDPAR>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart GâSupplemental Revenue Assistance Payments Program</HD>
+                    </SUBPART>
+                    <CONTENTS>
+                        <SECHD>Sec.</SECHD>
+                        <SECTNO>760.601</SECTNO>
+                        <SUBJECT>Applicability.</SUBJECT>
+                        <SECTNO>760.602</SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <SECTNO>760.610</SECTNO>
+                        <SUBJECT>Participant eligibility.</SUBJECT>
+                        <SECTNO>760.611</SECTNO>
+                        <SUBJECT>Qualifying losses, eligible causes and types of loss.</SUBJECT>
+                        <SECTNO>760.613</SECTNO>
+                        <SUBJECT>De minimis exception.</SUBJECT>
+                        <SECTNO>760.614</SECTNO>
+                        <SUBJECT>Lack of access.</SUBJECT>
+                        <SECTNO>760.620</SECTNO>
+                        <SUBJECT>Time and method of application and certification of interests.</SUBJECT>
+                        <SECTNO>760.621</SECTNO>
+                        <SUBJECT>Requirement to report acreage and production.</SUBJECT>
+                        <SECTNO>760.622</SECTNO>
+                        <SUBJECT>Incorrect or false producer certification evidence.</SUBJECT>
+                        <SECTNO>760.631</SECTNO>
+                        <SUBJECT>SURE guarantee calculation.</SUBJECT>
+                        <SECTNO>760.632</SECTNO>
+                        <SUBJECT>Payment acres.</SUBJECT>
+                        <SECTNO>760.633</SECTNO>
+                        <SUBJECT>2008 SURE guarantee calculation.</SUBJECT>
+                        <SECTNO>760.634</SECTNO>
+                        <SUBJECT>SURE guarantee for value loss crops.</SUBJECT>
+                        <SECTNO>760.635</SECTNO>
+                        <SUBJECT>Total farm revenue.</SUBJECT>
+                        <SECTNO>760.636</SECTNO>
+                        <SUBJECT>Expected revenue.</SUBJECT>
+                        <SECTNO>760.637</SECTNO>
+                        <SUBJECT>Determination of production.</SUBJECT>
+                        <SECTNO>760.638</SECTNO>
+                        <SUBJECT>Determination of SURE yield.</SUBJECT>
+                        <SECTNO>760.640</SECTNO>
+                        <SUBJECT>National average market price.</SUBJECT>
+                        <SECTNO>760.641</SECTNO>
+                        <SUBJECT>Adjustments made to NAMP to reflect loss of quality.</SUBJECT>
+                        <SECTNO>760.650</SECTNO>
+                        <SUBJECT>Calculating SURE.</SUBJECT>
+                    </CONTENTS>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart GâSupplemental Revenue Assistance Payments Program</HD>
+                        <SECTION>
+                            <SECTNO>Â§â760.601 </SECTNO>
+                            <SUBJECT>Applicability.</SUBJECT>
+                            <P>(a) This subpart specifies the terms and conditions of the Supplemental Revenue Assistance Payments Program (SURE).</P>
+                            <P>(b) Assistance in the form of SURE payments is available for crop losses occurring in the crop year 2008 through September 30, 2011, caused by disaster as determined by the Secretary.</P>
+                            <P>(c) SURE provides disaster assistance to eligible participants on farms in:</P>
+                            <P>(1) Disaster counties designated by the Secretary, which also includes counties contiguous to such declared disaster counties, if the participant incurred actual production losses of at least 10 percent to at least one crop of economic significance on the farm; and</P>
+                            <P>(2) Any county, if the participant incurred eligible total crop losses of greater than or equal to 50 percent of the normal production on the farm, as measured by revenue, including a loss of at least 10 percent to at least one crop of economic significance on the farm.</P>
+                            <P>(d) Subject to the provisions in subpart B of this part, SURE payments will be issued on 60 percent of the difference between the SURE guarantee and total farm revenue, calculated using the National Average Market Price as specified in this subpart.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.602 </SECTNO>
+                            <SUBJECT>Definitions.</SUBJECT>
+                            <P>(a) The following definitions apply to all determinations made under this subpart.</P>
+                            <P>(b) The terms defined in parts 718, 1400, and 1437 of this title and subpart B of this part will be applicable, except where those definitions conflict with the definitions set forth in this section In the event that a definition in any of those parts conflicts with the definitions set forth in this subpart, the definitions in this subpart apply. Any additional conflicts will be resolved by the Deputy Administrator.</P>
+                            <P>
+                                <E T="03">Actual crop acreage</E>
+                                 means all acreage for each crop planted or intended to be planted on the farm.
+                            </P>
+                            <P>
+                                <E T="03">Actual production history yield</E>
+                                 means the average of the actual production history yields for each insurable or noninsurable crop as calculated under the Federal Crop Insurance Act (FCIA) (7 U.S.C. 1501-1524) or Noninsured Crop Disaster Assistance Program (NAP) as set forth in part 1437 of this title, respectively. FSA will use the actual production history yield data provided for crop insurance or NAP, if available, in the SURE payment calculation.
+                            </P>
+                            <P>
+                                <E T="03">Actual production on the farm</E>
+                                 means, unless the Deputy Administrator determines that the context requires otherwise, the sum obtained by adding:
+                            </P>
+                            <P>(1) For each insurable crop on the farm, excluding value loss crops, the product obtained by multiplying:</P>
+                            <P>(i) 100 percent of the per unit price for the crop used to calculate a crop insurance indemnity for the applicable crop insurance if a crop insurance indemnity is triggered. If a price is not available, then the price is 100 percent of the NAP established price for the crop, times</P>
+                            <P>(ii) The relevant per unit quantity of the crop produced on the farm, adjusted for quality losses, plus</P>
+                            <P>(2) For each noninsurable crop on the farm, excluding value loss crops, the product obtained by multiplying:</P>
+                            <P>(i) 100 percent of the per unit NAP established price for the crop, times</P>
+                            <P>(ii) The relevant per unit quantity of the crop produced on the farm, adjusted for quality losses, plus</P>
+                            <P>(3) For value loss crops, the value of inventory immediately after the disaster.</P>
+                            <P>
+                                <E T="03">Adjusted actual production history yield</E>
+                                 means a yield that will not be less than the participant's actual production history yield for a year and:
+                            </P>
+                            <P>(1) In the case of an eligible participant on a farm that has at least 4 years of actual production history for an insurable crop that are established other than pursuant to section 508(g)(4)(B) of FCIA, the average of the production history for the eligible participant without regard to any yields established under that section;</P>
+                            <P>(2) In the case of an eligible participant on a farm that has less than 4 years of actual production history for an insurable crop, of which one or more were established pursuant to section 508(g)(4)(B) of FCIA, the average of the production history for the eligible participant as calculated without including the lowest of the yields established pursuant to section 508(g)(4)(B) of FCIA; or</P>
+                            <P>(3) In all other cases, the actual production history yield of the eligible participant on a farm.</P>
+                            <P>
+                                <E T="03">Adjusted NAP yield</E>
+                                 means a yield that will not be less than the participant's actual production history yield for NAP for a year and:
+                            </P>
+                            <P>
+                                (1) In the case of an eligible participant on a farm that has at least 4 years of actual production history under NAP that are not replacement yields, the average of the production history without regard to any replacement yields;
+                                <PRTPAGE P="68491"/>
+                            </P>
+                            <P>(2) In the case of an eligible participant on a farm that has less than 4 years of actual production history under NAP that are not replacement yields, the average of the production history without including the lowest of replacement yields; or</P>
+                            <P>(3) In all other cases, the actual production history yield of the eligible participant on the farm under NAP.</P>
+                            <P>
+                                <E T="03">Administrative fee</E>
+                                 means a fixed fee payable by a participant for NAP or crop insurance coverage, including buy-in fees, based on the number of covered crops under NAP or insurance under FCIA.
+                            </P>
+                            <P>
+                                <E T="03">Appraised production</E>
+                                 means production determined by FSA, or an insurance provider approved by FCIC, that was unharvested, but which was determined to reflect the crop's yield potential at the time of appraisal. An appraisal may be provided in terms of a potential value of the crop.
+                            </P>
+                            <P>
+                                <E T="03">Aquaculture</E>
+                                 means the reproduction and rearing of aquatic species as specified in part 1437 of this title in controlled or selected environments.
+                            </P>
+                            <P>
+                                <E T="03">Brownout</E>
+                                 means a disruption of electrical or other similar power source for any reason. A brownout, although it may indirectly have an adverse effect on crops, is not a disaster for the purposes of this subpart and losses caused by a brownout will not be considered a qualifying loss.
+                            </P>
+                            <P>
+                                <E T="03">Catastrophic risk protection</E>
+                                 (CAT) means the minimum level of coverage offered by the Risk Management Agency (RMA) for crop insurance. CAT is further specified in parts 402 and 1437 of this title.
+                            </P>
+                            <P>
+                                <E T="03">Counter-cyclical program payment yield</E>
+                                 means the weighted average payment yield established under part 1412, subpart C of this title.
+                            </P>
+                            <P>
+                                <E T="03">County expected yield</E>
+                                 means an estimated yield, expressed in a specific unit of measure equal to the average of the most recent five years of official county yields established by FSA, excluding the years with the highest and lowest yields, respectively.
+                            </P>
+                            <P>
+                                <E T="03">Crop insurance indemnity</E>
+                                 means, for the purpose of this subpart, the net payment to a participant excluding the value of the premium for crop losses covered under crop insurance administered in accordance with FCIA by RMA.
+                            </P>
+                            <P>
+                                <E T="03">Crop of economic significance</E>
+                                 means any crop, as defined in this subpart that contributed, or, if the crop is not successfully produced, would have contributed or is expected to contribute, 5 percent or more of the total expected revenue from all of a participant's crops on a farm.
+                            </P>
+                            <P>
+                                <E T="03">Crop year</E>
+                                 means as determined by the Deputy Administrator for a commodity on a nationwide basis the calendar year in which the crop is normally harvested or, where more than one calendar year is involved, the calendar year in which the majority of the crop would have been harvested. For crops on which catastrophic risk protection, as defined in this section, is available, the crop year will be as defined as in such coverage. Crop year determinations by the Deputy Administrator will be final in all cases and, because these are matters of general applicability, will not considered by the Farm Service Agency to be subject to administrative appeal.
+                            </P>
+                            <P>
+                                <E T="03">Determined acreage or determined production</E>
+                                 means the amount of acres or production for a farm established by a representative of FSA by use of appropriate means such as official acreage, digitizing and planimetering areas on the photograph or other photographic image, or computations from scaled dimensions or ground measurements. In the case of production, any production established by a representative of FSA through audit, review, measurement, appraisal, or other acceptable means of determining production, as determined by FSA.
+                            </P>
+                            <P>
+                                <E T="03">Disaster</E>
+                                 means damaging weather, including drought, excessive moisture, hail, freeze, tornado, hurricane, typhoon, excessive wind, excessive heat, weather-related saltwater intrusion, weather-related irrigation water rationing, or any combination thereof and adverse natural occurrences such as earthquakes or volcanic eruptions. Disaster includes a related condition that occurs as a result of the damaging weather or adverse natural occurrence and exacerbates the condition of the crop, such as disease and insect infestation. It does not include brownouts or power failures.
+                            </P>
+                            <P>
+                                <E T="03">Disaster county</E>
+                                 means a county included in the geographic area covered by a qualifying natural disaster designation under section 321(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961(a)) and for SURE, the term âdisaster countyâ also includes a county contiguous to a county declared a disaster by the Secretary; however, farms not in a disaster county may qualify under SURE where for the relevant period, as determined under this subpart, the actual production on a farm is less than 50 percent of the normal production on the farm.
+                            </P>
+                            <P>
+                                <E T="03">Double-cropping</E>
+                                 means, as determined by the Deputy Administrator on a regional basis, planting for harvest a crop of a different commodity on the same acres in cycle with another crop in a 12-month period in an area where such double-cropping is considered normal, or could be considered to be normal, for all growers and under normal growing conditions and normal agricultural practices for the region and being able to repeat the same cycle in the following 12-month period.
+                            </P>
+                            <P>
+                                <E T="03">Farm</E>
+                                 means, for the purposes of determining SURE eligibility, the entirety of all crop acreage in all counties that a producer planted or intended to be planted for harvest for normal commercial sale or on-farm livestock feeding, including native and improved grassland intended for haying. In the case of aquaculture, except for species for which an Aquaculture Grant Program payment was received, the term âfarmâ includes all acreage used for all aquatic species being produced in all counties that the producer intended to harvest for normal commercial sale. In the case of honey, the term âfarmâ means all bees and beehives in all counties that the participant intended to be harvested for a honey crop for normal commercial sale.
+                            </P>
+                            <P>
+                                <E T="03">FCIC</E>
+                                 means the Federal Crop Insurance Corporation, a wholly owned Government Corporation operated and managed by USDA RMA.
+                            </P>
+                            <P>
+                                <E T="03">FSA</E>
+                                 means the Farm Service Agency.
+                            </P>
+                            <P>
+                                <E T="03">Harvested</E>
+                                 means:
+                            </P>
+                            <P>(1) For insurable crops, harvested is as defined according to the applicable crop insurance policy administered in accordance with FCIA by RMA;</P>
+                            <P>(2) For NAP-covered single harvest crops, a mature crop that has been removed from the field, either by hand or mechanically;</P>
+                            <P>(3) For noninsurable crops with potential multiple harvests in one year or one crop harvested over multiple years, that the participant has, by hand or mechanically, removed at least one mature crop from the field during the crop year; or</P>
+                            <P>(4) For mechanically harvested noninsurable crops, that the mature crop has been removed from the field and placed in or on a truck or other conveyance, except hay is considered harvested when in the bale, whether removed from the field or not. Grazing of land will not be considered harvested for the purpose of determining an unharvested or prevented planting payment factor.</P>
+                            <P>
+                                <E T="03">Initial crop</E>
+                                 means a first crop planted for which assistance is provided under this subpart.
+                            </P>
+                            <P>
+                                <E T="03">Insurable crop</E>
+                                 means an agricultural commodity (excluding livestock) for which the participant on a farm is eligible to obtain a policy or plan of crop insurance administered in 
+                                <PRTPAGE P="68492"/>
+                                accordance with FCIA by RMA. Such a crop for which the participant purchased insurance from RMA is referred to as an insured crop.
+                            </P>
+                            <P>
+                                <E T="03">Insurance is available</E>
+                                 means when crop information is contained in RMA's county actuarial documents for a particular crop and a policy or plan of insurance administered in accordance with FCIA by RMA. If the Adjusted Gross Revenue Plan of crop insurance was the only plan of insurance available for the crop in the county in the applicable crop year, insurance is considered not available for that crop. If an AGR plan or a pilot plan was the only plan available, producers are not required to purchase it to meet the risk management purchase requirement, but it will satisfy the risk management purchase requirement. In that case, the other ways to meet the requirement would be, if all the requirements of this subpart are met, a buy-in or NAP.
+                            </P>
+                            <P>
+                                <E T="03">Intended use</E>
+                                 means the original use for which a crop or a commodity is grown and produced.
+                            </P>
+                            <P>
+                                <E T="03">Marketing year</E>
+                                 means the 12 months immediately following the established final harvest date of the crop of a commodity, as determined by the Deputy Administrator, and not an individual participant's final harvest date. FSA will use the marketing year determined by NASS, when available.
+                            </P>
+                            <P>
+                                <E T="03">Maximum average loss level</E>
+                                 means the maximum level of crop loss that will be used in calculating SURE payments for a participant without reliable or verifiable production records as defined in this section. Loss levels are expressed in either a percent of loss or a yield per acre, and reflect the amount of production that a participant should have produced considering the eligible disaster conditions in the area or county, as determined by the FSA county committee in accordance with instructions issued by the Deputy Administrator.
+                            </P>
+                            <P>
+                                <E T="03">Multi-use crop</E>
+                                 means a crop intended for more than one use during the calendar year such as grass harvested for seed, hay, or grazing.
+                            </P>
+                            <P>
+                                <E T="03">Multiple planting</E>
+                                 means the planting for harvest of the same crop in more than one planting period in a crop year on the same or different acreage. This is also sometimes referred in this rule as multiple cropping.
+                            </P>
+                            <P>
+                                <E T="03">NAMP</E>
+                                 means the national average market price determined in accordance with Â§Â§â760.640 and 760.641.
+                            </P>
+                            <P>
+                                <E T="03">NASS</E>
+                                 is the USDA National Agricultural Statistics Service.
+                            </P>
+                            <P>
+                                <E T="03">Noninsurable crop</E>
+                                 means a commercially produced crop for which the eligible participants on a farm may obtain coverage under NAP.
+                            </P>
+                            <P>
+                                <E T="03">Noninsured Crop Disaster Assistance Program or NAP</E>
+                                 means the FSA program carried out under 7 U.S.C. 7333, as specified in part 1437 of this title.
+                            </P>
+                            <P>
+                                <E T="03">Normal production on the farm</E>
+                                 means, for purposes of the revenue calculations of this subpart, the sum of the expected revenue for all crops on the farm. It is stated in terms of revenue, because different crops may have different units of measure.
+                            </P>
+                            <P>
+                                <E T="03">Planted acreage</E>
+                                 means land in which seed, plants, or trees have been placed, appropriate for the crop and planting method, at a correct depth, into a seed bed that has been properly prepared for the planting method and production practice normal to the area, as determined by the FSA county committee.
+                            </P>
+                            <P>
+                                <E T="03">Prevented planting</E>
+                                 means the inability to plant an eligible crop with proper equipment during the planting period as a result of a disaster, as determined by FSA. All prevented planted cropland must meet conditions provided in Â§â718.103 of this chapter. Additionally, all insured crops must satisfy the provisions of prevented planting provided in Â§â457.8 of this title.
+                            </P>
+                            <P>
+                                <E T="03">Price election</E>
+                                 means, for an insured crop, the crop insurance price elected by the participant multiplied by the percentage of price elected by the participant.
+                            </P>
+                            <P>
+                                <E T="03">Production</E>
+                                 means quantity of a crop or commodity produced on the farm expressed in a specific unit of measure including, but not limited to, bushels or pounds and used to determine the normal production on a farm. Normal production for the whole farm is stated in terms of revenue, because different crops may have different units of measure.
+                            </P>
+                            <P>
+                                <E T="03">Qualifying loss</E>
+                                 means a 10 percent loss of at least one crop of economic significance due to disaster and on a farm that is either:
+                            </P>
+                            <P>(1) Located in a disaster county (a county for which a Secretarial disaster designation has been issued or in a county contiguous to a county that has received a Secretarial disaster designation), or</P>
+                            <P>(2) If not located in any disaster county or county contiguous to such a county, but has an overall loss greater than or equal to 50 percent of normal production on the farm (expected revenue for all crops on the farm) due to disaster.</P>
+                            <P>
+                                <E T="03">Qualifying natural disaster designation</E>
+                                 means a natural disaster designated by the Secretary for production losses under section 321(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961(a)).
+                            </P>
+                            <P>
+                                <E T="03">Related condition</E>
+                                 means, with respect to a disaster, a condition that causes deterioration of a crop such as insect infestation, plant disease, or aflatoxin that is accelerated or exacerbated as a result of damaging weather, as determined by the Deputy Administrator.
+                            </P>
+                            <P>
+                                <E T="03">Reliable production records</E>
+                                 means evidence provided by the participant to the FSA county office that FSA determines is adequate to substantiate the amount of production reported when verifiable records are not available, including copies of receipts, ledgers of income, income statements, deposit slips, register tapes, invoices for custom harvesting, records to verify production costs, contemporaneous measurements, truck scale tickets, and contemporaneous diaries. When the term âacceptable production recordsâ is used in this rule, it may be either reliable or verifiable production records, as defined in this section.
+                            </P>
+                            <P>
+                                <E T="03">Reported acreage or production</E>
+                                 means information obtained from the participant or the participant's agent, on a form prescribed by FSA or through insurance records.
+                            </P>
+                            <P>
+                                <E T="03">RMA</E>
+                                 means the Risk Management Agency.
+                            </P>
+                            <P>
+                                <E T="03">Salvage value</E>
+                                 means the dollar amount or equivalent for the quantity of the commodity that cannot be marketed or sold in any recognized market for the crop.
+                            </P>
+                            <P>
+                                <E T="03">Secretary</E>
+                                 means the Secretary of Agriculture.
+                            </P>
+                            <P>
+                                <E T="03">State</E>
+                                 means a State; the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+                            </P>
+                            <P>
+                                <E T="03">Subsequent crop</E>
+                                 means any crop planted after an initial crop, on the same land, during the same crop year.
+                            </P>
+                            <P>
+                                <E T="03">SURE</E>
+                                 means the Supplemental Revenue Assistance Payments Program.
+                            </P>
+                            <P>
+                                <E T="03">Unit of measure</E>
+                                 means:
+                            </P>
+                            <P>(1) For all insurable crops, the FCIC established unit of measure;</P>
+                            <P>(2) For all noninsurable crops, if available, the established unit of measure used for the NAP price and yield;</P>
+                            <P>(3) For aquatic species, a standard unit of measure such as gallons, pounds, inches or pieces, established by the FSA State committee for all aquatic species or varieties;</P>
+                            <P>(4) For turfgrass sod, a square yard;</P>
+                            <P>(5) For maple sap, a gallon; and</P>
+                            <P>(6) For all other crops, the smallest unit of measure that lends itself to the greatest level of accuracy, as determined by the FSA State committee.</P>
+                            <P>
+                                <E T="03">USDA</E>
+                                 means United States Department of Agriculture.
+                            </P>
+                            <P>
+                                <E T="03">Value loss crop</E>
+                                 has the meaning specified in part 1437, subpart D of this 
+                                <PRTPAGE P="68493"/>
+                                title. Unless otherwise announced by FSA, value loss crops for SURE include aquaculture, floriculture, ornamental nursery, Christmas trees, mushrooms, ginseng, and turfgrass sod.
+                            </P>
+                            <P>
+                                <E T="03">Verifiable production records</E>
+                                 mean evidence that is used to substantiate the amount of production reported and that can be verified by FSA through an independent source.
+                            </P>
+                            <P>
+                                <E T="03">Volunteer stand</E>
+                                 means plants that grow from seed residue or are indigenous or are not planted. Volunteer plants may sprout from seeds left behind during a harvest of a previous crop; be unintentionally introduced to land by wind, birds, or fish; or be inadvertently mixed into a crop's growing medium.
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.610 </SECTNO>
+                            <SUBJECT>Participant eligibility.</SUBJECT>
+                            <P>(a) In addition to meeting the eligibility requirements of Â§â760.103, a participant must meet all of the following conditions:</P>
+                            <P>(1) All insurable crops on the participant's farm must be covered by crop insurance administered by RMA in accordance with FCIA, and all noninsured crops must be covered under NAP, as specified in Â§â760.104, unless the participant meets the requirements in either Â§â760.105 or Â§â760.107. At the discretion of FSA, the equitable relief provisions in Â§â760.106 may apply.</P>
+                            <P>(2) Crop losses must have occurred in crop year 2008 and subsequent crop years through September 30, 2011, as a result of disaster as defined in Â§â760.602, and must have occurred in the particular crop year for which benefits are sought under this subpart.</P>
+                            <P>(3) A qualifying loss as defined in Â§â760.602 must have occurred.</P>
+                            <P>(4) The participant must have been in compliance with the Highly Erodible Land Conservation and Wetland Conservation provisions of part 12 of this title, for 2008 and subsequent crop years through September 30, 2011, as applicable, and must not otherwise be barred from receiving benefits or payments under part 12 of this title or any other law.</P>
+                            <P>(5) The participant must not be ineligible or otherwise barred from the requisite risk management insurance programs or NAP because of past violations where those insurance programs or NAP would otherwise be available absent such violations.</P>
+                            <P>(6) The participant must have an entitlement to an ownership share of the crop and also assume production and market risks associated with the production of the crop. In the event the crop was planted but not produced, participants must have an ownership share of the crop that would have been produced.</P>
+                            <P>(i) Any verbal or written contract that precludes the grower from having an ownership share renders the grower ineligible for payments under this subpart.</P>
+                            <P>(ii) Growers growing eligible crops under contract are not eligible participants under this subpart unless the grower has an ownership share of the crop.</P>
+                            <P>(b) In the event that a producer is determined not to be an eligible producer of a crop in accordance with this section, such crop will be disregarded in determining the producer's production or eligibility for payments under this subpart. However, any insurance, farm program, or NAP payments received by the producer on such crop will count as farm revenue if that producer is an eligible participant as a producer of other crops.</P>
+                            <P>(c) Participants may not receive payments with respect to volunteer stands of crops. Volunteer stands will not be considered in either the calculation of revenue or of the SURE guarantee.</P>
+                            <P>(d) A deceased applicant or an applicant that is a dissolved entity that suffered losses prior to the death or the dissolution that met all eligibility criteria prior to death or dissolution may be eligible for payments for such losses if an authorized representative signs the application for payment. Proof of authority to sign for the deceased participant or dissolved entity must be provided. If a participant is now a dissolved general partnership or joint venture, all members of the general partnership or joint venture at the time of dissolution or their duly authorized representatives must sign the application for payment. Eligibility of such participant will be determined, as it is for other participants, based upon ownership share and risk in producing the crop.</P>
+                            <P>(e) Participants receiving payments under the Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program (ELAP) as specified in subpart C of this part are not eligible to receive payments under SURE for the same loss.</P>
+                            <P>(f) Participants with a farming interest in multiple counties who apply for SURE payment based on a Secretarial disaster designation must have a 10 percent loss of a crop of economic significance located in at least one disaster county, as defined in this subpart, to be eligible for SURE.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.611 </SECTNO>
+                            <SUBJECT>Qualifying losses, eligible causes and types of loss.</SUBJECT>
+                            <P>(a) Eligible causes of loss are disasters which cause types of losses where the crop could not be planted or where crop production was adversely affected in quantity, quality, or both. A qualifying loss, as defined in this subpart, must be the result of a disaster.</P>
+                            <P>(b) A loss will not be considered a qualifying loss if any of the following apply:</P>
+                            <P>(1) The cause of the loss was not the result of disaster;</P>
+                            <P>(2) The cause of loss was due to poor management decisions or poor farming practices, as determined by the FSA county committee on a case-by-case basis;</P>
+                            <P>(3) The cause of loss was due to failure of the participant to re-seed or replant to the same crop in a county where it is customary to re-seed or replant after a loss before the final planting date;</P>
+                            <P>(4) The cause of loss was due to water contained or released by any governmental, public, or private dam or reservoir project if an easement exists on the acreage affected by the containment or release of the water;</P>
+                            <P>(5) The cause of loss was due to conditions or events occurring outside of the applicable crop year growing season; or</P>
+                            <P>(6) The cause of loss was due to a brownout.</P>
+                            <P>(c) The following types of loss, regardless of whether they were the result of a disaster, are not qualifying losses:</P>
+                            <P>(1) Losses to crops not intended for harvest in the applicable crop year;</P>
+                            <P>(2) Losses of by-products resulting from processing or harvesting a crop, such as, but not limited to, cotton seed, peanut shells, wheat or oat straw, or corn stalks or stovers;</P>
+                            <P>(3) Losses to home gardens; or to a crop subject to a de minimis election according to Â§â760.613;</P>
+                            <P>(4) Losses of crops that were grazed or, if prevented from being planted, had the intended use of grazing; or</P>
+                            <P>(5) Losses of first year seeding for forage production, or immature fruit crops.</P>
+                            <P>(d) The following losses of ornamental nursery stock are not a qualifying loss:</P>
+                            <P>(1) Losses caused by a failure of power supply or brownout as defined in Â§â760.602;</P>
+                            <P>(2) Losses caused by the inability to market nursery stock as a result of quarantine, boycott, or refusal of a buyer to accept production;</P>
+                            <P>(3) Losses caused by fires that are not the result of disaster;</P>
+                            <P>
+                                (4) Losses affecting crops where weeds and other forms of undergrowth 
+                                <PRTPAGE P="68494"/>
+                                in the vicinity of nursery stock have not been controlled; or
+                            </P>
+                            <P>(5) Losses caused by the collapse or failure of buildings or structures.</P>
+                            <P>(e) The following losses for honey, where the honey production by colonies or bees was diminished, are not a qualifying loss:</P>
+                            <P>(1) Losses caused by the unavailability of equipment or the collapse or failure of equipment or apparatus used in the honey operation;</P>
+                            <P>(2) Losses caused by improper storage of honey;</P>
+                            <P>(3) Losses caused by bee feeding;</P>
+                            <P>(4) Losses caused by the application of chemicals;</P>
+                            <P>(5) Losses caused by theft or fire not caused by a natural condition including, but not limited to, arson or vandalism;</P>
+                            <P>(6) Losses caused by the movement of bees by the participant or any other legal entity or person;</P>
+                            <P>(7) Losses caused by disease or pest infestation of the colonies, unless approved by the Secretary;</P>
+                            <P>(8) Losses of income from pollinators; or</P>
+                            <P>(9) Losses of equipment or facilities.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.613 </SECTNO>
+                            <SUBJECT>De minimis exception.</SUBJECT>
+                            <P>(a) Participants seeking the de minimis exception to the risk management purchase requirements of this subpart, must certify:</P>
+                            <P>(1) That a specific crop on the farm is not a crop of economic significance on the farm; or</P>
+                            <P>(2) That the administrative fee required for the purchase of NAP coverage for a crop exceeds 10 percent of the value of that coverage.</P>
+                            <P>(b) To be eligible for a de minimis exception to the risk management purchase requirement in Â§â760.104, the participant must elect such exception at the same time the participant files the application for payment and the certification of interests, as specified in Â§â760.620, and specify the crop or crops for which the participant is requesting such exception.</P>
+                            <P>(c) FSA will not consider the value of any crop elected under paragraph (b) of this section in calculating both the SURE guarantee and the total farm revenue.</P>
+                            <P>(d) All provisions of this subpart apply in the event a participant does not obtain an exception according to this section.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.614 </SECTNO>
+                            <SUBJECT>Lack of Access.</SUBJECT>
+                            <P>In addition to other provisions for eligibility provided for in this part, the Deputy Administrator may provide assistance to participants who suffered 2008 production losses that meet the lack of access provisions in 19 U.S.C. 2497(g)(7)(F), where deemed appropriate, and consistent with the statutory provision. Such a determination to exercise that authority, and the terms on which to exercise that authority, will be considered to be a determination of general effect, not a âreliefâ determination, and will not be considered by the Farm Service Agency to be appealable administratively either within FSA or before the National Appeals Division.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.620 </SECTNO>
+                            <SUBJECT>Time and method of application and certification of interests.</SUBJECT>
+                            <P>(a) Each producer interested in obtaining a SURE payment must file an application for payment and provide an accurate certification of interests. The application will be on a form prescribed by FSA and will require information or certifications from the producer regarding any other assistance, payment, or grant benefit the producer has received for any of the producer's crops or interests on a farm as defined in this subpart; regardless of whether the crop or interest is covered in the farm's SURE guarantee according to Â§â760.631. The producer's certification of interests will help FSA establish whether the producer is an eligible participant.</P>
+                            <P>(b) Eligible participants with a qualifying loss as defined in this subpart must submit an application for payment and certification of interests by March 1 of the calendar year that is two years after the relevant corresponding calendar year for the crop year which benefits are sought to be eligible for payment (for example, the final date to submit an application for a SURE payment for the 2009 crop year will be March 1, 2011). Producers who do not submit the application by that date will not be eligible for payment.</P>
+                            <P>(c) To the extent available and practicable, FSA will assist participants with information regarding their interests in a farm, as of the date of certification, based on information already available to FSA from various sources. However, the participant is solely responsible for providing an accurate certification from which FSA can determine the participant's farm interests for the purposes of this program. As determined appropriate by FSA, failure of a participant to provide an accurate certification of interests as part of the application may render the participant ineligible for any assistance under SURE.</P>
+                            <P>(d) To elect a de minimis exception to the risk management purchase requirement for a crop or crops, the participant must meet the requirements specified in Â§â760.613. When electing a de minimis exception, the participant must specify the crops for which the exception is requested and provide the certification and supporting documentation for that exception at the time the application and certification of interests is filed with FSA.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.621 </SECTNO>
+                            <SUBJECT>Requirement to report acreage and production.</SUBJECT>
+                            <P>(a) As a condition of eligibility for payment under this subpart, participants must submit an accurate and timely report of all cropland, non-cropland, prevented planting, and subsequent crop acreage and production for the farm in all counties.</P>
+                            <P>(b) Acreage and production reports that have been submitted to FSA for NAP or to RMA for crop insurance purposes may satisfy the requirement of paragraph (a) of this section provided that the participant's certification of interests submitted as required by Â§â760.620 corresponds to the report requirements in paragraph (a) of this section, as determined by the FSA county committee.</P>
+                            <P>(c) Reports of production submitted for NAP or FCIA purposes must satisfy the requirements of NAP or FCIA, as applicable. In all other cases, in order for production reports or appraisals to be considered acceptable for SURE, production reports and appraisals must meet the requirements set forth in part 1437 of this title.</P>
+                            <P>(d) In any case where production reports or an appraisal is not acceptable, maximum loss provisions apply as specified in Â§â760.637.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.622 </SECTNO>
+                            <SUBJECT>Incorrect or false producer production evidence.</SUBJECT>
+                            <P>(a) If production evidence, including but not limited to acreage and production reports, provided by a participant is false or incorrect, as determined by the FSA county committee at any time after an application for payment is made, the FSA county committee will determine whether:</P>
+                            <P>(1) The participant submitting the production evidence acted in good faith or took action to defeat the purposes of the program, such that the information provided was intentionally false or incorrect.</P>
+                            <P>(2) The same false, incorrect, or unacceptable production evidence was submitted for payment(s) under crop insurance or NAP, and if so, for NAP covered crops, make any NAP program adjustments according to Â§â1437.15 of this title.</P>
+                            <P>
+                                (b) If the FSA county committee determines that the production evidence submitted is false, incorrect, or unacceptable, and the participant who 
+                                <PRTPAGE P="68495"/>
+                                submitted the evidence did not act in good faith or took action to defeat the purposes of the program, the provisions of Â§â760.109, including a denial of future program benefits, will apply. The Deputy Administrator may take further action, including, but not limited to, making further payment reductions or requiring refunds or taking other legal action.
+                            </P>
+                            <P>(c) If the FSA county committee determines that the production evidence is false, incorrect, or unacceptable, but the participant who submitted the evidence acted in good faith, payment may be adjusted and a refund may be required.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.631 </SECTNO>
+                            <SUBJECT>SURE guarantee calculation.</SUBJECT>
+                            <P>(a) Except as otherwise provided in this part, the SURE guarantee for a farm is the sum obtained by adding the dollar amounts calculated in paragraphs (a)(1) through (a)(3) of this section.</P>
+                            <P>(1) For each insurable crop on the farm except for value loss crops, 115 percent of the product obtained by multiplying together:</P>
+                            <P>(i) The price election. If a price election was not made or a participant is eligible as specified in Â§Â§â760.105, 760.106, or 760.107, then the percentage of price will be 55 percent of the NAP established price;</P>
+                            <P>(ii) The payment acres determined according to Â§â760.632;</P>
+                            <P>(iii) The SURE yield as calculated according to Â§â760.638; and</P>
+                            <P>(iv) The coverage level elected by the participant. If a coverage level was not elected or a participant is eligible as specified in Â§Â§â760.105, 760.106, or 760.107, a coverage level of 50 percent will be used in the calculation.</P>
+                            <P>(2) For each noninsurable crop on a farm except for value loss crops, 120 percent of the product obtained by multiplying:</P>
+                            <P>(i) 100 percent of the NAP established price for the crop;</P>
+                            <P>(ii) The payment acres determined according to Â§â760.632;</P>
+                            <P>(iii) The SURE yield calculated according to Â§â760.638; and</P>
+                            <P>(iv) 50 percent.</P>
+                            <P>(3) The guarantee for value loss crops as calculated according to Â§â760.634.</P>
+                            <P>(4) In the case of an insurable crop for which crop insurance provides for an adjustment in the guarantee liability, or indemnity, such as in the case of prevented planting, that adjustment will be used in determining the guarantee for the insurable crop.</P>
+                            <P>(5) In the case of a noninsurable crop for which NAP provides for an adjustment in the level of assistance, such as in the case of unharvested crops, that adjustment will be used for determining the guarantee for the noninsurable crop.</P>
+                            <P>(b) Those participants who are eligible according to Â§Â§â760.105, 760.106, or 760.107 who do not have crop insurance or NAP coverage will have their SURE guarantee calculated based on catastrophic risk protection or NAP coverage available for those crops.</P>
+                            <P>(c) FSA will not include in the SURE guarantee the value of any crop that has a de minimis exception, according to Â§â760.613.</P>
+                            <P>(d) For crops where coverage may exist under both crop insurance and NAP, such as for pasture, rangeland, and forage, adjustments to the guarantee will be the product obtained by multiplying the county expected yield for that crop times:</P>
+                            <P>(1) 115 percent;</P>
+                            <P>(2) 100 percent of the NAP established price;</P>
+                            <P>(3) The payment acres determined according to Â§â760.632;</P>
+                            <P>(4) The SURE yield calculated according to Â§â760.638; and</P>
+                            <P>(5) The coverage level elected by the participant.</P>
+                            <P>(e) Participants who do not have a SURE yield as specified in Â§â760.638 will have a yield determined for them by the Deputy Administrator.</P>
+                            <P>(f) The SURE guarantee may not be greater than 90 percent of the sum of the expected revenue for each of the crops on a farm, as determined by the Deputy Administrator.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.632 </SECTNO>
+                            <SUBJECT>Payment acres.</SUBJECT>
+                            <P>(a) Payment acres as calculated in this section are used in determining both total farm revenue and the SURE guarantee for a farm. Payment acreage will be calculated using the lesser of the reported or determined acres shown to have been planted or prevented from being planted to a crop.</P>
+                            <P>(b) Initial crop acreage will be the payment acreage for SURE, unless the provisions for subsequent crops in this section are met. Subsequently planted or prevented planted acre acreage is considered acreage for SURE only if the provisions of this section are met. All plantings of an annual or biennial crop are considered the same as a planting of an initial crop in tropical regions as defined in part 1437, subpart F, of this title.</P>
+                            <P>(c) In cases where there is double cropped acreage, each crop may be included in the acreage for SURE only if the specific crops are either insured crops eligible for double cropping according to RMA or approved by the FSA State committee as eligible double cropping practices in accordance with procedures approved by the Deputy Administrator.</P>
+                            <P>(d) Except for insured crops, participants with double cropped acreage not meeting the criteria in paragraph (c) of this section may have such acreage included in the acreage for SURE on more than one crop only if the participant submits verifiable records establishing a history of carrying out a successful double cropping practice on the specific crops for which payment is requested.</P>
+                            <P>(e) Participants having multiple plantings may have each planting included in the SURE guarantee only if the planting meets the requirements of part 1437 of this title and all other provisions of this subpart are satisfied.</P>
+                            <P>(f) Provisions of part 718 of this title specifying what is considered prevented planting and how it must be documented and reported will apply to this payment acreage for SURE.</P>
+                            <P>(g) Subject to the provisions of this subpart, the FSA county committee will:</P>
+                            <P>(1) Use the most accurate data available when determining planted and prevented planted acres; and</P>
+                            <P>(2) Disregard acreage of a crop produced on land that is not eligible for crop insurance or NAP.</P>
+                            <P>(h) For any crop acreage for which crop insurance or NAP coverage is canceled, those acres will no longer be considered the initial crop and will, therefore, no longer be eligible for SURE.</P>
+                            <P>(i) Notwithstanding any other provisions of these or other applicable regulations that relate to tolerance in part 718 of this title, if a farm has a crop that has both FSA and RMA acreage for insured crops, payment acres for the SURE guarantee calculation will be based on acres for which an indemnity was received if RMA acres do not differ from FSA acres by more than the larger of 5 percent or 10 acres not to exceed 50 acres. If the difference between FSA and RMA acres is more than the larger of 5 percent or 10 acres not to exceed 50 acres, then the payment acres for the SURE guarantee will be calculated using RMA acres. In that case, the participant will be notified of the discrepancy and that refunds of unearned payments may be required after FSA and RMA reconcile acreage data.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.633 </SECTNO>
+                            <SUBJECT>2008 SURE guarantee calculation.</SUBJECT>
+                            <P>
+                                (a) For a participant who is eligible due to the 2008 buy-in waiver for risk management purchase under the provisions of Â§â760.105(c), the SURE guarantee for their farm for the 2008 crop will be calculated according to Â§â760.631, or according to Â§â760.634 for value loss crops, with the exception that the:
+                                <PRTPAGE P="68496"/>
+                            </P>
+                            <P>(1) Price election in Â§â760.631(a)(1)(i) is 100 percent of the NAP established price for the crop;</P>
+                            <P>(2) Coverage level in Â§â760.631(a)(1)(iv) is 70 percent; and</P>
+                            <P>(3) The percent specified in Â§â760.631(a)(2)(iv) is 70 percent instead of 50 percent; and</P>
+                            <P>(4) Coverage level used in Â§â760.634(a)(1)(ii) is 70 percent; and</P>
+                            <P>(5) The percent specified in Â§â760.634(a)(2)(ii) is 70 percent instead of 50 percent.</P>
+                            <P>(b) For those 2008 crops that meet the requirements of Â§Â§â760.104, 760.105(a), 760.106, or 760.107, the SURE guarantee will be the higher of:</P>
+                            <P>(1) The guarantee calculated according to Â§â760.631, or according to Â§â760.634 for value loss crops, with the exception that the percent specified in Â§Â§â760.631(a)(1) and 760.634(a)(1) will be 120 percent instead of 115 percent;</P>
+                            <P>(2) The guarantee calculated according to Â§â760.631, or according to Â§â760.634 for value loss crops, will be used with the exception that the:</P>
+                            <P>(i) Price election in Â§â760.631(a)(1)(i) is 100 percent of the NAP established price for the crop; and</P>
+                            <P>(ii) Coverage level in Â§Â§â760.631(a)(1)(iv) and 760.634(a)(1)(ii) will be 70 percent; and</P>
+                            <P>(iii) The percent specified in Â§Â§â760.631(a)(2)(iv) and 760.634(a)(2)(ii) will be 70 percent instead of 50 percent.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.634 </SECTNO>
+                            <SUBJECT>SURE guarantee for value loss crops.</SUBJECT>
+                            <P>(a) The SURE guarantee for value loss crops will be the sum of the amounts calculated in paragraphs (a)(1) and (a)(2) of this section, except as otherwise specified.</P>
+                            <P>(1) For each insurable crop on the farm, 115 percent of the product obtained by multiplying:</P>
+                            <P>(i) The value of inventory immediately prior to disaster, and</P>
+                            <P>(ii) The coverage level elected by the participant. If a coverage level was not elected or a participant is eligible as specified in Â§Â§â760.106 or 760.107, a coverage level of 27.5 percent will be used in the calculation.</P>
+                            <P>(2) For each noninsurable crop on the farm, 120 percent of the product obtained by multiplying:</P>
+                            <P>(i) The value of inventory immediately prior to a disaster, and</P>
+                            <P>(ii) 50 percent.</P>
+                            <P>(b) Aquaculture participants who received assistance under the Aquaculture Grant Program (Pub. L. 111-5) will not be eligible for SURE assistance on those species for which a grant benefit was received under the Aquaculture Grant Program for feed losses associated with that species.</P>
+                            <P>(c) In the case of an insurable value loss crop for which crop insurance provides for an adjustment in the guarantee, liability, or indemnity, such as in the case of inventory exceeding peak inventory value, the adjustment will be used in determining the SURE guarantee for the insurable crop.</P>
+                            <P>(d) In the case of a noninsurable value loss crop for which NAP provides for an adjustment in the level of assistance, such as in the case of unharvested field grown inventory, the adjustment will be used in determining the SURE guarantee for the noninsurable crop.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.635 </SECTNO>
+                            <SUBJECT>Total farm revenue.</SUBJECT>
+                            <P>(a) For the purpose of SURE payment calculation, total farm revenue will equal the sum obtained by adding the amounts calculated in paragraphs (a)(1) through (a)(12) of this section.</P>
+                            <P>(1) The estimated actual value for each crop produced on a farm, except for value loss crops, which equals the product obtained by multiplying:</P>
+                            <P>(i) The actual production of the payment acres for each crop on a farm for purposes of determining losses under FCIA or NAP; and</P>
+                            <P>(ii) NAMP, as calculated for the marketing year as specified in Â§â760.640 and as adjusted if required as specified in Â§â760.641.</P>
+                            <P>(2) The estimated actual value for each value loss crop produced on a farm that equals the value of inventory immediately after disaster.</P>
+                            <P>(3) 15 percent of the amount of any direct payments made to the participant under part 1412 of this title.</P>
+                            <P>(4) The total amount of any counter-cyclical and average crop revenue election payments made to the participant under part 1412 of this title.</P>
+                            <P>(5) The total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the participant under parts 1421 and 1434 of this title.</P>
+                            <P>(6) The amount of payments for prevented planting.</P>
+                            <P>(7) The amount of crop insurance indemnities.</P>
+                            <P>(8) The amount of NAP payments received.</P>
+                            <P>(9) The value of any guaranteed payments made to a participant in lieu of production pursuant to an agreement or contract, if the crop is included in the SURE guarantee.</P>
+                            <P>(10) Salvage value for any crops salvaged.</P>
+                            <P>(11) The value of any other disaster assistance payments provided by the Federal Government for the same loss for which the eligible participant applied for SURE.</P>
+                            <P>(12) For crops for which the eligible participant received a waiver under the provisions of Â§â760.105(c) or obtained relief according to Â§â760.106, the value determined by FSA based on what the participant would have received, irrespective of any other provision, if NAP or crop insurance coverage had been obtained.</P>
+                            <P>(b) Sale of plant parts or by-products, such as straw, will not be counted as farm revenue.</P>
+                            <P>(c) For value loss crops:</P>
+                            <P>(1) Other inventory on hand or marketed at some time other than immediately prior to and immediately after the disaster event are irrelevant for revenue purposes and will not be counted as revenue for SURE.</P>
+                            <P>(2) Revenue will not be adjusted for market loss.</P>
+                            <P>(3) Quality losses will not be considered in determining revenue.</P>
+                            <P>(4) In no case will market price declines in value loss crops, due to any cause, be considered in the calculation of payments for those crops.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.636 </SECTNO>
+                            <SUBJECT>Expected revenue.</SUBJECT>
+                            <P>The expected revenue for each crop on a farm is:</P>
+                            <P>(a) For each insurable crop, except value loss crops, the product obtained by multiplying:</P>
+                            <P>(1) The SURE yield as specified in Â§â760.638;</P>
+                            <P>(2) The payment acres as specified in Â§â760.632; and</P>
+                            <P>(3) 100 percent of the price for the crop used to calculate a crop insurance indemnity for an applicable policy of insurance if a crop insurance indemnity is triggered. If a price is not available, then the price is 100 percent of the NAP established price for the crop, and</P>
+                            <P>(b) For each noninsurable crop, except value loss crops, the product obtained by multiplying</P>
+                            <P>(1) The SURE yield as specified in Â§â760.638;</P>
+                            <P>(2) The payment acres as specified in Â§â760.632; and</P>
+                            <P>(3) 100 percent of the NAP price.</P>
+                            <P>(c) For each value loss crop, the value of inventory immediately prior to the disaster.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.637 </SECTNO>
+                            <SUBJECT>Determination of production.</SUBJECT>
+                            <P>(a) Except for value loss crops, production for the purposes of this part includes all harvested, appraised, and assigned production for the payment acres determined according to Â§â760.632.</P>
+                            <P>(b) The FSA county committee will use the best available data to determine production, including RMA and NAP loss records and yields for insured and noninsured crops.</P>
+                            <P>
+                                (c) The production of any eligible crop harvested more than once in a crop 
+                                <PRTPAGE P="68497"/>
+                                year will include the total harvested production from all harvests.
+                            </P>
+                            <P>(d) Crop production losses occurring in tropical regions, as defined in part 1437, subpart F of this chapter, will be based on a crop year beginning on January 1 and ending on December 31 of the same calendar year. All crop harvests in tropical regions that take place between those dates will be considered a single crop.</P>
+                            <P>(e) Any record of an appraisal of crop production conducted by RMA or FSA through a certified loss adjustor will be used if available. Unharvested appraised production will be included in the calculation of revenue under SURE. If the unharvested appraised crop is subsequently harvested for the original intended use, the larger of the actual or appraised production will be used to determine payment.</P>
+                            <P>(1) If no appraisal is available, the participant is required to submit verifiable or reliable production evidence.</P>
+                            <P>(2) If the participant does not have verifiable or reliable production evidence, the FSA county committee will use the higher of the participant's crop certification or the maximum average loss level to determine the participant's crop production losses.</P>
+                            <P>(f) Production will be adjusted based on a whole grain equivalent, as established by FSA, for all crops with an intended use of grain, but harvested as silage, cobbage, or hay, cracked, rolled, or crimped.</P>
+                            <P>(g) For crops sold in a market that is not a recognized market for that crop and has no established county expected yield and NAMP, the quantity of such crops will not be considered production; rather, 100 percent of the salvage value will be included in the revenue calculation.</P>
+                            <P>(h) Production from different counties that is commingled on the farm before it was a matter of record and cannot be separated by using records or other means acceptable to FSA will have the NAMP prorated to each respective county by FSA. Commingled production may be attributed to the applicable county, if the participant made the location of production of a crop a matter of record before commingling, if the participant does either of the following:</P>
+                            <P>(1) Provides copies of verifiable documents showing that production of the crop was purchased, acquired, or otherwise obtained from the farm in that county; or</P>
+                            <P>(2) Had the farm's production in that county measured in a manner acceptable to the FSA county committee.</P>
+                            <P>(i) The FSA county committee will assign production for the purpose of NAMP for the farm if the FSA county committee determines that the participant failed to provide verifiable or reliable production records.</P>
+                            <P>(j) If RMA loss records are not available, or if the FSA county committee determines that the RMA loss records as reported by the insured participant appear to be questionable or incomplete, or if the FSA county committee makes inquiry, then participants are responsible for:</P>
+                            <P>(1) Retaining and providing, when required, the best available verifiable and reliable production records available for the crops;</P>
+                            <P>(2) Summarizing all the production evidence;</P>
+                            <P>(3) Accounting for the total amount of production for the crop on a farm, whether or not records reflect this production;</P>
+                            <P>(4) Providing the information in a manner that can be easily understood by the FSA county committee; and</P>
+                            <P>(5) Providing supporting documentation if the FSA county committee has reason to question the disaster event or that all production has been taken into account.</P>
+                            <P>(k) The participant must supply verifiable or reliable production records to substantiate production to the FSA county committee. If the eligible crop was sold or otherwise disposed of through commercial channels, acceptable production records include: Commercial receipts; settlement sheets; warehouse ledger sheets or load summaries; or appraisal information from a loss adjuster acceptable to FSA. If the eligible crop was farm-stored, sold, fed to livestock, or disposed of by means other than commercial channels, acceptable production records for these purposes include: Truck scale tickets; appraisal information from a loss adjuster acceptable to FSA; contemporaneous reliable diaries; or other documentary evidence, such as contemporaneous reliable measurements. Determinations of reliability with respect to this paragraph will take into account, as appropriate, the ability of the agency to verify the evidence as well as the similarity of the evidence to reports or data received by FSA for the crop or similar crops. Other factors deemed relevant may also be taken into account.</P>
+                            <P>(l) If no verifiable or reliable production records are available, the FSA county committee will use the higher of the participant's certification or the maximum average loss level to determine production.</P>
+                            <P>(m) Participants must provide all records for any production of a crop that is grown with an arrangement, agreement, or contract for guaranteed payment.</P>
+                            <P>(n) FSA may verify the production evidence submitted with records on file at the warehouse, gin, or other entity that received or may have received the reported production.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.638 </SECTNO>
+                            <SUBJECT>Determination of SURE yield.</SUBJECT>
+                            <P>(a) Except for value loss crops as specified in Â§â760.634, a SURE yield will be determined for each crop, type, and intended use on a farm, using the higher of the participant's weighted:</P>
+                            <P>(1) Adjusted actual production history yield as determined in paragraph (b) of this section; or</P>
+                            <P>(2) Counter-cyclical yield as determined in paragraph (c) of this section.</P>
+                            <P>(b) The adjusted actual production history yield, as defined in Â§â760.602, will be weighted by the applicable crop year total planted and prevented planted acres, by crop, type, and intended use for each county. RMA data will be used for calculating the SURE yield for insured crops.</P>
+                            <P>(c) The counter-cyclical yield for a crop on a farm will be weighted based on total planted and prevented planted acres in the county for the current crop year.</P>
+                            <P>(d) Participants who do not purchase crop insurance or NAP coverage, but who are otherwise eligible for payment, will have a SURE yield determined by the FSA county committee as follows:</P>
+                            <P>(1) A weighted yield, based on planted and prevented planted acres, the location county, crop type, and intended use, will be determined at 65 percent of the county expected yield for each crop.</P>
+                            <P>(2) The SURE yield will be the higher of the yield calculated using the method in paragraph (d)(1) of this section or the weighted counter-cyclical yield as determined in paragraph (c) of this section.</P>
+                            <P>(e) For those participants with crop insurance but without an adjusted actual production history yield, a SURE yield will be determined by the applicable FSA county committee. This paragraph will apply in the case where the insurance policy does not require an actual production history yield, or where a participant has no production history.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.640 </SECTNO>
+                            <SUBJECT>National average market price.</SUBJECT>
+                            <P>
+                                (a) The Deputy Administrator will establish the National Average Market Price (NAMP) using the best sources available, as determined by the Deputy 
+                                <PRTPAGE P="68498"/>
+                                Administrator, which may include, but are not limited to, data from NASS, Cooperative Extension Service, Agricultural Marketing Service, crop insurance, and NAP.
+                            </P>
+                            <P>(b) NAMP may be adjusted by the FSA State committee, in accordance with instructions issued by the Deputy Administrator and as specified in Â§â760.641, to recognize average quality loss factors that are reflected in the market by county or part of a county.</P>
+                            <P>(c) With respect to a crop for which an eligible participant on a farm receives assistance under NAP, the NAMP will not exceed the price of the crop established under NAP.</P>
+                            <P>(d) To the extent practicable, the NAMP will be established on a harvested basis without the inclusion of transportation, storage, processing, marketing, or other post-harvest expenses, as determined by FSA.</P>
+                            <P>(e) NAMP may be adjusted by the FSA State committee, as authorized by The Deputy Administrator, to reflect regional variations in price consistent with those prices established under the FCIA or NAP.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.641 </SECTNO>
+                            <SUBJECT>Adjustments made to NAMP to reflect loss of quality.</SUBJECT>
+                            <P>(a) The Deputy Administrator will authorize FSA county committees, with FSA State committee concurrence, to adjust NAMP for a county or part of a county:</P>
+                            <P>(1) To reflect the average quality discounts applied to the local or regional market price of a crop due to a reduction in the intrinsic characteristics of the production resulting from adverse weather, as determined annually by the State office of the FSA; or</P>
+                            <P>(2) To account for a crop for which the value is reduced due to excess moisture resulting from a disaster related condition.</P>
+                            <P>(3) For adjustments specified in paragraphs (a)(1) and (a)(2) of this section, an adjustment factor that represents the regional or local price received for the crop in the county will be calculated by the FSA State committee. The adjustment factor will be based on the average actual market price compared to NAMP.</P>
+                            <P>(b) For adjustments made under paragraph (a) of this section, participants must provide verifiable evidence of actual or appraised production, clearly indicating an average loss of value caused by poor quality or excessive moisture that meets or exceeds the quality adjustment for the county or part of a county established in paragraph (a)(3) of this section to be eligible to receive the quality-adjusted NAMP as part of their SURE payment calculation. In order to be considered at all for the purpose of quality adjustments, the verifiable evidence of production must itself detail the extent of the quality loss for a specific quantity. With regard to test evidence, in addition to meeting all the requirements of this section, tests must have been completed by January 1 of the year following harvest.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.650 </SECTNO>
+                            <SUBJECT>Calculating SURE.</SUBJECT>
+                            <P>(a) Subject to the provision of this subpart, SURE payments for crop losses in crop year 2008 and subsequent crop years will be calculated as the amount equal to 60 percent of the difference between:</P>
+                            <P>(1) The SURE guarantee, as specified in Â§â760.631, 760.633 or 760.634 of this subpart, and</P>
+                            <P>(2) The total farm revenue, as specified in Â§â760.635.</P>
+                            <P>(b) In addition to the other provisions of this subpart and subpart B of this part, SURE payments may be adjusted downward as necessary to insure compliance with the payment limitations in subpart B and to insure that payments do not exceed the maximum amount specified in Â§â760.108(a)(1) or (b)(1) or otherwise exceed the perceived intent of 19 U.S.C. 2497(j). Such adjustments can include, but are not limited to, adjustments to insure that there is no duplication of benefits as specified in Â§â760.108(c).</P>
+                        </SECTION>
+                    </SUBPART>
+                </REGTEXT>
+                <SIG>
+                    <P>Signed in Washington, DC, December 18, 2009.</P>
+                    <NAME>Jonathan W. Coppess,</NAME>
+                    <TITLE>Administrator, Farm Service Agency.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. E9-30632 Filed 12-22-09; 4:15 pm]</FRDOC>
+            <BILCOD>BILLING CODE 3410-05-P</BILCOD>
+        </RULE>

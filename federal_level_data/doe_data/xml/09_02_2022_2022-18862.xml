@@ -1,0 +1,593 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="54123"/>
+                <AGENCY TYPE="F">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 430</CFR>
+                <DEPDOC>[EERE-2022-BT-DET-0006]</DEPDOC>
+                <RIN>RIN 1904-AF31</RIN>
+                <SUBJECT>Energy Conservation Program: Final Determination of Portable Electric Spas as a Covered Consumer Product</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule; final determination.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The U.S. Department of Energy (âDOEâ) has determined that portable electric spas qualify as a covered product under Part A of Title III of the Energy Policy and Conservation Act, as amended (âEPCAâ). DOE has determined that classifying portable electric spas as covered products is necessary or appropriate to carry out the purposes of EPCA, and that the average U.S. household energy use for portable electric spas is likely to exceed 100 kilowatt-hours per year.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This final rule is effective November 1, 2022.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                    <P>
+                        The docket web page can be found at 
+                        <E T="03">www.regulations.gov/docket/EERE-2022-BT-DET-0006.</E>
+                         The docket web page contains instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Mr. Jeremy Dommu, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-2J, 1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: (202) 586-9870. Email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                    <P>
+                        Ms. Kristin Koernig, U.S. Department of Energy, Office of the General Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: (202) 586-3593. Email: 
+                        <E T="03">Kristin.koernig@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Statutory Authority</FP>
+                    <FP SOURCE="FP-2">II. Current Rulemaking Process</FP>
+                    <FP SOURCE="FP-2">III. General Discussion</FP>
+                    <FP SOURCE="FP1-2">A. Scope of Coverage</FP>
+                    <FP SOURCE="FP1-2">B. Evaluation of Portable Electric Spas as a Covered Product Subject to Energy Conservation Standards</FP>
+                    <FP SOURCE="FP1-2">1. Coverage Necessary or Appropriate To Carry Out Purposes of EPCA</FP>
+                    <FP SOURCE="FP1-2">2. Average Household Energy Use</FP>
+                    <FP SOURCE="FP-2">IV. Final Determination</FP>
+                    <FP SOURCE="FP-2">V. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Order 12866 and 13563</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act of 1999</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">J. Review Under the Treasury and General Government Appropriations Act of 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Information Quality</FP>
+                    <FP SOURCE="FP1-2">M. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VI. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Statutory Authority</HD>
+                <P>
+                    EPCAâ
+                    <SU>1</SU>
+                    <FTREF/>
+                     authorizes DOE to regulate the energy efficiency of a number of consumer products and certain industrial equipment. (42 U.S.C. 6291-6317) Title III, Part Bâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     of EPCA established the Energy Conservation Program for Consumer Products Other Than Automobiles, which sets forth a variety of provisions designed to improve energy efficiency for certain consumer products, referred to generally as âcovered products.ââ
+                    <SU>3</SU>
+                    <FTREF/>
+                     In addition to specifying a list of consumer products that are covered products, EPCA contains provisions that enable the Secretary of Energy to classify additional types of consumer products as covered products. For a given consumer product to be classified as a covered product, the Secretary must determine that: classifying the product as a covered product is necessary or appropriate to carry out the purposes of EPCA; and the average annual per-household energy use by products of such type is likely to exceed 100 kilowatt-hours (âkWhâ) (or its British thermal unit (âBtuâ) equivalent) per year. (42 U.S.C. 6292(b)(1))â
+                    <SU>4</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âAll references to EPCA in this document refer to the statute as amended through the Energy Act of 2020, Public Law 116-260 (Dec. 27, 2020), which reflect the last statutory amendments that impact Parts A and A-1 of EPCA.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âFor editorial reasons, upon codification in the U.S. Code, Part B was redesignated Part A.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âThe enumerated list of covered products is at 42 U.S.C. 6292(a)(1)-(19).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âDOE has defined âhouseholdâ to mean an entity consisting of either an individual, a family, or a group of unrelated individuals, who reside in a particular housing unit. For the purpose of this definition:
+                    </P>
+                    <P>Group quarters means living quarters that are occupied by an institutional group of 10 or more unrelated persons, such as a nursing home, military barracks, halfway house, college dormitory, fraternity or sorority house, convent, shelter, jail or correctional institution.</P>
+                    <P>Housing unit means a house, an apartment, a group of rooms, or a single room occupied as separate living quarters, but does not include group quarters.</P>
+                    <P>Separate living quarters means living quarters to which the occupants have access either directly from outside of the building, or through a common hall that is accessible to other living quarters and that does not go through someone else's living quarters, and is occupied by one or more persons who live and eat separately from occupant(s) of other living quarters, if any, in the same building. 10 CFR 430.2.</P>
+                </FTNT>
+                <P>
+                    When considering covering additional consumer product types, DOE must first determine whether these criteria from 42 U.S.C. 6292(b)(1) are met. Once a determination is made, the Secretary may prescribe test procedures to measure the energy efficiency or energy use of such product. (42 U.S.C. 6293(a)) Furthermore, once a product is determined to be a covered product, the Secretary may establish standards for such product, subject to the provisions in 42 U.S.C. 6295(o) and (p), provided that DOE determines that the additional criteria at 42 U.S.C. 6295(l) have been met. Specifically, 42 U.S.C. 6295(l) requires the Secretary to determine that: the average household energy use of the products has exceeded 150 kWh per household for a 12-month period; the 
+                    <PRTPAGE P="54124"/>
+                    aggregate 12-month energy use of the products has exceeded 4200 gigawatt-hours; substantial improvement in energy efficiency of products of such type is technologically feasible; and application of a labeling rule under 42 U.S.C. 6294 is unlikely to be sufficient to induce manufacturers to produce, and consumers and other persons to purchase, covered products of such type (or class) that achieve the maximum energy efficiency that is technologically feasible and economically justified. (42 U.S.C. 6295(l)(1))
+                </P>
+                <HD SOURCE="HD1">II. Current Rulemaking Process</HD>
+                <P>
+                    DOE has not previously conducted a rulemaking for portable electric spas. On February 16, 2022, DOE published in the 
+                    <E T="04">Federal Register</E>
+                     a notice of proposed determination of coverage (âNOPDâ), in which it determined tentatively that portable electric spas satisfy the provisions of 42 U.S.C. 6292(b)(1) (âFebruary 2022 NOPDâ). 87 FR 8745.
+                </P>
+                <P>DOE received comments in response to the February 2022 NOPD from the interested parties listed in Table II.1.</P>
+                <GPOTABLE COLS="4" OPTS="L2,i1" CDEF="s100,xs66,12,r50">
+                    <TTITLE>Table II.1âWritten Comments Received in Response to February 2022 NOPD</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Commenter(s)</CHED>
+                        <CHED H="1">Abbreviation</CHED>
+                        <CHED H="1">
+                            Document No.
+                            <LI>in docket</LI>
+                        </CHED>
+                        <CHED H="1">Commenter type</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Pool and Hot Tub Alliance (âPHTAâ) and International Hot Tub Association (âIHTAâ)</ENT>
+                        <ENT>PHTA/IHTA</ENT>
+                        <ENT>3</ENT>
+                        <ENT>Trade Association.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">The Appliance Standards Awareness Project (âASAPâ), the American Council for an Energy-Efficient Economy, the Natural Resources Defense Council, and the Northwest Energy Efficiency Alliance</ENT>
+                        <ENT>
+                            ASAP 
+                            <E T="03">et al</E>
+                        </ENT>
+                        <ENT>7</ENT>
+                        <ENT>Efficiency Organization.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">California Energy Commission</ENT>
+                        <ENT>CEC</ENT>
+                        <ENT>4</ENT>
+                        <ENT>State Agency.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">New York State Energy Research and Development Authority.</ENT>
+                        <ENT>NYSERDA</ENT>
+                        <ENT>6</ENT>
+                        <ENT>State Agency.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Pacific Gas and Electric Company, San Diego Gas and Electric, and Southern California Edison; collectively, the California Investor-Owned Utilities</ENT>
+                        <ENT>CA IOUs</ENT>
+                        <ENT>5</ENT>
+                        <ENT>Utility.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    A parenthetical reference at the end of a comment quotation or paraphrase provides the location of the item in the public record.
+                    <SU>5</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âThe parenthetical reference provides a reference for information located in the docket of DOE's rulemaking to determine coverage for portable electric spas. (Docket No. EERE-2022-BT-DET-0006, which is maintained at 
+                        <E T="03">www.regulations.gov</E>
+                        ). The references are arranged as follows: (commenter name, comment docket ID number, page of that document).
+                    </P>
+                </FTNT>
+                <P>
+                    In response to the February 2022 NOPD, DOE received certain comments pertaining to the scope of coverage and energy use that are relevant for the statutory requirements of coverage for portable electric spas. DOE discusses these comments in the following sections. DOE also received certain comments in response to the February 2022 NOPD pertaining to potential test procedure or standards rulemakings.
+                    <SU>6</SU>
+                    <FTREF/>
+                     DOE will discuss these comments in subsequent rulemakings, should DOE pursue such rulemakings.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âPortions of the comments from PHTA/IHTA (No. 3), CEC (No. 4), CA IOUs (No. 5), NYSERDA (No. 6), and ASAP 
+                        <E T="03">et al.</E>
+                         (No. 7) pertained to potential test procedure or standards rulemakings.
+                    </P>
+                </FTNT>
+                <P>After considering the public comments on the February 2022 NOPD, DOE is issuing this final determination of coverage for portable electric spas. DOE is not prescribing test procedures or energy conservation standards as part of this determination.</P>
+                <HD SOURCE="HD1">III. General Discussion</HD>
+                <P>Portable electric spas are factory-built hot tubs or spas that are intended for the immersion of people in heated, temperature-controlled water that is circulated in a closed system. DOE's analysis and consideration of comments received in response to the February 2022 NOPD indicate that portable electric spas meet the statutory requirements under 42 U.S.C. 6292(b)(1), and therefore DOE is issuing this final determination that portable electric spas are a covered product.</P>
+                <P>DOE will consider test procedure and energy conservation standards rulemakings for portable electric spas in the future. DOE will determine if portable electric spas satisfy the provisions of 42 U.S.C. 6295(l)(1) during the course of the energy conservation standards rulemaking, should DOE pursue such rulemaking.</P>
+                <P>While DOE received comments on specific topics in response to the February 2022 NOPD, as discussed in sections III.A and III.B of this document, commenters also provided general feedback on the proposed determination of coverage for portable electric spas.</P>
+                <P>PHTA/IHTA supported DOE's proposed determination that portable electric spas are a covered consumer product and that such coverage is necessary and appropriate to carry out the purposes of EPCA. PHTA/IHTA asserted that portable electric spas meet the EPCA thresholds and that a final determination of coverage is warranted and appropriate. PHTA/IHTA encouraged DOE to proceed with both test procedure and standards rulemakings. (PHTA/IHTA, No. 3 at p. 2)</P>
+                <P>
+                    The CEC agreed that portable electric spas meet the necessary requirements for coverage under EPCA and supported the proposed determination to include portable electric spas as a federally covered product. (CEC, No. 4 at pp. 1, 5) The CA IOUs supported also the inclusion of portable electric spas as a covered product. (CA IOUs, No. 5 at p. 1) Similarly, NYSERDA, and ASAP 
+                    <E T="03">at al.</E>
+                     supported DOE's preliminary determination that portable electric spas qualify as covered products under EPCA. (NYSERDA, No. 6 at pp. 1-2; ASAP et al., No. 7 at p. 1)
+                </P>
+                <P>In this final determination, DOE is classifying portable electric spas as a covered product.</P>
+                <HD SOURCE="HD2">A. Scope of Coverage</HD>
+                <P>As stated previously in this document, portable electric spas are factory-built hot tubs or spas that are intended for the immersion of people in heated, temperature-controlled water that is circulated in a closed system. A wide range of portable electric spa products are available on the market, including standard spas, exercise spas, combination spas, and inflatable spas.</P>
+                <P>
+                    In the February 2022 NOPD, DOE examined existing classifications of portable electric spas to inform its proposed definition. PHTA publishes a standard method of test, certified by American National Standards Institute (âANSIâ), for measuring the performance of portable electric spas, titled ANSI/Association of Pool and Spa Professionals (âAPSPâ)/International Code Council (âICCâ) 14 2019, American National Standard for Portable Electric Spa Energy Efficiency (âANSI/APSP/ICC-14 2019â or âAPSP-
+                    <PRTPAGE P="54125"/>
+                    14â).
+                    <SU>7</SU>
+                    <FTREF/>
+                     Section 3 of ANSI/APSP/ICC-14 2019 defines âPortable Electric Spaâ as âa factory built electric spa or hot tub, supplied with equipment for heating and circulating water at the time of sale or sold separately for subsequent attachmentâ and includes additional definitions for âspaâ and various categories of portable electric spa. The CEC regulations define âportable electric spaâ and most of the spa categories consistently with ANSI/APSP/ICC-14 2019,
+                    <SU>8</SU>
+                    <FTREF/>
+                     though the CEC does not define the term âspaâ.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âANSI/APSP/ICC-14 2019 is available at: 
+                        <E T="03">webstore.ansi.org/standards/apsp/ansiapspicc142019.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        â
+                        <E T="03">See</E>
+                         section 1602(g)(2) of Article 4 of Division 2 of Title 20 of the California Code of Regulations. There is some variation in the definition of exercise spa as compared to ANSI/APSP/ICC-14 2019.
+                    </P>
+                </FTNT>
+                <P>
+                    For the purpose of the analysis described in the February 2022 NOPD, DOE evaluated portable electric spas as factory-built electric spas or hot tubs, supplied with equipment for heating and circulating water at the time of sale or sold separately for subsequent attachment. DOE proposed to adopt this definition, consistent with the term as defined by ANSI/APSP/ICC-14 2019 and the CEC, to inform stakeholders while DOE continued its analysis. 87 FR 8745, 8747. DOE noted that this proposed definition would exclude units that are site-assembled, such as spas that are permanently installed in the ground or attached to a pool, and spas sold with methods of water heating other than electricity, such as propane or natural gas spa heaters or wood-fired hot tubs. 
+                    <E T="03">Id.</E>
+                     DOE requested comment on the proposed definition and scope of coverage of portable electric spas. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>In response to the February 2022 NOPD, PHTA/IHTA expressed support for the proposed definition and scope but noted that it is important to clarify that portable electric spas are not permanently installed in the ground or attached to a pool. PHTA/IHTA suggested that DOE consider defining other types of âspaâ products and indicating that they are excluded from coverage. For this purpose, PHTA/IHTA stated that DOE should consider utilizing definitions commonly used by industry and state and local governments that can be found in widely adopted ANSI standards and codes, such as the International Swimming Pool &amp; Spa Code co-developed by the ICC and PHTA. PHTA/IHTA also encouraged DOE to utilize the APSP-14 definition for inflatable spa. (PHTA/IHTA, No. 3 at pp. 3-4)</P>
+                <P>
+                    The CEC stated that, because California, along with other states, has adopted APSP-14 in its entirety, the CEC encouraged DOE to consider matching the scope, definitions, test procedure, and label design specified in APSP-14 to maintain consistency among states and spa manufacturers. (CEC No. 4, at p. 5) The CA IOUs supported the proposed definition adopting APSP-14 nomenclature and the distinction between self-containedâ
+                    <SU>9</SU>
+                    <FTREF/>
+                     versus non-self-contained units, as well as the proposed scope. (CA IOUs, No. 5 at p. 3) ASAP 
+                    <E T="03">et al.</E>
+                     also supported the proposed scope of coverage, which they understand would include standard spas, exercise spas, combination spas, and inflatable spas as defined in ANSI/APSP/ICC-14-2019. (ASAP 
+                    <E T="03">et al.,</E>
+                     No. 7 at p. 1)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âAPSP-14 2019 defines âself-contained spaâ as âA factory-built spa in which all control, water heating and water circulating equipment is an integral part of the product. Self-contained spas may be permanently wired or cord connected.â
+                    </P>
+                </FTNT>
+                <P>
+                    The purpose of the proposed definition, which DOE is adopting in this final determination, is to identify the scope of the covered product (
+                    <E T="03">i.e.,</E>
+                     portable electric spas). In identifying whether a product is a consumer product for consideration as a covered product, DOE evaluates whether such product is of a type which in operation consumes, or is designed to consume, energy; and, to any significant extent, is distributed in commerce for personal use or consumption by individuals; without regard to whether such article of such type is in fact distributed in commerce for personal use or consumption by an individual. (42 U.S.C. 6291(1))
+                </P>
+                <P>The portable electric spa definition DOE is adopting in this final determination establishes the coverage of âportable electric spasâ for the purpose of Part A of EPCA. The scope of coverage is separate from a determination of the applicability of test procedures or energy conservation standards, should DOE establish test procedures and energy conservation standards. The scope of any test procedure or energy conservation standards would be considered in these respective rulemakings to the extent DOE pursues such rulemakings. As such, in this final determination, DOE is classifying âportable electric spasâ as a covered product and the definition establishes the scope of coverage for that purpose.</P>
+                <P>In summary, based on the preceding discussion, DOE is defining âportable electric spaâ in 10 CFR 430.2 as a factory-built electric spa or hot tub, supplied with equipment for heating and circulating water at the time of sale or sold separately for subsequent attachment. This definition is consistent with the term as defined by ANSI/APSP/ICC-14 2019 and the CEC. DOE notes that this definitionâby using the term âfactory-builtââexcludes units that are site-assembled, such as portable electric spas that are permanently installed in the ground or attached to a pool, and spas sold with methods of water heating other than electricity, such as propane or natural gas spa heaters or wood-fired hot tubs.</P>
+                <HD SOURCE="HD2">B. Evaluation of Portable Electric Spas as a Covered Product Subject to Energy Conservation Standards</HD>
+                <P>The following sections describe DOE's evaluation of whether portable electric spas fulfill the criteria for being added as a covered product pursuant to 42 U.S.C. 6292(b)(1). As stated, DOE may classify a consumer product as a covered product if:</P>
+                <P>(1) Classifying products of such type as covered products is necessary or appropriate to carry out the purposes of EPCA; and</P>
+                <P>(2) The average annual per-household energy use by products of such type is likely to exceed 100 kWh (or its Btu equivalent) per year. (42 U.S.C. 6292(b)(1))</P>
+                <HD SOURCE="HD3">1. Coverage Necessary or Appropriate To Carry Out Purposes of EPCA</HD>
+                <P>DOE has determined that coverage of portable electric spas is both necessary and appropriate to carry out the purposes of EPCA, which include:</P>
+                <P>(1) To conserve energy supplies through energy conservation programs, and, where necessary, the regulation of certain energy uses; and</P>
+                <P>(2) To provide for improved energy efficiency of motor vehicles, major appliances, and certain other consumer products. (42 U.S.C. 6201(4) and (5))</P>
+                <P>
+                    In the February 2022 NOPD, DOE cited data from the DOE Energy Information Administration's Residential Energy Consumption Survey (âRECSâ), which indicated an installed base of 8.4 million spas in the U.S. in 2015.
+                    <SU>10</SU>
+                    <FTREF/>
+                     87 FR 8745, 8747. DOE also obtained data from PKData and based on that data, DOE estimated that in 2019, the existing stock of residential hot tubs (as separate from the stock of spas in residential pools) was approximately 5.5 million, with approximately 95 percent of these being electric spas.
+                    <FTREF/>
+                    <SU>11</SU>
+                      
+                    <E T="03">Id.</E>
+                     Based 
+                    <PRTPAGE P="54126"/>
+                    on these same data, DOE also estimated that approximately 230,000 electric spas were shipped in 2019. 
+                    <E T="03">Id.</E>
+                     DOE requested data and information regarding current annual shipments of portable electric spas and the installed base of portable electric spas, specifying the scope of products included in any such estimates (
+                    <E T="03">e.g.,</E>
+                     standard, exercise, combination, inflatable, 
+                    <E T="03">etc.</E>
+                    ). 
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âAvailable at 
+                        <E T="03">www.eia.gov/consumption/residential/data/2015.</E>
+                         DOE notes that this number likely includes spas that do not meet the proposed definition of portable electric spa.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âP.K. Data Inc. 2020 Pool Heaters Market Data: Custom Compilation for Lawrence Berkeley National Laboratory. 2020. Alpharetta, GA. (Last 
+                        <PRTPAGE/>
+                        accessed July 1, 2021.) 
+                        <E T="03">www.pkdata.com/reports-store.html#/.</E>
+                    </P>
+                </FTNT>
+                <P>PHTA/IHTA agreed with the existing data from RECS and PKData and stated that industry also relies on those data sources. (PHTA/IHTA, No. 3 at p. 4)</P>
+                <P>
+                    In the February 2022 NOPD, DOE noted that the CEC published a final staff report analyzing efficiency standards and marking for spas,
+                    <SU>12</SU>
+                    <FTREF/>
+                     which indicated that technologies exist, and are already available in the market, to reduce the energy consumption of portable electric spas. DOE requested comment on the availability of technologies for improving energy efficiency of portable electric spas. 87 FR 8745, 8747.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âFinal Staff Report, Analysis of Efficiency Standards and Marking for Spas, 2018 Appliance Efficiency Rulemaking for Spas Docket Number 18-AAER-02 TN 222413. Available online at 
+                        <E T="03">efiling.energy.ca.gov/GetDocument.aspx?tn=222413&amp;DocumentContentId=31256.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    PHTA/IHTA commented that the industry has been working on these technologies and improving them since 2008 and the technologies employed under the 2019 edition of ANSI/APSP/ICC-14 represent what is currently available and feasible. (PHTA/IHTA, No. 3 at p. 6) The CEC estimated potential technology options in the existing and future portable electric spa market. (CEC No. 4, at p. 5) And ASAP 
+                    <E T="03">et al.</E>
+                     noted that heat pump technology offers the potential to substantially reduce portable electric spa energy use. (ASAP 
+                    <E T="03">et al.,</E>
+                     No. 7 at p. 2)
+                </P>
+                <P>Commenters also agreed generally that coverage of portable electric spas is necessary or appropriate to carry out the purposes of EPCA. PHTA/IHTA stated that classifying portable electric spas as a covered product is necessary and appropriate to carry out the purposes of EPCA. (PHTA/IHTA, No. 3 at pp. 1, 6) NYSERDA agreed with DOE's proposed determination that coverage is appropriate to carry out the purposes of EPCA. (NYSERDA, No. 6 at p. 2)</P>
+                <P>DOE has determined that the coverage of portable electric spas is both necessary and appropriate to carry out the purposes of EPCA. As indicated by the shipments data, annual sales of portable electric spas are significant within the consumer products market. Portable electric spas consume energy generated from limited energy supplies and regulating their energy efficiency would likely help conserve these limited energy supplies. And as indicated by commenters and the CEC staff report, technologies exist for improving energy efficiency of portable electric spas.</P>
+                <P>As a coverage determination is a prerequisite to establishing standards for these products, classifying portable electric spas as a covered product is necessary and appropriate to carry out EPCA's purposes to: conserve energy supplies through energy conservation programs, and provide for improved energy efficiency of major appliances and certain other consumer products. (42 U.S.C. 6201(4) and (5))</P>
+                <HD SOURCE="HD3">2. Average Household Energy Use</HD>
+                <P>
+                    In the February 2022 NOPD, DOE estimated the average household energy use for portable electric spas, in households that use the product, using power consumption data reported in the CEC database (âMAEDbSâ).
+                    <SU>13</SU>
+                    <FTREF/>
+                     87 FR 8745, 8747. MAEDbS is the only publicly available source that provides energy consumption data for portable electric spas of which DOE is aware. MAEDbS certification requires that standby power is measured according to ANSI/APSP/ICC-14 2019. For each model, MAEDbS lists the standbyâ
+                    <SU>14</SU>
+                    <FTREF/>
+                     power in watts (âWâ), along with other relevant capacity and performance metrics. For portable electric spas measured according to the test procedure in ANSI/APSP/ICC-14 2019, standby operation is the predominant mode of spa operation and includes power use to maintain the set temperature and to circulate and filter the water. The CEC estimated that standby operation represents 75 percent of the energy consumed by a portable electric spa, with the remainder being startup mode, when the spa is heating up to its operating temperature, and active mode,
+                    <SU>15</SU>
+                    <FTREF/>
+                     when the spa's water jets are operating.
+                    <FTREF/>
+                    <SU>16</SU>
+                      
+                    <E T="03">Id.</E>
+                     at 87 FR 8748. The CEC reported a duty cycle between 5,040 hours per year for inflatable spas (which are intended for seasonal use) and 8,760 hours per year for standard, exercise, and combination spas, during the process of updating the standards for California in 2018.
+                    <FTREF/>
+                    <SU>17</SU>
+                      
+                    <E T="03">Id.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âCEC Modernized Appliance Efficiency Database System. Accessed December 17, 2021. Available online at 
+                        <E T="03">cacertappliances.energy.ca.gov.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âDOE notes that use of the term âstandbyâ and âstandby modeâ in ANSI/APSP/ICC-14 2019 differs from EPCA's definition of âstandby mode.â 
+                        <E T="03">See</E>
+                         42 U.S.C. 6295(gg)(1)(A)(iii).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âDOE notes that use of the term âactive modeâ differs from EPCA's definition of âactive mode.â 
+                        <E T="03">See</E>
+                         42 U.S.C. 6295(gg)(1)(A)(i).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âFinal Staff Report, Analysis of Efficiency Standards and Marking for Spas, 2018 Appliance Efficiency Rulemaking for Spas Docket Number 18-AAER-02 TN 222413. Available online at 
+                        <E T="03">efiling.energy.ca.gov/GetDocument.aspx?tn=222413&amp;DocumentContentId=31256.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        â
+                        <E T="03">Ibid.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Using average power consumption for a standard spa of 194 W (the lowest average of the categories in MAEDbS) and 8,760 hours per year of use, DOE estimated an average standby energy consumption of 1,699 kWh per year for portable electric spas in the February 2022 NOPD. 
+                    <E T="03">Id.</E>
+                     DOE noted that use of the minimum standby power found in MAEDbS (40 W) and the estimated 5,040 hours per year of use for inflatable spas exceeds 200 kWh per year energy use. In addition, the rest of the country may have shipments of portable electric spas that exceed California's and other states' maximum power consumption standards. 
+                    <E T="03">Id.</E>
+                     at 87 FR 8749.
+                </P>
+                <P>
+                    In a presentation sent to DOE in December 2021,
+                    <SU>18</SU>
+                    <FTREF/>
+                     PHTA/IHTA, CA IOUs, and ASAP also provided an estimate of average energy use based on RECS. They estimated that portable electric spas consume 5.755 billion kWh/year in the U.S. and that 3.673 million households in the U.S. operate portable electric spas regularly. These estimates result in average energy consumption of 1,567 kWh per year per household, which is similar to DOE's estimate of 1,699 kWh per year.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        â
+                        <E T="03">www.regulations.gov/document/EERE-2022-BT-DET-0006-0001.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    For these reasons, although there may be variation due to climate or spa size that might impact annual per-household energy use as compared to DOE's estimate of 1,699 kWh/year (either higher or lower), in the February 2022 NOPD, DOE tentatively determined that the average annual per-household energy use for portable electric spas is very likely to exceed 100 kWh per year, satisfying the provisions of 42 U.S.C. 6292(b)(1). 
+                    <E T="03">Id.</E>
+                     DOE requested data and information on: (1) the national representativeness of the spa volume bins in Table IV.I of the February 2022 NOPD; (2) the range of standby power consumption of spas in non-regulated markets; (3) the standby power consumption at the different volumes for all types of portable electric spas; and (4) the active power consumption at the different volumes for all types of portable electric spas. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>
+                    In response to the February 2022 NOPD, DOE received comments regarding the average household energy use of portable electric spas. PHTA/IHTA stated that Table IV.I in the February 2022 NOPD (which presented reported power consumption by spa category and volume) is an accurate 
+                    <PRTPAGE P="54127"/>
+                    assessment of what is in the CEC database but noted the products in the CEC database represent standby power. PHTA/IHTA did not have specific data and information on the range of standby power consumption of spas in non-regulated markets or active power consumption at different volumes for all types of portable electric spas. But PHTA/IHTA agreed that it is extremely likely that the average annual per-household energy use by portable electric spas exceeds 100 kWh per year. (PHTA/IHTA, No. 3 at pp. 5-6)
+                </P>
+                <P>
+                    ASAP 
+                    <E T="03">et al.</E>
+                     stated that DOE's estimate of average standby power consumption is likely a conservative estimate of energy use since it does not include power consumed in startup mode or active mode, and it also does not account for models sold in non-regulated markets that may not meet the CEC standards. (ASAP 
+                    <E T="03">et al.,</E>
+                     No. 7 at p. 1) The CA IOUs noted that the analysis conducted by PHTA, CA IOUs, and ASAP,
+                    <SU>19</SU>
+                    <FTREF/>
+                     which indicated an average unit energy consumption of portable electric spas of 1,567 kWh/year, significantly exceeds the EPCA threshold of 100 kWh/year required to designate a product as a covered product. (CA IOUs, No. 5 at p. 1) NYSERDA also agreed that the average annual household energy consumption is well above 100 kWh. (NYSERDA, No. 6 at p. 2)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        â
+                        <E T="03">Ibid.</E>
+                    </P>
+                </FTNT>
+                <P>As supported by the analysis presented in the February 2022 NOPD and the preceding comments, DOE makes a final determination that the average annual per-household energy use for portable electric spas is likely to exceed 100 kWh/year, satisfying the provisions of 42 U.S.C. 6292(b)(1).</P>
+                <HD SOURCE="HD1">IV. Final Determination</HD>
+                <P>Based on the foregoing discussion, DOE concludes that including portable electric spas, as defined in this final determination, as covered products is necessary and appropriate to carry out the purposes of EPCA, and the average annual per-household energy use by products of such type is likely to exceed 100 kWh/yr. Based on the information discussed in section III of this document, DOE is classifying portable electric spas as a covered product.</P>
+                <P>This final determination does not establish test procedures or energy conservation standards for portable electric spas. DOE will address test procedures and energy conservation standards through its normal rulemaking process, should DOE pursue such rulemakings.</P>
+                <HD SOURCE="HD1">V. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866 and 13563</HD>
+                <P>Executive Order (âE.O.â) 12866, âRegulatory Planning and Review,â as supplemented and reaffirmed by E.O. 13563, âImproving Regulation and Regulatory Review,â 76 FR 3821 (Jan. 21, 2011), requires agencies, to the extent permitted by law, to: (1) propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs (recognizing that some benefits and costs are difficult to quantify); (2) tailor regulations to impose the least burden on society, consistent with obtaining regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations; (3) select, in choosing among alternative regulatory approaches, those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity); (4) to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt; and (5) identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public. DOE emphasizes as well that E.O. 13563 requires agencies to use the best available techniques to quantify anticipated present and future benefits and costs as accurately as possible. In its guidance, the Office of Information and Regulatory Affairs (âOIRAâ) in the Office of Management and Budget (âOMBâ) has emphasized that such techniques may include identifying changing future compliance costs that might result from technological innovation or anticipated behavioral changes. For the reasons stated in the preamble, this final regulatory action is consistent with these principles.</P>
+                <P>Section 6(a) of E.O. 12866 also requires agencies to submit âsignificant regulatory actionsâ to OIRA for review. OIRA has determined that this regulatory action does not constitute a âsignificant regulatory actionâ under section 3(f) of E.O. 12866. Accordingly, this action was not submitted to OIRA for review under E.O. 12866.</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis (âIRFAâ) for any rule that by law must be proposed for public comment and a final regulatory flexibility analysis (âFRFAâ) for any such rule that an agency adopts as a final rule, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. DOE has made its procedures and policies available on the Office of the General Counsel's website (
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                    ).
+                </P>
+                <P>DOE reviewed this determination under the provisions of the Regulatory Flexibility Act and the policies and procedures published on February 19, 2003. This determination sets no standards; it only positively determines that future standards may be warranted and should be explored in any future energy conservation standards and test procedure rulemakings. Economic impacts on small entities would be considered in the context of such rulemakings. On the basis of the foregoing, DOE certifies that the coverage determination would have no significant economic impact on a substantial number of small entities. Accordingly, DOE has not prepared a FRFA for this determination. DOE has transmitted this certification and supporting statement of factual basis to the Chief Counsel for Advocacy of the Small Business Administration for review under 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act</HD>
+                <P>
+                    This determination, which concludes that portable electric spas meet the criteria for a covered product for which the Secretary may prescribe an energy conservation standard pursuant to 42 U.S.C. 6295(o) and (p), imposes no new information or record-keeping requirements. Accordingly, the OMB clearance is not required under the Paperwork Reduction Act. (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    )
+                    <PRTPAGE P="54128"/>
+                </P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    Pursuant to the National Environmental Policy Act of 1969 (âNEPAâ), DOE has analyzed this final determination in accordance with NEPA and DOE's NEPA implementing regulations (10 CFR part 1021). DOE analyzed this regulation in accordance with the National Environmental Policy Act (âNEPAâ) and DOE's NEPA implementing regulations (10 CFR part 1021). DOE has determined that this rule qualifies for categorical exclusion under 10 CFR part 1021, subpart D, appendix A6. This rulemaking qualifies for categorical exclusion A6 because it is a strictly procedural rulemaking and otherwise meets the requirements for application of a categorical exclusion. 
+                    <E T="03">See</E>
+                     10 CFR 1021.410. Accordingly, neither an environmental assessment nor an environmental impact statement is required.
+                </P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>E.O. 13132, âFederalism,â 64 FR 43255 (Aug. 10, 1999), imposes certain requirements on Federal agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735. DOE has examined this determination and concludes that it would not have a substantial direct effect on the States, on the relationship between the National Government and the States, or on the distribution of power and responsibilities among the various levels of government. EPCA governs and prescribes Federal preemption of State regulations as to energy conservation for the product that is the subject of this determination. States can petition DOE for exemption from such preemption to the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 6297) Therefore, no further action is required by E.O. 13132.</P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of E.O. 12988, âCivil Justice Reform,â imposes on Federal agencies the general duty to adhere to the following requirements: (1) eliminate drafting errors and ambiguity, (2) write regulations to minimize litigation, (3) provide a clear legal standard for affected conduct rather than a general standard, and (4) promote simplification and burden reduction. 61 FR 4729 (Feb. 7, 1996). Regarding the review required by section 3(a), section 3(b) of E.O. 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation: (1) clearly specifies the preemptive effect, if any, (2) clearly specifies any effect on existing Federal law or regulation, (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction, (4) specifies the retroactive effect, if any, (5) adequately defines key terms, and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of E.O. 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this determination meets the relevant standards of E.O. 12988.</P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (âUMRAâ) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments, and the private sector. Public Law 104-4, sec. 201 (codified at 2 U.S.C. 1531). For a regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b)) The UMRA requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a proposed âsignificant intergovernmental mandate,â and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirement that might significantly or uniquely affect them. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. 62 FR 12820. DOE's policy statement is also available at 
+                    <E T="03">www.energy.gov/sites/prod/files/gcprod/documents/umra_97.pdf.</E>
+                </P>
+                <P>DOE examined this determination according to UMRA and its statement of policy and determined that the determination does not contain a Federal intergovernmental mandate, nor is it expected to require expenditures of $100 million or more in any one year by State, local, and Tribal governments, in the aggregate, or by the private sector. As a result, the analytical requirements of UMRA do not apply.</P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act of 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act of 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This determination would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>Pursuant to E.O. 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (Mar. 15, 1988), DOE has determined that this determination would not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under the Treasury and General Government Appropriations Act of 2001</HD>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriation Act, 2001 (44 U.S.C. 3516, note) provides for Federal agencies to review most disseminations of information to the public under information quality guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant to OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act (April 24, 
+                    <PRTPAGE P="54129"/>
+                    2019), DOE published updated guidelines which are available at 
+                    <E T="03">www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf.</E>
+                     DOE has reviewed this determination under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.
+                </P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>E.O. 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA a Statement of Energy Effects for any significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule, and that (1) is a significant regulatory action under E.O. 12866, or any successor Executive order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy; or (3) is designated by the Administrator of OIRA as a significant energy action. For any significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use.</P>
+                <P>This determination, which does not amend or establish energy conservation standards for portable electric spas, is not a significant regulatory action under E. O. 12866. Moreover, it would not have a significant adverse effect on the supply, distribution, or use of energy, nor has it been designated as such by the Administrator at OIRA. Accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">L. Information Quality</HD>
+                <P>
+                    On December 16, 2004, OMB, in consultation with the Office of Science and Technology Policy (âOSTPâ), issued its Final Information Quality Bulletin for Peer Review (âthe Bulletinâ). 70 FR 2664 (Jan. 14, 2005). The Bulletin establishes that certain scientific information shall be peer reviewed by qualified specialists before it is disseminated by the Federal Government, including influential scientific information related to agency regulatory actions. The purpose of the bulletin is to enhance the quality and credibility of the Government's scientific information. Under the Bulletin, the energy conservation standards rulemaking analyses are âinfluential scientific information,â which the Bulletin defines as âscientific information the agency reasonably can determine will have, or does have, a clear and substantial impact on important public policies or private sector decisions.â 
+                    <E T="03">Id.</E>
+                     at 70 FR 2667.
+                </P>
+                <P>
+                    In response to OMB's Bulletin, DOE conducted formal peer reviews of the energy conservation standards development process and the analyses that are typically used and has prepared a Peer Review report pertaining to the energy conservation standards rulemaking analyses.
+                    <SU>20</SU>
+                    <FTREF/>
+                     Generation of this report involved a rigorous, formal, and documented evaluation using objective criteria and qualified and independent reviewers to make a judgment as to the technical/scientific/business merit, the actual or anticipated results, and the productivity and management effectiveness of programs and/or projects. Because available data, models, and technological understanding have changed since 2007, DOE has engaged with the National Academy of Sciences to review DOE's analytical methodologies to ascertain whether modifications are needed to improve the Department's analyses. DOE is in the process of evaluating the resulting report.
+                    <SU>21</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        ââEnergy Conservation Standards Rulemaking Peer Review Report.â 2007. Available at 
+                        <E T="03">energy.gov/eere/buildings/downloads/energy-conservation-standards-rulemaking-peer-review-report-0.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âThe report is available at 
+                        <E T="03">www.nationalacademies.org/our-work/review-of-methods-for-setting-building-and-equipment-performance-standards.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">M. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this final determination prior to its effective date. The report will state that it has been determined that the final determination is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VI. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final determination.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 430</HD>
+                    <P>Administrative practice and procedure, Confidential business information, Energy conservation, Intergovernmental relations, Reporting and recordkeeping requirements, Small businesses.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on August 26, 2022, by Dr. Geraldine L. Richmond, Undersecretary of Science and Innovation, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on August 26, 2022.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, DOE amends part 430 of chapter II of title 10, Code of Federal Regulations as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 430âENERGY CONSERVATION PROGRAM FOR CONSUMER PRODUCTS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>1. The authority citation for part 430 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 42 U.S.C. 6291-6309; 28 U.S.C. 2461 note.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>2. Section 430.2 is amended by:</AMDPAR>
+                    <AMDPAR>a. Revising the definition of âCovered productâ; and</AMDPAR>
+                    <AMDPAR>b. Adding in alphabetical order the definition of âPortable electric spaâ.</AMDPAR>
+                    <P>The addition and revision read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â430.2</SECTNO>
+                        <SUBJECT> Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">Covered product</E>
+                             means a consumer productâ
+                        </P>
+                        <P>(1) Of a type specified in section 322 of the Act; or</P>
+                        <P>(2) That is an air cleaner, battery charger, ceiling fan, ceiling fan light kit, dehumidifier, external power supply, medium base compact fluorescent lamp, miscellaneous refrigeration product, portable air conditioner, portable electric spa, or torchiere.</P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Portable electric spa</E>
+                             means a factory-built electric spa or hot tub, supplied with equipment for heating and circulating water at the time of sale or sold separately for subsequent attachment.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2022-18862 Filed 9-1-22; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

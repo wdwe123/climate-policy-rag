@@ -1,0 +1,964 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF THE INTERIOR</AGENCY>
+                <SUBAGY>Fish and Wildlife Service</SUBAGY>
+                <CFR>50 CFR Part 17</CFR>
+                <DEPDOC>[Docket No. FWS-R6-ES-2015-0013; FXES11130900000C6-145-FF09E42000]</DEPDOC>
+                <RIN>RIN 1018-BA42</RIN>
+                <SUBJECT>Endangered and Threatened Wildlife and Plants; Establishment of a Nonessential Experimental Population of Black-footed Ferrets in Wyoming</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Fish and Wildlife Service, Interior.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        We, the U.S. Fish and Wildlife Service (Service), in coordination with the State of Wyoming and other partners, will reestablish additional populations of the black-footed ferret (
+                        <E T="03">Mustela nigripes</E>
+                        ), a federally listed endangered mammal, into prairie dog (
+                        <E T="03">Cynomys</E>
+                         spp.) occupied habitat in Wyoming and classify any reestablished population as a nonessential experimental population (NEP) under section 10(j) of the Endangered Species Act of 1973, as amended (Act). This final rule establishes the NEP area and provides for allowable legal incidental taking of the black-footed ferret within the defined NEP area. The best available data indicate the reintroduction of black-footed ferrets to Wyoming is biologically feasible and will promote conservation and recovery of the species. This NEP area and two previously designated NEPs in Wyoming collectively cover the entire State of Wyoming and provide consistent management flexibility Statewide. We are also amending the historical range column for the species within the List of Endangered and Threatened Wildlife (List) to include Mexico; the historical range information in the List is informational, not regulatory.
+                    </P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule becomes effective November 30, 2015.</P>
+                </DATES>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        This final rule, along with the public comments, environmental assessment (EA), and finding of no significant impact (FONSI), is available on the Internet at 
+                        <E T="03">http://www.regulations.gov,</E>
+                         Docket No. FWS-R6-ES-2015-0013. Comments and materials received, as well as supporting documentation used in the preparation of this rule, will also be available for public inspection, by appointment, during normal business hours at: U.S. Fish and Wildlife Service, Wyoming Ecological Services Field Office, 5353 Yellowstone Road, Suite 308A, Cheyenne, WY 82009; telephone 307-772-2374. Persons who use a telecommunications device for the deaf (TDD) may call the Federal Information Relay Services (FIRS) at 800-877-8339.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>Mark Sattelberg, Field Supervisor, Telephone: 307-772-2374. Direct all questions or requests for additional information to: BLACK-FOOTED FERRET QUESTIONS, U.S. Fish and Wildlife Service, Wyoming Ecological Services Field Office, 5353 Yellowstone Road, Suite 308A, Cheyenne, WY 82009. Individuals who are hearing-impaired or speech-impaired may call the Federal Relay Service at 1-800-877-8337 for TTY assistance.</P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Executive Summary</HD>
+                <HD SOURCE="HD2">Purpose of the Regulatory Action</HD>
+                <P>
+                    This is a final rule to designate the black-footed ferret (
+                    <E T="03">Mustela nigripes</E>
+                    ) nonessential experimental population (NEP) area in the State of Wyoming in accordance with section 10(j) of the Endangered Species Act (Act). This designation increases the Service's flexibility and discretion in managing reintroduced endangered species and allows promulgation of regulations deemed appropriate for conservation of the reintroduced species. We have determined that the issuance of this rule will advance the recovery of the endangered black-footed ferret. Specifically, this rulemaking will facilitate the establishment of free-ranging populations of ferrets within the species' historical range in Wyoming, thereby contributing to the numerical and distributional population targets laid out in the recovery plan's delisting and downlisting (reclassifying from endangered to threatened) criteria (U.S. Fish and Wildlife Service 2013a, p. 6)
+                </P>
+                <HD SOURCE="HD2">Summary of the Major Provisions of the Regulatory Action In Question</HD>
+                <P>
+                    Under section 10(j) of the Act and our regulations at 50 CFR 17.81, the Service may establish an NEP, outside of the current range of the species, but within its historical range, for the purposes of reintroducing the species into formerly occupied habitat. Under this 10(j) rule, the Service is classifying any reestablished black-footed ferret population in the State of Wyoming as an NEP. The Service has determined that this NEP designation meets the requirements of the Act; the population is wholly geographically separate from other populations, and the experimental population is not essential to the 
+                    <PRTPAGE P="66822"/>
+                    continued existence of the black-footed ferret in the wild.
+                </P>
+                <P>This NEP designation will apply to all ferrets reintroduced to Wyoming, with the exception of animals found on lands managed by the National Park Service or U.S. Fish and Wildlife Service. Under a section 10(j) designation as an NEP, both the take prohibitions and consultation requirements of the Act are relaxed, easing regulatory burden associated with endangered species and facilitating acceptance by local landowners and managers.</P>
+                <P>Once this rule takes effect, the Service, the Wyoming Game and Fish Department (WGFD), and other partners propose to reintroduce the black-footed ferret at one or more additional sites within the species' historical range in Wyoming. The WGFD will serve as the lead agency in the reintroduction and subsequent management of black-footed ferret in Wyoming; however, WGFD will continue to coordinate closely with the Service on these restoration efforts.</P>
+                <HD SOURCE="HD2">Costs and Benefits</HD>
+                <P>Costs and benefits of a Statewide NEP designation in Wyoming will depend upon the number and type of reintroduction efforts initiated. The Black-footed Ferret Recovery Plan estimates that 35,000 acres (ac) (14,000 hectares (ha)) of purposefully managed prairie dog occupied habitat will be needed to meet Wyoming's portion of the rangewide habitat goal for downlisting, and 70,000 ac (28,000 ha) to meet their portion of the rangewide habitat goal for delisting (USFWS 2013a, Table 8). This equates to purposeful management of approximately 2 percent of prairie dog occupied habitat in Wyoming to meet their portion of the rangewide habitat goal for delisting. We completed an environmental assessment for this action, which analyzes potential impacts of reestablishing black-footed ferrets in Wyoming under section 10(j) of the Act. Participation in this recovery effort is entirely voluntary and would not occasion any substantive change in land use by participants; consequently, we anticipate that the benefits of reintroduction will off-set the costs incurred for any recovery partners who choose to participate.</P>
+                <HD SOURCE="HD1">Background</HD>
+                <HD SOURCE="HD2">Statutory and Regulatory Framework</HD>
+                <P>
+                    The black-footed ferret was listed as endangered throughout its range on March 11, 1967 (32 FR 4001), and again on June 2, 1970 (35 FR 8491), under early endangered species legislation and was âgrandfatheredâ under the Endangered Species Act of 1973, as amended (Act; 16 U.S.C. 1531 
+                    <E T="03">et seq.</E>
+                    ) without critical habitat. The Act provides that species listed as endangered are afforded protection primarily through the prohibitions of section 9 and the requirements of section 7. Section 9 of the Act, among other things, prohibits the take of endangered wildlife. âTakeâ is defined by the Act as harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or attempt to engage in any such conduct. Section 7 of the Act outlines the procedures for Federal interagency cooperation to conserve federally listed species and protect designated critical habitat. It mandates that all Federal agencies use their existing authorities to further the purposes of the Act by carrying out programs for the conservation of listed species. It also states that Federal agencies must, in consultation with the Service, ensure that any action they authorize, fund, or carry out is not likely to jeopardize the continued existence of a listed species or result in the destruction or adverse modification of designated critical habitat. Section 7 of the Act does not affect activities undertaken on private land unless they are authorized, funded, or carried out by a Federal agency.
+                </P>
+                <P>
+                    The 1982 amendments to the Act (16 U.S.C. 1531 
+                    <E T="03">et seq.</E>
+                    ) included the addition of section 10(j), which allows for the designation of reintroduced populations of listed species as âexperimental populations.â Under section 10(j) of the Act and our regulations at 50 CFR 17.81, the Service may designate as an experimental population a population of endangered or threatened species that has been or will be released into suitable natural habitat outside the species' current natural range (but within its probable historical range, absent a finding by the Director of the Service in the extreme case that the primary habitat of the species has been unsuitable and irreversibly altered or destroyed). With the experimental population designation, the relevant population is treated as threatened for purposes of section 9 of the Act, regardless of the species' designation elsewhere in its range. Threatened designation allows us discretion in devising management programs and special regulations for such a population. Section 4(d) of the Act allows us to adopt whatever regulations are necessary and advisable to provide for the conservation of a threatened species. In these situations, the general regulations that extend most section 9 prohibitions to threatened species do not apply to that species, and the rule issued under section 10(j) of the Act (hereafter referred to as a 10(j) rule) contains the prohibitions and exemptions necessary and appropriate to conserve that species.
+                </P>
+                <P>Before authorizing the release as an experimental population of any population (including eggs, propagules, or individuals) of an endangered or threatened species, and before authorizing any necessary transportation to conduct the release, the Service must find, by regulation, that such release will further the conservation of the species. In making such a finding, the Service uses the best scientific and commercial data available to consider: (1) Any possible adverse effects on extant populations of a species as a result of removal of individuals, eggs, or propagules for introduction elsewhere; (2) the likelihood that any such experimental population will become established and survive in the foreseeable future; (3) the relative effects that establishment of an experimental population will have on the recovery of the species; and (4) the extent to which the introduced population may be affected by existing or anticipated Federal or State actions or private activities within or adjacent to the experimental population area.</P>
+                <P>Furthermore, as set forth in 50 CFR 17.81(c), all regulations designating experimental populations under section 10(j) must provide: (1) Appropriate means to identify the experimental population, including, but not limited to, its actual or proposed location, actual or anticipated migration, number of specimens released or to be released, and other criteria appropriate to identify the experimental population(s); (2) a finding, based solely on the best scientific and commercial data available, and the supporting factual basis, on whether the experimental population is, or is not, essential to the continued existence of the species in the wild; (3) management restrictions, protective measures, or other special management concerns of that population, which may include but are not limited to, measures to isolate and/or contain the experimental population designated in the regulation from natural populations; and (4) a process for periodic review and evaluation of the success or failure of the release and the effect of the release on the conservation and recovery of the species.</P>
+                <P>
+                    Under 50 CFR 17.81(d), the Service must consult with appropriate State fish and wildlife agencies, local governmental entities, affected Federal agencies, and affected private landowners in developing and 
+                    <PRTPAGE P="66823"/>
+                    implementing experimental population rules. To the maximum extent practicable, section 10(j) rules represent an agreement between the Service, the affected State and Federal agencies, and persons holding any interest in land which may be affected by the establishment of an experimental population.
+                </P>
+                <P>
+                    Based on the best scientific and commercial data available, we must determine whether the experimental population is 
+                    <E T="03">essential</E>
+                     or 
+                    <E T="03">nonessential</E>
+                     to the continued existence of the species. The regulations (50 CFR 17.80(b)) state that an experimental population is considered essential if its loss would be likely to appreciably reduce the likelihood of survival of that species in the wild. All other populations are considered nonessential. We have determined that any future experimental populations of black-footed ferrets in Wyoming would not be essential to the continued existence of the species in the wild. This determination has been made because loss of an experimental population in Wyoming will not affect the captive population or the 24 existing reintroduction sites in Arizona, Colorado, Kansas, Montana, New Mexico, South Dakota, Utah, and Wyoming; in Chihuahua, Mexico; and in Saskatchewan, Canada. Therefore, loss of an experimental population in Wyoming will not appreciably reduce the likelihood of future survival of the ferret rangewide.
+                </P>
+                <P>For the purposes of section 7 of the Act, we treat an NEP as a threatened species only when the NEP is located within a National Wildlife Refuge or unit of the National Park Service. In these areas, the Federal agency conservation requirements under section 7(a)(1) and the Federal agency consultation requirements of section 7(a)(2) of the Act apply. Section 7(a)(1) requires all Federal agencies to use their authorities to carry out programs for the conservation of listed species. Section 7(a)(2) requires that Federal agencies, in consultation with the Service, ensure that any action authorized, funded, or carried out is not likely to jeopardize the continued existence of a listed species or adversely modify its critical habitat.</P>
+                <P>When NEPs are located outside a National Wildlife Refuge or National Park Service unit, then, for the purposes of section 7, we treat the population as proposed for listing and only section 7(a)(1) and section 7(a)(4) apply. In these instances, NEPs provide additional flexibility because Federal agencies are not required to consult with us under section 7(a)(2). Section 7(a)(4) requires Federal agencies to confer (rather than consult) with the Service on actions that are likely to jeopardize the continued existence of a species proposed to be listed. The results of a conference are in the form of conservation recommendations that are optional as the agencies carry out, fund, or authorize activities. Because the NEP is, by definition, not essential to the continued existence of the species, the effects of proposed actions affecting the NEP will generally not rise to the level of jeopardizing the continued existence of the species. As a result, a formal conference will likely never be required for black-footed ferrets established within the NEP area. Nonetheless, some agencies voluntarily confer with the Service on actions that may affect a proposed species. Activities that are not carried out, funded, or authorized by Federal agencies are not subject to provisions or requirements in section 7.</P>
+                <P>
+                    On April 10, 2015, the Service published a proposed rule in the 
+                    <E T="04">Federal Register</E>
+                     to establish a nonessential experimental population of black-footed ferrets in Wyoming, and announced the availability of a draft environmental assessment (EA) in accordance with the National Environmental Policy Act of 1969, as amended (NEPA) (80 FR 19263). This EA analyzed the potential environmental impacts associated with the proposed reintroduction of ferrets in Wyoming. We contacted interested parties including Federal and State agencies, local governments, scientific organizations, interest groups, and private landowners through a press release and related fact sheets, and emails. In addition, we notified the public and invited comments through news releases to local media outlets. The public comment period for the proposed rule and the draft EA closed on June 9, 2015. Prior to the April 10, 2015, publication of the proposed rule, we also held a series of informational public meetings across the State in concert with Wyoming Game and Fish Department.
+                </P>
+                <P>Section 10(j)(2)(C)(ii) of the Act states that critical habitat shall not be designated for any experimental population that is determined to be nonessential. Accordingly, we cannot designate critical habitat in areas where we establish an NEP.</P>
+                <HD SOURCE="HD2">Biological Information</HD>
+                <P>
+                    The endangered black-footed ferret is the only ferret species native to the Americas (Anderson 
+                    <E T="03">et al.</E>
+                     1986, p. 24). It is a medium-sized mustelid, typically weighing 1.4 to 2.5 pounds (645 to 1,125 grams) and measuring 19 to 24 inches (479 to 600 millimeters) in total length; upper body parts are yellowish buff, occasionally whitish, feet and tail tip are black, and a black âmaskâ occurs across the eyes (Hillman and Clark 1980, p. 30).
+                </P>
+                <P>
+                    The black-footed ferret depends almost exclusively on prairie dogs for food and on prairie dog burrows for shelter (Hillman 1968, p. 438; Biggins 2006, p. 3). Historical habitat of the ferret coincided with the ranges of the black-tailed prairie dog (
+                    <E T="03">Cynomys ludovicianus</E>
+                    ), white-tailed prairie dog (
+                    <E T="03">C. leucurus</E>
+                    ), and Gunnison's prairie dog (
+                    <E T="03">C. gunnisoni</E>
+                    ), which collectively occupied approximately 100 million ac (40 million ha) of intermountain and prairie grasslands extending from Canada to Mexico (Anderson 
+                    <E T="03">et al.</E>
+                     1986, pp. 25-50; Biggins 
+                    <E T="03">et al.</E>
+                     1997, p. 420). This amount of prairie dog habitat could have supported 500,000 to 1,000,000 ferrets (Anderson 
+                    <E T="03">et al.</E>
+                     1986, p. 58). Since the late 1800s, ferret specimens have been collected from Arizona, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Utah, and Wyoming in the United States and Saskatchewan and Alberta in Canada (Anderson 
+                    <E T="03">et al.</E>
+                     1986, pp. 25-50). In the 1990s, we concluded that the ferret's historical range also included Mexico, which is within the contiguous range of the black-tailed prairie dog as previously noted (Biggins 
+                    <E T="03">et al.</E>
+                     1997, p. 420). This inclusion of Mexico in the ferret's historical range is described in more detail in the recovery plan and resulted in a ferret reintroduction initiated in 2001 (USFWS 2013a, pp. 16-17). This final rule also corrects the historical range of the species at 50 CFR 17.11(h); this action has no regulatory impact as this column is strictly informational.
+                </P>
+                <P>
+                    Black-footed ferrets historically occurred throughout most of Wyoming. Specifically, black-footed ferrets occurred within black-tailed prairie dog habitat in the eastern portion of the State and white-tailed prairie dog habitat in the west; black-footed ferrets did not occur in the extreme northwest corner of the State (Anderson 
+                    <E T="03">et al.</E>
+                     1986, p. 48). The last wild population of ferrets (from which all surviving black-footed ferrets descend) was discovered near Meeteetse, Wyoming, in 1981, after the species was presumed extinct (Clark 
+                    <E T="03">et al.</E>
+                     1986, p. 8; Lockhart 
+                    <E T="03">et al.</E>
+                     2006, p. 8). Following disease outbreaks at Meeteetse, all surviving wild ferrets were removed from the wild between 1985 and 1987, to initiate a captive-breeding program (Lockhart 
+                    <E T="03">et al.</E>
+                     2006, p. 8). No wild populations have been found since the capture of the last 
+                    <PRTPAGE P="66824"/>
+                    Meeteetse ferret despite extensive and intensive rangewide searches; it is unlikely that any undiscovered wild populations remain. Therefore, the Service considers the State of Wyoming unoccupied by wild ferrets, with the exception of reintroduced populations, which alleviates the requirement for project proponents to conduct presence/absence surveys for ferrets under section 7 of the Act prior to developing projects (USFWS 2013c).
+                </P>
+                <P>In 1991, a reintroduced population of ferrets was established in Shirley Basin, Wyoming as an NEP in accordance with section 10(j) of the Act. In 2001, the Wolf Creek, Colorado, reintroduction site was also established as an NEP under section 10(j), and includes a small portion of Sweetwater County, Wyoming, in the experimental population area. However, no evidence of ferrets from the Wolf Creek reintroduction effort has been found in Sweetwater County or elsewhere in Wyoming. The Shirley Basin NEP persists today. The map at the conclusion of this rule identifies the existing NEPs in Wyoming.</P>
+                <HD SOURCE="HD2">Relationship of the Experimental Population to Recovery Efforts</HD>
+                <P>All known black-footed ferrets in the wild are the result of reintroduction efforts. There have been 24 ferret reintroduction projects, beginning in 1991, at Shirley Basin in the southeastern portion of Wyoming. Shirley Basin contains the only ferret population currently in Wyoming.</P>
+                <P>The downlisting criteria for the black-footed ferret include establishing at least 1,500 free-ranging breeding adults in 10 or more populations, in at least 6 of 12 States within the historical range of the species, with no fewer than 30 breeding adult ferrets in any population; delisting criteria include establishing at least 3,000 free-ranging breeding adults in 30 or more populations, in at least 9 of 12 States within the historical range of the species, with no fewer than 30 breeding adults in any population (USFWS 2013a, pp. 61-62). In our recovery plan for the ferret, we suggest recovery guidelines for the States that are proportional to the amount of prairie dog habitat historically present. A proportional share for Wyoming would include approximately 171 free-ranging breeding adult ferrets to meet their portion of the rangewide numerical goal for downlisting and 341 breeding adults to meet their portion of the rangewide numerical goal for delisting (USFWS 2013a, Table 8).</P>
+                <P>
+                    Approximately 100 breeding adult black-footed ferrets have been established at Shirley Basin, Wyoming (USFWS 2013a, Table 8). Shirley Basin is one of four currently successful ferret reintroduction sitesâother successful sites include two in South Dakota and one in Arizona (USFWS 2013a, p. 73). We are confident that Wyoming can support additional successful reintroduction sites, based on the amount of available habitat (see the following section on 
+                    <E T="03">Likelihood of Population Establishment and Survival</E>
+                    ) and a history of successful ferret management at Shirley Basin since 1991. Additional viable ferret populations within Wyoming will aid recovery of the species.
+                </P>
+                <HD SOURCE="HD2">Location of the Nonessential Experimental Population Area</HD>
+                <P>The NEP area for Wyoming is Statewide, with the exception of the two areas where a NEP designation for black-footed ferret already exists (see below). In combination, these three NEPs collectively cover the entire State of Wyoming. Suitable habitat for ferret reintroduction will likely be limited to Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Uinta, Washakie, and Weston Counties because these counties have sufficient prairie dog habitat to support viable ferret populations. We are not aware of any prairie dog complexes suitable for ferret reintroduction on or adjacent to Tribal lands in Wyoming. The nearest potential reintroduction sites to Tribal lands are two white-tailed prairie dog complexes--Fifteen-mile Complex near Worland in Hot Springs County and Sweetwater Complex near Sweetwater Station in Fremont County (Luce 2008, pp. 29-30). Both sites are of intermediate potential for ferret reintroduction and are located approximately 19 miles (30 kilometers) from any reservation boundaries.</P>
+                <P>
+                    Any ferrets found in Wyoming would be considered part of an NEP. There are many historical records of ferrets in Wyoming (Anderson 
+                    <E T="03">et al.</E>
+                     1986, pp. 36-37). However, the species has been extirpated from the State since 1987, with the exception of a reintroduced ferret population in the Shirley Basin. As previously noted, a 10(j) designation already exists for the Shirley Basin ferret population in Albany County and portions of Carbon and Natrona Counties that are east of the North Platte River. A 10(j) designation also exists for the Wolf Creek, Colorado, ferret reintroduction site, which includes a small portion of Sweetwater County in Wyoming. Both of these reintroduction sites would remain outside the boundary of this newly designated NEP area and would continue to operate under their respective management plans. Any new reintroduction sites within this newly designated NEP area would require development of a new management plan approved by the Service.
+                </P>
+                <P>Several sites in Wyoming are suitable for reintroduction of black-footed ferrets in addition to the Shirley Basin site. The main requirements for ferret reintroduction are: (1) An area of occupied prairie dog habitat that is purposefully managed and of sufficient size to support a viable population of ferrets (a minimum of 1,500 ac (608 ha) of black-tailed prairie dog occupied habitat or 3,000 ac (1,215 ha) of white-tailed or Gunnison's prairie dog occupied habitat); (2) a willing landowner; and (3) a management plan that addresses sylvatic plague. Recent estimates of prairie dog occupied habitat in Wyoming include 2,893,487 ac (1,171,862 ha) in the white-tailed prairie dog range and 229,607 ac (92,991 ha) in the black-tailed prairie dog range (Van Pelt 2013, pp. 8, 14). Luce (2008, pp. 28-31) identified several sites in Wyoming with potential for ferret reintroduction including one site with potential for reintroduction within less than 3 years, 24 sites with potential for reintroduction within 3 to 10 years, and two sites with long-term potential for reintroduction.</P>
+                <HD SOURCE="HD2">Likelihood of Population Establishment and Survival</HD>
+                <P>The Service and its partners have initiated 24 black-footed ferret reintroduction projects since 1991. These projects have experienced varying degrees of success. However, all reintroduction efforts have contributed to our understanding of the species' needs. Recovery of the species is a dynamic process that requires adaptive management.</P>
+                <P>Some transfers of individual black-footed ferrets between populations will likely be necessary in perpetuity to maintain genetic diversity in the face of habitat fragmentation and as a management tool for sylvatic plague (until additional plague vaccines can be adapted for field use). Nevertheless, we believe that recovery can be achieved through a combination of expansion of ferret populations at existing reintroduction sites and reintroduction of ferrets at new sites, both of which are possible if conservation of prairie dog occupied habitat and disease management are aggressively pursued.</P>
+                <P>
+                    Participation by all States within the historical range of the black-footed ferret is important to maximize resilience of 
+                    <PRTPAGE P="66825"/>
+                    ferret populations in the wild and to allow for an equitable distribution of the responsibility for achieving recovery goals. Federal, State, and local agencies in Wyoming have been active participants in ferret recovery since the last wild population was found at Meeteetse in 1981. We estimate 100 breeding adult ferrets are already established at Shirley Basin. The suggested numerical recovery guidelines for Wyoming are 171 breeding adults to support the State's share of the rangewide downlisting target and 341 breeding adults to support the State's share of the rangewide delisting target. Meeting their portion of the rangewide numerical goal for downlisting would require establishing one additional large reintroduction site similar to Shirley Basin or two to three smaller sites. Meeting their portion of the rangewide numerical goal for delisting would require establishing two large sites, six small sites, or a combination of large, medium, and small sites, in addition to the sites previously established for meeting their portion of the rangewide numerical goal for downlisting. The Recovery Plan estimates that 35,000 ac (14,000 ha) of purposefully managed prairie dog occupied habitat will be needed to meet Wyoming's portion of the rangewide habitat goal for downlisting and 70,000 ac (28,000 ha) to meet their portion of the rangewide habitat goal for delisting (USFWS 2013a, Table 8). This equates to purposeful management of approximately 2 percent of prairie dog occupied habitat in Wyoming to meet their portion of the rangewide habitat goal for delisting.
+                </P>
+                <P>Sustaining black-footed ferret numbers during periodic outbreaks of sylvatic plague will require ongoing management, potentially including dusting prairie dog burrows with flea control powder and vaccinating ferrets prior to release. Additionally, research is currently underway investigating the potential for supporting ferrets at reintroduction sites by providing a vaccine to wild prairie dogs via oral bait.</P>
+                <P>Based upon the past history of successful management at Shirley Basin, Wyoming, and the substantial amount of prairie dog occupied habitat available for additional reintroduction of black-footed ferrets, we believe there is a high likelihood of population establishment and survival in Wyoming.</P>
+                <HD SOURCE="HD2">Addressing Causes of Extirpation</HD>
+                <P>
+                    The black-footed ferret rangewide population declined for three principal reasons: (1) A major conversion of native rangeland to cropland, particularly in the eastern portion of the species' range, beginning in the late 1800s; (2) poisoning of prairie dogs to reduce competition with domestic livestock for forage, beginning in the early 1900s; and (3) the inadvertent introduction of sylvatic plague, which causes mortality to both ferrets and prairie dogs, beginning in the 1930s. The combined effects of these three factors resulted in a rangewide decrease in the amount of habitat occupied by prairie dogs from approximately 100 million ac (40.5 million ha) historically to 1.4 million ac (570,000 ha) in the 1960s (USFWS 2013a, pp. 23-24). This habitat loss and fragmentation resulted in a corresponding decrease in ferrets, which require relatively large areas of prairie dog occupied habitat to maintain viable populations. By the 1960s, only two remnant ferret populations remainedâin Mellette County, South Dakota, and in Meeteetse, Wyoming (Lockhart 
+                    <E T="03">et al.</E>
+                     2006, pp. 7-8).
+                </P>
+                <P>Wyoming has had less rangeland converted to cropland than most other States within the historical range of the black-footed ferret (U.S. Department of Agriculture 2005, Table 1). Consequently, prairie dog poisoning and sylvatic plague are likely the two primary reasons for extirpation of ferrets from the State. Extensive poisoning of prairie dogs had begun in Wyoming by 1916 (Clark 1973, p. 89), and plague was present in Wyoming by 1936 (Eskey and Haas 1940, p. 4). Occupied prairie dog habitat reached a low in Wyoming in the early 1960s when approximately 64,336 ac (26,056 ha) were reported (U.S. Bureau of Sport Fisheries and Wildlife 1961, Table 1). However, large-scale poisoning of prairie dogs no longer occurs, and the use of poisons is more closely regulated than it was historically. Improved plague management, including dusting prairie dog burrows with insecticide to control fleas (the primary vector for plague transmission), is also being used, and the development of vaccines that prevent plague in prairie dogs and black-footed ferrets is underway. The most recent surveys estimate 3,123,094 ac (1,264,853 ha) of occupied prairie dog habitat in Wyoming (Van Pelt 2013, pp. 8, 14). This considerable increase over the past 50 years indicates that there has been a reduction in threats and improved management of prairie dogs. This increases the likelihood of successful reintroduction of ferrets in Wyoming.</P>
+                <HD SOURCE="HD2">Release Procedures</HD>
+                <P>
+                    The Service will cooperate with other Federal agencies, WGFD, Tribes, landowners, and other stakeholders to develop, implement, and maintain long-term site management before, during, and after releases. Partners will collect habitat data for site evaluation and documentation of baseline conditions and develop management plans for prairie dogs and plague prior to any release of black-footed ferrets. All applicable laws regulating the protection of ferrets will be followed (see section on 
+                    <E T="03">Management Considerations and Protective Measures,</E>
+                     below). Partners will develop annual site-specific reintroduction plans and submit them to the Service by mid-March as part of an annual ferret allocation process (which allocates available captive ferrets for release in specific numbers for specific sites). Reintroduction plans will include current estimates of prairie dog numbers and density, disease prevalence and management, and proposed reintroduction and monitoring methods. If the reintroduction plan covers years subsequent to the initial releases, it will also include a recent description of the status of ferrets on the site.
+                </P>
+                <P>
+                    All reintroduction efforts will follow techniques described in Roelle 
+                    <E T="03">et al.</E>
+                     (2006) as appropriate, which presents recommendations for managing captive populations, evaluating potential habitat, reestablishing populations, and managing disease. Captive-reared black-footed ferrets exposed to prairie dog burrows and natural prey in outdoor preconditioning pens prior to their release survive in the wild at significantly higher rates than cage-reared, non-preconditioned ferrets (Biggins 
+                    <E T="03">et al.</E>
+                     1998, pp. 651-652; Vargas 
+                    <E T="03">et al.</E>
+                     1998, p. 77). Therefore, all captive-reared ferrets released within the Wyoming NEP area will receive adequate preconditioning in outdoor pens at the National Black-footed Ferret Conservation Center or at another facility approved by the Service. We will vaccinate all ferrets for canine distemper and sylvatic plague, and mark them with passive integrated transponder tags prior to release. We will transport ferrets to the reintroduction site and release them directly from transport cages into prairie dog burrows. In conformance with standard ferret reintroduction protocol, no fewer than 20 captive-raised or wild-translocated ferrets will be released at any reintroduction site in Wyoming during the first year of the project. Twenty or more additional animals will be released annually for the next 2 to 4 years. Released ferrets will be excess to the needs of the captive-breeding program.
+                    <PRTPAGE P="66826"/>
+                </P>
+                <HD SOURCE="HD2">Donor Stock Assessment and Effects on Captive or Wild-Born Donor Populations</HD>
+                <P>
+                    Eighteen black-footed ferrets were captured from the last wild population at Meeteetse, Wyoming in 1985-1987, and used to initiate a captive-breeding program (Lockhart 
+                    <E T="03">et al.</E>
+                     2006, pp. 11-12). Of the 18 captured ferrets, 15 individuals, representing the genetic equivalent of 7 distinct founders, produced a captive population that is the foundation of present recovery efforts (Garelle 
+                    <E T="03">et al.</E>
+                     2006, p. 4). Extant populations, both captive and reintroduced, descend from these âfounderâ animals. The purpose of the captive-breeding program is to provide animals for reintroduction to achieve recovery of the species, while maintaining maximum genetic diversity in the captive population (USFWS 2013a, p. 81).
+                </P>
+                <P>Black-footed ferrets used to establish any experimental population in the Wyoming NEP area will either be translocated wild-born kits from another self-sustaining reintroduced population (such as Shirley Basin) or come from one of six captive-breeding populations currently housed at the U.S. Fish and Wildlife Service National Black-footed Ferret Conservation Center near Wellington, Colorado; the Cheyenne Mountain Zoological Park, Colorado Springs, Colorado; the Louisville Zoological Garden, Louisville, Kentucky; the Smithsonian Biology Conservation Institute, Front Royal, Virginia; the Phoenix Zoo, Phoenix, Arizona; or the Toronto Zoo, Toronto, Ontario.</P>
+                <P>The Service and its partners maintain a captive-breeding population of approximately 280 breeding adult black-footed ferrets in order to provide a sustainable source of ferrets for reintroduction. The captive-breeding facilities produce approximately 120 to 240 juvenile ferrets annually. Approximately 80 juveniles are retained annually at these facilities for future captive-breeding purposes. The remaining juveniles are allocated annually for reintroduction, or occasionally for research (USFWS 2013a, p. 81). Ferrets selected for reintroduction under this final rule will be genetically redundant to animals maintained for captive-breeding. Consequently, any loss of reintroduced ferrets will not impact the genetic diversity of the species. Only ferrets that are surplus to the needs of the captive-breeding program are used for reintroduction into the wild. Therefore, any loss of an experimental population in the wild will not threaten the survival of the species as a whole. Therefore, there will be no effects on donor populations beyond those which are intended and accounted for in the management of wild or captive populations.</P>
+                <HD SOURCE="HD2">Status of Proposed Population</HD>
+                <P>The effects of using black-footed ferrets from any captive or wild-born donor populations for releases into the Wyoming NEP area will be examined through our section 10 permitting authority and section 7 consultation process to ensure that their use is not likely to jeopardize the continued existence of the species in the wild. We based this determination on the following: (1) As an NEP, black-footed ferrets utilized for reintroductions are not essential to the survival of the species; (2) The 10(j) rule is expected to result in the creation of additional reintroduction areas in Wyoming; (3) Measures to avoid and minimize the incidental take of black-footed ferrets will be implemented within reintroduced populations; (4) The 10(j) rule will likely constitute a beneficial effect for the black-tailed and white-tailed prairie dog, as it includes measures to reduce the incidence of sylvatic plague, the primary factor responsible for the decline of these two species. This will result in an increase in the reproduction, numbers and distribution of the black-footed ferret, and therefore not resulting in reducing appreciably the likelihood of survival and recovery.</P>
+                <P>Additional successful reintroductions of ferrets are necessary for recovery of the species. Once this rule takes effect (see DATES, above), any releases of ferrets in Wyoming will be part of an NEP because of the need for increased management flexibility, which will encourage landowner participation and alleviate concerns regarding possible land use restrictions.</P>
+                <P>This 10(j) rule is designed to broadly exempt from the section 9 take prohibitions any take of black-footed ferrets that is incidental to otherwise lawful activities. We provide this exemption because we believe that such incidental take of members of the NEP associated with otherwise lawful activities is necessary and advisable for the conservation of the species.</P>
+                <P>This designation is justified because no adverse effects to extant wild or captive black-footed ferret populations will result from release of progeny from either a wild or captive donor population onto a new reintroduction site. We also expect that any reintroduction efforts in Wyoming will result in the successful establishment of a self-sustaining population, which will contribute to the recovery of the species.</P>
+                <HD SOURCE="HD2">Management Considerations and Protective Measures</HD>
+                <P>We conclude that the effects of Federal, State, or private actions and activities will not pose a substantial threat to black-footed ferret establishment and persistence in Wyoming because most activities currently occurring in the NEP area are compatible with ferret recovery and there is no information to suggest that future activities would be incompatible with ferret recovery. We base this conclusion on experience at previous reintroduction sites, where incidental take associated with otherwise lawful activities such as ranching and energy development has been low. Poisoning of prairie dogs can occur in prairie dog habitat and could result in habitat loss or incidental take of ferrets. However, poisoning within a reintroduction site is very restricted, occurring only in specific instances where protection of residences, resources, or infrastructure on participating farm and ranch lands becomes necessary. These considerations are planned for in cooperation with participating landowners and stakeholders and documented in site-specific management plans that must be approved by the Service before ferrets are allocated to any reintroduction sites. Poisoning with the anticoagulant RozolÂ® at current and future reintroduction sites, however, is prohibited by Environmental Protection Agency label that governs use of Rozol (USFWS 2013a, p. 50). Prairie dog control programs may also be necessary at the boundary between ferret reintroduction sites and adjacent properties in order to maintain local support for the reintroduction. If boundary control is necessary because prairie dogs have encroached onto adjacent properties where prairie dogs are not wanted, it is carefully managed. Lethal control of prairie dogs should not be employed at a level that would reduce prairie dog occupied habitat to the extent that the viability of any potential ferret population is compromisedâa minimum of 1,500 ac (608 ha) of black-tailed prairie dog occupied habitat or 3,000 ac (1,215 ha) of white-tailed or Gunnison's prairie dog occupied habitat is needed to sustain a viable ferret population.</P>
+                <P>
+                    The Service will coordinate closely with WGFD and other partners in the management of any black-footed ferrets in Wyoming that are reintroduced under section 10(j) authorities. Management of ferret populations in the Wyoming NEP 
+                    <PRTPAGE P="66827"/>
+                    area will be guided by provisions in site-specific management plans developed by partners (WGFD) with input from any affected landowners and stakeholders such as U.S Animal and Plant Health Inspection Service, U.S. Bureau of Land Management (BLM), U.S. Forest Service (USFS), Natural Resources Conservation Service, Wyoming Department of Agriculture, or potentially affected Tribes. The responsibilities and commitments of the participating agencies will be documented in the management plan. As mentioned above, management plans must be approved by the Service before ferrets are allocated to any reintroduction sites.
+                </P>
+                <P>
+                    Management plans will be site-specific with management strategies based on site-specific characteristics (
+                    <E T="03">e.g.,</E>
+                     prairie dog distribution and expansion potential, sylvatic plague history, ferret movement barriers) and land use patterns (
+                    <E T="03">e.g.,</E>
+                     livestock grazing, recreational use, mineral development potential). Management plans are tailored to achieve conservation objectives using management strategies compatible with existing ranch, livestock, and mineral extraction operations so that neither lifestyles nor income potential are negatively affected. We expect that future management plans under this 10(j) rule will have many similarities to past plans for other reintroduction sites. Some examples of management strategies for Shirley Basin in Wyoming include: (1) Attempting to schedule ferret releases so overlap with hunting opening weekends does not occur; (2) allowing landowners and land managers the opportunity to cooperatively decide the number and distribution of prairie dogs (and correspondingly ferrets) that may occur on privately owned and leased lands; (3) annually obtaining landowner approval of human activity necessary for actions specified in this plan; (4) biannual review of the progress of ongoing activities by all concerned parties. Other management plans may contain provisions similar to these, although the specific content and details will vary by site.
+                </P>
+                <P>Most of the area containing suitable release sites with high potential for ferret establishment is managed by the BLM, the USFS, or private landowners, and is currently protected through the following mechanisms.</P>
+                <P>
+                    (1) Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 
+                    <E T="03">et seq.</E>
+                    )âThe BLM's mission is set forth under the Federal Land Policy and Management Act, which mandates that BLM manage public land resources for a variety of uses, such as energy development, livestock grazing, recreation, and timber harvesting, while protecting the natural, cultural, and historical resources on those lands. The BLM manages listed and sensitive species under guidance provided in the BLM MS-6840 ManualâSpecial Status Species Management. The Manual directs BLM to proactively conserve species listed under the Act and the ecosystems upon which they depend, ensure that all actions authorized or carried out by BLM are in compliance with the Act, and cooperate with the planning and recovery of listed species. The BLM has experience in managing the black-footed ferret at four reintroduction sites in four States that occur at least in part on lands it manages, including Shirley Basin, Wyoming, and Wolf Creek, Colorado, which includes a small portion of Sweetwater County, Wyoming. Therefore, we anticipate appropriate management by BLM on any future ferret reintroduction sites that include BLM lands.
+                </P>
+                <P>
+                    (2) National Forest Management Act of 1976, as amended (16 U.S.C. 1600 
+                    <E T="03">et seq.</E>
+                    )âThe National Forest Management Act instructs the USFS to strive to provide for a diversity of plant and animal communities when managing national forest lands. The USFS identifies species listed as endangered or threatened under the Act, including the black-footed ferret, as Category 1 species at risk based on rangewide and national imperilment. The USFS has experience in managing the black-footed ferret at one reintroduction site in South Dakota that occurs at least in part on USFS lands. Therefore, we anticipate appropriate management by the USFS on any future ferret reintroduction sites that include USFS lands.
+                </P>
+                <P>(3) Wyoming State LawâThe responsibilities of WGFD are defined in Wyoming Statute section 23-1-103, which instructs the WGFD to provide an adequate and flexible system for the control, management, protection, and regulation of all Wyoming wildlife. The Statute defines the black-footed ferret as a protected animal. The WGFD also defines the ferret as a âspecies of greatest conservation needâ (Wyoming Game and Fish Department 2010, pp. IV-2-10-IV-2-13). This final rule has been developed in cooperation with the State to address any concerns and initiate additional ferret reintroductions in Wyoming. The WGFD has successfully managed the ferret at the Shirley Basin Reintroduction site since 1991. Therefore, we anticipate appropriate management by WGFD on any future ferret reintroduction sites in Wyoming.</P>
+                <P>Management issues related to the black-footed ferret Wyoming NEP area that have been considered include:</P>
+                <P>
+                    (a) 
+                    <E T="03">Incidental Take:</E>
+                     The regulations implementing the Act define âincidental takeâ as take that is incidental to, and not the purpose of, carrying out an otherwise lawful activity (50 CFR 17.3), such as agricultural activities and other rural development, and other activities that are in accordance with Federal, State, Tribal, and local laws and regulations. Experimental population rules contain specific prohibitions and exceptions regarding the taking of individual animals. Once this 10(j) rule becomes effective, incidental take of black-footed ferrets within the Wyoming NEP area will not be prohibited, provided that the take is unintentional and is in accordance with this 10(j) rule. However, if there is evidence of intentional take of this species within the NEP area that is not authorized by the 10(j) rule, we would refer the matter to the appropriate law enforcement entities for investigation.
+                </P>
+                <P>
+                    (b) 
+                    <E T="03">Special handling:</E>
+                     In accordance with 50 CFR 17.21(c)(3), any employee or agent of the Service or of a State wildlife agency may in the course of their official duties, handle black-footed ferrets to aid sick or injured ferrets, or to salvage dead ferrets. Employees or agents of other Federal, Tribal, or State agencies would need to acquire the necessary permits from the Service for these activities.
+                </P>
+                <P>
+                    (c) 
+                    <E T="03">Coordination with landowners and land managers:</E>
+                     This NEP designation under section 10(j) of the Act was discussed with potentially affected State and Federal agencies, Tribes, local governments, and other stakeholders within the expected reestablishment area. These agencies, landowners, and land managers have either indicated support for, or no opposition to, the establishment of future populations, provided an NEP is designated and a rule is promulgated to exempt incidental take from the section 9 take prohibitions. The Service and the WGFD will continue to coordinate to ensure local communities are fully engaged in any future black-footed ferret reintroduction efforts.
+                </P>
+                <P>
+                    (d) 
+                    <E T="03">Public awareness and cooperation:</E>
+                     We informed the general public of the importance of this reintroduction project for the overall recovery of the black-footed ferret through the proposed rule and associated public meetings. We notified a comprehensive list of stakeholders of the meetings including affected Federal and State agencies, Tribal entities, local governments, landowners, nonprofit organizations, 
+                    <PRTPAGE P="66828"/>
+                    and other interested parties. The comments we received are listed in the final EA, were included in the formulation of alternatives considered in the NEPA process, and are considered in this final rule designating an NEP area for reintroduced black-footed ferrets in Wyoming. Designation of the NEP area will increase reintroduction opportunities and provide greater flexibility in management of the reintroduced ferret. The NEP designation is necessary to secure needed cooperation of the State, landowners, and other interests in the affected area.
+                </P>
+                <P>
+                    (e) 
+                    <E T="03">Potential impacts to other federally listed species:</E>
+                     There are several federally listed, proposed (any species of fish, wildlife, or plant that is proposed in the 
+                    <E T="04">Federal Register</E>
+                     to be listed), and candidate (the Service has concluded that they should be proposed for listing) species in Wyoming. These species are identified in the following table.
+                </P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s150,r100">
+                    <TTITLE>Table 1âFederally Listed, Proposed, and Candidate Species in Wyoming</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Species</CHED>
+                        <CHED H="1">Current status in Wyoming under the act</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">
+                            Black-footed ferret (
+                            <E T="03">Mustela nigripes</E>
+                            )
+                        </ENT>
+                        <ENT>Shirley Basin NEP.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Gray wolf (
+                            <E T="03">Canis lupus</E>
+                            )
+                        </ENT>
+                        <ENT>NEP in Wyoming.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Whooping crane (
+                            <E T="03">Grus americana</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Interior least tern (
+                            <E T="03">Sterna antillarum</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Piping plover (
+                            <E T="03">Charadrius melodus</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Wyoming toad (
+                            <E T="03">Bufo baxteri</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Bonytail (
+                            <E T="03">Gila elegans</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Colorado pikeminnow (
+                            <E T="03">Ptychocheilus lucius</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Humpback chub (
+                            <E T="03">Gila cypha</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Razorback sucker (
+                            <E T="03">Xyrauchen texamus</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Kendall Warm Springs dace (
+                            <E T="03">Rhinichthys osculus thermalis</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Pallid sturgeon (
+                            <E T="03">Scaphirhynchus albus</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Blowout penstemon (
+                            <E T="03">Penstemon haydenii</E>
+                            )
+                        </ENT>
+                        <ENT>Endangered.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Canada lynx (
+                            <E T="03">Lynx canadensis</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened, with critical habitat.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Grizzly bear (
+                            <E T="03">Ursus arctos horribilis</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Preble's meadow jumping mouse (
+                            <E T="03">Zapus hudsonius preblei</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Yellow-billed cuckoo (
+                            <E T="03">Coccyzus americanus</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened, with critical habitat proposed.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Colorado butterfly plant (
+                            <E T="03">Gaura neomexicana coloradensis</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened, with critical habitat.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Desert yellowhead (
+                            <E T="03">Yermo xanthocephalus</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened, with critical habitat.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Western prairie fringed orchid (
+                            <E T="03">Platanthera praeclara</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Ute ladies'-tresses (
+                            <E T="03">Spiranthes diluvialis</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Northern long-eared bat (
+                            <E T="03">Myotis septentrionalis</E>
+                            )
+                        </ENT>
+                        <ENT>Threatened.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Greater sage-grouse (
+                            <E T="03">Centrocercus urophasianus</E>
+                            )
+                        </ENT>
+                        <ENT>Candidate at the time of the proposed 10(j) rule, recently found to be not warranted for listing.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Fremont County rockcress (
+                            <E T="03">Boechera pusilla</E>
+                            )
+                        </ENT>
+                        <ENT>Candidate.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Whitebark pine (
+                            <E T="03">Pinus albicaulis</E>
+                            )
+                        </ENT>
+                        <ENT>Candidate.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    Nearly all of the aforementioned species have habitat requirements such as forests, dunes, wetlands, or river systems that differ from the grassland prairie habitat requirements for the black-footed ferret. The only species that may be affected by reintroduction projects for the ferret in the Wyoming NEP area, other than the ferret, is the greater sage-grouse. At the time of the proposed 10(j) rule, the greater sage-grouse was a candidate species. Recently, the Service determined that the greater sage-grouse is no longer warranted for listing under the Act (80 FR 59858; October 2, 2015). The greater sage-grouse requires large, interconnected expanses of sagebrush (Connelly 
+                    <E T="03">et al.</E>
+                     2004, p. 3-2; Stiver 
+                    <E T="03">et al.</E>
+                     2006, p. I-2; Knick and Connelly 2011, p. 1). Habitat loss, degradation, and fragmentation are the primary stressors to the greater sage-grouse. A detailed description of the species' natural history, seasonal habitats, threats, and population trends can be found in the Service's recent 12-month not warranted finding (80 FR 59858; October 2, 2015). The ferret also requires large expanses of intact habitat, although it is dependent on prairie dogs, not sagebrush. However, some prairie dog habitat, particularly white-tailed prairie dog habitat, contains sagebrush.
+                </P>
+                <P>Direct adverse effects to greater sage-grouse can occur from the application of zinc phosphide-based pesticides to manage expanding prairie dog colonies at reintroduction sites. Because the application of zinc phosphide will occur in July through February, greater sage-grouse (males, hens, and broods) may ingest zinc phosphide and become sickened or die. We determined that the issuance of this Federal rule to designate the black-footed ferret as a nonessential experimental population in the State of Wyoming in accordance with section 10(j) of the Act is not likely to jeopardize the continued existence of the greater sage-grouse based on the following: (1) The use of zinc phosphide is anticipated to be relatively rare at reintroduction sites, which minimizes exposure risk; (2) zinc phosphide can only be applied by a certified pesticide applicator, which minimizes misapplication and exposure risk to non-targeted species; and (3) there are approximately 43,000,000 acres of estimated greater sage-grouse habitat in Wyoming. To meet delisting guidelines in the Black-footed Ferret Recovery Plan, there must be 70,000 acres of prairie dog habitat. Thus, most greater sage-grouse habitat in Wyoming would not be impacted by the proposed action.</P>
+                <P>
+                    (f) 
+                    <E T="03">Monitoring and Evaluation:</E>
+                     Monitoring is a required element of all black-footed ferret reintroduction projects. The following types of monitoring will be conducted.
+                </P>
+                <P>
+                    Reintroduction Effectiveness Monitoring: Partners will monitor population demographics and potential sources of mortality, including plague, annually for 5 years following the last release using spotlight surveys, snow tracking, other visual survey techniques, and possibly radio-telemetry of some individuals. Thereafter, demographic and genetic surveys will be completed periodically to track population status. Surveys will incorporate methods to monitor breeding success and long-term survival rates. In general, the Service anticipates that monitoring will be 
+                    <PRTPAGE P="66829"/>
+                    conducted by the lead for each reintroduction site, which in Wyoming will be the WGFD and participating partners. The WGFD will present monitoring results in their annual reports.
+                </P>
+                <P>Donor Population Monitoring: Ferrets used for reintroduction will either be from the captive-breeding population or translocated from another viable reintroduction site. Ferrets in the captive-breeding population are managed and monitored in accordance with the Association of Zoos and Aquariums (AZA) Black-footed Ferret Species Survival Plan (SSPÂ®). A breeding population of 280 animals will be maintained to provide a sustainable source of ferrets for reintroduction. The AZA SSPÂ® Husbandry Manual provides up-to-date protocols for the care, propagation, preconditioning, and transportation of captive ferrets, and is used at all participating captive-breeding facilities. Ferrets may also be translocated from other reintroduction sites (which also originated from captive sources), provided their removal will not create adverse impacts upon the donor population and provided appropriate permits are issued in accordance with our regulations (50 CFR 17.22) prior to their removal. Population monitoring will be conducted at all donor sites.</P>
+                <P>Monitoring Impacts to Other Listed Species: We do not expect impacts to other federally listed species (see discussion under (e), above). The greater sage-grouse is the only species with habitat that might overlap with the black-footed ferret. However, we do not expect ferret reintroduction efforts to adversely impact greater sage-grouse for the reasons previously discussed. The WGFD conducts annual monitoring of the greater sage-grouse statewide. Additional monitoring will occur on non-federal lands enrolled in the Wyoming Candidate Conservation Agreement with Assurances for the greater sage-grouse and on Federal lands enrolled in the Wyoming Candidate Conservation Agreement for the greater sage-grouse.</P>
+                <HD SOURCE="HD1">Summary of Comments and Responses</HD>
+                <P>In the proposed rule published on April 10, 2015 (80 FR 19263), we requested that all interested parties submit written comments on the proposal by June 9, 2015. We also contacted appropriate federal and state agencies, Tribes, scientific experts and organizations, and other interested parties and invited them to comment on the proposal.</P>
+                <P>During the public comment period on the proposed rule, we received a total of 29 comment letters addressing the proposed rule and several comments that were not relevant to the proposed rule. All substantive information provided during comment periods has either been incorporated directly into this final determination or addressed below.</P>
+                <HD SOURCE="HD2">Peer Review</HD>
+                <P>In accordance with our peer review policy published on July 1, 1994 (59 FR 34270), we solicited expert opinion from three knowledgeable individuals with scientific expertise that included familiarity with the black-footed ferret and its habitat, biological needs, recovery efforts, and threats. We received responses from all three of the peer reviewers.</P>
+                <P>We reviewed all comments we received from the peer reviewers for substantive issues and new information regarding the establishment of a nonessential experimental population designation for black-footed ferret in the State of Wyoming. In general, the peer reviewers stated that the proposed rule provided an accurate summation of the best available scientific information on the biology, current status, and recovery efforts for black-footed ferret, and that the proposed establishment of an NEP area in Wyoming to facilitate black-footed ferret reintroduction is well supported by the best available scientific information. The peer reviewers generally concurred with our methods and conclusions, and provided additional information, clarifications, and suggestions to improve the final rule. Peer reviewer comments are addressed in the following summary and incorporated into the final rule as appropriate.</P>
+                <HD SOURCE="HD2">Peer Reviewer Comments</HD>
+                <P>
+                    (1) 
+                    <E T="03">Comment:</E>
+                     One reviewer and several commenters were concerned with the statement in the proposed rule that the WGFD would have primary management responsibilities for ferret reintroduction in Wyoming. The reviewer stated that â[t]urning primary authority for management of a federally endangered species over to a state, even under 10(j), would be unprecedented as far as I can determineâ.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     The Service will maintain authority for black-footed ferrets under the Act until the species is recovered and subsequently delisted. That said, as is true for nearly every endangered species recovery effort, recovery is a collaborative effort with success depending on the coordination and collaboration of a multitude of partners working towards a common goal. The WGFD is anticipated to play a lead role in recovery for the black-footed ferret in Wyoming under this 10(j) rule, likely conducting the actual on-the-ground ferret reintroduction and management work. This situation is in no way unprecedented, as on-the-ground reintroduction efforts under 10(j) are often managed by non-Service groups, including state agencies, non-governmental organizations, and Tribes. The Service considers participation by the WGFD invaluable to this recovery effort given their long history with black-footed ferret conservation and recovery, leadership in successful reintroductions in Shirley Basin (also under a 10(j) rule), intimate knowledge of local biological conditions, and familiarity with local landowners and other stakeholders.
+                </P>
+                <P>
+                    This cooperative approach is consistent with our 2013 Memorandum Of Uderstanding (MOU), which committed the Service, the State of Wyoming, and other Federal partners (âPartiesâ) to work collaboratively to develop and implement the NEP area designation (WGFD and USFWS 2013). This MOU includes the following guiding principles, among others: (1) The Parties agree that they will collaboratively identify, and prioritize, prospective ferret reintroduction sites in Wyoming outside of the current 10(j) areas (
+                    <E T="03">i.e.,</E>
+                     Shirley Basin and Wolf Creek); and (2) the Parties agree that future reintroductions of the ferret will be based on mutually affirmed prioritization of prospective reintroduction sites (WGFD and USFWS 2013, pp. 5-6).
+                </P>
+                <P>
+                    The Service will continue to play an active role in black-footed ferret recovery in Wyoming as outlined in the MOU and through the Service's oversight of the black-footed ferret allocation process. The Service determines, based on reintroduction proposals, which reintroduction sites receive captive born ferrets (
+                    <E T="03">i.e.,</E>
+                     kits) for release into the wild. Ferret allocation decisions made by the Service are based on the biological and scientific merit of the proposals, the suitability of proposed reintroduction sites, management capabilities of reintroduction programs, comprehensiveness of site work plans, the overall contribution to species recovery each project represents, and other considerations that may be unforeseen. Furthermore, the Service must be kept apprised of any post allocation changes in project design, direction, management, or field implementation of ferret reintroduction projects. No ferrets may be translocated, relocated, or removed from the wild (except for emergency health concerns) 
+                    <PRTPAGE P="66830"/>
+                    without prior Service notification and authorization.
+                </P>
+                <P>
+                    (2) 
+                    <E T="03">Comment:</E>
+                     One peer reviewer stated that our determination of ânonessentialâ is misleading and erroneous, as it is was based on the conclusion that a loss of the proposed NEP in Wyoming will not appreciably reduce the likelihood of future survival of the ferret rangewide (
+                    <E T="03">i.e.,</E>
+                     at the 23 reintroduction sites outside of Wyoming). This reviewer further stated that âit is not whether the loss of a future population in Wyoming will affect the survival of another population somewhere else, but whether that population is intended to contribute to the recovery of the species.â Another peer reviewer and several commenters also questioned how all populations in Wyoming could be designated as nonessential despite the anticipated future âessentialâ role of such populations for the recovery of the species. In other words, some collection of reintroduction sites will necessarily comprise an âessentialâ part of the future recovered population.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We agree with the contention that successfully reintroduced populations under this 10(j) rule will be a central part of black-footed ferret recovery. This is consistent with the Act's requirements for 10(j) experimental populations. Specifically, the Act requires that experimental populations further the conservation of the species. Conservation is defined by the Act as the use of all methods and procedures which are necessary to bring any endangered or threatened species to the point at which the measures provided pursuant to the Act are no longer necessary (16 U.S.C. 1532(3)). In short, experimental populations must further the species' recovery.
+                </P>
+                <P>
+                    Under the revised Black-footed Ferret Recovery Plan, the species may be downlisted from endangered to threatened when at least 10 ferret populations, each with at least 30 breeding adults, are established. Thus, downlisting is based on biological parameters (
+                    <E T="03">e.g.,</E>
+                     number of breeding adults, number of successful sites). The recovery plan makes no distinction as to how these populations are designated once biological criteria are satisfied; each population will contribute toward recovery of the species whether it is designated as endangered, essential experimental, or nonessential experimental. The importance of future reintroduction sites to recovery, however, does not mean these populations are âessentialâ under section 10(j) of the Act. All reintroduction efforts are undertaken with the primary goal to move a species toward recovery. If importance to recovery was equated with essentiality, no reintroductions would qualify for nonessential status. This interpretation would conflict with Congress' expectation that âin most cases, experimental populations will not be essentialâ (H.R. Conference Report No. 835, supra at 34; USFWS 1984) and our 1984 implementing regulations, which indicated an essential population will be a special case and not the general rule (USFWS 1984).
+                </P>
+                <P>
+                    (3) 
+                    <E T="03">Comment:</E>
+                     Two reviewers and one commenter expressed concern over the reliance of the black-footed ferret recovery program on the captive population. Selection acts on captive populations, potentially resulting in animals adapted for survival in captivity and maladapted for life in the wild.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We agree that reliance on captive populations for species conservation is never ideal for numerous reasons, including those noted by the reviewers. Unfortunately, there are few alternatives for the black-footed ferret at this time. Thus, we recognize that it is vitally important for species persistence to expedite the establishment of reintroduction sites and wild populations whenever possible. For this reason, our recovery strategy emphasizes the rapid expansion of ferret recovery in the wild (USFWS 2013a, p. 68). Working in close coordination with the WGFD and other stakeholders, we fully expect establishment of additional wild populations in Wyoming under this 10(j) rule. An increase in successful reintroductions will result in a reduced reliance on the captive population in the future and allow for translocations of wild individuals to more fully support recovery efforts.
+                </P>
+                <P>
+                    (4) 
+                    <E T="03">Comment:</E>
+                     One reviewer stated that due to a potential for genetic adaptation to the captive environment, the assumption by the Service that replacing wild animals with captive animals is equivalent to maintaining wild populations is biologically and legally flawed. The reviewer further stated that this assertion should be clarified and/or deleted entirely.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Both in our proposal and this final rule, we state that animals lost during reintroduction efforts can be readily replaced through captive breeding, which produces juvenile ferrets in excess of the numbers needed to maintain the captive-breeding population. We do not make the assumption that replacement of wild animals with captive animals is equivalent to maintaining wild populations. It is always the Service's goal for reintroductions to be successful and contribute to recovery, which means the establishment of secure, self-sustaining populations in the wild. We recognize, however, that reintroductions are, by their nature, experiments whose outcome is uncertain. The point we are making with the above statement that âanimals lost during reintroduction can be readily replaced through captive breedingâ reflects the very real conservation status of the black-footed ferret; at this time, loss of the captive population could be catastrophic to the species, whereas the reverse is not true. The captive population of ferrets has been responsible for establishment of every wild ferret population in existence today, either wholly or primarily. Animals lost at reintroduction sites can be replaced by reintroduction of captive-bred individuals. We expect this trend will continue for the foreseeable future. Specifically, the captive population will remain important until establishment of the at least 30 wild populations needed for recovery is accomplished; both as a source of animals for reintroduction and as insurance against stochastic environmental events in wild populations (
+                    <E T="03">e.g.,</E>
+                     plague epizootics). Conversely, the populations in the Wyoming NEP can be established or re-established from the captive population. Thus, until the species is recovered, the Service considers the captive population to be far more important to the survival of the species in the wild than the planned Wyoming NEP. Whether the Wyoming NEP is essential to recovery of the species âin the wildâ was discussed in more detail under Comment 2.
+                </P>
+                <P>
+                    (5) 
+                    <E T="03">Comment:</E>
+                     One reviewer suggested that instead of giving reasons why the NEP is not âessentialâ the Service should indicate its intentions for the experimental population as follows: âOnce the ferret population reaches its delisting goal this 10(j) rule will be mooted, as the species will no longer require protection of the [Act]. The FWS will then enter into post-delisting monitoring and management agreements with Wyoming to ensure adequate persistence of and protection for reintroduced populations of ferrets to ensure that ferrets are no longer subject to relisting under the [Act].â
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We are required under the Act to designate any experimental population as either âessentialâ or ânonessential.â Our nonessential determination is based on the best scientific and commercial data available and thus meets the requirements under the Act. This population satisfies all requirements for a 10(j) population and meets the standards for a nonessential 
+                    <PRTPAGE P="66831"/>
+                    population under this section of the Act. Although post-delisting management agreements are beyond the scope of this 10(j) rule, we do anticipate reintroductions authorized by this rule to advance the conservation of the species and that this progress may contribute to an eventual reclassification to threatened or full species recovery and delisting. Prior to delisting, it is likely we would pursue management agreements to provide us adequate confidence that recovery progress achieved will be maintained. This is consistent with the Black-footed Ferret Recovery Plan, which calls for the completion and implementation of a post-delisting monitoring and management plan, in cooperation with the states and Tribes, to ensure recovery goals are maintained (USFWS 2013a, p.6).
+                </P>
+                <P>
+                    (6) 
+                    <E T="03">Comment:</E>
+                     Two reviewers and several commenters were concerned about the potential use of anticoagulant poisons like RozolÂ® to control prairie, dogs due to the potential for secondary toxicities to predators like black-footed ferrets. While they recognized that details on anticoagulant poison use may be more appropriately addressed in site-specific plans, they thought a framework for how the Service intends to approach this issue needed to be set out in this rule.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Anticoagulant poisons can result in secondary impacts to any wildlife that consumes a poisoned prairie dog. In 2012, the Service completed formal consultation with the Environmental Protection Agency (EPA) to evaluate potential impacts to endangered and threatened species, including the black-footed ferret, from the use of the anticoagulant RozolÂ® to poison prairie dogs. Label restrictions resulting from this process prohibit application of RozolÂ® within current and future ferret recovery sites. It is a violation of Federal law to use a pesticide in a manner inconsistent with its labeling.
+                </P>
+                <P>The Service would have no additional section 7 consultation role regarding the use of RozolÂ® at reintroduction sites in Wyoming, except in National Parks and National Wildlife Refuges. However, through the allocation process of providing captive ferrets to reintroduction sites, we determine which sites will receive ferrets. We do not support the use of RozolÂ® or other anticoagulants for control of prairie dogs, particularly at black-footed ferret reintroduction sites. Boundary control of prairie dogs at reintroduction sites is sometimes necessary because prairie dogs have encroached onto adjacent properties where prairie dogs are not wanted. If boundary control becomes necessary to maintain relations with neighboring landowners, we support the use of zinc phosphide in these instances. In comparison with RozolÂ®, which has a high risk of secondary poisoning of wildlife, zinc phosphide-based pesticides pose fewer risks to non-target wildlife when properly applied by a certified pesticide applicator as required by label.</P>
+                <P>
+                    (7) 
+                    <E T="03">Comment:</E>
+                     One reviewer expressed concern over WGFD management of future reintroductions, noting that WGFD has not consistently conducted annual monitoring for the Shirley Basin black-footed ferret population.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Long-term wildlife management and monitoring programs seldom are able to achieve 100 percent success when it comes to meeting monitoring goals. Potential impediments to meeting monitoring goals include such things as changing staff workloads and turnover, budget limitations, inclement weather, and equipment failures, among many others. Overall, we believe that during the last 20 years, WGFD has demonstrated a meaningful commitment to black-footed ferret conservation in Shirley Basin through data reporting, multiple scientific publications on the black-footed ferret, plague management, and the release of over 500 ferrets into the area. Therefore, we are confident in their ability to manage future reintroduction efforts in Wyoming.
+                </P>
+                <P>
+                    (8) 
+                    <E T="03">Comment:</E>
+                     One reviewer and several commenters requested we provide a specific timeline for completion of the identification and evaluation of reintroduction sites.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Stakeholders in Wyoming essentially viewed the implementation of a Statewide 10(j) rule as a prerequisite to participation in any ferret recovery actions in the State of Wyoming. Thus, implementation of this rule is only a first step in advancing black-footed ferret recovery in Wyoming. Under the 2013 MOU guiding principles, the WGFD and the Service will collaboratively identify and prioritize prospective reintroduction sites in the Wyoming NEP area. The steps that must be taken before a site can receive ferrets are substantial and calculated with the goal of selecting sites with the best potential of success. Steps include, but are not limited to: (1) Identification of interested and willing landowners; (2) biological evaluation of each site's potential to support at least 30 ferrets; and (3) creation of site-specific management plans (see 
+                    <E T="03">Location of the Nonessential Experimental Population Area</E>
+                    ). At this time we do not have precise information on locations of all suitable habitat, nor have any prospective reintroduction sites been approved yet for allocation of captive-bred ferrets. Therefore, we believe reporting a specific timeline would be arbitrary and premature.
+                </P>
+                <P>
+                    Implementation of this Statewide 10(j) rule will significantly reduce the administrative burden that would have been associated with development of multiple site-specific rules. In this case, the WGFD is not precluded from coordinating simultaneously with multiple landowners and evaluating sites for potential reintroduction. We believe under this Statewide 10(j) rule, the process for black-footed ferret reintroductions in Wyoming will be effectively streamlined. Encouragingly, following publication of the proposed rule in the 
+                    <E T="04">Federal Register</E>
+                    , WGFD has reported that a number of landowners have approached them expressing interest in establishing a ferret population on their land following implementation of the 10(j) rule.
+                </P>
+                <P>
+                    (9) 
+                    <E T="03">Comment:</E>
+                     One reviewer and several commenters wanted greater detail on specific reintroduction and sylvatic plague management plans.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Many of the specific questions raised in the comments are answered under 
+                    <E T="03">Release Procedures,</E>
+                     above. Development of management plans for reintroductions and sylvatic plague are a cooperative effort between the Service, WGFD, other federal agencies, landowners, and affected stakeholders. Final plans must be approved by the Service as part of the ferret allocation process. Ferret allocation decisions are based on the considerations mentioned in our response to Comment 1. We expect that future site-specific management plans will have many similarities to past plans for other reintroduction sites.
+                </P>
+                <P>
+                    (10) 
+                    <E T="03">Comment:</E>
+                     One reviewer and several commenters wondered if the public would have an opportunity to comment on potential reintroduction sites in the future.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     There is no formal public comment period for potential reintroduction sites or site-specific management plans, but there will be opportunities for public involvement. The Service and the WGFD recognize that local involvement is important to the success of recovery efforts and the long-term conservation of the black-footed ferret in Wyoming. Consequently, as required in the 2013 MOU, the Service and WGFD will coordinate to ensure local communities, including potentially affected landowners, stakeholder groups, local governments, and Tribes are fully engaged in any future black-footed ferret reintroduction 
+                    <PRTPAGE P="66832"/>
+                    efforts. Future management plans may contain provisions similar to the following, although the specific content and details will vary by reintroduction site. Public involvement may include but is not limited to the following: (1) Public meetings to outreach to all interested parties on determining potential reintroduction sites; (2) Coordination with all interested parties after a reintroduction site is determined; (3) Direct involvement of management plan development which could include state and federal agencies, County Commissioners, landowners, companies, academia, and other stakeholders, and tribes; (4) Allowing landowners and land managers the opportunity to cooperatively decide the number and distribution of prairie dogs (and correspondingly black-footed ferrets) that may occur on privately owned and leased lands; (5) Annually obtaining landowner approval of human activity necessary for actions specified in a plan; (6) Biannual review of the progress of ongoing activities by all concerned parties; (7) Direct involvement any interested parties in monitoring activities on reintroduction sites.
+                </P>
+                <P>
+                    (11) 
+                    <E T="03">Comment:</E>
+                     Two reviewers questioned whether the estimates for the number of black-footed ferrets currently in the wild were the most current estimates available.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     As is true for many species, and particularly with one that is largely fossorial (
+                    <E T="03">i.e.,</E>
+                     lives mostly underground) and nocturnal like the black-footed ferret, determining precise population numbers is challenging. Black-footed ferret populations are difficult to count due to their remote locations, difficult accessibility, nocturnal habits, small population sizes, and logistical problems and costs associated with the requisite field work. More importantly, ferret populations can also fluctuate significantly from one year to the next depending on the presence or absence of plague and active plague management, or due to other environmental factors like drought. Accordingly, a tally of adult ferret numbers at any one point in time is likely a poor indicator of recovery progress. We view ferret population estimates at most sites as minimum numbers because of the aforementioned issues.
+                </P>
+                <P>We stated in the EA and proposed rule that there are approximately 418 breeding adult ferrets in the wild, including approximately 102 breeding adults in the reintroduced population at Shirley Basin, Wyoming, as was reported in the 2013 Black-footed Ferret Recovery Plan (USFWS 2013a, Table 2). The reviewers are correct that the value for Shirley Basin is an estimate derived from surveys conducted in 2010. A more recent report gives the same estimate of approximately 100 breeding adults in Shirley Basin based on the 2010 survey and approximately 295 breeding adults rangewide (Black-footed ferret Recovery and Implementation Team Conservation Subcommittee Report 2014, Table 1). The current Shirley Basin estimate is based on the best available science and is meant to provide the most accurate assessment of the magnitude of the population size rather than the precise number of individuals, which can fluctuate considerably for the reasons given above.</P>
+                <P>
+                    (12) 
+                    <E T="03">Comment:</E>
+                     One reviewer questioned the meaning of the phrase âoccupied prairie dog habitat,â noting that one could ask âoccupied by what?â
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     When we use the phrase âoccupied prairie dog habitat,â we mean areas that are occupied by prairie dogs. A review of the scientific literature on prairie dogs shows both âoccupied prairie dog habitatâ and âprairie dog occupied habitatâ are commonly used terms to indicate habitat that is occupied by prairie dogs. While we agree with the comment in general as prairie dog colonies can and typically are âoccupiedâ by a number of other species, in this case we believe, however, it is clear by the context that what is being referenced in this rule is occupancy by prairie dogs.
+                </P>
+                <P>
+                    (13) 
+                    <E T="03">Comment:</E>
+                     One reviewer questioned the criteria for evaluating potential reintroduction sites. The reviewer stated that occupancy of habitat by prairie dogs is a simplistic criterion considering prairie dog populations can fluctuate significantly over time, expanding and contracting for a number of reasons, including plague.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Determining occupancy by prairie dogs is simply a first step in determining the potential for reintroduction site. A large number of other factors are considered for determining the suitability of proposed reintroduction sites. Foremost in consideration for prioritizing black-footed ferret allocations (
+                    <E T="03">i.e.,</E>
+                     young ferrets available for release into the wild) is the size, density, health, and overall stability of potential ferret habitat. Additional non-biological requirements for ferret allocations include a willing landowner and a management plan that addresses sylvatic plague.
+                </P>
+                <P>
+                    (14) 
+                    <E T="03">Comment:</E>
+                     One reviewer agreed with our identification of plague as a major impediment to the recovery of black-footed ferret, but noted that the management of plague only âduring periodic outbreaks of sylvatic plagueâ understates the problem. Recent research has shown that plague has serious negative effects on prairie dog populations not only during major âoutbreaksâ but also when present at lower levels.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Currently, management for sylvatic plague is carried out largely by dusting the impacted area with pesticides meant to kill the fleas that host the plague bacteria. This type of management can be effective. We agree, however, that this approach is not ideal, as it is typically only applied after plague has been detected, which is often too late, as mortality of ferrets and prairie dogs has already been significant. A new oral vaccine, currently being field tested, could provide a more effective, less expensive way to protect prairie dogs.
+                </P>
+                <P>The Service recognizes that understanding how to control or preferably eradicate sylvatic plague is critical to black-footed ferret conservation. The complex dynamics of sylvatic plague are not fully understood. As scientific knowledge of sylvatic plague advances, that information will be incorporated into management plans that address sylvatic plague. Although research projects are not required program elements for ferret allocations to reintroduction sites, the Service encourages, supports, and may give greater priority to projects that incorporate research elements addressing specific ferret recovery problems or questions.</P>
+                <P>
+                    (15) 
+                    <E T="03">Comment:</E>
+                     One reviewer wanted to see affirmation that the Wind River Tribes concur with the application of 10(j) to tribal lands within the Wind River Indian Reservation. The reviewer stated that Tribes may have an interest in maintaining full protection for ferrets within their boundaries.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We contacted the Eastern Shoshone and Northern Arapaho Tribes of the Wind River Indian Reservation and invited them to comment on the proposal. We did not receive comments from either Tribe. It is unlikely that these two Tribes have adequate prairie dog occupied habitat that would be suitable for a future reintroduction of the black-footed ferret. This does not preclude coordination with the Tribes in the future if circumstances change.
+                </P>
+                <HD SOURCE="HD2">Comments From the State of Wyoming</HD>
+                <P>
+                    (16) 
+                    <E T="03">Comment:</E>
+                     The State of Wyoming and several commenters were concerned that the Service could change the NEP designation to experimental essential, 
+                    <PRTPAGE P="66833"/>
+                    endangered, or threatened in the future. The Service should clarify under what conditions a change in designation could occur.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We do not foresee the need to change the NEP designation for any reintroduced black-footed ferret population. One of the benefits of an NEP designation is that it provides flexibility in the regulatory requirements in the area where the reintroduction occurs. This regulatory relief is important because, prior to reintroduction, these sites had no regulation related to the subject species because the species was not present. Thus, State, tribal, and private landowners typically resist endangered species reintroductions that bring with them new Federal regulation. This resistance can be nearly insurmountable. Fewer black-footed ferret reintroductions would have been initiated during the past 20 years without the added flexibility of nonessential experimental designations. To date, 11 black-footed ferret reintroductions have occurred through use of section 10(j) designated NEP areas in the United States, including in the Shirley Basin in Wyoming (USFWS 2013a, pp. 38-39). We do not believe ferrets would likely exist today in Wyoming if not for their nonessential experimental designation in Shirley Basin and the resulting reduced regulatory burden.
+                </P>
+                <P>All determinations on essentiality are made prior to any reintroduction action being taken. It is instructive that Congress did not put requirements in section 10(j) to reevaluate the classification after a reintroduction has occurred. While our regulations require a âperiodic review and evaluation of the success or failure of the release and the effect of the release on the conservation and recovery of the speciesâ (50 CFR 17.81(c)(4)), this has not been interpreted as requiring reevaluation and reconsideration of sites' nonessential experimental status (USFWS 1991, 1994, and 1996). We believe Congressional intent was to ensure that our partners could rely upon the original rules promulgated for the reintroduction effort. We also contend that retracting the nonessential experimental designation following implementation of this 10(j) rule would be extremely detrimental to ferrets in Wyoming and the partnerships that sustain them. Furthermore, such an alteration of the regulatory framework post-reintroduction would undermine future reintroduction efforts.</P>
+                <P>Typically, endangered species recovery efforts, including those for ferrets, depend on a myriad of partners working together to accomplish a common goal. In most cases, and particularly for ferrets, recovery would not be possible without substantial partner efforts. In looking back on ferret recovery over the last 25 years, we have gone from no ferret populations known in the wild to having 24 ferret reintroduction sites in the wild, with 17 of those sites continuing to have ferrets through 2015. Hundreds of partners have made this possible. We believe these are not trivial accomplishments. At nearly all the 24 ferret reintroduction sites, it is our partners who accomplish the actual on-the-ground ferret reintroduction and management work. The same will be true in this case, with WGFD taking the lead on implementation of reintroductions. Absent those partnerships, there would be far fewer reintroductions and likely no ferrets in Wyoming. Accordingly, the Service highly values those local partnerships that accomplish ferret recovery and is understandably cautious about undertaking actions that disrupt those partnerships.</P>
+                <P>
+                    In 2009, the Service received a petition to reclassify three reintroduced black-footed ferret populations from nonessential experimental to endangered, including the Shirley Basin NEP in Wyoming. This petition was submitted pursuant to section 553 of the Administrative Procedure Act (5 U.S.C. 553) (WildEarth Guardians 
+                    <E T="03">et al.</E>
+                     2009). The Service strongly believed and continues to believe that the ramifications of such an action would be detrimental to ferrets at these sites and the partnerships that sustain them. As we anticipated, the petition had immediate negative impacts to ferret recovery, prompting landowners to withdraw support for another planned reintroduction in Wyoming. The Service denied the petition in 2010 (USFWS 2010).
+                </P>
+                <P>As mentioned above, we do not foresee the need to change the NEP designation for any wild black-footed ferret population. The captive population is crucial to survival of the species in the wild at this time, and likely for the foreseeable future. However, a substantial loss of the captive population is highly improbable, as captive ferrets have been purposefully dispersed among six facilities, protecting the species from a single catastrophic event. In any circumstance, any change in the 10(j) listing would require a new proposed rule, a public comment period (including, if requested, public hearings), public meetings, NEPA compliance, and other documentation prior to publication of a final rule to change or abandon the NEP designation.</P>
+                <P>
+                    (17) 
+                    <E T="03">Comment:</E>
+                     The State of Wyoming and several commenters requested that the Service provide assurance that if the 10(j) designation changed in any respect, the Service would remove the ferrets.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Under 50 CFR 17.84(g)(12), the following will apply to any reintroduced ferret populations under this 10(j) rule:
+                </P>
+                <EXTRACT>
+                    <P>âWe will not include a reevaluation of the ânonessential experimentalâ designation for these populations during our review of the initial five year reintroduction program. We do not foresee any likely situation justifying alteration of the nonessential experimental status of these populations. Should any such alteration prove necessary and it results in a substantial modification to black-footed ferret management on non-Federal lands, any private landowner who consented to the introduction of black footed ferrets on their lands may rescind their consent, and at their request, we will relocate the ferrets pursuant to paragraph (g)(4)(iii) of this section.â</P>
+                </EXTRACT>
+                <P>
+                    (18) 
+                    <E T="03">Comment:</E>
+                     The State of Wyoming requested assurance from the Service that there will be thorough and appropriate consultation before any ferrets are brought into Wyoming under this rule.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We fully expect that all reintroductions efforts under this 10(j) rule will be conducted in close coordination with the WGFD, landowners, and affected stakeholders. This coordination will take place under previsions in the 2013 MOU and as part of the ferret allocation process.
+                </P>
+                <HD SOURCE="HD2">Public Comments</HD>
+                <P>
+                    (19) 
+                    <E T="03">Comment:</E>
+                     Two commenters stated that the Service's current prairie dog range estimate is not based on the best available science and information. Specifically the commenters point out that the Service claims there to be nearly 3.1 million acres of prairie dog occupied habitat in Wyoming, but previously (in USFWS 2009) has stated that the prairie dog occupies 2.4 million acres across its entire range.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     It is important to clarify that the 2.4 million acres of occupied habitat estimated in USFWS 2009 is a rangewide estimate for black-tailed prairie dogs (one of four species of prairie dog) only. Our estimate in the proposed rule and above of the amount of prairie dog occupied habitat in Wyoming includes estimates for both species of prairie dog that occur in Wyoming. We cite recent estimates of prairie dog occupied habitat in Wyoming at 2,893,487 ac (1,171,862 ha) in the white-tailed prairie dog range and 229,607 ac (92,991 ha) in the black-
+                    <PRTPAGE P="66834"/>
+                    tailed prairie dog range (Van Pelt 2013, pp. 8, 14). Black-tailed prairie dogs have a much smaller estimated range in the State of Wyoming while the estimated white-tailed prairie dog habitat in Wyoming is much larger. The combined estimate for both species of prairie dog in Wyoming is based on the best available scientific information.
+                </P>
+                <P>
+                    (20) 
+                    <E T="03">Comment:</E>
+                     Two commenters noted that aerial surveys overestimate occupied prairie dog habitat by as much as 94 percent (Sidle 
+                    <E T="03">et al.</E>
+                     2012). One commenter stated that if the estimate of prairie dog habitat is inaccurate then the area to which black-footed ferrets may be introduced is exaggerated. The commenter also alleged that the Service has used inaccurate data to formulate population goals of both the black-footed ferret and black tailed prairie dogs.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We acknowledge that aerial surveys can overestimate the extent of active or occupied prairie dog habitat and that there is some degree of error attached to any such estimate. Overestimates of prairie dog colonies result because observers may have difficulty distinguishing active, occupied burrows from unoccupied burrows from the air. Researchers continue working to refine methods for accurately assessing active prairie dog populations from the air.
+                </P>
+                <P>It is important to note, however, that in the case of black-footed ferret reintroductions, aerial surveys are used only as a rough guide for identifying potential black-footed ferret habitat for reintroductions. Measurable fluctuations in prairie dog occupancy are a part of the natural dynamics of prairie dog populations, but fluctuations can be especially pronounced in areas experiencing plague or subjected to poisoning. The presence of unoccupied burrows conclusively indicates that prairie dogs occupied the area sometime in the recent past. Thus, while we may use aerial surveys as rough estimate of prairie dog habitat, we do not rely on aerial surveys to identify areas with the highest biological potential for black-footed ferret reintroductions. Reintroduction sites are chosen instead based on a number of other factors including the size, density, health, and overall stability of the prairie dog occupied habitat, information that is gathered from ground surveys and local knowledge of prairie dog colonies in a given area.</P>
+                <P>
+                    States are encouraged to contribute to recovery goals in proportion to the amount of historical ferret habitat (
+                    <E T="03">i.e.,</E>
+                     prairie dog colonies) that once occurred on these lands. The Black-footed Ferret Recovery Plan estimates that 35,000 ac (14,000 ha) of purposefully managed prairie dog occupied habitat will be needed to meet Wyoming's portion of the rangewide habitat goal for downlisting and 70,000 ac (28,000 ha) to meet their portion of the rangewide habitat goal for delisting (USFWS 2013a, Table 8). For the State of Wyoming, this equates to purposeful management of approximately 2 percent of the estimated prairie dog habitat in Wyoming to meet their portion of the rangewide habitat goals for delisting. The best available science supports our estimates of occupied prairie dog habitat and potentially suitable habitat for black-footed ferret reintroductions.
+                </P>
+                <P>
+                    (21) 
+                    <E T="03">Comment:</E>
+                     Several commenters were concerned with potential impacts of black-footed ferret reintroductions on federal oil and gas lessees. They asserted that because federal oil and gas leases are interests in real property, the holder of a federal oil and gas lease is no different than a private surface owner.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     We concluded in the proposed rule and the EA that the most prevalent land use activities, including energy development, currently occurring in the NEP area are compatible with ferret recovery and that there is no information to suggest that future activities would be incompatible with ferret recovery. Federal oil and gas leases will certainly be considered and lessees likely consulted during development of reintroduction proposals for the ferret allocation process. Current and future land management, principal land uses, and potential for change or land management conflicts are serious considerations for all potential reintroduction sites. Reintroduction allocation decisions are made based on a potential reintroduction site's probability for long-term success. We have little interest in allocating ferrets, an exceptionally limited resource, to areas where land management conflicts will be an obvious problem, either currently or in the future.
+                </P>
+                <P>
+                    (22) 
+                    <E T="03">Comment:</E>
+                     One commenter stated that black-footed ferrets are believed to be predators of sage-grouse nests and therefore will have negative impacts on sage-grouse.
+                </P>
+                <P>
+                    <E T="03">Our Response:</E>
+                     Based on our extensive experience with both species in the wild and our review of the scientific literature, we are not aware of any evidence that black-footed ferrets are predators on sage-grouse at any life stage, including nests (eggs), adults, or chicks. Black-footed ferrets depend almost exclusively on prairie dogs for food.
+                </P>
+                <HD SOURCE="HD1">Summary of Changes From Proposed Rule</HD>
+                <P>In our proposed rule, the language under paragraph (g)(9)(viii) stated that âAny black-footed ferret found within the Wyoming Experimental Population Area will be considered part of the nonessential experimental population after the first breeding season following the first year of black-footed ferret release. A black-footed ferret occurring outside of the State of Wyoming would initially be considered as endangered, but may be captured for genetic testing.â</P>
+                <P>As noted by one reviewer, this language was included in earlier 10(j) rules at a time when the discovery of other extant wild ferret populations was still considered plausible. There have been no verified reports of any extant black-footed ferret individuals or populations in any prairie dog complex since the discovery of the last known wild black-footed ferret population near Meeteetse, Wyoming, in 1981. Recently, the Service issued a `block clearance' letter for the ferret in the State of Wyoming (Service 2013c). Block clearance provides an acknowledgement that the likelihood of identifying ferrets in Wyoming, outside of those resulting from reintroductions, is distinctly minimal. Our revision of paragraph (g)(9)(viii) reflects this determination. Thus, once this 10(j) rule becomes effective, any black-footed ferret found within the Wyoming NEP Experimental Population Area will be considered part of the nonessential experimental population. A black-footed ferret that disperses beyond the boundaries of the nonessential experimental population takes on the status of that area (endangered, unless within another nonessential experimental population area).</P>
+                <HD SOURCE="HD1">Finding</HD>
+                <P>
+                    We followed the procedures required by the Act, NEPA, and the Administrative Procedure Act during this Federal rulemaking process. We solicited public comment on the proposed NEP designation. We have considered all comments we received on the proposed rule and the draft EA before making this final determination. Based on the above information, and using the best scientific and commercial data available (in accordance with 50 CFR 17.81), we find that establishing this Wyoming NEP area will further conservation of the species, but that any future experimental populations of black-footed ferrets in Wyoming would not be essential to the continued existence of the species in the wild.
+                    <PRTPAGE P="66835"/>
+                </P>
+                <P>Therefore, we are finalizing our proposal to designate most of Wyoming (the remainder of the State of Wyoming not covered under past NEPs) as an NEP area under section 10(j) of Act. The result of this designation and the two previous designations is that all black-footed ferrets found within the entire State of Wyoming are considered as an NEP. Black-footed ferrets will be managed under the associated NEP regulations, allowing greater management flexibility. We anticipate this will encourage partners to undertake new reintroductions, advancing the conservation and recovery of the species.</P>
+                <HD SOURCE="HD1">Required Determinations</HD>
+                <HD SOURCE="HD2">Regulatory Planning and Review (Executive Orders 12866 and 13563)</HD>
+                <P>Executive Order 12866 provides that the Office of Information and Regulatory Affairs (OIRA) will review all significant rules. The Office of Information and Regulatory Affairs has determined that this rule is not significant.</P>
+                <P>Executive Order 13563 reaffirms the principles of E.O. 12866 while calling for improvements in the nation's regulatory system to promote predictability, to reduce uncertainty, and to use the best, most innovative, and least burdensome tools for achieving regulatory ends. The executive order directs agencies to consider regulatory approaches that reduce burdens and maintain flexibility and freedom of choice for the public where these approaches are relevant, feasible, and consistent with regulatory objectives. E.O. 13563 emphasizes further that regulations must be based on the best available science and that the rulemaking process must allow for public participation and an open exchange of ideas. We have developed this rule in a manner consistent with these requirements.</P>
+                <HD SOURCE="HD2">Regulatory Flexibility Act (5 U.S.C. 601 et seq.)</HD>
+                <P>
+                    Under the Regulatory Flexibility Act (as amended by the Small Business Regulatory Enforcement Fairness Act (SBREFA) of 1996; 5 U.S.C. 801 
+                    <E T="03">et seq.</E>
+                    ), whenever a Federal agency is required to publish a notice of rulemaking for any proposed or final rule, it must prepare, and make available for public comment, a regulatory flexibility analysis that describes the effect of the rule on small entities (
+                    <E T="03">i.e.,</E>
+                     small businesses, small organizations, and small government jurisdictions). However, no regulatory flexibility analysis is required if the head of an agency certifies that the rule will not have a significant economic impact on a substantial number of small entities. The SBREFA amended the Regulatory Flexibility Act to require Federal agencies to provide a statement of the factual basis for certifying that a rule will not have a significant economic impact on a substantial number of small entities. We certify that this rule will not have a significant economic effect on a substantial number of small entities. The following discussion explains our rationale.
+                </P>
+                <P>The area that will be affected by this rule includes release sites in Wyoming and adjacent areas in Wyoming into which black-footed ferrets may disperse. Because of the regulatory flexibility for Federal agency actions provided by the NEP designation and the exemption for incidental take in the 10(j) rule, we do not expect this rule to have significant effects on any activities within Federal, State, or private lands within the NEP. When NEPs are located outside a National Wildlife Refuge or National Park Service unit, then, for the purposes of section 7, we treat the population as proposed for listing and only section 7(a)(1) and section 7(a)(4) apply. In these instances, NEPs provide additional flexibility because Federal agencies are not required to consult with us under section 7(a)(2). Section 7(a)(4) requires Federal agencies to confer (rather than consult) with the Service on actions that are likely to jeopardize the continued existence of a species proposed to be listed. However, because the NEP is, by definition, not essential to the survival of the species, conferring will likely never be required for the black-footed ferret populations within the NEP area. Furthermore, the results of a conference are advisory in nature and do not restrict agencies from carrying out, funding, or authorizing activities. In addition, section 7(a)(1) requires Federal agencies to use their authorities to carry out programs to further the conservation of listed species, which would apply on any lands within the NEP area. As a result, and in accordance with these regulations, some modifications to proposed Federal actions within the NEP area may occur to benefit the black-footed ferret, but we do not expect projects to be halted or substantially modified as a result of these regulations.</P>
+                <P>This 10(j) rule will broadly authorize incidental take of the black-footed ferret within the NEP area. The regulations implementing the Act define âincidental takeâ as take that is incidental to, and not the purpose of, the carrying out of an otherwise lawful activity such as, agricultural activities and other rural development, camping, hiking, hunting, vehicle use of roads and highways, and other activities in the NEP area that are in accordance with Federal, Tribal, State, and local laws and regulations. Intentional take for purposes other than authorized data collection or recovery purposes would not be permitted. Intentional take for research or recovery purposes would require a section 10(a)(1)(A) recovery permit under the Act.</P>
+                <P>
+                    The principal activities on private property in the NEP area are livestock grazing and associated ranch management practices (
+                    <E T="03">e.g.,</E>
+                     fencing, weed treatments). We believe the presence of the black-footed ferret would not affect the use of lands for these purposes because there would be no new or additional economic or regulatory restrictions imposed upon states, non-federal entities, or members of the public due to the presence of the black-footed ferret, and federal agencies would only have to comply with sections 7(a)(1) and 7(a)(4) of the Act in these areas. Therefore, this rulemaking is not expected to have any significant adverse impacts to activities on private lands within the NEP area.
+                </P>
+                <HD SOURCE="HD2">Unfunded Mandates Reform Act (2 U.S.C. 1501 et seq.)</HD>
+                <P>
+                    In accordance with the Unfunded Mandates Reform Act (2 U.S.C. 1501 
+                    <E T="03">et seq.</E>
+                    ):
+                </P>
+                <P>
+                    (1) This rule will not âsignificantly or uniquelyâ affect small governments. We have determined and certify pursuant to the Unfunded Mandates Reform Act, 2 U.S.C. 1502 
+                    <E T="03">et seq.,</E>
+                     that this rulemaking will not impose a cost of $100 million or more in any given year on local or state governments or private entities. A Small Government Agency Plan is not required. Small governments will not be affected because the NEP designation does not place additional requirements on any city, county, or other local municipalities.
+                </P>
+                <P>
+                    (2) This rule will not produce a Federal mandate of $100 million or greater in any year (
+                    <E T="03">i.e.,</E>
+                     it is not a âsignificant regulatory actionâ under the Unfunded Mandates Reform Act). This NEP designation for the black-footed ferret will not impose any additional management or protection requirements on the States or other entities.
+                </P>
+                <HD SOURCE="HD2">Takings (E.O. 12630)</HD>
+                <P>
+                    In accordance with Executive Order 12630, this final rule does not have significant takings implications. This rule allows for the take of reintroduced black-footed ferret when such take is incidental to an otherwise legal activity, such as recreation (
+                    <E T="03">e.g.,</E>
+                     hiking, hunting, 
+                    <PRTPAGE P="66836"/>
+                    fishing, bird watching), forestry, agriculture, and other activities that are in accordance with Federal, State, and local laws and regulations. Therefore, we do not believe that establishment of this NEP will conflict with existing or proposed human activities or hinder public use of ferret habitat in Wyoming.
+                </P>
+                <P>A takings implication assessment is not required because this rule: (1) Will not effectively compel a property owner to suffer a physical invasion of property, and (2) will not deny any economically beneficial or productive use of the land or aquatic resources. This rule will substantially advance a legitimate public interest (conservation and recovery of a listed species) and will not present a barrier to all reasonable and expected beneficial use of private property.</P>
+                <HD SOURCE="HD2">Federalism (E.O. 13132)</HD>
+                <P>In accordance with Executive Order 13132 (70 FR 23775), we have considered whether this final rule has significant Federalism effects and have determined that a federalism summary impact statement is not required. This rule will not have substantial direct effects on the states, on the relationship between the Federal government and the states, or on the distribution of power and responsibilities among the various levels of government. In keeping with Department of the Interior policy, we requested information from and coordinated development of this final rule with the affected resource agencies in Wyoming. Achieving the recovery goals for this species will contribute to its eventual delisting and return to state management. No intrusion on state policy or administration is expected, roles or responsibilities of Federal or State governments will not change, and fiscal capacity will not be substantially directly affected. The final 10(j) rule operates to maintain the existing relationship between the State and the Federal governments and is being undertaken in coordination with the State of Wyoming. We have cooperated with WGFD in the preparation of this final rule. Therefore, this final rule does not have significant Federalism effects or implications to warrant the preparation of a federalism summary impact statement pursuant to the provisions of Executive Order 13132.</P>
+                <HD SOURCE="HD2">Civil Justice Reform (E.O. 12988)</HD>
+                <P>In accordance with Executive Order 12988, the Office of the Solicitor has determined that this rule does not unduly burden the judicial system and meets the requirements of sections (3)(a) and (3)(b)(2) of the Order.</P>
+                <HD SOURCE="HD2">Paperwork Reduction Act</HD>
+                <P>
+                    Office of Management and Budget (OMB) regulations at 5 CFR 1320, which implement provisions of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    ), require that Federal agencies obtain OMB approval before collecting information from the public. This final rule does not include any new collections of information that require OMB approval under the Paperwork Reduction Act. OMB has approved our collection of information associated with reporting the taking of experimental populations (50 CFR 17.84) and assigned OMB Control Number 1018-0095, which expires on October 31, 2017. We may not conduct or sponsor and a person is not required to respond to a collection of information unless it displays a currently valid OMB control number.
+                </P>
+                <HD SOURCE="HD2">National Environmental Policy Act</HD>
+                <P>
+                    In compliance with all provisions of the National Environmental Policy Act of 1969 (NEPA; 42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ), we have analyzed the impact of this rule. Based on this analysis and information resulting from public comment on the proposed action, we determined that this action will not have significant impacts or effects. We have prepared a final EA and finding of no significant impact on this action, which are available for public inspection: (1) In person at the Wyoming Ecological Services Field Office (see 
+                    <E T="02">ADDRESSES</E>
+                    ) and (2) online at 
+                    <E T="03">http://www.regulations.gov.</E>
+                     All appropriate NEPA documents were finalized before this rule was finalized.
+                </P>
+                <HD SOURCE="HD2">Government-to-Government Relationship With Tribes</HD>
+                <P>In accordance with the presidential memorandum of April 29, 1994, âGovernment-to-Government Relations with Native American Tribal Governmentsâ (59 FR 229511), Executive Order 13175 (65 FR 67249), and the Department of the Interior Manual Chapter 512 DM 2, we have considered possible effects on federally recognized Indian Tribes and have determined that Tribal lands overlap the Wyoming NEP in portions of Fremont and Hot Springs Counties. However, participation in black-footed ferret recovery is entirely voluntary. If suitable habitat for ferret recovery is available, non-Federal landowners, including Tribes, may choose to either not participate, or to participate through authorities under 10(j), 10(a)(1)(A), or the Safe Harbor Agreement (USFWS 2013b). If ferrets were reintroduced on non-tribal lands adjacent to Tribal lands and subsequently dispersed onto Tribal lands, the aforementioned authorities will provide a more relaxed regulatory situation under the Act through allowances for incidental take. However, as stated previously, we are not aware of any prairie dog complexes suitable for ferret reintroduction on or adjacent to Tribal lands. The nearest potential reintroduction sites are two white-tailed prairie dog complexesâFifteen-mile Complex near Worland in Hot Springs County, and Sweetwater Complex near Sweetwater Station in Fremont County (Luce 2008, pp. 29-30). Both sites are of intermediate potential for ferret reintroduction and are located approximately 19 miles (30 kilometers) from reservation boundaries. We sent letters, describing our proposed action and requesting input, to the Northern Arapaho and Eastern Shoshone Tribes of the Wind River Reservation on September 4, 2014. We did not receive a response from either Tribe.</P>
+                <HD SOURCE="HD2">Energy Supply, Distribution, or Use (E.O. 13211)</HD>
+                <P>Executive Order 13211 requires agencies to prepare Statements of Energy Effects when undertaking certain actions. This rule is not expected to significantly affect energy supplies, distribution, or use. Therefore, this action is not a significant energy action, and no Statement of Energy Effects is required.</P>
+                <HD SOURCE="HD1">References Cited</HD>
+                <P>
+                    A complete list of all references cited in this rule is available on the Internet at 
+                    <E T="03">http://www.regulations.gov</E>
+                     at Docket No. FWS-R6-ES-2015-0013, or upon request from the Wyoming Ecological Services Field Office (see 
+                    <E T="02">ADDRESSES</E>
+                    ).
+                </P>
+                <HD SOURCE="HD1">Authors</HD>
+                <P>
+                    The authors of this final rule are staff members of the Wyoming Ecological Services Field Office (see 
+                    <E T="02">ADDRESSES</E>
+                    ).
+                </P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 50 CFR Part 17</HD>
+                    <P>Endangered and threatened species, Exports, Imports, Reporting and recordkeeping requirements, Transportation.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Regulation Promulgation</HD>
+                <P>Accordingly, we hereby amend part 17, subchapter B of chapter I, title 50 of the Code of Federal Regulations, as set forth below:</P>
+                <REGTEXT TITLE="50" PART="17">
+                    <PART>
+                        <HD SOURCE="HED">PART 17â[AMENDED]</HD>
+                    </PART>
+                    <AMDPAR>1. The authority citation for part 17 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>16 U.S.C. 1361-1407; 1531-1544; and 4201-4245, unless otherwise noted.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="50" PART="17">
+                    <PRTPAGE P="66837"/>
+                    <AMDPAR>2. Amend Â§â17.11(h) by revising the entry for âFerret, black-footedâ under MAMMALS in the List of Endangered and Threatened Wildlife to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â17.11 </SECTNO>
+                        <SUBJECT>Endangered and threatened wildlife.</SUBJECT>
+                        <STARS/>
+                        <P>(h) * *  *</P>
+                        <GPOTABLE COLS="8" OPTS="L1,tp0,i1" CDEF="s50,r50,r75,r100,8,12,8,8">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Species</CHED>
+                                <CHED H="2">Common name</CHED>
+                                <CHED H="2">Scientific name</CHED>
+                                <CHED H="1">Historic range</CHED>
+                                <CHED H="1">Vertebrate population where endangered or threatened</CHED>
+                                <CHED H="1">Status</CHED>
+                                <CHED H="1">When listed</CHED>
+                                <CHED H="1">Critical habitat</CHED>
+                                <CHED H="1">Special rules</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="21">
+                                    <E T="04">Mammals</E>
+                                </ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">Ferret, black-footed</ENT>
+                                <ENT>
+                                    <E T="03">Mustela nigripes</E>
+                                </ENT>
+                                <ENT>Western U.S.A., Western Canada, Mexico</ENT>
+                                <ENT>Entire, except where listed as an experimental population</ENT>
+                                <ENT>E</ENT>
+                                <ENT>1, 3, 433, 545, 546, 582, 646, 703, 737, 860</ENT>
+                                <ENT>NA</ENT>
+                                <ENT>NA</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">Ferret, black-footed</ENT>
+                                <ENT>
+                                    <E T="03">Mustela nigripes</E>
+                                </ENT>
+                                <ENT>Western U.S.A., Western Canada, Mexico</ENT>
+                                <ENT>U.S.A. (WY and specified portions of AZ, CO, MT, SD, and UT, see 17.84(g)(9))</ENT>
+                                <ENT>XN</ENT>
+                                <ENT>433, 545, 546, 582, 646, 703, 737, 860</ENT>
+                                <ENT>NA</ENT>
+                                <ENT>17.84(g)</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="50" PART="17">
+                    <AMDPAR>3. Amend Â§â17.84 by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraphs (g)(1) and (g)(6)(i);</AMDPAR>
+                    <AMDPAR>b. Adding paragraph (g)(9)(viii); and</AMDPAR>
+                    <AMDPAR>c. Adding a map entitled âWyoming Nonessential Experiment Population (NEP) Area for the Black-footed Ferretâ immediately following the map entitled âRosebud Sioux Tribe ITOPA SAPA KIN (Black-footed Ferret) Experimental Population AreaâSouth Dakota.â</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â17.84 </SECTNO>
+                        <SUBJECT>Special rulesâvertebrates.</SUBJECT>
+                        <STARS/>
+                        <P>(g) * *  *</P>
+                        <P>(1) The black-footed ferret populations identified in paragraphs (g)(9)(i) through (viii) of this section are nonessential experimental populations. We will manage each of these populations, and each reintroduction site within the Wyoming Experimental Population Area, in accordance with their respective management plans.</P>
+                        <STARS/>
+                        <P>(6) *  *  *</P>
+                        <P>(i) Report such taking in Wyoming, including the Shirley Basin/Medicine Bow experimental population area, to the Field Supervisor, Ecological Services, Fish and Wildlife Service, Cheyenne, Wyoming (telephone: 307/772-2374).</P>
+                        <STARS/>
+                        <P>(9) *  *  *</P>
+                        <P>(viii) The Wyoming Experimental Population Area encompasses most of the State of Wyoming. The boundaries of the nonessential experimental population include all areas in the State of Wyoming outside of the Shirley Basin/Medicine Bow Management Area (see paragraph (g)(9)(i) of this section) and the small portion of Wyoming included as part of the Northwestern Colorado/Northeastern Utah Experimental Population Area (see paragraph (g)(9)(v) of this section). Collectively, however, these three 10(j) areas cover the entire State of Wyoming. Any black-footed ferret found within the Wyoming NEP Experimental Population Area will be considered part of a nonessential experimental population. A black-footed ferret that disperses beyond the boundaries of the nonessential experimental population area takes on the status of that area (endangered, unless within another nonessential experimental population area). Such animals may be captured for genetic testing and relocation. If necessary, disposition of the captured animal may occur in the following ways:</P>
+                        <P>(A) If an animal is genetically determined to have originated from the experimental population, we may return it to the reintroduction area or to a captive-breeding facility.</P>
+                        <P>(B) If an animal is determined to be genetically unrelated to the experimental population, we will place it in captivity under an existing contingency plan.</P>
+                        <STARS/>
+                        <GPH SPAN="3" DEEP="587">
+                            <PRTPAGE P="66838"/>
+                            <GID>ER30OC15.016</GID>
+                        </GPH>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <DATED>Dated: October 21, 2015.</DATED>
+                    <NAME>Michael J. Bean,</NAME>
+                    <TITLE>Principal Deputy Assistant Secretary for Fish and Wildlife and Parks.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2015-27639 Filed 10-29-15; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 4333-15-P</BILCOD>
+        </RULE>

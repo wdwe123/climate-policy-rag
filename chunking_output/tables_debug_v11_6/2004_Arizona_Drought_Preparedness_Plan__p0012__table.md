@@ -1,0 +1,5 @@
+[TABLE]
+| Extreme (Eliminate Non- Essential Water Use) | State Government Will: | Communities/Utilities Need to: | Individuals Need to: |
+| --- | --- | --- | --- |
+|  | Communicate conditions,; promote general conservation; tips, provide information on; drought mitigation and; response options; Require State Facilities to; eliminate watering of non-; essential outdoor watering; (exceptions for wildlife; protection); Provide water hauling; assistance/relief to commu | Continue aforementioned; restrictions from moderate and; severe stages; Communicate conditions,; increase outreach and promote; conservation tips; Eliminate outdoor watering:; no misters in commercial or; public facilities, limit; residential car washing,; prohibit water used in; fountains, prohibit | Eliminate outdoor watering; Use covers to reduce; evaporation from pools; Take extra steps to reduce; indoor water use; Reuse water; . Reuse dishwater for plants; . Capture shower water in; buckets use for watering; plants; . Divert pool back wash to; Iandscaping rather than; discharging into the st |
+[/TABLE]

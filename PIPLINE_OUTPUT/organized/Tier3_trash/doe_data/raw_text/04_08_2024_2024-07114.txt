@@ -1,0 +1,2832 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 68 (Monday, April 8, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 68 (Monday, April 8, 2024)]
+[Rules and Regulations]
+[Pages 24340-24363]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-07114]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF ENERGY
+
+10 CFR Part 430
+
+[EERE-2021-BT-STD-0003]
+RIN 1904-AF13
+
+
+Energy Conservation Program for Appliance Standards: Procedures, 
+Interpretations, and Policies for Consideration in New or Revised 
+Energy Conservation Standards and Test Procedures for Consumer Products 
+and Commercial/Industrial Equipment
+
+AGENCY: Office of Energy Efficiency and Renewable Energy (EERE), 
+Department of Energy.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Department of Energy (``DOE'' or the ``Department'') 
+is revising its ``Procedures, Interpretations, and Policies for 
+Consideration of New or Revised Energy Conservation Standards and Test 
+Procedures for Consumer Products and Certain Commercial/Industrial 
+Equipment.'' The revisions are consistent with current DOE practice and 
+will allow DOE to better meet its statutory obligations under the 
+Energy Policy and Conservation Act (``EPCA'').
+
+DATES: This rule is effective June 24, 2024.
+
+ADDRESSES: The docket for this rulemaking, which includes Federal 
+Register notices, comments, and other supporting documents/materials, 
+is available for review at <a href="http://www.regulations.gov">www.regulations.gov</a>. All documents in the 
+docket are listed in the <a href="http://www.regulations.gov">www.regulations.gov</a> index. However, not all 
+documents listed in the index may be publicly available, such as 
+information that is exempt from public disclosure. The docket web page 
+can be found at: <a href="http://www.regulations.gov/docket/EERE-2021-BT-STD-0003">www.regulations.gov/docket/EERE-2021-BT-STD-0003</a>. The 
+docket web page contains instructions on how to access all documents, 
+including public comments, in the docket.
+
+FOR FURTHER INFORMATION CONTACT: 
+    Mr. Lucas Adin, U.S. Department of Energy, Office of Energy 
+Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 
+1000 Independence Avenue SW, Washington, DC 20585-0121. Email:
+
+[[Page 24341]]
+
+<a href="/cdn-cgi/l/email-protection#b1f0c1c1ddd8d0dfd2d4e2c5d0dfd5d0c3d5c2e0c4d4c2c5d8dedfc2f1d4d49fd5ded49fd6dec7"><span class="__cf_email__" data-cfemail="dd9cadadb1b4bcb3beb88ea9bcb3b9bcafb9ae8ca8b8aea9b4b2b3ae9db8b8f3b9b2b8f3bab2ab">[email&#160;protected]</span></a>.
+    Ms. Ani Esenyan, U.S. Department of Energy, Office of the General 
+Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585. 
+Telephone: (240) 961-8713. Email: <a href="/cdn-cgi/l/email-protection#3b5a5552155e485e55425a557b534a155f545e155c544d"><span class="__cf_email__" data-cfemail="5d3c333473382e3833243c331d352c73393238733a322b">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Table of Contents
+
+I. Summary of the Final Rule
+II. Authority and Background
+    A. Authority
+    B. Background
+III. Discussion of Specific Revisions to Appendix A
+    A. Coverage Determinations
+    B. Process for Developing Energy Conservation Standards
+    C. Process for Developing Test Procedures
+    D. ASHRAE Equipment
+    E. Analytical Methodology
+    F. Other Topics
+IV. Procedural Issues and Regulatory Review
+    A. Review Under Executive Orders 12866 and 13563
+    B. Review Under the Regulatory Flexibility Act
+    C. Review Under the Paperwork Reduction Act of 1995
+    D. Review Under the National Environmental Policy Act of 1969
+    E. Review Under Executive Order 13132
+    F. Review Under Executive Order 12988
+    G. Review Under the Unfunded Mandates Reform Act of 1995
+    H. Review Under the Treasury and General Government 
+Appropriations Act, 1999
+    I. Review Under Executive Order 12630
+    J. Review Under the Treasury and General Government 
+Appropriations Act, 2001
+    K. Review Under Executive Order 13211
+    L. Review Consistent With OMB's Information Quality Bulletin for 
+Peer Review
+    M. Congressional Notification
+V. Approval of the Office of the Secretary
+
+I. Summary of the Final Rule
+
+    In July of 1996, the United States Department of Energy (``DOE'' or 
+``the Department'') issued a final rule that codified DOE's 
+``Procedures, Interpretations and Policies for Consideration of New or 
+Revised Energy Conservation Standards for Consumer Products'' at 10 CFR 
+part 430, subpart C, appendix A (``appendix A''). 61 FR 36974 (July 15, 
+1996) (``July 1996 Final Rule''). The July 1996 Final Rule acknowledged 
+that the guidance contained in appendix A would not apply to every 
+rulemaking and that the circumstances of a particular rulemaking should 
+dictate application of these generally applicable practices. 61 FR 
+36979.
+    On February 14, 2020, DOE published a final rule (``February 2020 
+Final Rule'') in the Federal Register that made significant revisions 
+to appendix A. 85 FR 8626. DOE also published a companion final rule on 
+August 19, 2020 (``August 2020 Final Rule''), that clarified how DOE 
+would conduct a comparative analysis across all energy conservation 
+standard ``trial standard levels'' (``TSLs'') when determining whether 
+a particular TSL was economically justified. See 85 FR 50937. Contrary 
+to the July 1996 Final Rule, the revisions made in the February 2020 
+Final Rule sought to create a standardized rulemaking process that was 
+binding on the Department. 85 FR 8626, 8634. In creating this ``one-
+size-fits-all'' approach, the February 2020 Final Rule and the August 
+2020 Final Rule also added additional steps to the rulemaking process 
+that are not required by any applicable statute.
+    Subsequent events have caused DOE to reconsider the merits of a 
+one-size-fits-all rulemaking approach to establishing and amending 
+energy conservations standards and test procedures. Two of these events 
+are particularly salient. First, on October 30, 2020, a coalition of 
+non-governmental organizations filed suit under EPCA alleging that DOE 
+has failed to meet rulemaking deadlines for 25 different consumer 
+products and commercial equipment.\1\ On November 9, 2020, a coalition 
+of States filed a virtually identical lawsuit.\2\ In response to these 
+lawsuits, DOE has reconsidered whether the benefits of a one-size-fits-
+all rulemaking approach outweigh the increased difficulty such an 
+approach poses in meeting DOE's statutory deadlines and obligations 
+under EPCA. As mentioned previously, the July 1996 Final Rule allowed 
+for ``case-specific deviations and modifications of the generally 
+applicable rule.'' 61 FR 36974, 36979. This allowed DOE to tailor 
+rulemaking procedures to fit the specific circumstances of a particular 
+rulemaking. For example, under the July 1996 Final Rule, minor 
+modifications to a test procedure would not automatically result in a 
+180-day delay before DOE could issue a notice of proposed energy 
+conservation standards. Eliminating these unnecessary delays would 
+better enable DOE to clear this backlog of missed rulemaking deadlines 
+in a timely manner and meet future obligations and deadlines under EPCA 
+while not affecting the ability of any interested person, including 
+small entities, to participate in DOE's rulemaking process. Further, 
+the sooner new or amended energy conservation standards eliminate less-
+efficient covered products and equipment from the market, the greater 
+the resulting energy savings and environmental benefits.
+---------------------------------------------------------------------------
+
+    \1\ Natural Resources Defense Council v. DOE, Case No. 20-cv-
+9127 (S.D.N.Y. 2020).
+    \2\ State of New York v. DOE, Case No. 20-cv-9362 (S.D.N.Y. 
+2020).
+---------------------------------------------------------------------------
+
+    Second, on January 20, 2021, the White House issued Executive Order 
+13990, ``Protecting Public Health and the Environment and Restoring 
+Science to Tackle the Climate Crisis.'' 86 FR 7037 (Jan. 25, 2021). 
+Section 1 of that order lists a number of policies related to the 
+protection of public health and the environment, including reducing 
+greenhouse gas emissions and bolstering the Nation's resilience to 
+climate change. Id. at 86 FR 7037, 7041. Section 2 of the order 
+instructs all agencies to review ``existing regulations, orders, 
+guidance documents, policies, and any other similar agency actions 
+(agency actions) promulgated, issued, or adopted between January 20, 
+2017, and January 20, 2021, that are or may be inconsistent with, or 
+present obstacles to, [these policies].'' Id. Agencies are then 
+directed, as appropriate and consistent with applicable law, to 
+consider suspending, revising, or rescinding these agency actions and 
+to immediately commence work to confront the climate crisis. Id. Under 
+that same section, for certain explicitly enumerated agency actions, 
+including the February 2020 and the August 2020 Final Rules, the order 
+directs agencies to consider publishing for notice and comment a 
+proposed rule suspending, revising, or rescinding the agency action 
+within a specific time frame. Under this mandate, DOE was directed to 
+propose any major revisions to these two rules by March 2021, with any 
+remaining revisions to be proposed by June 2021. Id. at 86 FR 7038.
+    In light of these events, DOE has identified several aspects of the 
+February 2020 and the August 2020 Final Rules that present obstacles to 
+DOE's ability to expeditiously clear the backlog of missed rulemaking 
+deadlines while meeting future obligations under EPCA. In accordance 
+with E.O. 13990, DOE proposed major revisions to appendix A in a notice 
+of proposed rulemaking (``NOPR'') that was published on April 12, 2021 
+(``April 2021 NOPR''). 86 FR 18901. DOE proposed additional revisions 
+to appendix A in a second NOPR that was published on July 7, 2021 
+(``July 2021 NOPR''). 86 FR 35668. DOE finalized the major revisions 
+from the April 2021 NOPR in a final rule published on December 13, 2021 
+(``December 2021 Final Rule''). 86 FR 70892.
+    In this document, DOE is finalizing the revisions listed in table 
+I.1. As noted in the table, DOE is not finalizing any
+
+[[Page 24342]]
+
+of the proposed revisions that would have updated the methodology 
+sections in appendix A to reflect the Department's current rulemaking 
+practice. Prior to issuing the July 2021 NOPR, DOE had entered into a 
+contract with the National Academies of Sciences, Engineering, and 
+Medicine (``NAS'') to conduct a peer review of the analytical methods 
+used in the Department's energy conservation standards rulemakings. The 
+peer review was originally scheduled to be completed in May of 2020. 
+However, when DOE began to consider revisions to appendix A in early 
+2021, the NAS peer review process was still ongoing without a 
+definitive completion date. At that point, DOE decided that the 
+benefits of updating the analytical methodology in the July 1996 Final 
+Rule to reflect the Department's current practice outweighed the 
+potential inefficiency of having to amend these methods again in a 
+subsequent proceeding. As a result, the July 2021 NOPR contained 
+proposed revisions to the methodology sections in appendix A. DOE 
+stated that if it made any revisions to its analytical methods based on 
+the NAS peer review, the Department would propose any necessary 
+corresponding revisions to appendix A in a subsequent proceeding. Id. 
+at 86 FR 35677.
+    In response to the July 2021 NOPR, DOE received numerous comments 
+from stakeholders that the Department should wait to revise its 
+analytical methodologies until NAS had completed its peer review. (See, 
+e.g., Carrier, No. 54 at p. 4; Lutron, No. 64 at p. 4; GEA, No. 72 at 
+p. 4; Joint Industry Commenters, No. 62 at pp. 10-11) \3\ While DOE was 
+in the process of considering those comments, NAS completed the peer 
+review and transmitted to DOE its report, ``Review of Methods Used by 
+the U.S. Department of Energy in Setting Appliance and Equipment 
+Standards'' (``NAS Report''), on January 7, 2022.\4\ In light of the 
+publication of the NAS report and stakeholder comments in response to 
+the July 2021 NOPR, DOE has decided not to finalize the proposed 
+revisions to the methodology sections in appendix A in this rule. 
+Instead, DOE will consider changes to its methodologies in a separate 
+notice-and-comment process that is informed by the results of the NAS 
+Report.
+---------------------------------------------------------------------------
+
+    \3\ The parenthetical reference provides a reference for 
+information located in the docket of DOE's rulemaking to revise 
+appendix A. (Docket No. EERE-2021-BT-STD-0003, which is maintained 
+at <a href="http://www.regulations.gov">www.regulations.gov</a>) The references are arranged as follows: 
+(commenter name, comment docket ID number, page of that document).
+    \4\ The NAS Report is available at <a href="http://www.nap.edu/catalog/25992/review-of-methods-used-by-the-us-department-of-energy-in-setting-appliance-and-equipment-standards">www.nap.edu/catalog/25992/review-of-methods-used-by-the-us-department-of-energy-in-setting-appliance-and-equipment-standards</a>.
+
+                                  Table I.1--List of Revisions in This Document
+----------------------------------------------------------------------------------------------------------------
+                                          Proposed revisions from the July
+                Section                              2021 NOPR                         Final revisions
+----------------------------------------------------------------------------------------------------------------
+1. Objectives.........................  No revisions proposed..............  No revisions.
+2. Scope..............................  No revisions proposed..............  No revisions.
+3. Mandatory Application of the         No revisions proposed..............  No revisions.
+ Process Rule.
+4. Setting Priorities for Rulemaking    No revisions proposed..............  No revisions.
+ Activity.
+5. Coverage Determination Rulemakings.  Revise introductory text and         Revised, as proposed, introductory
+                                         paragraph (a) to eliminate the       text and paragraph (a) to
+                                         requirement that a coverage          eliminate the requirement that a
+                                         determination rulemaking begins      coverage determination rulemaking
+                                         with a notice of proposed            begins with a notice of proposed
+                                         determination and allow DOE to       determination and allow DOE to
+                                         seek early stakeholder input         seek early stakeholder input
+                                         through preliminary rulemaking       through preliminary rulemaking
+                                         documents; revise paragraphs (b)     documents; revise paragraphs (b)
+                                         and (c) to eliminate the             and (c) to eliminate the
+                                         requirement that final coverage      requirement that final coverage
+                                         determinations be published prior    determinations be published prior
+                                         to the initiation of any test        to the initiation of any test
+                                         procedure or energy conservation     procedure or energy conservation
+                                         standard rulemaking and at least     standard rulemaking and at least
+                                         180 days prior to publication of a   180 days prior to publication of a
+                                         test procedure NOPR; revise          test procedure NOPR; revise
+                                         paragraph (d) to allow DOE to        paragraph (d) to allow DOE to
+                                         propose, if necessary, an amended    propose, if necessary, an amended
+                                         coverage determination before        coverage determination before
+                                         proceeding with a test procedure     proceeding with a test procedure
+                                         or standards rulemaking.             or standards rulemaking.
+6. Process for Developing Energy        Revise to modify these provisions    Revised, as proposed, to allow for
+ Conservation Standards.                 to allow for a more expedited        a more expedited rulemaking
+                                         rulemaking process in appropriate    process in appropriate cases,
+                                         cases, including but not limited     including but not limited to
+                                         to eliminating the requirement for   eliminating the requirement for a
+                                         a separate early assessment          separate early assessment request
+                                         request for information (``RFI'')    for information (``RFI'') and
+                                         and clarify that DOE will issue      clarify that DOE will issue one or
+                                         one or more documents during the     more documents during the pre-NOPR
+                                         pre-NOPR stage of a rulemaking and   stage of a rulemaking and
+                                         revisions to clarify public          revisions to clarify public
+                                         comment periods for pre-NOPR and     comment periods for pre-NOPR and
+                                         NOPR documents.                      NOPR documents.
+7. Policies on Selection of Standards.  No revisions proposed..............  No revisions.
+8. Test Procedures....................  Revise paragraph (a) to eliminate    Revised, as proposed, paragraph (a)
+                                         the requirement for a separate       to eliminate the requirement for a
+                                         early assessment RFI and clarify     separate early assessment RFI and
+                                         that DOE will issue one or more      clarify that DOE will issue one or
+                                         documents during the pre-NOPR        more documents during the pre-NOPR
+                                         stage of a rulemaking; revise        stage of a rulemaking; paragraphs
+                                         paragraphs (a) and (b) to clarify    (a) and (b) to clarify public
+                                         public comment periods for pre-      comment periods for pre-NOPR and
+                                         NOPR and NOPR documents and          NOPR documents and eliminate the
+                                         eliminate the requirement that DOE   requirement that DOE identify
+                                         identify necessary modifications     necessary modifications to a test
+                                         to a test procedure prior to         procedure prior to initiating an
+                                         initiating an associated energy      associated energy conservation
+                                         conservation standard rulemaking.    standard rulemaking.
+9. ASHRAE Equipment...................  Revise section to follow ASHRAE      Revised section to follow ASHRAE
+                                         rulemaking requirements in EPCA.     rulemaking requirements in EPCA.
+10. Direct Final Rules................  No revisions proposed..............  No revisions.
+11. Principles for Distinguishing       No revisions proposed..............  No revisions.
+ Between Effective and Compliance
+ Dates.
+12. Principles for the Conduct of the   Revise to reflect current DOE        No revisions.
+ Engineering Analysis.                   rulemaking practice.
+13. Principles for the Analysis of      Revise to reflect current DOE        No revisions.
+ Impacts on Manufacturers.               rulemaking practice.
+
+[[Page 24343]]
+
+ 
+14. Principles for the Analysis of      Revise to reflect current DOE        No revisions.
+ Impacts on Consumers.                   rulemaking practice.
+15. Consideration of Non-Regulatory     Revise to reflect current DOE        No revisions.
+ Approaches.                             rulemaking practice.
+16. Cross-Cutting Analytical            Revise to reflect current DOE        No revisions.
+ Assumptions.                            rulemaking practice; move
+                                         discussion of emissions analysis
+                                         into new section 17.
+----------------------------------------------------------------------------------------------------------------
+* As part of the proposed revisions, DOE will reorganize and redesignate sections and paragraphs as required.
+
+II. Authority and Background
+
+A. Authority
+
+    Title III, Parts B \5\ and C \6\ of the Energy Policy and 
+Conservation Act, as amended, (``EPCA'' or ``the Act''), Public Law 94-
+163 (42 U.S.C. 6291-6317, as codified), established the Energy 
+Conservation Program for Consumer Products and Certain Industrial 
+Equipment.\7\ Under EPCA, DOE's energy conservation program for covered 
+products consists essentially of four parts: (1) testing; (2) 
+certification and enforcement procedures; (3) establishment of Federal 
+energy conservation standards; and (4) labeling. Subject to certain 
+criteria and conditions, DOE is required to develop test procedures to 
+measure the energy efficiency, energy use, water use (as applicable), 
+or estimated annual operating cost of each covered product and covered 
+equipment during a representative average use cycle or period of use. 
+(42 U.S.C. 6293; 42 U.S.C. 6314) Manufacturers of covered products and 
+covered equipment must use the prescribed DOE test procedure when 
+certifying to DOE that their products and equipment comply with the 
+applicable energy conservation standards adopted under EPCA and when 
+making any other representations to the public regarding the energy use 
+or efficiency of those products. (42 U.S.C. 6293(c); 42 U.S.C. 6295(s); 
+42 U.S.C. 6314(a); and 42 U.S.C. 6316(a)) Similarly, DOE must use these 
+test procedures to determine whether the products comply with energy 
+conservation standards adopted pursuant to EPCA. (42 U.S.C. 6295(s); 42 
+U.S.C. 6316(a))
+---------------------------------------------------------------------------
+
+    \5\ For editorial reasons, upon codification in the U.S. Code, 
+part B was redesignated part A.
+    \6\ Part C was added by Public Law 95-619, title IV, section 
+441(a). For editorial reasons, upon codification in the U.S. Code, 
+part C was redesignated part A-1.
+    \7\ All references to EPCA in this document refer to the statute 
+as amended through Energy Act of 2020, Public Law 116-260 (Dec. 27, 
+2020).
+---------------------------------------------------------------------------
+
+    In addition, pursuant to EPCA, any new or amended energy 
+conservation standard for covered products (and at least certain types 
+of equipment) must be designed to achieve the maximum improvement in 
+energy efficiency that is technologically feasible and economically 
+justified. (42 U.S.C. 6295(o)(2)(A); 42 U.S.C. 6316(a)) In determining 
+whether a standard is economically justified, EPCA requires DOE, to the 
+greatest extent practicable, to consider the following seven factors: 
+(1) the economic impact of the standard on the manufacturers and 
+consumers; (2) the savings in operating costs, throughout the estimated 
+average life of the products (i.e., life-cycle costs), compared with 
+any increase in the price of, or in the initial charges for, or 
+operating and maintaining expenses of, the products which are likely to 
+result from the imposition of the standard; (3) the total projected 
+amount of energy, or as applicable, water, savings likely to result 
+directly from the imposition of the standard; (4) any lessening of the 
+utility or the performance of the products likely to result from the 
+imposition of the standard; (5) the impact of any lessening of 
+competition, as determined in writing by the Attorney General, that is 
+likely to result from the imposition of the standard; (6) the need for 
+national energy and water conservation; and (7) other factors DOE finds 
+relevant. (42 U.S.C. 6295(o)(2)(B)(i)) Furthermore, the new or amended 
+standard must result in a significant conservation of energy (42 U.S.C. 
+6295(o)(3)(B); 42 U.S.C. 6313(a)(6); and 42 U.S.C. 6316(a)) and comply 
+with any other applicable statutory provisions.
+
+B. Background
+
+    DOE conducted an effort between 1995 and 1996 to improve the 
+process it follows to develop energy conservation standards for covered 
+appliance products. As part of this effort, DOE reached out to many 
+different stakeholders, including manufacturers, energy-efficiency 
+advocates, trade associations, State agencies, utilities, and other 
+interested parties for input on the procedures, interpretations, and 
+policies used by DOE in considering whether to issue new or amended 
+energy conservation standards. This process resulted in publication of 
+the July 1996 Final Rule which codified these procedures, 
+interpretations, and policies in appendix A. The goal of the July 1996 
+Final Rule was to elaborate on the procedures, interpretations, and 
+policies that would guide the Department in establishing new or revised 
+energy conservation standards for consumer products. The rule was 
+issued without notice and comment under the Administrative Procedure 
+Act's (``APA'') exception for ``interpretative rules, general 
+statements of policy, or rules of agency organization, procedure, or 
+practice.'' (5 U.S.C. 553(b)(A))
+    On December 18, 2017, DOE issued a request for information 
+(``RFI'') on potential revisions to appendix A. 82 FR 59992. DOE 
+subsequently published a NOPR regarding appendix A in the Federal 
+Register on February 13, 2019. 84 FR 3910. On July 26, 2019, DOE 
+subsequently issued a notice of data availability (``NODA'') in the 
+Federal Register. 84 FR 36037 (``July 2019 NODA''). After considering 
+the comments it received DOE then published a final rule in the Federal 
+Register on February 14, 2020, which significantly revised appendix A. 
+85 FR 8626.
+    While DOE issued the July 1996 Final Rule without notice and 
+comment as an interpretative rule, general statement of policy, or rule 
+of agency organization, procedure, or practice, the February 2020 Final 
+Rule was issued with notice and comment. As discussed in the December 
+2021 Final Rule, DOE believes appendix A is best described and utilized 
+not as a legislative rule but instead as generally applicable guidance 
+that may guide, but not bind, the Department's rulemaking process. In 
+accordance with Executive Order 13990, DOE used a notice and comment 
+process to revise appendix A. 86 FR 7037. DOE held a public webinar for 
+the July 2021 NOPR on August 10, 2021.
+
+[[Page 24344]]
+
+    In response to the July 2021 NOPR and public webinar, DOE received 
+comments from the following parties:
+
+                                         Table II.1--List of Commenters
+----------------------------------------------------------------------------------------------------------------
+              Commenter(s)                            Affiliation                     Acronym, identifier
+----------------------------------------------------------------------------------------------------------------
+Air-Conditioning, Heating, and            Manufacturer Trade Group..........  AHRI.
+ Refrigeration Institute.
+Air-Conditioning, Heating, and            Manufacturer Trade Groups.........  Joint Industry Commenters.
+ Refrigeration Institute (AHRI), AMCA
+ International (AMCA), American Lighting
+ Association (ALA), Association of Home
+ Appliance Manufacturers (AHAM),
+ Consumer Technology Association (CTA),
+ Hearth, Patio & Barbecue Association
+ (HPBA), Heating, Air-conditioning &
+ Refrigeration Distributors
+ International (HARDI), Information
+ Technology Industry Council (ITI),
+ International Sign Association (ISA),
+ Manufactured Housing Institute (MHI),
+ National Association of Manufacturers
+ (NAM), National Electrical
+ Manufacturers Association (NEMA), North
+ American Association of Food Equipment
+ Manufacturers (NAFEM), Power Tool
+ institute, Inc. (PTI), and Plumbing
+ Manufacturers International (PMI).
+American Boiler Manufacturers             Manufacturer Trade Group..........  ABMA.
+ Association.
+American Gas Association, American        Utility Trade Group...............  AGA.
+ Public Gas Association, Spire, Inc.,
+ and Spire Missouri, Inc.
+Appliance Standards Awareness Project     Advocacy Group....................  Joint Advocacy Commenters.
+ (Joint Comments filed with the American
+ Council for an Energy-Efficient
+ Economy, Consumer Federation of
+ America, and National Consumer Law
+ Center).
+Attorneys General of California,          State, Local Governments..........  State Commenters.
+ Colorado, Connecticut, Illinois, Maine,
+ Maryland, Michigan, Minnesota, Nevada,
+ New Jersey, New York, Oregon,
+ Pennsylvania, Vermont, Washington, the
+ Commonwealth of Massachusetts, the
+ District of Columbia, and the City of
+ New York.
+Bradford White Corporation..............  Manufacturer......................  BWC.
+California Energy Commission............  State.............................  CEC.
+California Investor-Owned Utilities.....  Utilities.........................  Cal-IOUs.
+Carrier Corporation.....................  Manufacturer......................  Carrier.
+Crown Boiler Company....................  Manufacturer......................  Crown Boiler.
+Edison Electric Institute...............  Utility Trade Group...............  EEI.
+GE Appliances...........................  Manufacturer......................  GEA.
+Goodman Manufacturing Company, L.P......  Manufacturer......................  Goodman.
+Grundfos Americas Corporation...........  Manufacturer......................  Grundfos.
+Ahmed Ahmed Hamdi.......................  Individual........................
+Hoshizaki America, Inc..................  Manufacturer......................  Hoshizaki.
+Hussmann Corporation....................  Manufacturer......................  Hussmann.
+Hydraulic Institute.....................  Manufacturer Trade Group..........  HI.
+Hydronic Industry Alliance--Commercial..  Manufacturer Trade Group..........  HIA.
+Institute for Policy Integrity--New York  Academic Institution..............  IPR.
+ University School of Law.
+Lennox International....................  Manufacturer......................  Lennox.
+Lutron..................................  Manufacturer......................  Lutron.
+Manufactured Housing Institute..........  Manufacturer Trade Group..........  MHI.
+New Yorker Boiler Company, Inc..........  Manufacturer......................  New Yorker Boiler.
+North American Association of Food        Manufacturer Trade Group..........  NAFEM.
+ Equipment Manufacturers.
+National Propane Gas Association........  Utility Trade Group...............  NPGA.
+Natural Resources Defense Council,        Advocacy Groups...................  Joint Environmentalist Commenters.
+ Earthjustice & Sierra Club.
+Nortek Global HVAC, LLC.................  Manufacturer......................  Nortek.
+Northwest Power and Conservation Council  Advocacy Group....................  NPCC.
+Northwest Energy Efficiency Alliance....  Advocacy Group....................  NEEA.
+Signify.................................  Manufacturer......................  Signify.
+Small Business Administration (SBA)       Federal Government Agency.........  SBA Office of Advocacy.
+ Office of Advocacy.
+Southern Company........................  Utility...........................  Southern.
+Sullivan-Palatek, Inc...................  Manufacturer......................  Sullivan-Palatek.
+Sara Taylor.............................  Individual........................
+Trane Technologies......................  Manufacturer......................  Trane.
+Unico, Inc..............................  Manufacturer......................  Unico.
+U.S. Boiler Company.....................  Manufacturer......................  U.S. Boiler.
+Weil-McLain Company.....................  Manufacturer......................  Weil-McLain.
+Westinghouse Lighting Corporation.......  Manufacturer......................  Westinghouse.
+Whirlpool Corporation...................  Manufacturer......................  Whirlpool.
+Zero Zone, Inc..........................  Manufacturer......................  Zero Zone.
+----------------------------------------------------------------------------------------------------------------
+
+III. Discussion of Specific Revisions to Appendix A
+
+A. Coverage Determinations
+
+    In addition to specifying a list of covered products and equipment, 
+EPCA contains provisions that enable the Secretary of Energy to 
+classify additional types of consumer products and commercial/
+industrial equipment as ``covered'' within the meaning of EPCA. (42 
+U.S.C. 6292(b); 42 U.S.C. 6312(b)) This authority allows DOE to 
+consider regulating additional products and equipment to further the 
+goals of EPCA, i.e., to conserve energy, as long as certain statutory 
+requirements are met. Under 42 U.S.C. 6312(b), DOE is required to 
+include commercial/industrial equipment as covered equipment ``by 
+rule.'' While there is no corresponding requirement to include consumer 
+products as covered products by rule,\8\ DOE conducts coverage 
+determination rulemakings for both
+
+[[Page 24345]]
+
+commercial/industrial equipment and consumer products.
+---------------------------------------------------------------------------
+
+    \8\ Under 42 U.S.C. 6292(b), DOE is authorized to ``classify'' a 
+consumer product as a covered product if certain conditions are met. 
+But there is no mention of DOE having to make such classifications 
+by rule.
+---------------------------------------------------------------------------
+
+    In the February 2020 Final Rule, DOE added a section on coverage 
+determination rulemakings. Among other things, the new section provided 
+that DOE will: (1) initiate a coverage determination rulemaking with a 
+notice of proposed determination; (2) publish final coverage 
+determinations as separate notices prior to the initiation of any test 
+procedure or energy conservation standard rulemaking and at least 180 
+days prior to publication of a test procedure NOPR; and (3) finalize 
+any changes to an existing scope of coverage before proceeding with a 
+test procedure or energy conservation standard rulemaking. 85 FR 8626, 
+8648-8653.
+    As discussed in the July 2021 NOPR, DOE has reconsidered whether 
+the benefits of a one-size-fits-all rulemaking approach that lacks 
+flexibility and includes extra procedural steps not required by EPCA 
+outweigh the increased difficulty such an approach poses in achieving 
+EPCA's goal of increased energy conservation. First, with respect to 
+the requirement that DOE initiate a coverage determination rulemaking 
+with a notice of proposed determination, DOE noted in the July 2021 
+NOPR that in some cases it may be necessary to gather information about 
+a consumer product or commercial/industrial equipment before issuing a 
+proposed determination of coverage. DOE went on to state that it may 
+only classify a consumer product as a covered product if it is 
+necessary or appropriate to carry out the purposes of EPCA and the 
+average annual per-household energy use of the consumer product is 
+likely to exceed 100 kilowatt-hours per year. As such, DOE explained 
+that it may be beneficial to first issue an RFI or other document to 
+solicit comment on whether a consumer product is likely to meet these 
+requirements. Accordingly, DOE proposed to clarify that it may issue an 
+RFI or other pre-rule document prior to a notice of proposed coverage 
+determination. 86 FR 35668, 35672.
+    Second, regarding the requirements to finalize coverage 
+determinations prior to the initiation of any test procedure or energy 
+conservation standard rulemaking and at least 180 days prior to 
+publication of a test procedure NOPR, DOE noted in the July 2021 NOPR 
+that coverage determination, test procedure, and energy conservation 
+standard rulemakings are interdependent. Id. A coverage determination 
+defines the product/equipment scope for which DOE can establish test 
+procedures and energy conservation standards. It also signals that 
+inclusion of the consumer product or commercial/industrial equipment is 
+necessary to carry out the purposes of EPCA, i.e., to conserve energy 
+and/or water. In order to make this determination, DOE needs to 
+consider whether a test procedure and energy conservation standard can 
+be established for the consumer product or commercial/industrial 
+equipment. If DOE cannot develop a test procedure that measures energy 
+use during a representative average use cycle and is not unduly 
+burdensome to conduct (42 U.S.C. 6293(b)(3); 42 U.S.C. 6314(a)(2)) or 
+prescribe energy conservation standards that result in significant 
+energy savings (42 U.S.C. 6295(o); 42 U.S.C. 6316(a)), then making a 
+coverage determination is not necessary as it will not result in the 
+conservation of energy. Thus, DOE explained in the July 2021 NOPR that 
+it was important that the Department be able to initiate test procedure 
+and energy conservation standard rulemakings while considering whether 
+to establish coverage for a new consumer product or commercial 
+equipment. Accordingly, DOE proposed to eliminate the requirement that 
+coverage determination rulemakings must be finalized prior to 
+initiation of a test procedure or energy conservation standard 
+rulemaking. 86 FR 35668, 35672.
+    As for the requirement that a coverage determination be finalized 
+180 days prior to publication of a test procedure NOPR, DOE explained 
+in the July 2021 NOPR that there are significant differences between 
+the benefits of finalizing a coverage determination prior to publishing 
+a test procedure NOPR and the benefits of finalizing a test procedure 
+prior to publishing an energy conservation standards NOPR. Id. As 
+discussed in the December 2021 Final Rule, a delay between publication 
+of a test procedure final rule and an energy conservation standards 
+NOPR may be beneficial in some cases as it could allow stakeholders to 
+gain greater familiarity with complex test procedure amendments before 
+providing comment on a proposal to amend standards. 86 FR 70892, 70911. 
+But DOE does not see a corresponding potential benefit for delaying 
+publication of a test procedure NOPR after a coverage determination, 
+which establishes the scope of coverage, i.e., a definition, for the 
+newly covered product or equipment, is finalized. Accordingly, DOE 
+proposed to eliminate the 180-day period and require that coverage 
+determination rulemakings be finalized prior to publication of a test 
+procedure NOPR. 86 FR 35668, 35672.
+    Finally, the February 2020 Final Rule also stated that, if DOE 
+finds it necessary and appropriate to expand or reduce the scope of a 
+finalized coverage determination during a test procedure or standards 
+rulemaking, the Department will initiate a new coverage determination 
+process prior to moving forward with the test procedure or standards 
+rulemaking. As DOE would be expanding or reducing the scope of an 
+existing coverage determination, DOE proposed in the July 2021 NOPR to 
+clarify that in instances where DOE needed to modify the scope of a 
+coverage determination, DOE would simply amend that determination, as 
+opposed to initiating an entirely new coverage determination. 86 FR 
+35668, 35670.
+Comments Supporting DOE's Proposal on Coverage Determination 
+Rulemakings
+    A number of commenters supported DOE's proposal to allow for early 
+stakeholder input prior to issuing a notice of proposed coverage 
+determination. (See, e.g., ASAP, No. 53 at p. 14; Carrier, No. 54 at p. 
+2; Lutron, No. 64 at p. 2; NEEA, No. 71 at p. 2; Advocacy Groups, No. 
+70 at p. 2; State Commenters, No. 67 at p. 6) For example, State 
+Commenters noted that DOE's proposal would allow the Department to 
+collect necessary information prior to issuing a proposed coverage 
+determination. (State Commenters, No. 67 at p. 6) Similarly, Lutron 
+also favored allowing DOE to obtain public input before issuing a 
+proposed coverage determination. (Lutron, No. 64 at p. 2)
+    Several commenters also supported DOE's proposal to remove the 
+requirement that coverage determinations be finalized before initiating 
+test procedure and standards rulemakings. (See, e.g., ASAP, No. 53 at 
+p. 14; Carrier, No. 54 at p. 2; Lutron, No. 64 at p. 2; CA IOUs, No. 69 
+at p. 2; NEEA, No. 71 at p. 2; CEC, No. 55 at p. 2; State Commenters, 
+No. 67 at p. 6; Advocacy Groups, No. 70 at p. 2) Appliance Standards 
+Awareness Project (ASAP), in expressing its support, noted that 
+information learned during test procedure and standards rulemakings can 
+help inform the coverage determination and avoid potential delays 
+resulting from DOE having to amend a coverage determination after it 
+was initially finalized. (ASAP, No. 53 at p. 14) The California 
+Investor-Owned Utilities (CA IOUs) also cited several successful 
+negotiated rulemakings where standards, test procedures, and scope were 
+considered simultaneously as evidence of the potential benefits of 
+DOE's proposal. (CA IOUs, No. 69 at p. 2) While recognizing that 
+information
+
+[[Page 24346]]
+
+obtained during a test procedure rulemaking may help inform a coverage 
+determination, Carrier and Lutron emphasized that test procedure and 
+NOPRs should not be issued before a coverage determination is 
+finalized. (Carrier, No. 54 at p. 2; Lutron, No. 64 at p. 2)
+    DOE also received support for its proposal to eliminate the 180-day 
+required period between finalization of a coverage determination and 
+publication of a test procedure NOPR. (See, e.g., NEEA, No. 71 at p. 2; 
+CEC, No. 55 at p. 2; State Commenters, No. 67 at p. 5) In particular, 
+Northwest Energy Efficiency Alliance (NEEA) supported removal of the 
+180-day requirement between a finalized coverage determination and a 
+test procedure NOPR as there are times when completing these 
+rulemakings in parallel would be the most efficient use of DOE's and 
+stakeholders' time. NEEA stated that DOE should consider the 
+appropriate timeline between a coverage determination and a test 
+procedure NOPR on a case-by-case basis, as there are many circumstances 
+when a 6-month delay may be unnecessary. (NEEA, No. 71 at p. 2) State 
+Commenters also agreed with DOE that a mandatory delay between 
+finalization of a coverage determination and issuance of a test 
+procedure NOPR did not offer the same benefits as a delay between 
+finalization of a test procedure and issuance of a standards NOPR. 
+(State Commenters, No. 67 at p. 5)
+Comments Opposing DOE's Proposal on Coverage Determination Rulemakings
+    While many commenters expressed support for most, if not all, of 
+DOE's proposals, some commenters expressed concerns with and/or 
+alternatives to DOE's proposed revisions to its coverage determination 
+rulemaking process. These concerns and alternative proposals were 
+centered around DOE's proposed elimination of the 180-day period 
+between finalization of a coverage determination and publication of a 
+test procedure NOPR. (See, e.g., ASAP, No. 53 at p. 14; Grundfos, No. 
+53 at p. 16; Carrier, No. 54 at p. 2; ABMA, No. 61 at p. 2; Lutron, No. 
+64 at p. 2)
+    Several of these commenters stated that some period of time between 
+finalization of a coverage determination and publication of a test 
+procedure NOPR is necessary. For example, the American Boiler 
+Manufacturers Association (ABMA) stated that although it supported the 
+180-day delay between finalization of a coverage determination and 
+publication of a test procedure NOPR, it is also sensitive to DOE's 
+concerns about delays to the rulemaking process that jeopardize its 
+ability to meet statutory deadlines. Consequently, ABMA suggested a 
+compromise approach of shortening the required spacing from 180 days to 
+90 days. (ABMA, No. 61 at p. 2) Lutron and the Joint Industry 
+Commenters stated that there could be a number of reasons why adequate 
+time is needed between those two events, so DOE should consider whether 
+such time is necessary in each case and seek stakeholder feedback on 
+that matter during the coverage determination process. (Lutron, No. 64 
+at p. 2; Joint Industry Commenters, No. 62 at p. 4) The Joint Industry 
+Commenters specifically mentioned a scenario where a standards 
+development organization is developing a test procedure as a reason for 
+having some period of time between finalization of a coverage 
+determination and publication of a test procedure NOPR. Similarly, 
+Carrier recommended that DOE should make it a standard practice to seek 
+early public input through an RFI (or other appropriate mechanism) to 
+obtain input on the appropriate time needed between a coverage final 
+rule and a test procedure NOPR. (Carrier, No. 54 at p. 2)
+    In contrast to these comments requesting some period of time 
+between finalization of a coverage determination and publication of a 
+test procedure NOPR, DOE also received comments to eliminate the 
+requirement altogether that DOE finalize coverage determinations prior 
+to publishing test procedure NOPRs. ASAP suggested that DOE should be 
+able to finalize a coverage determination concurrent with finalization 
+of any energy conservations standards. ASAP contended that allowing the 
+Department to incorporate information learned during the rulemaking 
+process into the coverage determination would avoid any potential 
+delays associated with having to amend the coverage determination after 
+it was initially finalized. (ASAP, No. 53 at p. 14) Similarly, the 
+Advocacy Groups encouraged DOE to adopt an approach allowing for 
+concurrent coverage and standards finalizations. They noted that the 
+proposed regulatory text would still require DOE to finalize a coverage 
+determination prior to publishing a proposed test procedure and, in 
+their view, this requirement would limit DOE's ability to incorporate 
+information learned during the related test procedure and standards 
+rulemakings into the coverage determination, which could result in 
+unnecessary delays if DOE is required to pause the rulemaking process 
+to amend the coverage determination. (Advocacy Groups, No. 70 at p. 2)
+DOE's Response to Comments
+    In response to comments, DOE first notes a large majority of 
+commenters, representing a wide variety of stakeholders, supported both 
+the elimination of the requirement to begin a coverage determination 
+rulemaking with a notice of proposed determination and the requirement 
+that a coverage determination be finalized prior to initiation of a 
+test procedure or standards rulemaking. In both cases, commenters 
+recognized that allowing for more early stakeholder input, including 
+information on prospective test procedures and standards, will help 
+make for a better, more-informed coverage determination rulemaking 
+process. Accordingly, for the reasons discussed in the July 2021 NOPR 
+and this document, DOE is removing the requirements from section 5 of 
+appendix A that a coverage determination begin with a notice of 
+proposed determination and be finalized prior to initiation of a test 
+procedure or standards rulemaking.
+    Additionally, DOE did not receive any comments regarding its 
+proposed clarification that, if DOE finds it necessary and appropriate 
+to expand or reduce the scope of a finalized coverage determination 
+during a test procedure or standards rulemaking, the Department will 
+amend the existing coverage determination prior to moving forward with 
+the test procedure or standards rulemaking. Accordingly, for the 
+reasons discussed in the July 2021 NOPR and this document, DOE is 
+revising section 5(d) of appendix A to clarify that, if necessary and 
+appropriate, the Department will amend the existing coverage 
+determination prior to moving forward with a test procedure or 
+standards rulemaking.
+    As for the comments regarding the 180-day period and sequencing of 
+the coverage determination, test procedure, and standards rulemakings, 
+DOE first notes that several commenters stated there could be potential 
+benefits of having a period of time between finalization of a coverage 
+determination and publication of a test procedure NOPR. Specifically, 
+the Joint Industry Commenters gave an example of where a delay between 
+finalization of a coverage determination and publication of a test 
+procedure may allow a standards development organization more time to 
+develop an industry test procedure. DOE does not disagree with these 
+commenters in that a delay between finalization of a coverage 
+determination and publication of a test procedure NOPR may offer some
+
+[[Page 24347]]
+
+benefits in certain cases. But, as stated throughout this rulemaking 
+process, DOE has reconsidered whether the benefits of a one-size-fits-
+all rulemaking approach that lacks flexibility and includes extra 
+procedural steps not required by EPCA outweigh the increased difficulty 
+such an approach poses in accomplishing the purposes of EPCA, i.e., to 
+conserve energy. So, while a 180-day period in between finalization of 
+a coverage determination and publication may offer benefits in certain 
+situations, in other cases it will simply result in a 180-day delay in 
+implementing energy conservation standards without benefiting the 
+rulemaking process. Thus, DOE is declining to adopt a specific time 
+frame associated with the sequencing of a coverage determination and 
+test procedure rulemaking.
+    As for those comments suggesting DOE allow concurrent finalization 
+of coverage determinations and energy conservation standards, the 
+Department believes any benefits from concurrent finalization of 
+coverage determinations and energy conservation standards are more than 
+outweighed by the uncertainty this would add to the rulemaking process. 
+The commenters argued that concurrent determinations could avoid 
+potential delays by incorporating information learned during the 
+standards rulemaking process into the final coverage determination. But 
+DOE's proposal already allows for coverage determination rulemakings to 
+be informed by the preliminary stages of test procedure and standards 
+rulemakings. Further, DOE notes that the negotiated rulemaking process 
+allows stakeholders to simultaneously consider scope of coverage, test 
+procedures, and energy conservation standards.\9\
+---------------------------------------------------------------------------
+
+    \9\ DOE, through its Appliance Standards Rulemaking Federal 
+Advisory Committee (``ASRAC''), established a working group to 
+negotiate energy conservation standards for commercial and 
+industrial fans and blowers. 80 FR 17359 (Apr. 1, 2015). The working 
+group submitted a term sheet containing recommendations on scope of 
+coverage, test procedures, and energy conservation standards 
+analysis methodology. The term sheet is available at <a href="https://www.regulations.gov/document/EERE-2013-BT-STD-0006-0179">https://www.regulations.gov/document/EERE-2013-BT-STD-0006-0179</a>.
+---------------------------------------------------------------------------
+
+    Accordingly, for the reasons discussed in the July 2021 NOPR and 
+this document, DOE is revising section 5 of appendix A to eliminate the 
+180-day required period between finalization of a coverage 
+determination and publication of a test procedure and, instead, provide 
+that coverage determinations be finalized prior to publication of a 
+test procedure NOPR.
+
+B. Process for Developing Energy Conservation Standards
+
+    As part of the February 2020 Final Rule, DOE made a number of 
+changes to its process for developing energy conservation standards. 
+The February 2020 Final Rule, among other changes: (1) required that 
+DOE initiate a standards rulemaking with an early assessment RFI; (2) 
+required that the preliminary stages of a standards rulemaking include 
+either a framework document/preliminary analysis or an advance notice 
+of proposed rulemaking (``ANOPR''); and (3) set minimum comment periods 
+for NOPR and pre-NOPR documents. 85 FR 8626, 8704-8706.
+    As discussed throughout this rulemaking process, DOE has 
+reconsidered whether the benefits of a one-size-fits-all rulemaking 
+approach that lacks flexibility and includes extra procedural steps not 
+required by EPCA outweigh the increased difficulty such an approach 
+poses in meeting DOE's statutory deadlines and obligations under EPCA. 
+As such, DOE proposed additional revisions to the process for 
+developing energy conservation standards in the July 2021 NOPR. First, 
+DOE proposed to eliminate the requirement for an early assessment RFI. 
+DOE reasoned that because stakeholders can comment on whether a new or 
+amended standard would meet the relevant statutory criteria at any 
+stage of the rulemaking process, a separate rulemaking document limited 
+to only that topic (i.e., the early assessment RFI) may delay the 
+overall process without adding an appreciable benefit. Instead, DOE 
+noted that it would welcome the same type of information in the context 
+of an RFI, preliminary analysis, ANOPR, or some other pre-NOPR 
+document, while at the same time asking other relevant questions and 
+gathering information in the event that the Department decides to 
+proceed with an energy conservation standards rulemaking. 86 FR 35668, 
+35673.
+    Second, in conjunction with the proposal to eliminate the early 
+assessment RFI, DOE also proposed to eliminate the requirement that the 
+pre-NOPR stage of a standards rulemaking include either a framework 
+document/preliminary analysis or an ANOPR. DOE tentatively concluded 
+that one round of pre-NOPR input may be sufficient for some 
+rulemakings. For instance, DOE is required to revisit final 
+determinations that energy conservation standards do not need to be 
+amended within three years. (42 U.S.C. 6295(m)(3)(B)) In such cases, it 
+may not be necessary to issue a framework document/preliminary analysis 
+or an ANOPR, as an RFI or NODA may be sufficient to update DOE's 
+rulemaking analysis in preparation for proposing amended standards or a 
+determination that standards do not need to be amended. Another example 
+for which a single round of pre-NOPR input may be sufficient would be 
+if a product has been subject to multiple rounds of rulemaking, relies 
+on mature technologies, and for which the market is well-understood. As 
+such, DOE proposed to publish one or more documents in the Federal 
+Register during the pre-NOPR stage of a rulemaking to gather 
+information on key issues. Such document(s) could take several forms 
+depending upon the specific proceeding, including a framework document, 
+RFI, NODA, preliminary analysis, or ANOPR. 86 FR 35668, 35673.
+    Finally, DOE proposed revisions to the comment periods for pre-NOPR 
+and NOPR rulemaking documents. For pre-NOPR documents, which do not 
+have a statutorily required minimum comment period, DOE proposed to 
+eliminate the 75-day minimum public comment period and, instead, 
+determine the appropriate comment period for these documents on a case-
+by-case basis. This would allow DOE to establish comment periods that 
+are commensurate with the nature and complexity of the issues presented 
+in a pre-NOPR document, while also allowing DOE to proceed more 
+expeditiously with its rulemaking process. Id. DOE also proposed to 
+eliminate the 75-day minimum public comment period for standards NOPRs 
+and revert to the Department's prior practice, consistent with EPCA, of 
+requiring a 60-day minimum public comment period. DOE stated that 60 
+days offers an adequate amount of time for comment in most standards 
+rulemakings, while helping to streamline the rulemaking process. And, 
+for those rulemakings involving more complex issues, DOE noted that 60 
+days is the minimum comment period, and the Department may extend 
+comment periods as appropriate. 86 FR 35668, 35673-35674.
+Comments Supporting DOE's Proposal on Energy Conservation Standards 
+Rulemakings
+    Several commenters supported DOE's proposal to eliminate the 
+requirement for an early assessment RFI and instead clarify that DOE 
+will issue one or more pre-NOPR documents intended to gather 
+information on key issues, including whether new or amended standards 
+would satisfy the relevant statutory criteria. (See, e.g., ABMA, No. 61 
+at p.
+
+[[Page 24348]]
+
+3; Grundfos, No. 53 at pp. 24-25; ASAP, No. 53 at p. 24; CA IOUs, No. 
+69 at pp. 1-2; NEEA, No. 71 at p. 2) In expressing their support, the 
+CA IOUs stated that the decision of whether a rulemaking should move 
+forward can be made through a normal RFI, rather than through a formal, 
+mandatory early assessment stage. (CA IOUs, No. 69 at pp. 1-2) 
+Similarly, ASAP supported DOE's proposal to eliminate the requirement 
+for an early assessment RFI because the Department can elicit the same 
+type of information through other types of pre-NOPR documents, and DOE 
+should be allowed the flexibility to determine the specific rulemaking 
+documents that are appropriate in each case. (ASAP, No. 53 at p. 24) 
+Grundfos and ABMA supported eliminating the early assessment RFI as 
+long as DOE continued to provide opportunities for early stakeholder 
+input. The Advocacy Groups supported DOE's proposal because it would 
+provide DOE with the flexibility to determine the specific rulemaking 
+steps that are appropriate in individual cases, thereby avoiding 
+unnecessary delays while continuing to provide an opportunity for early 
+stakeholder input. (Advocacy Groups, No. 70 at p. 4)
+    Several commenters also expressed their support for DOE's proposal 
+to determine comment periods for pre-NOPR documents on a case-by-case 
+basis and revise the minimum comment period for standard NOPRs to be 
+consistent with EPCA. (See ASAP, No. 53 at p. 24; NEEA, No. 71 at pp. 
+2-3; Advocacy Groups, No. 70 at p. 3; NPCC, No. 52 at p. 2) The 
+Advocacy Groups noted that the proposal would avoid unnecessary delays 
+by allowing DOE to select appropriate comment periods for pre-NOPR 
+documents, while continuing to provide an opportunity for early 
+stakeholder input. (Advocacy Groups, No. 70 at p. 4) In expressing 
+their support for the proposal, ASAP also noted that the requirements 
+are for minimum comment periods and DOE is free to set longer comment 
+periods where merited. (ASAP, No. 53 at p. 24)
+Comments Opposing DOE's Proposal on Energy Conservation Standards 
+Rulemakings
+    Several commenters opposed DOE's proposal to eliminate the 
+requirement for an early assessment RFI and instead clarify that DOE 
+will issue one or more pre-NOPR documents intended to gather 
+information on key issues, including whether new or amended standards 
+would satisfy the relevant statutory criteria. (See, e.g., AHAM, No. 53 
+at p. 27; Lutron, No. 64 at p. 3; Mercatus, No. 48 (Attachment) at pp. 
+3-4; Lennox, No. 60 at p. 6; Joint Industry Commenters, No. 62 at p. 5; 
+GEA, No. 72 at p. 3) In expressing their support for the early 
+assessment process laid out in the February 2020 Final Rule, AHAM 
+stated that the early assessment procedure could help DOE streamline 
+its process by prioritizing rules that satisfy EPCA's requirements, 
+thereby conserving DOE and stakeholder resources and allowing DOE to 
+meet its deadlines more often. (AHAM, No. 53 at p. 27) Similarly, 
+Lutron stated that the early assessment process will help prevent time 
+and resources being invested in standards rulemakings that cannot meet 
+the applicable statutory criteria. (Lutron, No. 64 at p. 3) Mercatus 
+argued in favor of retaining the early assessment process as it would 
+ensure that a wide variety of viewpoints are considered by DOE prior to 
+a regulation being formally proposed. In its view, once a regulation 
+has been proposed, an agency has already made up its mind about what it 
+wants to do, and public input comes too late to matter. (Mercatus, No. 
+48 (Attachment) at pp. 3-4)
+    In addition to opposing the elimination of the early assessment 
+RFI, the Joint Industry Commenters offered their own proposal on what 
+an early assessment process should entail. They first suggested that 
+DOE issue a pre-rulemaking document of its choice aimed at obtaining 
+comment on whether a standard should be amended using the criteria in 
+42 U.S.C. 6295(n)(2). They added that the pre-rulemaking document used 
+by DOE should also: (1) present data and information DOE has gathered 
+during informal, pre-rulemaking stakeholder engagement; (2) identify 
+and seek comment on design options; (3) identify and seek comment on 
+the existence of or opportunity for voluntary, nonregulatory action; 
+(4) seek comment on cumulative regulatory burden; (5) identify 
+significant subgroups of consumers and manufacturers that merit 
+analysis; and (6) seek comment on whether, if DOE moves forward with 
+rulemaking, DOE should pursue negotiated rulemaking. The Joint Industry 
+Commenters remarked that their suggested approach did not differ 
+dramatically from DOE's proposal but would include a NODA/Preliminary 
+Analysis step after the initial pre-NOPR document. In their view, the 
+inclusion of a pre-Technical Support Document (``TSD'') as part of this 
+process is important in initiating a vital exchange of information 
+early in the rulemaking process. (Joint Industry Commenters, No. 62 at 
+p. 6)
+    Several commenters also opposed DOE's proposal to determine comment 
+periods for pre-NOPR documents on a case-by-case basis and revise the 
+minimum comment period for standards NOPRs to be consistent with EPCA. 
+(See, e.g., Grundfos, No. 53 at pp. 25-26; Carrier, No. 54 at pp. 3, 4; 
+BWC, No. 63 at p. 2; Joint Industry Commenters, No. 62 at pp. 7-8; 
+Lennox, No. 60 at p. 3) For example, Lennox stated that at least 60 
+days should be provided for comment for pre-NOPR documents as DOE 
+regulations are typically complex, often may involve significant market 
+and manufacturing changes, and pre-NOPR documents by definition are 
+early in the regulatory process, so the timing of their release is 
+generally unpredictable and stakeholder personnel are not necessarily 
+immediately available to assess them. (Lennox, No. 60 at p. 3) BWC 
+opposed shortening the standards NOPR comment period from 75 days to 60 
+days, noting that manufacturers and all other stakeholders are expected 
+to read, analyze, and investigate substantial documentation between a 
+NOPR itself and an associated TSD. BWC argued that these documents take 
+DOE and its consultants' months to prepare, and to expect a complete 
+and thorough analysis by stakeholders in 60 calendar days is 
+unreasonable, especially when considering the necessary effort in 
+managing other regulatory activities that currently impact it. (BWC, 
+No. 63 at p. 2)
+DOE's Response to Comments
+    In response to these comments, DOE first notes that commenters 
+raised several valid points about the benefits of the early assessment 
+process and longer comment periods. For instance, DOE agrees that early 
+stakeholder input is essential in the rulemaking process. It would also 
+be beneficial, from an allocation of resources standpoint, to determine 
+as early as possible whether a new or amended standard would satisfy 
+the applicable statutory criteria. And that is why DOE did not propose 
+to eliminate the early assessment process in the July 2021 NOPR. 
+Instead, DOE proposed to eliminate the requirement that the Department 
+solicit information on whether a new or amended standard would meet the 
+applicable statutory criteria in a rulemaking document limited to only 
+that topic, i.e., the early assessment RFI. 86 FR 35668, 35673. DOE 
+stated it would issue one or more pre-NOPR rulemaking documents and 
+made it clear that the Department would welcome the same type of early 
+assessment information in these documents, while at the same time 
+asking other relevant questions. Id. With respect to the early 
+assessment proposal
+
+[[Page 24349]]
+
+from the Joint Industry Commenters, DOE notes that the commenters 
+remarked on the similarities with DOE's own proposal, with the only 
+notable difference being the requirement to issue a NODA or preliminary 
+analysis after the initial pre-NOPR document. While DOE acknowledges 
+that many rulemakings may involve an RFI followed by a NODA or 
+preliminary analysis, that certainly is not the case for all 
+rulemakings. For example, if DOE is revisiting a decision not to amend 
+standards within the 3-year period specified under 42 U.S.C. 
+6295(m)(3), a pre-NOPR RFI requesting any information relevant to the 
+previous analysis may be sufficient to proceed with a proposed 
+determination that standards do not need to be amended. As such, a 
+requirement to issue a NODA or preliminary analysis would consume time 
+and resources without providing an appreciable benefit to DOE or the 
+public.
+    Finally, regarding the benefits of early stakeholder input, DOE 
+strongly disagrees with the assertion from Mercatus that DOE does not 
+properly consider stakeholder input received in response to NOPRs. DOE 
+values stakeholder input at every stage of the rulemaking process and 
+has made changes to proposed test procedures and standards in response 
+to stakeholder comments. For example, in an energy conservation 
+standards rulemaking for dishwashers in which DOE initially proposed 
+more stringent standards, DOE determined, in part, based on comments 
+received raising concerns with potential impacts on consumer utility 
+that more stringent standards were not justified. 81 FR 90072, 90114 
+(Dec. 13, 2016). In the January 10, 2020, final rule establishing 
+energy conservation standards for portable air conditioners DOE updated 
+its equation for calculating the combined energy efficiency ratio from 
+that presented in the proposed rule based on information and data 
+submitted by stakeholders. 85 FR 1378, 1398.
+    DOE also recognizes that the standards rulemaking process is 
+necessarily complex. And stakeholders need sufficient time to comment 
+on rulemaking documents. But there are also instances where DOE issues 
+rulemaking documents of limited scope and a 30-day comment period, or 
+even less, is more than sufficient. For example, as discussed 
+previously, DOE is required to revisit a determination not to amend 
+standards within three years. In such cases, DOE may issue an RFI on 
+whether there have been any material changes to the market that would 
+affect the analysis conducted in the previous determination not to 
+amend standards. As the scope of the RFI is limited, a 30-day comment 
+period may be more than sufficient to allow stakeholders a meaningful 
+opportunity to comment. With respect to NOPRs, EPCA requires at least a 
+60-day comment period. (42 U.S.C. 6295(p)(2)) Similarly, Executive 
+Order (``E.O.'') 12866, ``Regulatory Planning and Review,'' 58 FR 51735 
+(Oct. 4, 1993), states that in most cases a comment period should not 
+be less than 60 days. As stated previously, DOE's main purpose in 
+revising appendix A is to minimize the inefficiencies and unnecessary 
+delays that come with a one-size-fits-all rulemaking approach. DOE sees 
+no reason to establish a longer minimum comment period than required by 
+EPCA or recommended under E.O. 12866, which applies to other Federal 
+agencies that conduct rulemaking analyses of comparable complexity.
+    Accordingly, for the reasons discussed in the July 2021 NOPR and 
+this document, DOE is revising section 6 of appendix A to specify that 
+the Department will issue one or more pre-NOPR rulemaking documents and 
+comment periods for standards rulemaking documents will be determined 
+on a case-by-case basis with a minimum 60-day comment period for NOPRs.
+
+C. Process for Developing Test Procedures
+
+    As part of the February 2020 Final Rule, DOE made a number of 
+changes to its process for developing test procedures. The February 
+2020 Final Rule, among other changes: (1) required that DOE initiate a 
+test procedure rulemaking with an early assessment RFI; and (2) 
+required that DOE identify any necessary modifications to established 
+test procedures prior to initiating the standards development process. 
+85 FR 8626, 8653-8654, 8676-8682, 8707-8708.
+    As discussed throughout this rulemaking process, DOE has 
+reconsidered whether the benefits of a one-size-fits-all rulemaking 
+approach that lacks flexibility and includes extra procedural steps not 
+required by EPCA outweigh the increased difficulty such an approach 
+poses in meeting DOE's statutory deadlines and obligations under EPCA. 
+As such, DOE proposed additional revisions to the process for 
+developing test procedures in the July 2021 NOPR. First, DOE proposed 
+to eliminate the requirement for an early assessment RFI. Because 
+interested parties are free to raise the matter of the need for an 
+amended test procedure at any preliminary stage of the rulemaking, DOE 
+tentatively concluded that a separate rulemaking document limited to 
+only that topic (i.e., the early assessment RFI) unnecessarily delays 
+the overall process without appreciable benefit. Consequently, DOE 
+proposed to issue one or more pre-NOPR documents that would welcome the 
+same type of early assessment information, while at the same time 
+asking relevant questions and gathering information about other test 
+procedure issues, such as the applicability of any industry test 
+procedure. 86 FR 35668, 35674.
+    Second, for pre-NOPR documents for which there is no statutorily 
+required comment period, DOE proposed to clarify that the Department 
+would determine an appropriate comment period for pre-NOPR documents on 
+a case-by-case basis. This would allow DOE to account for the nature 
+and complexity of the test procedure rulemaking at issue. Id. at 86 FR 
+35675. DOE also proposed to clarify that it will provide a minimum 60-
+day public comment period with at least one public hearing or workshop 
+for test procedure NOPR documents. Id. DOE has historically provided a 
+75-day comment period for test procedure NOPRs, consistent with the 
+comment period requirement for technical regulations in the North 
+American Free Trade Agreement, U.S.-Canada-Mexico (``NAFTA''), Dec. 17, 
+1992, 32 I.L.M. 289 (1993); the North American Free Trade Agreement 
+Implementation Act, Public Law 103-182, 107 Stat. 2057 (1993) (codified 
+as amended at 10 U.S.C.A. 2576) (1993) (``NAFTA Implementation Act''); 
+and Executive Order 12889, ``Implementation of the North American Free 
+Trade Agreement,'' 58 FR 69681 (Dec. 30, 1993). However, Congress 
+repealed the NAFTA Implementation Act and has replaced NAFTA with the 
+Agreement between the United States of America, the United Mexican 
+States, and the United Canadian States (``USMCA''), Nov. 30, 2018, 134 
+Stat. 11, thereby rendering E.O. 12889 inoperable. Consequently, since 
+USMCA is consistent with EPCA's public comment period requirements and 
+normally requires a minimum comment period of 60 days for technical 
+regulations, DOE proposed to provide a minimum 60-day public comment 
+period for test procedure NOPRs. 86 FR 35668, 35675.
+    Finally, DOE proposed to eliminate the requirement that the 
+Department identify any necessary test procedure modifications prior to 
+initiating the standards development process. Id. As DOE recognized in 
+the December 2021 Final Rule, it is important that test procedures be 
+finalized prior to
+
+[[Page 24350]]
+
+proposing standards so stakeholders can properly evaluate and provide 
+comment on the proposed standards. 86 FR 70892, 70911. But this 
+reasoning does not extend to requiring DOE to identify test procedure 
+modifications prior to initiating a standards rulemaking. Conducting 
+preliminary standards-related work and information gathering in concert 
+with the test procedure proceeding can lead to a more-efficient 
+rulemaking process without sacrificing the quality of DOE's analyses or 
+the opportunity for public input.
+Comments Supporting DOE's Proposal on Test Procedure Rulemakings
+    Several commenters expressed their support for DOE's proposal to 
+eliminate the requirement for an early assessment RFI and instead 
+clarify that DOE will issue one or more pre-NOPR documents intended to 
+gather information on key issues, including whether a new or amended 
+test procedure would satisfy the relevant statutory criteria. (See, 
+e.g., NEEA, No. 71 at p. 2; Advocacy Groups, No. 70 at p. 4; State 
+Commenters, No. 67 at p. 6; Grundfos, No. 53 at p. 33; CA IOUs, No. 69 
+at pp. 1-2) In expressing their support, the CA IOUs stated that the 
+decision of whether a rulemaking should move forward can be made 
+through a normal RFI, rather than through a formal, mandatory early 
+assessment stage. (CA IOUs, No. 69 at pp. 1-2) The Advocacy Groups 
+supported DOE's proposal because it would provide DOE with the 
+flexibility to determine the specific rulemaking steps that are 
+appropriate in individual cases, thereby avoiding unnecessary delays 
+while continuing to provide an opportunity for early stakeholder input. 
+(Advocacy Groups, No. 70 at p. 4) Similarly, the State Commenters noted 
+that requiring DOE to commence test procedure rulemakings with an early 
+assessment request for information unnecessarily imposes a one-size-
+fits-all approach on DOE's rulemaking course and constrains the 
+agency's discretion to pursue rulemaking in the most expeditious manner 
+possible. (State Commenters, No. 67 at p. 6)
+    Several commenters also supported DOE's proposal to determine 
+comment periods for pre-NOPR documents on a case-by-case basis and 
+revise the minimum commenter period for test procedure NOPRs to be 
+consistent with EPCA and USMCA. (See, e.g., NEEA, No. 71 at p. 3; CEC, 
+No. 55 at p. 3; CA IOUs, No. 53 at p. 32) The Advocacy Groups noted 
+that the proposal would avoid unnecessary delays by allowing DOE to 
+select appropriate comment periods for pre-NOPR documents on a case-by-
+case basis, while continuing to provide an opportunity for early 
+stakeholder input. (Advocacy Groups, No. 70 at p. 4)
+    Finally, DOE also received comments supporting its proposal to 
+remove the requirement that the Department identify any necessary test 
+procedure modifications prior to initiating the standards development 
+process. For example, the Advocacy Groups supported DOE's proposal to 
+clarify that it would not be precluded from issuing pre-rulemaking 
+documents for standards prior to a test procedure final rule, asserting 
+that this clarification would help avoid unnecessary delays to DOE's 
+rulemaking process. In their view, test procedure and standards 
+rulemakings inform each other and providing DOE with the ability to 
+conduct the initial stages of a standards rulemaking prior to 
+finalizing a test procedure will allow issues identified in the early 
+phases of the standards rulemaking related to the test procedure to be 
+addressed in the test procedure rulemaking. (Advocacy Groups, No. 70 at 
+p. 4) Similarly, the CA IOUs supported DOE's proposed clarification 
+that preliminary work may begin on energy conservation standards prior 
+to completion of a test procedure rulemaking. The CA IOUs reasoned that 
+this refinement would help DOE to expedite its rulemaking process and 
+reduce its backlog of rulemakings. (CA IOUs, No. 69 at pp. 2-3)
+Comments Opposing DOE's Proposal on Test Procedure Rulemakings
+    Several commenters opposed DOE's proposal to eliminate the 
+requirement for an early assessment RFI. For example, Lutron argued 
+that eliminating the early assessment RFI would negatively impact DOE's 
+analysis and reduce commenters' ability to provide meaningful input. 
+(Lutron, No. 64 at p. 3) The Gas Industry Joint Commenters urged that 
+DOE retain appendix A's current early opportunities for providing 
+public comment and input on potential standards and test procedure 
+rulemakings. In their view, it would be better for DOE to take 
+additional time needed to produce a good regulation rather than to take 
+less time to produce a poorer regulation. (Gas Industry Joint 
+Commenters, No. 57 at pp. 4-5) Similarly, the Joint Industry Commenters 
+stated that the early assessment process offers DOE streamlining 
+opportunities by helping it to identify potential test procedure issues 
+prior to the initiation of a standards rulemaking proposal. (Joint 
+Industry Commenters, No. 62 at p. 9)
+    Several commenters also opposed DOE's proposal to determine comment 
+periods for pre-NOPR documents on a case-by-case basis and revise the 
+minimum comment period for test procedure NOPRs to be consistent with 
+EPCA and USMCA. (See, e.g., Carrier, No. 54 at pp. 3, 4; AHAM, No. 53 
+at p. 5; Joint Industry Commenters, No. 62 at pp. 7-8; Lennox, No. 60 
+at p. 3) For example, Lennox stated that commenting on test procedures 
+often involves testing personnel and lab time that typically do not 
+have immediate availability and rulemaking activities compete with lab 
+time and personnel for product development, regulatory and other 
+demands for product testing and assessment. As such, Lennox opposed 
+shortening the 75-day comment period for test procedure NOPRs and 
+suggested a minimum 60-day comment period for pre-NOPR comment periods. 
+(Lennox, No. 60 at p. 3) The Joint Industry Commenters made similar 
+arguments regarding the complexity of issues involved in evaluating 
+proposed test procedures. They stated that the evaluation process can--
+and often does--include conducting the proposed test procedure along 
+with the collection and analysis of testing data to assist DOE in 
+analyzing the proposed procedure's accuracy, repeatability, and 
+reproducibility, all of which take time to complete. If DOE decides to 
+shorten the comment period for test procedure proposals, the Joint 
+Industry Commenters asked that DOE continue to freely grant reasonable 
+requests for comment period extensions, which they expected to be more 
+frequent with the shortening of the comment period. (Joint Industry 
+Commenters, No. 62 at pp. 7-8) GEA stated that mandatory comment 
+periods with sufficient time for in-depth analysis and commentary are 
+necessary to provide predictability and fairness to stakeholders. (GEA, 
+No. 72 at p. 3)
+    Finally, DOE also received comments opposing its proposal to remove 
+the requirement that the Department identify any necessary test 
+procedure modifications prior to initiating the standards development 
+process. For example, the Joint Industry Commenters asserted that the 
+test procedure process should be finalized before the standards 
+rulemaking process begins. They stressed the relevance of the test 
+procedure to the standards analysis, noting that responses on pre-NOPR 
+energy conservation standards documents will often be highly dependent 
+on the test procedure, particularly since knowing what the test 
+procedure will measure will affect how the stringency of potential 
+standards will be assessed. (Joint Industry Commenters, No. 62 at p. 9) 
+Similarly, Lutron stated that eliminating the
+
+[[Page 24351]]
+
+required sequencing of test procedure and standards rulemakings would 
+negatively impact DOE's analysis on both test procedures and standards 
+and would reduce commenters' ability to provide meaningful input, 
+especially during the early rulemaking phases for new or amended 
+standards. (Lutron, No. 64 at p. 3)
+DOE's Response to Comments
+    In response to these comments, DOE first notes that commenters 
+raised several of the same issues about the benefits of an early 
+assessment process and longer comment periods that were discussed in 
+the preceding section on the process for developing energy conservation 
+standards. And, as stated previously, DOE agrees that early stakeholder 
+input is essential and that some rulemaking documents require a longer 
+comment period in order to give stakeholders sufficient time to develop 
+their comments. DOE again notes that it did not propose to eliminate 
+the early assessment process in the July 2021 NOPR. Instead, DOE 
+proposed to eliminate the requirement that the Department solicit 
+information on whether an amended test procedure would meet the 
+applicable statutory criteria in a rulemaking document limited to only 
+that topic, i.e., the early assessment RFI. 86 FR 35668, 35674. DOE 
+proposed to issue one or more pre-NOPR rulemaking documents and made 
+clear that the Department would welcome the same type of early 
+assessment information in these documents, while at the same time 
+asking other relevant questions. Id.
+    DOE also recognizes that test procedures are complex, and 
+stakeholders need sufficient time to formulate comments. But, as noted 
+previously, there are also instances where DOE issues rulemaking 
+documents of limited scope and a 30-day comment period, or even less, 
+is more than sufficient. For example, in evaluating the potential 
+establishment of test procedures for portable air conditioners, DOE 
+issued an RFI to provide information on investigative testing of 
+existing industry test procedures that could be used to measure cooling 
+capacity and energy use for portable air conditioners. 79 FR 26639 (May 
+9, 2014). Given that DOE was requesting information regarding existing 
+industry test procedures, DOE provided a 30-day comment period. Id. 
+With respect to test procedure NOPRs, EPCA requires at least a 60-day 
+comment period for covered products (42 U.S.C. 6293(b)(2)) and at least 
+a 45-day comment period for covered equipment (42 U.S.C. 6314(b)), 
+while USMCA normally requires a minimum comment period of 60 days for 
+technical regulations.\10\ As stated previously, DOE's main purpose in 
+revising appendix A is to minimize the inefficiencies and unnecessary 
+delays that come with a one-size-fits-all rulemaking approach. DOE sees 
+no reason to establish a longer minimum comment period than required by 
+EPCA or USMCA, which applies to other Federal agencies that issue 
+technical regulations of comparable complexity.
+---------------------------------------------------------------------------
+
+    \10\ See USMCA, Chapter 11, Technical Barriers to Trade, 
+available at <a href="https://ustr.gov/sites/default/files/files/agreements/FTA/USMCA/Text/11_Technical_Barriers_to_Trade.pdf">https://ustr.gov/sites/default/files/files/agreements/FTA/USMCA/Text/11_Technical_Barriers_to_Trade.pdf</a>.
+---------------------------------------------------------------------------
+
+    With respect to eliminating the requirement that DOE identify any 
+necessary modifications to the test procedure prior to initiating a 
+standards rulemaking, DOE agrees with the Advocacy Groups that test 
+procedure and standards rulemakings inform each other and providing DOE 
+with the ability to conduct the initial stages of a standards 
+rulemaking prior to finalizing a test procedure will allow issues 
+identified in the early phases of the standards rulemaking related to 
+the test procedure to be addressed in the test procedure rulemaking. 
+DOE also agrees with the CA IOUs that eliminating this requirement 
+would lead to a more efficient rulemaking process.
+    Accordingly, for the reasons discussed in the July 2021 NOPR and 
+this document, DOE is revising section 8 of appendix A to specify that 
+the Department will issue one or more pre-NOPR rulemaking documents and 
+comment periods for test procedure rulemaking documents will be 
+determined on a case-by-case basis with a minimum 60-day comment period 
+for NOPRs. DOE is also eliminating the requirement in section 8 that 
+the Department identify any necessary modifications to a test procedure 
+prior to initiating a standards rulemaking.
+
+D. ASHRAE Equipment
+
+    In EPCA, Congress established a separate and unique regulatory 
+scheme pertaining to DOE rulemakings of certain covered equipment 
+addressed by ASHRAE Standard 90.1, Energy Standard for Buildings Except 
+Low-Rise Residential Buildings, including specific requirements for 
+both energy conservation standards and test procedures. See 42 U.S.C. 
+6313(a)(6) and 42 U.S.C. 6314(a)(4), respectively. In the February 2020 
+Final Rule, DOE added a section to appendix A specifically addressing 
+ASHRAE equipment for the first time. 85 FR 8626, 8708. While DOE sees 
+value in setting forth the statutory requirements and the Department's 
+regulatory process for covered ASHRAE equipment, a subsequent review 
+suggested that DOE's initial efforts to explain the applicable ASHRAE 
+requirements could be improved, both in terms of better delineating the 
+rulemaking process for covered ASHRAE equipment and removing 
+constraints that are neither compelled by the statute nor consistent 
+with DOE's past practice.
+    First, with respect to the rulemaking process for ASHRAE equipment 
+laid out in EPCA, DOE proposed to separate out the statutory 
+requirements for energy conservation standards and test procedures, as 
+the February 2020 Final Rule erroneously applied EPCA's timelines for 
+energy conservation standards to test procedures as well. Id. at 86 FR 
+35675-35676. DOE also proposed to clarify what type of action on the 
+part of ASHRAE would trigger a DOE review for amended energy 
+conservation standards and test procedures. With respect to amended 
+energy conservation standards, DOE proposed to only consider ASHRAE to 
+have acted in a manner triggering DOE review when an updated version of 
+ASHRAE Standard 90.1 publishes (i.e., not at the time that an addendum 
+to ASHRAE Standard 90.1 is released or approved), and the updated 
+version includes an increase in the stringency of standard levels or a 
+new design requirement relative to the current Federal standards. With 
+respect to test procedures, DOE proposed to only consider ASHRAE to 
+have acted in a manner triggering DOE review when an updated version of 
+ASHRAE Standard 90.1 publishes (i.e., not at the time that an addendum 
+to ASHRAE Standard 90.1 is released or approved), and that updated 
+version adopts a new or amended test procedure that updates the 
+technical methodology. This approach is consistent with the ASHRAE-
+specific provisions in EPCA and generally consistent with past DOE 
+practice. Id. at 86 FR 35676. Finally, DOE also proposed to clarify 
+that ASHRAE's review and reaffirmance (i.e., not amending) of either a 
+standard or test procedure does not trigger a DOE review or affect the 
+timing of DOE's separate obligation under EPCA to periodically review 
+standards and test procedures for each class of covered equipment. Id.
+    Additionally, DOE proposed to clarify that it has some flexibility 
+in adopting an amended test procedure under ASHRAE Standard 90.1 as 
+EPCA does not require DOE to adopt a test procedure identical to the 
+industry test standard. Id. Instead, EPCA directs DOE
+
+[[Page 24352]]
+
+to amend its test procedure ``to be consistent with the amended 
+industry test procedure . . . unless the Secretary determines, by rule, 
+published in the Federal Register and supported by clear and convincing 
+evidence'' that the amended industry test standard would not be 
+representative of the equipment's energy efficiency, energy use, or 
+estimated operating cost during a representative average use cycle and 
+not be unduly burdensome to conduct. (42 U.S.C. 6314(a)(4)(B)) Id. DOE 
+further clarified that in such cases, DOE may then develop its own test 
+procedure which does meet these statutory requirements related to 
+representativeness and burden, even if the test procedure is not 
+consistent with the amended industry test standard. Id. DOE also noted 
+that the statutory language ``consistent with'' itself provides some 
+flexibility in adopting the amended industry test procedure, and that 
+as EPCA does not require DOE to adopt a test procedure identical to 
+applicable industry test standard, DOE may make modifications that are 
+consistent with the applicable industry test standard. Id.
+    In addition, DOE proposed to clarify that it is not required to 
+adopt or align with sections of the industry test standard that are not 
+necessary for the method of test for metrics included in the DOE test 
+procedure (e.g., sections of the industry test procedure regarding the 
+selection of models for testing under an industry certification 
+program, verification of represented values and the associated 
+tolerances, and operational requirements). These proposals were 
+consistent with the Department's longstanding historic practice. 86 FR 
+35668, 35676.
+    In the July 2021 NOPR, DOE also proposed to remove the statement 
+that DOE will adopt the revised ASHRAE levels or the industry test 
+procedure, except in very limited circumstances. The circumstances 
+under which DOE will adopt a more-stringent standard than the ASHRAE 
+standard or a different test procedure are laid out in the statute. DOE 
+will issue a more-stringent standard than the ASHRAE standard if DOE 
+determines, supported by clear and convincing evidence, that the more-
+stringent standard would result in significant additional conservation 
+of energy and is technologically feasible and economically justified. 
+(42 U.S.C. 6313(a)(6)(A)(ii)(II)) ``Very limited circumstances'' is an 
+ambiguous description for a process that is delineated in EPCA. As a 
+result, DOE proposed to remove this description of the circumstances 
+under which DOE will not adopt the amended ASHRAE standard or industry 
+test procedure. 86 FR 35668, 35676. Similarly, DOE proposed to remove 
+the discussion of what constitutes clear and convincing evidence. Id. 
+As DOE previously noted in the February 2020 Final Rule, the clear and 
+convincing evidence standard has a specific meaning that the courts 
+have routinely addressed through case law. See 85 FR 8626, 8642 
+(discussing in detail the application of the ``clear and convincing'' 
+evidentiary standard by courts and legal commentators); see also Am. 
+Pub. Gas Ass'n v. United States Dep't of Energy, 22 F.4th 1018, 1025 
+(D.C. Cir. 2022) (``[C]lear and convincing evidence requires a 
+factfinder (in this case the Secretary) to have an `abiding conviction' 
+that her findings (in this case that a more stringent standard would 
+result in significant additional conservation of energy, would be 
+technologically feasible, and is economically justified) are `highly 
+probable' to be true.''). DOE does not believe the discussion of clear 
+and convincing evidence in appendix A adds anything to the already 
+extensive case law pertaining to the clear and convincing evidence 
+threshold.
+    DOE also proposed to remove the statement that DOE believes that 
+ASHRAE not acting to amend Standard 90.1 is tantamount to a decision 
+that the existing standard remain in place and clarify that ASHRAE 
+reviewing and reaffirming a standard or test procedure does not have 
+any effect on DOE's rulemaking obligations under EPCA. 86 FR 35668, 
+35676. As discussed previously, DOE initiates an ASHRAE rulemaking 
+because: (1) Standard 90.1 is amended; or (2) it is required under the 
+6-year lookback review for standards or the 7-year lookback review for 
+test procedures. Neither of these situations would be affected by a 
+decision by ASHRAE to reaffirm an existing standard or test procedure.
+    Finally, DOE also proposed to make two clarifications regarding its 
+ASHRAE review process consistent with longstanding DOE practice. First, 
+DOE proposed to clarify that it assesses energy savings from amended 
+ASHRAE Standard 90.1 levels as compared to the current Federal standard 
+(or the market baseline in cases where ASHRAE adds new equipment 
+classes or categories not previously subject to Federal standards) and 
+will also assess energy savings from more-stringent standards as 
+compared to the ASHRAE Standard 90.1 levels. Id. And, second, DOE 
+proposed to clarify that it may review all metrics for the equipment 
+category at issue, even though ASHRAE only amended DOE's regulated 
+metric(s), and the Department may also consider changing regulated 
+metrics (while assessing equivalent stringency between metrics). DOE 
+also proposed to clarify that it may also consider changing metrics 
+during a 6-year-lookback or 7-year-lookback review. Id. DOE believes 
+this is consistent with EPCA's requirement that test procedures (and 
+metrics) be representative of an average use cycle.
+Comments Supporting DOE's Proposals on ASHRAE Rulemakings
+    Several commenters expressed general support for all of DOE's 
+proposed revisions to the ASHRAE provisions in appendix A. (See, e.g., 
+NPCC, No. 52 at p. 2; NEEA, No.71 at pp. 3-4) With respect to DOE's 
+proposal to create separate provisions for energy conservation 
+standards and test procedures rulemakings because of different 
+statutory requirements, the Joint Industry Commenters agreed that 
+energy conservation standards and test procedure rulemakings are 
+subject to different timelines under the statute. (Joint Industry 
+Commenters, No. 62 at p. 19).
+    Several commenters supported DOE's proposal to provide clarity 
+tying the triggering event to when ASHRAE publishes an updated version 
+of ASHRAE Standard 90.1. (See, e.g., BWC, No. 63 at pp. 2-3; NEEA, No. 
+71 at pp. 3-4; ASHRAE, No. 59 at p. 3) ASHRAE stated that the proposal 
+provides for a regular three-year cadence of reviews and provides 
+clarity. (ASHRAE, No. 59 at p. 3) NEEA recommend that DOE clarify in 
+the regulatory text that addendums to ASHRAE 90.1 or updates to an 
+industry test procedure (TP) that ASHRAE 90.1 references do not trigger 
+a DOE review of energy conservation standard (ECS) and TP. (NEEA, No. 
+71 at pp. 3-4) BWC also agrees with DOE not triggering a review simply 
+when ASHRAE reviews or affirms a standard. (BWC, No. 63 at pp. 2-3)
+    Several commenters supported DOE's proposal to remove the language 
+stating that DOE would adopt ASHRAE levels or the industry test 
+procedure, except in very limited circumstances. (See, e.g., ASAP, No. 
+53 at pp. 41-42; Advocacy Groups, No. 70 at p. 5; State Commenters, No. 
+67 at pp. 7-8; NEEA, No. 71 at pp. 3-4) In supporting DOE's proposal, 
+ASAP stated that the ``except in very limited circumstances'' language 
+was an additional constraint that was inconsistent with the statute and 
+would impede DOE's ability to achieve EPCA's energy conservation 
+purposes. (ASAP, No. 53 at pp. 41-42)
+    Similarly, several commenters also supported DOE's proposal to 
+remove the discussion of what constitutes clear and
+
+[[Page 24353]]
+
+convincing evidence from appendix A. (See, e.g., ASAP, No. 53 at pp. 
+41-42; CEC, No. 55 at p. 3; Advocacy Groups, No. 70 at p. 5; State 
+Commenters, No. 67 at pp. 7-8) State Commenters noted that further 
+elaboration of the clear and convincing evidence standard either does 
+not change the standard, in which case it is superfluous, or does 
+change the standard, in which case it violates EPCA. (State Commenters, 
+No. 67 at pp. 7-8) The California Energy Commission (CEC) stated that 
+DOE's removal of the clear and convincing evidence discussion in light 
+of the extensive case law covering this topic would ensure that an 
+overly stringent interpretation of the evidentiary threshold does not 
+inhibit the Department from adopting standards that would result in 
+significant additional conservation of energy and are technologically 
+feasible and economically justified. (CEC, No. 55 at p. 3)
+Comments Opposing DOE's Proposals on ASHRAE Rulemakings
+    One commenter requested that DOE reconsider its proposal tying the 
+triggering event to when ASHRAE publishes an updated version of ASHRAE 
+Standard 90.1. Specifically, CA IOUs requested that DOE consider 
+publication of an addendum to ASHRAE Standard 90.1 to trigger a review, 
+noting that some valuable addenda miss the triannual update deadline 
+but are published shortly afterward, and that DOE's proposed 
+interpretation would result in a delay in compliance state for 
+standards. (CA IOUs, No. 69 at p. 3) CA IOUs also requested that DOE 
+clarify what is meant by updates to ASHRAE 90.1 that modify the 
+referenced industry test procedure; specifically what degree of change 
+is required to trigger DOE. Id. CA IOUs noted that historically ASHRAE 
+has adopted the latest published version of industry test procedures, 
+even if they include only minor changes and clarifications from the 
+previous version, and that DOE typically does not update its test 
+procedure to match ASHRAE in those cases. Id.
+    With respect to DOE's proposal to clarify that ASHRAE's review and 
+reaffirmance (i.e., not amending) of either a standard or test 
+procedure does not trigger a DOE review or affect the timing of DOE's 
+separate obligation under EPCA, the Joint Industry Commenters stated 
+that if ASHRAE 90.1 is amended just with respect to the energy 
+conservation standard for an ASHRAE equipment, they would still expect 
+DOE to conduct a ``short test procedure rulemaking to simply 
+acknowledge the continued applicability of the test procedure.'' (Joint 
+Industry Commenters, No. 62 at p. 20)
+    Several commenters opposed DOE's proposal to remove the language 
+stating that DOE would adopt ASHRAE levels or the industry test 
+procedure, except in very limited circumstances. (See, e.g., Carrier, 
+No. 54 at pp. 3, 4; Lutron, No. 64 at pp. 4-5; Joint Industry 
+Commenters, No. 62 at pp. 23-24; BWC, No. 63 at p. 3; ASHRAE, No. 59 at 
+pp. 3-4) In urging DOE to retain this language, the Joint Industry 
+Commenters stated that ASHRAE's open and collaborative process, which 
+involves manufacturers, energy advocates, regulators, academia, and 
+utilities, develops standards that are fair and representative of what 
+are both economically and technologically feasible at the time of the 
+revision. (Joint Industry Commenters, No. 62 at pp. 23-24) Similarly, 
+Lutron stated that industry test procedures are developed by balanced 
+committees and DOE should routinely adopt industry test procedures as a 
+matter of best practice. (Lutron, No. 64 at pp. 4-5) GE Appliances 
+stated that adopting consensus standards speeds up the test procedure 
+rulemaking process, prepares all stakeholders to address standards 
+rulemakings sooner, and reduces the likelihood of litigation or other 
+action regarding test procedures. (GE Appliances, No. 72 at p. 3) 
+Lennox stated that DOE should rarely deviate from industry test 
+procedures metrics given the ``clear and convincing evidence'' 
+threshold set for deviating from industry test procedures. Id. Lennox 
+stated that the test procedure lookback section indicates that DOE may 
+amend a test procedure ``in accordance with this section'' (42 U.S.C. 
+6314(a)(1)(i)), which thereby references the entire section 42 U.S.C. 
+6314, which includes the ASHRAE ``clear and convincing evidence'' 
+standard for amending a test procedure in 6314(a)(4)(B). Id.
+    DOE received several comments opposing the Department's proposal to 
+remove the discussion of what constitutes clear and convincing 
+evidence. (See, e.g., Spire, No. 53 at p. 43; Carrier, No. 54 at pp. 3, 
+4; Joint Industry Commenters, No. 62 at p. 24; ASHRAE, No. 59 at pp. 3-
+4) The Joint Industry Commenters urged DOE to retain the current text 
+regarding what constitutes ``clear and convincing'' evidence with 
+respect to adopting energy conservation standards more stringent than 
+those adopted in ASHRAE 90.1. In their view, the explanatory text 
+adopted as part of the February 2020 Final Rule clarified the meaning 
+of this phrase in this context, which is to discourage the adoption of 
+higher energy efficiency standards above those set by ASHRAE. (Joint 
+Industry Commenters, No. 62 at p. 24) Spire stated that eliminating the 
+discussion of what constitutes clear and convincing evidence would 
+forgo an opportunity to potentially resolve issues without the need for 
+litigation. (Spire, No. 53 at p. 43)
+DOE's Response to Comments
+    First, DOE did not receive any comments opposing separate 
+provisions for energy conservation standards and test procedure 
+rulemakings. As noted by the Joint Industry Commenters, energy 
+conservation standards and test procedure rulemakings are subject to 
+different statutory requirements under the ASHRAE provisions in EPCA. 
+Accordingly, for the reasons discussed in the July 2021 NOPR and this 
+document, DOE is revising section 9 of appendix A to create separate 
+provisions for energy conservation standards and test procedure 
+rulemaking requirements.
+    With respect to DOE's proposal that the ASHRAE provisions are 
+triggered when an updated version of ASHRAE Standard 90.1 is published, 
+the CA IOUs commented that DOE should instead consider the publication 
+of an addendum to ASHRAE Standard 90.1 as the triggering event. In 
+response to the CA IOUs, DOE has determined that the benefit of a clear 
+review cycle provides certainty to the public and does not impact DOE's 
+separate obligation under EPCA to periodically review standards and 
+test procedures, which should alleviate some of the CA IOUs concern 
+over the possibility of extended compliance dates.
+    With respect to NEEA's request that DOE clarify in the regulatory 
+text that addendums to ASHRAE 90.1 or updates to an industry TP that 
+ASHRAE 90.1 references do not trigger a DOE review of ECS and TP, DOE 
+notes that it was already articulated in the regulatory text with 
+respect to standards, but DOE has included similar language in the 
+regulatory text with respect to test procedures, consistent with the 
+proposal in the NOPR preamble. With respect to the CA IOUs request that 
+DOE clarify what degree of change to an industry test procedure would 
+trigger DOE to act, DOE would only be triggered by ASHRAE updating its 
+reference to an updated industry test procedure that contains 
+modifications to sections of relevance to DOE metrics. Where the 
+referenced industry test procedure makes minor modifications to
+
+[[Page 24354]]
+
+a section of relevance to DOE metrics, DOE would only consider itself 
+triggered if such modifications make a substantive change to the DOE 
+test procedure.
+    With respect to DOE's proposal to clarify that ASHRAE's review and 
+reaffirmance (i.e., not amending) of either a standard or test 
+procedure does not trigger a DOE review or affect the timing of DOE's 
+separate obligation under EPCA, the Joint Industry Commenters stated 
+that if ASHRAE 90.1 is amended just with respect to the energy 
+conservation standard for an ASHRAE equipment, they would still expect 
+DOE to conduct a ``short test procedure rulemaking to simply 
+acknowledge the continued applicability of the test procedure.'' DOE 
+disagrees with the Joint Industry Commenters. DOE's rulemaking 
+obligations under the ASHRAE provisions in EPCA are very clear. 
+Further, as clarified in this final rule, the requirements for test 
+procedure and standards rulemakings are separate. Being required to 
+initiate an energy conservation standards rulemaking for ASHRAE 
+equipment under either an ASHRAE trigger or a 6-year lookback review, 
+does not, on its own, require DOE to also conduct a test procedure 
+rulemaking. As such, for the reasons discussed in the July 2021 NOPR 
+and this document, DOE is revising section 9 of appendix A to remove 
+language that suggests that ASHRAE not acting to amend a standard is a 
+decision affirming the current standard. However, DOE is not finalizing 
+the language from the July 2021 NOPR that stated that DOE's obligations 
+under the lookback provisions for standards and test procedures are not 
+satisfied by any ASHRAE action, including reviewing, but not amending, 
+a standard or test procedure. DOE believes the statute is already 
+sufficiently clear on this point and the added text is unnecessary.
+    With respect to DOE's proposed elimination of the language 
+characterizing the circumstances under which the Department would not 
+adopt the ASHRAE levels or test procedure as being very limited, 
+commenters, both in favor of and opposed to retaining this language, 
+seem to think this language implies something more than what is written 
+in the statute. EPCA specifies the circumstances under which DOE will 
+adopt a more-stringent standard than the ASHRAE standard or a different 
+test procedure. For example, DOE will issue a more-stringent standard 
+than the ASHRAE standard if DOE determines, supported by clear and 
+convincing evidence, that the more-stringent standard would result in 
+significant additional conservation of energy and is technologically 
+feasible and economically justified. (42 U.S.C. 6313(a)(6)(A)(ii)(II)) 
+DOE agrees with commenters that adding a vague description to these 
+circumstances only raises concerns that DOE may not be properly 
+following a process that is clearly laid out in the statute.
+    Similarly, the discussion of what constitutes clear and convincing 
+evidence that was added in the February 2020 Final Rule has led to some 
+confusion over whether DOE is applying the clear and convincing 
+evidence threshold required by EPCA or a modified version. Accordingly, 
+for the reasons discussed in the July 2021 NOPR and this document, DOE 
+is revising section 9 of appendix A to remove this language as 
+proposed. DOE disagrees with Lennox's assertion that DOE should rarely 
+deviate from industry test procedure metrics due to their view that the 
+7-year lookback requires ``clear and convincing evidence'' to deviate 
+from industry test procedure. Lennox asserts that a reference in 42 
+U.S.C. 6314(a)(1)--the 7-year lookback provision--to ``in accordance 
+with this section'' references the entirety of section 42 U.S.C. 6314, 
+including the clear and convincing provision in 42 U.S.C. 6314(4)--the 
+ASHRAE trigger provision. However, a plain language reading does not 
+include this requirement; paragraph (a)(4) of section 6314 is very 
+specific to the ASHRAE trigger; had it been intended for this paragraph 
+to apply to the 7 year lookback as well, it would have been cited 
+specifically, just as the 6 year lookback provision for energy 
+conservation standards in 42 U.S.C. 6313(6)(C) refer back specifically 
+to the ASHRAE trigger provisions in 42 U.S.C. 6313(6)(A) and (B).
+    During its 7-year lookback review, DOE is directed by EPCA to 
+evaluate whether an amended test procedure would more accurately or 
+fully comply with the representativeness and burden requirements in 42 
+U.S.C. 6314(a)(2), and if DOE determines an amended test procedure 
+would do so, then DOE is required to prescribe such test procedures for 
+the equipment class. (42 U.S.C. 6314(a)(1)(A)) There is no requirement 
+that DOE's decision to amend a test procedure be supported by clear and 
+convincing evidence. (Id.) DOE's 7-year-lookback review under EPCA 
+ensures that DOE is not bound to an industry test procedure that has 
+not been updated when more representative and/or less burdensome test 
+methods are available.
+    DOE notes that in proposing modifications to the regulatory text 
+for the ASHRAE Equipment section, DOE inadvertently introduced the 
+``clear and convincing'' language to the test procedure lookback 
+rulemaking provision. Nowhere in the preamble did DOE state that it 
+intended for this to be the requirement or that it was DOE's 
+interpretation of EPCA. For the reasons discussed above, DOE has 
+removed that clause in this final rule.
+    Finally, as noted in the July 2021 NOPR, application of the ASHRAE 
+provisions in EPCA typically involve nuances that are not best 
+addressed in appendix A, which contains generally applicable 
+procedures, interpretations, and policies for energy conservation 
+standard and test procedure rulemakings. 86 FR 35668, 35675. DOE 
+received several comments in response to the July 2021 NOPR that 
+further reinforce the need for additional, more-specific guidance on 
+DOE's implementation of the ASHRAE provisions. DOE believes this is 
+best accomplished outside the confines of appendix A in a separate 
+process. As such, DOE is not finalizing proposed revisions from the 
+July 2021 NOPR dealing with regulated metrics, the baseline for energy 
+conservation standards analysis, adoption of industry test procedure 
+sections not relevant to the DOE test procedure, and consistency with 
+the industry TP in this final rule. DOE will further consider these 
+proposals and other ASHRAE-related issues in a separate process.
+
+E. Analytical Methodology
+
+    In late 2019, DOE contracted with the National Academy of Sciences 
+(``NAS'') to conduct a peer review of the Department's methods for 
+setting building and equipment performance standards.\11\ As such, in 
+the February 2020 Process Rule, DOE stated that it would consider 
+changes to sections of the Process Rule involving its analytical 
+methodologies in a subsequent proceeding after completion of a peer 
+review. 85 FR 8686-8687. As such, these sections remained largely 
+unchanged from the July 1996 Final Rule. However, when DOE began to 
+consider revisions to appendix A in early 2021, the NAS peer review 
+process was still ongoing without a definitive completion date. At that 
+point, DOE decided that the benefits of updating the analytical 
+methodology in the July 1996 Final Rule to reflect the Department's 
+current practice, which incorporates lessons learned from an additional 
+25
+
+[[Page 24355]]
+
+years of rulemakings, outweighed the potential inefficiency of having 
+to amend these methods again in a subsequent proceeding. As a result, 
+in the July 2021 NOPR, DOE proposed to revise appendix A to reflect the 
+current state of DOE's analytical methodologies. DOE also stated that 
+if it makes any revisions to its analytical methods based on the NAS 
+peer review, the Department will propose any necessary corresponding 
+revisions to the Process Rule in a subsequent proceeding. 86 FR 35668, 
+35677.
+---------------------------------------------------------------------------
+
+    \11\ More information on the NAS peer review, including the 
+final report, is available at <a href="https://www.nationalacademies.org/our-work/review-of-methods-for-setting-building-and-equipment-performance-standards">https://www.nationalacademies.org/our-work/review-of-methods-for-setting-building-and-equipment-performance-standards</a>.
+---------------------------------------------------------------------------
+
+    DOE has since had cause to reconsider this position. First, in 
+response to the July 2021 NOPR, DOE received numerous comments from 
+stakeholders that the Department should wait to revise its analytical 
+methodologies until the NAS has completed its peer review. (See, e.g., 
+Carrier, No. 54 at p. 4; Lutron, No. 64 at p. 4; GEA, No. 72 at p. 4; 
+Joint Industry Commenters, No. 62 at pp. 10-11) Second, the NAS 
+completed the peer review and published their report on January 7, 
+2022.\12\ In light of these two factors, DOE has decided not to 
+finalize any revisions to its analytical methodologies in this 
+document. Instead, DOE will consider changes to its methodologies in a 
+separate notice-and-comment process that is informed by the results of 
+the NAS Report.
+---------------------------------------------------------------------------
+
+    \12\ Review of Methods Used by the U.S. Department of Energy in 
+Setting Appliance and Equipment Standards. The National Academies 
+Press (2021). Available at <a href="http://www.nap.edu/catalog/25992/review-of-methods-used-by-the-us-department-of-energy-in-setting-appliance-and-equipment-standards">www.nap.edu/catalog/25992/review-of-methods-used-by-the-us-department-of-energy-in-setting-appliance-and-equipment-standards</a>.
+---------------------------------------------------------------------------
+
+F. Other Topics
+
+    In addition to the topics covered in this document, DOE also 
+received a number of other comments on topics not covered in the July 
+2021 NOPR. For instance, DOE received a number of comments on issues 
+discussed in the April 2021 NOPR, e.g., whether appendix A should be 
+binding. DOE is not addressing these comments in this document as those 
+proposals were finalized in the December 2021 Final Rule.
+    DOE also received comment on its adherence to EPCA's directive that 
+any new or amended energy conservation standard prescribed by the DOE 
+must be designed to achieve the maximum improvement in energy 
+efficiency, which the Secretary determines is technologically feasible 
+and economically justified, and DOE's application of the associated 
+statutory factors. (See 42 U.S.C. 6295(o)(2)(A) and (B)(i)(I)-(IV); 42 
+U.S.C. 6316(a))
+    The Joint Commenters urged DOE to retain its current practices of 
+analyzing all relevant statutory factors when selecting a final 
+standard rather than focusing sequentially on any one or any specific 
+set of factors. They also suggested that when analyzing whether a 
+potential standard level is economically justified, DOE should continue 
+to use only the economic results to end consumers since, in their view, 
+this is the clear intent of the relevant statutes and end consumer 
+economics should be the sole criterion in determining economic 
+justification. The commenters noted that DOE's national economic and 
+related impact analyses are not measures of end consumer economics and 
+should never be used as a substitute (or supersede) the end customer 
+analysis. (Joint Industry Commenters, No. 62 at p. 13)
+    The Joint Industry Commenters stated that they would object to 
+DOE's use of the Social Cost of Carbon and other calculations of the 
+monetary value of avoided greenhouse gas emissions being included in 
+DOE's analysis of the factors under EPCA. The commenters asserted that 
+such an approach would be inappropriate under EPCA since the scientific 
+and economic knowledge continues to evolve rapidly as to the 
+contribution of carbon dioxide and other greenhouse gases to changes in 
+the future global climate. They argued that while it may be acceptable 
+for DOE to examine these values as informational (so long as the 
+underlying interagency analysis is transparent and vigorous), the 
+emissions reductions analysis should not impact the trial standard 
+level that DOE selects as a new or amended standard. (Joint Industry 
+Commenters, No. 62 at pp. 13-14)
+    AHRI asserted that EPCA was intended to focus on energy efficiency, 
+energy costs, and energy savings in the United States. It argued that 
+none of the seven factors \13\ that DOE must consider when evaluating 
+whether a potential standard is economically justified focuses on the 
+monetary value of the avoided emissions of greenhouse gases or other 
+air pollutants. It added that Congress' inclusion of the first six 
+factors individually was evidence of its view that these first six 
+factors were significantly important and drive the energy standards 
+analysis. AHRI further asserted that in spite of numerous amendments to 
+EPCA, Congress never included greenhouse gas emissions as a pertinent 
+factor for DOE to consider. AHRI stated that the monetary impacts of 
+avoided greenhouse gas emissions should only be used for informational 
+purposes rather than given any weight as part of DOE's cost-benefit 
+analysis--and DOE should not use its limited resources to conduct an 
+analysis of avoiding these emissions (or the social cost of carbon) 
+when setting efficiency levels. (AHRI, No. 56 at 2-3)
+---------------------------------------------------------------------------
+
+    \13\ EPCA states that in determining whether a standard is 
+economically justified, the Secretary shall, after receiving views 
+and comments furnished with respect to the proposed standard, 
+determine whether the benefits of the standard exceed its burdens 
+by, to the greatest extent practicable, considering--(I) the 
+economic impact of the standard on the manufacturers and on the 
+consumers of the products subject to such standard; (II) the savings 
+in operating costs throughout the estimated average life of the 
+covered product in the type (or class) compared to any increase in 
+the price of, or in the initial charges for, or maintenance expenses 
+of, the covered products which are likely to result from the 
+imposition of the standard; (III) the total projected amount of 
+energy, or as applicable, water, savings likely to result directly 
+from the imposition of the standard; (IV) any lessening of the 
+utility or the performance of the covered products likely to result 
+from the imposition of the standard; (V) the impact of any lessening 
+of competition, as determined in writing by the Attorney General, 
+that is likely to result from the imposition of the standard; (VI) 
+the need for national energy and water conservation; and (VII) other 
+factors the Secretary considers relevant. (42 U.S.C. 
+6295(o)(2(B)(i)(I)-(VII); 42 U.S.C. 6316(a))
+---------------------------------------------------------------------------
+
+    Specifically with respect to ASHRAE equipment, ASHRAE cautioned DOE 
+from going beyond the efficiency standards in Standard 90.1 by overly 
+depending upon factors not explicitly named in the so-called ``7 Factor 
+Test'', stating that ASHRAE supports greenhouse gas reductions but 
+noting that almost any higher standard could be ``economically 
+justified'' by using factors such as monetizing avoided emissions. 
+ASHRAE stated that such monetization should be produced but not overly 
+relied upon in its determination of whether a standard is economically 
+justified. (ASHRAE, No. 59 at p. 5)
+    AHRI also argued that to the extent DOE calculates greenhouse gas 
+emissions associated with potential standards for informational 
+purposes, the emission increases from other social equity factors must 
+also be considered. AHRI asserted that these other factors have 
+significant impacts on greenhouse gas emissions because new standards 
+that increase the cost of covered equipment result in underserved rural 
+and urban households and small businesses to continue using old, 
+inefficient, and leaky equipment--thereby allowing high global warming 
+potential refrigerants to be released into the atmosphere. (AHRI, No. 
+56 at p. 3)
+    IPI commented that DOE should revise its rulemaking approach to 
+ensure the consistent and meaningful consideration of all important 
+effects to the environment, public health, consumers, and energy 
+security,
+
+[[Page 24356]]
+
+including indoor air quality and toxic air and water pollution. Such 
+significant impacts, including both upstream and downstream emissions, 
+should be considered during--not after--the evaluation of whether 
+standards are economically justified. (IPI, No. 68 (Attachment at pp. 1 
+and 7-8))
+    As noted, under EPCA, any new or amended standard must be designed 
+to achieve the maximum improvement in energy efficiency that is 
+technologically feasible and economically justified. (42 U.S.C. 
+6295(o)(2)(A); 42 U.S.C. 6316(a)) To ensure that DOE meets this 
+statutory mandate, DOE employs a walk-down process to select energy 
+conservation standard levels. As a first step in the process, DOE 
+screens out technologies for improving energy efficiency that are not 
+feasible. DOE then uses the remaining technologies to create a range of 
+TSLs. Beginning with the max-tech TSL, DOE then determines whether a 
+specific TSL is economically justified. In making that determination, 
+DOE determines, after reviewing public comments and data, whether the 
+benefits of the standard exceed its burdens by, to the greatest extent 
+practicable, considering the seven factors described in 42 U.S.C. 
+6295(o)(2)(B)(i). (See also 42 U.S.C. 6313(a)(6)(B)(ii) (applying the 
+seven factors to ASHRAE equipment); 42 U.S.C. 6316(a) (applying the 
+seven factors to non-ASHRAE equipment))
+    If DOE determines that the max-tech TSL is economically justified, 
+the analysis ends, and DOE adopts the max-tech TSL as the new or 
+amended standard. However, if DOE determines that the max-tech TSL is 
+not economically justified, DOE walks down to consider the next-most-
+stringent TSL. This walkdown process continues until DOE determines 
+that a TSL is economically justified or that none of the TSLs are 
+economically justified.
+    DOE maintains that climate and health benefits associated with the 
+more efficient use of energy are important to take into account when 
+considering the need for national energy and water conservation, which 
+is one of the factors to consider under EPCA. (42 U.S.C. 
+6295(o)(2)(B)(i)(VI); Zero Zone, Inc. v. United States DOE, 832 F.3d 
+654, 677 (7th Cir. 2016) (holding that, under 42 U.S.C. 
+(o)(2)(B)(i)(VI), DOE has ``the authority under EPCA to consider the 
+reduction in'' the social cost of greenhouse gasses)).
+    The Advocacy Groups provided comment on certain apparent 
+inconsistencies and inaccuracies in sections 6 and 7. The Advocacy 
+Groups noted that the text of section 6(a)(4)(ii) indicates that DOE 
+and its contractors will perform engineering and life-cycle cost 
+analyses of the design options and section 6(a)(4)(v) similarly refers 
+to life-cycle cost analysis of design options. The Advocacy Groups 
+commented that DOE does not perform life-cycle cost analyses of design 
+option but of efficiency levels. Similarly, they also noted that 
+section 7(c)(1) refers to the analysis of design options, which they 
+emphasized DOE does not perform--rather, DOE's analysis is performed on 
+efficiency levels. The Advocacy Group suggested that DOE make changes 
+to reflect this practice. The Advocacy Groups also stated that the 
+current text of section 7(b)(1), which notes that technologies not 
+incorporated into commercial products or in commercially viable, 
+existing prototypes will not be considered further, is inconsistent 
+with DOE's practice of screening out design options which are not 
+incorporated in commercial products or in working prototypes. They 
+commented that DOE evaluates a ``max-tech'' level (maximum 
+technologically feasible level) regardless of cost and that DOE cannot 
+screen out a design option on the basis of cost, which are separately 
+considered as part of the selection of standard levels. The Advocacy 
+Groups further added that while section 7(c)(3) says that efficiency 
+levels will be identified in pre-NOPR documents, DOE does not always 
+identify efficiency levels in its pre-NOPR documents. (Advocacy Groups, 
+No. 70 at pp. 5-6)
+    Regarding the Advocacy Groups' comments, DOE will address them as 
+part of the separate notice-and-comment process addressing DOE's 
+rulemaking methodology.
+
+IV. Procedural Issues and Regulatory Review
+
+A. Review Under Executive Orders 12866,13563, and 14094
+
+    Executive Order (``E.O.'') 12866, ``Regulatory Planning and 
+Review,'' 58 FR 51735 (Oct. 4, 1993), as supplemented and reaffirmed by 
+E.O. 13563, ``Improving Regulation and Regulatory Review,'' 76 FR 3821 
+(Jan. 21, 2011) and E.O. 14094, ``Modernizing Regulatory Review,'' 88 
+FR 21879 (April 11, 2023), requires agencies, to the extent permitted 
+by law, to: (1) propose or adopt a regulation only upon a reasoned 
+determination that its benefits justify its costs (recognizing that 
+some benefits and costs are difficult to quantify); (2) tailor 
+regulations to impose the least burden on society, consistent with 
+obtaining regulatory objectives, taking into account, among other 
+things, and to the extent practicable, the costs of cumulative 
+regulations; (3) select, in choosing among alternative regulatory 
+approaches, those approaches that maximize net benefits (including 
+potential economic, environmental, public health and safety, and other 
+advantages; distributive impacts; and equity); (4) to the extent 
+feasible, specify performance objectives, rather than specifying the 
+behavior or manner of compliance that regulated entities must adopt; 
+and (5) identify and assess available alternatives to direct 
+regulation, including providing economic incentives to encourage the 
+desired behavior, such as user fees or marketable permits, or providing 
+information upon which choices can be made by the public. DOE 
+emphasizes as well that E.O. 13563 requires agencies to use the best 
+available techniques to quantify anticipated present and future 
+benefits and costs as accurately as possible. In its guidance, the 
+Office of Information and Regulatory Affairs (``OIRA'') in the Office 
+of Management and Budget (``OMB'') has emphasized that such techniques 
+may include identifying changing future compliance costs that might 
+result from technological innovation or anticipated behavioral changes. 
+For the reasons stated in this preamble, this final regulatory action 
+is consistent with these principles.
+    This regulatory action is a significant regulatory action under 
+section 3(f)(4) of Executive Order 12866, ``Regulatory Planning and 
+Review,'' 58 FR 51735 (Oct. 4, 1993). Accordingly, this regulatory 
+action was subject to review under the Executive order by the Office of 
+Information and Regulatory Affairs (OIRA) in the Office of Management 
+and Budget (OMB).
+    The revisions contained in this regulatory action are procedural 
+changes designed to improve DOE's ability to meet its rulemaking 
+obligations and deadlines under EPCA. These revisions would not impose 
+any regulatory costs or burdens on stakeholders, nor would they limit 
+public participation in DOE's rulemaking process. Instead, these 
+revisions would allow DOE to tailor its rulemaking processes to fit the 
+facts and circumstances of a particular rulemaking for a covered 
+product or equipment.
+    DOE currently has energy conservation standards and test procedures 
+in place for more than 60 categories of covered products and equipment 
+and is typically working on anywhere from 50 to 100 rulemakings (for 
+both energy conservation standards and test procedures) at any one 
+time.
+
+[[Page 24357]]
+
+Further, these rulemakings are all subject to statutory or other 
+deadlines. Typically, review cycles for energy conservation standards 
+and test procedures for covered products are 6 and 7 years, 
+respectively. (42 U.S.C. 6295(m)(1); 42 U.S.C 6293(b)(1)) Additionally, 
+if DOE decides not to amend an energy conservation standard for a 
+covered product, the subsequent review cycle is shortened to 3 years. 
+(42 U.S.C. 6295(m)(3)(B)) It is challenging to meet these cyclical 
+deadlines for more than 60 categories of covered products and 
+equipment. In fact, as previously discussed, DOE is faced two lawsuits 
+that allege DOE has failed to meet rulemaking deadlines for 25 
+different consumer products and commercial equipment.\14\
+---------------------------------------------------------------------------
+
+    \14\ Consent Decree, NRDC v. DOE, No.: 20-cv-9127 (S.D.N.Y. 
+Sept. 20, 2022).
+---------------------------------------------------------------------------
+
+    In order to meet these rulemaking deadlines, DOE cannot afford the 
+inefficiencies that come with a one-size-fits-all rulemaking approach. 
+For example, having to issue an early assessment RFI followed by an 
+ANOPR to collect early stakeholder input when a NODA or other pre-rule 
+document would accomplish the same purpose unnecessarily lengthens the 
+rulemaking process and wastes limited DOE resources. Similarly, having 
+to identify any necessary modifications to a test procedure prior to 
+initiating an energy conservation standard rulemaking makes it more 
+difficult for DOE to meet rulemaking deadlines, while offering little 
+to no benefit to stakeholders.
+    The revisions in this document would allow DOE to eliminate these 
+types of inefficiencies that lengthen the rulemaking process and waste 
+DOE resources, while not affecting the ability of the public to 
+participate in the rulemaking process. Eliminating inefficiencies that 
+lengthen the rulemaking process allows DOE to more quickly develop 
+energy conservation standards that deliver the environmental benefits, 
+including reductions in greenhouse gas emissions, that DOE is directed 
+to pursue under E.O. 13990. Further, the sooner new or amended energy 
+conservation standards eliminate less-efficient covered products and 
+equipment from the market, the greater the resulting energy savings and 
+environmental benefits.
+    Finally, the revisions in this document would not dictate any 
+particular rulemaking outcome in an energy conservation standard or 
+test procedure rulemaking. DOE will continue to calculate the 
+regulatory costs and benefits of new and amended energy conservation 
+standards and test procedures issued under EPCA in future, individual 
+rulemakings.
+
+B. Review Under the Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (5 U.S.C. 601 et seq., as amended by 
+the Small Business Regulatory Enforcement Fairness Act of 1996) 
+requires preparation of an initial regulatory flexibility analysis 
+(IRFA) for any rule that by law must be proposed for public comment and 
+a final regulatory flexibility analysis (FRFA) for any such rule that 
+an agency adopts as a final rule, unless the agency certifies that the 
+rule, if promulgated, will not have a significant economic impact on a 
+substantial number of small entities. A regulatory flexibility analysis 
+examines the impact of the rule on small entities and considers 
+alternative ways of reducing negative effects. Also, as required by 
+Executive Order 13272, ``Proper Consideration of Small Entities in 
+Agency Rulemaking,'' 67 FR 53461 (August 16, 2002), DOE published 
+procedures and policies on February 19, 2003, to ensure that the 
+potential impacts of its rules on small entities are properly 
+considered during the DOE rulemaking process. 68 FR 7990. DOE has made 
+its procedures and policies available on the Office of the General 
+Counsel's website at: <a href="http://www.energy.gov/gc/office-general-counsel">www.energy.gov/gc/office-general-counsel</a>.
+    This final rule details generally applicable guidance that may 
+guide, but not bind, the Department's rulemaking process. The revisions 
+in this rule are intended to improve DOE's ability to meet the 
+obligations and deadlines outlined in EPCA by allowing DOE to tailor 
+its rulemaking procedures to fit the specific facts and circumstances 
+of a particular covered product or equipment, while not affecting the 
+ability of any interested person, including small entities, to 
+participate in DOE's rulemaking process. Because this rule imposes no 
+regulatory obligations on the public, including small entities, and 
+does not affect the ability of any interested person, including small 
+entities, to participate in DOE's rulemaking process, DOE certifies 
+that this final rule will not have a significant economic impact on a 
+substantial number of small entities, and, therefore, no final 
+regulatory flexibility analysis is required. Mid-Tex Elec. Cooperative, 
+Inc. v. F.E.R.C., 773 F.2d 327 (D.C. Cir. 1985).
+
+C. Review Under the Paperwork Reduction Act of 1995
+
+    DOE is not amending its existing information collections through 
+this rule. Under existing provisions, manufacturers of covered 
+products/equipment must certify to DOE that their products comply with 
+any applicable energy conservation standards. In certifying compliance, 
+manufacturers must test their products according to the DOE test 
+procedures for such products/equipment, including any amendments 
+adopted for those test procedures, on the date that compliance is 
+required. DOE has established regulations for the certification and 
+recordkeeping requirements for all covered consumer products and 
+commercial equipment. 76 FR 12422 (March 7, 2011); 80 FR 5099 (Jan. 30, 
+2015). The collection-of-information requirement for certification and 
+recordkeeping is subject to review and approval by OMB under the 
+Paperwork Reduction Act (PRA). This requirement has been approved by 
+OMB under OMB control number 1910-1400. Public reporting burden for the 
+certification is estimated to average 30 hours per response, including 
+the time for reviewing instructions, searching existing data sources, 
+gathering and maintaining the data needed, and completing and reviewing 
+the collection of information.
+    Notwithstanding any other provision of the law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the PRA, unless that collection of information displays 
+a currently valid OMB Control Number.
+    Specifically, this rule, in addressing clarifications to DOE's 
+guidance regarding its process for amending and establishing energy 
+conservation standards and related test procedures set out in 10 CFR 
+part 430, subpart C, appendix A, does not contain any collection of 
+information requirement that would trigger the PRA.
+
+D. Review Under the National Environmental Policy Act of 1969
+
+    DOE has analyzed this regulation in accordance with the National 
+Environmental Policy Act (NEPA) and DOE's NEPA implementing regulations 
+(10 CFR part 1021). DOE's regulations include a categorical exclusion 
+for rulemakings interpreting or amending an existing rule or regulation 
+that does not change the environmental effect of the rule or regulation 
+being amended. 10 CFR part 1021, subpart D, appendix A, categorical 
+exclusion A5. DOE's regulations include a categorical exclusion for 
+rulemakings that are strictly procedural. 10 CFR part 1021, subpart D, 
+appendix A, categorical exclusion A6. DOE has completed the necessary 
+review under NEPA and has
+
+[[Page 24358]]
+
+determined that this rulemaking qualifies for categorical exclusion A5 
+and A6 because it is amending a rule and because it is a procedural 
+rulemaking, it does not change the environmental effect of the rule and 
+otherwise meets the requirements for application of a categorical 
+exclusion. See 10 CFR 1021.410.
+
+E. Review Under Executive Order 13132
+
+    Executive Order 13132, ``Federalism,'' 64 FR 43255 (August 10, 
+1999), imposes certain requirements on Federal agencies formulating and 
+implementing policies or regulations that preempt State law or that 
+have federalism implications. The Executive order requires agencies to 
+examine the constitutional and statutory authority supporting any 
+action that would limit the policymaking discretion of the States and 
+to carefully assess the necessity for such actions. The Executive order 
+also requires agencies to have an accountable process to ensure 
+meaningful and timely input by State and local officials in the 
+development of regulatory policies that have federalism implications. 
+On March 14, 2000, DOE published a statement of policy describing the 
+intergovernmental consultation process it will follow in the 
+development of such regulations. 65 FR 13735. DOE has examined this 
+rule and has determined that it will not have a substantial direct 
+effect on the States, on the relationship between the National 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. It will 
+primarily affect the procedure by which DOE develops proposed rules to 
+revise energy conservation standards and test procedures. EPCA governs 
+and prescribes Federal preemption of State regulations that are the 
+subject of DOE's regulations adopted pursuant to the statute. In such 
+cases, States can petition DOE for exemption from such preemption to 
+the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 
+6297(d)) Therefore, Executive Order 13132 requires no further action.
+
+F. Review Under Executive Order 12988
+
+    Regarding the review of existing regulations and the promulgation 
+of new regulations, section 3(a) of Executive Order 12988, ``Civil 
+Justice Reform,'' 61 FR 4729 (Feb. 7, 1996), imposes on Federal 
+agencies the general duty to adhere to the following requirements: (1) 
+eliminate drafting errors and ambiguity; (2) write regulations to 
+minimize litigation; (3) provide a clear legal standard for affected 
+conduct rather than a general standard; and (4) promote simplification 
+and burden reduction. Regarding the review required by section 3(a), 
+section 3(b) of Executive Order 12988 specifically requires that each 
+Executive agency make every reasonable effort to ensure that when it 
+issues a regulation, the regulation: (1) clearly specifies the 
+preemptive effect, if any; (2) clearly specifies any effect on existing 
+Federal law or regulation; (3) provides a clear legal standard for 
+affected conduct while promoting simplification and burden reduction; 
+(4) clearly specifies the retroactive effect, if any; (5) specifies 
+whether administrative proceedings are to be required before parties 
+may file suit in court and, if so, describes those proceedings and 
+requires the exhaustion of administrative remedies; (6) adequately 
+defines key terms; and (7) addresses other important issues affecting 
+clarity and general draftsmanship under any guidelines issued by the 
+Attorney General. Section 3(c) of Executive Order 12988 requires 
+Executive agencies to review regulations in light of applicable 
+standards in sections 3(a) and 3(b) to determine whether they are met 
+or it is unreasonable to meet one or more of them. DOE has completed 
+the required review and has determined that, to the extent permitted by 
+law, this rule meets the relevant standards of Executive Order 12988.
+
+G. Review Under the Unfunded Mandates Reform Act of 1995
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires each Federal agency to assess the effects of Federal 
+regulatory actions on State, local, and Tribal governments and the 
+private sector. (Pub. L. 104-4, sec. 201 (codified at 2 U.S.C. 1531)) 
+For a regulatory action likely to result in a rule that may cause the 
+expenditure by State, local, and Tribal governments, in the aggregate, 
+or by the private sector of $100 million or more in any one year 
+(adjusted annually for inflation), section 202 of UMRA requires a 
+Federal agency to publish a written statement that estimates the 
+resulting costs, benefits, and other effects on the national economy. 
+(2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to 
+develop an effective process to permit timely input by elected officers 
+of State, local, and Tribal governments on a proposed ``significant 
+intergovernmental mandate,'' and requires an agency plan for giving 
+notice and opportunity for timely input to potentially affected small 
+governments before establishing any requirements that might 
+significantly or uniquely affect them. On March 18, 1997, DOE published 
+a statement of policy on its process for intergovernmental consultation 
+under UMRA. (62 FR 12820) (This policy is also available at 
+<a href="http://www.energy.gov/gc/office-general-counsel">www.energy.gov/gc/office-general-counsel</a> under ``Guidance & Opinions'' 
+(Rulemaking)) DOE examined the rule according to UMRA and its statement 
+of policy and has determined that the rule contains neither an 
+intergovernmental mandate, nor a mandate that may result in the 
+expenditure by State, local, and Tribal governments, in the aggregate, 
+or by the private sector, of $100 million or more in any year. 
+Accordingly, no further assessment or analysis is required under UMRA.
+
+H. Review Under the Treasury and General Government Appropriations Act, 
+1999
+
+    Section 654 of the Treasury and General Government Appropriations 
+Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family 
+Policymaking Assessment for any proposed rule or policy that may affect 
+family well-being. When developing a Family Policymaking Assessment, 
+agencies must assess whether: (1) the action strengthens or erodes the 
+stability or safety of the family and, particularly, the marital 
+commitment; (2) the action strengthens or erodes the authority and 
+rights of parents in the education, nurture, and supervision of their 
+children; (3) the action helps the family perform its functions, or 
+substitutes governmental activity for the function; (4) the action 
+increases or decreases disposable income or poverty of families and 
+children; (5) the proposed benefits of the action justify the financial 
+impact on the family; (6) the action may be carried out by State or 
+local government or by the family; and whether (7) the action 
+establishes an implicit or explicit policy concerning the relationship 
+between the behavior and personal responsibility of youth, and the 
+norms of society. In evaluating the above factors, DOE has concluded 
+that it is not necessary to prepare a Family Policymaking Assessment as 
+none of the above factors are implicated. Further, this rule would not 
+have any impact on the autonomy or integrity of the family as an 
+institution.
+
+I. Review Under Executive Order 12630
+
+    Pursuant to Executive Order 12630, ``Governmental Actions and 
+Interference with Constitutionally Protected Property Rights,'' 53 FR 
+8859 (March 18, 1988), DOE has determined that this rule would not 
+result in any takings that might require compensation under the Fifth 
+Amendment to the U.S. Constitution.
+
+[[Page 24359]]
+
+J. Review Under the Treasury and General Government Appropriations Act, 
+2001
+
+    Section 515 of the Treasury and General Government Appropriations 
+Act, 2001 (44 U.S.C. 3516 note) provides for Federal agencies to review 
+most disseminations of information to the public under information 
+quality guidelines established by each agency pursuant to general 
+guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 
+(Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 
+(Oct. 7, 2002). DOE has reviewed this final rule under the OMB and DOE 
+guidelines and has concluded that it is consistent with the applicable 
+policies in those guidelines.
+
+K. Review Under Executive Order 13211
+
+    Executive Order 13211, ``Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution, or Use,'' 66 FR 28355 
+(May 22, 2001), requires Federal agencies to prepare and submit to OIRA 
+at OMB, a Statement of Energy Effects for any proposed significant 
+energy action. A ``significant energy action'' is defined as any action 
+by an agency that promulgates or is expected to lead to promulgation of 
+a final rule, and that: (1) is a significant regulatory action under 
+Executive Order 12866, or any successor order; and (2) is likely to 
+have a significant adverse effect on the supply, distribution, or use 
+of energy; or (3) is designated by the Administrator of OIRA as a 
+significant energy action. For any proposed significant energy action, 
+the agency must give a detailed statement of any adverse effects on 
+energy supply, distribution, or use should the proposal be implemented, 
+and of reasonable alternatives to the action and their expected 
+benefits on energy supply, distribution, and use.
+    DOE has concluded that the regulatory action in this document, 
+which makes clarifications to the Process Rule that guides the 
+Department in proposing energy conservation standards is not a 
+significant energy action because it would not have a significant 
+adverse effect on the supply, distribution, or use of energy, nor has 
+it been designated as a significant energy action by the Administrator 
+of OIRA. Therefore, it is not a significant energy action, and, 
+accordingly, DOE has not prepared a Statement of Energy Effects for 
+this final rule.
+
+L. Review Consistent With OMB's Information Quality Bulletin for Peer 
+Review
+
+    On December 16, 2004, OMB, in consultation with the Office of 
+Science and Technology Policy (OSTP), issued its Final Information 
+Quality Bulletin for Peer Review (the Bulletin). 70 FR 2664 (Jan. 14, 
+2005). The Bulletin establishes that certain scientific information 
+shall be peer reviewed by qualified specialists before it is 
+disseminated by the Federal Government, including influential 
+scientific information related to agency regulatory actions. The 
+purpose of the bulletin is to enhance the quality and credibility of 
+the Government's scientific information. Under the Bulletin, the energy 
+conservation standards rulemaking analyses are ``influential scientific 
+information,'' which the Bulletin defines as ``scientific information 
+the agency reasonably can determine will have or does have a clear and 
+substantial impact on important public policies or private sector 
+decisions.'' Id. at 70 FR 2667.
+    In response to OMB's Bulletin, DOE conducted formal in-progress 
+peer reviews of the energy conservation standards development process 
+and analyses and has prepared a Peer Review Report pertaining to the 
+energy conservation standards rulemaking analyses. Generation of this 
+report involved a rigorous, formal, and documented evaluation using 
+objective criteria and qualified and independent reviewers to make a 
+judgment as to the technical/scientific/business merit, the actual or 
+anticipated results, and the productivity and management effectiveness 
+of programs and/or projects. The ``Energy Conservation Standards 
+Rulemaking Peer Review Report,'' dated February 2007, has been 
+disseminated and is available at the following website: <a href="http://www.energy.gov/eere/buildings/peer-review">www.energy.gov/eere/buildings/peer-review</a>. Because available data, models, and 
+technological understanding have changed since 2007, DOE has engaged 
+with the National Academy of Sciences to review DOE's analytical 
+methodologies to ascertain whether modifications are needed to improve 
+the Department's analyses. As discussed, DOE is in the process of 
+evaluating the resulting report.
+
+M. Congressional Notification
+
+    As required by 5 U.S.C. 801, DOE will report to Congress on the 
+promulgation of this rule before its effective date. The report will 
+state that it has been determined that the rule is not a ``major rule'' 
+as defined by 5 U.S.C. 804(2).
+
+V. Approval of the Office of the Secretary
+
+    The Secretary of Energy has approved publication of this final 
+rule.
+
+List of Subjects in 10 CFR Part 430
+
+    Administrative practice and procedure, Confidential business 
+information, Energy conservation, Household appliances, Imports, 
+Intergovernmental relations, Small businesses, Test procedures.
+
+Signing Authority
+
+    This document of the Department of Energy was signed on March 29, 
+2024, by Jeffrey Marootian, Principal Deputy Assistant Secretary for 
+Energy Efficiency and Renewable Energy, pursuant to delegated authority 
+from the Secretary of Energy. That document with the original signature 
+and date is maintained by DOE. For administrative purposes only, and in 
+compliance with requirements of the Office of the Federal Register, the 
+undersigned DOE Federal Register Liaison Officer has been authorized to 
+sign and submit the document in electronic format for publication, as 
+an official document of the Department of Energy. This administrative 
+process in no way alters the legal effect of this document upon 
+publication in the Federal Register.
+
+    Signed in Washington, DC, on March 29, 2024.
+Treena V. Garrett,
+Federal Register Liaison Officer, U.S. Department of Energy.
+
+    For the reasons stated in the preamble, DOE amends part 430 of 
+title 10 of the Code of Federal Regulations as set forth below:
+
+PART 430--ENERGY CONSERVATION PROGRAM FOR CONSUMER PRODUCTS
+
+0
+1. The authority citation for part 430 continues to read as follows:
+
+    Authority: 42 U.S.C. 6291-6309; 28 U.S.C. 2461 note.
+
+
+0
+2. Amend appendix A to subpart C of part 430 by revising sections 5, 6, 
+8, and 9 to read as follows:
+
+Appendix A to Subpart C of Part 430--Procedures, Interpretations, and 
+Policies for Consideration of New or Revised Energy Conservation 
+Standards and Test Procedures for Consumer Products and Certain 
+Commercial/Industrial Equipment
+
+* * * * *
+
+Coverage Determination Rulemakings
+
+    DOE has discretion to conduct proceedings to determine whether 
+additional consumer
+
+[[Page 24360]]
+
+products and commercial/industrial equipment should be covered under 
+EPCA if certain statutory criteria are met. (42 U.S.C. 6292(b) and 
+42 U.S.C. 6295(l) for consumer products; 42 U.S.C. 6312(b) for 
+commercial/industrial equipment). This section describes the process 
+to be used in establishing coverage for consumer products and 
+commercial/industrial equipment.
+    (a) Pre-notice of proposed rulemaking (``NOPR'') stage. In 
+determining whether to consider establishing coverage for a consumer 
+product or commercial/industrial equipment, DOE may publish one or 
+more preliminary documents in the Federal Register intended to 
+gather information on key issues. Such document(s) will be published 
+in the Federal Register, with accompanying documents referenced and 
+posted in the appropriate docket.
+    (b) NOPR stage. If DOE determines to proceed with a coverage 
+determination process, the Department will publish a notice of 
+proposed determination, providing an opportunity for public comment 
+of not less than 60 days, in which DOE will explain how such 
+products/equipment that it seeks to designate as ``covered'' meet 
+the statutory criteria for coverage and why such coverage is 
+``necessary or appropriate'' to carry out the purposes of EPCA. In 
+the case of commercial equipment, DOE will follow the same process, 
+except that the Department must demonstrate that coverage of the 
+equipment type is ``necessary'' to carry out the purposes of EPCA.
+    (c) Final rule. DOE will publish a final rule in the Federal 
+Register that establishes the scope of coverage for the product/
+equipment, responds to public comments received on the NOPR, and 
+explains how inclusion of the newly covered product/equipment meets 
+the statutory criteria for coverage and why such coverage is 
+necessary or appropriate to carry out the purposes of EPCA. DOE will 
+finalize coverage for a product/equipment prior to publication of a 
+proposed rule to establish a test procedure.
+    (d) Scope of coverage revisions. If, during the substantive 
+rulemaking proceedings to establish test procedures or energy 
+conservation standards after completing a coverage determination, 
+DOE finds it necessary and appropriate to amend the scope of 
+coverage, DOE will propose an amended coverage determination and 
+finalize coverage prior to moving forward with the test procedure or 
+standards rulemaking.
+
+6. Process for Developing Energy Conservation Standards
+
+    This section describes the process to be used in developing 
+energy conservation standards for covered products and equipment 
+other than those covered equipment subject to ASHRAE/IES Standard 
+90.1.
+    (a) Pre-NOPR stage--(1) General. In determining whether to 
+consider establishing or amending any energy conservation standard, 
+DOE will publish one or more preliminary, pre-NOPR documents in the 
+Federal Register intended to gather information on key issues. Such 
+document(s) could take several forms depending upon the specific 
+proceeding, including a framework document, request for information 
+(RFI), notice of data availability (NODA), preliminary analysis, or 
+advance notice of proposed rulemaking (ANOPR). Such document(s) will 
+be published in the Federal Register, with any accompanying 
+documents referenced and posted in the appropriate docket.
+    (2) Satisfaction of statutory criteria. As part of such pre-
+NOPR-stage document(s), DOE will solicit submission of comments, 
+data, and information on whether DOE should proceed with the 
+rulemaking, including whether any new or amended rule would satisfy 
+the relevant statutory criteria to be cost-effective, economically 
+justified, technologically feasible, and result in a significant 
+savings of energy. Based on the information received in response to 
+such request and its own analysis, DOE will determine whether to 
+proceed with a rulemaking for a new or amended energy conservation 
+standard. If DOE determines at any point in the pre-NOPR stage that 
+no candidate standard level for a new or amended standard is likely 
+to satisfy all of the applicable statutory criteria (i.e., to be 
+technologically feasible and economically justified and result in 
+significant energy savings), DOE will announce that conclusion in 
+the Federal Register and proceed with notice-and-comment rulemaking 
+that proposes a determination not to adopt new or amended standards. 
+DOE notes that it will, consistent with its statutory obligations, 
+consider both cost effectiveness and economic justification when 
+issuing a determination not to amend a standard. If DOE receives 
+sufficient information suggesting it could justify a new or amended 
+standard or the information received is inconclusive with regard to 
+the statutory criteria, DOE will move forward with the rulemaking to 
+issue or amend an energy conservation standard. In those instances 
+where the available information either suggested that a new or 
+amended energy conservation standard might be justified or in which 
+the information was inconclusive on this point, and DOE undertakes a 
+rulemaking to establish or amend an energy conservation standard, 
+DOE may still ultimately determine that such a standard is not 
+economically justified, technologically feasible or would not result 
+in a significant savings of energy at a later stage of the 
+rulemaking.
+    (3) Design options--(i) General. Once the Department has 
+initiated a rulemaking for a specific product/equipment but before 
+publishing a proposed rule to establish or amend standards, DOE will 
+typically identify the product/equipment categories and design 
+options to be analyzed in detail, as well as those design options to 
+be eliminated from further consideration. During the pre-NOPR stage 
+of the rulemaking, interested parties may be consulted to provide 
+information on key issues, including potential design options, 
+through a variety of rulemaking documents.
+    (ii) Identification and screening of design options. During the 
+pre-NOPR phase of the rulemaking process, the Department will 
+typically develop a list of design options for consideration. 
+Initially, the candidate design options will encompass all those 
+technologies considered to be technologically feasible. Following 
+the development of this initial list of design options, DOE will 
+review each design option based on the factors described in 
+paragraph (a)(3)(iii) of this section and the policies stated in 
+section 7 of this appendix (i.e., Policies on Selection of 
+Standards). The reasons for eliminating or retaining any design 
+option at this stage of the process will be fully documented and 
+published as part of the NOPR and as appropriate for a given rule, 
+in the pre-NOPR document(s). The technologically feasible design 
+options that are not eliminated in this screening analysis will be 
+considered further in the Engineering Analysis described in 
+paragraph (a)(4) of this section.
+    (iii) Factors for screening of design options. The factors for 
+screening design options include:
+    (A) Technological feasibility. Technologies incorporated in 
+commercial products (or equipment) or in working prototypes will be 
+considered technologically feasible.
+    (B) Practicability to manufacture, install and service. If mass 
+production of a technology under consideration for use in 
+commercially-available products (or equipment) and reliable 
+installation and servicing of the technology could be achieved on 
+the scale necessary to serve the relevant market at the time of the 
+effective date of the standard, then that technology will be 
+considered practicable to manufacture, install, and service.
+    (C) Adverse impacts on product utility or product availability.
+    (D) Adverse impacts on health or safety.
+    (E) Unique-pathway proprietary technologies. If a design option 
+utilizes proprietary technology that represents a unique pathway to 
+achieving a given efficiency level, that technology will not be 
+considered further.
+    (4) Engineering analysis of design options and selection of 
+candidate standard levels. After design options are identified and 
+screened, DOE will perform the engineering analysis and the benefit/
+cost analysis and select the candidate standard levels based on 
+these analyses. The results of the analyses will be published in a 
+Technical Support Document (TSD) to accompany the appropriate 
+rulemaking documents.
+    (i) Identification of engineering analytical methods and tools. 
+DOE will select the specific engineering analysis tools (or multiple 
+tools, if necessary, to address uncertainty) to be used in the 
+analysis of the design options identified as a result of the 
+screening analysis.
+    (ii) Engineering and life-cycle cost analysis of design options. 
+DOE and its contractors will perform engineering and life-cycle cost 
+analyses of the design options.
+    (iii) Review by stakeholders. Interested parties will have the 
+opportunity to review the results of the engineering and life-cycle 
+cost analyses. If appropriate, a public workshop will be conducted 
+to review these results. The analyses will be revised as appropriate 
+on the basis of this input.
+    (iv) New information relating to the factors used for screening 
+design options. If further information or analysis leads to a 
+determination that a design option, or a
+
+[[Page 24361]]
+
+combination of design options, has unacceptable impacts, that design 
+option or combination of design options will not be included in a 
+candidate standard level.
+    (v) Selection of candidate standard levels. Based on the results 
+of the engineering and life-cycle cost analysis of design options 
+and the policies stated in paragraph (a)(3)(iii) of this section, 
+DOE will select the candidate standard levels for further analysis.
+    (5) Analysis of impacts and selection of proposed standard 
+level. If DOE has determined preliminarily that a candidate standard 
+level is likely to produce the maximum improvement in energy 
+efficiency that is both technologically feasible and economically 
+justified and constitutes significant energy savings, economic 
+analyses of the impacts of the candidate standard levels will be 
+conducted. The Department will propose new or amended standards in a 
+subsequent NOPR based on the results of the impact analysis.
+    (i) Identification of issues for analysis. The Department, in 
+consideration of comments received, will identify issues that will 
+be examined in the impacts analysis.
+    (ii) Identification of analytical methods and tools. DOE will 
+select the specific economic analysis tools (or multiple tools, if 
+necessary, to address uncertainty) to be used in the analysis of the 
+candidate standard levels.
+    (iii) Analysis of impacts. DOE will conduct the analysis of the 
+impacts of candidate standard levels.
+    (iv) Factors to be considered in selecting a proposed standard. 
+The factors to be considered in selection of a proposed standard 
+include:
+    (A) Impacts on manufacturers. The analysis of manufacturer 
+impacts will include: Estimated impacts on cash flow; assessment of 
+impacts on manufacturers of specific categories of products/
+equipment and small manufacturers; assessment of impacts on 
+manufacturers of multiple product-specific Federal regulatory 
+requirements, including efficiency standards for other products and 
+regulations of other agencies; and impacts on manufacturing 
+capacity, employment, and capital investment.
+    (B) Private impacts on consumers. The analysis of consumer 
+impacts will include: Estimated private energy savings impacts on 
+consumers based on regional average energy prices and energy usage; 
+assessments of the variability of impacts on subgroups of consumers 
+based on major regional differences in usage or energy prices and 
+significant variations in installation costs or performance; 
+consideration of changes to product utility, changes to purchase 
+rate and/or costs of products, and other impacts of likely concern 
+to all or some consumers, based to the extent practicable on direct 
+input from consumers; estimated life-cycle cost with sensitivity 
+analysis; and consideration of the increased first cost to consumers 
+and the time required for energy cost savings to pay back these 
+first costs.
+    (C) Impacts on competition, including industry concentration 
+analysis.
+    (D) Impacts on utilities. The analysis of utility impacts will 
+include estimated marginal impacts on electric and gas utility 
+generation and capacity.
+    (E) National energy, economic, and employment impacts. The 
+analysis of national energy, economic, and employment impacts will 
+include: estimated energy savings by fuel type; estimated net 
+present value of benefits to all consumers; sensitivity analyses 
+using high and low discount rates reflecting both private 
+transactions and social discount rates and high and low energy price 
+forecasts; and estimates of the direct and indirect impacts on 
+employment by appliance manufacturers, relevant service industries, 
+energy suppliers, suppliers of complementary and substitution 
+products, and the economy in general.
+    (F) Impacts on the environment. The analysis of environmental 
+impacts will include estimated impacts on emissions of carbon and 
+relevant criteria pollutants.
+    (G) Impacts of non-regulatory approaches. The analysis of energy 
+savings and consumer impacts will incorporate an assessment of the 
+impacts of market forces and existing voluntary programs in 
+promoting product/equipment efficiency, usage, and related 
+characteristics in the absence of updated efficiency standards.
+    (H) New information relating to the factors used for screening 
+design options.
+    (6) Public comment and hearing. The length of the public comment 
+period for pre-NOPR rulemaking documents will be determined on a 
+case-by-case basis and may vary depending upon the circumstances of 
+the particular rulemaking. For pre-NOPR documents, DOE will 
+determine whether a public hearing is appropriate.
+    (7) Revisions based on comments. Based on consideration of the 
+comments received, any necessary changes to the engineering 
+analysis, life-cycle cost analysis, or the candidate standard levels 
+will be made.
+    (b) NOPR stage--(1) Documentation of decisions on proposed 
+standard selection. The Department will publish a NOPR in the 
+Federal Register that proposes standard levels and explains the 
+basis for the selection of those proposed levels, and DOE will post 
+on its website a draft TSD documenting the analysis of impacts. The 
+draft TSD will also be posted in the appropriate docket at 
+<a href="http://www.regulations.gov">www.regulations.gov</a>. As required by 42 U.S.C. 6295(p)(1) of EPCA, 
+the NOPR also will describe the maximum improvement in energy 
+efficiency or maximum reduction in energy use that is 
+technologically feasible and, if the proposed standards would not 
+achieve these levels, the reasons for proposing different standards.
+    (2) Public comment and hearing. There will be not less than 60 
+days for public comment on the NOPR, with at least one public 
+hearing or workshop. (42 U.S.C. 6295(p)(2) and 42 U.S.C. 6306)
+    (3) Revisions to impact analyses and selection of final 
+standard. Based on the public comments received, DOE will review the 
+proposed standard and impact analyses, and make modifications as 
+necessary. If major changes to the analyses are required at this 
+stage, DOE will publish a supplemental notice of proposed rulemaking 
+(SNOPR), when required. DOE may also publish a NODA or RFI, where 
+appropriate.
+    (c) Final rule stage. The Department will publish a final rule 
+in the Federal Register that promulgates standard levels, responds 
+to public comments received on the NOPR (and SNOPR if applicable), 
+and explains how the selection of those standards meets the 
+statutory requirement that any new or amended energy conservation 
+standard produces the maximum improvement in energy efficiency that 
+is both technologically feasible and economically justified and 
+constitutes significant energy savings, accompanied by a final TSD.
+* * * * *
+
+Test Procedures
+
+    (a) Pre-NOPR stage--(1) General. In determining whether to 
+consider establishing or amending any test procedure, DOE will 
+publish one or more preliminary documents in the Federal Register 
+(e.g., an RFI or NODA) intended to gather information on key issues.
+    (2) Satisfaction of statutory criteria. As part of such 
+document(s), DOE will solicit submission of comments, data, and 
+information on whether DOE should proceed with the rulemaking, 
+including whether: a new test procedure would satisfy the relevant 
+statutory criteria that test procedures be reasonably designed to 
+produce test results which measure energy efficiency, energy use, 
+water use (in the case of showerheads, faucets, water closets and 
+urinals), or estimated annual operating cost of a covered product 
+during a representative average use cycle or period of use, as 
+determined by the Secretary, and shall not be unduly burdensome to 
+conduct; or an amended test procedure would more fully or accurately 
+comply with the aforementioned statutory criteria. Based on the 
+information received in response to such request and its own 
+analysis, DOE will determine whether to proceed with a rulemaking 
+for a new or amended test procedure.
+    (3) If DOE determines that a new or amended test procedure would 
+not satisfy the applicable statutory criteria, DOE will engage in 
+notice-and-comment rulemaking to issue a determination that a new or 
+amended test procedure is not warranted.
+    (4) If DOE receives sufficient information suggesting a new or 
+amended test procedure may satisfy the applicable statutory criteria 
+or the information received is inconclusive with regard to the 
+statutory criteria, DOE will move forward with the rulemaking to 
+issue or amend a test procedure.
+    (5) In those instances where the available information either 
+suggested that a new or amended test procedure might be warranted or 
+in which the information was inconclusive on this point, and DOE 
+undertakes a rulemaking to establish or amend a test procedure, DOE 
+may still ultimately determine that such a test procedure does not 
+satisfy the applicable statutory criteria at a later stage of the 
+rulemaking.
+    (6) Public comment and hearing. The length of the public comment 
+period for pre-NOPR rulemaking documents will be determined on a 
+case-by-case basis and may vary depending upon the circumstances of 
+the particular rulemaking. For pre-NOPR documents, DOE will 
+determine whether a public hearing is appropriate.
+
+[[Page 24362]]
+
+    (b) NOPR stage--(1) Documentation of decisions on proposed test 
+procedure. The Department will publish a NOPR in the Federal 
+Register that proposes a new or amended test procedure and explains 
+how the test procedure satisfies the applicable statutory criteria.
+    (2) Public comment and hearing. There will be not less than 60 
+days for public comment on the NOPR, with at least one public 
+hearing or workshop. (42 U.S.C. 6293(b)(2) and 42 U.S.C. 6306)
+    (3) Revisions to the analyses and establishment of a final test 
+procedure. Based on the public comments received, DOE will review 
+the proposed test procedure, and make modifications as necessary. As 
+part of this process, DOE may issue an RFI, NODA, SNOPR, or other 
+rulemaking document, as appropriate.
+    (c) Final rule stage. The Department will publish a final rule 
+in the Federal Register that establishes or amends a test procedure, 
+responds to public comments received on the NOPR (and any subsequent 
+rulemaking documents), and explains how the new or amended test 
+procedure meets the applicable statutory requirements.
+    (d) Adoption of industry test methods. DOE will adopt industry 
+test procedure standards as DOE test procedures for covered products 
+and equipment, but only if DOE determines that such procedures would 
+not be unduly burdensome to conduct and would produce test results 
+that reflect the energy efficiency, energy use, water use (as 
+specified in EPCA) or estimated operating costs of that equipment 
+during a representative average use cycle. DOE may also adopt 
+industry test procedure standards with modifications or craft its 
+own procedures as necessary to ensure compatibility with the 
+relevant statutory requirements, as well as DOE's compliance, 
+certification, and enforcement requirements.
+    (e) Issuing final test procedure--(1) Process. Test procedure 
+rulemakings establishing methodologies used to evaluate proposed 
+energy conservation standards will be finalized prior to publication 
+of a NOPR proposing new or amended energy conservation standards. 
+Except as provided in paragraph (e)(2) of this section, new test 
+procedures and amended test procedures that impact measured energy 
+use or efficiency will be finalized at least 180 days prior to the 
+close of the comment period for:
+    (i) A NOPR proposing new or amended energy conservation 
+standards; or
+    (ii) A notice of proposed determination that standards do not 
+need to be amended. With regards to amended test procedures, DOE 
+will state in the test procedure final rule whether the amendments 
+impact measured energy use or efficiency.
+    (2) Exceptions. The 180-day period for new test procedures and 
+amended test procedures that impact measured energy use or 
+efficiency specified in paragraph (e)(1) of this section is not 
+applicable to:
+    (i) Test procedures developed in accordance with the Negotiated 
+Rulemaking Act or by interested persons that are fairly 
+representative of relevant points of view (including representatives 
+of manufacturers of covered products, States, and efficiency 
+advocates), as determined by the Secretary; or
+    (ii) Test procedure amendments limited to calculation changes 
+(e.g., use factor or adder). Parties submitting a consensus 
+recommendation in accordance with paragraph (e)(2)(i) of this 
+section may specify a time period between finalization of the test 
+procedure and the close of the comment for a NOPR proposing new or 
+amended energy conservation standards or a notice of proposed 
+determination that standards do not need to be amended.
+    (f) Effective date of test procedures. If required only for the 
+evaluation and issuance of updated efficiency standards, use of the 
+modified test procedures typically will not be required until the 
+implementation date of updated standards.
+
+9. ASHRAE Equipment
+
+    EPCA provides unique statutory requirements and a specific set 
+of timelines for certain enumerated types of commercial and 
+industrial equipment (generally, commercial water heaters, 
+commercial packaged boilers, commercial air-conditioning and heating 
+equipment, and packaged terminal air conditioners and heat pumps 
+(i.e., ``ASHRAE equipment'')).
+    (a) ASHRAE trigger rulemakings for energy conservation 
+standards. Pursuant to EPCA's statutory scheme for covered ASHRAE 
+equipment, DOE is required to consider amending the existing Federal 
+energy conservation standards for ASHRAE equipment when ASHRAE 
+Standard 90.1 is amended with respect to standards or design 
+requirements applicable to such equipment.
+    (1) Not later than 180 days after the amendment of ASHRAE 
+Standard 90.1, DOE will publish in the Federal Register for public 
+comment an analysis of the energy savings potential of amended 
+energy efficiency standards for the affected equipment.
+    (2) Not later than 18 months after the amendment of ASHRAE 
+Standard 90.1, DOE must adopt amended energy conservation standards 
+at the new efficiency level in ASHRAE Standard 90.1 as the uniform 
+national standard for the affected equipment, unless DOE determines 
+by rule, and supported by clear and convincing evidence, that a 
+more-stringent standard would result in significant additional 
+conservation of energy and is technologically feasible and 
+economically justified. In such case, DOE must adopt the more-
+stringent standard for the affected equipment not later than 30 
+months after amendment of ASHRAE Standard 90.1.
+    (3) Regarding amendments to ASHRAE Standard 90.1 involving 
+energy conservation standards, DOE considers an amendment of a 
+standard level to occur when an updated version of ASHRAE Standard 
+90.1 publishes (i.e., not at the time that an addendum to ASHRAE 
+Standard 90.1 is released or approved). In addition, DOE considers 
+an amendment of standard levels in ASHRAE Standard 90.1 to be only 
+those changes resulting in an increase in stringency of standard 
+levels relative to the current Federal standards or the adoption of 
+a design requirement.
+    (b) ASHRAE trigger rulemakings for test procedures. Pursuant to 
+EPCA's statutory scheme for covered ASHRAE equipment, DOE is 
+required to consider amending the existing Federal test procedures 
+for such equipment when ASHRAE Standard 90.1 is amended with respect 
+to test procedures applicable to such equipment.
+    (1) DOE shall amend the test procedure for ASHRAE equipment, as 
+necessary, to be consistent with the amended ASHRAE Standard 90.1, 
+unless DOE determines by rule, and supported by clear and convincing 
+evidence, that to do so would not meet the requirements in 42 U.S.C. 
+6314(a)(2)-(3), which generally provide that the test procedure must 
+produce results which reflect energy efficiency, energy use, and 
+estimated operating costs during a representative average use cycle 
+and not be unduly burdensome to conduct. If DOE makes such a 
+determination, DOE may establish an amended test procedure for such 
+equipment that meets the requirements in 42 U.S.C. 6314(a)(2)-(3).
+    (2) With regard to test procedures for ASHRAE equipment, EPCA 
+requires DOE to adopt test procedures consistent with applicable 
+industry test standards.
+    (c) ASHRAE lookback rulemakings for standards. EPCA also 
+requires that DOE periodically consider amending energy conservation 
+standards for ASHRAE equipment.
+    (1) Every 6 years, DOE shall conduct an evaluation of each class 
+of covered equipment. DOE shall publish either a notice of 
+determination that standards do not need to be amended (because they 
+would not result in significant additional conservation of energy 
+and/or would not be technologically feasible and/or economically 
+justified) or a notice of proposed rulemaking including new proposed 
+standards (based on the criteria and procedures in 42 U.S.C. 
+6313(a)(6)(B) and supported by clear and convincing evidence).
+    (2) If DOE issues a notice of proposed rulemaking, it shall 
+publish a final rule no more than 2 years later.
+    (3) If DOE determines that a standard does not need to be 
+amended, not later than 3 years after such a determination, DOE must 
+publish either a notice of determination that standards do not need 
+to be amended (because they would not result in significant 
+additional conservation of energy and/or would not be 
+technologically feasible and/or economically justified) or a notice 
+of proposed rulemaking including new proposed standards (based on 
+the criteria and procedures in 42 U.S.C. 6313(a)(6)(B) and supported 
+by clear and convincing evidence).
+    (d) ASHRAE lookback rulemakings for test procedures. EPCA also 
+requires that DOE periodically consider amending test procedures for 
+ASHRAE equipment. At least once every 7 years, DOE shall conduct an 
+evaluation, and if DOE determines, that amended test procedures 
+would more accurately or fully comply with the requirements in 42 
+U.S.C. 6314(a)(2)-(3), it shall prescribe test procedures for the 
+applicable equipment. Otherwise, DOE shall
+
+[[Page 24363]]
+
+publish a notice of determination not to amend a test procedure.
+* * * * *
+[FR Doc. 2024-07114 Filed 4-5-24; 8:45 am]
+BILLING CODE 6450-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

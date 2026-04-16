@@ -1,0 +1,175 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 612</CFR>
+                <RIN>RIN 1901-AB57</RIN>
+                <SUBJECT>Civil Nuclear Credit Program and Recapture of Credits</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Grid Deployment Office, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Department of Energy (DOE or the Department) is adopting the interim final rule (IFR) published on January 8, 2024, as final, without change. This final rule establishes the procedure for the recapture of credits awarded under the Civil Nuclear Credit (CNC) Program in accordance with the Infrastructure Investment and Jobs Act.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective on July 1, 2024.</P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Mr. Theodore Taylor, Civil Nuclear Credit Program Manager, U.S. Department of Energy, Grid Deployment Office, 1000 Independence Avenue SW, Washington, DC 20585, (240) 477-0458, 
+                        <E T="03">CNC_Program_Mailbox@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices and comments, can be found at 
+                        <E T="03">Regulations.gov</E>
+                         (
+                        <E T="03">www.regulations.gov/document/DOE-HQ-2024-0005</E>
+                        ). The docket web page contains instruction on how to access all documents, including public comments, in the docket.
+                    </P>
+                </ADD>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Summary of the Final Rule</FP>
+                    <FP SOURCE="FP-2">II. Authority and Background</FP>
+                    <FP SOURCE="FP1-2">A. The Statute</FP>
+                    <FP SOURCE="FP1-2">B. Interim Final Rule</FP>
+                    <FP SOURCE="FP-2">III. Public Comments on the IFR</FP>
+                    <FP SOURCE="FP-2">IV. Section by Section Analysis of the Final Rule</FP>
+                    <FP SOURCE="FP1-2">A. Purpose, Applicability, and Definitions</FP>
+                    <FP SOURCE="FP1-2">B. Recapture</FP>
+                    <FP SOURCE="FP1-2">C. Notice and Reconsideration of Recapture Determination</FP>
+                    <FP SOURCE="FP1-2">D. Petition to the Department's Office of Hearings and Appeals</FP>
+                    <FP SOURCE="FP-2">V. Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Orders 12866, 13563, and 14094</FP>
+                    <FP SOURCE="FP1-2">B. Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">C. National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">D. Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">E. Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">F. Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">I. Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">J. Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">K. Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VII. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Summary of the Final Rule</HD>
+                <P>Section 40323 of the Infrastructure Investment and Jobs Act (IIJA) (Pub. L. 117-58), codified at 42 U.S.C. 18753, also known as the Bipartisan Infrastructure Law, directs the Department to establish the Civil Nuclear Credit Program to prevent premature closures of nuclear power plants by providing financial support for existing nuclear reactors projected to cease operations due to economic factors.</P>
+                <P>The IIJA also directs the Department to promulgate a regulation to provide for the recapture of credits awarded to a nuclear reactor if either (a) the nuclear reactor terminates operations during the 4-year award period or (b) the nuclear reactor does not operate at an annual loss in the absence of an allocation of credits. The purpose of this final rule is to establish the procedure for the recapture of credits under the CNC Program. The rule provides a mechanism for the Department to enforce the obligation of the nuclear reactor to continue operation during the 4-year award period and to relinquish its rights to credits if the nuclear reactor is not operating at a loss in the absence of the credits. To minimize the likelihood for the need to recapture credits under the rule, the Department has included in the CNC Program an audit and annual payment adjustment mechanism at the end of each award year during the 4-year award period to evaluate the financial results of operation for that year and to adjust payment of credits based on that evaluation. The recapture regulation ensures that a reactor cannot retain the value of credits if, despite the annual adjustment, the nuclear reactor would not have operated at an annual loss in the absence of an allocation of credits over the 4-year award period or if the nuclear reactor terminates operations despite its contractual obligation to operate for the entire 4-year award period.</P>
+                <HD SOURCE="HD1">II. Authority and Background</HD>
+                <HD SOURCE="HD2">A. The Statute</HD>
+                <P>Section 40323 of the IIJA directs the Department to establish the CNC Program to provide financial support for existing nuclear reactors projected to cease operations due to economic factors in the form of credits to be awarded for a 4-year award period. Section 40323(g)(2) of the IIJA requires that the Secretary, âby regulation, provide for the recapture of the allocation of any credit to a certified nuclear reactor that during [the 4-year award period]â(A) terminates operations; or (B) does not operate at an annual loss in the absence of an allocation of credits to the certified nuclear reactor.â IIJA section 40323(g)(2). This final rule establishes the procedure for the recapture of credits in accordance with that requirement. This final rule relates only to the recapture provision. No other provision of the CNC Program is subject to implementation by regulation.</P>
+                <HD SOURCE="HD2">B. Interim Final Rule</HD>
+                <P>On January 8, 2024, DOE published an IFR and request for comments. 89 FR 864 (Jan. 8, 2024). The IFR established an interim final rule for the recapture of credits awarded under the CNC Program. DOE accepted public comments through February 7, 2024. DOE received three comments, none of which commented on the text of the regulation itself.</P>
+                <HD SOURCE="HD1">III. Public Comments on the IFR</HD>
+                <P>
+                    DOE received three comments from individuals in response to the IFR. These comments are available in the public docket for this rulemaking. One commenter expressed âstrong supportâ for both the CNC Program and IFR. The commenter described the CNC Program 
+                    <PRTPAGE P="54337"/>
+                    as a âvital and timely policyâ that supports grid reliability and resilience, promotes high paying jobs, enhances national security, and fosters innovation. The commenter stated that the recapture provision ensures âaccountability and transparency of the programâ and is âsound and consistentâ with the IIJA. The commenter also offered feedback outside the scope of the IFR, recommending that DOE revise the CNC Program Guidance to define a âcompetitive marketâ and what constitutes a material amount of revenue from competitive sources, neither of which is necessary for the recapture rule.
+                </P>
+                <P>Another commenter stated that the CNC Program is âbeneficial to the nation's movement towards cleaner energyâ and expressed the importance of keeping existing nuclear power plants running for the people who rely on their power. The commenter also observed that these plants âwon't be able to function foreverâ and urged that âthis should be treated as a transitory period for these plants while we move towards a less harmful energy sourceâ like wind and solar.</P>
+                <P>The third commenter submitted a comment outside the scope of the IFR relating to energy costs.</P>
+                <HD SOURCE="HD1">IV. Section by Section Analysis of the Final Rule</HD>
+                <HD SOURCE="HD2">A. Purpose, Applicability, and Definitions</HD>
+                <P>Section 612.1 of the final rule identifies the purpose of the regulations to set forth the procedure by which the Department may recapture credits awarded pursuant to the CNC Program. Section 612.2 provides that the regulations will apply to an owner or operator of a nuclear reactor that is awarded credits under the CNC Program. Section 612.3 contains defined terms used in the rule.</P>
+                <HD SOURCE="HD2">B. Recapture</HD>
+                <P>Section 612.4(a) of the regulation identifies the two circumstances in which credits will be recaptured: (1) if the nuclear reactor terminates operation during the award period or (2) at the conclusion of the award period if the nuclear reactor would not have operated at an annual loss in the absence of the credits.</P>
+                <P>Section 612.4(b) addresses the first circumstance in which recapture will be pursued, namely termination by the nuclear reactor of operations during the award period. In that instance, the Secretary will rescind the award of any unpaid credits, including the credits for the award year in which the termination occurred and for any remaining award years in the award period. In addition, the Department will require the owner or operator to repay the value of credits paid with respect to a prior award year if the Department determines that the nuclear reactor terminated operations as a result of the owner or operator's failure to adhere to prudent industry practice in the operation of the nuclear reactor during the award period.</P>
+                <P>Section 612.4(c) addresses recapture in the circumstance in which the Secretary determines that the nuclear reactor, during the award period, would not have operated at an annual loss in the absence of the credits. To make this determination, the Department will calculate the recapture amount in the same manner as the annual adjustment of credits is calculated. Although this scenario is unlikely because the recapture analysis will use the same evaluation methodology as the annual adjustment calculation, it could occur if, for example, subsequent information became available that differs from the data relied on in the annual adjustment calculation.</P>
+                <HD SOURCE="HD2">C. Notice and Reconsideration of Recapture Determination</HD>
+                <P>Section 612.5 of the regulation identifies (1) the manner in which the Secretary will notify an owner or operator of its determination to recapture credits and payments for previously paid credits, if any, (2) how an owner or operator may request reconsideration of the recapture determination, and (3) the effective date of a recapture determination. This section also specifies that notices issued with respect to recapture will be public, except that data and supporting documentation constituting confidential business information will not be disclosed.</P>
+                <HD SOURCE="HD2">D. Petition to the Department's Office of Hearings and Appeals  </HD>
+                <P>Section 612.6 provides that an owner or operator of a nuclear reactor that is aggrieved by the Secretary's decision to affirm, withdraw, or modify the notice of recapture as provided in paragraph (c) of Â§â612.5 may file a petition with the Department's Office of Hearings and Appeals in accordance with 10 CFR 1003.11, not later than thirty days after notification of the Secretary's decision.</P>
+                <HD SOURCE="HD1">V. Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Orders 12866, 13563, and 14094</HD>
+                <P>Executive Order 12866, âRegulatory Planning and Review,â 58 FR 51735 (Oct. 4, 1993), as supplemented and reaffirmed by Executive Order 13563, âImproving Regulation and Regulatory Review,â 76 FR 3821 (Jan. 21, 2011) and amended by Executive Order 14094, âModernizing Regulatory Review,â 88 FR 21879 (April 11, 2023), requires agencies, to the extent permitted by law, to (1) propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs (recognizing that some benefits and costs are difficult to quantify); (2) tailor regulations to impose the least burden on society, consistent with obtaining regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations; (3) select, in choosing among alternative regulatory approaches, those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity); (4) to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt; and (5) identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public. DOE emphasizes as well that Executive Order 13563 requires agencies to use the best available techniques to quantify anticipated present and future benefits and costs as accurately as possible. In its guidance, the Office of Information and Regulatory Affairs (OIRA) has emphasized that such techniques may include identifying changing future compliance costs that might result from technological innovation or anticipated behavioral changes. For the reasons stated in this preamble, this regulatory action is consistent with these principles.</P>
+                <P>Section 6(a) of Executive Order 12866 requires agencies to submit âsignificant regulatory actionsâ to OIRA for review. OIRA has determined that this final rule does not constitute a âsignificant regulatory actionâ within the scope of Executive Order 12866. Accordingly, this action was not subject to review under that Executive Order by OIRA.</P>
+                <HD SOURCE="HD2">B. Executive Order 13132</HD>
+                <P>
+                    Executive Order 13132, âFederalism,â 64 FR 43255 (August 10, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. Executive Order 13132 requires agencies 
+                    <PRTPAGE P="54338"/>
+                    to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the states and to carefully assess the necessity for such actions. DOE has examined this final rule and has determined that it does not preempt State law and does not have a substantial direct effect on the states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among the various levels of government. Moreover, the recapture regulation is required by statute. No further action is required by Executive Order 13132.
+                </P>
+                <HD SOURCE="HD2">C. National Environmental Policy Act of 1969</HD>
+                <P>
+                    In this final rule, DOE establishes the procedure for the recapture of credits awarded under the CNC Program. DOE has determined that this rule falls into a class of actions that are categorically excluded from review under the National Environmental Policy Act (NEPA) of 1969 (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ) and DOE's implementing regulations at 10 CFR part 1021. Specifically, DOE has determined that promulgating procedures for the recapture of credits through administrative and audit procedures is consistent with activities identified in 10 CFR part 1021, appendix A to subpart D, A6. Therefore, DOE has determined that promulgation of the recapture rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA and does not require an environmental assessment or an environmental impact statement.
+                </P>
+                <HD SOURCE="HD2">D. Paperwork Reduction Act of 1995</HD>
+                <P>This final rule imposes no information collection requirements subject to the Paperwork Reduction Act.</P>
+                <HD SOURCE="HD2">E. Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis for any rule that by law must be proposed for public comment. As discussed in the IFR, DOE has determined that prior notice and opportunity for public comment is unnecessary under the Administrative Procedures Act (APA). Because a notice of proposed rulemaking is not required for this action pursuant to 5 U.S.C. 553, or any other law, no regulatory flexibility analysis has been prepared for this final rule. 
+                    <E T="03">See</E>
+                     5 U.S.C. 601(2), 603(a).
+                </P>
+                <HD SOURCE="HD2">F. Executive Order 12988</HD>
+                <P>Regarding the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â 61 FR 4729 (Feb. 7, 1996), imposes on Federal agencies the general duty to adhere to the following requirements: (1) eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; (3) provide a clear legal standard for affected conduct rather than a general standard; and (4) promote simplification and burden reduction. Regarding the review required by section 3(a), section 3(b) of Executive Order 12988 specifically requires that each executive agency make every reasonable effort to ensure that when it issues a regulation, the regulation: (1) clearly specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in sections 3(a) and 3(b) to determine whether they are met, or it is unreasonable to meet one or more of them. DOE has completed the required review and has determined that, to the extent permitted by law, this final rule meets the relevant standards of Executive Order 12988.</P>
+                <HD SOURCE="HD2">G. Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) (Pub. L. 104-4) requires each Federal agency to assess the effects of Federal regulatory actions on state, local, and Tribal governments and the private sector. For a proposed regulatory action likely to result in a rule that may cause the expenditure by state, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. 2 U.S.C. 1532(a), (b). UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of state, local, and Tribal governments on a proposed âsignificant intergovernmental mandate,â and requires an agency to plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect them. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. 62 FR 12820. This policy is also available at 
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                     under âGuidance &amp; Opinionsâ (Rulemaking). DOE examined this final rule according to UMRA and its statement of policy and has determined that the rule contains neither an intergovernmental mandate, nor a mandate that may result in the expenditure by state, local, and Tribal governments, in the aggregate, or by the private sector, of $100 million or more in any year. Accordingly, no further assessment or analysis is required under UMRA.
+                </P>
+                <HD SOURCE="HD2">H. Treasury and General Government Appropriations Act, 1999  </HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Treasury and General Government Appropriations Act, 2001</HD>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for Federal agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by the Office of Management and Budget (OMB). OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant to OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act (April 24, 2019), DOE published updated guidelines, which are available at 
+                    <E T="03">www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf.</E>
+                     DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with the applicable policies in those guidelines.
+                    <PRTPAGE P="54339"/>
+                </P>
+                <HD SOURCE="HD2">J. Executive Order 12630</HD>
+                <P>Pursuant to Executive Order 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (Mar. 15, 1988), DOE has determined that this final rule would not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">K. Executive Order 13211</HD>
+                <P>Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Useâ 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule and that: (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy; or (3) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use. This final rule establishes a procedure to recapture credits awarded under the CNC Program and, therefore, does not meet any of the three criteria listed above. It is not a significant energy action because it would not have a significant adverse effect on the supply, distribution, or use of energy. Accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">L. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule before its effective date. The report will state that this rule does not meet the criteria set forth in 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VI. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 612</HD>
+                    <P>Civil nuclear credit program, Nuclear energy, Nuclear power plants and reactors, Petition to the Department of Energy's Office of Hearings and Appeals, Recapture of civil nuclear credits.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on June 21, 2024, by Maria D. Robinson, Director, Grid Deployment Office, pursuant to delegated authority from the Secretary of Energy. That document with the original signature is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on June 25, 2024.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <PART>
+                    <HD SOURCE="HED">PART 612âRECAPTURE OF CIVIL NUCLEAR CREDITS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="612">
+                    <AMDPAR>Accordingly, the interim final rule amending chapter II, subchapter H, of title 10, part 612, of the Code of Federal Regulations, which was published at 89 FR 864 on January 8, 2024, is adopted as final without change.</AMDPAR>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2024-14244 Filed 6-28-24; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

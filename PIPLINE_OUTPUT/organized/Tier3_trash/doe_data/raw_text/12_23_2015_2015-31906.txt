@@ -1,0 +1,1994 @@
+<html>
+<head>
+<title>Federal Register, Volume 80 Issue 246 (Wednesday, December 23, 2015)</title>
+</head>
+<body><pre>
+[Federal Register Volume 80, Number 246 (Wednesday, December 23, 2015)]
+[Rules and Regulations]
+[Pages 79655-79671]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2015-31906]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF ENERGY
+
+10 CFR Parts 429 and 431
+
+[Docket No. EERE-2015-BT-TP-0015]
+RIN 1904-AD54
+
+
+Energy Conservation Program: Test Procedures for Small, Large, 
+and Very Large Air-Cooled Commercial Package Air Conditioning and 
+Heating Equipment
+
+AGENCY: Office of Energy Efficiency and Renewable Energy, Department of 
+Energy.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In this final rule, the U.S. Department of Energy (DOE) 
+reaffirms that the currently prescribed test procedure, with certain 
+amendments adopted in this rulemaking, must be used when measuring the 
+energy efficiency of certain categories of small, large, and very large 
+air-cooled commercial package air conditioners and heating equipment. 
+The final rule, in addition to satisfying the agency's obligation to 
+periodically review its test procedures for covered equipment, also 
+clarifies specific certification, compliance, and enforcement 
+provisions related to this equipment. The final rule limits the 
+incorporation by reference of the industry test procedure ANSI/AHRI 
+Standard 340/360-2007, ``2007 Standard for Performance Rating of 
+Commercial and Industrial Unitary Air-Conditioning and Heat Pump 
+Equipment,'' to certain sections and addenda; clarifies indoor airflow 
+tolerance and adjustment specifications when meeting other rating 
+conditions; clarifies requirements for condenser head pressure 
+controls; clarifies units of measurement for airflow; establishes a 
+tolerance on part-load rating points and specifies the ambient 
+temperatures used for the part-load rating points; and defines the 
+term, ``integrated energy efficiency ratio.''
+
+[[Page 79656]]
+
+
+DATES: The effective date of this rule is January 22, 2016. The final 
+rule changes will be mandatory for testing starting December 19, 2016. 
+The incorporation by reference of certain material listed in this rule 
+is approved by the Director of the Federal Register as of January 22, 
+2016.
+
+ADDRESSES: The docket, which includes Federal Register notices, public 
+meeting attendee lists and transcripts, comments, and other supporting 
+documents/materials, is available for review at <a href="http://regulations.gov">regulations.gov</a>. All 
+documents in the docket are listed in the <a href="http://regulations.gov">regulations.gov</a> index. 
+However, some documents listed in the index, such as those containing 
+information that is exempt from public disclosure, may not be publicly 
+available.
+    A link to the docket Web page can be found at: <a href="http://www.regulations.gov/#!documentDetail">http://www.regulations.gov/#!documentDetail</a>;D=EERE-2015-BT-TP-0015-0001. This 
+Web page will contain a link to the docket for this notice on the 
+<a href="http://regulations.gov">regulations.gov</a> site. The <a href="http://regulations.gov">regulations.gov</a> Web page will contain simple 
+instructions on how to access all documents, including public comments, 
+in the docket.
+    For further information on how to review the docket, contact Ms. 
+Brenda Edwards at (202) 586-2945 or by email: 
+<a href="/cdn-cgi/l/email-protection#7b39091e151f1a553e1f0c1a091f083b1e1e551f141e551c140d"><span class="__cf_email__" data-cfemail="96d4e4f3f8f2f7b8d3f2e1f7e4f2e5d6f3f3b8f2f9f3b8f1f9e0">[email&#160;protected]</span></a>.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Ashley Armstrong, U.S. Department 
+of Energy, Office of Energy Efficiency and Renewable Energy, Building 
+Technologies Program, EE-2J, 1000 Independence Avenue SW., Washington, 
+DC 20585-0121. Telephone: (202) 586-9590, or email 
+<a href="/cdn-cgi/l/email-protection#7534061d19100c5b3407180601071a1b123510105b111a105b121a03"><span class="__cf_email__" data-cfemail="df9eacb7b3baa6f19eadb2acabadb0b1b89fbabaf1bbb0baf1b8b0a9">[email&#160;protected]</span></a>.
+    For legal issues, please contact Mr. Michael Kido, U.S. Department 
+of Energy, Office of the General Counsel, GC-33, 1000 Independence 
+Avenue SW., Washington, DC 20585-0121. Telephone: (202) 586-8145. 
+Email: <a href="/cdn-cgi/l/email-protection#7934101a11181c155732101d16391108571d161c571e160f"><span class="__cf_email__" data-cfemail="eca1858f848d8980c2a7858883ac849dc2888389c28b839a">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: DOE intends to incorporate by reference the 
+following industry standard into part 429 and appendix A to subpart F 
+of part 431: ANSI/AHRI Standard 340/360-2007, (``AHRI 340/360-2007''), 
+``2007 Standard for Performance Rating of Commercial and Industrial 
+Unitary Air-Conditioning and Heat Pump Equipment,'' with Addenda 1 and 
+2, approved by ANSI on October 27, 2011. This industry standard 
+provides guidance regarding a variety of different elements related to 
+the testing of commercial and industrial unitary air-conditioning and 
+heat pump equipment, including definitions, classifications, as well as 
+testing, rating, data, and operating requirements. ANSI/AHRI Standard 
+340/360-2007 is readily available from the Air-Conditioning, Heating, 
+and Refrigeration Institute, 2111 Wilson Blvd., Suite 500, Arlington, 
+VA 22201, (703) 524-8800, or go to: <a href="http://www.ahrinet.org">http://www.ahrinet.org</a>.
+    DOE intends to incorporate by reference the following industry 
+standard into appendix A to subpart F of part 431: ANSI/ASHRAE Standard 
+37-2009, (``ANSI/ASHRAE 37''), ``Methods of Testing for Rating 
+Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,'' 
+approved by ASHRAE on June 20, 2009. This testing standard details test 
+methods for the equipment addressed by this rulemaking. Copies of this 
+testing standard are readily available from the American Society of 
+Heating, Refrigerating, and Air-Conditioning Engineers, 1791 Tullie 
+Circle NE., Atlanta, GA 30329, (800) 527-4723, or through its Web site 
+at <a href="https://www.ashrae.org">https://www.ashrae.org</a>.
+    These standards are described further in section IV.M.
+
+Table of Contents
+
+I. Authority and Background
+    A. General Test Procedure Rulemaking Process
+II. Synopsis of the Final Rule
+III. Discussion
+    A. Clarifications to the Current DOE Test Procedure
+    1. Sections of ANSI/AHRI 340/360-2007 Incorporated by Reference
+    2. Indoor Airflow Adjustment and Reporting
+    3. Condenser Head Pressure Controls
+    4. Unit of Measurement for Airflow
+    5. Tolerance on Percent Load for IEER Part-Load Tests
+    6. Definition of IEER
+    7. Additional Test Procedure Provisions
+    B. Certification and Enforcement Issues and Compliance Dates
+    1. Measuring Cooling Capacity for Purposes of Certification, 
+Assessment, and Enforcement
+    2. Compliance Dates of the Certification, Reporting, and Test 
+Procedure Amendments
+    C. Future Test Procedure Rulemakings
+    D. Regulatory Text Language
+IV. Procedural Issues and Regulatory Review
+    A. Review Under Executive Order 12866
+    B. Review Under the Regulatory Flexibility Act
+    C. Review Under the Paperwork Reduction Act of 1995
+    D. Review Under the National Environmental Policy Act of 1969
+    E. Review Under Executive Order 13132
+    F. Review Under Executive Order 12988
+    G. Review Under the Unfunded Mandates Reform Act of 1995
+    H. Review Under the Treasury and General Government 
+Appropriations Act, 1999
+    I. Review Under Executive Order 12630
+    J. Review Under Treasury and General Government Appropriations 
+Act, 2001
+    K. Review Under Executive Order 13211
+    L. Review Under Section 32 of the Federal Energy Administration 
+Act of 1974
+    M. Description of Materials Incorporated by Reference
+    N. Congressional Notification
+    O. Approval of the Office of the Secretary
+
+I. Authority and Background
+
+    Title III of the Energy Policy and Conservation Act of 1975 (42 
+U.S.C. 6291, et seq.; ``EPCA'' or, ``the Act'') sets forth a variety of 
+provisions designed to improve energy efficiency. (All references to 
+EPCA in this document refer to the statute as amended through the 
+Energy Efficiency Improvement Act of 2015, Public Law 114-11 (April 30, 
+2015).) Part C of Title III, which for editorial reasons was 
+redesignated as Part A-1 upon incorporation into the U.S. Code (42 
+U.S.C. 6311-6317, as codified), establishes the Energy Conservation 
+Program for Certain Commercial and Industrial Equipment. Among the 
+equipment covered under this statutory framework are small, large, and 
+very large air-cooled commercial package air conditioning and heating 
+equipment--which are referred to in this notice as commercial unitary 
+air conditioners (CUACs) and commercial unitary heat pumps (CUHPs). 
+These equipment are the subject of this document. (42 U.S.C. 
+6311(1)(B)-(D))
+    Under EPCA, the energy conservation program consists essentially of 
+four parts: (1) testing, (2) labeling, (3) Federal energy conservation 
+standards, and (4) certification and enforcement procedures. The 
+testing requirements consist of test procedures that manufacturers of 
+covered equipment must use as the basis for (1) certifying to DOE that 
+their equipment complies with the applicable energy conservation 
+standards adopted under EPCA, and (2) making representations about the 
+efficiency of that equipment. Similarly, DOE must use these test 
+procedures to determine whether the equipment complies with any 
+relevant standards promulgated under EPCA.
+    DOE's test procedure for CUACs and CUHPs is codified at Title 10 of 
+the Code of Federal Regulations (CFR), Sec.  431.96. The current 
+regulations require that manufacturers use ANSI/AHRI 340/360-2007, 
+``2007 Standard for Performance Rating of Commercial and Industrial 
+Unitary Air-Conditioning and Heat Pump Equipment'' (ANSI/AHRI 340/360-
+2007), when measuring the efficiency of a given CUAC or CUHP and 
+certifying that equipment as compliant with the applicable
+
+[[Page 79657]]
+
+standard.\1\ 77 FR 28928, 28990 (May 16, 2012) (final rule specifying 
+applicable energy conservation standards and test procedures for 
+various commercial and industrial equipment, including CUACs and 
+CUHPs).
+---------------------------------------------------------------------------
+
+    \1\ DOE notes that for purposes of this notice, all references 
+to ANSI/ASHRAE 340/360-2007 include Addenda 1 and 2 to this 
+industry-based standard.
+---------------------------------------------------------------------------
+
+    On February 1, 2013, DOE published a request for information and 
+notice of document availability regarding the potential amendment of 
+the energy conservation standards for CUACs and CUHPs. 78 FR 7296. DOE 
+solicited information from the public to help determine whether 
+national standards more stringent than the current ones would result in 
+a significant amount of additional energy savings and whether those 
+national standards would be technologically feasible and economically 
+justified. DOE also sought information from the public on the merits of 
+adopting the integrated energy efficiency ratio (IEER) as the energy 
+efficiency descriptor for small, large, and very large air-cooled 
+commercial air conditioners and heat pumps, and which includes 
+provisions to measure equipment performance under partial-load 
+operating conditions. Currently, manufacturers must measure the energy 
+efficiency of their equipment using the energy efficiency ratio (EER), 
+which measures the full-load efficiency of a given unit. The procedure 
+to follow when measuring and calculating that value, like the proposed 
+IEER metric, is found in ANSI/ASHRAE 340/360-2007. See ANSI/ASHRAE 340/
+360-2007, sec. 6. Comments received on the topic of IEER are discussed 
+in a related notice of proposed rulemaking (NOPR) published September 
+30, 2014, which sought to amend the CUAC and CUHP energy conservation 
+standards. 79 FR 58948.
+    Subsequently, on April 1, 2015, DOE issued a notice of intent to 
+establish the Commercial Package Air Conditioners and Heat Pumps and 
+Commercial Warm Air Furnaces Working Group to negotiate potential 
+amendments to the energy conservation standards for this equipment. 80 
+FR 17363. This Working Group was established under the Appliance 
+Standards and Rulemaking Federal Advisory Committee (ASRAC) in 
+accordance with the Federal Advisory Committee Act and the Negotiated 
+Rulemaking Act. See 5 U.S.C. Appendix--Federal Advisory Committee Act 
+and 5 U.S.C. 561-570a. The Working Group, which consisted of 17 
+members, including one member from ASRAC and one DOE representative, 
+met six times (five times in person and once by teleconference). The 
+meetings were held on April 28, May 11-12, May 20-21, June 1-2, June 9-
+10, and June 15, 2015. The Working Group successfully reached consensus 
+on energy conservation standards for CUACs, CUHPs, and commercial warm 
+air furnaces, which the Working Group provided as recommendations as 
+part of a Term Sheet for submission to ASRAC. The group also chose to 
+provide test procedure and metric-related recommendations to the ASRAC. 
+ASRAC voted unanimously to approve the Working Group's recommendations 
+on June 17, 2015. Participants in the Working Group consisted of the 
+following entities aside from DOE:
+
+------------------------------------------------------------------------
+                                     Acronym,
+         Organization              Abbreviation         Affiliation
+------------------------------------------------------------------------
+Air Conditioning Contractors    ACCA.............  Contractor/Installer
+ of America.                                        Group.
+Air-Conditioning, Heating, and  AHRI.............  HVAC Manufacturers
+ Refrigeration Institute.                           Group.
+American Council for an Energy  ACEEE............  Energy Efficiency
+ Efficient Economy.                                 Advocacy Group.
+Appliance Standards Awareness   ASAP.............  Energy Efficiency
+ Project.                                           Advocacy Group.
+Emerson Climate Technologies..  Emerson..........  Manufacturer.
+Goodman Manufacturing.........  Goodman..........  Manufacturer.
+Lennox International..........  Lennox...........  Manufacturer.
+Mitsubishi Electric...........  Mitsubishi.......  Manufacturer.
+Natural Resources Defense       NRDC.............  Energy Efficiency
+ Council.                                           Advocacy Group.
+Northwest Energy Efficiency     NEEA.............  Energy Efficiency
+ Alliance.                                          Advocacy Group.
+Pacific Gas & Electric          Cal. IOUs........  Investor-Owned
+ Company, San Diego Gas &                           Utilities.
+ Electric Company, Southern
+ California Edison, and
+ Southern California Gas
+ Company.
+Rheem Manufacturing Company...  Rheem............  Manufacturer.
+Sheet Metal and Air             SMACCNA..........  Contractor/Installer
+ Conditioning Contractors                           Group.
+ National Association, Inc..
+Trane/Ingersoll Rand..........  Trane............  Manufacturer.
+United Technologies             Carrier..........  Manufacturer.
+ Corporation (Carrier).
+Underwriters Laboratories.....  UL...............  Test Lab.
+------------------------------------------------------------------------
+
+    DOE initiated a rulemaking to amend the test procedure and 
+associated certification requirements for CUACs and CUHPs to implement 
+certain of the Working Group's recommendations regarding the metric and 
+test procedure. On August 6, 2015, DOE published a NOPR (August 2015 
+NOPR), 80 FR 46870, in which DOE proposed to clarify aspects of the 
+CUAC and CUHP test procedure. These clarifications include, among other 
+things, limiting the incorporation by reference of ANSI/AHRI 340/360-
+2007 to certain sections and addenda, specifying requirements for 
+indoor airflow adjustment and reporting, clarifying requirements for 
+condenser head pressure controls, clarifying the unit of measurement 
+for airflow, establishing a tolerance on percent load for IEER part-
+load tests, and defining the term IEER. In this final rule, DOE 
+responds to comments received from stakeholders in response to the 
+NOPR.
+
+A. General Test Procedure Rulemaking Process
+
+    EPCA sets forth the general criteria and procedures DOE must follow 
+when prescribing or amending test procedures for covered equipment. See 
+generally 42 U.S.C. 6314. EPCA provides in relevant part that any test 
+procedures prescribed or amended under this section must be reasonably 
+designed to produce test results that measure the energy efficiency, 
+energy use or estimated annual operating cost of a covered
+
+[[Page 79658]]
+
+product during a representative average use cycle or period of use, and 
+must not be unduly burdensome to conduct. (42 U.S.C. 6314(a)(2)) In 
+addition, if DOE determines that a test procedure amendment is 
+warranted, it must publish proposed test procedures and offer an 
+opportunity for the public to present oral and written comments. (42 
+U.S.C. 6314(b))
+    EPCA also requires DOE to evaluate its test procedures at least 
+once every 7 years for each class of covered equipment (including CUACs 
+and CUHPs) to determine if an amended test procedure would more 
+accurately or fully comply with the requirement to be reasonably 
+designed to produce test results that reflect the energy efficiency, 
+energy use, and operating costs during a representative average use 
+cycle. DOE must either prescribe amended test procedures or publish a 
+notice in the Federal Register regarding its determination not to amend 
+test procedures. (42 U.S.C. 6314(a)(1)-(2))
+    DOE considers the activity associated with this rulemaking 
+sufficient to satisfy this review requirement.
+
+II. Synopsis of the Final Rule
+
+    This final rule clarifies aspects of DOE's test procedure for CUACs 
+and CUHPs to improve the consistency and accuracy of the results 
+generated when using that procedure. The rule clarifies how to test for 
+compliance with the current energy conservation standards along with 
+those standards that DOE anticipates adopting consistent with the 
+Working Group's Term Sheet. The rule also amends certain certification, 
+compliance, and enforcement provisions. DOE has determined that this 
+final rule will not change the measured energy efficiency of CUACs and 
+CUHPs when compared to the current test procedure.
+
+III. Discussion
+
+    This final rule amends the test procedure for CUACs and CUHPs in 
+appendix A to subpart F of part 431 and adds new equipment-specific 
+certification and enforcement provisions in 10 CFR 429.43 and 429.134. 
+With respect to the latter of these changes, a new Sec.  429.134(g) 
+would be added to the pre-existing provisions already contained in 
+Sec.  429.134(a)-(f). The rule also amends certain definitions found in 
+10 CFR 431.92 and updates certain materials incorporated by reference 
+in 10 CFR 431.95.
+    In response to the August 2015 NOPR, six interested parties 
+submitted written comments: Air-Conditioning, Heating and Refrigeration 
+Institute (AHRI); United Technologies Corporation (Carrier), Ingersoll 
+Rand, the California Investor-Owned Utilities (Cal. IOUs), Goodman 
+Manufacturing Company (Goodman), and Lennox International Inc. 
+(Lennox). Interested parties commented on a range of issues, including 
+those DOE identified in the August 2015 NOPR, as well as several other 
+pertinent issues related to DOE's proposal. Commenters also offered 
+thoughts on further opportunities to improve the clarity of the test 
+procedure. These issues, as well as DOE's responses to them and the 
+resulting changes to DOE's proposal, are discussed in the subsequent 
+sections.
+
+A. Clarifications to the Current DOE Test Procedure
+
+    In response to the August 2015 NOPR, DOE received input on a 
+variety of test procedure issues, including: (1) sections of ANSI/AHRI 
+340/360-2007 incorporated by reference; (2) indoor airflow adjustment 
+and reporting; (3) condenser head pressure controls; (4) the unit of 
+measurement for airflow; (5) the tolerance on percent load for IEER 
+part-load tests; (6) the definition of IEER; and (7) additional 
+provisions in the current test procedure. DOE's treatment of these 
+issues is addressed below.
+1. Sections of ANSI/AHRI 340/360-2007 Incorporated by Reference
+    As noted previously, DOE intends to incorporate by reference ANSI/
+AHRI Standard 340/360-2007, (``AHRI 340/360-2007''), ``2007 Standard 
+for Performance Rating of Commercial and Industrial Unitary Air-
+Conditioning and Heat Pump Equipment,'' which was approved by ANSI on 
+October 27, 2011, and updated by addendum 1 in December 2010 and 
+addendum 2 in June 2011. This industry standard provides guidance 
+regarding a variety of different elements related to the testing of 
+commercial and industrial unitary air-conditioning and heat pump 
+equipment, including definitions, classifications, as well as testing, 
+rating, data, and operating requirements. (ANSI/AHRI Standard 340/360-
+2007 is readily available from the Air-Conditioning, Heating, and 
+Refrigeration Institute, 2111 Wilson Blvd., Suite 500, Arlington, VA 
+22201, (703) 524-8800, or go to: <a href="http://www.ahrinet.org">http://www.ahrinet.org</a>.)
+    In its August 2015 NOPR, DOE proposed to specify that when testing 
+CUACs and CUHPs for the EER, coefficient of performance (COP), and IEER 
+metrics, only certain sections of ANSI/AHRI 340/360-2007 would be 
+required--specifically, sections 3, 4, and 6 (omitting section 6.3)--
+rather than applying the entirety of ANSI/AHRI 340/360-2007. DOE also 
+proposed not to incorporate section 5 of that testing standard, and to 
+incorporate by reference ANSI/ASHRAE 37-2009, which was previously 
+incorporated by reference through section 5 of ANSI/AHRI 340/360-2007. 
+80 FR at 46873.
+    Responding to this aspect of DOE's proposal, AHRI, Carrier, 
+Ingersoll Rand, Goodman, and Lennox commented that DOE should reference 
+ANSI/AHRI Standard 340/360-2015 after its final version is released. 
+(AHRI, No. 8 at p. 1; Carrier, No. 11 at p. 2; Ingersoll Rand, No. 9 at 
+p. 13; Goodman, No. 14 at p. 2; Lennox, No. 13 at p. 2, 6) They 
+commented that this revised testing standard addresses the issues that 
+DOE raised in the NOPR and additional items identified by industry to 
+improve the test procedure. In addition, Lennox noted that EPCA 
+requires DOE to use those test procedures that are generally accepted 
+by industry. (Lennox No. 13 at pp. 2, 6) See also 42 U.S.C. 
+6314(a)(4)(A) (indicating that the test procedures for commercial 
+package air conditioning and heating equipment shall be those 
+``generally accepted industry testing procedures or rating procedures'' 
+developed or recognized by AHRI or ASHRAE ``as referenced in ASHRAE/IES 
+Standard 90.1 and in effect on June 30, 1992''). Additionally, AHRI 
+commented that sections 6.5 and 6.6 of the soon-to-be-released version 
+of AHRI 340/360-2015, which address verification testing uncertainty 
+and uncertainty allowances, respectively, should be referenced as well. 
+AHRI commented that doing so will help the user of the standard more 
+fully understand the causes of why measured capacity and efficiency may 
+vary, which, in its view, will be helpful to laboratories performing 
+tests to complete the uncertainty analyses required by ISO 17025.\2\
+---------------------------------------------------------------------------
+
+    \2\ ISO 17025 is a test facility standard that provides general 
+requirements for standard operating procedures for accuracy of 
+laboratory measurements and tests.
+---------------------------------------------------------------------------
+
+    AHRI agreed with DOE's proposal to incorporate by reference ANSI/
+ASHRAE 37-2009. (AHRI, No. 8 at p. 2) AHRI noted that ANSI/AHRI 340/
+360-2015 has updated the reference to ANSI/ASHRAE 37-2009, and that 
+section 5 of ANSI/AHRI 340/360-2015 addresses items related to unit 
+setup and operating conditions that are not currently covered by ANSI/
+ASHRAE 37-2009.
+    Carrier commented that ANSI/AHRI 340/360-2015 requires that 
+corrections be made for the impact of atmospheric pressure changes and 
+resulting air density changes. Carrier requested that DOE adopt 
+Appendix D of ANSI/AHRI
+
+[[Page 79659]]
+
+340/360-2015 to better account for changes in atmospheric pressure and 
+altitude changes of test laboratories. (Carrier No. 11 at p. 3)
+    AHRI and Carrier commented that DOE uses a confidence level of 95 
+percent in the sampling requirements given in 10 CFR 429.43, whereas 
+section 6.4 of ANSI/AHRI 340/360-2015 uses a confidence level of 90 
+percent. (AHRI, No. 8 at p. 2; Carrier No. 11 at p. 2) AHRI and Carrier 
+noted that commercial equipment has as much, if not more, uncertainty 
+and variability in testing than residential equipment, and that 90 
+percent is an appropriate confidence level.
+    After reviewing the comments from the August 2015 NOPR, DOE agrees 
+that many of the raised issues are addressed in the draft version of 
+ANSI/AHRI 340/360-2015. However, DOE is still investigating whether 
+certain provisions in the draft ANSI/AHRI 340/360-2015 will change 
+measured efficiency. Furthermore, a final version of the new standard 
+was not available during the preparation of this final rule. For these 
+reasons, DOE declines to adopt ANSI/AHRI 340/360-2015 in whole or in 
+part at this time. In this final rule, DOE amends its test procedure to 
+reference sections 3, 4, and 6 (omitting section 6.3) of ANSI/AHRI 340/
+360-2007. DOE may, however, consider incorporating the final version of 
+ANSI/AHRI 340/360-2015, or additional provisions within it, in a future 
+test procedure rulemaking, as discussed in section III.C. With respect 
+to ANSI/ASHRAE 37-2009, DOE already incorporates by reference this 
+testing standard in part 431.
+    In the NOPR, DOE did not make any proposals regarding the 
+confidence level in its certification and enforcement provisions. 
+Accordingly, DOE declines to adopt provisions on this issue without 
+holding further public comment. While DOE is open to considering 
+changes to its confidence level in the future, manufacturers or other 
+parties with access to relevant data should provide data regarding the 
+variability of units in production and testing to enable DOE to 
+facilitate its efforts to make any necessary adjustments in an 
+appropriate future rulemaking proceeding.
+2. Indoor Airflow Adjustment and Reporting
+    In the August 2015 NOPR, DOE proposed that equipment must be tested 
+using the motor and drive assembly and settings specified in the 
+certification report (supplemental testing instruction PDF), and that 
+the external static pressure (ESP) during testing remain within the 
+tolerances set forth in Section 6.1.3.2 of ANSI/AHRI 340/360-2007 with 
+the indoor airflow rate staying within +/-5 percent of the 
+manufacturer-rated full-load indoor airflow rate. DOE proposed that the 
+unit and/or test facility be adjusted to set up the unit such that both 
+the airflow and ESP are within the required tolerances. See 80 FR at 
+46873 (noting situations in which a test facility's equipment may need 
+adjusting to maintain the proposed tolerances).
+    ANSI/AHRI 340/360-2007, section 6.1.3.2.e, specifies that the full-
+load cooling airflow rate (in SCFM) must be employed, irrespective of 
+resulting ESP, for all situations other than full-load cooling in which 
+full-load airflow is used (e.g., full-load heating). DOE proposed that 
+the +/-5 percent tolerance for airflow rate must be applied for these 
+other conditions as well. DOE also indicated that it interpreted this 
+section to mean that a test facility adjustment can be made to obtain 
+the proper airflow (i.e. to maintain airflow within the proposed 
+tolerance), but that the unit under test itself cannot be adjusted, and 
+that there is no ESP requirement for this part of the test. 80 FR at 
+46873.
+    In addition, DOE proposed that in cases where a unit is designed to 
+operate with a different indoor airflow rate for cooling and heating 
+modes, manufacturers would report the individual indoor airflow rates 
+in cooling and heating modes. DOE also proposed that a manufacturer 
+must include in its certification report the adjusted indoor airflow at 
+each part-load condition. 80 FR at 46873.
+    Responding to the NOPR, AHRI and Carrier agreed that the tester 
+must use the same motor and drive kit that was used to determine the 
+certified rating, as specified in the manufacturer's certification 
+information. (AHRI, No. 8 at p. 5; Carrier No. 11 at p. 4) AHRI, 
+Carrier, Goodman, and Lennox agreed that a tolerance for indoor airflow 
+is needed to ensure that it closely approximates the manufacturer's 
+rated full-load indoor airflow rate. (AHRI, No. 8 at p. 5; Carrier No. 
+11 at p. 4; Goodman, No. 14 at p. 1; Lennox, No. 13 at p. 4) However, 
+these commenters indicated that a 5 percent tolerance would result in 
+too much variation in EER and cooling capacity. The commenters 
+recommended that the airflow should be allowed to vary by +/-3 percent 
+of the rated full-load indoor airflow rate to reduce test uncertainty 
+and to ensure the variations in EER and cooling capacity are at 
+acceptable levels. (AHRI, No. 8 at p. 5; Carrier No. 11 at p. 4; 
+Goodman, No. 14 at p. 1; Lennox, No. 13 at p. 4)
+    In contrast, AHRI commented that no adjustments should be made to 
+the airflow or the ESP during the heating test after it is set during 
+the cooling test. (AHRI, No. 8 at p. 5). Goodman generally agreed with 
+this view. (Goodman, No. 14 at p. 2) DOE's proposal would require 
+adjustments to the test facility's equipment (but not the tested unit's 
+fan settings) to maintain the full-load airflow rate when switching 
+from the cooling test to the heating test, without regard to the 
+resulting ESP. The method AHRI described is inconsistent with DOE's 
+proposed method, because it would prohibit making adjustments to the 
+ESP when switching from the cooling test to the heating test, whereas 
+the proposal would allow the ESP to change between the cooling and 
+heating tests as long as the full-load airflow rate is maintained. 
+Lennox agreed with DOE's proposed approach to maintain the full-load 
+airflow rate when switching from the cooling test to the heating test 
+by making adjustments to the test facility's equipment--and not to the 
+tested unit's fan settings--without regard to the resulting ESP. Lennox 
+suggested that a +/-3 percent tolerance should apply to the full-load 
+indoor airflow rate during the heating test. (Lennox, No. 13 at p. 5) 
+Carrier also supported making adjustments to the test facility's 
+equipment, but not to the unit's fan settings, to maintain proper 
+airflow. Carrier also commented that the proposed ANSI/AHRI 340/360-
+2015 includes a requirement to manually adjust fan speed during the 
+heating cycle if the unit is equipped with automatic controls that 
+control the fan speed in heating mode. (Carrier No. 11 at pp. 4-5)
+    AHRI, Carrier, Goodman, and Lennox agreed with DOE that indoor 
+airflow should be reported in both cooling and heating mode if they are 
+different. (AHRI, No. 8 at p. 6; Carrier, No. 11 at p. 5; Goodman, No. 
+14 at p. 2; Lennox, No. 13 at p. 5) AHRI and Carrier are not aware of 
+any equipment that has a different airflow for heating and cooling but 
+believe that it could be an option in the future.
+    After reviewing the comments on the NOPR, DOE agrees that a 5-
+percent tolerance on the rated full-load indoor airflow rate would 
+allow more variation than desired in the EER and cooling capacity. Test 
+results provided by manufacturers regarding the range of potential 
+variation are greater than the estimates DOE initially made, which 
+supported the 5 percent proposal. Based on the additional information 
+provided
+
+[[Page 79660]]
+
+by manufacturers, DOE is revising its proposed tolerance level on the 
+rated full-load indoor airflow rate from 5 percent to 3 percent. 
+Additionally, given the generally positive feedback received in 
+response to its proposed approach, DOE is also adopting its proposal 
+that full-load airflow rate be maintained when switching from cooling 
+mode to heating mode by adjusting the test facility (but not the unit 
+under test) without regard to the resulting ESP. In addition, DOE is 
+adopting its proposed certification and reporting requirements with 
+minor clarifications. Specifically, a manufacturer must include in its 
+certification report the adjusted indoor airflow at each part-load 
+condition for both cooling and heating modes. In cases where a model is 
+designed to operate with the same indoor airflow rate for cooling and 
+heating modes, the reported numbers may be the same for each mode.
+3. Condenser Head Pressure Controls
+    In the August 2015 NOPR, DOE proposed to specify that condenser 
+head pressure controls, if included with the unit, must be active 
+during testing. DOE proposed that if a unit with condenser head 
+pressure controls cannot achieve steady-state operation with the 
+controls active, and thus cannot be tested, the manufacturer would have 
+to request a waiver. DOE also requested comment on whether there are 
+any units on the market with condenser head pressure controls that 
+would prevent the unit from achieving steady-state under the test 
+conditions, and if so, how should DOE address these kinds of units for 
+testing purposes. 80 FR at 46873-46874.
+    In response, AHRI, Carrier, Ingersoll Rand, Goodman, and Lennox 
+agreed with DOE's proposal to keep the head pressure controls active in 
+automatic mode if present. (AHRI, No. 8 at p. 6; Carrier, No. 11 at p. 
+5; Ingersoll Rand, No. 9 at p. 31; Goodman, No. 14 at p. 2; Lennox, No. 
+13 at p. 5) AHRI, Carrier, Goodman, and Lennox also commented that the 
+current draft of ANSI/AHRI 340/360-2015 clarifies the requirements for 
+running the head pressure control in automatic mode and also provides a 
+new test procedure to determine the rating performance when head 
+pressure control results in unstable operation.
+    After reviewing the comments, DOE is clarifying the current test 
+procedure to specify that condenser head pressure controls, if included 
+with the unit, must be active during testing, as proposed in the NOPR. 
+As noted previously, AHRI 340/360-2015 is still a draft document, and 
+DOE is not incorporating it by reference in this rule. In addition, DOE 
+declines at this time to adopt a test method like that in AHRI 340/360-
+2015 regarding rating performance when head pressure control results in 
+unstable operation. DOE will continue to review this industry testing 
+standard and may consider adopting a method to address this issue in 
+the future after a full public comment process.
+4. Unit of Measurement for Airflow
+    DOE also proposed that all instances of CFM as a unit of airflow 
+must be interpreted to mean SCFM where they appear in the sections of 
+ANSI/AHRI 340/360-2007, incorporated by reference in 10 CFR part 431, 
+subpart F. 80 FR at 46874.
+    In response, AHRI, Carrier and Ingersoll Rand agreed with this 
+approach. (AHRI, No. 8 at p. 4; Carrier No. 11 at p. 3; Ingersoll Rand 
+No. 9 at p. 14) Each of these commenters recommended adopting ANSI/AHRI 
+340/360-2015, which would provide clear instructions to ensure that 
+airflow is measured in SCFM for testing. AHRI noted that this issue is 
+already addressed in ANSI/AHRI 340/360-2007 through the reference to 
+ASHRAE 37-2009, which defines the unit of airflow as standard CFM.
+    As noted in section III.A.1, DOE declines to reference ANSI/AHRI 
+340/360-2015 at this time. Further, although section 7.7.2.3 of ASHRAE 
+37-2009 may be interpreted as an indication that airflow rate is to be 
+expressed in terms of standard air in all test standards that 
+incorporate it by reference, this interpretation may not be 
+sufficiently clear from the relevant text of the current test 
+procedure, which refers to both CFM and SCFM in various locations. 
+Hence, DOE is clarifying the test procedure to indicate that all 
+instances of CFM as a unit of airflow must be interpreted to mean SCFM 
+where they appear in the sections of ANSI/AHRI 340/360-2007 
+incorporated by reference in 10 CFR part 431, subpart F.
+5. Tolerance on Percent Load for IEER Part-Load Tests
+    DOE proposed applying a +/-3-percent tolerance to each part-load 
+test point in the IEER calculation, and formally requested comment on 
+the appropriateness of establishing such a tolerance level. See 80 FR 
+at 46878-46879 (request for comment) and 80 FR at 46874 (discussing 
+DOE's +/-3-percent tolerance proposal). Specifically, if the measured 
+load fraction is within 3 percent of the target load fraction, the 
+measured EER would not have to be adjusted using interpolation or 
+application of the degradation factor for cyclic operation.
+    Responding to this aspect of the proposal, AHRI, Goodman, and 
+Lennox agreed in principle with setting a tolerance on the part-load 
+percent load when the unit cannot run at precisely 75-percent, 50-
+percent, and 25-percent part-load capacities. The commenters also 
+agreed with DOE's tolerance level of 3 percent. (AHRI, No. 8 at p. 6; 
+Goodman, No. 14 at p. 2; Lennox, No. 13 at p. 6)
+    However, AHRI and Carrier commented that implementing the 3-percent 
+tolerance without also adopting some other provisions of ANSI/AHRI 340/
+360-2015 would vary IEER results by as much as 5 percent, a magnitude 
+they considered inappropriate. (AHRI, No. 8 at p. 6; Carrier No. 11 at 
+p. 3) AHRI stated that this variation could be reduced significantly by 
+changing the condenser air inlet temperature used for each given part-
+load point. Specifically, AHRI 340/360-2007 relies on condenser air 
+inlet temperatures as a function of percent load, while AHRI 340/360-
+2015 specifies condenser air inlet temperatures that are fixed for each 
+rating point percent load. (AHRI, No. 9 at p. 6) The relationship 
+between condenser air inlet temperature and percent load is provided in 
+section 6.2.2 of AHRI 340/360-2007. AHRI stated that adopting the 
+proposed 3-percent tolerance for part-load tests with the current 
+approach would result in an IEER variation of -4.6 percent to +4.8 
+percent. However, if the condenser air entering temperature is fixed to 
+the target percent load, then IEER variations would be reduced to 1.5 
+or 1.6 percent. (AHRI, Public Meeting Transcript, No. 15 at p. 33-36) 
+AHRI and Carrier, as well as Goodman and Lennox, proposed that DOE 
+reference ANSI/AHRI 340/360-2015 (section 6.2) which includes the +/- 
+3-percent load fraction tolerance along with the other revisions to the 
+IEER testing procedures. (AHRI, No. 8 at pp. 6-7; Carrier, No. 11 at p. 
+3; Goodman, No. 14 at p. 2; Lennox, No. 13 at p. 6)
+    After reviewing the comments on the appropriateness of establishing 
+a 3-percent tolerance on each part-load test point, as proposed in the 
+NOPR, DOE is adopting the 3-percent part-load test point tolerance, and 
+is also adopting the suggestion from several commenters for setting the 
+condenser inlet air temperature for the test, which commenters viewed 
+as being linked to the revised 3-percent tolerance level. DOE is 
+adopting this suggestion in response to stakeholders' comments that a 
+3-percent tolerance on part-load testing would not be appropriate 
+unless the condenser air entering temperature is fixed at the 
+temperature for the target
+
+[[Page 79661]]
+
+part-load point. Adopting this suggested approach will help reduce the 
+variability in test results for variations in percent load within 3-
+percent of the target part-load point. AHRI supported this approach 
+with data demonstrating how implementing this requirement for setting 
+the condenser air entering temperature would reduce the variability in 
+test results. (AHRI, No. 7 at p. 18) In addition, this change has the 
+potential to significantly reduce test burden, since the current test 
+procedure requirement, by specifying condenser inlet air temperature as 
+a function of the measured load fraction, can lead to multiple 
+repetitions of the test if the measured load fraction is different than 
+the load fraction used to calculate the air temperature used for the 
+test. Also, the suggested approach from the commenters is more 
+consistent with the way a unit would actually operate in the field. 
+Specifically, when a unit cycles between operating levels to satisfy an 
+average load represented by the target load fraction, the ambient 
+temperature remains constant. DOE investigated potential changes in 
+measurement associated with this test procedure change and found that 
+it would not change the measurement unless the interpolation method is 
+used to determine one or more of the part-load EER levels and for which 
+one of the measurements used for the interpolation(s) has a measured 
+percent load less than 44.4 percent. Also, for typical units that fit 
+this description, the change in the measurement is less than one 
+percent. With respect to IEER, DOE concludes this is a de minimis 
+change, the extent of which would not impact a model's ability to 
+comply with a given IEER standard or alter the measured energy 
+efficiency of the covered equipment.
+    DOE has elected to implement the additional change regarding 
+condenser air inlet temperature by noting this difference with respect 
+to AHRI 340/360-2007 within the regulatory language in the CFR rather 
+than incorporating by reference the 2015 version of the standard--DOE's 
+decision not to incorporation AHRI 340/360-2015 by reference is 
+discussed in section III.A.1.
+6. Definition of IEER
+    DOE proposed to define IEER (i.e. integrated energy efficiency 
+ratio) as meaning ``a single number part-load efficiency based on 
+weighting of EER at various load capacities, as measured in appendix A 
+to subpart F of part 431, expressed in Btu/watt-hour.'' (80 FR at 
+46880)
+    In response to this proposed definition, AHRI and Carrier agreed 
+that the definition of IEER must be improved and clarified. (AHRI, No. 
+8 at p. 4; Carrier, No. 11 at pp. 3-4) However, AHRI and Carrier 
+commented that DOE's definition does not account for the operating 
+conditions and rating conditions required to accurately rate IEER. They 
+commented that this is a significant aspect of the IEER metric and it 
+should be mentioned in the definition to avoid any misrepresentation. 
+AHRI and Carrier further commented that the DOE definition also 
+proposes to reference the new DOE appendix A, which does not directly 
+address the requirements for IEER and refers back to AHRI 340/360. AHRI 
+and Carrier suggested as an alternative that DOE use the IEER 
+definition in ANSI/AHRI 340/360-2015. (AHRI, No. 8 at p. 4; Carrier, 
+No. 11 at pp. 3-4)
+    The draft version of ANSI/AHRI 340/360-2015 section 3.11 defines 
+IEER as ``a weighted calculation of mechanical cooling EERs at full-
+load and part-load Standard Rating Conditions, defined in Section 6.2, 
+expressed in Btu/Wh.''
+    Ingersoll Rand suggested a different definition for IEER: 
+``Integrated energy efficiency ratio, or IEER, means the cooling energy 
+efficiency descriptor for packaged air-conditioning and heating 
+equipment (air-cooled with a rated cooling capacity >=65,000 Btu/h), 
+determined as a single number part-load efficiency based on weighting 
+of EER at various load capacities, as measured in appendix A to subpart 
+F of part 431, expressed in Btu/watt-hour.'' (Ingersoll Rand, No. 9 at 
+p. 2) Ingersoll Rand made this suggestion to clarify that: (1) IEER is 
+the only cooling efficiency descriptor for CUAC and CUHP and (2) IEER 
+is specific to CUAC and CUHP and does not apply to other commercial 
+package air-conditioning and heating equipment. (Id.)
+    DOE agrees that the rating conditions for IEER could be 
+acknowledged in the definition. However, DOE declines to reference AHRI 
+340/360 directly, as all representations of IEER must be made based on 
+DOE's test procedure, which contains additional provisions beyond those 
+in the referenced industry standard. Therefore, DOE is adopting a 
+modified definition for IEER that references rating conditions rather 
+than load capacities, but still specifies that measurements be made in 
+accordance with appendix A. DOE also declines to include equipment 
+references at this time. In the future, DOE may adopt energy 
+conservation standards based on IEER for equipment other than CUAC and 
+CUHP. Hence, DOE declines to specify or otherwise limit what equipment 
+uses this metric. DOE addresses Ingersoll Rand's concern regarding the 
+efficiency descriptor in section III.D.
+    DOE does agree that the IEER is intended to measure cooling 
+provided by the refrigeration system, i.e. ``mechanical cooling'', and 
+does not address other modes of cooling that the equipment might 
+provide. As an example, CUAC and CUHP equipment may provide economizer 
+cooling, which involves use of cool outdoor air during cool weather to 
+cool the interior of a building without the use of refrigeration system 
+operation.
+    For these reasons, DOE is adopting the following definition for 
+IEER:
+    Integrated energy efficiency ratio, or IEER, means a weighted 
+average calculation of mechanical cooling EERs determined for four load 
+levels and corresponding rating conditions, as measured in appendix A 
+to subpart F of part 431, expressed in Btu/watt-hour.
+7. Additional Test Procedure Provisions
+    Current DOE regulations include provisions for refrigerant charging 
+and airflow rate relevant to multiple equipment categories, including 
+CUACs and CUHPs. (10 CFR 431.96(e)) DOE proposed adding these 
+provisions to the proposed appendix A, section (5) for CUACs and CUHPs, 
+while maintaining the original provision in 431.96(e) for the other 
+relevant equipment categories. 80 FR at 46881. These provisions require 
+that if a manufacturer specifies a range (rather than a specific rating 
+value) of superheat, sub-cooling, and/or refrigerant charge pressure in 
+its installation and operation manual, any value within that range may 
+be used to determine refrigerant charge or mass of refrigerant.
+    In response to the NOPR, Goodman stated that manufacturers 
+typically specify a broader range of superheat or subcooling for field 
+charging than would be accepted in the laboratory (because field 
+measurement equipment is not as accurate as laboratory measurement 
+equipment). Goodman further added that the AHRI certification program 
+has a policy of adjusting charge to the middle of the range, which 
+makes the test more accurate. (Goodman, No. 14 at p. 3)
+    DOE notes that the refrigerant charge, superheat, and subcooling 
+values are interrelated such that DOE does not believe Goodman's 
+suggestion of hitting the midpoint of all of the ranges can be achieved 
+in all cases. Consequently, DOE is not requiring that the test be 
+performed at the midpoint of each of the ranges. Instead, DOE is 
+clarifying that test labs should only be adjusting charge
+
+[[Page 79662]]
+
+once for both the cooling and heating test and a test lab should aim 
+for the middle of the subheat or subcool range. However, DOE emphasizes 
+that any point in the range is still acceptable at this point in time. 
+Should industry believe additional specificity regarding these 
+provisions would improve repeatability or reproducibility, DOE may 
+consider further amendments in a future rulemaking. For consistency in 
+testing, DOE will follow the approach of attempting to achieve the 
+midpoint of one of the values, which it considers to be a best 
+practice.
+    In regards to airflow, DOE currently requires that the airflow rate 
+used for testing must be in the installation and operations manual 
+shipped with the basic model and clearly identified as the value used 
+to generate DOE performance ratings; otherwise, a value of 400 SCFM per 
+ton is used. See 10 CFR 431.96(e). Responding to DOE's proposal to 
+include this set of requirements as part of appendix A, Goodman noted 
+that manufacturers who certify through AHRI have the full-load cooling 
+capacity shown in the AHRI Directory of Certified Product Performance, 
+and that the value in that directory should be used as opposed to using 
+400 SCFM per ton. (Goodman, No. 14 at p. 3)
+    DOE notes that for commercial package air conditioning and heating 
+equipment, manufacturers are currently required to certify rated 
+airflow in SCFM for each fan coil. See 10 CFR 429.43(b)(4)(i)-(ii) 
+(specifying certification report contents for commercial package air 
+conditioning and heating equipment). As noted earlier, DOE is 
+clarifying this requirement as described in section III.A.2. DOE 
+expects the certified airflow values to be consistent with those in the 
+installation manual and reported to AHRI, because the airflow used in 
+tests (whether for certifying performance to DOE or as used by AHRI) 
+should be the same airflow that installers would use when setting up 
+the unit based on the installation instructions. However, in the event 
+a manufacturer fails to report airflow to DOE, the specified value of 
+400 SCFM per ton prescribed by 10 CFR 431.96(e) will continue to apply.
+
+B. Certification and Enforcement Issues and Compliance Dates
+
+    In addition to addressing various aspects related to the testing of 
+CUACs and CUHPs, DOE also proposed various certification and 
+enforcement-related provisions with respect to this equipment. 
+Additionally, DOE proposed including provisions related to the 
+reporting of IEER values for certification and compliance purposes once 
+the compliance dates for the standards recommended by the Working Group 
+are reached. These issues are addressed in the following sections.
+1. Measuring Cooling Capacity for Purposes of Certification, 
+Assessment, and Enforcement
+    DOE proposed that the cooling capacity represented and subsequently 
+certified to DOE for a given basic model must be the average of the 
+capacities measured for the sample of units tested to certify that 
+basic model, rounded according to the multiples in Table 4 in ANSI/AHRI 
+340/360-2007. DOE also proposed that when conducting assessment and 
+enforcement testing, it would measure the total cooling capacity 
+pursuant to the test requirements of 10 CFR 431.96 for each unit 
+tested, and the results of the measurement(s) would be compared to the 
+value of cooling capacity certified by the manufacturer. The 
+manufacturer-certified cooling capacity will be considered valid if the 
+cooling capacity determined through DOE testing is within 5 percent of 
+the certified cooling capacity. (80 FR at 46874)
+    With respect to the certification requirements, Lennox disagreed 
+with DOE's proposal to require that the certified cooling capacity be 
+the average of the capacities measured for the sample of units tested. 
+(Lennox, No. 13 at p. 3) Lennox stated that conservative capacity 
+ratings subject equipment to more stringent efficiency standards. 
+Lennox further commented that if forced to reclassify equipment into 
+higher-capacity classes, manufacturers could face unduly burdensome 
+administrative and procedural obligations without any benefit to energy 
+efficiency. Lennox also stated that if conservatively-rated equipment 
+is categorized into a larger equipment class, it can change the test 
+conditions (i.e. ESP), resulting in a further change from the designed 
+capacity and IEER level of the product. Lennox added that in the past, 
+DOE has allowed manufacturers to conservatively rate products, such as 
+in the final rule establishing AEDMs for commercial air-conditioning 
+and refrigeration equipment and walk-in coolers and freezers. (Lennox, 
+No. 13 at pp. 3-4)
+    Ingersoll Rand commented that, while DOE's certification 
+regulations typically require manufacturers to report capacity, DOE 
+does not specify that manufacturers determine capacity through testing 
+specified by DOE, and that DOE has not found that capacity is a measure 
+of energy consumption as defined by EPCA at 42 U.S.C. 6291(8). 
+(Ingersoll Rand, No. 9 at p. 13) Ingersoll Rand also noted that DOE had 
+not demonstrated why such a proposal is necessary. (Id.)
+    With respect to the enforcement testing provisions, AHRI, Ingersoll 
+Rand, and Goodman commented that a tolerance of 5 percent should not be 
+applied to capacity because there are many factors that can affect 
+measured capacity and performance, including variance in airflow, 
+refrigerant charge levels, ambient conditions, test labs, and test 
+setup. (AHRI, No. 8 at p. 3; Ingersoll Rand, No. 9 at p. 14; Goodman, 
+No. 14 at p. 3) Goodman commented that a 5-percent tolerance is too low 
+because, due to a number of variables, the true uncertainty of the test 
+is probably at least 8 percent. (Goodman, No. 14 at p. 3)
+    AHRI commented that in the event that a verification test for its 
+certification program shows that the cooling capacity is less than 95 
+percent of its rated value, the manufacturer fails the test and is then 
+subject to stiff penalties, which are, in its view, strong incentives 
+to discourage manufacturers from over-rating cooling capacity and 
+energy efficiency. AHRI recommended that DOE base the equipment 
+classification on the rated capacity only. However, in the event that 
+DOE feels compelled to move forward with its proposal, AHRI requested 
+that the proposed requirement apply only when the tested cooling 
+capacity is less than 95 percent of the certified value, and not when 
+the tested cooling capacity is greater than 105 percent of the 
+certified value. (AHRI, No. 7 at p. 3) Carrier agreed that any 
+tolerance should be a one-sided tolerance, allowing manufacturers to 
+choose to rate products conservatively. (Carrier, No. 11 at p.3)
+    Trane commented that, in common practice, a tolerance on capacity 
+becomes an issue at 240,000 Btu/h, which is a break between equipment 
+classes as well as a nominal equipment tonnage. However, manufacturers 
+do not always hit this design point, which puts them on one side or the 
+other of the equipment class dividing line. For this reason, they tend 
+to rate conservatively to avoid risk. (Trane, NOPR public meeting 
+transcript, No. 15 at pp. 54-55) Carrier added that the need to 
+conservatively rate will increase with the change in refrigerants, and 
+that the current AHRI statistics show that they exceed 105 percent on 
+many tests. (Carrier, NOPR public meeting transcript, No. 15 at pp. 55-
+56)
+    DOE notes that the August 2015 NOPR proposed to add a provision 
+that the represented value of cooling capacity must be the average of 
+the
+
+[[Page 79663]]
+
+capacities measured for the units in the sample selected for testing or 
+the output of the AEDM when simulating results rounded according to the 
+multiples in Table 4 in ANSI/AHRI 340/360-2007. DOE further proposed to 
+add enforcement provisions for verifying the rated cooling capacity, as 
+the rated cooling capacity determines both the equipment class and 
+which testing conditions apply. See 80 FR at 46874 (discussing proposed 
+clarification) and 46879 (presenting detailed regulatory text). Without 
+reporting and enforcement provisions for cooling capacity, 
+manufacturers may choose to over- or under-rate cooling capacity 
+intentionally in order to achieve more favorable testing conditions or 
+less stringent efficiency standards. DOE does not believe industry 
+intended to suggest a regulatory approach where a manufacturer would 
+self-declare its rating conditions and standards, as that approach 
+could cause unintended consequences such as inequitable ratings due to 
+differences in self-declarations. Many in industry, including 
+commenters who participate in the AHRI Certification Program, saw the 
+importance of including provisions surrounding cooling capacity since 
+there is a verification tolerance reflected in that program, as AHRI 
+noted. Consequently, in DOE's view, provisions regarding the 
+determination of represented cooling capacity along the lines of the 
+August 2015 proposal are needed.
+    While DOE acknowledges that multiple factors may affect the 
+measurement of cooling capacity, DOE maintains that capacity-related 
+provisions are necessary to ensure the reliability and consistency of 
+the reported ratings because, as commenters pointed out, DOE expects 
+there to be variation in the capacity measurement from different units 
+being tested at different laboratories. Consequently, DOE is modifying 
+its proposal for determining represented cooling capacity based on the 
+comments received to allow for conservative rating declared according 
+to the multiples in Table 4 in ANSI/AHRI 340/360-2007 but is not less 
+than 95% of the mean values of the two or more units in the sample for 
+certification testing or the output from the AEDM. DOE believes this is 
+consistent with that currently used in the industry, including the 
+certified ratings program approach developed by AHRI. In the industry 
+program, this tolerance serves as the basis for penalizing 
+manufacturers if the tested cooling capacity is lower than 95% of the 
+rated cooling capacity of that equipment. This tolerance will help to 
+ensure that equipment is capable of performing at the cooling capacity 
+for which it is represented to consumers. At this time, DOE is 
+declining to adopt specific capacity-related enforcement provisions and 
+will evaluate compliance with standards based on the testing results 
+from the enforcement sample. DOE believes it is important that products 
+comply with the applicable standards based on actual tested performance 
+rather than based on a manufacturer self-declaration.
+2. Compliance Dates of the Certification, Reporting, and Test Procedure 
+Amendments
+    In the August 2015 NOPR, DOE indicated that its proposal would be 
+unlikely to alter the measured efficiency of CUACs and CUHPs. DOE 
+proposed to require the reporting of IEER and indoor part-load airflow 
+rates used in the IEER calculation when certifying compliance with the 
+2018 or 2023 standards. DOE also proposed to apply a +/-3-percent 
+tolerance to each part-load test point for manufacturers to use when 
+developing the IEER ratings for a given basic model. This clarification 
+would be required when testing to determine EER for part-load rating 
+points. See 80 FR at 46879-82.
+    DOE stated that its proposed amendments that were not specifically 
+related to IEER would clarify how to test a given unit. The proposals, 
+if adopted, would result in no procedural changes related to how 
+testing would be performed. The proposed amendments, if adopted, would 
+become effective 30 days after publication of the final rule in the 
+Federal Register. Consistent with 42 U.S.C. 6314(d), DOE proposed that 
+any representations of energy consumption or efficiency of CUACs and 
+CUHPs must be based on any final amended test procedures 360 days after 
+the publication of the test procedure final rule. 80 FR at 46874-46875.
+    Ingersoll Rand disagreed with DOE's assertion that the proposed 
+clarifications and amendments would not result in any changes to the 
+energy efficiency of current equipment. While Ingersoll Rand agreed 
+that the proposed changes would likely not affect the measure of EER 
+for air-cooled commercial package air conditioning equipment, the 
+proposed changes would add the IEER metric, which, in Ingersoll Rand's 
+view, is a significant change to the measure of energy efficiency of 
+current equipment. Ingersoll Rand commented that the proposed 
+amendments to the test procedures will change the measure of energy 
+itself, and, as DOE's proposal would require re-rating units within 360 
+days of publication of the final rule, that this would be a ``change in 
+the representations of the energy efficiency of current equipment.'' 
+(Ingersoll Rand, No. 9 at p. 12)
+    Ingersoll Rand also noted that while many manufacturers, including 
+itself, already include an IEER rating in the AHRI Directory of 
+Certified Product Performance, that information is not based on testing 
+units in accordance with the sampling plan contained in the proposed 
+Sec.  429.43, but is often based on testing a single unit. Therefore, 
+to comply with the proposed rule, manufacturers would be required to 
+perform a substantial amount of additional testing. Furthermore, since 
+the testing requirements would go into effect before the compliance 
+date of the energy conservation standards proposed by the ASRAC 
+Commercial Package Air Conditioners and Commercial Warm Air Furnaces 
+Working Group, those units currently offered for sale but not meeting 
+the January 2018 standards proposed by the Working Group would still 
+need to be tested in order for manufacturers to make IEER 
+representations on which builders would rely for purposes of meeting 
+the provisions contained in ASHRAE 90.1.2013. (That industry-based 
+standard sets a minimum level of efficiency for CUAC and CUHP equipment 
+and includes a minimum rating level based on IEER.) In its view, the 
+proposal's impact will be far more than modest and must be addressed by 
+DOE or accounted for in its estimates under the Paperwork Reduction 
+Act. (Ingersoll Rand, No. 9 at pp. 10-11)
+    For these reasons, Ingersoll Rand recommended that the effective 
+date of compliance with the test procedure amendments with respect to 
+testing, representations, and reporting of IEER be made to coincide 
+with the effective date of the amended standard setting the initial 
+IEER standard. (Ingersoll Rand, No. 9 at p. 12)
+    DOE has carefully considered Ingersoll Rand's comments. DOE is 
+adopting its proposal that reporting of IEER and indoor part-load 
+airflow rates used in the IEER calculation will be required when 
+certifying compliance with any amended standards and finds that this 
+approach is consistent with Ingersoll Rand's comments. However, DOE 
+also maintains that, consistent with 42 U.S.C. 6314(d), any 
+representations of energy consumption or efficiency of CUACs and CUHPs 
+must be based on any final amended test procedures 360 days after the 
+publication of the test procedure final rule. See 80 FR at 46874-46875.
+
+[[Page 79664]]
+
+Although Ingersoll Rand argued that this amendment would subject units 
+that will not meet the recommended January 2018 standards to the 
+testing requirements to demonstrate that the units meet the IEER levels 
+of ASHRAE 90.1-2013 that many builders require, those units were 
+already subject to those testing requirements. DOE recognizes that 
+manufacturers currently do not need to certify their equipment to meet 
+IEER. Manufacturers must, however, follow the applicable test procedure 
+requirements when making representations of energy efficiency, 
+including those aspects of the test procedure that apply to another 
+metric should they decide to report the efficiency of their equipment 
+using that metric. DOE's current test procedure for CUACs and CUHPs 
+already includes a test method for measuring IEER. See 10 CFR 
+431.96(b)(2) (incorporating, through Table 2, various test procedures 
+used for assessing compliance, including the procedures specified by 
+AHRI 340/360-2007, which contains testing methods for measuring IEER). 
+EPCA restricts representations of efficiency where DOE has prescribed a 
+test method. Specifically, any representation of efficiency for a CUAC 
+or CUHP must fairly disclose the results of testing in accordance with 
+the DOE test procedure within 360 days of DOE having prescribed the 
+test procedure. Therefore, all existing representations of IEER for 
+this equipment would have already been made in accordance with DOE's 
+regulations regarding test procedures and sampling plans, even though 
+submission of a certification report for that metric is not required. 
+As discussed in section III.A.5, DOE has determined that the amended 
+requirements on part-load test points will produce only a de minimis 
+change and not impact a model's ability to comply with an IEER standard 
+or alter the measured and rated energy efficiency of the covered 
+equipment. For these reasons, DOE does not anticipate that 
+manufacturers will require additional time to comply with pre-existing 
+requirements that they already must meet.
+    Furthermore, with respect to Ingersoll Rand's claim that 
+significant additional testing will be required to meet the sampling 
+requirements, based on manufacturer compliance certifications, most 
+CUAC and CUHP manufacturers use alternative efficiency determination 
+methods (``AEDMs'') to rate the majority of their equipment for EER. 
+Ingersoll Rand states that manufacturers have been testing for IEER and 
+have single tests of a wide variety of basic models, so manufacturers 
+already have sufficient test data to develop and support an AEDM, even 
+if they have not yet developed AEDMs to simulate IEER. Therefore, even 
+if a manufacturer is not currently making representations in accordance 
+with the DOE test procedure (as it is already required to do), DOE 
+believes a 360-day compliance period provides sufficient time for such 
+a manufacturer to do so, particularly if the manufacturer already has a 
+collection of existing test data for its equipment.
+    Finally, DOE disagrees that the information collection approved by 
+the Office of Management and Budget requires modification as a result 
+of this rule. This rule does not change the test burden or record 
+retention requirements that are reflected in the existing approval. 
+Furthermore, although the metric reported to DOE will change from EER 
+to IEER, there will be no increase in burden. DOE will revise its 
+certification information collection to reflect the metric change prior 
+to the reporting change in 2018.
+
+C. Future Test Procedure Rulemakings
+
+    The California IOUs encouraged DOE to initiate a more expansive 
+test procedure rulemaking before January 1, 2016, as recommended by the 
+ASRAC Working Group. (California IOUs, No. 10 at p. 1) The California 
+IOUs commented that a new, more representative, metric is needed.
+    The California IOUs also suggested that DOE research the impact of 
+fan energy on equipment ratings, specifically the external static 
+pressure settings for equipment and whether it reflects field 
+conditions. (California IOUs, No. 10 at p. 2) The IOUs further noted 
+that the IEER test procedure proposed for inclusion by DOE in its 
+regulations specified ESP ratings that are unrealistically low in the 
+four test points, which results in measured fan energy consumption 
+during testing conditions being lower than that found in actual 
+operating conditions, which artificially inflates the IEER ratings. The 
+California IOUs also encouraged DOE to create a test procedure that 
+accounts for economizer energy consumption, as this aspect is omitted 
+in the current proposed test procedure. See id.
+    The California IOUs suggested further that DOE should investigate 
+the impact of requiring an additional higher temperature test point 
+rating, such as 105 [deg]F or 115 [deg]F, to better reflect operating 
+conditions experienced in hotter climates. (California IOUs, No. 10 at 
+p. 2) The California IOUs noted that the current efficiency rating 
+measures equipment at a maximum outside dry bulb air temperature of 95 
+[deg]F. In their collective view, while this value is appropriate for 
+much of the United States, it does not reflect peak values often 
+experienced in parts of the desert southwest.
+    DOE notes that the Working Group recommended that a rulemaking to 
+amend the test procedure shall be initiated no later than January 1, 
+2016, with the final rule issued no later than January 1, 2019. That 
+rulemaking, based on the Working Group's recommendation, would be to 
+focus on better representing the total fan energy use by considering 
+(a) alternative external static pressures and (b) operation for other 
+than mechanical cooling and heating. EERE-2013-BT-STD-0007-0093, ASRAC 
+Working Group Term Sheet (recommending a series of actions for DOE to 
+take with respect to CUAC and CUHP standards and testing). DOE plans to 
+initiate an additional test procedure rulemaking focused on revising 
+the IEER metric consistent with this recommendation. DOE may consider 
+additional test procedure revisions at that time.
+
+D. Regulatory Text Language
+
+    Ingersoll Rand asserted that the proposed IEER definition and the 
+test procedure table (Table 1 to 10 CFR 431.96) are inconsistent with 
+the terms of the ASRAC Working Group Term Sheet because they add IEER 
+as a cooling metric but keep EER. Ingersoll Rand stated that the 
+Working Group agreed that, subsequent to the effective date of the 
+January 2018 energy conservation standard, IEER would be the sole DOE 
+measure of cooling efficiency required to be reported to DOE. 
+(Ingersoll Rand, No. 9 at pp. 1-2)
+    Ingersoll Rand added that it believed that DOE proposed amending 10 
+CFR 431.96 in order to make it easier for the user to follow, but 
+without consideration of the Working Group recommendation to initiate a 
+rulemaking to amend the test procedure for small, large, and very large 
+air-cooled commercial package air conditioning and heating equipment. 
+In its view, Table 1 to 10 CFR 431.96 could be confusing to the user if 
+it included a distinction between the different measures of energy 
+consumption and the two different test procedures before and after the 
+expected effective date of the IEER standards. Ingersoll Rand commented 
+that it would be clearer and simpler for DOE to return to the earlier 
+format of section 431.96 and add the test procedure and energy 
+descriptor updates in separate tables with their effective dates. It 
+offered alternative tables for DOE to consider. (Ingersoll Rand, No. 9 
+at pp. 3-8)
+
+[[Page 79665]]
+
+    DOE notes that that the primary purpose of the test procedure 
+tables in 10 CFR 431.96 is to describe the test procedure relevant to 
+each equipment category. The metrics required to be reported to DOE can 
+be found in 10 CFR 429.43. As proposed (and amended by this rule), 10 
+CFR 429.43 will not require EER to be reported to DOE when certifying 
+compliance with any IEER standards. However, consistent with DOE's 
+incorporation of AHRI 340/360-2007, the test procedure itself will 
+still include EER, which manufacturers are required to use when making 
+EER-based representations when they choose to do so, independent of 
+their representations required under DOE's compliance requirements.
+    Ingersoll Rand also criticized DOE's proposed reference to the 
+``January 1, 2018 and January 1, 2023 standards'' that would be added 
+to 10 CFR 429.43(b)(2)(i)(B), as being vague, particularly in light of 
+the changes made to the standards table in 10 CFR 431.97(b) by the July 
+17, 2015 final rule regarding energy conservation standards for small 
+three-phase commercial air-cooled air conditioners. 80 FR 42614. 
+Ingersoll Rand suggested that DOE consider the format of 10 CFR 
+429.43(b)(2)(i) and 10 CFR 431.97 that will result from both the test 
+procedure and energy conservation standards rulemakings in completing 
+this test procedure rulemaking, rather than waiting for the standards 
+rulemaking. Ingersoll Rand suggested wording for 10 CFR 429.43(b)(2)(i) 
+and recommended that DOE insert two new tables (as Tables 4 and 5) that 
+would accommodate the 2018 and 2023 standards and would be reserved 
+until DOE completes the energy conservation standards rulemakings. 
+(Ingersoll Rand, No. 9 at pp. 9-10)
+    Ingersoll Rand also disagreed with the proposed language in Sec.  
+429.43(b)(4) that lists certification report requirements (including 
+the rated airflow for part-load operation which is needed for testing 
+to measure IEER), and which refers to the ``January 1, 2018 or the 
+January 1, 2023 energy conservation standards.'' Ingersoll Rand 
+indicated that such references are vague and could lead to 
+misinterpretations regarding DOE's regulations, recommending instead 
+that DOE refer in these sections specifically to the appropriate 
+standards listed in specific tables of Sec.  431.97. (Ingersoll Rand, 
+No. 9 at p. 12)
+    DOE acknowledges the potential for misinterpretation. Therefore, 
+DOE has revised the language in Sec.  429.43 to refer to compliance 
+with EER standards or IEER standards rather than making a reference to 
+future 2018 or 2023 standards that have not been finalized.
+
+IV. Procedural Issues and Regulatory Review
+
+A. Review Under Executive Order 12866
+
+    The Office of Management and Budget (OMB) has determined that test 
+procedure rulemakings do not constitute ``significant regulatory 
+actions'' under section 3(f) of Executive Order 12866, Regulatory 
+Planning and Review, 58 FR 51735 (Oct. 4, 1993). Accordingly, this 
+action was not subject to review under the Executive Order by the 
+Office of Information and Regulatory Affairs (OIRA) in the Office of 
+Management and Budget (OMB).
+
+B. Review Under the Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (5 U.S.C. 601 et seq.) requires 
+preparation of an initial regulatory flexibility analysis (IFRA) for 
+any rule that by law must be proposed for public comment, unless the 
+agency certifies that the rule, if promulgated, will not have a 
+significant economic impact on a substantial number of small entities. 
+As required by Executive Order 13272, ``Proper Consideration of Small 
+Entities in Agency Rulemaking,'' 67 FR 53461 (August 16, 2002), DOE 
+published procedures and policies on February 19, 2003, to ensure that 
+the potential impacts of its rules on small entities are properly 
+considered during the DOE rulemaking process. 68 FR 7990. DOE has made 
+its procedures and policies available on the Office of the General 
+Counsel's Web site: <a href="http://energy.gov/gc/office-general-counsel">http://energy.gov/gc/office-general-counsel</a>.
+    DOE reviewed this final rule under the provisions of the Regulatory 
+Flexibility Act and the procedures and policies published on February 
+19, 2003. This final rule prescribes clarifications to DOE's already-
+existing test procedures that will be used to test compliance with 
+energy conservation standards for the equipment that are the subject of 
+this rulemaking. DOE has concluded that the final rule would not have a 
+significant impact on a substantial number of small entities.
+    For manufacturers of small, large, and very large air-cooled CUAC 
+and CUHP, the Small Business Administration (SBA) has set a size 
+threshold, which defines those entities classified as ``small 
+businesses'' for the purposes of the statute. DOE used the SBA's small 
+business size standards to determine whether any small entities would 
+be subject to the requirements of the rule. 65 FR 30836, 30848 (May 15, 
+2000), as amended at 65 FR 53533, 53544 (Sept. 5, 2000) and codified at 
+13 CFR part 121. The size standards are listed by North American 
+Industry Classification System (NAICS) code and industry description 
+and are available at <a href="http://www.sba.gov/category/navigation-structure/contracting/contracting-officials/small-business-size-standards">http://www.sba.gov/category/navigation-structure/contracting/contracting-officials/small-business-size-standards</a>. 
+Manufacturing of small, large, and very large air-cooled CUAC and CUHP 
+is classified under NAICS 333415, ``Air-Conditioning and Warm Air 
+Heating Equipment and Commercial and Industrial Refrigeration Equipment 
+Manufacturing.'' The SBA sets a threshold of 750 employees or less for 
+an entity to be considered as a small business for this category. DOE 
+initially identified 13 potential manufacturers of commercial packaged 
+air conditioners sold in the U.S. DOE then determined that 10 were 
+large manufacturers, manufacturers that are foreign-owned and -
+operated, or manufacturers that do not produce equipment covered by 
+this rulemaking. DOE was able to determine that the other three 
+companies met the SBA's definition of a small business and sell CUAC/
+CUHP products.
+    The first small company specialized in manufacturing double-duct 
+CUAC/CUHP products, which would not subject to the amended IEER 
+standards recommended by the Working Group formed to negotiate the 
+CUAC/CUHP standards.\3\ This manufacturer did not produce any equipment 
+that would be covered under the recommended IEER standards. The second 
+small company did not own any production assets for CUAC/CUHP 
+equipment. This company outsourced the design and manufacture of 
+equipment to a supplier. The third small company manufactured covered 
+equipment that are subject to the amended test procedures. Based on 
+DOE's research, this small manufacturer has three product platforms 
+with 11 models that would potentially be subject to testing to 
+determine IEER, and no IEER ratings have been published for these 
+units. Based on literature reviews, this small manufacturer specializes 
+in custom and semi-custom products.
+---------------------------------------------------------------------------
+
+    \3\ See Docket No. EERE-2013-BT-STD-0007-0093. DOE must 
+effectuate such change in metric through the rulemaking process and 
+in a manner consistent with all applicable statutory requirements.
+---------------------------------------------------------------------------
+
+    DOE expects the impact of the final rule on manufacturers, 
+including small businesses, to be minimal. The final rule amends DOE's 
+certification requirements to specify additional reporting requirements 
+and add enforcement provisions for verifying cooling capacity. The 
+final rule also clarifies or amends DOE's test procedures to amend 
+ANSI/AHRI 340/
+
+[[Page 79666]]
+
+360-2007, ``2007 Standard for Performance Rating of Commercial and 
+Industrial Unitary Air-Conditioning and Heat Pump Equipment,'' to 
+incorporate certain sections by reference, specify requirements for 
+airflow adjustment and tolerance to meet other rating conditions, 
+require units with condenser head pressure controls to be tested with 
+those controls active, clarify the unit of measurement for airflow, and 
+establish a tolerance on part-load rating points.
+    The amended energy conservation standards for CUAC/CUHP recommended 
+by the Working Group would be based on IEER rather than EER. DOE 
+expects the impact on test burden to be modest. AHRI ratings already 
+include IEER, indicating that many manufacturers, representing a large 
+portion of the market, already determine IEER for their units. ANSI/
+ASHRAE/IES Standard 90.1-2013, ``Energy Standard for Buildings Except 
+Low-Rise Residential Buildings'' (ASHRAE 90.1-2013), has adopted an 
+IEER requirement, which makes reporting of IEER necessary for shipment 
+to those states and localities that will adopt that standard in 
+building codes. Current procedures relating to alternative efficiency 
+determination methods (AEDMs), including procedures for certifying 
+IEER, require a limited amount of testing to be conducted when 
+validating an AEDM for CUACs and CUHPs. 10 CFR 429.70(c)(2)(iv) 
+(detailing the minimum number of distinct basic models required to be 
+test for purposes of AEDM validation for different equipment types and 
+classes). DOE expects that most CUAC and CUHP ratings will be based on 
+results obtained from AEDMs. Although DOE recognizes that some ratings 
+will be based on testing, DOE expects these ratings to comprise a small 
+minority of products.
+    For these reasons, DOE certifies that this final rule will not have 
+a significant economic impact on a substantial number of small 
+entities. Accordingly, DOE has not prepared a regulatory flexibility 
+analysis for this rulemaking. DOE will transmit the certification and 
+supporting statement of factual basis to the Chief Counsel for Advocacy 
+of the SBA for review under 5 U.S.C. 605(b).
+
+C. Review Under the Paperwork Reduction Act of 1995
+
+    Manufacturers of CUACs and CUHPs must certify to DOE that their 
+equipment comply with any applicable energy conservation standards. In 
+certifying compliance, manufacturers must test their equipment 
+according to the DOE test procedures for CUACs and CUHPs, including any 
+amendments adopted for those test procedures. DOE has established 
+regulations for the certification and recordkeeping requirements for 
+all covered consumer products and commercial equipment, including CUACs 
+and CUHPs. 10 CFR part 429, subpart B. The collection-of-information 
+requirement for the certification and recordkeeping is subject to 
+review and approval by OMB under the Paperwork Reduction Act (PRA).
+    In the Certification of Commercial Equipment Final Rule published 
+in May 2014, DOE amended existing regulations governing compliance 
+certification for a variety of commercial equipment covered by EPCA, 
+which affected CUAC and CUHP manufacturers. 79 FR 25486, 25502 (May 5, 
+2014). DOE amends its certification requirements to specify additional 
+reporting requirements. DOE does not believe that these additions to 
+the certification requirements constitute a significant additional 
+burden upon respondents, as they require minimal additional information 
+over what manufacturers must already report in their certification 
+reports. DOE believes that the Certification of Commercial Equipment 
+Final Rule provides an accurate estimate of the existing burden on 
+respondents and would continue to apply to the relevant aspects of the 
+proposed amendments. 79 FR 25496-25498 (detailing burden estimates and 
+indicating an average burden of approximately 30 hours per company on 
+an annual basis). OMB has approved the revised information collection 
+for DOE's certification and recordkeeping requirements. 80 FR 5099 
+(January 30, 2015).
+    Notwithstanding any other provision of the law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the PRA, unless that collection of information displays 
+a currently valid OMB control number.
+
+D. Review Under the National Environmental Policy Act of 1969
+
+    In this final rule, DOE amends its test procedure for CUACs and 
+CUHPs. DOE has determined that this rule falls into a class of actions 
+that are categorically excluded from review under the National 
+Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and DOE's 
+implementing regulations at 10 CFR part 1021. Specifically, this rule 
+amends an existing rule without affecting the amount, quality or 
+distribution of energy usage, and, therefore, will not result in any 
+environmental impacts. Thus, this rulemaking is covered by Categorical 
+Exclusion A5 under 10 CFR part 1021, subpart D, which applies to any 
+rulemaking that interprets or amends an existing rule without changing 
+the environmental effect of that rule. Accordingly, neither an 
+environmental assessment nor an environmental impact statement is 
+required.
+
+E. Review Under Executive Order 13132
+
+    Executive Order 13132, ``Federalism,'' 64 FR 43255 (August 4, 
+1999), imposes certain requirements on agencies formulating and 
+implementing policies or regulations that preempt State law or that 
+have Federalism implications. The Executive Order requires agencies to 
+examine the constitutional and statutory authority supporting any 
+action that would limit the policymaking discretion of the States and 
+to carefully assess the necessity for such actions. The Executive Order 
+also requires agencies to have an accountable process to ensure 
+meaningful and timely input by State and local officials in the 
+development of regulatory policies that have Federalism implications. 
+On March 14, 2000, DOE published a statement of policy describing the 
+intergovernmental consultation process it will follow in the 
+development of such regulations. 65 FR 13735. DOE examined this final 
+rule and determined that it will not have a substantial direct effect 
+on the States, on the relationship between the national government and 
+the States, or on the distribution of power and responsibilities among 
+the various levels of government. EPCA governs and prescribes Federal 
+preemption of State regulations as to energy conservation for the 
+equipment that are the subject of this final rule. States can petition 
+DOE for exemption from such preemption to the extent, and based on 
+criteria, set forth in EPCA. (42 U.S.C. 6297(d)) No further action is 
+required by Executive Order 13132.
+
+F. Review Under Executive Order 12988
+
+    Regarding the review of existing regulations and the promulgation 
+of new regulations, section 3(a) of Executive Order 12988, ``Civil 
+Justice Reform,'' 61 FR 4729 (February 7, 1996), imposes on Federal 
+agencies the general duty to adhere to the following requirements: (1) 
+Eliminate drafting errors and ambiguity; (2) write regulations to 
+minimize litigation; (3) provide a clear legal standard for affected 
+conduct rather than a general standard; and (4) promote simplification 
+and burden reduction. Section 3(b) of Executive Order 12988 
+specifically requires that Executive agencies make every reasonable 
+effort to ensure that the
+
+[[Page 79667]]
+
+regulation: (1) Clearly specifies the preemptive effect, if any; (2) 
+clearly specifies any effect on existing Federal law or regulation; (3) 
+provides a clear legal standard for affected conduct while promoting 
+simplification and burden reduction; (4) specifies the retroactive 
+effect, if any; (5) adequately defines key terms; and (6) addresses 
+other important issues affecting clarity and general draftsmanship 
+under any guidelines issued by the Attorney General. Section 3(c) of 
+Executive Order 12988 requires Executive agencies to review regulations 
+in light of applicable standards in sections 3(a) and 3(b) to determine 
+whether they are met or it is unreasonable to meet one or more of them. 
+DOE has completed the required review and determined that, to the 
+extent permitted by law, this final rule meets the relevant standards 
+of Executive Order 12988.
+
+G. Review Under the Unfunded Mandates Reform Act of 1995
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires each Federal agency to assess the effects of Federal 
+regulatory actions on State, local, and Tribal governments and the 
+private sector. 2 U.S.C. 1531 For a regulatory action resulting in a 
+rule that may cause the expenditure by State, local, and Tribal 
+governments, in the aggregate, or by the private sector of $100 million 
+or more in any one year (adjusted annually for inflation), section 202 
+of UMRA requires a Federal agency to publish a written statement that 
+estimates the resulting costs, benefits, and other effects on the 
+national economy. (2 U.S.C. 1532(a), (b)) The UMRA also requires a 
+Federal agency to develop an effective process to permit timely input 
+by elected officers of State, local, and Tribal governments on a 
+proposed ``significant intergovernmental mandate,'' and requires an 
+agency plan for giving notice and opportunity for timely input to 
+potentially affected small governments before establishing any 
+requirements that might significantly or uniquely affect small 
+governments. On March 18, 1997, DOE published a statement of policy on 
+its process for intergovernmental consultation under UMRA. 62 FR 12820; 
+also available at <a href="http://energy.gov/gc/office-general-counsel">http://energy.gov/gc/office-general-counsel</a>. DOE 
+examined this final rule according to UMRA and its statement of policy 
+and determined that the rule contains neither an intergovernmental 
+mandate, nor a mandate that may result in the expenditure of $100 
+million or more in any year, so these requirements do not apply.
+
+H. Review Under the Treasury and General Government Appropriations Act, 
+1999
+
+    Section 654 of the Treasury and General Government Appropriations 
+Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family 
+Policymaking Assessment for any rule that may affect family well-being. 
+This final rule will not have any impact on the autonomy or integrity 
+of the family as an institution. Accordingly, DOE has concluded that it 
+is not necessary to prepare a Family Policymaking Assessment.
+
+I. Review Under Executive Order 12630
+
+    DOE has determined, under Executive Order 12630, ``Governmental 
+Actions and Interference with Constitutionally Protected Property 
+Rights,'' 53 FR 8859 (March 18, 1988), that this regulation will not 
+result in any takings that might require compensation under the Fifth 
+Amendment to the U.S. Constitution.
+
+J. Review Under Treasury and General Government Appropriations Act, 
+2001
+
+    Section 515 of the Treasury and General Government Appropriations 
+Act, 2001 (44 U.S.C. 3516 note) provides for agencies to review most 
+disseminations of information to the public under guidelines 
+established by each agency pursuant to general guidelines issued by 
+OMB. OMB's guidelines were published at 67 FR 8452 (February 22, 2002), 
+and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). DOE 
+has reviewed this final rule under the OMB and DOE guidelines and has 
+concluded that it is consistent with applicable policies in those 
+guidelines.
+
+K. Review Under Executive Order 13211
+
+    Executive Order 13211, ``Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution, or Use,'' 66 FR 28355 
+(May 22, 2001), requires Federal agencies to prepare and submit to OMB, 
+a Statement of Energy Effects for any significant energy action. A 
+``significant energy action'' is defined as any action by an agency 
+that promulgated or is expected to lead to promulgation of a final 
+rule, and that: (1) Is a significant regulatory action under Executive 
+Order 12866, or any successor order; and (2) is likely to have a 
+significant adverse effect on the supply, distribution, or use of 
+energy; or (3) is designated by the Administrator of OIRA as a 
+significant energy action. For any significant energy action, the 
+agency must give a detailed statement of any adverse effects on energy 
+supply, distribution, or use if the regulation is implemented, and of 
+reasonable alternatives to the action and their expected benefits on 
+energy supply, distribution, and use.
+    This regulatory action is not a significant regulatory action under 
+Executive Order 12866. Moreover, it would not have a significant 
+adverse effect on the supply, distribution, or use of energy, nor has 
+it been designated as a significant energy action by the Administrator 
+of OIRA. Therefore, it is not a significant energy action, and, 
+accordingly, DOE has not prepared a Statement of Energy Effects.
+
+L. Review Under Section 32 of the Federal Energy Administration Act of 
+1974
+
+    Under section 301 of the Department of Energy Organization Act, 42 
+U.S.C. 7101, DOE must comply with section 32 of the Federal Energy 
+Administration Act of 1974, as amended by the Federal Energy 
+Administration Authorization Act of 1977. (15 U.S.C. 788; FEAA) Section 
+32 essentially provides in relevant part that, where a proposed rule 
+authorizes or requires use of commercial standards, the notice of 
+proposed rulemaking must inform the public of the use and background of 
+such standards. In addition, section 32(c) requires DOE to consult with 
+the Attorney General and the Chairman of the Federal Trade Commission 
+(FTC) concerning the impact of the commercial or industry standards on 
+competition.
+    While this final rule does not require use of any commercial 
+standards not already incorporated by reference for the relevant 
+section of the code of federal regulations, DOE consulted with both DOJ 
+and FTC and received no comments.
+
+M. Description of Materials Incorporated by Reference
+
+    In this final rule, DOE is incorporating by reference ANSI/AHRI 
+Standard 340/360-2007, ``2007 Standard for Performance Rating of 
+Commercial and Industrial Unitary Air-Conditioning and Heat Pump 
+Equipment'' (including Addenda 1 and 2) into part 429 and appendix A to 
+subpart F of part 431. This testing standard details various provisions 
+regarding the testing and calculation of results for the equipment 
+addressed by this rulemaking. The adoption of these provisions are 
+necessary to ensure consistent and repeatable test results. Copies of 
+this testing standard are readily available from the Air-Conditioning, 
+Heating, and Refrigeration Institute, 2111 Wilson Blvd., Suite 500, 
+Arlington, VA 22201, (703) 524-8800, or through its Web site at <a href="http://www.ahrinet.org">http://www.ahrinet.org</a>.
+
+[[Page 79668]]
+
+    DOE is also incorporating by reference ANSI/ASHRAE Standard 37-
+2009, ``Methods of Testing for Rating Electrically Driven Unitary Air-
+Conditioning and Heat Pump Equipment'' into appendix A to subpart F of 
+part 431. This testing standard details test methods for the equipment 
+addressed by this rulemaking. The adoption of these provisions are 
+necessary to ensure consistent and repeatable test results. Copies of 
+this testing standard are readily available from the American Society 
+of Heating, Refrigerating, and Air-Conditioning Engineers, 1791 Tullie 
+Circle NE., Atlanta, GA 30329, (800) 527-4723, or through its Web site 
+at <a href="https://www.ashrae.org">https://www.ashrae.org</a>.
+
+N. Congressional Notification
+
+    As required by 5 U.S.C. 801, DOE will report to Congress on the 
+promulgation of this rule before its effective date. The report will 
+state that it has been determined that the rule is not a ``major rule'' 
+as defined by 5 U.S.C. 804(2).
+
+O. Approval of the Office of the Secretary
+
+    The Secretary of Energy has approved publication of this final 
+rule.
+
+List of Subjects
+
+10 CFR Part 429
+
+    Commercial equipment, Confidential business information, Energy 
+conservation, Imports, Incorporation by reference, Reporting and 
+recordkeeping requirements.
+
+10 CFR Part 431
+
+    Administrative practice and procedure, Commercial equipment, 
+Confidential business information, Energy conservation, Imports, 
+Incorporation by reference, Intergovernmental relations, Small 
+businesses.
+
+    Issued in Washington, DC, on December 11, 2015.
+Kathleen B. Hogan,
+Deputy Assistant Secretary for Energy Efficiency, Energy Efficiency and 
+Renewable Energy.
+
+    For the reasons stated in the preamble, DOE amends parts 429 and 
+431 of chapter II, subchapter D, of title 10 the Code of Federal 
+Regulations as set forth below:
+
+PART 429--CERTIFICATION, COMPLIANCE, AND ENFORCEMENT FOR CONSUMER 
+PRODUCTS AND COMMERCIAL AND INDUSTRIAL EQUIPMENT
+
+0
+1. The authority citation for part 429 continues to read as follows:
+
+
+    Authority:  42 U.S.C. 6291-6317.
+
+0
+2. Amend Sec.  429.4 by redesignating paragraph (c) as (d) and adding 
+paragraph (c) to read as follows:
+
+
+Sec.  429.4  Materials incorporated by reference.
+
+* * * * *
+    (c) AHRI. Air-Conditioning, Heating, and Refrigeration Institute, 
+2111 Wilson Blvd., Suite 500, Arlington, VA 22201, (703) 524-8800, or 
+go to: <a href="http://www.ahrinet.org">http://www.ahrinet.org</a>.
+    (1) ANSI/AHRI Standard 340/360-2007, (``AHRI-340/360-2007''), 2007 
+Standard for Performance Rating of Commercial and Industrial Unitary 
+Air-Conditioning and Heat Pump Equipment, with Addenda 1 and 2, ANSI 
+approved October 27, 2011, IBR approved for Sec.  429.43.
+    (2) [Reserved]
+* * * * *
+
+0
+3. Amend Sec.  429.43 by adding paragraph (a)(1)(iv) and revising 
+paragraphs (a)(2), (b)(2)(i) and (ii), and (b)(4)(i) and (ii) to read 
+as follows:
+
+
+Sec.  429.43  Commercial heating, ventilating, air conditioning (HVAC) 
+equipment.
+
+    (a) * * *
+    (1) * * *
+    (iv) For air-cooled commercial package air-conditioning and heating 
+equipment, the represented value of cooling capacity must be a self-
+declared value corresponding to the nearest appropriate Btu/h multiple 
+according to Table 4 of ANSI/AHRI 340/360-2007 (incorporated by 
+reference; see Sec.  429.4) that is no less than 95 percent of the mean 
+of the capacities measured for the units in the sample selected as 
+described in paragraph (a)(1)(ii) of this section.
+    (2) Alternative efficiency determination methods. (i) In lieu of 
+testing, a represented value of efficiency or consumption for a basic 
+model of commercial HVAC equipment must be determined through the 
+application of an AEDM pursuant to the requirements of Sec.  429.70 and 
+the provisions of this section, where:
+    (A) Any represented value of energy consumption or other measure of 
+energy use of a basic model for which consumers would favor lower 
+values shall be greater than or equal to the output of the AEDM and 
+less than or equal to the Federal standard for that basic model; and
+    (B) Any represented value of energy efficiency or other measure of 
+energy consumption of a basic model for which consumers would favor 
+higher values shall be less than or equal to the output of the AEDM and 
+greater than or equal to the Federal standard for that basic model.
+    (ii) For air-cooled commercial package air-conditioning and heating 
+equipment, the represented value of cooling capacity must be the 
+cooling capacity output simulated by the AEDM as described in paragraph 
+(a)(2) of this section.
+    (b) * * *
+    (2) * * *
+    (i) Commercial package air-conditioning equipment (except 
+commercial package air conditioning equipment that is air-cooled with a 
+cooling capacity less than 65,000 Btu/h):
+    (A) When certifying compliance with an EER standard: the energy 
+efficiency ratio (EER in British thermal units per Watt-hour (Btu/Wh)), 
+the rated cooling capacity in British thermal units per hour (Btu/h), 
+and the type(s) of heating used by the basic model (e.g., electric, 
+gas, hydronic, none).
+    (B) When certifying compliance with an IEER standard: the 
+integrated energy efficiency ratio (IEER in British thermal units per 
+Watt-hour (Btu/Wh)), the rated cooling capacity in British thermal 
+units per hour (Btu/h), and the type(s) of heating used by the basic 
+model (e.g., electric, gas, hydronic, none).
+    (ii) Commercial package heating equipment (except commercial 
+package heating equipment that is air-cooled with a cooling capacity 
+less than 65,000 Btu/h):
+    (A) When certifying compliance with an EER standard: the energy 
+efficiency ratio (EER in British thermal units per Watt-hour (Btu/Wh)), 
+the coefficient of performance (COP), the rated cooling capacity in 
+British thermal units per hour (Btu/h), and the type(s) of heating used 
+by the basic model (e.g., electric, gas, hydronic, none).
+    (B) When certifying compliance an IEER standard: the integrated 
+energy efficiency ratio (IEER in British thermal units per Watt-hour 
+(Btu/Wh)), the coefficient of performance (COP), the rated cooling 
+capacity in British thermal units per hour (Btu/h), and the type(s) of 
+heating used by the basic model (e.g., electric, gas, hydronic, none).
+* * * * *
+    (4) * * *
+    (i) Commercial package air-conditioning equipment (except 
+commercial package air conditioning equipment that is air-cooled with a 
+cooling capacity less than 65,000 Btu/h): rated indoor airflow in 
+standard cubic feet per minute (SCFM) for each fan coil; water flow 
+rate in gallons per minute (gpm) for water-cooled units only; rated 
+external static pressure in inches of water; frequency or control set
+
+[[Page 79669]]
+
+points for variable speed components (e.g., compressors, VFDs); 
+required dip switch/control settings for step or variable components; a 
+statement whether the model will operate at test conditions without 
+manufacturer programming; any additional testing instructions, if 
+applicable; and if a variety of motors/drive kits are offered for sale 
+as options in the basic model to account for varying installation 
+requirements, the model number and specifications of the motor (to 
+include efficiency, horsepower, open/closed, and number of poles) and 
+the drive kit, including settings, associated with that specific motor 
+that were used to determine the certified rating. When certifying 
+compliance with an IEER standard, rated indoor airflow in SCFM for each 
+part-load point used in the IEER calculation and any special 
+instructions required to obtain operation at each part-load point, such 
+as frequency or control set points for variable speed components (e.g., 
+compressors, VFDs), dip switch/control settings for step or variable 
+components, or any additional applicable testing instructions, are also 
+required.
+    (ii) Commercial package heating equipment (except commercial 
+package heating equipment that is air-cooled with a cooling capacity 
+less than 65,000 Btu/h): The rated heating capacity in British thermal 
+units per hour (Btu/h); rated indoor airflow in standard cubic feet per 
+minute (SCFM) for each fan coil (in cooling mode); rated airflow in 
+SCFM for each fan coil in heating mode if the unit is designed to 
+operate with different airflow rates for cooling and heating mode; 
+water flow rate in gallons per minute (gpm) for water cooled units 
+only; rated external static pressure in inches of water; frequency or 
+control set points for variable speed components (e.g., compressors, 
+VFDs); required dip switch/control settings for step or variable 
+components; a statement whether the model will operate at test 
+conditions without manufacturer programming; any additional testing 
+instructions, if applicable; and if a variety of motors/drive kits are 
+offered for sale as options in the basic model to account for varying 
+installation requirements, the model number and specifications of the 
+motor (to include efficiency, horsepower, open/closed, and number of 
+poles) and the drive kit, including settings, associated with that 
+specific motor that were used to determine the certified rating. When 
+certifying compliance with an IEER standard, rated indoor airflow in 
+SCFM for each part-load point used in the IEER calculation and any 
+special instructions required to obtain operation at each part-load 
+point, such as frequency or control set points for variable speed 
+components (e.g., compressors, VFDs), dip switch/control settings for 
+step or variable components, or any additional applicable testing 
+instructions, are also required.
+* * * * *
+
+0
+4. Amend Sec.  429.134 by adding paragraph (g) to read as follows:
+
+
+Sec.  429.134  Product-specific enforcement provisions.
+
+* * * * *
+    (g) Air-cooled small (<ls-thn-eq>=65,000 Btu/h and <135,000 Btu/h), 
+large (<ls-thn-eq>=135,000 Btu/h and <240,000 Btu/h), and very large 
+(<ls-thn-eq>=240,000 Btu/h and <760,000 Btu/h) commercial package air 
+conditioning and heating equipment--verification of cooling capacity. 
+The cooling capacity of each tested unit of the basic model will be 
+measured pursuant to the test requirements of part 431 of this chapter. 
+The mean of the measurement(s) will be used to determine the applicable 
+standards for purposes of compliance.
+
+PART 431--ENERGY EFFICIENCY PROGRAM FOR CERTAIN COMMERCIAL AND 
+INDUSTRIAL EQUIPMENT
+
+0
+5. The authority citation for part 431 continues to read as follows:
+
+    Authority:  42 U.S.C. 6291-6317.
+
+0
+6. Amend Sec.  431.92 by adding a definition of ``Integrated energy 
+efficiency ratio, or IEER,'' in alphabetical order to read as follows:
+
+
+Sec.  431.92  Definitions concerning commercial air conditioners and 
+heat pumps.
+
+* * * * *
+    Integrated energy efficiency ratio, or IEER, means a weighted 
+average calculation of mechanical cooling EERs determined for four load 
+levels and corresponding rating conditions, as measured in appendix A 
+of this subpart, expressed in Btu/watt-hour.
+* * * * *
+
+
+Sec.  431.95  [Amended]
+
+0
+7. Amend Sec.  431.95 by:
+0
+a. Removing paragraph (b)(4);
+0
+b. Redesignating paragraphs (b)(5) through (8) as (b)(4) through (7), 
+respectively; and
+0
+c. Adding ``and appendix A of this subpart'' to the end of newly 
+redesignated paragraphs (b)(4) and (c)(2).
+
+
+0
+8. Amend Sec.  431.96 by revising paragraphs (b)(1) and (c) and Table 1 
+to read as follows:
+
+
+Sec.  431.96  Uniform test method for the measurement of energy 
+efficiency of commercial air conditioners and heat pumps.
+
+* * * * *
+    (b) * * *
+    (1) Determine the energy efficiency of each type of covered 
+equipment by conducting the test procedure(s) listed in Table 1 of this 
+section along with any additional testing provisions set forth in 
+paragraphs (c) through (g) of this section and appendix A to this 
+subpart, that apply to the energy efficiency descriptor for that 
+equipment, category, and cooling capacity. The omitted sections of the 
+test procedures listed in Table 1 of this section must not be used.
+* * * * *
+
+                                Table 1 to Sec.   431.96--Test Procedures for Commercial Air Conditioners and Heat Pumps
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                      Additional test
+                                                                                                                  Use tests,        procedure provisions
+           Equipment type                   Category            Cooling capacity       Energy efficiency       conditions, and      as indicated in the
+                                                                                           descriptor         procedures \1\ in     listed paragraphs of
+                                                                                                                                        this section
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Small Commercial Package Air-        Air-Cooled, 3-Phase,    <65,000 Btu/h.........  SEER and HSPF........  AHRI 210/240-2008      Paragraphs (c) and
+ Conditioning and Heating Equipment.  AC and HP.                                                             (omit section 6.5).    (e).
+                                     Air-Cooled AC and HP..  >=65,000 Btu/h and      EER, IEER, and COP...  Appendix A to this     None.
+                                                              <135,000 Btu/h.                                subpart.
+                                     Water-Cooled and        <65,000 Btu/h.........  EER..................  AHRI 210/240-2008      Paragraphs (c) and
+                                      Evaporatively-Cooled                                                   (omit section 6.5).    (e).
+                                      AC.
+
+[[Page 79670]]
+
+ 
+                                                             >=65,000 Btu/h and      EER..................  AHRI 340/360-2007      Paragraphs (c) and
+                                                              <135,000 Btu/h.                                (omit section 6.3).    (e).
+                                     Water-Source HP.......  <135,000 Btu/h........  EER and COP..........  ISO Standard 13256-1   Paragraph (e).
+                                                                                                             (1998).
+Large Commercial Package Air-        Air-Cooled AC and HP..  >=135,000 Btu/h and     EER, IEER and COP....  Appendix A to this     None.
+ Conditioning and Heating Equipment.                          <240,000 Btu/h.                                subpart.
+                                     Water-Cooled and        >=135,000 Btu/h and     EER..................  AHRI 340/360-2007      Paragraphs (c) and
+                                      Evaporatively-Cooled    <240,000 Btu/h.                                (omit section 6.3).    (e).
+                                      AC.
+Very Large Commercial Package Air-   Air-Cooled AC and HP..  >=240,000 Btu/h and     EER, IEER and COP....  Appendix A to this     None.
+ Conditioning and Heating Equipment.                          <760,000 Btu/h.                                subpart.
+                                     Water-Cooled and        >=240,000 Btu/h and     EER..................  AHRI 340/360-2007      Paragraphs (c) and
+                                      Evaporatively-Cooled    <760,000 Btu/h.                                (omit section 6.3).    (e).
+                                      AC.
+Packaged Terminal Air Conditioners   AC and HP.............  <760,000 Btu/h........  EER and COP..........  Paragraph (g) of this  Paragraphs (c), (e),
+ and Heat Pumps.                                                                                             section.               and (g).
+Computer Room Air Conditioners.....  AC....................  <65,000 Btu/h.........  SCOP.................  ASHRAE 127-2007 (omit  Paragraphs (c) and
+                                                                                                             section 5.11).         (e).
+                                                             >=65,000 Btu/h and      SCOP.................  ASHRAE 127-2007 (omit  Paragraphs (c) and
+                                                              <760,000 Btu/h.                                section 5.11).         (e).
+Variable Refrigerant Flow Multi-     AC....................  <65,000 Btu/h (3-       SEER.................  AHRI 1230-2010 (omit   Paragraphs (c), (d),
+ split Systems.                                               phase).                                        sections 5.1.2 and     (e), and (f).
+                                                                                                             6.6).
+                                                             >=65,000 Btu/h and      EER..................  AHRI 1230-2010 (omit   Paragraphs (c), (d),
+                                                              <760,000 Btu/h.                                sections 5.1.2 and     (e), and (f).
+                                                                                                             6.6).
+Variable Refrigerant Flow Multi-     HP....................  <65,000 Btu/h (3-       SEER and HSPF........  AHRI 1230-2010 (omit   Paragraphs (c), (d),
+ split Systems, Air-cooled.                                   phase).                                        sections 5.1.2 and     (e), and (f).
+                                                                                                             6.6).
+                                                             >=65,000 Btu/h and      EER and COP..........  AHRI 1230-2010 (omit   Paragraphs (c), (d),
+                                                              <760,000 Btu/h.                                sections 5.1.2 and     (e), and (f).
+                                                                                                             6.6).
+Variable Refrigerant Flow Multi-     HP....................  <760,000 Btu/h........  EER and COP..........  AHRI 1230-2010 (omit   Paragraphs (c), (d),
+ split Systems, Water-source.                                                                                sections 5.1.2 and     (e), and (f).
+                                                                                                             6.6).
+Single Package Vertical Air          AC and HP.............  <760,000 Btu/h........  EER and COP..........  AHRI 390-2003 (omit    Paragraphs (c) and
+ Conditioners and Single Package                                                                             section 6.4).          (e).
+ Vertical Heat Pumps.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+\1\ Incorporated by reference; see Sec.   431.95.
+
+    (c) Optional break-in period for tests conducted using AHRI 210/
+240-2008, AHRI 390-2003, AHRI 1230-2010, and ASHRAE 127-2007. 
+Manufacturers may optionally specify a ``break-in'' period, not to 
+exceed 20 hours, to operate the equipment under test prior to 
+conducting the test method specified by AHRI 210/240-2008, AHRI 390-
+2003, AHRI 1230-2010, or ASHRAE 127-2007 (incorporated by reference; 
+see Sec.  431.95). A manufacturer who elects to use an optional 
+compressor break-in period in its certification testing should record 
+this information (including the duration) in the test data underlying 
+the certified ratings that is required to be maintained under 10 CFR 
+429.71.
+* * * * *
+
+0
+9. Add appendix A to subpart F of part 431 to read as follows:
+
+Appendix A to Subpart F of Part 431--Uniform Test Method for the 
+Measurement of Energy Consumption of Air-Cooled Small (>=65,000 Btu/h), 
+Large, and Very Large Commercial Package Air Conditioning and Heating 
+Equipment
+
+    Note: Prior to December 19, 2016, representations with respect 
+to the energy use or efficiency of air-cooled small, large, and very 
+large commercial package air conditioning and heating equipment, 
+including compliance certifications, must be based on testing 
+conducted in accordance with either Table 1 to Sec.  431.96 as it 
+now appears or Table 1 to Sec.  431.96 as it appeared in subpart F 
+of this part, in the 10 CFR parts 200 through 499 edition revised as 
+of January 1, 2015. After December 19, 2016, representations with 
+respect to energy use or efficiency of air-cooled small, large, and 
+very large commercial package air conditioning and heating 
+equipment, including compliance certifications, must be based on 
+testing conducted in accordance with Table 1 to Sec.  431.96 as it 
+now appears.
+    (1) Cooling mode test method. The test method for cooling mode 
+consists of the methods and conditions in AHRI 340/360-2007 sections 
+3, 4, and 6 (omitting section
+
+[[Page 79671]]
+
+6.3) (incorporated by reference; see Sec.  431.95), and in ANSI/
+ASHRAE 37-2009 (incorporated by reference; see Sec.  431.95). In 
+case of a conflict between AHRI 340/360-2007 or ANSI/ASHRAE 37-2009 
+and the CFR, the CFR provisions control.
+    (2) Heating mode test method. The test method for heating mode 
+consists of the methods and conditions in AHRI 340/360-2007 sections 
+3, 4, and 6 (omitting section 6.3) (incorporated by reference; see 
+Sec.  431.95), and in ANSI/ASHRAE 37-2009 (incorporated by 
+reference; see Sec.  431.95). In case of a conflict between AHRI 
+340/360-2007 or ANSI/ASHRAE 37-2009 and the CFR, the CFR provisions 
+control.
+    (3) Minimum external static pressure. Use the certified cooling 
+capacity for the basic model to choose the minimum external static 
+pressure found in table 5 of section 6 of AHRI 340/360-2007 
+(incorporated by reference; see Sec.  431.95) for testing.
+    (4) Optional break-in period. Manufacturers may optionally 
+specify a ``break-in'' period, not to exceed 20 hours, to operate 
+the equipment under test prior to conducting the test method in 
+appendix A of this part. A manufacturer who elects to use an 
+optional compressor break-in period in its certification testing 
+must record this information (including the duration) as part of the 
+information in the supplemental testing instructions under 10 CFR 
+429.43.
+    (5) Additional provisions for equipment set-up. The only 
+additional specifications that may be used in setting up a unit for 
+test are those set forth in the installation and operation manual 
+shipped with the unit. Each unit should be set up for test in 
+accordance with the manufacturer installation and operation manuals. 
+Paragraphs (5)(i) through (ii) of this section provide 
+specifications for addressing key information typically found in the 
+installation and operation manuals.
+    (i) If a manufacturer specifies a range of superheat, sub-
+cooling, and/or refrigerant pressure in its installation and 
+operation manual for a given basic model, any value(s) within that 
+range may be used to determine refrigerant charge or mass of 
+refrigerant, unless the manufacturer clearly specifies a rating 
+value in its installation and operation manual, in which case the 
+specified rating value shall be used.
+    (ii) The airflow rate used for testing must be that set forth in 
+the installation and operation manuals being shipped to the customer 
+with the basic model and clearly identified as that used to generate 
+the DOE performance ratings. If a certified airflow value for 
+testing is not clearly identified, a value of 400 standard cubic 
+feet per minute (scfm) per ton shall be used.
+    (6) Indoor airflow testing and adjustment. (i) When testing 
+full-capacity cooling operation at the required external static 
+pressure condition, the full-load indoor airflow rate must be within 
++/- 3 percent of the certified-rated airflow at full-capacity 
+cooling operation. If the indoor airflow rate at the required 
+minimum external pressure is outside the +/- 3-percent tolerance, 
+the unit and/or test setup must be adjusted such that both the 
+airflow and ESP are within the required tolerances. This process may 
+include, but is not limited to, adjusting any adjustable motor 
+sheaves, adjusting variable drive settings, or adjusting the code 
+tester fan.
+    (ii) When testing other than full-capacity cooling operation 
+using the full-load indoor airflow rate (e.g., full-load heating), 
+the full-load indoor airflow rate must be within +/- 3 percent of 
+the certified-rated full-load cooling airflow (without regard to the 
+resulting external static pressure), unless the unit is designed to 
+operate at a different airflow for cooling and heating mode. If 
+necessary, a test facility setup may be made in order to maintain 
+airflow within the required tolerance; however, no adjustments to 
+the unit under test may be made.
+    (7) Condenser head pressure controls. Condenser head pressure 
+controls, if typically shipped with units of the basic model by the 
+manufacturer or available as an option to the basic model, must be 
+active during testing.
+    (8) Standard CFM. In the referenced sections of AHRI 340/360-
+2007 (incorporated by reference; see Sec.  431.95), all instances of 
+CFM refer to standard CFM (SCFM). Likewise, all references to 
+airflow or air quantity refer to standard airflow and standard air 
+quantity.
+    (9) Capacity rating at part-load. When testing to determine EER 
+for the part-load rating points (i.e. 75-percent load, 50-percent 
+load, and 25-percent load), if the measured capacity expressed as a 
+percent of full-load capacity for a given part-load test is within 
+three percent above or below the target part-load percentage, the 
+EER calculated for the test may be used without any interpolation to 
+determine IEER.
+    (10) Condenser air inlet temperature for part-load testing. When 
+testing to determine EER for the part-load rating points (i.e. 75-
+percent load, 50-percent load, and 25-percent load), the condenser 
+air inlet temperature shall be calculated (using the equation in 
+Table 6 of AHRI 340/360-2007; incorporated by reference; see Sec.  
+431.95) for the target percent load rather than for the percent load 
+measured in the test. Table 1 of this appendix shows the condenser 
+air inlet temperature corresponding with each target percent load, 
+as calculated using the equation in Table 6 of AHRI 340/360-2007.
+
+   Table 1 to Appendix A to Subpart F of Part 431--Condenser Air Inlet
+                    Temperatures for Part-Load Tests
+------------------------------------------------------------------------
+                                                          Condenser air
+                                                              inlet
+                Target percent load (%)                    temperature
+                                                             ([deg]F)
+------------------------------------------------------------------------
+25.....................................................             65
+50.....................................................             68
+75.....................................................             81.5
+------------------------------------------------------------------------
+
+
+[FR Doc. 2015-31906 Filed 12-22-15; 8:45 a.m.]
+BILLING CODE 6450-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,569 @@
+<NOTICE>
+            <PREAMB>
+                <PRTPAGE P="3522"/>
+                <AGENCY TYPE="S">ENVIRONMENTAL PROTECTION AGENCY</AGENCY>
+                <DEPDOC>[EPA-HQ-OW-2021-0169; FRL-7877-01-OW]</DEPDOC>
+                <SUBJECT>National Pollutant Discharge Elimination System (NPDES) 2022 Issuance of General Permit for Stormwater Discharges From Construction Activities</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Environmental Protection Agency (EPA).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Notice of final permit issuance.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        All ten (10) Environmental Protection Agency (EPA) Regions are finalizing the 2022 National Pollutant Discharge Elimination System (NPDES) general permit for stormwater discharges from construction activities, also referred to as the â2022 Construction General Permit,â the â2022 CGP,â or the âfinal permit.â The final permit will replace the 2017 CGP that will expire at midnight on February 16, 2022. EPA is issuing this permit for five (5) years to provide permit coverage to eligible operators in all areas of the country where EPA is the NPDES permitting authority, including Massachusetts, New Hampshire, New Mexico, oil and gas activities within Oklahoma, most Indian country lands, the District of Columbia, U.S. territories and protectorates except for the U.S. Virgin Islands, and certain federal facilities. This 
+                        <E T="04">Federal Register</E>
+                         document summarizes the final permit. The final permit and fact sheet can be found at 
+                        <E T="03">https://www.epa.gov/npdes/2022-construction-general-permit-cgp.</E>
+                         EPA's responses to public comments that were submitted in response to the proposed 2022 CGP may be found in the docket for this action (Docket ID No. EPA-HQ-OW-2021-0169).
+                    </P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The final permit will become effective on February 17, 2022. This effective date is necessary to provide dischargers with the immediate opportunity to comply with Clean Water Act (CWA) requirements in light of the expiration of the 2017 CGP on February 16, 2022. In accordance with 40 CFR part 23, the 2022 CGP shall be considered issued for the purpose of judicial review on February 7, 2022. Under CWA Section 509(b), judicial review of this general permit can be requested by filing a petition for review in the United States Court of Appeals within 120 days after the permit is issued. Under CWA Section 509(b)(2), the requirements in this permit may not be challenged later in civil or criminal proceedings to enforce these requirements. In addition, this permit may not be challenged in other agency proceedings. Deadlines for submittal of a Notice of Intent (NOI) are provided in Part 1.4.3 of the 2022 CGP. The 2022 CGP also provides additional dates for compliance with the requirements of the permit.</P>
+                    <P>
+                        EPA will host a webinar on February 24 at 1:00 p.m. (Eastern Time Zone) to provide an overview of the 2022 CGP and an opportunity for participants to ask questions. Those interested may register for the webinar at 
+                        <E T="03">https://www.zoomgov.com/webinar/register/WN_DsNwf8dQTzC1pCk0HCyVnQ.</E>
+                         Further details on the webinar, including a post-webinar recording, will be made available at 
+                        <E T="03">https://www.epa.gov/npdes/2022-construction-general-permit-cgp.</E>
+                    </P>
+                </DATES>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                         For further information on the final permit, contact the appropriate EPA Regional office listed in Section I.F of this document, or Greg Schaner, EPA Headquarters, Office of Water, Office of Wastewater Management at 202-564-0721 or email: 
+                        <E T="03">cgp@epa.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P>This section is organized as follows:</P>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. General Information</FP>
+                    <FP SOURCE="FP1-2">A. Does this action apply to me?</FP>
+                    <FP SOURCE="FP1-2">B. How can I get copies of these documents and other related information?</FP>
+                    <FP SOURCE="FP1-2">C. Who are the EPA regional contacts for this permit?</FP>
+                    <FP SOURCE="FP-2">II. Background of Permit</FP>
+                    <FP SOURCE="FP1-2">A. Technology-Based Effluent Limits (TBELs)</FP>
+                    <FP SOURCE="FP1-2">B. Water Quality-Based Effluent Limits (WQBELs)</FP>
+                    <FP SOURCE="FP-2">III. Summary of Final Permit</FP>
+                    <FP SOURCE="FP1-2">A. Final Changes That Improve Clarity of the Permit</FP>
+                    <FP SOURCE="FP1-2">B. Final Changes That Add Specificity To Permit Requirements</FP>
+                    <FP SOURCE="FP-2">IV. Provisions Not Finalized in the 2022 CGP</FP>
+                    <FP SOURCE="FP-2">V. Implementation Assistance</FP>
+                    <FP SOURCE="FP-2">VI. Paperwork Reduction Act (PRA)</FP>
+                    <FP SOURCE="FP-2">VII. 2022 CGP Incremental Cost Analysis and Future Cost-Benefit Considerations</FP>
+                    <FP SOURCE="FP-2">VIII. Executive Order 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</FP>
+                    <FP SOURCE="FP-2">IX. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</FP>
+                    <FP SOURCE="FP-2">X. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</FP>
+                    <FP SOURCE="FP-2">XI. Executive Order 13211: Actions That Significantly Affect Energy Supply, Distribution, or Use</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. General Information</HD>
+                <HD SOURCE="HD2">A. Does this action apply to me?</HD>
+                <HD SOURCE="HD3">1. Entities Covered by This Permit</HD>
+                <P>This final permit covers stormwater discharges to waters of the United States from construction activities located in areas identified in Appendix B of the permit from the following entities, as categorized in the North American Industry Classification System (NAICS):</P>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="xs72,r100,20">
+                    <TTITLE>Table 1âEntities Covered by This Permit</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Category</CHED>
+                        <CHED H="1">Examples of affected entities</CHED>
+                        <CHED H="1">North American Industry Classification System (NAICS) code</CHED>
+                    </BOXHD>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Industry</ENT>
+                        <ENT A="L01">Construction site operators disturbing one or more acres of land, or less than one acre but part of a larger common plan of development or sale if the larger common plan will ultimately disturb 1 acre or more, and performing the following activities:</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="oi3">Construction of Buildings</ENT>
+                        <ENT>236</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="oi3">Heavy and Civil Engineering Construction</ENT>
+                        <ENT>237</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    EPA does not intend the preceding table to be exhaustive but provides it as a guide for readers regarding the types of activities EPA is now aware of that could potentially be affected by this action. Other types of entities not listed in the table could also be affected. To determine whether your site is covered by this action, you should carefully examine the definition of âconstruction activityâ and âsmall construction activityâ in existing EPA regulations at 40 CFR 122.26(b)(14)(x) and 122.26(b)(15), respectively. If you have questions regarding the applicability of this action to a particular entity, consult one of the persons listed for technical information 
+                    <PRTPAGE P="3523"/>
+                    in the preceding 
+                    <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                     section.
+                </P>
+                <HD SOURCE="HD3">2. Types of Construction Sites for Which Operators Are Eligible for Permit Coverage</HD>
+                <P>
+                    Coverage under this permit will be available to operators of eligible sites located in those areas where EPA is the permitting authority. A list of eligible areas is included in Appendix B of the final permit. Eligibility for permit coverage is limited to operators of ânew sites,â operators of âexisting sites,â ânew operators of permitted sites,â and operators of âemergency-related projects.â A ânew siteâ is a site where construction activities commenced on or after the effective date of the final 2022 CGP. An âexisting siteâ is a site with 2017 CGP coverage where construction activities commenced prior to the effective date of the final 2022 CGP. A ânew operator of a permitted siteâ is an operator that through transfer of ownership and/or operation replaces the operator of an already permitted construction site that is either a ânew siteâ or an âexisting site.â An âemergency-related projectâ is a project initiated in response to a public emergency (
+                    <E T="03">e.g.,</E>
+                     mud slides, earthquake, extreme flooding conditions, disruption in essential public services), for which the related work requires immediate authorization to avoid imminent endangerment to human health or the environment, or to reestablish public services.
+                </P>
+                <HD SOURCE="HD3">3. Geographic Coverage</HD>
+                <P>
+                    This 2022 CGP provides coverage to eligible operators for stormwater discharges from construction activities that occur in areas not covered by an approved state NPDES program. The areas of geographic coverage for the 2022 CGP are listed in Appendix B, and include the states of New Hampshire, Massachusetts, and New Mexico, oil and gas activities within Oklahoma, as well as most Indian country lands, and certain federal facilities. Permit coverage can also be obtained by operators in Puerto Rico, the District of Columbia, and the Pacific Island territories (
+                    <E T="03">i.e.,</E>
+                     Island of American Samoa, Island of Guam, and Johnston Atoll, Commonwealth of the Northern Mariana Islands, Midway Island, and Wake Island). EPA notes that the CGP will no longer provide coverage to construction sites in the state of Idaho, except for sites located on Indian country lands, or to sites located in the state of Texas that involve the exploration, development, or production of oil or gas or geothermal resources, including transportation of crude oil or natural gas by pipeline, as both states are now fully authorized to issue permits for construction stormwater. Eligible operators in these two states will need to seek permit coverage for their stormwater discharges from their respective state NPDES authority.
+                </P>
+                <HD SOURCE="HD2">B. How can I get copies of these documents and other related information?</HD>
+                <P>
+                    1. 
+                    <E T="03">Docket.</E>
+                     EPA has established an official public docket for this action under Docket ID No. EPA-HQ-OW-2021-0169. Although all documents in the docket are listed in an index, some information is not publicly available, 
+                    <E T="03">i.e.,</E>
+                     Confidential Business Information (CBI) or other information whose disclosure is restricted by statute. Out of an abundance of caution for members of the public and our staff, the EPA Docket Center and Reading Room are closed to the public, with limited exceptions, to reduce the risk of transmitting COVID-19. When the EPA Docket Center and Reading Room re-open, publicly available docket materials will be available in hard copy at the Water Docket in the EPA Docket Center, (EPA/DC) WJC West Building, Room 3334, 1301 Constitution Ave. NW, Washington, DC 20460. Our Docket Center staff will continue to provide remote customer service via email, phone, and webform. For further information on EPA Docket Center services and the current status, please visit us online at 
+                    <E T="03">https://www.epa.gov/dockets.</E>
+                </P>
+                <P>
+                    2. 
+                    <E T="03">Electronic Access.</E>
+                     You may access this 
+                    <E T="04">Federal Register</E>
+                     document electronically through the United States government on-line source for federal regulations at 
+                    <E T="03">http://www.regulations .gov.</E>
+                </P>
+                <P>
+                    Electronic versions of the final permit and fact sheet are available on EPA's NPDES website at 
+                    <E T="03">https://www.epa.gov/npdes/2022-construction-general-permit-cgp.</E>
+                </P>
+                <P>
+                    An electronic version of the public docket is available through EPA's electronic public docket and comment system, EPA Dockets. You may use EPA Dockets at 
+                    <E T="03">http://www.regulations.gov</E>
+                     to view public comments, access the index listing of the contents of the official public docket, and to access those documents in the public docket that are available electronically. For additional information about EPA's public docket, visit the EPA Docket Center homepage at 
+                    <E T="03">https://www.epa.gov/dockets.</E>
+                </P>
+                <HD SOURCE="HD2">C. Who are the EPA regional contacts for this permit?</HD>
+                <P>
+                    For EPA Region 1, contact Sania Kamran: Email at 
+                    <E T="03">kamran.sania@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 2, contact Stephen Venezia: Email at 
+                    <E T="03">venezia.stephen@epa.gov,</E>
+                     or for Puerto Rico, contact Sergio Bosques: Email at 
+                    <E T="03">bosques.sergio@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 3, contact Carissa Moncavage: Email at 
+                    <E T="03">moncavage.carissa@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 4, contact Michael Mitchell: Email at 
+                    <E T="03">mitchell.michael@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 5, contact Krista McKim: Email at 
+                    <E T="03">mckim.krista@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 6, contact Suzanna Perea: Email at: 
+                    <E T="03">perea.suzanna@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 7, contact Mark Matthews: Email at: 
+                    <E T="03">matthews.mark@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 8, contact Amy Clark: Email at: 
+                    <E T="03">clark.amy@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 9, contact Eugene Bromley: Email at 
+                    <E T="03">bromley.eugene@epa.gov.</E>
+                </P>
+                <P>
+                    For EPA Region 10, contact Margaret McCauley: Email at 
+                    <E T="03">mccauley.margaret@epa.gov.</E>
+                </P>
+                <HD SOURCE="HD1">II. Background of Permit</HD>
+                <P>The CWA establishes a comprehensive program âto restore and maintain the chemical, physical, and biological integrity of the Nation's waters.â 33 U.S.C. 1251(a). The CWA also includes the objective of attaining âwater quality which provides for the protection and propagation of fish, shellfish and wildlife and * * * recreation in and on the water.â 33 U.S.C. 1251(a)(2)). To achieve these goals, the CWA requires EPA to control discharges of pollutants from point sources through the issuance of National Pollutant Discharge Elimination System (NPDES) permits.</P>
+                <P>
+                    The Water Quality Act of 1987 (WQA) added Section 402(p) to the CWA, which directed EPA to develop a phased approach to regulate stormwater discharges under the NPDES program. 33 U.S.C. 1342(p). EPA published a final regulation in the 
+                    <E T="04">Federal Register</E>
+                    <E T="03">,</E>
+                     often called the âPhase I Rule,â on November 16, 1990, establishing permit application requirements for, among other things, âstorm water discharges associated with industrial activity.â See 55 FR 47990. EPA defines the term âstorm water discharge associated with industrial activityâ in a comprehensive manner to cover a wide variety of facilities. See 
+                    <E T="03">id.</E>
+                     Construction activities, including activities that are part of a larger common plan of development or 
+                    <PRTPAGE P="3524"/>
+                    sale, that ultimately disturb at least five acres of land and have point source discharges to waters of the U.S. were included in the definition of âindustrial activityâ pursuant to 40 CFR 122.26(b)(14)(x). The second rule implementing Section 402(p), often called the âPhase II Rule,â was published in the 
+                    <E T="04">Federal Register</E>
+                     on December 8, 1999. It requires NPDES permits for discharges from construction sites disturbing at least one acre but less than five acres, including sites that are part of a larger common plan of development or sale that will ultimately disturb at least one acre but less than five acres, pursuant to 40 CFR 122.26(b)(15)(i). See 64 FR 68722. EPA issues the 2022 CGP under the statutory and regulatory authorities cited in this section.
+                </P>
+                <P>NPDES permits for construction stormwater discharges are required under Section 402(a)(1) of the CWA to include conditions to meet technology-based effluent limits established under Section 301 and, where applicable, Section 306. Effluent Limitations Guidelines (ELGs) and New Source Performance Standards (NSPS) are technology-based effluent limitations that are based on the degree of control that can be achieved using various levels of pollutant control technology as defined in Subchapter III of the CWA.</P>
+                <P>Once a new national standard is established in accordance with these sections, NPDES permits must incorporate limits based on such technology-based standards. See CWA Sections 301 and 306, 33 U.S.C. 1311 and 1316, and 40 CFR 122.44(a)(1). On December 1, 2009, EPA published final regulations establishing technology-based ELGs and NSPS for the Construction &amp; Development (C&amp;D) point source category, which became effective on February 1, 2010. See 40 CFR part 450 and 74 FR 62996. EPA amended the Construction &amp; Development Rule, or âC&amp;D rule,â on March 6, 2014 to satisfy EPA's agreements pursuant to a settlement of litigation that challenged the 2009 rule. See 79 FR 12661. All NPDES construction permits issued by EPA or states after this date must incorporate the requirements in the C&amp;D rule.</P>
+                <HD SOURCE="HD2">A. Technology-Based Effluent Limits (TBELs)</HD>
+                <P>The non-numeric effluent limitations in the C&amp;D rule are designed to prevent or minimize the mobilization and discharge of sediment and sediment-bound pollutants, such as metals and nutrients, and to prevent or minimize exposure of stormwater to construction materials, debris, and other sources of pollutants on construction sites. In addition, these non-numeric effluent limitations limit the generation of dissolved pollutants. Soil on construction sites can contain a variety of pollutants such as nutrients, pesticides, herbicides, and metals. These pollutants may be present naturally in the soil, such as arsenic or selenium, or they may have been contributed by previous activities on the site, such as agriculture or industrial activities. These pollutants, once mobilized by stormwater, can detach from the soil particles and become dissolved pollutants. Once dissolved, these pollutants would not be removed by down-slope sediment controls. Source control through minimization of soil erosion is, therefore, the most effective way of controlling the discharge of these pollutants.</P>
+                <P>The non-numeric effluent limits in the C&amp;D rule, upon which certain technology-based requirements in the final permit are based, include the following:</P>
+                <P>
+                    â¢ 
+                    <E T="03">Erosion and Sediment Controls</E>
+                    âPermittees are required to design, install, and maintain effective erosion controls and sediment controls to minimize the discharge of pollutants. At a minimum, such controls must be designed, installed, and maintained to:
+                </P>
+                <P>1. Control stormwater volume and velocity to minimize soil erosion in order to minimize pollutant discharges;</P>
+                <P>2. Control stormwater discharges, including both peak flow rates and total stormwater volume, to minimize channel and streambank erosion, and scour in the immediate vicinity of discharge points;</P>
+                <P>3. Minimize the amount of soil exposed during construction activity;</P>
+                <P>4. Minimize the disturbance of steep slopes;</P>
+                <P>5. Minimize sediment discharges from the site. The design, installation, and maintenance of erosion and sediment controls must address factors such as the amount, frequency, intensity, and duration of precipitation, the nature of resulting stormwater discharge, and soil characteristics, including the range of soil particle sizes expected to be present on the site;</P>
+                <P>6. Provide and maintain natural buffers around waters of the United States. Direct stormwater to vegetated areas and maximize stormwater infiltration to reduce pollutant discharges, unless infeasible;</P>
+                <P>7. Minimize soil compaction. Minimizing soil compaction is not required where the intended function of a specific area of the site dictates that it be compacted; and</P>
+                <P>8. Unless infeasible, preserve topsoil. Preserving topsoil is not required where the intended function of a specific area of the site dictates that the topsoil be disturbed or removed.</P>
+                <P>
+                    â¢ 
+                    <E T="03">Soil Stabilization Requirements</E>
+                    âPermittees are required to, at a minimum, initiate soil stabilization measures immediately whenever any clearing, grading, excavating, or other earth disturbing activities have permanently ceased on any portion of the site or temporarily ceased on any portion of the site and will not resume for a period exceeding 14 calendar days. In arid, semiarid, and drought-stricken areas where initiating vegetative stabilization measures immediately is infeasible, alternative stabilization measures must be employed as specified by the permitting authority. Stabilization must be completed within a period of time determined by the permitting authority. In limited circumstances, stabilization may not be required if the intended function of a specific area of the site necessitates that it remains disturbed.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Dewatering Requirements</E>
+                    âPermittees are required to minimize the discharge of pollutants from dewatering trenches and excavations. Discharges are prohibited unless managed by appropriate controls.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Pollution Prevention Measures</E>
+                    âPermittees are required to design, install, implement, and maintain effective pollution prevention measures to minimize the discharge of pollutants. At a minimum, such measures must be designed, installed, implemented, and maintained to:
+                </P>
+                <P>1. Minimize the discharge of pollutants from equipment and vehicle washing, wheel wash water, and other wash waters. Wash waters must be treated in a sediment basin or alternative control that provides equivalent or better treatment prior to discharge;</P>
+                <P>2. Minimize the exposure of building materials, building products, construction wastes, trash, landscape materials, fertilizers, pesticides, herbicides, detergents, sanitary waste, and other materials present on the site to precipitation and to stormwater. Minimization of exposure is not required in cases where the exposure to precipitation and to stormwater will not result in a discharge of pollutants or where exposure of a specific material or product poses little risk of stormwater contamination (such as final products and materials intended for outdoor use); and</P>
+                <P>
+                    3. Minimize the discharge of pollutants from spills and leaks and 
+                    <PRTPAGE P="3525"/>
+                    implement chemical spill and leak prevention and response procedures.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Prohibited Discharges</E>
+                    âThe following discharges from C&amp;D sites are prohibited:
+                </P>
+                <P>1. Wastewater from washout of concrete, unless managed by an appropriate control;</P>
+                <P>2. Wastewater from washout and cleanout of stucco, paint, form release oils, curing compounds, and other construction materials;</P>
+                <P>3. Fuels, oils, or other pollutants used in vehicle and equipment operation and maintenance; and</P>
+                <P>4. Soaps or solvents used in vehicle and equipment washing.</P>
+                <P>
+                    â¢ 
+                    <E T="03">Surface Outlets</E>
+                    âWhen discharging from basins and impoundments, permittees are required to utilize outlet structures that withdraw water from the surface, unless infeasible.
+                </P>
+                <P>The accompanying fact sheet details how EPA has incorporated these requirements into the final permit. The discussion in the fact sheet includes a summary of each provision and the agency's rationale for articulating the provision in this way.</P>
+                <HD SOURCE="HD2">B. Water Quality-Based Effluent Limits (WQBELs)</HD>
+                <P>EPA's regulations at 40 CFR 122.44(d)(1) require permitting authorities to include additional or more stringent permit requirements when necessary to achieve water quality standards. The 2022 CGP contains several provisions to protect water quality that were retained from the 2017 CGP. The final permit includes a narrative WQBEL requiring that discharges be controlled as necessary to meet applicable water quality standards. Failure to control discharges in a manner that meets applicable water quality standards is a violation of the permit.</P>
+                <P>In addition to the narrative WQBEL, the 2022 CGP includes related provisions that act together to protect water quality. For example, the permit requires operators to implement stormwater controls and to take corrective action in response to any exceedance of applicable water quality standards. In addition, the permit requires more stringent site inspection frequencies and stabilization deadlines for construction sites that discharge to those waters that are sediment or nutrient-impaired, which are parameters typically associated with stormwater discharges from construction sites, or waters identified by a state, tribe, or EPA as requiring enhanced protection under antidegradation requirements. In the 2022 CGP, EPA also included an additional water quality-based requirement for dewatering discharges to sediment-impaired and high-quality waters that requires operators to monitor the discharge for turbidity in comparison to a benchmark threshold. This new requirement is discussed in Section III.B.</P>
+                <P>Additionally, EPA received CWA Section 401 certifications for the final 2022 CGP. Some of those certifications included additional conditions that are required by states, Indian tribes, and territories, pursuant to relevant provisions of the CWA and/or their respective legal authorities. These conditions were incorporated into the permit as legally binding permit limits and requirements in the specific geographic areas that are located within the jurisdiction of the certifying authority.</P>
+                <HD SOURCE="HD1">III. Summary of Final Permit</HD>
+                <P>
+                    This section summarizes the most significant modifications that are included in the 2022 CGP relative to the 2017 CGP. The fact sheet for the permit explains in more detail each permit condition and the rationale for any changes to those conditions. The final permit and fact sheet can be found in the docket for this action and at 
+                    <E T="03">https://www.epa.gov/npdes/2022-construction-general-permit-cgp.</E>
+                     A comprehensive list of the final changes, as well as the corresponding parts of the permit that are modified, is included in a table in Section III.B of the fact sheet.
+                </P>
+                <P>The types of final changes in the 2022 CGP generally fall into one of two categories: (1) Changes to improve the clarity of the permit, and (2) changes that added specificity to the permit requirements. The table of modifications in Section III.B of the fact sheet specifies which changes fall under the type (1) category and which fall into the type (2) category. The following sections briefly describe the most significant final changes within these two broad categories.</P>
+                <HD SOURCE="HD2">A. Final Changes That Improve Clarity of the Permit</HD>
+                <P>EPA finalized a number of relatively minor changes that focus on improving the clarity of provisions where operators, EPA compliance staff, or other stakeholders have raised questions. These changes generally do not change the underlying requirement from the 2017 CGP, but rather attempt to make EPA's original intent clearer. These clarifications in the 2022 CGP should improve the overall understanding of the permit's requirements from all perspectives, including the permitting authority, permittees, and the general public.</P>
+                <P>The final changes to improve clarity include the following:</P>
+                <P>
+                    â¢ 
+                    <E T="03">Approved stormwater control and stormwater pollution prevention plan products</E>
+                    âEPA includes new language in the permit to clearly state that the agency does not endorse specific stormwater control or stormwater pollution prevention plan (SWPPP) products or vendors. Industry stakeholders suggested that the permit include such language to help discourage some vendors from misleadingly suggesting that EPA or the permit approves of specific products. See footnotes 13 and 84 in Parts 2.1 and 7.1, respectively, of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Differentiate between routine maintenance and corrective actionâ</E>
+                    EPA defines routine maintenance as minor repairs or other upkeep performed to ensure the site's stormwater controls remain in effective operating condition, not including significant repairs or the need to install a new or replacement control. If a stormwater control needs a significant repair or a new or replacement control is needed, the permit requires that it be treated as a corrective action. This change addresses feedback provided by industry stakeholders who have observed that there is considerable confusion about which maintenance repairs are considered routine versus those that should be treated as corrective actions. Based on comments received on the proposed permit, EPA provided further flexibility for routine maintenance, which cannot be completed by the close of the next business day after the condition requiring maintenance is discovered, by enabling operators to have up to seven days to complete this work. The additional time is conditioned on the operator documenting in the site inspection report why it would be infeasible to finish the work by the close of the next business, and why the repairs or other upkeep should still be treated as routine maintenance. Where the operator finds that the same routine maintenance fix must be repeatedly (
+                    <E T="03">i.e.,</E>
+                     three or more times) made to the same stormwater control at the same location, the operator must complete the work for any subsequent occurrences of the same problem under the corrective action procedures in Part 5 of the permit, or document in the site inspection report why the specific reoccurrence of the problem should still be addressed as a routine maintenance fix. See Parts 2.1.4.b, c, and d, and 5.1.1 of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Include additional stormwater control design considerations</E>
+                    âThe CGP requires operators to take into account several factors in designing stormwater 
+                    <PRTPAGE P="3526"/>
+                    controls that comply with permit conditions. The factors include the expected amount, frequency, intensity, and duration of precipitation. See Part 2.1.1 of the permit. EPA clarifies that the relevant data used must be the most recent data available to account for recent precipitation patterns and trends. EPA also suggests that operators include consideration and contingencies for the implementation of structural improvements, enhanced or resilient stormwater controls, and other mitigation measures to help minimize the stormwater discharge impacts from major storms (
+                    <E T="03">e.g.,</E>
+                     hurricanes, storm surges, extreme precipitation, or flood events) where the site has been exposed to or previously experienced such storms.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Clarify factors where infiltration would be infeasible or inadvisableâ</E>
+                    The CGP requires that operators direct stormwater to vegetated areas and maximize stormwater infiltration and filtering to reduce pollutant discharges, unless infiltration would be inadvisable due to the underlying geology and groundwater concerns, or infeasible due to site constraints. EPA suggests some of the considerations operators should take into account in determining whether infiltration at a particular site is infeasible or inadvisable, such as factors relating to the underlying soils or geology, hydrology, depth to the groundwater table, proximity to source water protection area(s), or specific contaminant concerns. See Part 2.2.2 and footnote 19 in the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Clarify application of perimeter control and natural buffer requirementsâ</E>
+                    EPA understands from conversations with stakeholders that there is confusion about whether perimeter controls are necessary on the site when the operator is already providing a natural buffer pursuant to the requirements of the permit. To address this confusion, EPA clarifies that perimeter controls must be installed upgradient of any natural buffers except in situations where the perimeter control is being used by the operator to fulfill one of the buffer alternative requirements, in which case the operator would not be required to install a second perimeter control. See Part 2.2.3.a of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Clarify the permit flexibilities for arid and semi-arid areas</E>
+                    âThe 2017 CGP maintained from previous CGPs alternative stabilization and inspection schedules for arid and semi-arid areas that are reflective of the different climatic and precipitation conditions that exist in those areas. These stabilization and inspection schedule flexibilities apply during the âseasonally dry periodâ of the year when there is less risk of a discharge-producing storm event. The permit did not previously define the term âseasonally dry period,â and EPA has received a number of questions from construction operators over the past several years about what this term means. For this reason, the final 2022 CGP establishes a new definition for seasonally dry period to provide clarity and includes resources in the form of maps and zip code tables to assist construction operators located in an arid or semi-arid area in determining when they may be operating during a seasonally dry period of the year. See Parts 2.2.14.b, 2.2.14.c, and 4.4.2 of the permit, as well as the definition of âseasonally dry periodâ in Appendix A. See also EPA's Seasonally Dry Period Locator Tool at 
+                    <E T="03">https://www.epa.gov/npdes/construction-general-permit-resources-tools-and-templates.</E>
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Clarify pollution prevention requirements for construction wasteâ</E>
+                    The 2022 CGP extends existing pollution control flexibilities that apply to building materials and products in Part 2.3.3.a to certain types of construction wastes in Part 2.3.3.e. Waste containers are not required for the waste remnant or unused portions of any construction materials or final products where the exposure to precipitation and to stormwater will not result in a discharge of pollutants, or where exposure of a specific material or product poses little risk of stormwater contamination, provided that these wastes are stored separately from other construction or domestic wastes that do not meet these criteria, are stored in designated areas of the site, and are described in the SWPPP. See Parts 2.3.3.e, 7.2.4.i, and 7.2.6.b.ix of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Clarify proper handling of washing applicators and containers used for stucco, paint, concrete, form release oils, curing compounds, or other materialsâ</E>
+                    The permit includes some additional details based on feedback provided in the public comments regarding how operators should handle washout or cleanout wastes. This includes not allowing liquid wastes to enter site drainage features, not allowing such wastes to be disposed of through infiltration or to otherwise be disposed of on the ground, and complying with applicable state, tribal, or local requirements for disposal. See Part 2.3.4.b of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Clarify requirements for inspections during storm eventsâ</E>
+                    In meetings with stakeholders prior to the proposed permit, and in comments submitted during the public comment period, it has become clear that clarification is needed to better explain the required frequency of inspections during and after storm events. For inspections required in response to storm events producing 0.25 inches of rain within a 24-hour period, EPA provided additional text explaining when inspections are required under different storm length scenarios. See Part 4.2.2.a. For inspections required in response to discharges from snowmelt, the permit adds a numeric inspection threshold for snowfall precipitation that is equivalent to the 0.25-inch rain event to help operators determine when an inspection may be required. This change clarifies that where there is a discharge from snowmelt caused by an accumulation of 3.25 inches or greater of snow within a 24-hour period, an inspection is required. Some operators requested this change and explained to EPA that without a numeric threshold, it is difficult for operators to know which snow events may trigger the need to inspect the site during the winter season. EPA relied on information from the National Oceanic and Atmospheric Administration (NOAA) to derive the 3.25-inch snowfall equivalent to the 0.25-inch rain event. See Part 4.2.2.b of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Availability of stormwater pollution prevention plan (SWPPP), inspection reports, and corrective action log in electronic form</E>
+                    âThe 2017 CGP enabled operators to keep their SWPPP, inspection reports, and corrective action records in electronic form, as long as they could be accessed and read by the operator and by any EPA, state, or local inspection authorities in the same manner as a paper copy. EPA heard from permittees, however, who were uncertain about whether the flexibility to keep these documents in electronic form was available to them. EPA acknowledges that part of the problem was that its explanation about retaining documents in electronic form was only included in a frequently asked question section of its construction stormwater website, and was not clearly stated in the 2017 CGP. For this reason, the final 2022 CGP includes text to make it clear that electronic versions of the SWPPP, inspection reports, and corrective action logs may be used as long as they meet certain minimum requirements. See footnotes 76, 78, and 92 to Parts 4.7.3, 5.4.3, and 7.3, respectively, of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Updated process for Endangered Species Act eligibility determinations</E>
+                    âEPA updated Appendix D of the CGP, which establishes procedures for operators to follow in determining their eligibility for coverage with respect to 
+                    <PRTPAGE P="3527"/>
+                    the protection of endangered and threatened species. The changes to Appendix D are primarily in the form of clarifications to existing procedures or updates to resources that operators can use to determine whether species are located in the âaction areaâ of the construction site. EPA finalized similar changes as part of the Endangered Species Act (ESA) consultation it completed as part of its issuance of the 2021 Multi-Sector General Permit (MSGP) for discharges from industrial activities (See Appendix E of the 2021 MSGP at 
+                    <E T="03">https://www.epa.gov/npdes/stormwater-discharges-industrial-activities-epas-2021-msgp</E>
+                    ). During the ESA consultation on the 2022 CGP and based on EPA's experience with consultation for the 2021 MSGP, EPA agreed to reformat Appendix D and the corresponding Endangered Species Protection section of the electronic NOI in the NPDES eReporting Tool (NeT) into a worksheet-style format. The worksheet breaks apart the procedures, criterion selection, and required supporting documentation into a series of individual questions and fillable answers, rather than long narrative instructions. It is EPA's intention that presenting the ESA procedures in a more dynamic, structured way will help the operator arrive at the correct ESA criterion selection by eliminating ones that do not apply to their site and will ensure that all required supporting documentation is included when submitting the NOI. See Appendix D of the permit, and related information at 
+                    <E T="03">https://www.epa.gov/npdes/2022-construction-general-permit-cgp.</E>
+                </P>
+                <HD SOURCE="HD2">B. Final Changes That Add Specificity to Permit Requirements</HD>
+                <P>EPA finalized select modifications to the permit to address specific problems that have come to the agency's attention during the permit term or to incorporate enhancements that reflect current best practices. These changes are narrowly focused on specific topics. The following is a summary of these changes:</P>
+                <P>
+                    â¢ 
+                    <E T="03">Include additional perimeter control installation and maintenance requirements</E>
+                    âDue to the vital role that sediment controls installed along the downslope side of the construction site perimeter play in minimizing sediment discharges, it is important for the CGP requirements related to these controls to reflect best practices that are available, effective, and practicable. Reviewing a number of state permits and best management practice manuals during the development of the proposed and final permit, EPA concluded that some targeted changes to the perimeter control requirements in the CGP are appropriate and warranted at this time. For this reason, EPA finalized additional perimeter control installation and maintenance requirements that are focused on ensuring that these controls continue to work effectively. For example, under the new provision, if there is evidence of stormwater circumventing or undercutting the perimeter control after a storm event, the operator is required to extend the length of the perimeter control or repair any undercut areas, whichever applies. This change is intended to ensure that maintenance of these controls is focused on fixing problems as soon as they are found and making sure they work effectively before the next storm event occurs. See Part 2.2.3 of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Update pollution prevention requirements for chemicals used and stored on site</E>
+                    âEPA finalized changes to the pollution prevention requirements for diesel fuel, oil, hydraulic fuels, or other petroleum products, and other chemicals. These changes respond to feedback EPA received from some permittees who recommended reframing the 2017 CGP permit requirements so they are proportionate to the volume of chemicals being used and stored on the site, and relative to the risk of a spill or leak. EPA agreed that the requirements in this section could be improved by strengthening the linkage between the type of pollution prevention control needed and the volume of chemical containers kept on site. Consistent with this principle, the final permit establishes control requirements that are appropriate for chemical containers with a storage capacity of less than 55 gallons by requiring that the operator use water-tight containers, place them on a spill containment pallet (or similar device) if kept outside, and have a spill kit available at all times and in good working condition, and personnel available to respond quickly to a spill or leak. These controls will be effective at preventing a discharge from a spill or leak, while also having the added advantage of being moved more easily around the site. The final permit also includes controls that are more suitable to larger chemical containers with a storage capacity of 55 gallons or more, such as requiring a temporary roof or secondary containment to prevent a discharge from a leak or spill. Based on public comments, EPA modified the requirements so that they are applied based on the volume of container at the site (
+                    <E T="03">i.e.,</E>
+                     containers with a storage capacity of less than 55 gallons, or 55 gallons or more) versus the proposed approach of applying requirements based on the total volume of chemicals at the site. EPA also added some additional specificity to the final provisions to require that all containers be closed, sealed, and secured when not being actively used. EPA also added an additional flexibility to allow operators with certain site constraints to store larger volume containers as far away from receiving waters, site drainage features, and stormwater inlets as possible if it is infeasible to store them at least 50 feet away. See Part 2.3.3.c of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Specify new dewatering discharge requirements</E>
+                    âEPA finalized several changes to the permit's dewatering requirements to improve compliance and further reduce pollutant loads to receiving waters. EPA has noted violations with the permit's dewatering requirements at sites with controls that are improperly installed and maintained, resulting in significant discharges of sediment and other pollutants to receiving waters. Given the high rate at which dewatered water may be discharged, EPA inspection personnel have observed that it is possible that a site may discharge more sediment in several hours of poorly managed dewatering activities than might otherwise be discharged from a site via stormwater discharges over the entire course of the construction project. Additionally, EPA has found there to be good example provisions from state construction stormwater permits and standalone NPDES dewatering permits that can be used to strengthen the CGP's dewatering conditions.
+                </P>
+                <P>
+                    The final dewatering revisions to the permit add clarity to the existing pollutant control provisions, increase the number of inspections required while the dewatering discharge is occurring, establish a tailored checklist of problems to review during the inspection, and identify specific triggers for when corrective action is required. For example, one new dewatering-related inspection provision requires the operator to check whether a sediment plume, foam, and/or other evidence of pollutants such as a visible sheen or oily deposit on the bottom or shoreline of the receiving water was observed during the inspection at the point of discharge to any receiving water flowing through or immediately adjacent to the site and/or to drainage features. If such pollutant indicators are observed, the permit requires the operator to, among other things, take immediate steps to minimize the discharge of pollutants, including the possibility of shutting off the dewatering discharge depending on the severity of the condition and to ensure that the dewatering controls 
+                    <PRTPAGE P="3528"/>
+                    being used are operating effectively. During an inspection of the dewatering operation, the operator would also be required to take photographs of (1) the dewatering water prior to treatment by a control(s) and the final discharge after treatment; (2) the dewatering control(s); and (3) the point of discharge to any receiving waters flowing through or immediately adjacent to the site and/or to site drainage features, storm drain inlets, and other conveyances to receiving waters. This documentation will help demonstrate how well the dewatering controls are working and will show where adaptations made after any problems have been found have resulted in improved pollutant control. See Parts 2.4, 4.3.2, 4.6.3, 5.1.5, and 5.2.2 of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Require turbidity benchmark monitoring for sites discharging dewatering water to sensitive waters</E>
+                    âThe 2022 CGP requires targeted sampling of dewatering discharges to sediment-impaired waters or waters designated as Tier 2, Tier 2.5 or Tier 3 waters (referred to in the permit as âsensitive watersâ). Under this new requirement, operators must collect at least one turbidity sample of the dewatering discharge each day a discharge occurs and compare the weekly average of the results with a benchmark turbidity value of 50 Nephelometric Turbidity Units (NTU). EPA derived this benchmark threshold based on a review of water quality standards for states and certain territories where EPA is the permitting authority, other NPDES dewatering permit conditions, literature related to the effects of turbidity on aquatic life, and public comments received during the comment period on the proposed 2022 CGP. EPA is also providing operators with the flexibility to request an alternate benchmark for their site that is higher than 50 NTUs if the operator has information demonstrating that the higher number is supported by the receiving water's water quality standard for turbidity.
+                </P>
+                <P>For clarity, EPA emphasizes that the benchmark threshold for turbidity is not an effluent limit. As such, an exceedance of the benchmark threshold does not itself constitute a permit violation. Rather, the benchmark threshold acts as a warning sign to the operator that changes may be needed in the dewatering controls to improve pollutant removal and protect water quality. Accordingly, if the weekly average of the turbidity samples exceeds the benchmark (or an alternate benchmark based on state WQS), the operator is required to conduct follow-up corrective action designed to lower the turbidity levels in the discharge. The new corrective action provisions for a benchmark exceedance require the operator to immediately take all reasonable steps to minimize or prevent the discharge of pollutants until a solution can be implemented, including safely shutting off the dewatering discharge depending on the severity of the condition; determining whether the dewatering controls are operating effectively and whether they are causing the conditions; and making any necessary adjustments, repairs, or replacements to the dewatering controls to lower the turbidity levels or remove the visible plume or sheen. Operators are also required to report their weekly average turbidity results to EPA on a quarterly basis either electronically using the agency's NeT or the paper form in Appendix K, if EPA grants a waiver from electronic reporting.</P>
+                <P>For the 2022 CGP, EPA is focused on turbidity monitoring for sensitive waters because sediment is a major cause of impairment of the nation's waters. Excessive sediment can impair waterbody uses such as aquatic life, navigation, recreation, and sources of drinking water. The monitoring requirements for dewatering discharges to sediment-impaired waters will help ensure that such discharges do not further contribute excess pollutants to waters that are impaired for sediment and that existing uses are maintained and protected. Turbidity monitoring will provide operators with a baseline and comparable understanding of dewatering discharge quality, potential water quality problems, and dewatering control measure effectiveness. These data will supplement information provided through the daily inspections during dewatering activities and allow EPA to review the pollutant concentrations in dewatering discharges. See Part 3.3, 5.1.5, and 5.2.2 of the permit.</P>
+                <P>
+                    EPA includes an extensive discussion of the rationale behind the decision to include benchmark monitoring for dewatering discharges to sensitive waters in this permit and a more thorough discussion of the key parts of these requirements. See Section VI, Part 3.3 of the fact sheet. EPA has also provided additional technical assistance resources for operators to use in implementing these provisions. For example, EPA has developed a 
+                    <E T="03">Monitoring and Inspection Guide for Construction Dewatering,</E>
+                     available on EPA's website at 
+                    <E T="03">https://www.epa.gov/npdes/turbidity-benchmark-monitoring-dewatering-under-construction-general-permit,</E>
+                     which provides guidelines on how to correctly monitor for turbidity, determine if the weekly average exceeds the benchmark, and, if so, how to proceed with corrective action, as well as how to comply with the permit's dewatering inspection requirements. EPA has also compiled a list of all the current state and tribal turbidity water quality standards in effect in areas covered by the CGP, in the event that operators choose to pursue a request for an alternate benchmark. See List of State-Specific Water Quality Standards for Turbidity, available at 
+                    <E T="03">https://www.epa.gov/npdes/turbidity-benchmark-monitoring-dewatering-under-construction-general-permit.</E>
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Update training requirements for personnel conducting site inspections</E>
+                    âEPA finalized modifications to the training requirements for personnel conducting site inspections. These changes address problems found during many of the agency's own construction site inspections, in which EPA observed that while some permittees are properly conducting inspections and documenting their findings in accordance with the permit, a large number are not. To address this problem, EPA strengthened the training requirements for inspection personnel to ensure their competency to conduct such inspections. For this reason, the permit specifies that a qualified person carrying out inspections must either (1) have completed the new EPA construction inspection course developed for this permit and passed the exam, or (2) hold a current valid construction inspection certification or license from a program that covers essentially the same core material as EPA's inspection course. These new requirements are an extension of what the 2017 CGP (and 2012 CGP) already required for the âqualified personâ to conduct inspections. EPA is in the process of developing a free construction inspection training program that will be made available as an option to fulfill this new requirement to CGP permittees along with an accompanying exam that, if passed, will provide the person with documentation showing that they have successfully completed the EPA course. EPA is delaying the implementation of the requirement for one year from the permit effective date until the EPA training is available, which the agency anticipates will be in the summer or fall of 2022. For this reason, for construction projects that receive permit coverage prior to February 17, 2023, any personnel conducting site inspections must, at a minimum, be a person knowledgeable in the principles and practice of erosion and sediment 
+                    <PRTPAGE P="3529"/>
+                    controls and pollution prevention, who possesses the appropriate skills and training to assess conditions at the construction site that could impact stormwater quality, and the appropriate skills and training to assess the effectiveness of any stormwater controls selected and installed to meet the requirements of the permit. Operators will be notified via email when the new 2022 CGP training is available. EPA will also announce the training on its 2022 CGP website (
+                    <E T="03">https://www.epa.gov/npdes/2022-construction-general-permit-cgp</E>
+                    ). Documentation that the relevant personnel has completed the EPA course and passed the exam will serve as proof that the operator has met the new inspection training requirements. Alternatively, if the relevant personnel elect to obtain the required training through a different program that covers the same basic principles, the operator will need to provide documentation that these personnel have successfully completed the program and are in possession of a current, valid certification or license. See Parts 4.1, 6.3, and 7.2.2 of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Specify requirements for documenting signs of sedimentation attributable to construction site discharges</E>
+                    âEPA specifies in the permit that during an inspection, operators must check for signs of sediment deposition that are visible from the site and attributable to the operator's discharge, for example sand bars with no vegetation growing on top in adjacent receiving waters or in other constructed or natural site drainage features, or the buildup of sediment deposits on nearby streets, curbs, or open conveyance channels. This change is intended to address a frequent problem observed during EPA's compliance inspections that the permittee does not document obvious signs of sedimentation in the receiving water or in drainage features that convey to receiving waters. The intent of this addition is to emphasize that the site inspection is an ideal time to examine whether there are any obvious signs of sedimentation attributable to the site's discharges, and to require documentation of such sedimentation. EPA notes that the CGP already requires operators to check for signs of visible erosion and sedimentation (
+                    <E T="03">i.e.,</E>
+                     sediment deposits) that have occurred and are attributable to the operator's discharge at points of discharge and, if applicable, on the banks of any receiving waters. flowing within or immediately adjacent to the site. See Part 4.6.1.e of the permit.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Require photo documentation of adequate site stabilization</E>
+                    âEPA's compliance inspectors have observed cases when operators prematurely terminate coverage under the CGP before the site is properly stabilized. The final permit adds a new provision requiring operators as part of their Notice of Termination (NOT) to take and submit photographs showing the stabilized areas of the site following completion of construction. EPA includes this requirement primarily as an additional level of documented evidence that operators are complying with the stabilization requirements prior to terminating coverage. Given the importance of stabilization to preventing continuing erosion and sedimentation, EPA views the additional photo documentation requirement to be a relatively inexpensive, effective, and straightforward way for the operator to show the agency that it has complied with the permit's final stabilization requirements. See Part 8.2.1.a of the permit. Related to this new requirement, EPA added a check box to the NOT form to confirm that the operator has attached photographs as required by Part 8.2.1.a, including the date each photograph was taken, and a brief description of the area of the site captured by the photograph.
+                </P>
+                <P>
+                    â¢ 
+                    <E T="03">Add new Notice of Intent (NOI) questions</E>
+                    âEPA added new questions to the NOI form that construction operators will use to obtain coverage under the 2022 CGP. One question asks operators if dewatering water will be discharged during the course of their permit coverage. While EPA suspects that most CGP-covered projects discharge dewatering water during construction, it is useful to the agency to know what the prevalence of this practice is at its permitted sites. This question will provide a straightforward way of compiling information broadly about permittees and enable EPA to know which operators may be affected by the permit's new dewatering requirements. A follow-up question asks operators who indicate that there will be a dewatering discharge to identify if their site is located on a current or former remediation site. This question is intended to provide EPA with additional information regarding sites and their potential for contaminated discharge. Another question asks the operator completing the NOI whether there are other operators who are also covered by the CGP at the same site and, if so, what their NPDES ID numbers are. Because the 2017 CGP NOI did not ask the operator to indicate whether there are multiple operators permitted for the same site, EPA is often unable to easily determine who all the permitted entities are at larger projects and whether there may be some parties that should have obtained permit coverage as operators but have yet to do so. The NOI form also includes a new question that requires the operator to confirm that any personnel conducting inspections at the site will meet the modified training requirements in Part 6 of the permit. EPA also finalized clarifying edits to better explain the types of documentation that are needed for several of the eligibility criteria. As mentioned in Section III.A in the summary of the âUpdated process for Endangered Species Act eligibility determinations,â EPA has also reformatted the Endangered Species Protection section of the electronic NOI, which now consists of questions that were previously contained in narrative instructions in Appendix D along with updated links to available mapping tools to assist operators in determining whether any listed or threatened species are known to occur in the action area of their site.
+                </P>
+                <HD SOURCE="HD1">IV. Provisions Not Finalized in the 2022 CGP</HD>
+                <P>After further consideration and evaluation of public comments received, the following changes that were considered in requests for comment in the proposed permit were not modified or finalized in the 2022 CGP:</P>
+                <P>
+                    1. 
+                    <E T="03">Modifying the definition of operator</E>
+                    âIn the 2022 CGP, EPA retains the 2017 CGP definition of âoperator.â EPA had requested comment on modifying the definition of operator to specifically include parties that determine acceptance of work and pay for work performed. Many public comments indicated that such a change was not necessary, and other comments requested additional details be added if the change was made. EPA has some concerns about the effects of changing the definition of operator and that it may become too specific or too prescriptive. The agency has determined, at this time, that the existing definition is broad enough to capture those parties intended to be addressed by the possible change. Due to the highly case-specific nature of construction projects, EPA prefers to rely on the language of the definition alone, rather than including more specific examples in the definition, and to leave the determination of which parties in any particular scenario are functioning as operators to a project-by-project evaluation. However, the 2022 CGP Fact Sheet has been updated to describe examples of the types of 
+                    <PRTPAGE P="3530"/>
+                    decision-making activities that EPA frequently finds equate to operational control within the permit's definition of operator. See Section VI, Part 1.1 of the permit fact sheet.
+                </P>
+                <P>
+                    2. 
+                    <E T="03">Prohibition of dewatering discharges from contaminated sites</E>
+                    âIn the 2022 CGP, EPA includes a clarification that discharges of construction dewatering water must be uncontaminated. In the context of authorized non-stormwater discharges, this means that the discharge meets applicable water quality standards. EPA had proposed that dewatering water discharged from a contaminated site be considered a prohibited discharge under the CGP and had requested comment on whether additional sites should be prohibited from coverage under the permit due to the possibility of discharging dewatering water that is contaminated. Ultimately, EPA decided not to finalize this change based on the compelling public comments received that recommended against this approach and focused on the need for the permit to only authorize those dewatering discharges that are uncontaminated because they meet applicable water quality standards. Additionally, requiring dewatering discharges to be uncontaminated to be authorized under the CGP, as opposed to focusing exclusively on whether the dewatering discharge is extracted from a contaminated site, is consistent with how EPA authorizes other types of non-stormwater discharges that must be uncontaminated.
+                </P>
+                <P>
+                    3. 
+                    <E T="03">Waiting Period for Discharge Authorization</E>
+                    âIn the 2022 CGP, EPA retains the 14-day authorization waiting period from the 2017 CGP. EPA had requested comment on whether to extend the waiting period between the operator's submittal of the NOI and the authorization to discharge from 14 days to 30 days to facilitate review of the site's eligibility related to the protection of endangered or threatened species. Almost all public comments opposed this change, citing that it would cause further delays to already tight construction deadlines. Comments also pointed out that the permit already allows EPA to delay discharge authorization (
+                    <E T="03">i.e.,</E>
+                     putting an NOI âon holdâ) if there are issues or concerns related to the project's discharges or the impact on threatened or endangered species, thereby providing the agency and other federal agencies additional time where needed to review a particular site.
+                </P>
+                <P>
+                    4. 
+                    <E T="03">Stabilization deadlines</E>
+                    âIn the 2022 CGP, EPA retains the stabilization thresholds and deadlines from the 2017 CGP. EPA had requested feedback on whether the 5-acre disturbance threshold for stricter stabilization deadlines has had the intended effect of encouraging the phasing of construction disturbances. Some public comments recommended keeping the requirement as is, while others noted that the incentive of an additional seven days to stabilize is not enough of an incentive to phase disturbances. Other comments suggested alternatives to longer stabilization deadlines, such as increasing the disturbance threshold from 5 acres to 25 acres, requiring a phasing plan instead of a disturbance threshold, or establishing a disturbance threshold based on percentage of total land being developed. EPA had also requested comment on whether there was merit to capping total construction disturbances for all operators at 10 acres at any one time, similar to some state CGPs. EPA received mixed comments that both opposed and supported this approach. EPA did not receive sufficiently consistent feedback to justify making a change to the existing requirement or to remove the requirement entirely at this time. In future permits, EPA will continue to look for opportunities and alternatives to incentivize construction site sequencing.
+                </P>
+                <HD SOURCE="HD1">V. Implementation Assistance</HD>
+                <P>Following issuance of the 2022 CGP, EPA plans to provide further assistance to construction site operators and other interested parties on various aspects of this new permit. The following activities or documents are planned:</P>
+                <P>
+                    1. Final permit webinarâEPA will host a webinar on February 24 at 1:00 p.m. (Eastern Time Zone) that will provide an overview of the 2022 CGP and an opportunity for participants to ask questions. Those interested may register for the webinar at 
+                    <E T="03">https://www.zoomgov.com/webinar/register/WN_DsNwf8dQTzC1pCk0HCyVnQ.</E>
+                     Further details on the webinar, including a post-webinar recording, will be made available at 
+                    <E T="03">https://www.epa.gov/npdes/2022-construction-general-permit-cgp.</E>
+                </P>
+                <P>
+                    2. Updated SWPPP, Inspection Report, and Corrective Action Log templatesâEPA provides the following updated templates that can be used to comply with 2022 CGP requirements: 
+                    <E T="03">Construction Stormwater Pollution Prevention Plan (SWPPP) Template, Inspection Report Template,</E>
+                     and 
+                    <E T="03">Corrective Action Log Template.</E>
+                     EPA has also developed a new 
+                    <E T="03">Dewatering Inspection Report Template</E>
+                     to assist operators in documenting information required for dewatering inspections in Part 4.6.3 of the permit. See 
+                    <E T="03">https://www.epa.gov/npdes/construction-general-permit-resources-tools-and-templates</E>
+                     for more details.
+                </P>
+                <P>
+                    3. eReporting resourcesâEPA plans to update or provide new tutorials and training materials for how to submit forms and data to EPA via NeT-CGP. These materials will be available at the NeT Help Center web page under âEPA CGPâ located at 
+                    <E T="03">https://epanet.zendesk.com/hc/en-us</E>
+                    .
+                </P>
+                <P>4. Small residential lot resourcesâEPA plans to update the Small Residential Lot SWPPP template and guidance brochure to be consistent with the 2022 CGP requirements.</P>
+                <P>
+                    5. Turbidity monitoring guideâEPA has developed a companion guide for the permit's new dewatering inspection and turbidity monitoring requirements. The document, 
+                    <E T="03">Monitoring and Inspection Guide for Construction Dewatering,</E>
+                     is available at 
+                    <E T="03">https://www.epa.gov/npdes/turbidity-benchmark-monitoring-dewatering-under-construction-general-permit.</E>
+                </P>
+                <P>
+                    6. List of Tier 2, 2.5, and 3 watersâEPA has updated the 2017 CGP's list of Tier 2, 2.5, and 3 waters to assist operators in identifying whether their discharge may be subject to additional inspection, stabilization, and dewatering requirements. In past CGPs, this list was maintained as an appendix to the permit, but has been moved to 
+                    <E T="03">https://www.epa.gov/npdes/construction-general-permit-resources-tools-and-templates</E>
+                     so that it is easier to find and update.
+                </P>
+                <P>
+                    7. List of state and tribal water quality standards for turbidityâEPA has established a list of applicable turbidity standards that are currently in effect in the states and tribes, as well as the citations that can be used for the requests. See 
+                    <E T="03">https://www.epa.gov/npdes/turbidity-benchmark-monitoring-dewatering-under-construction-general-permit.</E>
+                </P>
+                <P>
+                    8. Seasonally Dry Period Locator ToolâEPA developed a tool that operators can use to if their construction project site is in an arid or semi-arid area, and if any months out of the year are considered seasonally dry. This is important for operators who may be subject to different inspection and stabilization schedules due to their location. The 
+                    <E T="03">Seasonally Dry Period Locator Tool</E>
+                     can be found at 
+                    <E T="03">https://www.epa.gov/npdes/construction-general-permit-resources-tools-and-templates.</E>
+                </P>
+                <HD SOURCE="HD1">VI. Paperwork Reduction Act (PRA)</HD>
+                <P>
+                    The information collection activities in this permit have been submitted for approval to the Office of Management and Budget (OMB) under the PRA. The 
+                    <PRTPAGE P="3531"/>
+                    Information Collection Request (ICR) document that EPA prepared has been assigned EPA ICR No. 2686.01, OMB Control No. 2040-NEW. You can find a copy of the ICR in the docket for this permit (Docket ID No. EPA-HQ-OW-2021-0169), and it is briefly summarized here.
+                </P>
+                <P>CWA section 402 and the NPDES regulations require collection of information primarily used by permitting authorities, permittees (operators), and EPA to make NPDES permitting decisions. The burden and costs associated with the entire NPDES program are accounted in an approved ICR (EPA ICR number 0229.23, OMB control no. 2040-0004). Certain changes in this permit require revisions to the ICR to reflect changes to the forms and other information collection requirements. EPA is reflecting the paperwork burden and costs associated with this permit in a separate ICR instead of revising the existing ICR for the entire program for administrative reasons.</P>
+                <P>EPA is collecting new information as part of the 2022 CGP. The NOI form was updated from the 2017 CGP to collect new information related to the following: Added one new question related to whether operators will be discharging construction dewatering water during the course of their permit coverage, and, if so, whether the site they are discharging from is a current or former federal or state remediation site; added questions about whether there are other operators who are also covered by the CGP at the same site and, if so, what their NPDES ID numbers are; added a check box for the operator to confirm that any personnel conducting inspections at the site will meet the modified training requirements in Part 6 of the permit; and added clarifying edits to better explain the types of documentation that are needed for several of the eligibility criteria related to endangered and threatened species and edits to provide links to updated available mapping tools to assist operators in determining whether any such species are known to occur in the vicinity of their project.</P>
+                <P>EPA developed new electronic and paper turbidity monitoring forms for operators subject to the Part 3.3 requirements for dewatering discharges to sensitive waters to use in reporting their weekly average turbidity results. This reporting will occur on a quarterly basis until the dewatering discharge has been discontinued.</P>
+                <P>EPA added one check box for operators who are submitting an âNOTâ to confirm that the operator has attached photographs taken to document compliance with the final stabilization requirements pursuant to Part 8.2.1.a.</P>
+                <P>
+                    <E T="03">Respondents/affected entities:</E>
+                     Construction operators in the areas where EPA is the NPDES permitting authority.
+                </P>
+                <P>
+                    <E T="03">Respondent's obligation to respond:</E>
+                     Compliance with the CGP's information collection and reporting requirements is mandatory for CGP operators.
+                </P>
+                <P>
+                    <E T="03">Estimated number of respondents:</E>
+                     EPA estimates that for the duration of the three-year ICR period approximately 7,800 operators will obtain coverage under the 2022 CGP, or 2,600 operators per year.
+                </P>
+                <P>
+                    <E T="03">Frequency of response:</E>
+                     Response frequencies in the 2022 CGP vary from once per permit term to quarterly.
+                </P>
+                <P>
+                    <E T="03">Total estimated burden:</E>
+                     EPA estimates that the information collection burden of the 2022 CGP is 142,511 hours per year. Burden is defined at 5 CFR 1320.3(b).
+                </P>
+                <P>
+                    <E T="03">Total estimated cost:</E>
+                     EPA estimates that the final information collection cost of the 2022 CGP is $9,637,018 per year.
+                </P>
+                <P>An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB control numbers for EPA's regulations in 40 CFR are listed in 40 CFR part 9. EPA responded to ICR-related comments in the Response to Comments document for this final permit.</P>
+                <HD SOURCE="HD1">VII. 2022 CGP Incremental Cost Analysis and Future Cost-Benefit Considerations</HD>
+                <P>
+                    The cost analysis accompanying this final permit monetizes and quantifies certain incremental cost impacts of the final permit changes as compared to the 2017 CGP. EPA analyzed each change in the 2022 CGP considering the previous permit's (
+                    <E T="03">i.e.,</E>
+                     the 2017 CGP) requirements. The objective of this incremental cost analysis is to show where or to what extent the final 2022 CGP requirements impose an incremental increase in administrative and compliance costs (such as the cost to conduct site inspections or to prepare compliance reports) on operators in relation to costs that are already accounted for in the 2017 CGP.
+                </P>
+                <P>More broadly, EPA notes that additional unquantified costs and benefits result from this action. In developing the next CGP (or another NPDES general permit, as appropriate), EPA plans to estimate the broader impacts arising from these actions, including costs and benefits. Estimates under consideration may include: (1) Assessing how costs and benefits are attributed between the CGP and applicable water quality standards (including TMDLs) that may be in effect; (2) developing a new modeling framework to assess how regulated entities understand and implement pollutant controls related to existing and new permit obligations; (3) examining whether any underlying cost and benefit assumptions need to be updated; (4) examining more broadly how EPA can analyze benefits when developing permits; (5) developing more robust approaches to assessing uncertainties associated with the analytic approaches, including how to quantitatively assess uncertainties of key assumptions; and (6) developing a framework to analyze the effect of cooperative federalism.</P>
+                <P>EPA expects the incremental cost impact on entities that will be covered under the 2022 CGP, including small businesses, to be minimal. EPA anticipates the approximate average annual incremental cost increase (compared to the 2017 CGP) will be $1,292 per year for each permitted project, and the total annual incremental cost to be $3,979,000 based on an estimated 3,080 projects per year. A copy of EPA's incremental cost analysis for the final permit, titled âIncremental Cost Impact Analysis for the 2022 Construction General Permit (CGP),â is available in the docket (Docket ID No. EPA-HQ-OW-2021-0169).</P>
+                <HD SOURCE="HD1">VIII. Executive Order 12866: Regulatory Planning and Review and Executive Order 13563: Improving Regulation and Regulatory Review</HD>
+                <P>This action is a significant regulatory action that was submitted to the Office of Management and Budget (OMB) for review. Any changes made in response to OMB recommendations will be documented in the docket for this action (Docket ID No. EPA-HQ-OW-2021-0169).</P>
+                <HD SOURCE="HD1">IX. Executive Order 12898: Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations</HD>
+                <P>
+                    At proposal, EPA made the preliminary determination that this permit will not have disproportionately high and adverse human health or environmental effects on minority or low-income populations because the requirements in the permit apply equally to all construction projects that disturb one or more acres (or are part of a larger common plan of development that disturbs one or more acres) in areas where EPA is the permitting authority, and the erosion and sediment control provisions increase the level of 
+                    <PRTPAGE P="3532"/>
+                    environmental protection for all affected populations over the 2017 CGP. EPA requested comments on this preliminary determination and/or any modifications that EPA should make to the proposed permit to address environmental concerns. EPA received no comments directly applicable to the request for feedback. Therefore, in the absence of comments that contradict the preliminary determination, EPA finds that this action does not have disproportionately high and adverse human health or environmental effects on minority populations, low-income populations and/or indigenous peoples, as specified in Executive Order 12898 (59 FR 7629, February 16, 1994).
+                </P>
+                <HD SOURCE="HD1">X. Executive Order 13175: Consultation and Coordination With Indian Tribal Governments</HD>
+                <P>This action has tribal implications. However, it will neither impose substantial direct compliance costs on federally recognized tribal governments, nor preempt tribal law. With limited exceptions, EPA directly implements the NPDES program in Indian country as no tribe has yet obtained EPA authorization to administer the NPDES program. As a result, almost all eligible facilities with stormwater discharges from construction activities in Indian country fall under EPA's CGP or may be covered under an individual NPDES permit issued by EPA.</P>
+                <P>EPA consulted with tribal officials under EPA's Policy on Consultation and Coordination with Indian Tribes early in the process of developing this permit to have meaningful and timely input into its development to gain an understanding of and, where necessary, to address the tribal implications of the permit. During this consultation, EPA conducted the following activities:</P>
+                <P>â¢ August 13, 2020âEPA initiated a tribal consultation and coordination process for this action by sending a âNotice of Consultation and Coordinationâ letter to all 573 federally recognized tribes. The letter invited tribal leaders and designated consultation representative(s) to participate in the tribal consultation and coordination process. The consultation period was from August 13, 2020 to October 27, 2020.</P>
+                <P>â¢ September 9, 2020âEPA participated in the National Tribal Water Council monthly conference call and received written comments in response.</P>
+                <P>â¢ September 16, 2020âEPA led an informational webinar to provide an overview of the 2017 CGP and information regarding the ongoing consultation to the National Tribal Caucus. A total of 34 tribal representatives attended.</P>
+                <P>â¢ June 24, 2021âEPA hosted an information webinar for tribal representatives on the proposed 2022 CGP. A total of 41 participants attended.</P>
+                <P>
+                    EPA received comments providing input from tribes. These comments are described in EPA's tribal consultation summary, which is can be accessed at 
+                    <E T="03">https://www.epa.gov/dockets</E>
+                     in the docket for this permit (refer to Docket ID No. EPA-HQ-OW-2021-0169). In addition, EPA received comments during the September 16, 2020 informational webinar and a September 9, 2020 National Tribal Water Council monthly conference call with EPA staff. EPA also received comments on the proposed permit, which the agency considered as part of the finalization of this permit. EPA's responses to comments can be found 
+                    <E T="03">https://www.epa.gov/dockets</E>
+                     in the docket for this permit (refer to Docket ID No. EPA-HQ-OW-2021-0169).
+                </P>
+                <P>EPA also notes that as part of the finalization of this permit, the agency completed the Section 401 certification procedures with all applicable tribes where this permit applies (see Appendix B). EPA hosted two CWA Section 401 pre-filing meetings for tribes on the proposed 2022 CGP prior to requesting CWA Section 401 certification, as required. These meetings provided certifying tribes an opportunity to meet with EPA about the proposed permit before completing their certification. For the first meeting on June 3, 2021, there were 20 tribal representatives who signed up to participate, and for the second meeting on June 17, 2021 there were 24 representatives who signed up. EPA plans to provide email notification to all tribes of the final 2022 CGP.</P>
+                <P>As required by section 7(a) of the Executive Order, the EPA's Tribal Consultation Official has certified that the requirements of the executive order have been met in a meaningful and timely manner. A copy of the certification is included in the docket for this action.</P>
+                <HD SOURCE="HD1">XI. Executive Order 13211: Actions That Significantly Affect Energy Supply, Distribution, or Use</HD>
+                <P>This action is not a âsignificant energy actionâ because it is not likely to have a significant adverse effect on the supply, distribution or use of energy. This is a renewal of a stormwater discharge permit for construction sites and was submitted to OMB for review.</P>
+                <P>
+                    <E T="03">Authority:</E>
+                     Clean Water Act, 33 U.S.C. 1251 
+                    <E T="03">et seq.</E>
+                </P>
+                <SIG>
+                    <NAME>Deborah Szaro,</NAME>
+                    <TITLE>Acting Regional Administrator, EPA Region 1.</TITLE>
+                    <NAME>Javier Laureano,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 2.</TITLE>
+                    <NAME>Carmen Guerrero-Perez,</NAME>
+                    <TITLE>Director, Caribbean Environmental Protection Division, EPA Region 2.</TITLE>
+                    <NAME>Catherine A. Libertz,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 3.</TITLE>
+                    <NAME>Jeaneanne Gettle,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 4.</TITLE>
+                    <NAME>Tera Fong,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 5.</TITLE>
+                    <NAME>Charles W. Maguire,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 6.</TITLE>
+                    <NAME>Jeffery Robichaud,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 7.</TITLE>
+                    <NAME>Darcy O'Connor,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 8.</TITLE>
+                    <NAME>TomÃ¡s Torres,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 9.</TITLE>
+                    <NAME>Daniel D. Opalski,</NAME>
+                    <TITLE>Director, Water Division, EPA Region 10.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2022-01258 Filed 1-21-22; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6560-50-P</BILCOD>
+        </NOTICE>

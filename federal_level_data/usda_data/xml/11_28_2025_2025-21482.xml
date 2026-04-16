@@ -1,0 +1,1622 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="54523"/>
+                <AGENCY TYPE="F">DEPARTMENT OF AGRICULTURE</AGENCY>
+                <SUBAGY>Federal Crop Insurance Corporation</SUBAGY>
+                <CFR>7 CFR Parts 400, 407, and 457</CFR>
+                <DEPDOC>[Docket ID FCIC-25-0068]</DEPDOC>
+                <RIN>RIN 0563-AC89</RIN>
+                <SUBJECT>Expanding Access to Risk Protection (EARP)</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Federal Crop Insurance Corporation, U.S. Department of Agriculture (USDA).</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule with request for comments.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Federal Crop Insurance Corporation (FCIC) is amending its regulations to implement changes required by the One Big Beautiful Bill Act and to update, streamline, and clarify several crop insurance policies. The changes include clarifying the harvest price methodology, deregulating regionalized program dates and moving that information to the Special Provisions, removing regulatory barriers to direct marketing, incorporating quality adjustment and claims processes, updating FCIC contact information used to request interpretations of policy, and making plain language clarifications and corrections to Subpart XâInterpretations of Statutory Provisions, Policy Provisions, and Procedures; the Area Risk Protection Insurance, Basic Provisions; the Common Crop Insurance Policy, Basic Provisions; and several Crop Provisions. In addition, the changes include removing buy-up coverage for prevented planting in the crop insurance program. The changes will be effective for the 2026 and succeeding crop years for crops with a contract change date on or after November 30, 2025. For all other crops, the changes to the policies made in this rule are applicable for the 2027 and succeeding crop years.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P/>
+                    <P>
+                        <E T="03">Effective date:</E>
+                         This final rule is effective November 30, 2025.
+                    </P>
+                    <P>
+                        <E T="03">Comment Date:</E>
+                         FCIC will accept comments on this rule until close of business January 27, 2026. FCIC may consider the comments received and may conduct additional rulemaking based on the comments.
+                    </P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>We invite you to submit comments on this rule. You may submit comments by going through the Federal eRulemaking Portal as follows:</P>
+                    <P>
+                        â¢ 
+                        <E T="03">Federal eRulemaking Portal:</E>
+                         Go to 
+                        <E T="03">https://www.regulations.gov</E>
+                         and search for Docket ID FCIC-25-0068. Follow the instructions for submitting comments.
+                    </P>
+                    <P>
+                        All comments received will be posted without change and will be publicly available on 
+                        <E T="03">https://www.regulations.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Chandra Place; telephone: (816) 926-3875; email: 
+                        <E T="03">chandra.place@usda.gov.</E>
+                         Individuals with disabilities who require alternative means for communication should contact the USDA Target Center at (202) 720-2600 (voice and text telephone (TTY mode)) or dial 711 for Telecommunications Relay Service (both voice and text telephone users can initiate this call from any telephone).
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Background</FP>
+                    <FP SOURCE="FP-2">II. Basic Provisions Changes: Area Risk Protection Insurance (ARPI) and Common Crop Insurance Policy (CCIP)</FP>
+                    <FP SOURCE="FP1-2">A. One Big Beautiful Bill Act Implementation</FP>
+                    <FP SOURCE="FP1-2">B. Harvest Prices for Revenue Protection</FP>
+                    <FP SOURCE="FP1-2">C. Production Reporting When the AIP Is Changing</FP>
+                    <FP SOURCE="FP1-2">D. Reducing Administrative Burden Regarding Prevented Planting</FP>
+                    <FP SOURCE="FP1-2">E. Written Agreement Deadline Clarification</FP>
+                    <FP SOURCE="FP1-2">F. Unit Eligibility Clarification</FP>
+                    <FP SOURCE="FP1-2">G. Definitions</FP>
+                    <FP SOURCE="FP1-2">H. Duplicative Provisions</FP>
+                    <FP SOURCE="FP-2">III. Dispute Resolution Changes: Subpart XâInterpretations of Statutory Provisions, Policy Provisions, and Procedures; Area Risk Protection Insurance (ARPI), Basic Provisions; and Common Crop Insurance Policy (CCIP), Basic Provisions</FP>
+                    <FP SOURCE="FP-2">IV. Crop Provisions Changes</FP>
+                    <FP SOURCE="FP1-2">A. Deregulating Dates</FP>
+                    <FP SOURCE="FP1-2">B. Direct Marketing</FP>
+                    <FP SOURCE="FP1-2">C. Cotton</FP>
+                    <FP SOURCE="FP1-2">D. Sugar Beets</FP>
+                    <FP SOURCE="FP1-2">E. Safflower</FP>
+                    <FP SOURCE="FP1-2">F. Fresh Market Tomatoes Guaranteed Production Plan</FP>
+                    <FP SOURCE="FP1-2">G. Green Pea</FP>
+                    <FP SOURCE="FP1-2">H. Fresh Market Tomato Dollar Plan</FP>
+                    <FP SOURCE="FP1-2">I. Fresh Market Pepper</FP>
+                    <FP SOURCE="FP1-2">J. Forage Seeding</FP>
+                    <FP SOURCE="FP1-2">K. Canola and Rapeseed</FP>
+                    <FP SOURCE="FP-2">V. Clarifications and Corrections</FP>
+                    <FP SOURCE="FP-2">VI. Removal of Buy-Up Coverage on Prevented Planting</FP>
+                    <FP SOURCE="FP-2">VII. Regulatory Analyses</FP>
+                    <FP SOURCE="FP1-2">A. Notice and Comment and Effective Date</FP>
+                    <FP SOURCE="FP1-2">B. Executive Orders 12866, 13563, and 14192</FP>
+                    <FP SOURCE="FP1-2">C. Environmental Review</FP>
+                    <FP SOURCE="FP1-2">D. Executive Order 13175</FP>
+                    <FP SOURCE="FP1-2">E. Unfunded Mandates Reform Act</FP>
+                    <FP SOURCE="FP1-2">F. Paperwork Reduction Act Requirements</FP>
+                    <FP SOURCE="FP1-2">G. E-Government Act Compliance</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Background</HD>
+                <P>FCIC serves America's agricultural producers through effective, market-based risk management tools to strengthen the economic stability of agricultural producers and rural communities. FCIC is committed to increasing the availability and effectiveness of Federal crop insurance as a risk management tool. Approved Insurance Providers (AIPs) sell and service Federal crop insurance policies in every state through a public-private partnership. FCIC reinsures the AIPs who share the risks associated with catastrophic losses. FCIC's vision is to secure the future of agriculture by providing world-class risk management tools to rural America.</P>
+                <P>Federal crop insurance policies typically consist of the Basic Provisions, the Crop Provisions, the Special Provisions, the Commodity Exchange Price Provisions (CEPP), if applicable, other applicable endorsements or options, the actuarial documents for the insured agricultural commodity, the Catastrophic Risk Protection Endorsement, if applicable, and the applicable regulations published in 7 CFR chapter IV.</P>
+                <P>
+                    The Basic Provisions provide underlying policy terms and conditions applicable to many insurable commodities. Specifically, the Area Risk Protection Insurance (ARPI) Basic Provisions apply to policies with area-based coverage, typically established at the county level, and the Common Crop Insurance Policy (CCIP) Basic Provisions apply to policies that provide individualized coverage. Where the terms and conditions are the same, FCIC changes both the ARPI and CCIP Basic Provisions in this rule. The Crop Provisions identify which Basic 
+                    <PRTPAGE P="54524"/>
+                    Provisions are applicable and establish specific provisions of insurance for each insurable commodity. The Special Provisions and actuarial documents establish county-level provisions for each insurable commodity. Administrative regulations published in 7 CFR chapter IV apply to the entire Federal Crop Insurance Program. Subpart X is the administrative regulation that provides a mechanism for requesting interpretations of crop insurance policies and procedures.
+                </P>
+                <P>FCIC is amending the following regulations:</P>
+                <P>â¢ Subpart XâInterpretations of Statutory Provisions, Policy Provisions, and Procedures (7 CFR 400.765-768);</P>
+                <P>â¢ Area Risk Protection Insurance Regulations (7 CFR part 407);</P>
+                <P>â¢ Common Crop Insurance Regulations (7 CFR part 457);</P>
+                <P>â¢ Cotton crop insurance provisions (7 CFR 457.104);</P>
+                <P>â¢ Sugar beet crop insurance provisions (7 CFR 457.109);</P>
+                <P>â¢ Safflower crop insurance provisions (7 CFR 457.125);</P>
+                <P>â¢ Guaranteed production plan of fresh market tomato crop insurance provisions (7 CFR 457.128);</P>
+                <P>â¢ Green pea crop insurance provisions (7 CFR 457.137);</P>
+                <P>â¢ Fresh market tomato (dollar plan) crop insurance provisions (7 CFR 457.139);</P>
+                <P>â¢ Fresh market pepper crop insurance provisions (7 CFR 457.148);</P>
+                <P>â¢ Forage seeding crop insurance provisions (7 CFR 457.151); and</P>
+                <P>â¢ Canola and rapeseed crop insurance provisions (7 CFR 457.161).</P>
+                <P>Definitions specific to Subpart X are located in 7 CFR 400.765, definitions specific to the ARPI Basic Provisions and corresponding Crop Provisions are located in 7 CFR 407.9, and definitions specific to the CCIP Basic Provisions and corresponding Crop Provisions are located in 7 CFR 457.8. Throughout this rule, the terms âCrop Provisions,â âSpecial Provisions,â and âpolicyâ are used as defined in the CCIP Basic Provisions in 7 CFR 457.8.</P>
+                <P>The changes to crop insurance policies resulting from the amendments in this rule are applicable for the 2026 and succeeding crop years for crops with a contract change date on or after November 30, 2025. For all other crops, the changes to the crop insurance policies resulting from the amendments in this rule are applicable for the 2027 and succeeding crop years.</P>
+                <HD SOURCE="HD1">II. Basic Provisions Changes: Area Risk Protection Insurance (ARPI) and Common Crop Insurance Policy (CCIP)</HD>
+                <P>The changes to the Basic Provisions are described below, with important changes impacting both the ARPI and CCIP Basic Provisions discussed first, followed by changes impacting only the CCIP Basic Provisions, and clarifications and corrections last.</P>
+                <HD SOURCE="HD2">A. One Big Beautiful Bill Act Implementation</HD>
+                <P>On July 4, 2025, President Trump signed into law H.R. 1 (Pub. L. 119-21), also known as the One Big Beautiful Bill Act (OBBBA). FCIC is amending the Area Risk Protection Insurance Regulations (7 CFR 407) by revising the ARPI Basic Provisions as shown in 7 CFR 407.9 and the Common Crop Insurance Regulations (7 CFR part 457) by revising the CCIP Basic Provisions as shown in 7 CFR 457.8, to implement changes to the Federal Crop Insurance Act made by OBBBA. These changes to the Federal Crop Insurance Act include expanding benefits for beginning farmers and ranchers. The Risk Management Agency (RMA) is also implementing section 10501 (Beginning Farmer and Rancher Benefit) of OBBBA in Manager's Bulletin MGR-25-006 with an amendment to the CCIP and ARPI Basic Provisions.</P>
+                <P>For up to 10 crop years, beginning farmers or ranchers will receive an additional 5 percentage point premium subsidy for the first two crop years, an additional 3 percentage point premium subsidy the third crop year, and an additional 1 percentage point premium subsidy the fourth crop year. Thus, when considering the existing beginning farmer or rancher benefits as well as the additional beginning farmer or rancher benefits provided by OBBBA, beginning farmers or ranchers will be eligible to receive a total additional premium subsidy of 15 percentage points in the first two crop years, 13 percentage points in the third crop year, 11 percentage points in the fourth crop year, and 10 percentage points in the fifth through tenth crop years, as opposed to receiving a flat 10 percentage points of additional premium subsidy for 5 years under previous policy.</P>
+                <P>In this rule, FCIC is revising the definition of âbeginning farmer or rancherâ in section 1 of the CCIP Basic Provisions and section 1 of the ARPI Basic Provisions to increase the eligibility period of a beginning farmer or rancher who has not actively operated and managed a farm or ranch in any State, with an insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper, from 5 crop years to 10 crop years. FCIC is also revising section 7(h) of the ARPI Basic Provisions and 7(g) of the CCIP Basic Provisions to add the descriptive heading, âAdditional premium subsidyâ.</P>
+                <HD SOURCE="HD2">B. Harvest Prices for Revenue Protection</HD>
+                <P>FCIC is amending the Area Risk Protection Insurance Regulations (7 CFR 407) by revising the ARPI Basic Provisions as shown in 7 CFR 407.9 and the Common Crop Insurance Regulations (7 CFR part 457) by revising the CCIP Basic Provisions as shown in 7 CFR 457.8, to clarify that for revenue protection coverage, the harvest price will be set equal to the projected price when data are not available to follow the approved methodology. Projected price and harvest price are defined in section 1 of the ARPI Basic Provisions and section 1 of the CCIP Basic Provisions, and they are determined in accordance with the CEPP.</P>
+                <P>With revenue protection coverage, a policyholder is eligible for an indemnity payment when there is a revenue loss, such as when the harvest price is less than the projected price (minus the applicable deductible). The projected price is typically established prior to the growing season with data available before planting begins and the harvest price is established during the harvest and delivery period. The approved methodology and data sources for determining the projected and harvest prices are included in the policy (specifically, in the CEPP) provided to producers prior to their deadline for purchasing insurance, so producers can make informed decisions about their coverage. The policy previously specified that if the harvest price cannot be calculated according to the CEPP, the harvest price âwill be determined and announced by FCIC.â This phrase did not provide producers with advance notice about how the harvest price would be determined if the price cannot be calculated following the approved methodology.</P>
+                <P>
+                    In this rule, FCIC is establishing in section 12(d) of the ARPI Basic Provisions and section 3(c)(5)(ii) of the CCIP Basic Provisions that, if data are not available to follow the approved methodology, the harvest price will be set equal to the projected price, essentially removing revenue coverage, and the policyholder's premium will be updated and refunded, as applicable, as if they had purchased yield protection. With these changes, producers will have assurance that they will receive the protection they pay for, even if data do not support revenue coverage at the time of harvest.
+                    <PRTPAGE P="54525"/>
+                </P>
+                <HD SOURCE="HD2">C. Production Reporting When the AIP Is Changing</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising the CCIP Basic Provisions as shown in 7 CFR 457.8, in section 3(f)(1)(ii) to add an exception so that policyholders who transfer their policy to a new AIP for the upcoming year do not need to provide end of year production reporting to the current (and soon-to-be prior) AIP if they do not have a claim. This change provides procedural relief made at the request of stakeholders. Previously, the policy required the policyholder to report their current crop year's production to their current AIP, even if they had transferred their policy to a new AIP for the upcoming year. Concerns were raised that once a policyholder initiates a transfer to a new AIP, both the policyholder and current AIP would prefer to end the business relationship and allow the new AIP to be responsible for administering the production report. Undoing the requirement to continue to report to the current AIP prevents against potential retribution by the Agent the producer has severed ties with. This change to allow policyholders to revert to reporting prior year production information to the new AIP only and not requiring the new AIP to provide production information to the ceding AIP was developed to address concerns and feedback from AIPs, agents, and policyholders in multiple conferences, meetings, and individual requests for relief. This is an added protection for the producer participating in crop insurance. Production reporting for claims purposes and any audit is unchanged and will continue with the current (and soon-to-be prior) AIP for the current year.</P>
+                <HD SOURCE="HD2">D. Reducing Administrative Burden Regarding Prevented Planting</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising the CCIP Basic Provisions as shown in 7 CFR 457.8 to remove an overly burdensome administrative requirement to verify that the acreage was insured in the past based on the â1 in 4â rule regarding prevented planting payments.</P>
+                <P>For a policyholder to be eligible for a prevented planting payment, the CCIP Basic Provisions require that the acreage must be physically available for planting. The â1 in 4â rule is one part of the eligibility requirement to prove that the acreage is physically available for planting. Previously, the â1 in 4â rule required that in at least 1 out of the previous 4 years the acreage must have been:</P>
+                <P>1. Planted to a crop;</P>
+                <P>2. Insured; and</P>
+                <P>3. Harvested, or if not harvested, adjusted for claim purposes due to an insured cause of loss (other than a cause of loss related to flood, excess moisture, drought, or other cause of loss specified in the Special Provisions).</P>
+                <P>The specific requirement that the acreage had been âinsuredâ presented substantial challenges to AIPs and producers. If the same operator maintains control of the acreage, proving insurance history on the acreage was relatively simple. However, it was difficult to prove that the acreage had been insured for beginning farmers or ranchers or in any case where the operator for the acreage changed in the previous 4 years.</P>
+                <P>FCIC is removing the requirement that the acreage had been insured in section 17(f)(8)(i)(E)(2) and 17(f)(8)(ii) of the CCIP Basic Provisions to relieve producers and AIPs of the administrative burden of verifying insurance history while maintaining program integrity by continuing verification of planted and harvested history. All other eligibility requirements to prove that the acreage is physically available for planting remain the same.</P>
+                <HD SOURCE="HD2">E. Written Agreement Deadline Clarification</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising the CCIP Basic Provisions as shown in 7 CFR 457.8, to clarify the deadline for submitting written agreement requests for insuring a crop in a county that does not currently offer the policy (often known as an XC written agreement). Typically, the deadline for submitting written agreement requests is the cancellation date for the crop policy being requested. In counties where the crop policy is not available, the cancellation date is not always known or as appropriate as it might be due to agronomic differences across locations. Prior to this rule, the CCIP Basic Provisions were confusing and unnecessarily restrictive in terms of what crops could be used as a proxy. For example, if the Crop Provisions specify a cancellation date for âall other states,â that cancellation date may not be appropriate for the crop in the county requested by the written agreement. The same crop in a nearby state could be a better proxy for the deadline.</P>
+                <P>FCIC is clarifying that section 18(e)(2)(ii) of the CCIP Basic Provisions applies when neither the Crop Provisions, nor the Special Provisions, provide a cancellation date for the county. FCIC is also clarifying that the cancellation date for the requested crop or other insurable crops with similar agronomic conditions may be used as the written agreement deadline, regardless of whether that crop is located in the same state.</P>
+                <HD SOURCE="HD2">F. Unit Eligibility Clarification</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising the CCIP Basic Provisions as shown in 7 CFR 457.8, to clarify enterprise unit eligibility in section 34(a)(2)(i) and (ii) and to add the descriptive heading, âWhole Farm Unitâ to 34(a)(3) of the CCIP Basic Provisions. Previously, the CCIP Basic Provisions stated that the acreage was eligible for enterprise units if the criteria establishing âthe basis forâ optional units were met (for example, the acreage was located in two or more sections, if âsections are the basis for optional unitsâ). Use of the phrase âbasis forâ could be inferred to mean that the policyholder had to elect optional units based on that criteria, which is an incorrect interpretation. In order to be used for enterprise unit eligibility, optional units must only be âavailable byâ that criteria.</P>
+                <P>FCIC is revising the CCIP Basic Provisions so that the regulation uses consistent language with the Crop Insurance Handbook to avoid any potential confusion regarding âthe basisâ for a requirement to have optional units established in order to qualify for enterprise units, when actually the policyholder is only required to have optional units available to qualify for enterprise units. This rule confirms a clarification that FCIC previously issued in the FCIC 18010 Crop Insurance Handbook, which states that the eligibility for enterprise units relies upon the availability of optional units where the insured acreage is located.</P>
+                <HD SOURCE="HD2">G. Definitions</HD>
+                <P>FCIC is amending the Area Risk Protection Insurance Regulations (7 CFR 407) by revising the ARPI Basic Provisions as shown in 7 CFR 407.9 and the Common Crop Insurance Regulations (7 CFR part 457) by revising the CCIP Basic Provisions as shown in 7 CFR 457.8, to clarify and add definitions.</P>
+                <P>
+                    FCIC is clarifying the definition of âapplicationâ in section 1 of the CCIP Basic Provisions by moving cancellation and termination requirements to section 2 (Life of Policy, Cancellation, and Termination). Previously, the definition of âapplicationâ in section 1 of the CCIP 
+                    <PRTPAGE P="54526"/>
+                    Basic Provisions included requirements for submitting a new application when a policy is cancelled or terminated. These requirements are more appropriately included in section 2(f)(4) of the CCIP Basic Provisions to match how the requirements are specified in the equivalent section of the ARPI Basic Provisions. Relocating the requirements provides greater clarity and transparency, while the requirements remain unchanged.
+                </P>
+                <P>FCIC is clarifying the definition of âcancellation dateâ in section 1 of the CCIP Basic Provisions and section 1 of the ARPI Basic Provisions. Prior to this rule, the definition of âcancellation dateâ only indicated that termination was a reason that a policy would not continue for a subsequent year. FCIC is amending the definition to add the term âor voidedâ to show that voidance is also a reason that a policy would not automatically continue for a subsequent year. Additional information on cancellation and termination is available in section 2 of the ARPI Basic Provisions in 7 CFR 407.9 and section 2 of the CCIP Basic Provisions in 7 CFR 457.8.</P>
+                <P>FCIC is adding definitions for âcancellationâ and âterminationâ in section 1 of the ARPI Basic Provisions in 7 CFR 407.9 and section 1 of the CCIP Basic Provisions in 7 CFR 457.8 to provide a clear definition of the words used throughout the regulations. âVoidâ is already defined in Section 1 of the ARPI Basic Provisions in 7 CFR 407.9 and section 1 of the CCIP Basic Provisions in 7 CFR 457.8.</P>
+                <HD SOURCE="HD2">H. Duplicative Provisions</HD>
+                <P>FCIC is amending the Area Risk Protection Insurance Regulations (7 CFR 407) and the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 407.2 and 7 CFR 457.2 to remove duplicative provisions. Specifically, FCIC is removing paragraph (d) from 407.2 and paragraph (d) from 457.2 and redesignating subsequent paragraphs in both parts. Both removed paragraphs included requirements and instructions on which policy remains active and which policy is void if duplicate policies are found. Provisions addressing duplicate policies were already included in 18(b) of the ARPI Basic Provisions and section 22(a) of the CCIP Basic Provisions. The duplicative language is unnecessary and therefore removed from 7 CFR 407.2 and 7 CFR 457.2.</P>
+                <HD SOURCE="HD1">III. Dispute Resolution Changes: Subpart XâInterpretations of Statutory Provisions, Policy Provisions, and Procedures; Area Risk Protection Insurance (ARPI), Basic Provisions; and Common Crop Insurance Policy (CCIP), Basic Provisions</HD>
+                <P>FCIC is amending Subpart XâInterpretations of Statutory Provisions, Policy Provisions, and Procedures (7 CFR 400.765-768); Area Risk Protection Insurance Regulations (7 CFR 407) by revising the ARPI Basic Provisions as shown in 7 CFR 407.9; and the Common Crop Insurance Regulations (7 CFR part 457) by revising the CCIP Basic Provisions as shown in 7 CFR 457.8, to clarify what happens if an FCIC interpretation or final agency determination is not requested or followed during a dispute.</P>
+                <P>In accordance with Executive Order 14192, Unleashing Prosperity Through Deregulation, this rule reduces regulatory and administrative burdens during dispute resolution between policyholders and AIPs by clarifying FCIC's role and removing ambiguity about the Federal Arbitration Act (FAA) (9 U.S.C. 10 and 11).</P>
+                <P>The Federal Crop Insurance Act requires FCIC to interpret Federal crop insurance policy provisions (7 U.S.C. 1506(r)). Subpart X establishes FCIC's requirements for the public to request such interpretations and FCIC's process for responding to such requests in the form of a âfinal agency determinationâ for codified provisions or an âFCIC interpretationâ for non-codified provisions. These terms are defined in 7 CFR 400.765.</P>
+                <P>The âautomatic nullificationâ rule contained in Subpart X exceeds the statutory authority provided in the Federal Crop Insurance Act and places FCIC in the role of overruling arbitration awards if either the policyholder or AIP believes that the arbitrator or judge did not adhere to FCIC's interpretation in their decision. While the Basic Provisions allow an aggrieved party to seek nullification of a failed arbitration, the FAA provides the sole statutory framework for vacating arbitration awards. The FAA authority is usurped, and finality of arbitration is compromised, when parties can use the policy interpretation process to nullify awards with the automatic nullification rule. Rescinding the âautomatic nullificationâ rule reduces administrative and regulatory obstacles to policyholders and their AIPs in finalizing a dispute through the courts. Therefore, in 7 CFR 400.766 and 400.767, sections 20(a) and (c) of the CCIP Basic Provisions, and section 23(d) of the ARPI Basic Provisions, FCIC is revising the provisions so that arbitration awards can only be challenged in accordance with the FAA. In addition, FCIC is clarifying the authority of the arbitrator. An arbitrator does not have the authority to interpret the policy or FCIC procedure. Further, an arbitrator does not have the authority to disregard or fail to comply with an FCIC interpretation or final agency determination issued in accordance with 7 CFR part 400, subpart X.</P>
+                <P>In addition, FCIC is adding a definition of âFAAâ in the ARPI Basic Provisions and CCIP Basic Provisions and updating the ways to submit a request for a final agency determination and FCIC interpretations by revising the mailing address and deleting the facsimile number in 7 CFR 400.767.</P>
+                <HD SOURCE="HD1">IV. Crop Provisions Changes</HD>
+                <P>FCIC is amending several Crop Provisions as described in the sections below. For specific changes that FCIC is making in more than one Crop Provision, the context and justification for the change is provided under a descriptive sub-heading for that change. Under each Crop Provision where the change appears, FCIC lists the descriptive sub-heading. For changes that FCIC is making in a single Crop Provision, the change is described only under its respective Crop Provision sub-heading.</P>
+                <HD SOURCE="HD2">A. Deregulating Dates</HD>
+                <P>
+                    FCIC is amending certain Crop Provisions to relocate contract change dates, end of insurance period (EOIP) dates, cancellation dates, and termination dates to the Special Provisions in cases where there are regional differences in insurance coverage across the country. The Special Provisions are the part of the policy that provide county-level policy provisions, compared to the Crop Provisions which are generalized for the crop anywhere it is grown and insured. These dates are already published in the Special Provisions for each crop and county where insurance is available. Maintaining a separate list of these dates in the regulations is duplicative and can be error-prone. Maintaining these dates only in the Special Provisions allows FCIC to be more responsive and efficient to regional changes in agronomic conditions, technology, or production practices that justify localized date changes specific to an insurable county. Special Provisions are located on the RMA website, and policyholders also receive the Special Provisions for their county with their policy. This change will make it easier for policyholders to 
+                    <PRTPAGE P="54527"/>
+                    quickly find relevant dates in the Special Provisions without having to sort through program dates that are irrelevant to their county.
+                </P>
+                <HD SOURCE="HD2">B. Direct Marketing</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.139, Fresh Market Tomato (Dollar Plan) Crop Insurance Provisions and 7 CFR 457.148, Fresh Market Pepper Crop Insurance Provisions to allow direct marketing.</P>
+                <P>This change removes barriers to crop insurance for specialty crop producers who directly market their crops. FCIC conducted a review of specialty crops to identify any crop insurance restrictions on producers' ability to engage in direct marketing. Restrictions were identified for two specialty crops, fresh market tomatoes and fresh market peppers, where the Crop Provisions prohibited insurance for these two commodities if producers sell them directly to consumers.</P>
+                <P>FCIC is revising the Crop Provisions to allow Special Provisions authorizing insurance in certain locations for fresh market tomatoes and peppers sold directly to consumers. This change allows FCIC to assess local market conditions to identify specific areas where insurance could be offered in the future for tomatoes and peppers sold for direct marketing.</P>
+                <HD SOURCE="HD2">C. Cotton</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.104, Cotton Crop Insurance Provisions, to move cancellation dates, termination dates, and EOIP dates to the Special Provisions, as explained in the âDeregulating Datesâ paragraph above, and to incorporate a Special Provisions statement regarding quality adjustment into section 10 (Settlement of Claim) of the Crop Provisions. This rule does not change the quality adjustment or claims process that has been in place since the 2018 crop year, but rather, moves the quality adjustment calculation to the Crop Provisions.</P>
+                <P>Adverse weather conditions impacting cotton producers in the Southeast in 2015 and 2016 resulted in complaints that FCIC's cotton quality adjustment did not meet the needs of producers. This led to a request for FCIC to consider alternative methods for adjusting poor quality cotton, and in response, FCIC examined data and quality loss procedures in other existing policies with similar quality adjustment provisions to determine an appropriate change. Working with grower groups, FCIC considered alternatives and increased the 85 percent price threshold (as described in section 10(d)(1)-(3)) to 90 percent and removed the 85 percent deductible. FCIC implemented this change using Special Provisions for the 2018 crop year and this rule incorporates the change into the Crop Provisions, minimizing the need to include the information in multiple locations.</P>
+                <P>FCIC is also making the following corrections and clarifications in the Cotton Crop Provisions (7 CFR 457.104):</P>
+                <P>â¢ Removing the phrase âfor determining indemnitiesâ from the section heading for section 2. The section heading will now read âInsurance Guarantees, Coverage, Levels, and Prices.â The new section heading is more accurate because insurance guarantees, coverage levels, and prices are not exclusively used for determining indemnities. This change is also consistent with section headings of the same name in other Crop Provisions;</P>
+                <P>â¢ Correcting the misspelling of the word âmeasuresâ in section 8(d); and</P>
+                <P>â¢ Replacing the word âsubsectionâ with âsectionâ in section 10(c)(1)(iii).</P>
+                <HD SOURCE="HD2">D. Sugar Beets</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.109, Sugar Beet Crop Insurance Provisions to move the cancellation and termination dates to the Special Provisions, as explained in the âDeregulating Datesâ paragraph above, and to make the following corrections and clarifications:</P>
+                <P>â¢ Removing the definition of âcrop yearâ from the Crop Provisions because it is duplicative of the same definition in the CCIP Basic Provisions;</P>
+                <P>â¢ Correcting paragraph references in section 2 and 14(c); and</P>
+                <P>â¢ Correcting the limit on adjusted production to apply to the applicable Actual Production History (APH) database when the early harvest adjustment option is elected by the policyholder. The early harvest adjustment has a cap (or limit) on the amount the yield may be increased that is designed to ensure that policyholders' APH guarantees are not inflated. Previously, section 18(b)(5) based the limit on the approved yield for the unit. For sugar beets, the unit is the insurable acreage of the sugar beets used to establish the production guarantee, premium, and indemnity. However, units are not the appropriate basis for the yield limit, because a single approved yield may not be calculated for a unit, which may contain multiple types and practices. The most appropriate methodology for establishing the limit is the approved yield from the applicable APH database for each insurable type and practice. FCIC previously issued a procedural correction revising the yield limit to use the applicable APH database. FCIC is revising the Crop Provisions to align with the procedural correction.</P>
+                <HD SOURCE="HD2">E. Safflower</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.125, Safflower Crop Insurance Provisions by moving the contract change date from December 31 to November 30 in section 3 to match other spring crops to improve administrative efficiency for AIPs, agents, and the FCIC.</P>
+                <P>As explained in the âDeregulating Datesâ paragraph above, FCIC is moving cancellation and termination dates to the Special Provisions.</P>
+                <P>FCIC added an example immediately following section 11(b) in the Settlement of Claim section to show how an indemnity is calculated to be consistent with other Crop Provisions.</P>
+                <P>FCIC is also making the following corrections and clarifications in the Safflower Crop Insurance Provisions (7 CFR 457.125):</P>
+                <P>â¢ Removing the definition of ânurse crop (companion crop)â in section 1 as this term is not used in the Crop Provisions;</P>
+                <P>â¢ Replacing the phrase âagree in writingâ in section 6(a) with the defined term âwritten agreement.â âWritten agreementâ is specifically defined in the CCIP Basic Provisions. The use of âagree in writingâ was intended to mean that the producer must have a written agreement;</P>
+                <P>â¢ Removing a duplicate listing of replanting payment factors from section 9(b). The replant payment factors are also included in the policy in the actuarial documents. Keeping the replanting payment factors in the actuarial documents, without duplicating the factors in the regulation, improves administrative efficiency and reduces errors in updating the payment factors in the future; and</P>
+                <P>â¢ Removing section 11(d)(3)(ii) and renumbering subsequent paragraphs as there was a Special Provisions statement excluding this provision, making it obsolete. Upon removing 11(d)(3)(ii), that portion of the Special Provisions statement will also be removed.</P>
+                <HD SOURCE="HD2">F. Fresh Market Tomatoes Guaranteed Production Plan</HD>
+                <P>
+                    FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.128, Guaranteed Production Plan of Fresh Market Tomato Crop Insurance Provisions to 
+                    <PRTPAGE P="54528"/>
+                    move the cancellation dates, termination dates, and the EOIP date to the Special Provisions along with extending the EOIP date for Tennessee, extending the cancellation and termination dates for South Carolina by approximately 45 days, and updating insurable types of tomatoes to include âgrapeâ types.
+                </P>
+                <P>As explained in the âDeregulating Datesâ paragraph above, FCIC is moving the cancellation dates, termination dates, and the EOIP date to the Special Provisions. Upon moving these dates to the Special Provisions, FCIC is extending the EOIP date for Tennessee from September 20 to October 15 and extending the cancellation and termination dates for South Carolina by approximately 45 days. Extending insurance in Tennessee protects producers from hurricanes in late September and early October, when there is still a small portion of the liability remaining in the field. By revising the cancellation and termination dates for South Carolina, FCIC is effectively extending the sales period by approximately 45 days. This change aligns the sales period for South Carolina with neighboring counties in North Carolina, providing additional time for producers to purchase insurance, and reducing confusion for producers and AIPs who operate in both South Carolina and North Carolina.</P>
+                <P>FCIC is adding the âgrapeâ type of tomatoes to the Crop Provisions. Adding the âgrapeâ type of tomato to the Crop Provisions adds clarity to the policy because this type is already insurable through the Special Provisions.</P>
+                <P>FCIC is also making the following corrections and clarifications in the Fresh Market Tomato Production Guaranteed Plan Crop Provisions (7 CFR 457.128):</P>
+                <P>â¢ Clarifying the availability of optional units by establishing an exhaustive list of the criteria by which an optional unit may and may not be established in section 2(b); and</P>
+                <P>â¢ Removing a duplicate listing of replanting payment factors from section 12(b). The replant payment factors are also included in the policy in the actuarial documents. Keeping the replanting payment factors in the actuarial documents, without duplicating them in the regulation, improves administrative efficiency and reduces errors in updating the factors in the future.</P>
+                <HD SOURCE="HD2">G. Green Pea</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.137, Green Pea Crop Insurance Provisions, to move cancellation and termination dates to the Special Provisions, as explained in the âDeregulating Datesâ paragraph above and to make the following corrections and clarifications:</P>
+                <P>â¢ Clarifying the definition of âproduction guarantee (per acre)â to indicate the production guarantee per acre is specified in pounds; and</P>
+                <P>â¢ Clarifying the availability of optional units by establishing an exhaustive list of the criteria by which an optional unit may and may not be established in section 2(b).</P>
+                <HD SOURCE="HD2">H. Fresh Market Tomato Dollar Plan</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.139, Fresh Market Tomato (Dollar Plan) Crop Insurance Provisions to allow the Special Provisions to provide insurance for production sold through direct marketing, as explained in the âDirect Marketingâ paragraph above and moving the cancellation date and termination date to the Special Provisions, as explained in the âDeregulating Datesâ paragraph above. FCIC is also making the following corrections and clarifications:</P>
+                <P>â¢ Clarifying the availability of optional units by establishing an exhaustive list of the criteria by which an optional unit may or may not be established in section 2(b); and</P>
+                <P>â¢ Correcting the policy location for the replanting payment amount to the actuarial documents, not the Special Provisions.</P>
+                <HD SOURCE="HD2">I. Fresh Market Pepper</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.148, Fresh Market Pepper Crop Insurance Provisions to facilitate crop insurance expansion, particularly to East Coast states, by moving cancellation dates and termination dates to the Special Provisions, as explained in the âDeregulating Datesâ paragraph above, and adding a new contract change date reflective of the growing season in certain East Coast states. FCIC is also allowing the Special Provisions to provide insurance for production sold through direct marketing, as described in the âDirect Marketingâ paragraph above.</P>
+                <P>This rule seeks to facilitate crop insurance expansion to additional states, particularly on the East Coast. FCIC is adding a new contract change date in the Crop Provisions and moving the termination dates and cancellation dates to the Special Provisions, where they will be updated on a county basis for future expansions. Previously, crop insurance for fresh market peppers was only available in southeastern states where peppers have a different growing season than in states further north. Producers, particularly in Northeastern states, have indicated that the previous program dates were a barrier to obtaining crop insurance.</P>
+                <P>FCIC is also making the following corrections and clarifications in the Fresh Market Pepper Crop Provisions (7 CFR 457.148):</P>
+                <P>â¢ Clarifying the definition of âcrop yearâ to encompass growing seasons in certain East Coast states. The crop year covers all planting periods shown in the Special Provisions for the county and is identified by the calendar year of harvest for the latest planting period;</P>
+                <P>â¢ Clarifying the definition of âharvestâ so that it only refers to picking peppers that are mature;</P>
+                <P>â¢ Expanding the definition of âplanting periodâ to include planting in certain East Coast states in the summer season;</P>
+                <P>â¢ Clarifying the definition of âpractical to replantâ to show that for fresh market peppers, an AIP may consider crop marketing windows, in addition to the criteria established in the CCIP Basic Provisions, in their determination of whether the crop is practical to replant;</P>
+                <P>â¢ Clarifying the availability of optional units by establishing an exhaustive list of the criteria by which an optional unit may or may not be established in section 2(b);</P>
+                <P>â¢ Allowing the EOIP to be modified in the Special Provisions;</P>
+                <P>â¢ Correcting the policy location for the replanting payment amount to the actuarial documents, not the Special Provisions; and</P>
+                <P>â¢ Moving the percentage of production to be counted for catastrophic risk protection coverage to the actuarial documents.</P>
+                <HD SOURCE="HD2">J. Forage Seeding</HD>
+                <P>FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.151, Forage Seeding Crop Insurance Provisions to move the cancellation and termination dates to the Special Provisions, as explained in the âDeregulating Datesâ paragraph above. FCIC is also clarifying the definition of âcrop yearâ to show that it is in lieu of the same definition in the CCIP Basic Provisions.</P>
+                <HD SOURCE="HD2">K. Canola and Rapeseed</HD>
+                <P>
+                    FCIC is amending the Common Crop Insurance Regulations (7 CFR part 457) by revising 7 CFR 457.161, Canola and Rapeseed Crop Provisions to move the cancellation and termination dates to 
+                    <PRTPAGE P="54529"/>
+                    the Special Provisions, as explained in the âDeregulating Datesâ paragraph above. FCIC is also making the following corrections and clarifications:
+                </P>
+                <P>â¢ Changing the phrase âin accordance withâ to âbyâ in the definition of âcanolaâ to show that the genus is âdefined byâ the Official U.S. Standards for Grain; and</P>
+                <P>â¢ Removing a duplicate listing of replanting payment amounts from section 10(b). The replant payment amounts are also included in the policy in the actuarial documents. Keeping the replanting payment amounts in the actuarial documents, without duplicating them in the regulation, improves administrative efficiency and reduces errors in updating the amounts in the future.</P>
+                <HD SOURCE="HD1">V. Clarifications and Corrections</HD>
+                <P>Throughout this rule, FCIC is making several corrections and clarifications for plain language and adherence to the Government Printing Office Style Manual. FCIC is providing an overview of these corrections and clarifications here:</P>
+                <P>â¢ Revising references to âthe Corporationâ and âFederal Crop Insurance Corporationâ to âFCICâ as defined in 7 CFR part 400, the ARPI Basic Provisions, and the CCIP Basic Provisions;</P>
+                <P>â¢ Reducing redundancy, eliminating potential conflicts, and clarifying definitions that appear in both the Basic Provisions and individual Crop Provisions, by removing duplicative definitions, or adding the phrases âin addition toâ or âin lieu ofâ to applicable definitions within Crop Provisions;</P>
+                <P>â¢ Clarifying which Basic Provisions apply by adding an introductory sentence preceding the Crop Provisions and updating the effective year within the introductory sentence to show the year to which the changes in the Crop Provisions apply;</P>
+                <P>â¢ Removing the introductory sentence explaining the order of priority in individual Crop Provisions because it is duplicative of the CCIP Basic Provisions, which already include the priority order of policy provisions;</P>
+                <P>â¢ To conform with the Government Publishing Office Style Manual:</P>
+                <P>â Correcting the capitalization of âstatesâ to âStatesâ;</P>
+                <P>â Changing the spelling of numbers to numerals;</P>
+                <P>â Correcting âaâ to âanâ or vice versa preceding an acronym;</P>
+                <P>â Correcting punctuation;</P>
+                <P>â Removing parentheticals repeating a numerical percentage following a spelled out percentage;</P>
+                <P>â¢ To improve clarity in writing for plain language:</P>
+                <P>â Replacing âherein,â âtherein,â and âthereofâ with descriptive phrases;</P>
+                <P>
+                    â Replacing â
+                    <E T="03">e.g.</E>
+                    â with âfor exampleâ;
+                </P>
+                <P>â Replacing âin excess ofâ with âexceedingâ;</P>
+                <P>â Replacing âin complianceâ with âcompliesâ;</P>
+                <P>â Removing unnecessary words and phrases, such as âcontained in,â and âthe provisions ofâ when referring to regulatory provisions by number;</P>
+                <P>â¢ Updating crop years in examples with more current years;</P>
+                <P>â¢ Clarifying the settlement of claim examples in Crop Provisions by clarifying where the example begins and ends, updating prices to be more reflective of current crop prices and potential indemnities, correcting the defined term âproduction guarantee (per acre)â as applicable, or clarifying which steps of the examples are not applicable;</P>
+                <P>â¢ Correcting paragraph numbering in definitions;</P>
+                <P>â¢ Correcting outdated statute references; and</P>
+                <P>â¢ Removing duplicative provisions.</P>
+                <HD SOURCE="HD1">VI. Removal of Buy-Up Coverage on Prevented Planting</HD>
+                <P>Prevented planting is a de facto coverage in all crop insurance policies. Increased coverage above the basic level, referred to as âbuy-upâ coverage, is an option that is provided administratively by RMA in annual notifications. Producers that elect buy-up coverage pay a slightly higher premium to qualify for an indemnity payment that is 5 percent more than the basic coverage. However, the buy-up coverage is mainly benefitting farmers in the Dakotas seeking to plant in the Prairie Pothole Region, where the majority of prevented planting crop insurance payments are made. This is no longer needed because Congress has a history of addressing wide-spread flooding through ad-hoc disaster assistance, such as the 2019 Supplemental bill that funded prevented planting âtop-offâ payments, providing an additional 10 to 15 percent to eligible producers who had already received prevented planting indemnities.</P>
+                <HD SOURCE="HD1">VII. Regulatory Analyses</HD>
+                <HD SOURCE="HD2">A. Notice and Comment and Effective Date</HD>
+                <P>The Administrative Procedure Act (APA, 5 U.S.C. 553) provides that the notice and comment and 30-day delay in the effective date provisions do not apply when the rule involves specified actions, including matters relating to contracts. This rule governs contracts for crop insurance policies and therefore falls within that exemption.</P>
+                <P>This rule is exempt from the regulatory analysis requirements of the Regulatory Flexibility Act (5 U.S.C. 601-612), as amended by the Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA). The exemption under section 553 for matters related to contracts extends to the regulatory analysis requirement for this rule.</P>
+                <P>
+                    The Office of Management and Budget (OMB) found this rule meets the criteria in 5 U.S.C. 804(2) of the Congressional Review Act (CRA). The CRA, at 5 U.S.C. 808(2) allows an agency to make such regulations effective immediately if the agency finds there is good cause to do so. USDA has determined that such good cause exists here because the rule changes relate to matters of a contract. Postponing the effective date of the rule would result in a one-year delay in providing the benefits of the rule to American farmers and ranchers. Therefore, USDA is not required to delay the effective date for 60 days from the date of publication to allow for Congressional review. Accordingly, this rule is effective upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <P>Therefore, this final rule is effective on November 30, 2025. Although not required by APA or any other law, FCIC has chosen to request comments on this rule.</P>
+                <HD SOURCE="HD2">B. Executive Orders 12866, 13563, and 14192</HD>
+                <P>
+                    Executive Order 12866, âRegulatory Planning and Review,â and Executive Order 13563, âImproving Regulation and Regulatory Review,â direct agencies to assess all costs and benefits of available regulatory alternatives and, if regulation is necessary, to select regulatory approaches that maximize net benefits (including potential economic, environmental, public health and safety effects, distributive impacts, and equity). Executive Order 13563 emphasized the importance of quantifying both costs and benefits, of reducing costs, of harmonizing rules, and of promoting flexibility. Executive Order 14192 âUnleashing Prosperity Through Deregulationâ announced the Administration policy to significantly reduce the private expenditures required to comply with Federal regulations to secure America's economic prosperity and national security and the highest possible quality of life for each citizen and to alleviate unnecessary regulatory burdens placed on the American people. In line with 
+                    <PRTPAGE P="54530"/>
+                    the Executive Order requirements, the Agency chose this regulatory approach to harmonize rules and procedures, maximize flexibility, and increase efficiency by alleviating unnecessary regulatory burdens.
+                </P>
+                <P>The requirements in Executive Orders 12866 and 13563 for the analysis of costs and benefits apply to rules that are determined to be significant or economically significant. This rule has been designated as not significant and therefore, OMB has not reviewed this rule and analysis of the costs and benefits is not required.</P>
+                <HD SOURCE="HD2">C. Environmental Review</HD>
+                <P>The environmental impacts of this final rule have been considered in a manner consistent with the provisions of the National Environmental Policy Act (NEPA, 42 U.S.C. 4321-4347), and the USDA regulation for compliance with NEPA (7 CFR part 1b). As specified in 7 CFR parts 1b.3(f) and 1b.4(a)(3), FCIC is categorically excluded from the preparation of an Environmental Assessment or Environmental Impact Statement unless the FCIC Manager (agency head) determines that an action may have a significant environmental effect or an extraordinary circumstance exists. The FCIC Manager has determined this rule will not have a significant environmental effect and no extraordinary circumstances exist. Therefore, FCIC will not prepare an environmental assessment or environmental impact statement for this action and this documents the programmatic environmental compliance finding of applicability and no extraordinary circumstances (FANEC).</P>
+                <HD SOURCE="HD2">D. Executive Order 13175</HD>
+                <P>This rule has been reviewed in accordance with the requirements of Executive Order 13175, âConsultation and Coordination with Indian Tribal Governments.â Executive Order 13175 requires Federal agencies to consult and coordinate with Tribes on a government-to-government basis on policies that have Tribal implications, including regulations, legislative comments or proposed legislation, and other policy statements or actions that have substantial direct effects on one or more Indian Tribes, on the relationship between the Federal Government and Indian Tribes or on the distribution of power and responsibilities between the Federal Government and Indian Tribes.</P>
+                <P>USDA has assessed the impact of this rule on Indian Tribes and determined that this rule does not, to our knowledge, have Tribal implications that require Tribal consultation at this time. If a Tribe requests consultation, RMA will work with the USDA Office of Tribal Relations to ensure meaningful consultation is provided.</P>
+                <HD SOURCE="HD2">E. Unfunded Mandates Reform Act</HD>
+                <P>Title II of the Unfunded Mandates Reform Act of 1995 (UMRA, Pub. L. 104-4) requires Federal agencies to assess the effects of their regulatory actions of State, local, and Tribal governments or the private sector. Agencies generally must prepare a written statement, including cost benefits analysis, for proposed and final rules with Federal mandates that may result in expenditures of $100 million or more in any 1 year for State, local or Tribal governments, in the aggregate, or to the private sector. UMRA generally requires agencies to consider alternatives and adopt the more cost effective or least burdensome alternative that achieves the objectives of the rule. This rule contains no Federal mandates, as defined in Title II of UMRA, for State, local, and Tribal governments or the private sector. Therefore, this rule is not subject to the requirements of sections 202 and 205 of UMRA.</P>
+                <HD SOURCE="HD2">F. Paperwork Reduction Act Requirements</HD>
+                <P>In accordance with the provisions of the Paperwork Reduction Act of 1995 (44 U.S.C. chapter 35, subchapter I), the rule does not change the information collection approved by OMB under control numbers 0563-0053; Expiration Date: 3/31/2026, 0563-0083; Expiration Date: 11/30/2026, and 0563-0055; Expiration Date: 11/30/25 (currently at OMB seeking approval to renew collection). No new information will be collected through this rule. All information has already been collected.</P>
+                <HD SOURCE="HD2">G. E-Government Act Compliance</HD>
+                <P>RMA is committed to complying with the E-Government Act of 2002, to promote the use of the internet and other information technologies to provide increased opportunities for citizen access to Government information and services, and for other purposes.</P>
+                <HD SOURCE="HD2">Federal Assistance Program</HD>
+                <P>The title and number of the Assistance Listing, to which this rule applies is No. 10.450âCrop Insurance.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects</HD>
+                    <CFR>7 CFR Part 400</CFR>
+                    <P>Acreage allotments, Administrative practice and procedure, Claims, Crop insurance, Drug traffic control, Fraud, Government employees, Income taxes, Intergovernmental relations, Penalties, Reporting and recordkeeping requirements, Wages.</P>
+                    <CFR>7 CFR Part 407</CFR>
+                    <P>Acreage allotments, Administrative practice and procedure, Barley, Corn, Cotton, Crop insurance, Peanuts, Reporting and recordkeeping requirements, Sorghum, Soybeans, Wheat.</P>
+                    <CFR>7 CFR Part 457</CFR>
+                    <P>Acreage allotments, Crop insurance, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Final Rule</HD>
+                <P>For the reasons discussed above, FCIC amends 7 CFR parts 400, 407, and 457, effective for the 2026 and succeeding crop years for crops with a contract change date on or after November 30, 2025, and for the 2027 and succeeding crop years for all other crops, as follows:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 400âGENERAL ADMINISTRATIVE REGULATIONS</HD>
+                </PART>
+                <REGTEXT TITLE="7" PART="400">
+                    <AMDPAR>1. The authority citation for part 400 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>7 U.S.C. 1506(l) and 1506(o).</P>
+                    </AUTH>
+                </REGTEXT>
+                <SUBPART>
+                    <HD SOURCE="HED">Subpart XâInterpretations of Statutory Provisions, Policy Provisions, and Procedures</HD>
+                </SUBPART>
+                <REGTEXT TITLE="7" PART="400">
+                    <AMDPAR>2. Add an authority citation for subpart X to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>7 U.S.C. 1506(l), 1506(o), and 1506(r).</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="400">
+                    <AMDPAR>3. Amend Â§â400.765 as follows:</AMDPAR>
+                    <AMDPAR>a. In the definition of âapproved insurance providerâ, remove the first instance of the word âFCICâ and add âthe Federal Crop Insurance Corporation (FCIC)â in its place; and</AMDPAR>
+                    <AMDPAR>b. Add a definition of âFAAâ in alphabetical order.</AMDPAR>
+                    <P>The addition reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â400.765</SECTNO>
+                        <SUBJECT> Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">FAA.</E>
+                             The Federal Arbitration Act found at 9 U.S.C. 1 
+                            <E T="03">et seq.</E>
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="400">
+                    <AMDPAR>4. Amend Â§â400.766 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise paragraph (a);</AMDPAR>
+                    <AMDPAR>b. In paragraphs (b) introductory text and (b)(1) introductory text, remove the words âa FCICâ wherever they appear and add âan FCICâ in their place;</AMDPAR>
+                    <AMDPAR>c. Revise paragraph (b)(1)(i);</AMDPAR>
+                    <AMDPAR>d. Remove paragraphs (b)(3) and (4);</AMDPAR>
+                    <AMDPAR>e. Redesignate paragraphs (b)(5) and (6) as paragraphs (b)(3) and (4);</AMDPAR>
+                    <AMDPAR>
+                        f. In newly redesignated paragraph (b)(4) introductory text, remove the words âa FCICâ and add âan FCICâ in their place;
+                        <PRTPAGE P="54531"/>
+                    </AMDPAR>
+                    <AMDPAR>g. In newly redesignated paragraph (b)(4)(i), remove the words âan administrative reviewâ and add âadministrative reviewâ in their place;</AMDPAR>
+                    <AMDPAR>h. In newly redesignated paragraph (b)(4)(iv), remove the words âa FCICâ and add âan FCICâ in their place; and</AMDPAR>
+                    <AMDPAR>i. Add paragraphs (c) and (d).</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â400.766</SECTNO>
+                        <SUBJECT> Basis and applicability.</SUBJECT>
+                        <P>(a) The regulations in this part prescribe the rules and criteria for obtaining a final agency determination or an FCIC interpretation.</P>
+                        <P>(1) FCIC will provide a final agency determination or an FCIC interpretation, as applicable, for statutory, regulatory, or other policy provisions or procedures that were in effect during the 4 most recent crop years from the crop year in which your request was submitted. For example, for a request received in the 2025 crop year, FCIC will consider requests for the 2025, 2024, 2023, and 2022 crop years.</P>
+                        <P>(2) If FCIC determines a request is outside the scope of crop years authorized in paragraph (a)(1) of this section, you will be notified within 30 days of the date of receipt by FCIC.</P>
+                        <P>(3) If the statutory, regulatory, or other policy provisions or procedures have changed for the time period you seek an interpretation you must submit a separate request for each policy provision or procedure by year. For example, if you seek an interpretation of section 6(b) of the Small Grains Crop Provisions for the 2022 through 2025 crop years but the policy provisions were revised starting with the 2024 crop year, you must submit two requests, one for the 2022 and 2023 crop years and another for the 2024 and 2025 crop years.</P>
+                        <P>(b) * * *</P>
+                        <P>(1) * * *</P>
+                        <P>(i) The parties are required to seek an interpretation of the disputed provision from FCIC in accordance with this subpart. (This may require that the parties seek a stay of the proceedings until an interpretation is provided, if such proceedings have been initiated.); and</P>
+                        <STARS/>
+                        <P>(c) With respect to the authority of an arbitrator selected to resolve a dispute under any FCIC reinsured policy that involves a disputed policy provision or FCIC procedure:</P>
+                        <P>(i) The arbitrator does not have the authority to interpret policy provisions or FCIC procedure; and</P>
+                        <P>(ii) The arbitrator exceeds their authority if they interpret policy provisions or FCIC procedure or if the arbitrator disregards or fails to comply with a final agency determination or an FCIC interpretation issued in accordance with this subpart.</P>
+                        <P>(d) The FAA governs any judicial review of an arbitration award involving a policy issued under the authority of the Act.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="400">
+                    <AMDPAR>5. Amend Â§â400.767 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise paragraph (a)(1);</AMDPAR>
+                    <AMDPAR>b. In paragraph (a)(3), remove the words âa FCICâ and add âan FCICâ in their place;</AMDPAR>
+                    <AMDPAR>c. In paragraph (a)(4), remove the words âinterpretation (Youâ and add âinterpretation. (Youâ in their place, and remove the words âare required);â and add âare required.);â in their place;</AMDPAR>
+                    <AMDPAR>
+                        g. In paragraph (b)(1), remove the text â(
+                        <E T="03">e.g.,</E>
+                        â and add â(for example,â in its place;
+                    </AMDPAR>
+                    <AMDPAR>h. Remove paragraph (b)(3)(ii);</AMDPAR>
+                    <AMDPAR>i. Redesignate paragraph (b)(3)(iii) as paragraph (b)(3)(ii);</AMDPAR>
+                    <AMDPAR>j. Revise newly redesignated paragraph (b)(3)(ii);</AMDPAR>
+                    <AMDPAR>k. In paragraph (b)(4), remove the text â; andâ and add a period in its place; and</AMDPAR>
+                    <AMDPAR>l. Remove paragraph (b)(5).</AMDPAR>
+                    <P>The revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â400.767 </SECTNO>
+                        <SUBJECT>Requestor obligations.</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>
+                            (1) Be submitted to the Deputy Administrator using the guidelines provided on RMA's website at 
+                            <E T="03">www.rma.usda.gov</E>
+                             through one of the following methods:
+                        </P>
+                        <P>(i) In writing by certified mail or overnight delivery, to the Deputy Administrator, Risk Management Agency, United States Department of Agriculture, P.O. Box 419205, Kansas City, MO 64141-6205; or</P>
+                        <P>
+                            (ii) By electronic mail at 
+                            <E T="03">subpartx@rma.usda.gov;</E>
+                        </P>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>(3) * * *</P>
+                        <STARS/>
+                        <P>(ii) Notwithstanding paragraph (b) of this section, if during the mediation, arbitration, or litigation, an issue arises that requires a final agency determination or FCIC interpretation, the mediator, arbitrator, judge, or magistrate must promptly request a final agency determination or FCIC interpretation in accordance with Â§â400.767(a).</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="400">
+                    <AMDPAR>6. Amend Â§â400.768 as follows:</AMDPAR>
+                    <AMDPAR>a. In paragraph (c), remove the word âsixtyâ and add â60â in its place;</AMDPAR>
+                    <AMDPAR>b. In paragraph (d), remove the words âa FCICâ and add âan FCICâ in their place;</AMDPAR>
+                    <AMDPAR>c. In paragraphs (e) and (f), remove the words âa FCICâ wherever they appear and add âFCICâ in their place; and</AMDPAR>
+                    <AMDPAR>d. Revise paragraph (i).</AMDPAR>
+                    <P>The revision reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â400.768 </SECTNO>
+                        <SUBJECT>FCIC obligations.</SUBJECT>
+                        <STARS/>
+                        <P>(i) When issuing a final agency determination or FCIC interpretation, FCIC will not evaluate the insured, insurance provider, agent, or loss adjuster as it relates to their performance in following FCIC policy provisions or procedures. Interpretations will not include any analysis of whether the insured, insurance provider, agent, or loss adjuster complied with the policy provision or procedure in question.</P>
+                    </SECTION>
+                </REGTEXT>
+                <PART>
+                    <HD SOURCE="HED">PART 407âAREA RISK PROTECTION INSURANCE REGULATIONS</HD>
+                </PART>
+                <REGTEXT TITLE="7" PART="407">
+                    <AMDPAR>7. The authority citation for part 407 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>7 U.S.C. 1506(l) and 1506(o).</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="407">
+                    <AMDPAR>8. Amend Â§â407.2 as follows:</AMDPAR>
+                    <AMDPAR>a. In paragraph (a) remove the words âFederal Crop Insurance Act (7 U.S.C. 1501-1524) (Act)â and add âFederal Crop Insurance Act (7 U.S.C. 1501-1524), as amended (Act)â in their place;</AMDPAR>
+                    <AMDPAR>b. In paragraph (b), remove the words âthe FCICâ and add âFCICâ in their place;</AMDPAR>
+                    <AMDPAR>c. Remove paragraph (d); and</AMDPAR>
+                    <AMDPAR>d. Redesignate paragraphs (e) through (g) as paragraphs (d) through (f).</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="407">
+                    <AMDPAR>9. In Â§â407.8, revise paragraph (b).</AMDPAR>
+                    <P>The revision reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â407.8 </SECTNO>
+                        <SUBJECT>The application and policy.</SUBJECT>
+                        <STARS/>
+                        <P>(b) FCIC or the insurance provider may reject, no longer accept applications, or cancel existing insurance contracts upon FCIC's determination that the insurance risk is excessive. Such determination must be made not later than 15 days before the cancellation date for the crop and may be made on an area, county, State, or crop basis.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="407">
+                    <AMDPAR>10. Amend Â§â407.9 as follows:</AMDPAR>
+                    <AMDPAR>
+                        a. Remove the text â
+                        <E T="03">e.g.</E>
+                        â wherever it appears and add âfor exampleâ in its place;
+                    </AMDPAR>
+                    <AMDPAR>b. In the second paragraph of the âReinsured Policiesâ section that precedes Terms and Conditions:</AMDPAR>
+                    <AMDPAR>1. Remove the words âthe Risk Management Agency (RMA's)â and add âRMA'sâ in their place; and</AMDPAR>
+                    <AMDPAR>2. Remove the words âNo stateâ and add âNo Stateâ in their place;</AMDPAR>
+                    <AMDPAR>
+                        c. In section 1:
+                        <PRTPAGE P="54532"/>
+                    </AMDPAR>
+                    <AMDPAR>1. Revise the definition âBeginning farmer or rancherâ;</AMDPAR>
+                    <AMDPAR>2. Add a definition of âCancellationâ in alphabetical order;</AMDPAR>
+                    <AMDPAR>3. In the definition of âCancellation dateâ, remove the words âor terminatedâ and add âor terminated or voidedâ in their place;</AMDPAR>
+                    <AMDPAR>4. In the definition of âCooperative Extension Systemâ, remove the words âstate office located at each state's land-grant university,â and add âState office located at each State's land-grant university,â in their place;</AMDPAR>
+                    <AMDPAR>5. In the definition of âCountyâ, remove the word âstateâ and add âStateâ in its place;</AMDPAR>
+                    <AMDPAR>6. Add a definition of âFAAâ in alphabetical order;</AMDPAR>
+                    <AMDPAR>7. In the definition of âPerennial cropâ, remove the word âoneâ and add â1â in its place;</AMDPAR>
+                    <AMDPAR>8. In the definition of âPersonâ, remove the words âagency thereofâ and add âgovernment agencyâ in their place;</AMDPAR>
+                    <AMDPAR>9. In the definition of âProhibited substanceâ, remove the words âorganic, transitional orâ and add âorganic, transitional, orâ in their place;</AMDPAR>
+                    <AMDPAR>10. In the definition of âStateâ, remove the words âstate shownâ and add âState shownâ in their place;</AMDPAR>
+                    <AMDPAR>11. In the definition of âSubstantial beneficial interestâ, remove the words âstate dissolutionâ and add âState dissolutionâ in their place; and</AMDPAR>
+                    <AMDPAR>12. Add the definition of âTerminationâ in alphabetical order;</AMDPAR>
+                    <AMDPAR>d. In section 2:</AMDPAR>
+                    <AMDPAR>1. In paragraph (d)(3), remove the words âin excess ofâ and add âexceedingâ in their place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (k)(2)(i)(A), remove the words âbilling date for the crop yearâ and add âbilling date for the crop year.â in their place;</AMDPAR>
+                    <AMDPAR>3. In paragraph (k)(2)(i)(B), remove the words âdelinquent debtâ and add âdelinquent debt.â in their place;</AMDPAR>
+                    <AMDPAR>4. Revise paragraph (k)(2)(i)(D);</AMDPAR>
+                    <AMDPAR>5. In paragraph (l)(3)(ii), remove the words âor on afterâ and add âor on or afterâ in their place; and</AMDPAR>
+                    <AMDPAR>6. Revise paragraph (p)(2);</AMDPAR>
+                    <AMDPAR>e. In section 5, in paragraph (c) introductory text, remove the word âstatesâ and add âStatesâ in its place;</AMDPAR>
+                    <AMDPAR>f. In section 7, revise paragraph (h);</AMDPAR>
+                    <AMDPAR>g. In section 12, revise paragraph (d);</AMDPAR>
+                    <AMDPAR>h. In section 13:</AMDPAR>
+                    <AMDPAR>1. In paragraph (c)(4), remove the words âtwo of the last fourâ wherever they appear and add â2 of the last 4â in their place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (d) introductory text, remove the word âfour-yearâ and add â4-yearâ in its place;</AMDPAR>
+                    <AMDPAR>3. In paragraphs (d)(1) and (d)(2), remove the words âtwo of the last fourâ wherever they appear and add â2 of the last 4â in their place;</AMDPAR>
+                    <AMDPAR>4. In paragraph (d)(3)(i), remove the words â2019 and 50 of those acres were double cropped with soybeans; and 100 acres of wheat planted in 2020â and add â2024 and 50 of those acres were double cropped with soybeans; and 100 acres of wheat planted in 2025â in their place;</AMDPAR>
+                    <AMDPAR>5. In paragraph (d)(3)(ii), remove the words â2019 and 70 divided by 100 equals 70 percent of the first insured crop acres that were double cropped in 2020â and add â2024 and 70 divided by 100 equals 70 percent of the first insured crop acres that were double cropped in 2025â in their place;</AMDPAR>
+                    <AMDPAR>6. In paragraph (d)(3)(iv), remove the year â2021â and add â2026â in its place; and</AMDPAR>
+                    <AMDPAR>7. In paragraph (e), remove the words âin excess ofâ and add âexceedingâ in their place;</AMDPAR>
+                    <AMDPAR>i. In section 21, in paragraphs (b) and (c), remove the word âthreeâ wherever it appears and add â3â in its place;</AMDPAR>
+                    <AMDPAR>j. In section 23 [FCIC Policies], in paragraph (d)(1), remove the word âoneâ and add â1â in its place;</AMDPAR>
+                    <AMDPAR>k. In section 23 [Reinsured Policies]:</AMDPAR>
+                    <AMDPAR>1. In paragraphs (b)(2)(ii)(C) and (c), remove the word âoneâ wherever it appears and add â1â in its place;</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (d)(3)(ii) and (d)(4)(ii);</AMDPAR>
+                    <AMDPAR>3. In paragraph (d)(5)(ii), remove the words âjudicial reviewâ and add âa judicial review as described in section 23(g)â in their place;</AMDPAR>
+                    <AMDPAR>4. In paragraph (d)(5)(iii), remove the words âjudicial review is sought, suit must be filed not later than one yearâ and add âa judicial review as described in section 23(g) is sought, suit must be filed not later than 1 yearâ in their place;</AMDPAR>
+                    <AMDPAR>5. Revise paragraph (d)(6);</AMDPAR>
+                    <AMDPAR>6. In paragraph (e), remove the word âstateâ and add âStateâ in its place; and</AMDPAR>
+                    <AMDPAR>7. In paragraph (g), remove the text âSW.â and add âSWâ in its place;</AMDPAR>
+                    <AMDPAR>l. In section 24, in paragraph (b), remove the text â(41 U.S.C. 7611)â and add â(41 U.S.C. 7109)â in its place;</AMDPAR>
+                    <AMDPAR>
+                        m. In section 30, revise Step 9: Calculate the Payment Factor of the 
+                        <E T="03">Area Revenue Protection example;</E>
+                         and
+                    </AMDPAR>
+                    <AMDPAR>n. In section 31, remove the period at the end of the section heading;</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â407.9</SECTNO>
+                        <SUBJECT> Area risk protection insurance policy.</SUBJECT>
+                        <STARS/>
+                        <HD SOURCE="HD3">1. Definitions</HD>
+                        <STARS/>
+                        <P>
+                            <E T="03">Beginning farmer or rancher.</E>
+                             An individual who has not actively operated and managed a farm or ranch in any State, with an insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 10 crop years. An individual's insurable interest in any crop year may be excluded at the request of the individual if the interest was held by the individual while: (1) under the age of 18; (2) in full-time military service of the United States; or (3) in post-secondary education. A person other than an individual may be eligible for beginning farmer or rancher benefits if there is at least one individual substantial beneficial interest holder and all individual substantial beneficial interest holders qualify as a beginning farmer or rancher.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Cancellation.</E>
+                             When the policy is no longer in effect as of the cancellation date.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">FAA.</E>
+                             The Federal Arbitration Act found at 9 U.S.C. 1 
+                            <E T="03">et seq.</E>
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Termination.</E>
+                             When the policy is no longer in effect as of the date specified in the policy.
+                        </P>
+                        <STARS/>
+                        <HD SOURCE="HD3">2. Life of Policy, Cancellation, and Termination</HD>
+                        <STARS/>
+                        <P>(k) * * *</P>
+                        <P>(2) * * *</P>
+                        <P>(i) * * *</P>
+                        <P>(D) For execution of a written payment agreement and failure to make any scheduled payment, the termination date for the crop year prior to the crop year in which you failed to make the scheduled payment (for this purpose only, the crop year will start the day after the termination date and end on the next termination date, for example, if the termination date is November 30 and you fail to make a payment on November 15, 2025, your policy will terminate on November 30, 2024, for the 2025 crop year).</P>
+                        <STARS/>
+                        <P>(p) * * *</P>
+                        <P>
+                            (2) Since applications for crop insurance cannot be accepted after the sales closing date, if you make any payment, or you otherwise become eligible, after the sales closing date, you cannot apply for insurance until the next crop year. For example, for the 2025 crop year, if crop A, with a termination date of October 31, 2024, and crop B, with a termination date of March 15, 2025, are insured and you do not pay the premium for crop A by the termination date, you are ineligible for crop insurance as of October 31, 2024, 
+                            <PRTPAGE P="54533"/>
+                            and crop A's policy is terminated as of that date. Crop B's policy does not terminate until March 15, 2025, and an indemnity for the 2024 crop year may still be owed. You will not be eligible to apply for crop insurance for any crop until after the amounts owed are paid in full or you have your debts discharged in bankruptcy.
+                        </P>
+                        <STARS/>
+                        <HD SOURCE="HD3">7. Annual Premium and Administrative Fees</HD>
+                        <STARS/>
+                        <P>(h) Additional premium subsidyâIf you qualify as a beginning farmer or rancher, or veteran farmer or rancher, the premium subsidy that you would otherwise receive will be increased, unless otherwise specified in the Special Provisions. If you qualify as:</P>
+                        <P>(1) A beginning farmer or rancher, your premium subsidy will be increased by:</P>
+                        <P>(i) 15 percentage points for the first through second crop years;</P>
+                        <P>(ii) 13 percentage points for the third crop year;</P>
+                        <P>(iii) 11 percentage points for the fourth crop year; and</P>
+                        <P>(iv) 10 percentage points for the fifth through tenth crop years;</P>
+                        <P>(2) A veteran farmer or rancher, your premium subsidy will be increased by 10 percentage points; or</P>
+                        <P>(3) Both a beginning farmer or rancher and a veteran farmer or rancher, your premium subsidy will equal that of the beginning farmer or rancher, which is equivalent or higher.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">12. Triggers, Final Policy Protection, Payment Factor, and Indemnity Calculations</HD>
+                        <STARS/>
+                        <P>(d) If the harvest price cannot be calculated for the current crop year under the provisions contained in the CEPP:</P>
+                        <P>(1) Notice will be provided on RMA's website;</P>
+                        <P>(2) The harvest price will equal the projected price; and</P>
+                        <P>(3) Your premium will be recalculated as though you had elected Area Yield Protection. Any premium previously paid exceeding the new amount will be returned to you.</P>
+                        <STARS/>
+                        <P>[Reinsured policies]</P>
+                        <HD SOURCE="HD3">23. Mediation, Arbitration, Appeal, Reconsideration, and Administrative and Judicial Review</HD>
+                        <STARS/>
+                        <P>(d) * * *</P>
+                        <P>(3) * * *</P>
+                        <P>(ii) An arbitrator does not have the authority to:</P>
+                        <P>(A) Interpret the policy or FCIC procedure; or</P>
+                        <P>(B) Disregard or fail to comply with a final agency determination or FCIC interpretation issued in accordance with 7 CFR part 400, subpart X. An arbitration award that is inconsistent with section 23 may be appealed in accordance with the FAA.</P>
+                        <STARS/>
+                        <P>(4) * * *</P>
+                        <P>(ii) The arbitrator does not have the power to issue an award that does not conform to section 23. Failure of the arbitrator to provide such written statement may be appealed in accordance with the FAA.</P>
+                        <STARS/>
+                        <P>(6) The FAA governs arbitrations initiated under section 23(d)(5)(i) and any decision rendered in arbitration is binding on you and us unless vacated, modified, or corrected, in accordance with the FAA.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">30. Examples</HD>
+                        <STARS/>
+                        <P>
+                            <E T="03">Area Revenue Protection example:</E>
+                        </P>
+                        <STARS/>
+                        <HD SOURCE="HD3">Step 9: Calculate the Payment Factor</HD>
+                        <FP SOURCE="FP-1">Formula: (Trigger revenue minus final county revenue) divided by (trigger revenue minus (expected county yield times the greater of projected or harvest price times loss limit factor)) equals payment factor</FP>
+                        <FP SOURCE="FP-2">($484.65â$342.75) Ã· ($484.65â(141.4 Ã $4.57 Ã .18)) = .385 payment factor</FP>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <PART>
+                    <HD SOURCE="HED">PART 457âCOMMON CROP INSURANCE REGULATIONS</HD>
+                </PART>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>11. The authority citation for part 457 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P> 7 U.S.C. 1506(l) and 1506(o).</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>12. Amend Â§â457.2 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise paragraphs (a) and (b);</AMDPAR>
+                    <AMDPAR>b. Remove paragraph (d);</AMDPAR>
+                    <AMDPAR>c. Redesignate paragraphs (e) through (g) as paragraphs (d) through (f); and</AMDPAR>
+                    <AMDPAR>d. Revise newly redesignated paragraph (e).</AMDPAR>
+                    <P>The revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.2 </SECTNO>
+                        <SUBJECT>Availability of Federal crop insurance.</SUBJECT>
+                        <P>(a) Insurance shall be offered under the provisions of this section on the insured crop in counties within the limits prescribed by and in accordance with the provisions of the Federal Crop Insurance Act (7 U.S.C. 1501-1524), as amended (Act). The crops and counties shall be designated by the Manager of the Federal Crop Insurance Corporation (FCIC) from those approved by the Board of Directors of FCIC.</P>
+                        <P>(b) The insurance is offered through companies reinsured by FCIC that offer contracts containing the same terms and conditions as the contract set out in this part. These contracts are clearly identified as being reinsured by FCIC. FCIC may offer the contract for the catastrophic level of coverage contained in this part and part 402 of this chapter directly to the insured through local offices of the Department of Agriculture only if the Secretary determines that the availability of local agents is not adequate. Those contracts are specifically identified as being offered by FCIC.</P>
+                        <STARS/>
+                        <P>(e) An insured whose contract with FCIC or with a company reinsured by FCIC under the Act has been terminated because of violation of the terms of the contract is not eligible to obtain multiple peril crop insurance under the Act with FCIC or with a company reinsured by FCIC unless the insured can show that the default in the prior contract was cured prior to the sales closing date of the contract applied for or unless the insured can show that the termination was improper and should not result in subsequent ineligibility.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>13. Amend Â§â457.7, by removing the words âthe Corporationâ wherever they appear and adding âFCICâ in their place.</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>14. Amend Â§â457.8 as follows:</AMDPAR>
+                    <AMDPAR>
+                        a. Remove the text â
+                        <E T="03">e.g.â</E>
+                         wherever it appears and add âfor exampleâ in its place;
+                    </AMDPAR>
+                    <AMDPAR>b. In paragraph (a), remove the words âthe Corporationâ wherever they appear and add âFCICâ in their place;</AMDPAR>
+                    <AMDPAR>c. Under the heading âFCIC Policiesâ, in the second paragraph, remove the words ârefer to the Federal Crop Insurance Corporationâ and add ârefer to FCICâ in their place;</AMDPAR>
+                    <AMDPAR>d. Under the heading âReinsured Policiesâ, in the first paragraph, remove the words âNo stateâ and add âNo Stateâ in their place;</AMDPAR>
+                    <AMDPAR>e. In section 1:</AMDPAR>
+                    <AMDPAR>1. In the definition of âAPH base periodâ, remove the words âfour, up to a maximum of ten,â and add â4, up to a maximum of 10,â in their place;</AMDPAR>
+                    <AMDPAR>2. Revise the definitions of âApplicationâ and âBeginning farmer or rancherâ;</AMDPAR>
+                    <AMDPAR>3. Add a definition of âCancellationâ in alphabetical order;</AMDPAR>
+                    <AMDPAR>
+                        4. In the definition of âCancellation dateâ, remove the words âor 
+                        <PRTPAGE P="54534"/>
+                        terminatedâ and add âor terminated or voidedâ in their place;
+                    </AMDPAR>
+                    <AMDPAR>5. In the definition of âContinuous production reportsâ, remove the word âhereinâ and add âin this definitionâ in its place;</AMDPAR>
+                    <AMDPAR>6. In the definition of âCountyâ, remove the word âstateâ and add âStateâ in its place;</AMDPAR>
+                    <AMDPAR>7. Add a definition of âFAAâ in alphabetical order;</AMDPAR>
+                    <AMDPAR>8. In the definition of âNew producerâ, remove the word âtwoâ and add â2â in its place;</AMDPAR>
+                    <AMDPAR>9. In the definition of âPerennial cropâ, remove the word âoneâ and add â1â in its place;</AMDPAR>
+                    <AMDPAR>10. In the definition of âPersonâ, remove the words âagency thereofâ and add âgovernment agencyâ in their place;</AMDPAR>
+                    <AMDPAR>11. In the definition of âProhibited substanceâ, remove the words âorganic, transitional orâ and add âorganic, transitional, orâ in their place;</AMDPAR>
+                    <AMDPAR>12. In the definition of âReplanted cropâ, in paragraph (1)(i), remove the words âby the policy andâ and add âby the policy, andâ in their place;</AMDPAR>
+                    <AMDPAR>13. In the definition of âRepresentative sampleâ, remove the words âinstances weâ and add âinstances, weâ in their place;</AMDPAR>
+                    <AMDPAR>14. In the definition of âStateâ, remove the words âstate shownâ and add âState shownâ in their place; and</AMDPAR>
+                    <AMDPAR>15. Add a definition of âTerminationâ in alphabetical order;</AMDPAR>
+                    <AMDPAR>f. In section 2:</AMDPAR>
+                    <AMDPAR>1. In paragraph (b)(7)(iii), remove the words âin excess ofâ and add âexceedingâ in their place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (b)(10) introductory text, remove the words âa SSN or EINâ and add âan SSN or EINâ in their place;</AMDPAR>
+                    <AMDPAR>3. In paragraph (f)(1)(ii), remove the words âsections 2(f)(2)(i)(A), (B) or (D)â and add âsections 2(f)(2)(i)(A), (B), or (D)â in their place;</AMDPAR>
+                    <AMDPAR>4. In paragraph (f)(2)(i)(A), remove the words âbilling date for the crop yearâ and add âbilling date for the crop year.â in their place;</AMDPAR>
+                    <AMDPAR>5. In paragraph (f)(2)(i)(B), remove the words âdelinquent debtâ and add âdelinquent debt.â in their place;</AMDPAR>
+                    <AMDPAR>6. Revise paragraph (f)(2)(i)(D);</AMDPAR>
+                    <AMDPAR>7. Revise paragraph (f)(4) and (5); and</AMDPAR>
+                    <AMDPAR>8. In paragraph (g)(3)(i), remove the words âcancellation date andâ and add âcancellation date, andâ in their place;</AMDPAR>
+                    <AMDPAR>g. In section 3:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (c)(5)(ii);</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (f)(1)(ii);</AMDPAR>
+                    <AMDPAR>3. In paragraph (h)(2)(ii), remove the word âtwoâ and add â2â in its place;</AMDPAR>
+                    <AMDPAR>4. In paragraph (h)(3)(ii), remove the word âhereinâ and add âin section 3(h)(3)(i)â in its place; and</AMDPAR>
+                    <AMDPAR>5. In paragraph (i) introductory text, remove the words âapplicable) toâ and add âapplicable toâ in their place;</AMDPAR>
+                    <AMDPAR>h. In section 4, revise paragraph (b);</AMDPAR>
+                    <AMDPAR>i. In section 5:</AMDPAR>
+                    <AMDPAR>1. In paragraph (b)(5) introductory text, remove the word âfourâ and add â4â in its place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (b)(5)(i)(A), remove the word âthreeâ and add â3â in its place;</AMDPAR>
+                    <AMDPAR>3. In paragraph (b)(5)(i)(B), remove the word âtwoâ and add â2â in its place;</AMDPAR>
+                    <AMDPAR>4. In paragraph (b)(5)(i)(C), remove the word âoneâ and add â1â in its place; and</AMDPAR>
+                    <AMDPAR>5. In paragraph (c)(3), remove the word âfourâ and add â4â in its place;</AMDPAR>
+                    <AMDPAR>j. In section 6:</AMDPAR>
+                    <AMDPAR>1. In paragraph (d)(1), remove the words âwithout our consent (Consentâ and add âwithout our consent. (Consentâ in their place and remove the words âby the policy)â and add âby the policy.)â in their place; and</AMDPAR>
+                    <AMDPAR>2. In paragraph (h), remove the words âprevented planting payment or replanting paymentâ and add âprevented planting payment, or replanting paymentâ in their place;</AMDPAR>
+                    <AMDPAR>k. In section 7:</AMDPAR>
+                    <AMDPAR>1. In paragraph (e)(1), remove the words âin excess ofâ and add âexceedingâ in their place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (e)(4)(iii), remove the word âoneâ and add â1â in its place; and</AMDPAR>
+                    <AMDPAR>3. Revise paragraph (g);</AMDPAR>
+                    <AMDPAR>
+                        l. In section 8, in paragraph (b)(2), remove the words âpremium rate, 
+                        <E T="03">etc.</E>
+                        )â and add âpremium rate, etc.)â in their place;
+                    </AMDPAR>
+                    <AMDPAR>m. In section 9, in paragraph (c) introductory text, remove the word âstatesâ and add âStatesâ in its place;</AMDPAR>
+                    <AMDPAR>
+                        n. In section 10, in paragraph (a)(2)(ii) introductory text, remove the words âpower of attorney, 
+                        <E T="03">etc.</E>
+                        )â and add âpower of attorney, etc.)â in their place;
+                    </AMDPAR>
+                    <AMDPAR>o. In section 12:</AMDPAR>
+                    <AMDPAR>
+                        1. In paragraph (a), remove the words âfire, terrorism, 
+                        <E T="03">etc.</E>
+                        )â and add âfire, terrorism, etc.)â in their place; and
+                    </AMDPAR>
+                    <AMDPAR>2. In paragraph (c), remove the words âdesigned limits (Forâ and add âdesigned limits. (Forâ in their place;</AMDPAR>
+                    <AMDPAR>p. In section 14:</AMDPAR>
+                    <AMDPAR>1. In paragraph (e)(3)(i), remove the words âin the unit (Whenâ and add âin the unit. (Whenâ in their place; and</AMDPAR>
+                    <AMDPAR>2. In paragraph (i), remove the words âthe Federal Crop Insurance Corporationâ and add âFCICâ in their place;</AMDPAR>
+                    <AMDPAR>q. In section 15:</AMDPAR>
+                    <AMDPAR>1. In paragraphs (h)(5)(ii), (i)(1), and (i)(2) remove the words âtwo of the last fourâ wherever they appear and add â2 of the last 4â in their place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (i)(3)(i), remove the words â2019 and 50 of those acres were double cropped with soybeans; and 100 acres of wheat planted in 2020â and add â2024 and 50 of those acres were double cropped with soybeans; and 100 acres of wheat planted in 2025â in their place;</AMDPAR>
+                    <AMDPAR>3. In paragraph (i)(3)(ii), remove the words â2019 and 70 divided by 100 equals 70 percent of the first insured crop acres that were double cropped in 2020â and add â2024 and 70 divided by 100 equals 70 percent of the first insured crop acres that were double cropped in 2025â in their place;</AMDPAR>
+                    <AMDPAR>4. In paragraph (i)(3)(iv), remove the year â2021â and add â2026â in its place; and</AMDPAR>
+                    <AMDPAR>5. In paragraph (j), remove the words âin excess ofâ and add âexceedingâ in their place;</AMDPAR>
+                    <AMDPAR>r. In section 17:</AMDPAR>
+                    <AMDPAR>
+                        1. In paragraph (d)(1)(ii)(A)(
+                        <E T="03">2</E>
+                        ), remove the words âService orâ and add âService, orâ in their place;
+                    </AMDPAR>
+                    <AMDPAR>2. In paragraph (e)(1)(i) introductory text, remove the words âone or more of the fourâ and add â1 or more of the 4â in their place;</AMDPAR>
+                    <AMDPAR>3. In paragraph (e)(1)(i)(A), remove the words âone of the fourâ and add â1 of the 4â in their place;</AMDPAR>
+                    <AMDPAR>
+                        4. In paragraph (e)(1)(i)(C), remove the words âsections 17(e)(1)(i)(B)(
+                        <E T="03">1</E>
+                        ), (
+                        <E T="03">2</E>
+                        ) and (
+                        <E T="03">3</E>
+                        )â and add âsections 17(e)(1)(i)(B)(
+                        <E T="03">1</E>
+                        ), (
+                        <E T="03">2</E>
+                        ), and (
+                        <E T="03">3</E>
+                        )â in their place;
+                    </AMDPAR>
+                    <AMDPAR>
+                        5. In paragraph (e)(1)(ii) introductory text and (e)(1)(iii)(A)(
+                        <E T="03">2</E>
+                        ), remove the word âfourâ wherever it appears and add â4â in its place;
+                    </AMDPAR>
+                    <AMDPAR>6. In paragraph (f)(1)(i), remove the words âone of the fourâ and add â1 of the 4â in their place;</AMDPAR>
+                    <AMDPAR>7. In paragraph (f)(4)(ii) introductory text, remove the word âfourâ and add â4â in its place;</AMDPAR>
+                    <AMDPAR>
+                        8. In paragraph (f)(8)(i)(E)(
+                        <E T="03">1</E>
+                        ), add the word âandâ at the end;
+                    </AMDPAR>
+                    <AMDPAR>9. Remove paragraph (f)(8)(i)(E)(2);</AMDPAR>
+                    <AMDPAR>
+                        10. Redesignate paragraph (f)(8)(i)(E)(
+                        <E T="03">3</E>
+                        ) as paragraph (f)(8)(i)(E)(
+                        <E T="03">2</E>
+                        );
+                    </AMDPAR>
+                    <AMDPAR>11. Remove paragraph (f)(8)(ii);</AMDPAR>
+                    <AMDPAR>12. Redesignate paragraph (f)(8)(iii) as (f)(8)(ii);</AMDPAR>
+                    <AMDPAR>13. Revise newly redesignated paragraph (f)(8)(ii); and</AMDPAR>
+                    <AMDPAR>14. In paragraph (f)(11) introductory text and (f)(11)(i), remove the words âone of the fourâ wherever they appear and add â1 of the 4â in their place;</AMDPAR>
+                    <AMDPAR>s. In section 18:</AMDPAR>
+                    <AMDPAR>1. In paragraph (d)(4), remove the words âinsurance provider (Noâ and add âinsurance provider. (Noâ in their place and remove the words âthis section)â and add âthis section.)â in their place;</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (e)(2)(ii);</AMDPAR>
+                    <AMDPAR>
+                        3. In paragraph (f)(2)(i) introductory text and paragraph (f)(2)(i)(B), remove 
+                        <PRTPAGE P="54535"/>
+                        the word âthreeâ wherever it appears and add â3â in its place;
+                    </AMDPAR>
+                    <AMDPAR>
+                        4. In paragraph (f)(2)(i)(B)(
+                        <E T="03">3</E>
+                        ), remove the word âtenâ and add â10â in its place;
+                    </AMDPAR>
+                    <AMDPAR>5. In paragraph (f)(2)(ii) introductory text and paragraph (f)(2)(ii)(B), remove the word âthreeâ wherever it appears and add â3â in its place;</AMDPAR>
+                    <AMDPAR>
+                        6. In paragraph (f)(2)(ii)(B)(
+                        <E T="03">3</E>
+                        ), remove the word âtenâ and add â10â in its place;
+                    </AMDPAR>
+                    <AMDPAR>7. Revise paragraph (f)(2)(ii)(C); and</AMDPAR>
+                    <AMDPAR>
+                        8. In paragraph (k)(2), remove the text â
+                        <E T="03">i.e.â</E>
+                         and add â
+                        <E T="03">i.e.â</E>
+                         in its place;
+                    </AMDPAR>
+                    <AMDPAR>t. In section 20 [For FCIC Policies], in paragraphs (d) and (e)(1), remove the word âoneâ wherever it appears and add â1â in its place;</AMDPAR>
+                    <AMDPAR>u. In section 20 [For Reinsured Policies]:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (a)(1)(ii);</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (a)(2);</AMDPAR>
+                    <AMDPAR>3. In paragraph (b)(2), remove the words âjudicial reviewâ and add âa judicial review as described in section 20(i)â in their place;</AMDPAR>
+                    <AMDPAR>4. In paragraph (b)(3), remove the words âjudicial review is sought, suit must be filed not later than one yearâ and add âa judicial review as described in section 20(i) is sought, suit must be filed not later than 1 yearâ in their place;</AMDPAR>
+                    <AMDPAR>5. Revise paragraph (c);</AMDPAR>
+                    <AMDPAR>6. In paragraphs (d)(2)(ii)(C) and (e)(1), remove the word âoneâ wherever it appears and add â1â in its place;</AMDPAR>
+                    <AMDPAR>7. In paragraph (f), remove the word âstateâ and add âStateâ in its place; and</AMDPAR>
+                    <AMDPAR>8. In paragraph (i), remove the words âUSDA/RMA/Deputy Administrator of Compliance/Stop 0806, 1400 Independence Avenue SW, Washington, DC 20250-0806â and add âUSDA/RMA/Deputy Administrator for Compliance/Stop 0806, 1400 Independence Avenue SW, Washington, DC 20250-0806â in their place;</AMDPAR>
+                    <AMDPAR>v. In section 21:</AMDPAR>
+                    <AMDPAR>1. In paragraph (b)(1), remove the word âthreeâ and add â3â in its place;</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (b)(2); and</AMDPAR>
+                    <AMDPAR>3. In paragraph (c), remove the word âthreeâ and add â3â in its place;</AMDPAR>
+                    <AMDPAR>w. In section 26, remove the text â(41 U.S.C. 7611)â and add â(41 U.S.C. 7109)â in its place;</AMDPAR>
+                    <AMDPAR>x. In section 34:</AMDPAR>
+                    <AMDPAR>1. In paragraph (a)(1)(iii), remove the word âherein;â and add âin section 34(a).â in its place;</AMDPAR>
+                    <AMDPAR>2. Revise paragraphs (a)(2)(i)(A) through (G);</AMDPAR>
+                    <AMDPAR>3. In paragraph (a)(2)(ii), remove the words âif sections are the basis for optional unitsâ and add âif optional units are available by sectionsâ in their place;</AMDPAR>
+                    <AMDPAR>4. Revise paragraph (a)(3) introductory text; and</AMDPAR>
+                    <AMDPAR>5. In paragraph (b)(2), add a period following the words âreport for that crop yearâ;</AMDPAR>
+                    <AMDPAR>y. In section 36, revise paragraphs (a)(1)(i) and (ii); and</AMDPAR>
+                    <AMDPAR>z. In section 37, in paragraph (g), remove the words âin excess ofâ and add âexceedingâ in their place.</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.8 </SECTNO>
+                        <SUBJECT>The application and policy.</SUBJECT>
+                        <STARS/>
+                        <HD SOURCE="HD2">Common Crop Insurance Policy</HD>
+                        <STARS/>
+                        <HD SOURCE="HD3">1. Definitions</HD>
+                        <STARS/>
+                        <P>
+                            <E T="03">Application.</E>
+                             The form required to be completed by you and accepted by us before insurance coverage commences. This form must be completed and filed in your agent's office not later than the sales closing date of the initial insurance year for each crop for which insurance coverage is requested.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Beginning farmer or rancher.</E>
+                             An individual who has not actively operated and managed a farm or ranch in any State, with an insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 10 crop years. An individual's insurable interest in any crop year may be excluded at the request of the individual if the interest was held by the individual while: (1) under the age of 18; (2) in full-time military service of the United States; or (3) in post-secondary education. A person other than an individual may be eligible for beginning farmer or rancher benefits if there is at least one individual substantial beneficial interest holder and all individual substantial beneficial interest holders qualify as a beginning farmer or rancher.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Cancellation.</E>
+                             When the policy is no longer in effect as of the cancellation date.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">FAA.</E>
+                             The Federal Arbitration Act found at 9 U.S.C. 1 
+                            <E T="03">et seq.</E>
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Termination.</E>
+                             When the policy is no longer in effect as of the date specified in the policy.
+                        </P>
+                        <STARS/>
+                        <HD SOURCE="HD3">2. Life of Policy, Cancellation, and Termination</HD>
+                        <STARS/>
+                        <P>(f) * * *</P>
+                        <P>(2) * * *</P>
+                        <P>(i) * * *</P>
+                        <P>(D) For execution of a written payment agreement and failure to make any scheduled payment, the termination date for the crop year prior to the crop year in which you failed to make the scheduled payment (for this purpose only, the crop year will start the day after the termination date and end on the next termination date, for example, if the termination date is November 30 and you fail to make a payment on November 15, 2025, your policy will terminate on November 30, 2024, for the 2025 crop year).</P>
+                        <STARS/>
+                        <P>(4) If cancellation, voidance, or termination of insurance coverage occurs for any reason, including but not limited to indebtedness, suspension, debarment, disqualification, cancellation by you or us, or violation of the controlled substance provisions of the Food Security Act of 1985, a new application must be filed for the crop.</P>
+                        <P>(i) Insurance coverage will not be provided if you are ineligible under the contract or under any Federal statute or regulation.</P>
+                        <P>(ii) After you become eligible for crop insurance, if you want to obtain coverage for your crops, you must submit a new application on or before the sales closing date for the crop (since applications for crop insurance cannot be accepted after the sales closing date, if you make any payment after the sales closing date, you cannot apply for insurance until the next crop year).</P>
+                        <P>
+                            (5) For example, for the 2025 crop year, if crop A, with a termination date of October 31, 2024, and crop B, with a termination date of March 15, 2025, are insured and you do not pay the premium for crop A by the termination date, you are ineligible for crop insurance as of October 31, 2024, and crop A's policy is terminated as of that date. Crop B's policy does not terminate until March 15, 2025, and an indemnity for the 2024 crop year may still be owed. If you enter into a written payment agreement on September 25, 2025, the earliest date by which you can obtain crop insurance for crop A is to apply for crop insurance by the October 31, 2025, sales closing date and for crop B is to apply for crop insurance by the March 15, 2026, sales closing date. If you fail to make a payment that was scheduled to be made on April 1, 2026, your policy will terminate as of October 31, 2025, for crop A, and March 15, 2026, for crop B, and no indemnity, prevented planting payment, or replanting payment will be due for that crop year for either crop. You will not 
+                            <PRTPAGE P="54536"/>
+                            be eligible to apply for crop insurance for any crop until after the amounts owed are paid in full or you have your debts discharged in bankruptcy.
+                        </P>
+                        <STARS/>
+                        <HD SOURCE="HD3">3. Insurance Guarantees, Coverage Levels, and Prices</HD>
+                        <STARS/>
+                        <P>(c) * * *</P>
+                        <P>(5) * * *</P>
+                        <P>(ii) For the harvest price:</P>
+                        <P>(A) Notice will be provided on RMA's website;</P>
+                        <P>(B) The harvest price will equal the projected price; and</P>
+                        <P>(C) Your premium will be recalculated as though you had elected yield protection. Any premium previously paid exceeding the new amount will be returned to you.</P>
+                        <STARS/>
+                        <P>(f) * * *</P>
+                        <P>(1) * * *</P>
+                        <P>(ii) If you are an insured who transferred your policy to us for the current crop year, you may, without penalty, report your completed and signed production report for the prior crop year to us on or before the production reporting date instead of providing a completed and signed production report to your previous insurance provider by the insured's production reporting date.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">4. Contract Changes</HD>
+                        <STARS/>
+                        <P>(b) Any changes in policy provisions, amounts of insurance, premium rates, program dates, price elections or the Commodity Exchange Price Provisions, if applicable, can be viewed on RMA's website not later than the contract change date contained in the Crop Provisions except:</P>
+                        <P>(1) As specified in section 3; or</P>
+                        <P>(2) To correct clear errors (for example, the price for oats was announced at $25.00 per bushel instead of $2.50 per bushel or the final planting date should be May 10 but the final planting date in the Special Provisions states August 10).</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">7. Annual Premium and Administrative Fees</HD>
+                        <STARS/>
+                        <P>(g) Additional premium subsidyâIf you qualify as a beginning farmer or rancher, or veteran farmer or rancher, the premium subsidy that you would otherwise receive will be increased, unless otherwise specified in the Special Provisions. If you qualify as:</P>
+                        <P>(1) A beginning farmer or rancher, your premium subsidy will be increased by:</P>
+                        <P>(i) 15 percentage points for the first through second crop years;</P>
+                        <P>(ii) 13 percentage points for the third crop year;</P>
+                        <P>(iii) 11 percentage points for the fourth crop year; and</P>
+                        <P>(iv) 10 percentage points for the fifth through tenth crop years;</P>
+                        <P>(2) A veteran farmer or rancher, your premium subsidy will be increased by 10 percentage points; or</P>
+                        <P>(3) Both a beginning farmer or rancher and a veteran farmer or rancher, your premium subsidy will equal that of the beginning farmer or rancher, which is equivalent or higher.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">17. Prevented Planting</HD>
+                        <STARS/>
+                        <P>(f) * * *</P>
+                        <P>(8) * * *</P>
+                        <P>(ii) Once any acreage does not satisfy the requirements in section 17(f)(8)(i)(E), such acreage will be considered physically unavailable for planting until the acreage has been planted to a crop in accordance with 17(f)(8)(i)(E) for 2 consecutive crop years.</P>
+                        <STARS/>
+                        <P>18. Written Agreements</P>
+                        <STARS/>
+                        <P>(e) * * *</P>
+                        <P>(2) * * *</P>
+                        <P>(ii) On or before the cancellation date to insure a crop in a county that does not have actuarial documents for the crop (if the Crop Provisions or Special Provisions do not provide a cancellation date for the county, the cancellation date for the requested crop or other insurable crops with similar agronomic conditions that have similar final planting and harvesting dates will be applicable); or</P>
+                        <STARS/>
+                        <P>(f) * * *</P>
+                        <P>(2) * * *</P>
+                        <P>(ii) * * *</P>
+                        <P>(C) If you (or anyone with a substantial beneficial interest in you) have at least 1 year of production records, but less than 3 years of production records, for the crop in the county or area but have production records for a similar crop in the county or area such that the combination of both sets of records results in at least 3 years of production records, you must provide the information required in sections 18(f)(2)(i)(A) and (B) for the years you (or anyone with a substantial beneficial interest in you) planted the crop (or produced a crop if the crop is a perennial crop) in the county or area and the information required in sections 18(f)(2)(ii)(A) and (B) regarding the similar crop for the remaining years; and</P>
+                        <STARS/>
+                        <P>[For Reinsured Policies]</P>
+                        <P>20. Mediation, Arbitration, Appeal, Reconsideration, and Administrative and Judicial Review</P>
+                        <P>(a) * * *</P>
+                        <P>(1) * * *</P>
+                        <P>(ii) An arbitrator does not have the authority to:</P>
+                        <P>(A) Interpret the policy or FCIC procedures; or</P>
+                        <P>(B) Disregard or fail to comply with a final agency determination or FCIC interpretation issued in accordance with 7 CFR part 400, subpart X. An arbitration award that is inconsistent with section 20 may be appealed in accordance with the FAA.</P>
+                        <STARS/>
+                        <P>(2) Unless the dispute is resolved through mediation, the arbitrator must provide to you and us a written statement describing the issues in dispute, the factual findings, the determinations and the amount and basis for any award and breakdown by claim for any award. The statement must also include any amounts awarded for interest. The arbitrator does not have the authority to issue an award that does not conform to section 20. Failure of the arbitrator to provide such written statement may be appealed in accordance with the FAA. All agreements reached through settlement, including those resulting from mediation, must be in writing and contain at a minimum a statement of the issues in dispute and the amount of the settlement.</P>
+                        <STARS/>
+                        <P>(c) The FAA governs arbitrations initiated under section 20(b)(1) and any decision rendered in arbitration is binding on you and us unless vacated, modified, or corrected in accordance with the FAA.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">21. Access to Insured Crop and Records, and Record Retention</HD>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>
+                            (2) All records used to establish the amount of production you certified on your production reports used to compute your approved yield for 3 years after the calendar date for the end of the insurance period for the crop year for which you initially certified such records, unless such records have already been provided to us. (For example, if you are a new insured and 
+                            <PRTPAGE P="54537"/>
+                            you certify 2017 through 2020 crop year production records in 2021 to determine your approved yield for the 2021 crop year, you must retain all records from the 2017 through 2020 crop years through the 2024 crop year. If you subsequently certify records of the 2021 crop year in 2022 to determine your approved yield for the 2022 crop year, you must retain the 2021 crop year records through the 2025 crop year and so forth for each subsequent year of production records certified.); and
+                        </P>
+                        <STARS/>
+                        <HD SOURCE="HD3">34. Units</HD>
+                        <P>(a) * * *</P>
+                        <P>(2) * * *</P>
+                        <P>(i) * * *</P>
+                        <P>(A) Two or more sections, if optional units are available by sections where the insured acreage is located;</P>
+                        <P>(B) Two or more section equivalents, if optional units are available by section equivalents where the insured acreage is located or are applicable to the insured acreage;</P>
+                        <P>(C) Two or more FSA farm numbers, if optional units are available by FSA farm numbers where the insured acreage is located;</P>
+                        <P>(D) Any combination of two or more sections, section equivalents, or FSA farm numbers, if optional units are available by more than one of these where the acreage is located or are applicable to the insured acreage (for example, if a portion of your acreage is located where optional units are allowed by sections and another portion of your acreage is located where optional units are allowed by FSA farm numbers, you may qualify for an enterprise unit based on a combination of these two parcels);</P>
+                        <P>(E) One section, section equivalent, or FSA farm number that contains at least 660 planted acres of the insured crop. You may qualify under this paragraph based only on the type of parcel that is utilized to establish optional units where your insured acreage is located (for example, if optional units are available by two or more sections where the insured acreage is located, you may qualify for an enterprise unit if you have at least 660 planted acres of the insured crop in one section);</P>
+                        <P>(F) Two or more units established by written agreement; or</P>
+                        <P>(G) Two or more non-contiguous parcels of land, if optional units by non-contiguous parcels of land are allowed by the Crop Provisions or Special Provisions and optional units are available where the insured acreage is located;</P>
+                        <STARS/>
+                        <P>(3) Whole-Farm UnitâFor a whole-farm unit:</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">36. Yield Options</HD>
+                        <STARS/>
+                        <P>(a) * * *</P>
+                        <P>(1) * * *</P>
+                        <P>(i) Each election made in section 36(a)(1) must be made on or before the production reporting date for the insured crop and each such election will remain in effect for succeeding crop years unless canceled by the production reporting date for the succeeding crop year. If you cancel an election, the actual yield will be used in the APH database. For example, if you elected to substitute yields in your APH database for the 2024 and 2025 crop years, for any subsequent crop year, you can elect to cancel the substitution for either or both crop years.</P>
+                        <P>(ii) Each excluded actual yield will be replaced with a yield equal to 60 percent of the applicable transitional yield for the crop year in which the yield is being replaced, unless you qualify as a beginning farmer or rancher, or veteran farmer or rancher, in which case the excluded actual yield will be replaced with a yield equal to 80 percent of the applicable transitional yield for the crop year in which the yield is being replaced. (For example, if you elect to exclude a 2024 crop year actual yield, the transitional yield in effect for the 2024 crop year in the county will be used. If you also elect to exclude a 2025 crop year actual yield, the transitional yield in effect for the 2025 crop year in the county will be used.) The replacement yields will be used in the same manner as actual yields for the purpose of calculating the approved yield.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>15. Amend Â§â457.104 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise the introductory text and the undesignated text at the beginning of the âCotton Crop Provisionsâ;</AMDPAR>
+                    <AMDPAR>b. In the definitions of âPlanted acreageâ and âProduction guarantee (per acre)â, remove the word âcontainedâ;</AMDPAR>
+                    <AMDPAR>c. In section 2, revise the section heading;</AMDPAR>
+                    <AMDPAR>d. Revise section 4;</AMDPAR>
+                    <AMDPAR>e. In section 6, in the introductory text, remove the words âthe provisions ofâ;</AMDPAR>
+                    <AMDPAR>f. In section 7, revise paragraph (b);</AMDPAR>
+                    <AMDPAR>g. In section 8:</AMDPAR>
+                    <AMDPAR>1. In the introductory text, remove the words âthe provisions ofâ; and</AMDPAR>
+                    <AMDPAR>2. In paragraph (d), remove the word âmeauresâ and add âmeasuresâ in its place;</AMDPAR>
+                    <AMDPAR>h. In section 10:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (b)(6) and the example paragraphs between paragraphs (b)(6) and (c);</AMDPAR>
+                    <AMDPAR>2. In paragraph (c)(1)(iii), remove the word âsubsectionâ and add âsectionâ in its place;</AMDPAR>
+                    <AMDPAR>3. In paragraph (c)(1)(iv)(A), remove the words âto us (Theâ and add âto us. (Theâ in their place and remove the words âto count)â and add âto count.)â in their place; and</AMDPAR>
+                    <AMDPAR>4. Revise paragraph (d); and</AMDPAR>
+                    <AMDPAR>i. In section 11, in paragraph (a), remove the words âthe provisions of.â</AMDPAR>
+                    <P>The revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.104</SECTNO>
+                        <SUBJECT> Cotton crop insurance provisions.</SUBJECT>
+                        <P>The Cotton Crop Insurance Provisions for the 2026 and succeeding crop years are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Cotton Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Cotton Crop Provisions and corresponding Commodity Exchange Price Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">2. Insurance Guarantees, Coverage Levels, and Prices</HD>
+                        <STARS/>
+                        <HD SOURCE="HD3">4. Cancellation and Termination Dates</HD>
+                        <P>In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are specified in the Special Provisions.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">7. Insurance Period</HD>
+                        <STARS/>
+                        <P>(b) In accordance with section 11 of the Basic Provisions, the calendar date for the end of the insurance period is specified in the Special Provisions.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">10. Settlement of Claim</HD>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>(6) Multiplying the result of section 10(b)(5) by your share.</P>
+                        <P>
+                            <E T="03">Example for Section 10(b)</E>
+                        </P>
+                        <P>
+                            You have 100 percent share in 50 acres of cotton in the unit with a production guarantee (per acre) of 525 pounds, your projected price is $.75 per pound, your harvest price is $.80 per 
+                            <PRTPAGE P="54538"/>
+                            pound, and your production to count is 25,000 pounds.
+                        </P>
+                        <P>If you elected yield protection:</P>
+                        <P>(1) 50 acres Ã (525-pound production guarantee (per acre) Ã $.75 per pound projected price) = $19,687.50 value of the production guarantee;</P>
+                        <P>(2) Not applicable;</P>
+                        <P>(3) 25,000-pound production to count Ã $.75 per pound projected price = $18,750.00 value of the production to count;</P>
+                        <P>(4) Not applicable;</P>
+                        <P>(5) $19,687.50â$18,750.00 = $937.50;</P>
+                        <P>(6) $937.50 Ã 1.000 share = $938.00 indemnity; or</P>
+                        <P>If you elected revenue protection:</P>
+                        <P>(1) 50 acres Ã (525-pound production guarantee (per acre) Ã $.80 per pound harvest price) = $21,000.00 revenue protection guarantee;</P>
+                        <P>(2) Not applicable;</P>
+                        <P>(3) 25,000-pound production to count Ã $.80 per pound harvest price = $20,000.00 value of the production to count;</P>
+                        <P>(4) Not applicable;</P>
+                        <P>(5) $21,000.00â$20,000.00 = $1,000.00;</P>
+                        <P>(6) $1,000.00 Ã 1.000 share = $1,000.00 indemnity payment.</P>
+                        <P>
+                            <E T="03">End of example.</E>
+                        </P>
+                        <STARS/>
+                        <P>(d) Mature white cotton may be adjusted for quality when production has been damaged by insured causes. Such production to count will be reduced if Price A is less than 90 percent of Price B.</P>
+                        <P>(1) Price B will be established by adding the current year's Farm Service Agency (FSA) premiums or discounts associated with the predominant cotton quality characteristics contained in the Special Provisions to the current year's FSA Upland Cotton National Average Loan Rate, or as specified in the Special Provisions.</P>
+                        <P>(2) Price A is defined as the loan value per pound for the bale determined in accordance with the FSA Schedule of Premiums and Discounts for the applicable crop year, or as specified in the Special Provisions.</P>
+                        <P>(3) If eligible for adjustment, the amount of production to count will be determined by multiplying the number of pounds of such production by the factor derived from dividing Price A by Price B.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>16. Amend Â§â457.109 as follows:</AMDPAR>
+                    <AMDPAR>a. In the regulation heading, remove the words âBeet Crop Insurance Provisionsâ and add âbeet crop insurance provisionsâ in their place;</AMDPAR>
+                    <AMDPAR>b. Revise the introductory text and the undesignated text at the beginning of the âSugar Beet Crop Provisionsâ;</AMDPAR>
+                    <AMDPAR>c. In section 1:</AMDPAR>
+                    <AMDPAR>1. Remove the definition of âCrop yearâ;</AMDPAR>
+                    <AMDPAR>2. In the definition of âPlanted acreageâ, remove the word âcontainedâ; and</AMDPAR>
+                    <AMDPAR>3. In the definition of âPractical to replantâ, remove the words âin section 1 of theâ and add âin theâ in their place;</AMDPAR>
+                    <AMDPAR>d. In section 2, remove the word âsection 34â and add âsection 34(b)â in its place;</AMDPAR>
+                    <AMDPAR>e. In section 3:</AMDPAR>
+                    <AMDPAR>1. In paragraph (b)(1) introductory text, remove the text â(60%)â; and</AMDPAR>
+                    <AMDPAR>2. In paragraph (b)(2), remove the text â(100%)â;</AMDPAR>
+                    <AMDPAR>f. In section 4, remove the words âthe provisions ofâ, and remove the word âstatesâ and add âStatesâ in its place;</AMDPAR>
+                    <AMDPAR>g. In section 5, remove the words âAugust 31 for California and March 15 for all other statesâ and add âspecified in the Special Provisionsâ in their place;</AMDPAR>
+                    <AMDPAR>h. In section 8, in paragraphs (b)(1) and (b)(4), remove the words âof these Crop Provisionsâ wherever they appear;</AMDPAR>
+                    <AMDPAR>i. In section 9, in the introductory text, remove the words âthe provisions ofâ;</AMDPAR>
+                    <AMDPAR>j. In section 11, in the introductory text, remove the words âthe provisions ofâ;</AMDPAR>
+                    <AMDPAR>k. In section 12:</AMDPAR>
+                    <AMDPAR>1. Revise the section heading; and</AMDPAR>
+                    <AMDPAR>2. In paragraph (a), remove the text â(90%)â;</AMDPAR>
+                    <AMDPAR>l. In section 14:</AMDPAR>
+                    <AMDPAR>1. In paragraph (b)(1), remove the words âproduction guaranteeâ and add âproduction guarantee (per acre)â in their place;</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (c)(1)(iv); and</AMDPAR>
+                    <AMDPAR>3. In paragraph (c)(1)(v)(A), remove the words âto us (Theâ and add âto us. (Theâ in their place, and remove the words âto count)â and add âto count.)â in their place;</AMDPAR>
+                    <AMDPAR>m. In section 18, in paragraphs (b)(5)(i), (ii), and (iii), remove the word âunitâ wherever it appears and add âapplicable APH databaseâ in its place.</AMDPAR>
+                    <P>The revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.109 </SECTNO>
+                        <SUBJECT>Sugar beet crop insurance provisions.</SUBJECT>
+                        <P>The Sugar Beet Crop Insurance Provisions effective for the 2026 and succeeding crop years in States with a November 30 contract change date and for the 2027 and succeeding crop years in all other States, are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Sugar Beet Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Sugar Beet Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions subject to the terms and conditions in your policy.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">12. Replanting Payment</HD>
+                        <STARS/>
+                        <HD SOURCE="HD3">14. Settlement of Claim</HD>
+                        <STARS/>
+                        <P>(c) * * *</P>
+                        <P>(1) * * *</P>
+                        <P>(iv) Only appraised production exceeding the difference between the first and final stage production guarantee for acreage that does not qualify for the final stage guarantee will be counted, except that all production from acreage subject to section 14(c)(1)(i) and (ii) will be counted; and</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>17. Amend Â§â457.125 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise the undesignated text preceding section 1;</AMDPAR>
+                    <AMDPAR>b. In section 1:</AMDPAR>
+                    <AMDPAR>1. Remove the definition of âNurse crop (companion crop)â; and</AMDPAR>
+                    <AMDPAR>2. In the definition of âValue per poundâ, remove the words âin excess ofâ and add âexceedingâ in their place;</AMDPAR>
+                    <AMDPAR>c. Revise sections 2 through 4;</AMDPAR>
+                    <AMDPAR>d. In section 5, in the introductory text, remove the words â(Insured Crop)â;</AMDPAR>
+                    <AMDPAR>e. In section 6:</AMDPAR>
+                    <AMDPAR>1. In the introductory text, remove the words âthe provisions of section 9 (Insurable Acreage)â and add âsection 9â in their place; and</AMDPAR>
+                    <AMDPAR>2. In paragraph (a), remove the words âwe agree in writingâ and add âby written agreementâ in their place;</AMDPAR>
+                    <AMDPAR>f. In section 7, remove the words âthe provisions of section 11 (Insurance Period)â and add âsection 11â in their place;</AMDPAR>
+                    <AMDPAR>g. In section 8, in the introductory text, remove the words âthe provisions of section 12 (Causes of Loss)â and add âsection 12â in their place;</AMDPAR>
+                    <AMDPAR>h. In section 9:</AMDPAR>
+                    <AMDPAR>1. In paragraph (a), remove the words â(Replanting Payment)â; and</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (b);</AMDPAR>
+                    <AMDPAR>i. In section 10, remove the words â(Duties in the Event of Damage or Loss)â; and</AMDPAR>
+                    <AMDPAR>j. In section 11:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (b)(7);</AMDPAR>
+                    <AMDPAR>2. Add example paragraphs between (b)(7) and (c);</AMDPAR>
+                    <AMDPAR>
+                        3. In paragraph (c)(1)(iv)(A), remove the words âto us (Theâ and add âto us. (Theâ in their place and remove the words âto count)â and add âto count.)â in their place;
+                        <PRTPAGE P="54539"/>
+                    </AMDPAR>
+                    <AMDPAR>4. In paragraphs (d)(1) and (2)(ii), remove the words âin excess ofâ wherever they appear and add âexceedingâ in their place;</AMDPAR>
+                    <AMDPAR>5. Remove paragraph (d)(3)(ii);</AMDPAR>
+                    <AMDPAR>6. Redesignate paragraphs (d)(3)(iii) through (v) as paragraphs (d)(3)(ii) through (iv);</AMDPAR>
+                    <AMDPAR>7. In newly redesignated paragraph (d)(3)(iii)(C), remove the words âis in complianceâ and add âcompliesâ in their place;</AMDPAR>
+                    <AMDPAR>8. In paragraph (d)(4) introductory text, remove the words âin sections 11(d) (2) and (3)â and add âin sections 11(d)(2) and (3)â in their place; and</AMDPAR>
+                    <AMDPAR>
+                        9. In paragraph (d)(4)(ii)(A)(
+                        <E T="03">3</E>
+                        ), remove the word âoneâ and add â1â in its place.
+                    </AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.125</SECTNO>
+                        <SUBJECT> Safflower crop insurance provisions.</SUBJECT>
+                        <P>The Safflower Crop Insurance Provisions for the 2026 and succeeding crop years for counties with a contract change date of November 30, and for the 2027 and succeeding crop years for counties with a contract change date of August 31, are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Safflower Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Safflower Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">2. Insurance Guarantees, Coverage Levels, and Prices</HD>
+                        <P>In addition to the requirements of section 3 of the Basic Provisions (Â§â457.8), you may select only 1 price election for all the safflower in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select 1 price election for each safflower type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for 1 type, you must also choose 100 percent of the maximum price election for all other types.</P>
+                        <HD SOURCE="HD3">3. Contract Changes</HD>
+                        <P>In accordance with section 4 of the Basic Provisions (Â§â457.8), the contract change date is August 31 preceding the cancellation date for California, and November 30 preceding the cancellation date for all other States.</P>
+                        <HD SOURCE="HD3">4. Cancellation and Termination Dates</HD>
+                        <P>In accordance with section 2 of the Basic Provisions (Â§â457.8), the cancellation and termination dates are specified in the Special Provisions.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">9. Replanting Payment</HD>
+                        <STARS/>
+                        <P>(b) The amount of the replanting payment per acre will be the lesser of the actual cost of replanting or:</P>
+                        <P>(1) The following values:</P>
+                        <P>(i) The percentage of production guarantee (per acre) stated in the actuarial documents multiplied by your production guarantee (per acre); or</P>
+                        <P>(ii) The number of pounds (per acre) stated in the actuarial documents;</P>
+                        <P>(2) Multiplied by your price election; and</P>
+                        <P>(3) Multiplied by your insured share.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">11. Settlement of Claim</HD>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>(7) Multiplying the result in section 11(b)(6) by your share.</P>
+                        <P>
+                            <E T="03">Example for Section 11(b)</E>
+                        </P>
+                        <P>You have a 100 percent share in 400 acres of safflower in the unit, with a 700-pound production guarantee (per acre) and a price election of $0.25 per pound. Due to insurable causes, you are only able to harvest 200,000 pounds of safflower. Your indemnity would be calculated as follows:</P>
+                        <P>(1) 400 acres Ã 700 pounds = 280,000 pounds production guarantee;</P>
+                        <P>(2) 280,000 pounds Ã $0.25 per pound price election = $70,000 value of the production guarantee;</P>
+                        <P>(3) $70,000 value of the production guarantee;</P>
+                        <P>(4) 200,000 pounds Ã $0.25 per pound = $50,000 value of production to count;</P>
+                        <P>(5) $50,000 value of production to count;</P>
+                        <P>(6) $70,000â$50,000 = $20,000 loss; and</P>
+                        <P>(7) $20,000 Ã 1.000 share = $20,000 indemnity payment.</P>
+                        <P>
+                            <E T="03">End of example.</E>
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>18. Amend Â§â457.128 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise the introductory text and the undesignated text at the beginning of the âGuaranteed Production Plan of Fresh Market Tomato Crop Provisionsâ;</AMDPAR>
+                    <AMDPAR>b. In section 1:</AMDPAR>
+                    <AMDPAR>1. In the definition of âAcreâ, remove the words âForty-three thousand five hundred sixty (43,560)â and add â43,560â in their place and remove the word âsixâ wherever it appears and add â6â in its place;</AMDPAR>
+                    <AMDPAR>2. In the definition of âMature green tomatoâ, redesignate paragraphs (a) through (d) as paragraphs (1) through (4);</AMDPAR>
+                    <AMDPAR>3. Revise the definition of âPotential productionâ; and</AMDPAR>
+                    <AMDPAR>4. In the definition of âPractical to replantâ, remove the words âof âPractical to replantâ contained in section 1 ofâ and add âinâ in their place;</AMDPAR>
+                    <AMDPAR>c. In section 2:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (b); and</AMDPAR>
+                    <AMDPAR>2. Add paragraph (c);</AMDPAR>
+                    <AMDPAR>d. In section 3:</AMDPAR>
+                    <AMDPAR>1. In paragraph (b) introductory text, remove the words âproduction guarantees per acreâ and add âproduction guarantees (per acre)â in their place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (b)(2), remove the word âstatesâ and add âStatesâ in its place;</AMDPAR>
+                    <AMDPAR>3. In paragraph (c), remove the words âproduction guaranteeâ and add âproduction guarantee (per acre)â in their place; and</AMDPAR>
+                    <AMDPAR>4. In paragraph (d), remove the words âcherry, romaâ and add âcherry, grape, romaâ in their place;</AMDPAR>
+                    <AMDPAR>e. Revise section 5;</AMDPAR>
+                    <AMDPAR>f. In section 6, in paragraph (a), remove the words âthe provisions ofâ;</AMDPAR>
+                    <AMDPAR>g. In section 7, remove the words âcontained in the Basic Provisions (Â§â457.8), forâ and add âin the Basic Provisions (Â§â457.8) forâ in their place and remove the words âproduction guaranteeâ and add âproduction guarantee (per acre)â in their place;</AMDPAR>
+                    <AMDPAR>h. In section 8, in paragraph (e)(4), remove the words âCherry, romaâ and add âCherry, grape, romaâ in their place;</AMDPAR>
+                    <AMDPAR>i. In section 9:</AMDPAR>
+                    <AMDPAR>1. In paragraph (a) introductory text, remove the words âthe provisions ofâ; and</AMDPAR>
+                    <AMDPAR>2. In paragraphs (a)(2)(i)(B) and (b), remove the words âone of the threeâ wherever they appear and add â1 of the 3â in their place;</AMDPAR>
+                    <AMDPAR>j. In section 10:</AMDPAR>
+                    <AMDPAR>1. In the introductory text, remove the words âthe provisions ofâ; and</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (b)(7);</AMDPAR>
+                    <AMDPAR>k. In section 11, in paragraph (a) introductory text, remove the words âthe provisions ofâ;</AMDPAR>
+                    <AMDPAR>l. In section 12:</AMDPAR>
+                    <AMDPAR>
+                        1. In paragraph (a), remove the words âin excess ofâ and add âexceedingâ in their place;
+                        <PRTPAGE P="54540"/>
+                    </AMDPAR>
+                    <AMDPAR>2. Revise paragraph (b); and</AMDPAR>
+                    <AMDPAR>3. In paragraph (c), remove the words âcontained in section 13â and add âin section 13â in their place;</AMDPAR>
+                    <AMDPAR>m. In section 13:</AMDPAR>
+                    <AMDPAR>1. In paragraphs (b)(1) and (c)(1)(i) introductory text, remove the words âproduction guaranteeâ wherever they appear and add âproduction guarantee (per acre)â in their place;</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (c)(1)(iii)(A);</AMDPAR>
+                    <AMDPAR>3. In paragraph (c)(1)(iii)(B), remove the words âcherry, romaâ and add âcherry, grape, roma,â in their place;</AMDPAR>
+                    <AMDPAR>4. In paragraph (c)(1)(v)(A), remove the words âto us (Theâ and add âto us. (Theâ in their place and remove the words âto count)â and add âto count.)â in their place;</AMDPAR>
+                    <AMDPAR>5. Revise paragraph (c)(2)(ii)(A); and</AMDPAR>
+                    <AMDPAR>6. In paragraph (c)(2)(ii)(B), remove the words âcherry, romaâ and add âcherry, grape, romaâ in their place.</AMDPAR>
+                    <P>The revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.128 </SECTNO>
+                        <SUBJECT>Guaranteed production plan of fresh market tomato crop insurance provisions.</SUBJECT>
+                        <P>The Guaranteed Production Plan of Fresh Market Tomato Crop Insurance Provisions for the 2026 and succeeding crop years for all counties with a contract change date of December 31, and for the 2027 and succeeding crop years for all counties with a contract change date of September 30, are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Guaranteed Production Plan of Fresh Market Tomato Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Guaranteed Production Plan of Fresh Market Tomato Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.</P>
+                        <HD SOURCE="HD3">1. Definitions</HD>
+                        <STARS/>
+                        <P>
+                            <E T="03">Potential production.</E>
+                             The number of cartons per acre of mature green or ripe tomatoes that the tomato plants would have produced by the end of the insurance period:
+                        </P>
+                        <P>
+                            (1) With a classification size of 6 x 7 (2
+                            <FR>8/32</FR>
+                             inch minimum diameter) or larger for all types except cherry, grape, roma, or plum; or
+                        </P>
+                        <P>(2) Meeting the criteria specified in the Special Provisions for cherry, grape, roma, or plum types.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">2. Unit Division</HD>
+                        <STARS/>
+                        <P>(b) Optional units may be established by:</P>
+                        <P>(1) Land location as provided in section 34(c)(1) of the Basic Provisions;</P>
+                        <P>(2) Organic or non-organic farming practices as provided in section 34(c)(3) of the Basic Provisions; or</P>
+                        <P>(3) Combination of land location and organic farming practices as provided in section 34(c)(4) of the Basic Provisions.</P>
+                        <P>(c) Optional units by irrigation practice as provided in 34(c)(2) of the Basic Provisions are not applicable.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">5. Cancellation and Termination Dates</HD>
+                        <P>In accordance with section 2 of the Basic Provisions (Â§â457.8), the cancellation and termination dates are specified in the Special Provisions.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">10. Insurance Period</HD>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>(7) The date shown in the Special Provisions.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">12. Replanting Payment</HD>
+                        <STARS/>
+                        <P>(b) The maximum amount of the replanting payment per acre will be the lesser of:</P>
+                        <P>(1) Your actual cost of replanting; or</P>
+                        <P>(2) The number of cartons (per acre) stated in the actuarial documents multiplied by your:</P>
+                        <P>(i) Price election; and</P>
+                        <P>(ii) Insured share.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">13. Settlement of Claim</HD>
+                        <STARS/>
+                        <P>(c) * * *</P>
+                        <P>(1) * * *</P>
+                        <P>(iii) * * *</P>
+                        <P>
+                            (A) With a classification size of 6 x 7 (2
+                            <FR>8/32</FR>
+                             inch minimum diameter) or larger and that would grade 85 percent or better U.S. No. 1 for types other than cherry, grape, roma, or plum; or
+                        </P>
+                        <STARS/>
+                        <P>(2) * * *</P>
+                        <P>(ii) * * *</P>
+                        <P>
+                            (A) That grades 85 percent or better U.S. No. 1 with a classification size of 6 x 7 (2
+                            <FR>8/32</FR>
+                             inch minimum diameter) or larger for all types except cherry, grape, roma, or plum; or
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>19. Amend Â§â457.137 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise the introductory text and the undesignated text at the beginning of the âGreen Pea Crop Provisionsâ;</AMDPAR>
+                    <AMDPAR>b. In section 1:</AMDPAR>
+                    <AMDPAR>1. In the definition of âGood farming practicesâ, remove the words âof âgood farming practicesâ;</AMDPAR>
+                    <AMDPAR>
+                        2. In the definition of âPod typeâ, remove the text â
+                        <E T="03">e.g.â</E>
+                         and add âfor exampleâ in its place;
+                    </AMDPAR>
+                    <AMDPAR>3. In the definition of âPractical to replantâ, remove the words âof âpractical to replantâ in theâ and add âin theâ in their place;</AMDPAR>
+                    <AMDPAR>4. In the definition of âPrice electionâ, remove the words âof âprice electionââ; and</AMDPAR>
+                    <AMDPAR>5. Revise the definitions of âProcessor contractâ and âProduction guarantee (per acre)â;</AMDPAR>
+                    <AMDPAR>c. In section 2:</AMDPAR>
+                    <AMDPAR>1. In paragraph (a)(1)(ii), remove the words âin excess ofâ and add âexceedingâ in their place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (a)(2)(i), remove the word âSectionâ and add âsectionâ in its place;</AMDPAR>
+                    <AMDPAR>3. Add paragraph (a)(3); and</AMDPAR>
+                    <AMDPAR>4. In paragraph (b), remove the word âSectionâ and add âsectionâ in its place;</AMDPAR>
+                    <AMDPAR>d. Revise section 5;</AMDPAR>
+                    <AMDPAR>e. In section 10, in paragraph (a)(4), remove the words ânot covered)â and add ânot covered.)â in their place;</AMDPAR>
+                    <AMDPAR>f. In section 12:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (b)(7) and the example paragraphs between paragraphs (b)(7) and (c); and</AMDPAR>
+                    <AMDPAR>2. In paragraph (c)(1)(iv)(A), remove the words âto us (Theâ and add âto us. (Theâ in their place and remove the words âto count)â and add âto count.)â in their place.</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.137 </SECTNO>
+                        <SUBJECT>Green pea crop insurance provisions.</SUBJECT>
+                        <P>The Green Pea Crop Insurance Provisions for the 2026 and succeeding crop years are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Green Pea Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Green Pea Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.</P>
+                        <HD SOURCE="HD3">1. Definitions</HD>
+                        <STARS/>
+                        <P>
+                            <E T="03">Processor contract.</E>
+                        </P>
+                        <P>
+                            (1) A written contract between the producer and a processor, containing at a minimum:
+                            <PRTPAGE P="54541"/>
+                        </P>
+                        <P>(i) The producer's commitment to plant and grow green peas, and to deliver the green pea production to the processor;</P>
+                        <P>(ii) The processor's commitment to purchase all the production stated in the processor contract; and</P>
+                        <P>(iii) A base contract price.</P>
+                        <P>(2) Multiple contracts with the same processor that specify amounts of production will be considered as a single processor contract unless the contracts are for different types of green peas.</P>
+                        <P>
+                            <E T="03">Production guarantee (per acre).</E>
+                             In accordance with the definition in the Basic Provisions, the production guarantee (per acre) is specified in pounds. For shell type peas, the weight will be determined after shelling.
+                        </P>
+                        <STARS/>
+                        <HD SOURCE="HD3">2. Unit Division</HD>
+                        <P>(a) * * *</P>
+                        <P>(3) Optional units by land location as provided in section 34(c)(1) of the Basic Provisions and irrigation practice as provided in section 34(c)(2) of the Basic Provisions are not applicable.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">5. Cancellation and Termination Dates</HD>
+                        <P>In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are specified in the Special Provisions.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">12. Settlement of Claim</HD>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>(7) Multiplying the result of section 12(b)(6) by your share.</P>
+                        <P>
+                            <E T="03">Example for Section 12(b)</E>
+                        </P>
+                        <P>You have a 100 percent share in 100 acres of shell type green peas in the unit, with a 4,000-pound production guarantee (per acre) and a price election of $0.15 per pound. You are only able to harvest 200,000 pounds. Your indemnity would be calculated as follows:</P>
+                        <P>(1) 100 acres Ã 4,000 pound production guarantee (per acre) = 400,000 pound production guarantee;</P>
+                        <P>(2) 400,000 pounds Ã $0.15 per pound price election = $60,000.00 value of the production guarantee;</P>
+                        <P>(3) Not applicable;</P>
+                        <P>(4) 200,000 pounds Ã $0.15 per pound price election = $30,000.00 value of production to count;</P>
+                        <P>(5) Not applicable;</P>
+                        <P>(6) $60,000.00â$30,000.00 = $30,000.00 loss; and</P>
+                        <P>(7) $30,000.00 Ã 1.000 share = $30,000.00 indemnity payment.</P>
+                        <P>You also have a 100 percent share in 100 acres of pod type green peas in the same unit, with a 5,000-pound production guarantee (per acre) and a price election of $0.15 per pound. You are only able to harvest 450,000 pounds. Your total indemnity for both shell type and pod type green peas would be calculated as follows:</P>
+                        <P>(1) 100 acres Ã 4,000 pound production guarantee (per acre) = 400,000 pound production guarantee for the shell type, and 100 acres Ã 5,000 pound production guarantee (per acre) = 500,000 pound production guarantee for the pod type;</P>
+                        <P>(2) 400,000 pound production guarantee Ã $0.15 per pound price election = $60,000.00 value of the production guarantee for the shell type, and 500,000 pound production guarantee Ã $0.15 per pound price election = $75,000.00 value of the production guarantee for the pod type;</P>
+                        <P>(3) $60,000.00 + $75,000.00 = $135,000.00 total value of the production guarantee;</P>
+                        <P>(4) 200,000 pounds Ã $0.15 per pound price election = $30,000.00 value of production to count for the shell type; and 450,000 pounds Ã $0.15 per pound = $67,500.00 value of production to count for the pod type;</P>
+                        <P>(5) $30,000.00 + $67,500.00 = $97,500.00 total value of production to count;</P>
+                        <P>(6) $135,000.00â$97,500.00 = $37,500.00 loss; and</P>
+                        <P>(7) $37,500.00 loss Ã 1.000 share = $37,500.00 indemnity payment.</P>
+                        <P>
+                            <E T="03">End of example.</E>
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>20. Amend Â§â457.139 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise the undesignated text preceding section 1;</AMDPAR>
+                    <AMDPAR>b. In section 1:</AMDPAR>
+                    <AMDPAR>1. In the definition of âacreâ, remove the words âsix feetâ wherever they appear and add the words â6 feetâ in their place;</AMDPAR>
+                    <AMDPAR>2. In the definition of âcrop yearâ remove the word âcontainedâ; and</AMDPAR>
+                    <AMDPAR>3. In the definition of âdirect marketingâ, remove the words âcontained in section 1 ofâ and add âinâ in their place;</AMDPAR>
+                    <AMDPAR>c. In section 2:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (b); and</AMDPAR>
+                    <AMDPAR>2. Add paragraph (c);</AMDPAR>
+                    <AMDPAR>d. In section 3, in paragraph (c), remove the word âcontainedâ;</AMDPAR>
+                    <AMDPAR>e. In section 5, remove the words âJuly 31â and add âspecified in the Special Provisionsâ in their place;</AMDPAR>
+                    <AMDPAR>
+                        f. In section 7, remove the words âcontained in section 7â and add âin section 7â in their place and remove the text â
+                        <E T="03">e.g.â</E>
+                         and add âfor exampleâ in its place;
+                    </AMDPAR>
+                    <AMDPAR>g. In section 8:</AMDPAR>
+                    <AMDPAR>1. In paragraph (b)(5) introductory text, remove the words âone of the threeâ and add â1 of the 3â in their place; and</AMDPAR>
+                    <AMDPAR>2. In paragraph (c)(3), remove the words âdirect marketingâ and add âdirect marketing, unless otherwise provided by Special Provisionsâ in their place;</AMDPAR>
+                    <AMDPAR>h. In section 9, in paragraph (a), remove the words âsection 9 of the Basic Provisions, thatâ and add âthe provisions of section 9 of the Basic Provisions thatâ in their place and remove the words âone of the threeâ and add â1 of the 3â in their place;</AMDPAR>
+                    <AMDPAR>i. In section 12:</AMDPAR>
+                    <AMDPAR>1. Revise the section heading; and</AMDPAR>
+                    <AMDPAR>2. Revise paragraphs (a) and (b);</AMDPAR>
+                    <AMDPAR>j. In section 13, in the introductory text, remove the word âcontainedâ;</AMDPAR>
+                    <AMDPAR>k. In section 14, in paragraph (c)(2)(iv)(A), remove the words âbe used)â and add âbe used.)â in their place;</AMDPAR>
+                    <AMDPAR>l. In section 16, revise paragraph (b) introductory text.</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.139 </SECTNO>
+                        <SUBJECT>Fresh market tomato (dollar plan) crop insurance provisions.</SUBJECT>
+                        <P>The Fresh Market Tomato (Dollar Plan) Crop Insurance Provisions for the 2027 and succeeding crop years are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Fresh Market Tomato (Dollar Plan) Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Fresh Market Tomato (Dollar Plan) Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions), subject to the terms and conditions in your policy.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">2. Unit Division</HD>
+                        <STARS/>
+                        <P>(b) Optional units may be established by:</P>
+                        <P>(1) Land location as provided in section 34(c)(1) of the Basic Provisions;</P>
+                        <P>(2) Organic or non-organic farming practices as provided in section 34(c)(3) of the Basic Provisions; or</P>
+                        <P>(3) Combination of land location and organic farming practices as provided in section 34(c)(4) of the Basic Provisions.</P>
+                        <P>(c) Optional units by irrigation practice as provided in 34(c)(2) of the Basic Provisions are not applicable.</P>
+                        <STARS/>
+                        <PRTPAGE P="54542"/>
+                        <HD SOURCE="HD3">12. Replanting Payment</HD>
+                        <P>(a) In accordance with section 13 of the Basic Provisions, a replanting payment is allowed if the crop is damaged by an insurable cause of loss to the extent that more than 50 percent of the plant stand will not produce tomatoes and it is practical to replant.</P>
+                        <P>(b) The maximum amount of the replanting payment per acre will be the lesser of:</P>
+                        <P>(1) Your actual cost of replanting; or</P>
+                        <P>(2) The dollar amount (per acre) stated in the actuarial documents multiplied by your insured share.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">16. Minimum Value Option</HD>
+                        <STARS/>
+                        <P>(b) In lieu of sections 14(c)(3) and (4), the total value of harvested production will be determined as follows:</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>21. Amend Â§â457.148 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise the introductory text and the undesignated text at the beginning of the âFresh Market Pepper Crop Provisionsâ;</AMDPAR>
+                    <AMDPAR>b. In section 1:</AMDPAR>
+                    <AMDPAR>1. Revise the definition of âCrop yearâ;</AMDPAR>
+                    <AMDPAR>2. In the definition of âHarvestâ, remove the words âof peppersâ and add âof mature bell peppersâ in their place;</AMDPAR>
+                    <AMDPAR>3. In the definition of âPlanted acreageâ, remove the words âcontained in ;section 1 of the Basic Provisionsâ and add âin the Basic Provisionsâ in their place;</AMDPAR>
+                    <AMDPAR>4. In the definition of âPlanting periodâ, remove the words âfall, winter or spring-planted peppersâ and add âspring, summer, fall, or winter planted peppersâ in their place;</AMDPAR>
+                    <AMDPAR>5. Revise the definition of âPractical to replantâ;</AMDPAR>
+                    <AMDPAR>c. In section 2:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (b);</AMDPAR>
+                    <AMDPAR>2. Add paragraph (c);</AMDPAR>
+                    <AMDPAR>d. In section 3:</AMDPAR>
+                    <AMDPAR>1. In paragraph (a), remove the words â(Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities)â;</AMDPAR>
+                    <AMDPAR>2. In paragraph (c), remove the words âcontained in section 3 (Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities)â and add âin section 3â in their place;</AMDPAR>
+                    <AMDPAR>e. Revise sections 4 and 5;</AMDPAR>
+                    <AMDPAR>f. In section 6, in the introductory text, remove the words â(Report of Acreage)â;</AMDPAR>
+                    <AMDPAR>g. In section 7, remove the words âcontained in section 7 (Annual Premium and Administrative Fees)â and add âin section 7â in their place;</AMDPAR>
+                    <AMDPAR>h. In section 8:</AMDPAR>
+                    <AMDPAR>1. In the introductory text, remove the words â(Insured Crop)â;</AMDPAR>
+                    <AMDPAR>2. In paragraph (c) introductory text, add a colon at the end;</AMDPAR>
+                    <AMDPAR>3. In paragraph (c)(4), remove the words âdirect marketingâ and add âdirect marketing, unless otherwise allowed by the Special Provisionsâ in their place;</AMDPAR>
+                    <AMDPAR>i. In section 9:</AMDPAR>
+                    <AMDPAR>1. In paragraph (a), remove the words â(Insurable Acreage)â;</AMDPAR>
+                    <AMDPAR>2. In paragraph (b) introductory text, remove the words âthe provisions of section 9 (Insurable Acreage)â and add âsection 9â in their place;</AMDPAR>
+                    <AMDPAR>j. In section 10:</AMDPAR>
+                    <AMDPAR>1. In the introductory text, remove the words âthe provisions of section 11 (Insurance Period)â and add âsection 11â in their place;</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (f);</AMDPAR>
+                    <AMDPAR>k. In section 11:</AMDPAR>
+                    <AMDPAR>1. In paragraph (a) introductory text, remove the words âthe provisions of section 12 (Causes of Loss)â and add âsection 12â in their place;</AMDPAR>
+                    <AMDPAR>2. In paragraph (b) introductory text, remove the words â(Causes of Loss)â;</AMDPAR>
+                    <AMDPAR>l. In section 12:</AMDPAR>
+                    <AMDPAR>1. Revise the section heading;</AMDPAR>
+                    <AMDPAR>2. In paragraph (a), remove the words â(Replanting Payment)â;</AMDPAR>
+                    <AMDPAR>3. Revise paragraph (b);</AMDPAR>
+                    <AMDPAR>4. In paragraph (c), remove the words âcontained in section 13 (Replanting Payments)â and add âin section 13â in their place;</AMDPAR>
+                    <AMDPAR>m. In section 13, in the introductory text, remove the words âcontained in section 14 (Duties in the Event of Damage or Loss)â and add âsection 14â in their place;</AMDPAR>
+                    <AMDPAR>n. In section 14:</AMDPAR>
+                    <AMDPAR>1. Revise paragraph (b)(4)(ii); and</AMDPAR>
+                    <AMDPAR>2. In paragraph (c)(2)(iv)(A), remove the words âactual production (Ifâ and add âactual production. (Ifâ in their place and remove the words âbe used)â and add âbe used.)â in their place;</AMDPAR>
+                    <AMDPAR>o. In section 16, in paragraph (b) introductory text, remove the words âthe provisions contained inâ.</AMDPAR>
+                    <P>The revisions and additions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.148 </SECTNO>
+                        <SUBJECT>Fresh market pepper crop insurance provisions.</SUBJECT>
+                        <P>The Fresh Market Pepper Crop Insurance Provisions for the 2026 and succeeding crop years for all counties with a contract change date of November 30, and for the 2027 and succeeding crop years for all counties with a contract change date of April 30, are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Fresh Market Pepper Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Fresh Market Pepper Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.</P>
+                        <HD SOURCE="HD3">1. Definitions</HD>
+                        <STARS/>
+                        <P>
+                            <E T="03">Crop year.</E>
+                             In lieu of the definition in the Basic Provisions, a period of time that begins on the first day of the earliest planting period and continues through the end of insurance period for the latest planting period shown in the Special Provisions in your county. The crop year is designated by the calendar year in which fresh market peppers grown during the latest planting period would normally be harvested.
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">Practical to replant.</E>
+                             In addition to the definition in the Basic Provisions (Â§â457.8), we may consider marketing windows when determining if it is practical to replant.
+                        </P>
+                        <STARS/>
+                        <HD SOURCE="HD3">2. Unit Division</HD>
+                        <STARS/>
+                        <P>(b) Optional units may be established by:</P>
+                        <P>(1) Land location as provided in section 34(c)(1) of the Basic Provisions;</P>
+                        <P>(2) Organic or non-organic farming practices as provided in section 34(c)(3) of the Basic Provisions; or</P>
+                        <P>(3) Combination of land location and organic farming practices as provided in section 34(c)(4) of the Basic Provisions.</P>
+                        <P>(c) Optional units by irrigation practice as provided in 34(c)(2) of the Basic Provisions are not applicable.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">4. Contract Changes</HD>
+                        <P>In accordance with section 4 of the Basic Provisions (Â§â457.8), the contract change date is April 30 preceding the July 31 cancellation date and November 30 preceding the March 15 cancellation date.</P>
+                        <HD SOURCE="HD3">5. Cancellation and Termination Dates</HD>
+                        <P>In accordance with section 2 of the Basic Provisions (Â§â457.8), the cancellation and termination dates are specified in the Special Provisions.</P>
+                        <STARS/>
+                        <PRTPAGE P="54543"/>
+                        <HD SOURCE="HD3">10. Insurance Period</HD>
+                        <STARS/>
+                        <P>(f) Unless otherwise provided in the Special Provisions, the calendar date for the end of the insurance period is:</P>
+                        <P>(1) 165 days after the date of direct-seeding or replanting with seed; or</P>
+                        <P>(2) 150 days after the date of transplanting or replanting with transplants.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">12. Replanting Payment</HD>
+                        <STARS/>
+                        <P>(b) The maximum amount of the replanting payment per acre will be the lesser of:</P>
+                        <P>(1) Your actual cost of replanting; or</P>
+                        <P>(2) The dollar amount (per acre) stated in the actuarial documents multiplied by your insured share.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">14. Settlement of Claim</HD>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>(4) * * *</P>
+                        <P>(ii) For catastrophic risk protection coverage, the result of multiplying the total value of production to be counted (see section 14(c)) by the percentage contained in the actuarial documents; and</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>22. Amend Â§â457.151 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise the introductory text and the undesignated text at the beginning of the âForage Seeding Crop Provisionsâ;</AMDPAR>
+                    <AMDPAR>b. In section 1:</AMDPAR>
+                    <AMDPAR>1. In the definition of âAdequate standâ, redesignate paragraphs (a) and (b) as (1) and (2);</AMDPAR>
+                    <AMDPAR>2. In the definition of âCrop yearâ, remove the words âThe periodâ and add âIn lieu of the definition in the Basic Provisions, the periodâ in their place; and</AMDPAR>
+                    <AMDPAR>3. In the definition of âSales closing dateâ, remove the words âcontained in the Basicâ and add âin the Basicâ in their place;</AMDPAR>
+                    <AMDPAR>c. In section 3:</AMDPAR>
+                    <AMDPAR>1. Remove the period at the end of the section heading; and</AMDPAR>
+                    <AMDPAR>2. Remove the word âcontainedâ in paragraph (c);</AMDPAR>
+                    <AMDPAR>d. Revise section 5;</AMDPAR>
+                    <AMDPAR>e. In section 6:</AMDPAR>
+                    <AMDPAR>1. Remove the period at the end of the section heading; and</AMDPAR>
+                    <AMDPAR>2. Remove the words âof the provisionsâ;</AMDPAR>
+                    <AMDPAR>f. In section 8:</AMDPAR>
+                    <AMDPAR>1. Remove the period at the end of the section heading; and</AMDPAR>
+                    <AMDPAR>2. Remove the words âthe provisions ofâ;</AMDPAR>
+                    <AMDPAR>g. In section 9(c), remove the words âSpecial Provisions (Youâ and add âSpecial Provisions. (Youâ in their place and remove the words âharvest date)â and add âharvest date.)â in their place;</AMDPAR>
+                    <AMDPAR>h. In section 10, in the introductory text, remove the words âthe provisions ofâ;</AMDPAR>
+                    <AMDPAR>i. In section 11;</AMDPAR>
+                    <AMDPAR>1. In the introductory text, remove the words âthe provisions contained inâ; and</AMDPAR>
+                    <AMDPAR>2. In paragraph (a)(4) introductory text, remove the word âstatesâ and add âStatesâ in its place;</AMDPAR>
+                    <AMDPAR>j. In section 12, remove the period at the end of the section heading;</AMDPAR>
+                    <AMDPAR>k. In section 13:</AMDPAR>
+                    <AMDPAR>1. Remove the period at the end of the section heading; and</AMDPAR>
+                    <AMDPAR>2. Revise paragraph (b) and the example between paragraph (b) and section 14.</AMDPAR>
+                    <P>The revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.151 </SECTNO>
+                        <SUBJECT>Forage seeding crop insurance provisions.</SUBJECT>
+                        <P>The Forage Seeding Crop Insurance Provisions for the 2026 and succeeding crop years for all counties with a contract change date of November 30, and for the 2027 and succeeding crop years for all counties with a contract change date of April 30, are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Forage Seeding Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Forage Seeding Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">5. Cancellation and Termination Dates</HD>
+                        <P>In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are specified in the Special Provisions.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">13. Settlement of Claim</HD>
+                        <STARS/>
+                        <P>(b) Totaling the results in section 13(a).</P>
+                        <P>
+                            <E T="03">Example for Section 13</E>
+                        </P>
+                        <P>Assume you have a 100 percent share in 30 acres of type A forage in the unit, with an amount of insurance of $100 per acre. At the time of loss, the following findings are established: 10 acres had a remaining stand of 75 percent of an adequate stand or greater. 20 acres had a remaining stand less than 75 percent but more than 55 percent of an adequate stand.</P>
+                        <P>You also have a 100 percent share in 20 acres of type B forage in the unit, with an amount of insurance of $90 per acre. 10 acres had a remaining stand of 75 percent of an adequate stand or greater. 10 acres had a remaining stand less than 55 percent of an adequate stand.</P>
+                        <P>Your indemnity would be calculated as follows:</P>
+                        <P>1. 30 acres Ã $100 per acre = $3,000 amount of insurance for type A; 20 acres Ã $90 per acre = $1,800 amount of insurance for type B;</P>
+                        <P>2. 10 acres with 75% of an adequate stand or greater Ã $100 per acre = $1,000 for type A; 10 acres with 75% of an adequate stand or greater Ã $90 per acre = $900 for type B;</P>
+                        <P>3. 20 acres with less than 75% but greater than 55% of an adequate stand Ã $100 per acre Ã 50 percent = $1,000 for type A; 0 acres with less than 75% but greater than 55% of an adequate stand Ã $90 per acre Ã 50 percent = $0 for type B;</P>
+                        <P>4. $1,000 + $1,000 = $2,000 reduction for type A; $900 + $0 = $900 reduction for type B;</P>
+                        <P>5. $3,000â$2,000 = $1,000 for type A; $1,800â$900 = $900 for type B</P>
+                        <P>6. $1,000Ã1.000 share = $1,000 for type A; $900 Ã 1.000 share = $900 for type B; and</P>
+                        <P>7. $1,000 + $900 = $1,900 total indemnity.</P>
+                        <P>
+                            <E T="03">End of example.</E>
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="457">
+                    <AMDPAR>23. Amend Â§â457.161 as follows:</AMDPAR>
+                    <AMDPAR>a. Revise the introductory text and the undesignated text at the beginning of the âCanola and Rapeseed Crop Provisionsâ;</AMDPAR>
+                    <AMDPAR>b. In section 1:</AMDPAR>
+                    <AMDPAR>1. In the definition of âCanolaâ, remove the words âin accordance withâ and add âbyâ in their place;</AMDPAR>
+                    <AMDPAR>2. In the definition of âLatest final planting dateâ, redesignate paragraphs (a) through (c) as paragraphs (1) through (3);</AMDPAR>
+                    <AMDPAR>3. In the definitions of âPlanted acreageâ and âPrevented plantingâ, remove the word âcontainedâ wherever it appears; and</AMDPAR>
+                    <AMDPAR>4. In the definition of âPrice of damaged productionâ, remove the words âof these crop provisionsâ;</AMDPAR>
+                    <AMDPAR>c. Revise section 5;</AMDPAR>
+                    <AMDPAR>d. Revise sections 10(a) and (b);</AMDPAR>
+                    <AMDPAR>e. In section 12:</AMDPAR>
+                    <AMDPAR>
+                        1. In the Example for section 12(b) between paragraphs (b)(6) and (c), remove the words â1,350 pound production guaranteeâ wherever it appears and add â1,350-pound 
+                        <PRTPAGE P="54544"/>
+                        production guarantee (per acre)â in its place, remove the text â$17,550.00â$13,260.00â and add â$17,550.00â$13,260.00â in its place, and remove the text â$17,550.00â$12,240.00â and add â$17,550.00â$12,240.00â in its place;
+                    </AMDPAR>
+                    <AMDPAR>2. In paragraph (c)(1)(iv)(A), remove the words âto us (Theâ and add âto us. (Theâ in their place and remove the words âto count)â and add âto count.)â in their place;</AMDPAR>
+                    <AMDPAR>3. In paragraph (d)(1), remove the words âin excess ofâ and add âexceedingâ in their place; and</AMDPAR>
+                    <AMDPAR>4. In paragraph (d)(3)(iv)(C), remove the words âis in complianceâ and add âcompliesâ in their place.</AMDPAR>
+                    <P>The revision reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â457.161 </SECTNO>
+                        <SUBJECT>Canola and rapeseed crop insurance provisions.</SUBJECT>
+                        <P>The Canola and Rapeseed Crop Insurance Provisions for the 2026 and succeeding crop years for counties with a contract change date of November 30, and for the 2027 and succeeding crop years for counties with a contract change date of June 30, are as follows:</P>
+                        <HD SOURCE="HD1">United States Department of Agriculture</HD>
+                        <HD SOURCE="HD2">Federal Crop Insurance Corporation</HD>
+                        <HD SOURCE="HD3">Canola and Rapeseed Crop Provisions</HD>
+                        <P>In return for your payment of premium and administrative fee for coverage, these Canola and Rapeseed Crop Provisions and corresponding Commodity Exchange Price Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">5. Cancellation and Termination Dates</HD>
+                        <P>In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are specified in the Special Provisions.</P>
+                        <STARS/>
+                        <HD SOURCE="HD3">10. Replanting Payment</HD>
+                        <P>(a) A replanting payment is allowed as follows:</P>
+                        <P>(1) You must comply with all requirements regarding replanting payments in section 13 of the Basic Provisions;</P>
+                        <P>(2) The insured crop must be damaged by an insurable cause of loss to the extent that the remaining stand will not produce at least 90 percent of the production guarantee for the acreage; and</P>
+                        <P>(3) The replanted crop must be seeded at a rate sufficient to achieve a total (undamaged and new seeding) plant population that is considered appropriate by agricultural experts for the insured crop, type, and practice.</P>
+                        <P>(b) Your actual cost will not be used to determine your replanting payment. The amount of the replanting payment per acre will be:</P>
+                        <P>(1) The lesser of the following values:</P>
+                        <P>(i) The percentage of production guarantee (per acre) stated in the actuarial documents multiplied by your production guarantee (per acre); or</P>
+                        <P>(ii) The number of pounds (per acre) stated in the actuarial documents;</P>
+                        <P>(2) Multiplied by your projected price; and</P>
+                        <P>(3) Multiplied by your share.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <NAME>Richard Fordyce,</NAME>
+                    <TITLE>Under Secretary, Farm Production and Conservation.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2025-21482 Filed 11-26-25; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 3410-08-P</BILCOD>
+        </RULE>

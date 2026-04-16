@@ -1,0 +1,895 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="78197"/>
+                <AGENCY TYPE="F">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 1021</CFR>
+                <DEPDOC>[DOE-HQ-2020-0017]</DEPDOC>
+                <RIN>RIN 1990-AA49</RIN>
+                <SUBJECT>National Environmental Policy Act Implementing Procedures</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of the General Counsel, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The U.S. Department of Energy (DOE or the Department) is updating its National Environmental Policy Act (NEPA) implementing procedures pertaining to authorizations issued under the Natural Gas Act (NGA). These changes will improve the efficiency of the DOE decision-making process by saving time and expense in the NEPA compliance process and eliminating unnecessary environmental documentation for these actions that DOE has determined normally do not have significant effects.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This final rule is effective January 4, 2021.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        Documents relevant to this rulemaking are posted on the Federal eRulemaking Portal at 
+                        <E T="03">https://beta.regulations.gov/</E>
+                         (
+                        <E T="03">Docket: DOE-HQ-2020-0017</E>
+                        ). Documents posted to this docket include: The Notice of Proposed Rulemaking issued on May 1, 2020 (85 FR 25340); DOE's May 2020 Technical Support Document, which provides additional information; a âredline/strikeoutâ (markup) file of affected sections of the DOE NEPA regulations indicating the proposed changes; the comments received on the proposed changes; this final rule; and DOE's November 2020 Technical Support Document. Documents related to this rulemaking also are available on DOE's NEPA website at 
+                        <E T="03">https://energy.gov/nepa.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Mr. Mark J. Matarrese, Office of Fossil Energy, 
+                        <E T="03">Mark.Matarrese@hq.doe.gov,</E>
+                         202-586-0491; Edward Le Duc, Office of Assistant General Counsel for Environment, 
+                        <E T="03">Edward.LeDuc@hq.doe.gov,</E>
+                         202-586-4007.
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">I. Background</HD>
+                <P>
+                    DOE is responsible for authorizing exports of domestically produced natural gas to foreign countries under section 3 of the NGA.
+                    <SU>1</SU>
+                    <FTREF/>
+                     NEPA requires agencies to consider the environmental impacts of proposed major Federal actions as part of their decision-making process.
+                    <SU>2</SU>
+                    <FTREF/>
+                     DOE must comply with NEPA's requirement for an environmental review before reaching a final decision on applications to export natural gas to countries with which the United States does not have a free trade agreement requiring national treatment for trade in natural gas (non-FTA countries).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        â15 U.S.C. 717b. Section 3(a) of the NGA requires DOE to issue an order authorizing natural gas exports unless it finds that such an order âwill not be consistent with the public interest.â
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        â42 U.S.C. 4332(2)(C).
+                    </P>
+                </FTNT>
+                <P>
+                    The Council on Environmental Quality (CEQ) regulations (40 CFR parts 1500-1508) implementing NEPA require agencies to develop their own NEPA implementing procedures, as necessary, to apply the CEQ regulations to their specific programs and decision-making processes.
+                    <SU>3</SU>
+                    <FTREF/>
+                     CEQ revised its NEPA regulations in July 2020.
+                    <SU>4</SU>
+                    <FTREF/>
+                     Through this rule, DOE is revising its NEPA regulationsâ
+                    <SU>5</SU>
+                    <FTREF/>
+                     consistent with the CEQ regulations that allow agencies to identify in their agency procedures categories of actions that normally do not have significant effects, and with the legal principle that potential environmental effects to be considered by an agency under NEPA do not include effects that the agency has no authority to prevent.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        â40 CFR 1507.3.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        â85 FR 43304 (July 16, 2020).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        â10 CFR part 1021.
+                    </P>
+                </FTNT>
+                <P>
+                    In particular, DOE makes these revisions because (1) DOE is required by section 3(c) of the Natural Gas Actâ
+                    <SU>6</SU>
+                    <FTREF/>
+                     to authorize liquefied natural gas (LNG) exports to FTA countries and lacks discretion with respect to such approvals and (2) DOE's review of applications for LNG exports to non-FTA countries is limited to consideration of effects that are reasonably foreseeable and have a sufficiently close causal connection to the granting of the export authorization.
+                    <SU>7</SU>
+                    <FTREF/>
+                     As set forth below, DOE revises categorical exclusion (CX) B5.7 to focus exclusively on the analysis of potential environmental impacts resulting from activities occurring at or after the point of export, which are within the scope of DOE's export authorization authority under the NGA.
+                    <SU>8</SU>
+                    <FTREF/>
+                     Such impacts begin at the point of export and are limited to the marine transport effects.
+                    <SU>9</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âSection 3(c) requires DOE to authorize applications for the export of natural gas to nations with which there is a free trade agreement (FTA countries), requiring that all such exports be âdeemed consistent with the public interest, and . . . granted without modification or delay.â
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        â40 CFR 1508.1(g); 
+                        <E T="03">see also Dep't of Transp.</E>
+                         v. 
+                        <E T="03">Pub. Citizen,</E>
+                         541 U.S. 752 (2004); 
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">Fed. Energy Regulatory Comm'n,</E>
+                         827 F.3d 36 (D.C. Cir. 2016).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âThis scope of analysis is consistent with decisions in recent years of the United States Court of Appeals for the District of Columbia Circuit (D.C. Circuit), which recognize that DOE âmaintains exclusive jurisdiction over the export of natural gas as a commodity.â 
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">Fed. Energy Regulatory Comm'n,</E>
+                         827 F.3d at 40. Specifically, the D.C. Circuit has observed that the Federal Energy Regulatory Commission (FERC) has an obligation to comply with the NGA and NEPA with respect to its decisions to authorize the construction of LNG terminals, whereas DOE has an independent obligation âto consider the environmental impacts of its export authorization decision under NEPA and determine whether it satisfie[s] the Natural Gas Act's `public interest' test.â 
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         867 F.3d 189, 192 (D.C. Cir. 2017).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âDOE defines export activities as starting at the point of delivery to the export vessel, and extending to the territorial waters of the receiving country.
+                    </P>
+                </FTNT>
+                <P>
+                    DOE authorization also is required for imports of natural gas under section 3(a) of the NGA. However, section 3(c) of the NGA was amended by section 201 of the Energy Policy Act of 1992â
+                    <SU>10</SU>
+                    <FTREF/>
+                     to require that applications to authorize the import of natural gas be âdeemed consistent with the public interest, and . . . granted without modification or delay.â This requirement leaves DOE with no discretion in its approvals of LNG imports, as they are deemed to be in the public interest. Accordingly, DOE is removing the reference to authorizations to import natural gas from its NEPA regulations, consistent with the legal principle that an agency is not required to prepare a NEPA analysis when it has no discretion in its action.
+                    <SU>11</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âEnergy Policy Act of 1992, Public Law 102-486, 106 Stat. 2776 (Oct. 24, 1992).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        â40 CFR 1501.1(a)(5), and 40 CFR 1508.1(q)(1)(ii); 10 CFR 1021.104(b) (defining âActionsâ requiring NEPA review but specifically excluding âpurely ministerial actions with regard to 
+                        <PRTPAGE/>
+                        which DOE has no discretion,â such as âministerial actions to implement congressionally mandated funding for actions not proposed by DOE and as to which DOE has no discretionâ); 
+                        <E T="03">Dep't of Transp.</E>
+                         v. 
+                        <E T="03">Pub. Citizen,</E>
+                         541 U.S. at 768-770; 
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">Fed. Energy Regulatory Comm'n,</E>
+                         827 F.3d at 40; 
+                        <E T="03">Citizens Against Rails-to-Trails</E>
+                         v. 
+                        <E T="03">Surface Transp. Bd.,</E>
+                         267 F.3d 1144, 1151 (D.C. Cir. 2001).
+                    </P>
+                </FTNT>
+                <PRTPAGE P="78198"/>
+                <HD SOURCE="HD2">A. What parts of DOE's NEPA regulations is DOE amending?</HD>
+                <P>
+                    DOE's NEPA regulations list classes of actions normally associated with each level of NEPA review.
+                    <SU>12</SU>
+                    <FTREF/>
+                     This final rule revises the five classes of actions regarding applications to import or export natural gas to a non-FTA country. These are two CXs: B5.7 (Import or export of natural gas, with operational changes) and B5.8 (Import or export of natural gas, with new cogeneration powerplant); one class of actions normally requiring an EA: C13 (Import or export natural gas involving minor new construction); and two classes of action normally requiring an EIS: D8 (Import or export of natural gas involving major new facilities) and D9 (Import or export of natural gas involving major operational change).
+                    <SU>13</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âThere are three levels of NEPA review established in the (CEQ NEPA implementing regulations (40 CFR parts 1500-1508)âcategorical exclusion, environmental assessment (EA), and environmental impact statement (EIS) each involving different levels of information and analysis.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        â
+                        <E T="03">See</E>
+                         10 CFR part 1021, subpart D.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. What revisions is DOE making?</HD>
+                <P>
+                    DOE is revising the classes of action in its NEPA regulations regarding authorizations under section 3 of the NGA for non-FTA countries, consistent with the CEQ regulations,
+                    <SU>14</SU>
+                    <FTREF/>
+                     and the legal principle enunciated in 
+                    <E T="03">Public Citizen</E>
+                     and 
+                    <E T="03">Sierra Club</E>
+                    â
+                    <SU>15</SU>
+                    <FTREF/>
+                     that potential environmental effects considered under NEPA do not include effects that the agency has no authority to prevent. DOE's discretionary authority under Section 3 of the NGA is limited to the authorization of exports of natural gas to non-FTA countries. Therefore, DOE need not review potential environmental impacts associated with the construction or operation of natural gas export facilities because DOE lacks authority to approve the construction or operation of those facilities. DOE's review is properly focused on potential environmental impacts resulting from the exercise of its NGA section 3 authority. These potential impacts would occur at or after the point of export to non-FTA countries.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        â40 CFR 1508.1(g)(2).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        â
+                        <E T="03">Dep't of Transp.</E>
+                         v. 
+                        <E T="03">Pub. Citizen,</E>
+                         541 U.S. 768-770; 
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">Fed. Energy Regulatory Comm'n,</E>
+                         827 F.3d 40 (D.C. Cir. 2016).
+                    </P>
+                </FTNT>
+                <P>
+                    Accordingly, DOE is revising the scope of CX B5.7 by deleting the reference to operation of natural gas facilities. The revised B5.7 includes a new statement that the scope includes any âassociated transportation of natural gas by marine vessel,â which would be the only source of potential environmental impacts resulting from DOE's decision regarding authorizations under section 3 of the NGA. Based on prior NEPA reviews and technical reports,
+                    <SU>16</SU>
+                    <FTREF/>
+                     DOE has determined that transport of natural gas by marine vessel normally does not pose the potential for significant environmental impacts.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âU.S. Dep't of Energy, Technical Support Document, Notice of Final Rulemaking, National Environmental Policy Act Implementing Procedures (10 CFR part 1021) (Nov. 2020) [hereinafter Technical Support Document].
+                    </P>
+                </FTNT>
+                <P>
+                    DOE also is removing the reference to import authorizations from B5.7 because section 3(c) of the NGA directs that authorization requests to import natural gas, as described in NGA section 3(b), âshall be granted without modification or delay.â DOE is not required to prepare NEPA analysis when it has no discretion in its action.
+                    <SU>17</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        â
+                        <E T="03">Supra</E>
+                         note 11.
+                    </P>
+                </FTNT>
+                <P>Finally, DOE is removing and reserving CX B5.8 and classes of action C13, D8, and D9 because these actions are outside the scope of DOE's authority or are covered by the revised CX B5.7.</P>
+                <HD SOURCE="HD2">C. How does DOE make a CX determination?</HD>
+                <P>The revised CX B5.7 is subject to the same conditions as other CXs listed in appendix B to subpart D of DOE's NEPA regulations. Before a proposed action such as an export authorization may be categorically excluded, DOE must review the proposed action in accordance with 10 CFR 1021.410 and determine that application of a CX is appropriate.</P>
+                <P>
+                    In addition, to fit within a class of actions in appendix B (including B5.7), a proposed action must satisfy certain conditions known as âintegral elements.ââ
+                    <SU>18</SU>
+                    <FTREF/>
+                     These conditions ensure that a proposed action would not have the potential to cause significant environmental impactsâfor example, due to a threatened violation of applicable environmental, safety, and health requirements.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        â10 CFR part 1021, subpart D, Appendix B, paragraphs (1) through (5).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">II. Comments Received and DOE's Responses</HD>
+                <P>
+                    DOE invited interested persons to submit comments on the Notice of Proposed Rulemaking and supporting information during a public comment period that ended on June 1, 2020.
+                    <SU>19</SU>
+                    <FTREF/>
+                     DOE received 16 comment letters from a number of parties, including environmental organizations, industry groups, and individuals. The Notice of Proposed Rulemaking and comments DOE received are available on the Federal eRulemaking Portal as described in the 
+                    <E T="02">ADDRESSES</E>
+                     section of this final rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âDep't of Energy, National Environmental Policy Act Implementing Procedures, Notice of Proposed Rulemaking and Request for Comment, 85 FR 25340 (May 1, 2020).
+                    </P>
+                </FTNT>
+                <P>DOE has evaluated the comments it received. In this section, DOE discusses the relevant, substantive comments and provides its responses to those comments. Some commenters raised issues that are outside the scope of the Notice of Proposed Rulemaking, because they do not speak to DOE's NEPA obligations or to the subject of the proposed rule. These issues include fossil energy extraction and use, construction of LNG pipelines and terminals, expanding use of renewable energy generally, moving to a carbon-neutral energy mix, and whether DOE's public interest analysis under the NGA has an environmental component.</P>
+                <HD SOURCE="HD2">A. General Comments</HD>
+                <P>Some commenters expressed support for DOE's proposed changes. For example, some commenters remarked that the proposed changes will reduce redundancy, delay, and regulatory uncertainty. DOE acknowledges these comments. Some commenters opposed the proposed rulemaking, stating, for example, that DOE had provided no evidence the proposed changes would improve efficiency. Based on its experience reviewing and considering the potential environmental effects of many requests for export authorization, DOE believes that the proposed changes will improve the efficiency of DOE's decision-making process by focusing its NEPA review on those activities that are within DOE's authority under the NGA.</P>
+                <P>
+                    Some commenters requested that DOE extend the public comment period on the Notice of Proposed Rulemaking. To support their request, these commenters referred to impacts of the proposed changes on agency environmental review obligations and to circumstances created by the COVID-19 national emergency. DOE believes that the thirty-day comment period provided for this proposed rulemaking provided an adequate opportunity for public comment for these limited revisions to its implementing procedures. DOE recognizes the substantial disruption and hardship brought about by the COVID-19 pandemic. However, the proposed rule was widely available in a variety of accessible formats, and 
+                    <PRTPAGE P="78199"/>
+                    comment submission was available through the Federal eRulemaking Portal and postal mail. It is important throughout this pandemic that DOE continue its mission, particularly in areas that contribute to strengthening the United States' economy.
+                </P>
+                <HD SOURCE="HD2">B. Comments Regarding the NEPA Process and Standards for Developing a CX</HD>
+                <HD SOURCE="HD3">I. Environmental Documentation Supporting Decisions Made Pursuant to DOE's Statutory Authority</HD>
+                <P>
+                    Some commenters objected to use of a CX as proposed, stating that NEPA reviews are not âunnecessary environmental documentation.â A CX does not eliminate NEPA review. Rather it is a form of NEPA review that allows agencies to focus their resources on information pertinent to the agency's decision-making authority and related to potentially significant environmental impacts. In implementing the revised CX, DOE will consider whether an extraordinary circumstance is present such that an EA or EIS will be required.
+                    <SU>20</SU>
+                    <FTREF/>
+                     DOE will also document its determination that application of the CX is appropriate. DOE's use of the phrase âunnecessary environmental documentationâ is a reference to DOE's prior practice of considering the potential environmental effects from activities that are beyond its decision-making authority, such as LNG terminal construction and operation. In virtually all of its recent LNG export proceedings, DOE has referenced in its export orders the environmental documents prepared by the Federal Energy Regulatory Commission (FERC).
+                    <SU>21</SU>
+                    <FTREF/>
+                     FERC, not DOE, reviews the potential environmental impacts of the construction and operation of the LNG terminals. Under the revised CX, DOE's NEPA review is tailored to its statutory authority and will not unnecessarily duplicate the documents that FERC or other agencies prepare under their statutory authorities.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        â40 CFR 1501.4(b).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âIn most cases, facility approval falls under FERC jurisdiction. In some cases involving offshore export facilities, the United States Maritime Administration (MARAD), rather than FERC, has statutory authority to approve facility construction and operation. Less commonly, where MARAD lacks jurisdiction, the Bureau of Ocean Energy Management (BOEM) would issue approval. DOE's practice was to adopt the NEPA record established by the authorizing agency for the facility.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">II. Scope of âExport Activitiesâ</HD>
+                <P>
+                    One commenter suggested that DOE should expand the definition of âexportâ to include operations required for the export process. DOE acknowledges the comment and notes that the statutory term âexportâ is not defined in the NGA. However, in adjudications under NGA section 3(a), DOE has construed an âexportâ of LNG from the United States as occurring âwhen the LNG is delivered to the flange of the LNG export vessel.ââ
+                    <SU>22</SU>
+                    <FTREF/>
+                     Therefore, DOE believes it is appropriate for its NEPA review of natural gas export applications to consider the potential environmental impacts starting at the point of delivery to the export vessel, and extending to the territorial waters of the receiving country. This is referred to in the revised CX as export of natural gas under section 3 of the Natural Gas Act and any associated transportation of natural gas by marine vessel.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        â
+                        <E T="03">See Kuhali</E>
+                         v. 
+                        <E T="03">Reno,</E>
+                         266 F.3d 93, 104 (2d Cir. 2001) (citing legal definitions of âexportâ including those in Black's Law Dictionary 600 (7th ed.1999) (âto send or carry abroadâ), âas well as with the common usage of the term, 
+                        <E T="03">e.g.,</E>
+                         Webster's New Collegiate Dictionary 400 (1981) (`to carry or send (as a commodity) to some other place (as another country).'ââ). This suggests that the âexportâ is limited to the action of transporting natural gas products from the U.S. to the receiving country, and that export activities therefore do not begin before the act of transporting the product overseas is initiated.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">III. Criteria for Establishing a CX</HD>
+                <P>Some commenters expressed concern that DOE did not meet the standard for establishing a CX and should have prepared an EA or an EIS for this rulemaking. These commenters stated that DOE (i) did not adequately consider the potential significance of environmental impacts resulting from this rulemaking, (ii) must analyze cumulative impacts of this rulemaking, and (iii) segmented consideration of natural gas exports from other connected actions in promulgating this rule.</P>
+                <P>
+                    DOE has met its obligations under NEPA. As noted in the Review Under National Environmental Policy Act sections of the Notice of Proposed Rulemaking and this final rule, the CEQ regulations do not direct agencies to prepare an EA or EIS before establishing agency procedures that supplement the CEQ regulations to implement NEPA.
+                    <SU>23</SU>
+                    <FTREF/>
+                     CEQ regulations provide that an agency, when establishing a CX, must âconsultâ with CEQ for input regarding conformity with CEQ regulations and NEPA before publishing new NEPA procedures in the 
+                    <E T="04">Federal Register</E>
+                     for comment.
+                    <SU>24</SU>
+                    <FTREF/>
+                     DOE has complied with this requirement.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        â
+                        <E T="03">Heartwood, Inc.</E>
+                         v. 
+                        <E T="03">U.S. Forest Service,</E>
+                         73 F. Supp. 2d 962, 972-73 (S.D. Ill. 1999), 
+                        <E T="03">aff'd,</E>
+                         230 F. 3d 947, 954-55 (7th Cir. 2000) (upholding the determination that establishing agency NEPA procedures does not require an EA or an EIS).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        â40 CFR 1507.3(b).
+                    </P>
+                </FTNT>
+                <P>Nevertheless, to support its decision, DOE did engage in an analysis to properly assess the potential significance of actions included in the revised CX B5.7. This analysis included a detailed review of technical documents regarding potential effects associated with marine transport of LNG. These documents are included in the Technical Support Document and support DOE's conclusion that potential environmental effects associated with marine transport, the only reasonably foreseeable environmental impacts associated with DOE natural gas export authorizations, are minimal.</P>
+                <P>
+                    Commenters asserted that DOE does not meet the standard for establishing a CX because it impermissibly segments natural gas exports from other connected actions, arguing that FERC's approval of export facilities is a âconnected actionâ to DOE's export approval that must be considered as part of DOE's NEPA review. The CX adopted in this final rule follows the Supreme Court's holding in 
+                    <E T="03">Public Citizen</E>
+                    â
+                    <SU>25</SU>
+                    <FTREF/>
+                     and the current CEQ NEPA regulation at 40 CFR 1501.9(e)(1) regarding the circumstances in which âconnected actionsâ must be analyzed. According to 
+                    <E T="03">Public Citizen</E>
+                     and the current CEQ NEPA regulations, a âbut forâ causal relationship is insufficient to make an agency responsible for a particular effect under NEPA.
+                    <SU>26</SU>
+                    <FTREF/>
+                     Accordingly, DOE's export authorizations and the construction and operation of export facilities do not have a sufficient causal connection to be considered connected actions. FERC has exclusive statutory authority to approve construction and operation of natural gas export facilities. DOE has no authority to approve construction or operation of such facilities, and thus there is no DOE decision to be informed by a NEPA analysis. The only decision for which DOE has authority is with respect to the export of the commodity itself. DOE's and FERC's approval actions are not interdependent.
+                    <SU>27</SU>
+                    <FTREF/>
+                     Therefore, DOE need 
+                    <PRTPAGE P="78200"/>
+                    not consider effects associated with the construction and operation of natural gas export facilities under NEPA.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        â
+                        <E T="03">Pub. Citizen,</E>
+                         541 U.S. 767-768.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        â
+                        <E T="03">Pub. Citizen,</E>
+                         541 U.S. 767 (âRespondents must rest, then, on a particularly unyielding variation of `but for' causation, where an agency's action is considered a cause of an environmental effect even when the agency has no authority to prevent the effect. However, a âbut forâ causal relationship is insufficient to make an agency responsible for a particular effect under NEPA and the relevant regulations.â); 
+                        <E T="03">see also</E>
+                         40 CFR 1508.1(g).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        âU.S. Dep't of Energy, Addendum to Environmental Review Documents Concerning Exports of Natural Gas from the United States, at 1 (Aug. 2014) (citing Freeport LNG Expansion, L.P. 
+                        <PRTPAGE/>
+                        and FLNG Liquefaction, LLC, DOE/FE Order No. 3282, Order Conditionally Granting Long-Term Multi-Contract Authorization to Export Liquefied Natural Gas by Vessel From the Freeport LNG Terminal on Quintana Island, Texas, to Non-Free Trade Agreement Nations (May 17, 2013)) (âreceiving a non-FTA authorization from DOE does not guarantee that a particular facility would be financed and built; nor does it guarantee that, even if built, market conditions would continue to favor export once the facility is operational.â).
+                    </P>
+                </FTNT>
+                <P>
+                    To the extent that commenters rely on 
+                    <E T="03">Sierra Club</E>
+                     v. 
+                    <E T="03">Bosworth</E>
+                    â
+                    <SU>28</SU>
+                    <FTREF/>
+                     to support the concerns raised above, this reliance is misplaced. As described in the paragraphs that follow, the facts of 
+                    <E T="03">Bosworth</E>
+                     are not analogous to this rulemaking.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        â
+                        <E T="03">Sierra Club</E>
+                         v 
+                        <E T="03">Bosworth,</E>
+                         510 F.3d 1016 (9th Cir. 2007).
+                    </P>
+                </FTNT>
+                <P>
+                    With regard to scoping, DOE notes that 
+                    <E T="03">Bosworth</E>
+                     pertains to an action taken by the U.S. Forest Service. According to the Forest Service NEPA Handbook, scoping was required for all Forest Service proposed actions, including those that would be categorically excluded.
+                    <SU>29</SU>
+                    <FTREF/>
+                     DOE has no similar requirement in its regulations, and the CEQ regulations require scoping only after a decision has been made to prepare an EIS.
+                    <SU>30</SU>
+                    <FTREF/>
+                     Since an EIS is not required to establish NEPA procedures under CEQ or DOE regulations or applicable case law, scoping was not a prerequisite for the promulgation of this rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>29</SU>
+                        âU.S. Forest Service, FSH 1909.15, at 31.3 (May 28, 2014).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>30</SU>
+                        â40 CFR 1501.9.
+                    </P>
+                </FTNT>
+                <P>
+                    Some commenters cited 
+                    <E T="03">Bosworth</E>
+                     when raising their concern that DOE had failed to adequately review potential cumulative impacts associated with promulgation of the CX, or that DOE has failed to draft the CX with sufficient specificity to distinguish between actions having significant impacts and those that do not. In contrast to the CX at issue in 
+                    <E T="03">Bosworth,</E>
+                     DOE's CX has been drafted with the requisite specificity, given the nature of action to which it will apply. Furthermore, DOE has determined that the transport of natural gas by marine vessels adhering to applicable maritime safety regulations and established shipping methods and safety standards normally does not pose the potential for significant environmental impacts. Impacts beyond marine transport are beyond the scope of DOE's NEPA review.
+                </P>
+                <P>
+                    In 
+                    <E T="03">Bosworth,</E>
+                     the court agreed with previous cases finding that the promulgation of agency NEPA procedures, including the establishment of new CXs, did not itself require preparation of an EA or EIS, but that agencies need only comply with CEQ regulations setting forth procedural requirements, including consultation with CEQ, and 
+                    <E T="04">Federal Register</E>
+                     publication for public comment. The court, however, found that the record relied on by the U.S. Forest Service to develop and justify a CX was deficient. Unlike the circumstances in 
+                    <E T="03">Bosworth,</E>
+                     DOE's proposed CX would not include exports with materially different environmental impacts. Although DOE's CX would apply to various types of natural gas exports, the degree of potential environmental effects are not expected to vary significantly based on the type or volume of natural gas to be exported, to the extent they comport with established applicable maritime safety regulations and shipping methods and safety standards. This is due, in part, to the safety controls imposed on vessels permitted to carry natural gas products.
+                </P>
+                <P>
+                    Other commenters argued that DOE does not meet the standard for establishing a CX because it fails to take into account the potential environmental impacts of natural gas export beyond marine transit, noting that DOE has previously acknowledged other potential impacts associated with its export authorizations, including inducement of upstream natural gas production. However, DOE has not previously included potential upstream and downstream impacts as part of its NEPA analyses for natural gas export approvals.
+                    <SU>31</SU>
+                    <FTREF/>
+                     Induced upstream production impacts are not reasonably foreseeable for NEPA purposes,
+                    <SU>32</SU>
+                    <FTREF/>
+                     and are therefore not âeffectsâ subject to analysis under NEPA.
+                    <SU>33</SU>
+                    <FTREF/>
+                     Furthermore, downstream emissions at the point of consumption are too attenuated to be reasonably foreseeable and do not have a reasonably close causal relationship to the granting of an export authorization. The Notice of Proposed Rulemaking and final rule are consistent with these principles.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>31</SU>
+                        â
+                        <E T="03">See</E>
+                         Texas LNG Brownsville LLC, DOE/FE Order No. 4489, FE Docket No. 15-62-LNG, Opinion and Order Granting Long-Term Authorization to Export Liquefied Natural Gas to Non-Free Trade Agreement Nations, at 40-42 (Feb. 10, 2020) (reviewing the content of the life cycle analyses (LCAs) and Addendum; noting that the information in the LCA is too general to play a direct role in the NGA public interest analysis, and explaining that the Addendum supports the public interest analysis, but that environmental concerns should be addressed directly through environmental regulation, and that âsection 3(a) of the NGA is too blunt an instrument to address these environmental concerns efficiently.â).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>32</SU>
+                        â
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         867 F.3d 198 (âThe Department offered a reasoned explanation as to why it believed the indirect effects pertaining to increased gas production were not reasonably foreseeable.â).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>33</SU>
+                        â40 CFR 1508.1(g).
+                    </P>
+                </FTNT>
+                <P>One commenter noted that while DOE has relied on the life cycle analyses (LCAs) to support its public interest determination, the subject matter falls outside DOE's NEPA review obligations because the regasification and ultimate burning of LNG in foreign countries are beyond the scope of DOE requirements under NEPA. DOE agrees with this comment.</P>
+                <HD SOURCE="HD3">IV. Compliance With Applicable NEPA Requirements</HD>
+                <P>
+                    Some commenters raised concerns regarding the application of the proposed CX, arguing that the CX is invalid because it improperly excludes the consideration of end use impacts, including those related to climate change. Conversely, one commenter requested that DOE explain in the final rulemaking that effects should not be considered significant if they are remote in time, geographically remote, or the result of a lengthy causal chain. The commenter indicated that DOE should also state that for any required analysis of effects, âa `but for' causal relationship is insufficient to make an agency responsible for a particular effect under NEPA.ââ
+                    <SU>34</SU>
+                    <FTREF/>
+                     In response, DOE reiterates that the relationship between DOE's authorization decision and potential end use impacts is too attenuated to define end use impacts as reasonably foreseeable effects requiring NEPA review.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>34</SU>
+                        â
+                        <E T="03">Quechan Indian Tribe of the Fort Yuma Indian Reservation</E>
+                         v. 
+                        <E T="03">U.S. Dept. of the Interior,</E>
+                         547 F. Supp. 2d 1033, 1042 (D. Ariz. 2008) (citing 
+                        <E T="03">Public Citizen,</E>
+                         541 U.S. 767).
+                    </P>
+                </FTNT>
+                <P>Additionally, commenters alleged that DOE's commissioning of Energy Information Administration (EIA) analyses of export impacts on domestic energy markets, including the 2018 study âMacroeconomic Outcomes of Market Determined Levels of U.S. LNG Exports,â show that DOE considers the upstream impacts of its export decisions. The EIA studies informed DOE's public interest analysis under the NGA, but they do not analyze potential environmental impacts and have not been included as part of DOE's NEPA analyses supporting the natural gas export decision-making process.</P>
+                <P>
+                    Commenters stated that DOE could rely on the locations of interstate pipelines to develop a reasonable estimate of where increased upstream production of natural gas may occur as a result of an authorization of natural gas exports. DOE disagrees with this comment. The question of whether upstream production impacts should be 
+                    <PRTPAGE P="78201"/>
+                    included in the scope of DOE's NEPA analyses has been addressed by the D.C. Circuit. The D.C. Circuit has held that DOE has provided âa reasoned explanation as to why it believe(s) the indirect effects pertaining to increased gas production were not reasonably foreseeableâ and therefore not subject to NEPA review.
+                    <SU>35</SU>
+                    <FTREF/>
+                     The court found that â(b)ecause the Department could not estimate the locale of production, it was in no position to conduct an environmental analysis of corresponding local-level impacts, which inevitably would be more misleading than informative.ââ
+                    <SU>36</SU>
+                    <FTREF/>
+                     The current CEQ NEPA regulations confirm that effects must be âreasonably foreseeable and have a reasonably close causal relationship to the proposed actionâ to be considered under NEPA, and note that âeffects should generally not be considered if they are remote in time, geographically remote, or the product of a lengthy causal chain.ââ
+                    <SU>37</SU>
+                    <FTREF/>
+                     Under this standard, consideration of upstream impacts is not required.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>35</SU>
+                        â
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         867 F.3d 198.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>36</SU>
+                        â
+                        <E T="03">Id.</E>
+                         at 199 (internal citations omitted).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>37</SU>
+                        â40 CFR 1508.1(g).
+                    </P>
+                </FTNT>
+                <P>
+                    Commenters suggested that DOE prepare a programmatic environmental impact statement to streamline NEPA review of natural gas export authorizations. DOE has identified no information to indicate that natural gas export authorizations pose the potential for significant environmental impacts.
+                    <SU>38</SU>
+                    <FTREF/>
+                     Therefore, a CX is the appropriate level of NEPA review, and preparation of a programmatic environmental impact statement is not required, nor is it necessary.
+                    <SU>39</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>38</SU>
+                        â
+                        <E T="03">See</E>
+                         Technical Support Document.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>39</SU>
+                        â40 CFR 1501.4.
+                    </P>
+                </FTNT>
+                <P>Other commenters suggested that DOE should continue to evaluate NGA Section 3 export authorizations on a case-by-case basis to determine whether an EA or EIS is appropriate. As described in the section of this final rule titled âHow does DOE make a CX determination?,â the proposed CX would be applied on a case-by-case basis. For any request for export authorization, DOE would apply the CX only after determining that the subject authorization complies with 10 CFR 1021.410, including that it presents no extraordinary circumstances warranting preparation of an EA or EIS, and with the integral elements listed in appendix B of DOE's NEPA regulations.</P>
+                <P>Some commenters argued that DOE should be assessing the potential environmental impacts stemming from the construction or operation of natural gas export facilities. As noted in the âBackgroundâ section of this document, under Section 3 of the Natural Gas Act, DOE's authority is limited to reviewing applications for natural gas exports; FERC (or, in the case of a facility falling outside FERC jurisdiction, MARAD or BOEM) reviews applications to construct and operate natural gas import and export facilities. Because DOE lacks the authority to prevent effects stemming from the construction and operation of such a facility, it has appropriately focused its environmental review on proposals over which it has approval authority, as required by NEPA.</P>
+                <P>Finally, some commenters noted that CEQ was, at the time of the comment period on the Notice of Proposed Rulemaking, in the process of revising its NEPA regulations. These commenters stated that DOE must comply with the CEQ regulations in effect, rather than proposed revisions. DOE prepared the Notice of Proposed Rulemaking consistent with the CEQ regulations in effect at the time the Notice of Proposed Rulemaking was published. DOE has prepared this final rule in light of the current CEQ regulations, which became effective on September 14, 2020, and DOE has determined, in consultation with CEQ, that the rule is consistent with those regulations.</P>
+                <HD SOURCE="HD2">C. Comments Regarding DOE's Reading of Public Citizen</HD>
+                <P>
+                    Certain commenters challenged DOE's reading of 
+                    <E T="03">Public Citizen</E>
+                     as overly broad, arguing that DOE is incorrect in its conclusion that the case permits DOE to focus exclusively on the marine transport related effects of its export authorizations. In DOE's view, 
+                    <E T="03">Public Citizen</E>
+                     held that an agency has no obligation to âgather or consider environmental information if it has no statutory authority 
+                    <E T="03">to act on that information.â</E>
+                    â
+                    <SU>40</SU>
+                    <FTREF/>
+                     This final rule is fully consistent with that holding.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>40</SU>
+                        â
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">Federal Energy Regulatory Comm'n,</E>
+                         867 F.3d 1357, 1372 (D.C. Cir. 2017) (stating that rule was the touchstone of 
+                        <E T="03">Public Citizen</E>
+                        ).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">D. Comments Regarding Indirect and Cumulative Impacts and Related DOE Authority</HD>
+                <P>
+                    Some commenters suggested that by establishing a CX for exports of natural gas, DOE is evading the obligation to perform NEPA review. As identified in the CEQ and DOE NEPA regulations, a CX is a form of NEPA review, and DOE has complied with the requirements of NEPA by determining that this class of actions normally does not have a significant effect on the human environment.
+                    <SU>41</SU>
+                    <FTREF/>
+                     Application of the revised CX B5.7 will occur on a case-by-case basis as described in the section of this final rule titled âHow does DOE make a CX determination?â As explained previously, DOE is tailoring its environmental review consistent with the court's holding in 
+                    <E T="03">Public Citizen.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>41</SU>
+                        â40 CFR 1508.1(d).
+                    </P>
+                </FTNT>
+                <P>
+                    In further delineating agencies' NEPA review obligations, the D.C. Circuit in 
+                    <E T="03">Freeport II</E>
+                     agreed with DOE's rationale that effects pertaining to increased gas production were not reasonably foreseeable. Under this standard, DOE's analysis is properly limited to impacts stemming directly from decisions made pursuant to its statutory authority. The D.C. Circuit has held that local idiosyncrasies coupled with the limitations of estimating geology at the local level, and the uncertainty of predicting local regulation, land use patterns, and the development of supporting infrastructure are all local environmental issues presented by unconventional gas production. Accordingly, DOE's review of potential environmental impacts begins at the point of export, and is limited to the marine transport effects covered by the revised CX. The CX, which provides DOE with an option for full NEPA compliance, does not evade NEPA review.
+                </P>
+                <HD SOURCE="HD2">E. Comments Regarding DOE's LCA</HD>
+                <P>
+                    As discussed in the Notice of Proposed Rulemaking, this rulemaking is consistent withâbut not dependent uponâtwo LCAs that DOE commissioned to calculate the life cycle greenhouse gas (GHG) emissions for LNG exported from the United States. DOE commissioned both the original LCA, published in 2014,
+                    <SU>42</SU>
+                    <FTREF/>
+                     and an updated LCA, published in 2019,
+                    <SU>43</SU>
+                    <FTREF/>
+                     to evaluate environmental aspects of LNG export applications under NGA section 3(a). Both LCAs concluded that the use of U.S. LNG exports for power production in European and Asian markets will not increase global GHG emissions from a life cycle perspective, when compared to regional coal extraction and consumption for power 
+                    <PRTPAGE P="78202"/>
+                    production.
+                    <SU>44</SU>
+                    <FTREF/>
+                     These reports are not part of DOE's NEPA review process, inasmuch as the regasification and ultimate combustion of regasified U.S. LNG in foreign countries are beyond the scope of appropriate NEPA review in this context.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>42</SU>
+                        âU.S. Dep't of Energy, Life Cycle Greenhouse Gas Perspective on Exporting Liquefied Natural Gas From the United States, 79 FR 32260 (June 4, 2014) (LCA GHG Report).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>43</SU>
+                        âU.S. Dep't of Energy, Life Cycle Greenhouse Gas Perspective on Exporting Liquefied Natural Gas From the United States; Notice of Availability of Report Entitled Life Cycle Greenhouse Gas Perspective on Exporting Liquefied Natural Gas From the United States: 2019 Update and Request for Comments, 84 FR 49278 (Sept. 19, 2019) (LCA GHG Update).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>44</SU>
+                        â
+                        <E T="03">See, e.g.,</E>
+                         U.S. Dep't of Energy, Life Cycle Greenhouse Gas Perspective on Exporting Liquefied Natural Gas From the United States: 2019 UpdateâResponse to Comments, 85 FR 72 78, 85 (Jan. 2, 2020).
+                    </P>
+                </FTNT>
+                <P>Some commenters on the Notice of Proposed Rulemaking stated that the LCAs are deficient because they underestimate methane emissions associated with natural gas production and do not account for the rise of renewable energy in overseas markets. As noted, the LCA is not a NEPA document. Comments regarding its adequacy do not address DOE's NEPA analysis and related regulations, or the proposed changes in the Notice of Proposed Rulemaking.</P>
+                <P>
+                    Furthermore, comments stating that the LCAs are deficient parallel comments that DOE received on the 2019 LCA GHG update regarding methane emission estimates. DOE responded to those comments before finalizing the 2019 LCA GHG update.
+                    <SU>45</SU>
+                    <FTREF/>
+                     Among other relevant points, DOE explained in its earlier response the basis for use of 0.7% as the average methane leakage rate in the LCA GHG update, how DOE's analysis considered the natural gas supply chain, differences in top-down and bottom-up methodologies, and how studies cited by commenters relate to DOE's analysis. DOE directs readers to that document for additional background information and discussion. Commenters on the Notice of Proposed Rulemaking have not raised information or arguments that were not raised and responded to in the 2019 GHG LCA update.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>45</SU>
+                        âU.S. Dep't of Energy, Life Cycle Greenhouse Gas Perspective on Exporting Liquefied Natural Gas From the United States: 2019 UpdateâResponse to Comments, 85 FR 72 (Jan. 2, 2020).
+                    </P>
+                </FTNT>
+                <P>With regard to the second pointâthe rise of renewable energy in overseas marketsâDOE also received and responded to similar comments on the 2019 LCA GHG update. DOE explained its use of coal-fired power as a comparative scenario to natural gas. DOE also explained limitations on expanding the analysis to include a broader array of fuel types and on modeling the effect that U.S. LNG exports would have on net global GHG emissions. Commenters also suggested that U.S. LNG exports would compete with renewable energy sources, while other commenters noted that natural gas-fueled power plants, because of their ability to power up quickly, may be used as a backup to renewable energy sources. DOE acknowledges these comments, but notes that these comments are beyond the reasonable scope of analysis for this rulemaking.</P>
+                <HD SOURCE="HD2">F. Comments Regarding DOE's Technical Support Document</HD>
+                <P>
+                    Commenters stated that the Technical Support Document only considered one pathway for potential environmental impacts (leaks during natural gas transportation) and did not address potential impacts to wildlife during marine transport from noise and ship strikes, air pollutants and greenhouse gas emissions from the marine vessels, and impacts from invasive species that travel in ballast water. The Technical Support Document is focused on the potential impacts associated with transporting the LNG cargo. The Technical Support Document includes consideration of accidents (including spills and fires), safety and security during transport, and some 50 years of experience transporting LNG on marine vessels. With regard to comments related to potential environmental impacts of shipping generally, DOE's approval of export authorizations for natural gas has the potential to contribute only a very small amount to total shipping. More than 82,000 oceangoing vessels called at U.S. ports in 2015.
+                    <SU>46</SU>
+                    <FTREF/>
+                     LNG shipments associated with DOE export authorizations numbered 209 in 2017, 330 in 2018, and 563 in 2019.
+                    <SU>47</SU>
+                    <FTREF/>
+                     These LNG shipments comprise less than one percent of vessel calls from U.S. ports annually. Even with increased LNG exports, the relative proportion of LNG shipments to total shipping is not expected to change substantially. Thus, marine transport from DOE's actions does not have the potential to markedly affect the global environmental impacts associated with the commercial shipping industry.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>46</SU>
+                        âBureau of Transp. Stat., U.S. Dep't of Transp., Freight Facts and Figures 2017, 
+                        <E T="03">https://rosap.ntl.bts.gov/view/dot/34923.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>47</SU>
+                        âOffice of Fossil Energy, U.S. Dep't of Energy, LNG Monthly 2020, 
+                        <E T="03">https://www.energy.gov/fe/downloads/lng-monthly-2020.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Some commenters further stated that the Technical Support Document downplays significant spill and terrorism-related safety concerns. DOE's Technical Support Document includes a discussion of these concerns, as the commenters noted. The studies referenced in the Technical Support Document analyzed a number of scenarios, most involving fires, and provided information and recommendations to help manage and reduce hazards. Commenters pointed to a 2007 reportâ
+                    <SU>48</SU>
+                    <FTREF/>
+                     by the U.S. Government Accountability Office that identified additional areas for research into LNG spills and fires. That report resulted in recommendations that DOE accepted and incorporated into a study conducted by Sandia National Laboratories.
+                    <SU>49</SU>
+                    <FTREF/>
+                     DOE's technical studies and related research by others to examine the hazards of potential fires and the consequences of malevolent acts is part of the process used by regulatory agencies and industry to understand and mitigate risks.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>48</SU>
+                        âU.S. Gov't Accountability Office, Maritime Security: Public Safety Consequences of a Terrorist Attack on a Tanker Carrying Liquefied Natural Gas Need Clarification, GAOâ07-316 (Feb. 2007), 
+                        <E T="03">https://www.gao.gov/new.items/d07316.pdf.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>49</SU>
+                        âU.S. Dep't of Energy, Liquefied Natural Gas Safety Research: Report to Congress, (May 2012), 
+                        <E T="03">https://www.energy.gov/fe/downloads/lng-safety-research-report-congress.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Commenters suggested that DOE cannot rely on certifications and requirements from other Federal agencies (
+                    <E T="03">e.g.,</E>
+                     FERC, the Department of Transportation, and the Department of Homeland Security) and that doing so in the Technical Support Document amounted to a refusal to look at the potential environmental impacts associated with transportation of LNG by marine vessel. DOE notes that it is common practice to consider regulatory requirements (in this case, requirements intended to minimize any environmental impacts of marine transport of LNG), as well as analyses and determinations by other Federal agencies and external parties, in determining the potential impacts of the activity that is the focus of an agency's NEPA review. Also, DOE did not rely in the Technical Support Document only on the safety aspects of existing regulations. Rather, the effectiveness of those regulations and industry practices over decades of LNG transport provide strong evidence that there is normally no potential for significant environmental impacts due to marine transport of LNG.
+                </P>
+                <HD SOURCE="HD2">G. Comments Regarding Review by the Federal Energy Regulatory Commission</HD>
+                <P>Some commenters discussed the nature of DOE's interaction with FERC when approving natural gas exports. One commenter stated that DOE must actively participate in FERC's environmental review process. DOE intends to continue to participate as a cooperating agency in FERC's environmental review of natural gas export facilities.</P>
+                <P>
+                    Several commenters noted that DOE's proposed revision reflects an appropriate approach to balancing FERC 
+                    <PRTPAGE P="78203"/>
+                    and DOE's respective responsibilities. They explain that the proposed revisions do not impede FERC's ability to carry out its responsibilities and do not reflect an intention to hinder environmental review of facilities subject to section 3 of the NGA. One commenter noted that DOE's jurisdiction rests solely with the export of natural gas, and that DOE lacks the authority to approve the construction or operation of the natural gas facility itself, which rests with FERC. The commenter stated that because DOE lacks authority over construction and operation, it need not review potential environmental impacts associated with the facilities themselves. Instead, the commenter maintained that under 
+                    <E T="03">Public Citizen,</E>
+                     DOE should limit its review to the potential environmental impacts within DOE's authority, namely the impacts that occur at or after the point of export. DOE acknowledges these comments and has revised its NEPA regulations consistent with the view expressed in the comments.
+                </P>
+                <P>Commenters suggested that there will be a regulatory gap when an export facility does not fall within FERC jurisdiction. DOE lacks the statutory authority to authorize construction and operation of export facilities, regardless of whether these facilities are deemed jurisdictional by FERC. Therefore, DOE need not review environmental impacts associated with those authorizations. For a proposed export facility outside FERC jurisdiction, another Federal agency, such as MARAD or BOEM, would typically be responsible for completing the NEPA review.</P>
+                <HD SOURCE="HD1">III. Procedural Requirements</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866</HD>
+                <P>This final rule has been determined not to be a significant regulatory action under E.O. 12866, âRegulatory Planning and Review,â 58 FR 51735 (Oct. 4, 1993). Accordingly, this action was not subject to review under that Executive Order by the Office of Information and Regulatory Affairs (OIRA) of the Office of Management and Budget (OMB).</P>
+                <HD SOURCE="HD2">B. Review Under National Environmental Policy Act</HD>
+                <P>
+                    The Department's NEPA procedures assist the Department in fulfilling its responsibilities under NEPA and the CEQ regulations, but are not themselves final determinations of the level of environmental review required for particular proposed actions. The CEQ regulations do not direct agencies to prepare an EA or EIS before establishing agency procedures that supplement the CEQ regulations to implement NEPA (40 CFR 1507.3). 
+                    <E T="03">See Heartwood, Inc.</E>
+                     v. 
+                    <E T="03">U.S. Forest Service,</E>
+                     73 F. Supp. 2d 962, 972-73 (S.D. III. 1999), aff'd, 230 F.3d 947, 954-55 (7th Cir. 2000). In establishing this CX, DOE is following the requirements of CEQ's procedural regulations, which include publishing the Notice of Proposed Rulemaking in the 
+                    <E T="04">Federal Register</E>
+                     for public review and comment, considering public comments, and consulting with CEQ to obtain CEQ's written determination of conformity with NEPA and the CEQ regulations. (
+                    <E T="03">See</E>
+                     40 CFR 1507.3(b)(2)).
+                </P>
+                <P>Furthermore, DOE notes that this rulemaking is also categorically excluded under DOE's NEPA regulations (A6, Procedural rulemakings). In any case, the Department does not anticipate any significant environmental impacts from this final rule, and there are no extraordinary circumstances present.</P>
+                <HD SOURCE="HD2">C. Review Under Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of a final regulatory flexibility analysis for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process (68 FR 7990). DOE has made its procedures and policies available on the Office of the General Counsel's website: 
+                    <E T="03">https://energy.gov/gc.</E>
+                </P>
+                <P>DOE has reviewed this final rule under the provisions of the Regulatory Flexibility Act and the procedures and policies published on February 19, 2003. This final rule does not directly regulate small entities. The revisions to 10 CFR part 1021 revise the scope of CX B5.7 by removing reference to operation of natural gas facilities and adding âtransportation of natural gas by marine vessel.â The revisions also focus on the export of natural gas because imports are deemed by law to be in the public interest. The revisions are intended to appropriately focus DOE's NEPA analysis for natural gas export applications, and do not impose any new requirements on small entities. DOE anticipates that the rule could reduce the burden on applicants for conducting environmental reviews.</P>
+                <P>On the basis of the foregoing, DOE certified that the proposed rule, if adopted, would not have a significant economic impact on a substantial number of small entities. DOE's certification and supporting statement of factual basis was provided to the Chief Counsel for Advocacy of the Small Business Administration pursuant to 5 U.S.C. 605(b). DOE received no comments on its certification or any potential economic impact of the proposed rule, and did not make changes in this final rule to the rule as proposed.</P>
+                <HD SOURCE="HD2">D. Review Under Paperwork Reduction Act</HD>
+                <P>
+                    This rulemaking will impose no new information or record-keeping requirements. Accordingly, OMB clearance is not required under the Paperwork Reduction Act (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    ).
+                </P>
+                <HD SOURCE="HD2">E. Review Under Unfunded Mandates Reform Act of 1995</HD>
+                <P>The Unfunded Mandates Reform Act of 1995 (Pub. L. 104-4) generally requires Federal agencies to examine closely the impacts of regulatory actions on state, local, and tribal governments. Subsection 101(5) of title I of that law defines a Federal intergovernmental mandate to include any regulation that would impose upon state, local, or tribal governments an enforceable duty, except a condition of Federal assistance or a duty arising from participating in a voluntary Federal program. Title II of that law requires each Federal agency to assess the effects of Federal regulatory actions on state, local, and tribal governments, in the aggregate, or to the private sector, other than to the extent such actions merely incorporate requirements specifically set forth in a statute. Section 202 of that title requires a Federal agency to perform a detailed assessment of the anticipated costs and benefits of any rule that includes a Federal mandate which may result in costs to state, local, or tribal governments, or to the private sector, of $100 million or more in any one year (adjusted annually for inflation) (2 U.S.C. 1532(a) and (b)). Section 204 of that title requires each agency that proposes a rule containing a significant Federal intergovernmental mandate to develop an effective process for obtaining meaningful and timely input from elected officers of state, local, and tribal governments (2 U.S.C. 1534).</P>
+                <P>
+                    This final rule amends DOE's existing regulations governing compliance with NEPA to update DOE's regulations for the reasons described in Section I. Background, of this document. This 
+                    <PRTPAGE P="78204"/>
+                    final rule will not result in the expenditure by state, local, and tribal governments in the aggregate, or by the private sector, of $100 million or more in any one year. Accordingly, no assessment or analysis is required under the Unfunded Mandates Reform Act of 1995.
+                </P>
+                <HD SOURCE="HD2">F. Review Under Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any proposed rule that may affect family well-being. This final rule will not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">G. Review Under Executive Order 13132</HD>
+                <P>E.O. 13132, âFederalism,â 64 FR 43255 (Aug. 4, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that preempt state law or that have federalism implications. Agencies are required to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the states and carefully assess the necessity for such actions. DOE has examined this final rule and has determined that it will not preempt state law and will not have a substantial direct effect on the states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among the various levels of government. No further action is required by E.O. 13132.</P>
+                <HD SOURCE="HD2">H. Review Under Executive Order 12988</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of E.O. 12988, âCivil Justice Reform,â 61 FR 4729 (Feb. 7, 1996), imposes on Executive agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; and (3) provide a clear legal standard for affected conduct rather than a general standard and promote simplification and burden reduction. With regard to the review required by section 3(a), section 3(b) of E.O. 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the regulation's preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of E.O. 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this final rule meets the relevant standards of E.O. 12988.</P>
+                <HD SOURCE="HD2">I. Review Under Treasury and General Government Appropriations Act, 2001</HD>
+                <P>The Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB.</P>
+                <P>OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">J. Review Under Executive Order 13211</HD>
+                <P>Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OMB a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that: (1)(i) Is a significant regulatory action under E.O. 12866, or any successor order, and (ii) is likely to have a significant adverse effect on the supply, distribution, or use of energy; or (2) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use. This regulatory action would not have a significant adverse effect on the supply, distribution, or use of energy, nor was it determined to be a significant energy action by the OIRA Administrator, and it is therefore not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 12630</HD>
+                <P>DOE has determined pursuant to E.O. 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (Mar. 18, 1988), that this final rule would not result in any takings that might require compensation under the Fifth Amendment to the United States Constitution.</P>
+                <HD SOURCE="HD2">L. Review Under Executive Orders 13771 and 13777</HD>
+                <P>On January 30, 2017, the President issued E.O. 13771, âReducing Regulation and Controlling Regulatory Costs.â E.O. 13771 states that the policy of the executive branch is to be prudent and financially responsible in the expenditure of funds, from both public and private sources. E.O. 13771 states that it is essential to manage the costs associated with the governmental imposition of private expenditures required to comply with Federal regulations.</P>
+                <P>Additionally, on February 24, 2017, the President issued E.O. 13777, âEnforcing the Regulatory Reform Agenda.â E.O. 13777 requires the head of each agency to designate an agency official as its Regulatory Reform Officer (RRO). Each RRO oversees the implementation of regulatory reform initiatives and policies to ensure that agencies effectively carry out regulatory reforms, consistent with applicable law. Further, E.O. 13777 requires the establishment of a regulatory task force at each agency. The regulatory task force is required to make recommendations to the agency head regarding the repeal, replacement, or modification of existing regulations, consistent with applicable law. At a minimum, each regulatory reform task force must attempt to identify regulations that:</P>
+                <P>(i) Eliminate jobs, or inhibit job creation;</P>
+                <P>(ii) Are outdated, unnecessary, or ineffective;</P>
+                <P>(iii) Impose costs that exceed benefits;</P>
+                <P>(iv) Create a serious inconsistency or otherwise interfere with regulatory reform initiatives and policies;</P>
+                <P>
+                    (v) Are inconsistent with the requirements of Information Quality Act, or the guidance issued pursuant to that Act, in particular those regulations that rely in whole or in part on data, information, or methods that are not publicly available or that are 
+                    <PRTPAGE P="78205"/>
+                    insufficiently transparent to meet the standard for reproducibility; or
+                </P>
+                <P>(vi) Derive from or implement Executive Orders or other Presidential directives that have been subsequently rescinded or substantially modified.</P>
+                <P>DOE concludes that this rulemaking is consistent with the directives set forth in these Executive Orders. This final rule will update and improve efficiency in DOE's implementation of NEPA by appropriately focusing DOE's NEPA analysis for natural gas export applications and eliminating certain requirements of its existing regulations that are unnecessary.</P>
+                <HD SOURCE="HD2">M. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will submit to Congress a report regarding the issuance of this final rule prior to the effective date set forth at the outset of this rulemaking. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 801(2).</P>
+                <HD SOURCE="HD1">Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 1021</HD>
+                    <P>Environmental impact statements.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on November 24, 2020, by William S. Cooper III, General Counsel, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on November 25, 2020.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, DOE amends part 1021 of Chapter X of Title 10 of the Code of Federal Regulations as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 1021âNATIONAL ENVIRONMENTAL POLICY ACT IMPLEMENTING PROCEDURES</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="1021">
+                    <AMDPAR>1. The authority citation for part 1021 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                            42 U.S.C. 7101 
+                            <E T="03">et seq.;</E>
+                             42 U.S.C. 4321 
+                            <E T="03">et seq.;</E>
+                             50 U.S.C. 2401 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="1021">
+                    <AMDPAR>2. Appendix B to subpart D of part 1021 is amended by:</AMDPAR>
+                    <AMDPAR>a. Revising section B5.7; and</AMDPAR>
+                    <AMDPAR>b. Removing and reserving section B5.8.</AMDPAR>
+                    <P>The revision reads as follows:</P>
+                    <HD SOURCE="HD1">Appendix B to Subpart D of Part 1021âCategorical Exclusions Applicable to Specific Agency Actions</HD>
+                    <EXTRACT>
+                        <STARS/>
+                        <P>B5. * * *</P>
+                        <STARS/>
+                        <HD SOURCE="HD2">B5.7âExport of natural gas and associated transportation by marine vessel</HD>
+                        <P>Approvals or disapprovals of new authorizations or amendments of existing authorizations to export natural gas under section 3 of the Natural Gas Act and any associated transportation of natural gas by marine vessel.</P>
+                        <HD SOURCE="HD1">B5.8â[Removed and Reserved]</HD>
+                        <STARS/>
+                    </EXTRACT>
+                </REGTEXT>
+                <HD SOURCE="HD1">Appendix C to Subpart D of Part 1021âClasses of Actions That Normally Require EAs But Not Necessarily EISs</HD>
+                <HD SOURCE="HD1">C13â[Removed and Reserved]</HD>
+                <REGTEXT TITLE="10" PART="1021">
+                    <AMDPAR>3. Remove and reserve section C13.</AMDPAR>
+                </REGTEXT>
+                <HD SOURCE="HD1">Appendix D to Subpart D of Part 1021âClasses of Actions That Normally Require EISs</HD>
+                <HD SOURCE="HD1">D8 and D9â[Removed and Reserved]</HD>
+                <REGTEXT TITLE="10" PART="1021">
+                    <AMDPAR>4. Remove and reserve sections D8 and D9.</AMDPAR>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2020-26459 Filed 12-3-20; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

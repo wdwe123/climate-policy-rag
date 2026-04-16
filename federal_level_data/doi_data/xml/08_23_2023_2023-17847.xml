@@ -1,0 +1,882 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF THE INTERIOR</AGENCY>
+                <SUBAGY>Bureau of Safety and Environmental Enforcement</SUBAGY>
+                <CFR>30 CFR Part 250</CFR>
+                <DEPDOC>[Docket ID: BSEE-2022-0009; EEEE500000 234E1700D2 ET1SF0000.EAQ000]</DEPDOC>
+                <RIN>RIN 1014-AA52</RIN>
+                <SUBJECT>Oil and Gas and Sulfur Operations in the Outer Continental Shelf-Blowout Preventer Systems and Well Control Revisions</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Bureau of Safety and Environmental Enforcement, Interior.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Department of the Interior (DOI or Department), through the Bureau of Safety and Environmental Enforcement (BSEE), is revising certain regulatory provisions published in the 2019 final well control rule for drilling, workover, completion, and decommissioning operations. BSEE is finalizing these revisions to clarify blowout preventer (BOP) system requirements and to modify certain specific BOP equipment capability requirements. This final rule will provide consistency and clarity to industry regarding the BOP equipment and associated operational requirements necessary for BSEE review and approval and will further ensure operations are conducted safely and in an environmentally responsible manner.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This final rule is effective on October 23, 2023. However, BSEE will defer the compliance date for the Remotely Operated Vehicle (ROV) intervention open functionality provision at 30 CFR 250.734(a)(4) until August 22, 2024. The Director of the Federal Register approved the incorporation by reference of certain publications listed in this final rule as of July 15, 2019.</P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        For questions, contact Kirk Malstrom, Regulations and Standards Branch, (202) 258-1518, or by email: 
+                        <E T="03">regs@bsee.gov</E>
+                        .
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Executive Summary</HD>
+                <P>This final rule revises certain regulatory provisions that were published in the 2019 final rule entitled, âOil and Gas and Sulfur Operations in the Outer Continental Shelf-Blowout Preventer Systems and Well Control Revisions,â 84 FR 21908 (May 15, 2019) (2019 WCR). On January 20, 2021, the President issued Executive Order (E.O.) 13990 (Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis). The accompanying âPresident's Fact Sheet: List of Agency Actions for Reviewâ included the 2019 WCR on a list of rules the President instructed DOI to review for potential revisions to promote and protect public health and the environment, among other policy goals identified in the E.O. This review confirmed that the 2019 WCR contains many provisions that help ensure that federally regulated outer Continental Shelf (OCS) oil and gas operations are conducted safely and in an environmentally responsible manner. Therefore, this final rule addresses only select provisions that, consistent with and as authorized by the Outer Continental Shelf Lands Act (OCSLA), will further promote the objectives of E.O. 13990. At this time, BSEE is finalizing narrowly focused revisions to improve operations that use a BOP, certain BOP capabilities and functionalities, and BSEE oversight of such operations. The final rule:</P>
+                <P>â¢ Clarifies the general BOP system expectations,</P>
+                <P>â¢ Modifies the timeframes for commencing a failure analysis,</P>
+                <P>â¢ Requires submission of independent third-party qualifications,</P>
+                <P>â¢ Establishes dual shear ram requirements for surface BOPs on existing floating production facilities when an operator replaces an entire surface BOP stack,</P>
+                <P>â¢ Requires Remotely Operated Vehicle (ROV) open functions on subsea BOPs, and</P>
+                <P>â¢ Requires submittal of certain BOP test results if BSEE is unable to witness the testing.</P>
+                <P>BSEE will continue to evaluate the effectiveness of the 2019 WCR and all BSEE regulations for any necessary and appropriate rulemakings in the future.</P>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Background</FP>
+                    <FP SOURCE="FP1-2">A. BSEE Statutory and Regulatory Authority and Responsibilities</FP>
+                    <FP SOURCE="FP1-2">B. Purpose and Summary of the Rulemaking</FP>
+                    <FP SOURCE="FP-2">II. Discussion of Compliance Dates for the Final Rule</FP>
+                    <FP SOURCE="FP-2">III. Discussion of Public Comments on the Proposed Rule</FP>
+                    <FP SOURCE="FP-2">
+                        IV. Section-By-Section Summary and Responses to Comments on the Proposed Rule
+                        <PRTPAGE P="57335"/>
+                    </FP>
+                    <FP SOURCE="FP-2">V. Procedural Matters</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Background</HD>
+                <HD SOURCE="HD2">A. BSEE Statutory and Regulatory Authority and Responsibilities</HD>
+                <P>BSEE's authority for this rule flows from OCSLA, 43 U.S.C. 1331-1356a. OCSLA, enacted in 1953 and substantially revised in 1978, authorizes the Secretary of the Interior (Secretary) to lease the OCS for mineral development and to regulate oil and gas exploration, development, and production operations on the OCS. The Secretary has delegated authority to perform certain of these functions to BSEE.</P>
+                <P>
+                    To carry out its responsibilities, BSEE regulates offshore oil and gas operations to: enhance the safety of exploration for and development of oil and gas on the OCS, ensure that those operations protect the environment, and implement advancements in technology. BSEE also conducts onsite inspections to ensure compliance with regulations, lease terms, and approved plans and permits. Detailed information concerning BSEE's regulations and guidance to the offshore oil and gas industry may be found on BSEE's website at: 
+                    <E T="03">https://www.bsee.gov/guidance-and-regulations</E>
+                    .
+                </P>
+                <P>
+                    BSEE's regulatory program covers a wide range of OCS facilities and activitiesâincluding drilling, completion, workover, production, pipeline, and decommissioning operationsâthat offshore operatorsâ
+                    <SU>1</SU>
+                    <FTREF/>
+                     perform throughout the OCS. This rule is applicable to these listed operational activities (
+                    <E T="03">e.g.,</E>
+                     drilling, completion and workovers) that involve certain BOP operations, capabilities, or functionalities.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âBSEE's regulations at 30 CFR part 250 generally apply to âa lessee, the owner or holder of operating rights, a designated operator or agent of the lessee(s)â (30 CFR 250.105 (definition of âyouâ) and âthe person actually performing the activity to which the requirement appliesâ (30 CFR 250.146(c)). For convenience, this preamble will refer to these regulated entities as âoperatorsâ unless otherwise indicated.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Purpose and Summary of the Rulemaking</HD>
+                <P>
+                    After the 
+                    <E T="03">Deepwater Horizon</E>
+                     incident in 2010, BSEE adopted several recommendations from multiple investigation teams to improve the safety of offshore operations. Subsequently, on April 29, 2016, BSEE published the 2016 Blowout Preventer Systems and Well Control Final Rule (81 FR 25888) (2016 WCR). The 2016 WCR consolidated the equipment and operational requirements for well control into one part of BSEE's regulations; enhanced BOP and well design requirements; modified well-control requirements; and incorporated certain industry technical standards. Most of the 2016 WCR provisions became effective on July 28, 2016.
+                </P>
+                <P>
+                    Although the 2016 WCR addressed a significant number of issues that were identified during the analyses of the 
+                    <E T="03">Deepwater Horizon</E>
+                     incident, BSEE recognized that BOP equipment and systems continue to improve and that well control processes also evolve. Therefore, after the 2016 WCR took effect, BSEE continued to engage with the offshore oil and gas industry, Standards Development Organizations (SDOs), and other stakeholders. During these engagements, BSEE identified issues, and stakeholders expressed a variety of concerns regarding the implementation of the 2016 WCR. BSEE completed a review of the 2016 WCR and, on May 15, 2019, published the 2019 WCR in the 
+                    <E T="04">Federal Register</E>
+                     (84 FR 21908). The 2019 WCR left most of the 2016 WCR unchanged.
+                </P>
+                <P>Following publication of the 2019 WCR, BSEE continued to engage with stakeholders to gather information to ensure that industry was effectively implementing the governing regulatory requirements. On January 20, 2021, the President issued Executive Order (E.O.) 13990 (Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis). The accompanying âPresident's Fact Sheet: List of Agency Actions for Reviewâ included the 2019 WCR on a list of rules the President instructed DOI to review for potential revisions to promote and protect public health and the environment, among other policy goals identified in the E.O. This review confirmed that the 2019 WCR contains many provisions that help ensure that federally regulated outer Continental Shelf (OCS) oil and gas operations are conducted safely and in an environmentally responsible manner. Therefore, this final rule addresses only select provisions that, consistent with and as authorized by the OCSLA, will further promote the objectives of E.O. 13990. At this time, BSEE is finalizing narrowly focused revisions to improve operations that use a BOP, certain BOP capabilities and functionalities, and BSEE oversight of such operations.</P>
+                <HD SOURCE="HD1">II. Discussion of Compliance Dates for the Final Rule</HD>
+                <P>BSEE considered the public comments on the proposed rule (87 FR 56354, September 14, 2022), as well as relevant information gained during BSEE's interactions with stakeholders, involvement in development of industry standards, and evaluation of current technology. Based on its analysis, BSEE is setting an effective date of 60 days following publication of the final rule, by which time operators will be required to comply with most of the final rule's provisions. BSEE determined, however, that it is appropriate to defer the compliance requirements in Â§â250.734(a)(4) until one year after this rule is published. In this final rule, BSEE is requiring operators to equip subsea BOP stacks with the ROV intervention capability to both open and close each shear ram, ram locks, and one pipe ram. (Current regulations require only closure capability.) BSEE is allowing a 1-year deferred compliance date, from the date of publication of this final rule, to allow operators to make the required equipment modifications to enable the ROV intervention capability to open the specified components. Detailed explanations for the requirements associated with this compliance date are provided in section IV of this preamble.</P>
+                <HD SOURCE="HD1">III. Discussion of Public Comments on the Proposed Rule</HD>
+                <P>
+                    In response to the proposed rule, BSEE received 26 sets of submitted comments containing general statements, specific comments on the proposed provisions, and discussions of provisions not included in the proposed rule. Comments included submittals from the following entities: 13 companies, 2 industry organizations, 4 non-governmental organizations, 1 State government, 1 member of academia, 2 private citizens, and 3 anonymous submitters. All relevant comments are posted at the 
+                    <E T="03">Federal eRulemaking</E>
+                     portal: 
+                    <E T="03">https://www.regulations.gov</E>
+                    . To access the comments at that website, enter BSEE-2022-0009 in the Search box. BSEE reviewed all comments submitted, and this section of this preamble contains brief summaries of the relevant comments as well as BSEE's responses.
+                </P>
+                <P>
+                    BSEE received multiple comments expressing general support for the proposed rule. BSEE received supporting comments from, but not limited to, oil and gas companies, industry trade groups, private citizens, and non-governmental organizations. Some of the commenters expressing general support for the proposed rule also provided specific detailed comments, addressed further below. While these commenters voiced support broadly for certain proposed changes, some of them also disagreed with other specific proposals and provided suggested revisions. Many of the commenters who expressed general 
+                    <PRTPAGE P="57336"/>
+                    support for the rule also recommended that BSEE continue to evaluate other provisions of the 2019 WCR and provide stakeholders with further opportunities to continue discussions on the topics covered in the previous WCRs.
+                </P>
+                <P>Multiple commenters provided statements or comments that were not relevant to the scope of the proposed rule, and therefore BSEE is not addressing them in this final rule.</P>
+                <HD SOURCE="HD3">Comments on the Initial Regulatory Impact Analysis (IRIA)</HD>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter suggested that BSEE should quantitatively and/or qualitatively describe the full range of harms that the Bureau expects to avoid by decreasing the risk of well blowouts, which include fatalities, negative health impacts on coastal populations, and the destruction of fragile ecosystems.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE appreciates the comment that BSEE should account for the full range of benefits associated with decreasing the risk of well blowouts. In the Final RIA, BSEE has added a qualitative summary of the types of benefits the rule will provide; however, BSEE has elected not to provide a quantitative accounting of the benefits as this rule is not a significant regulatory action as defined under Executive Order 12866, as amended by Executive Order 14094 (âModernizing Regulatory Review,â 88 FR 21879 (April 6, 2023)).
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter suggested that BSEE should also conduct a break-even analysis to support its finding that the proposed rule's benefits justify its costs.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenter. Executive Orders 12866 and 14094 require agencies to conduct such analyses only for significant regulatory actions, and this rule is not a significant regulatory action, as demonstrated in the cost section of the RIA.
+                </P>
+                <HD SOURCE="HD3">Miscellaneous Comments</HD>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     One commenter suggested that BSEE hold periodic workshops and smaller WCR updates to encourage ongoing discussions on this topic.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees in part with the commenter and will continue to look for ways to engage with all stakeholders on the provisions associated with the WCRs and WCR-related topics.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: Source Control and Containment Equipment (SCCE) Mandatory Equipmentâ30 CFR 250.462(b)</HD>
+                <P>A commenter stated that the 2019 WCR changed a âmustâ to a âmayâ in 30 CFR 250.462(b), thereby eliminating the requirement that an operator have access to all the identified SCCE. The commenter suggested that the regulations should establish a default âmustâ requirement for all equipment, and clearly articulate the specific conditions under which BSEE would allow an operator an exemption for one or more pieces of equipment. The commenter suggested that BSEE should make access to all the listed equipment a requirement for all operators under all conditions unless provided for under a clearly articulated exception.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenter. Under both the 2016 WCR and the 2019 WCR, the regulations make it mandatory for operators to have access to and the ability to deploy appropriate SCCE necessary for regaining control of the well at issue. In the 2019 WCR, BSEE clarified that there are different categories of SCCE (
+                    <E T="03">e.g.,</E>
+                     supporting equipment, co-located equipment) that warrant distinct treatment. Accordingly, BSEE revised the list of SCCE found in 30 CFR 250.462(b) and clarified that the SCCE required for any given situation âmay include, but is not limited toâ the items on that list. The intent of this revision was to clarify that the analysis required in 30 CFR 250.462(a) should be used to determine which SCCE an operator must have access to for its operations, and that the list in 30 CFR 250.462(b) provides examples of SCCE types that may be deemed appropriate, and thus required, based on the analysis of the particular well scenario. The SCCE that is necessary and appropriate to regain well control may vary based on the circumstances of the drilling operations (
+                    <E T="03">e.g.,</E>
+                     well design and integrity, nature and structure of facility and associated infrastructure), even across distinct wells within one region (
+                    <E T="03">e.g.,</E>
+                     Gulf of Mexico). BSEE intends to ensure the use of a consistent, objective review of the operator's ability to respond to a blowout based on actual conditions, as opposed to rote application of a fixed checklist of equipment, some of which may be inappropriate or incompatible depending on the specific circumstances. The 2019 WCR removed the potential suggestion that every possible type of SCCEâregardless of relevance, necessity, or compatibility under the circumstancesâmust be maintained for every well (which was never the intent) and replaced that suggestion with the more streamlined requirement that operators must have available SCCE appropriate for the specific operations. The requested changes are not necessary, as the regulations continue to require that operators âmust have access to and the ability to deployâ the SCCE necessary to regain control of the well.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: Cement Evaluation Logs for Complex Wells</HD>
+                <P>A commenter requested that BSEE provide studies that show all well blowouts with failed cement and include a comparison of a pressure test versus the use of cement evaluation tools, the number of wells that require a pressure test and evaluation logs, and the number of wells that have remedial cement repairs as a result of cement evaluation logs. The commenter requested that BSEE revise its regulations to make cement evaluation logs mandatory for all offshore wells, and, in particular, for complex wells or wells in environmentally sensitive locations, to determine cement placement and quality and to verify cement repairs.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the suggestion that it would be necessary or appropriate to require cement evaluation logs for every well, as there are other viable indicators of successful cement placement and well integrity. These include tests required under existing regulations, such as pressure integrity testing required under 30 CFR 250.427 and the requirement to locate the top of cement (including through use of cement logs) and take remedial actions (per 30 CFR 250.428(c), (d)) where those tests provide indications of an inadequate cement job. BSEE has the discretion to require additional analysis, including cement logs, if warranted.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: Mechanical Integrity Assessment (MIA) Reportâ30 CFR 250.732(d)</HD>
+                <P>A commenter suggested that BSEE should restore the MIA Report requirements from the 2016 WCR that were eliminated in the 2019 WCR. The commenter asserted that BSEE now allows for industry self-regulation instead of independent third-party review that was required with the MIA Report.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenter that it is necessary or appropriate to restore the MIA Report requirements from the 2016 WCR. The regulations, taken as a whole, ensure proper mechanical integrity of equipment (
+                    <E T="03">e.g.,</E>
+                     specific BOP requirements of 30 CFR part 250, 
+                    <PRTPAGE P="57337"/>
+                    subparts G through S). All of the material informational requirements in the former MIA Reports continue to be captured in the regulations following the 2019 WCR. While those requirements are more dispersed throughout the regulations, BSEE has experienced no informational disadvantage or reduction based on the elimination of the cumulative MIA Report requirement.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: BOP 5-Year Complete Breakdownâ30 CFR 250.739</HD>
+                <P>A commenter suggested that BSEE should issue guidance to explain how far the BOP must be broken down to meet an acceptable BOP âmajor, detailedâ 5-year inspection. The commenter also suggested that BSEE restore the requirement for the independent third-party expert to be present at the 5-year BOP inspection.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     As BSEE explained in response to questions surrounding implementation of the 2016 WCR, BOP equipment must be broken down to allow for an appropriately detailed physical inspection. BSEE did not intend for this requirement to mean that each component must be dismantled to its smallest possible part. (See 2019 WCR, 84 FR 21961) Operators may use original equipment manufacturer (OEM)-approved methods (
+                    <E T="03">e.g.,</E>
+                     x-ray or ultrasonic) to assist in the detailed inspection. BSEE disagrees with the commenter's suggestion that the independent third party must be present at the 5-year BOP inspection, as there are other means for independent third-party verifications and certifications that help ensure that the BOP is fit for service at a specific location for its intended use. For example, the regulations require that an independent third party review the inspection documentation and compile a detailed inspection report, which allows the independent third party to compare the design data with the current status of the equipment and accomplishes BSEE's goal of verifying that the well control system components are fit for service and within design tolerances to be utilized for specific well conditions. BSEE's experience reviewing these inspection reports since 2019 has indicated no material change or reduction in the comprehensiveness or effectiveness of its oversight.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: BOP Testing Frequencyâ30 CFR 250.737(b)</HD>
+                <P>Multiple commenters recommended that BSEE remove the 21-day BOP testing interval option (even if supported by a BOP health monitoring plan required under Â§â250.737(a)(4)) and instead retain the 14-day test interval requirement for all BOPs and also require the BOP health monitoring plan for all BOPs.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenters' recommendations to remove the 21-day BOP testing frequency alternative. Since promulgation of the 2016 WCR, BSEE has obtained and considered additional data relevant to the effects of different BOP testing intervals, including from the 2017 SafeOCS reportâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     regarding BOP equipment failure, operator-submitted BOP health monitoring plan information (as required by 30 CFR 250.737(a)(4)(i) through (iv)), the 2019 Argonne National Laboratory research report,
+                    <SU>3</SU>
+                    <FTREF/>
+                     international experience with 21-day testing cycles, and the results of a two-year pilot program examining BOP testing frequency and associated BOP health monitoring data. BSEE has found that the BOP health monitoring plans provide relevant data on BOP equipment operation throughout the equipment's lifecycle and provide sufficient additional assurance of successful functioning and oversight of BOP equipment to support a 21-day testing interval. Based on this data, BSEE has concluded that BOP reliability is not reduced by permitting a 21-day testing frequency that includes BOP health monitoring. BSEE continues to evaluate the BOP testing frequency to ensure proper equipment functionality. BSEE will also continue to evaluate the information gathered under the BOP health monitoring plans to determine if it would be appropriate to apply the health monitoring plan requirement to all BOPs.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        â
+                        <E T="03">https://safeocs.gov/file/2017_WCR_Annual_Report_v4.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        â
+                        <E T="03">https://www.bsee.gov/sites/bsee.gov/files/examination-of-blowout-preventer-pressure-test-frequency.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">Summary of Comments: Real-Time Monitoring (RTM) Transmissionâ30 CFR 250.724</HD>
+                <P>A commenter suggested that BSEE should make clear in the regulation that transmission from one computer to another on the same rig or platform or having âqualified personnelâ on the same rig or platform would not satisfy the 2019 WCR.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE does not permit RTM under Â§â250.724 to be conducted by personnel located on the same rig or facility where the activities being monitored are taking place. Offsite personnel must conduct the monitoring. BSEE does not believe that a regulatory revision is necessary, as the commenter's suggestion reflects BSEE's position under existing regulations.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: Use of API Bulletin 92L Related to Drilling Marginâ30 CFR 250.427(b)</HD>
+                <P>A commenter expressed concerns about operators relying on API Bulletin 92L in situations where the Bulletin does not provide adequate methods to address lost circulation events. The commenter also requested that BSEE issue guidance to address what those situations are and how they should be handled.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     Since 2019, BSEE's experience with application of API Bulletin 92L relative to ongoing operations has confirmed its successful use for lost circulation events. BSEE believes the Bulletin adequately addresses how to proceed in the event of lost circulation and how to diagnose associated well stability issues safely and appropriately. The Bulletin provides operators with flow charts to use for evaluating what is happening in the well during lost circulation events and determining how to respond accordingly (
+                    <E T="03">e.g.,</E>
+                     stopping drilling to run casing or drilling ahead a short distance to a safe stopping point). There are circumstances where limited drilling forward is safer than immediately halting operations in response to a lost circulation or drilling margin event. However, BSEE and API Bulletin 92L recognize that there are situations where it is not appropriate to continue operations when there are indications of lost circulation, and the Bulletin does not contemplate drilling ahead under those circumstances. For example, an operator may not continue operations with inadequate mud volume on location if the mud weight is insufficient to control expected pore pressure or when the open hole formation integrity test is below predicted equivalent circulating density. Accordingly, the Bulletin adequately identifies those circumstances where continued operations are not appropriate and, in those circumstances, the regulation requires the operator to obtain BSEE's approval before it may proceed. Regulatory changes are not needed. BSEE will continue to consider the extent to which guidance may be appropriate to provide additional clarity around these subjects.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: Ensuring Adequate Cement Jobâ30 CFR 250.423(a) and (b)</HD>
+                <P>
+                    A commenter recommended that this regulation should be revised to clarify that latching mechanisms need to be engaged upon successful installation and cementing of casing strings or liners for the purpose of ensuring that casing 
+                    <PRTPAGE P="57338"/>
+                    and liners are properly secured for wellbore integrity, or alternatively the latching or lock down mechanism must engage automatically upon installing the string or casing, prior to cementing.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenter that clarification is needed for this associated regulation. BSEE requires the latching or lock down mechanisms to be engaged upon successfully installing the casing or liner.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: Effective Sealâ30 CFR 250.731(a)(5)</HD>
+                <P>A commenter asserted that the 2019 WCR's revisions to the language of this provision from âachieve an effective sealâ to âcloseâ imposes a lesser standard, as closing does not necessarily mean there is an effective seal. The commenter recommended that the regulations should be revised to clearly specify which ram types must meet an âeffective sealâ standard.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenter. As previously stated in the 2019 WCR, the requirements of paragraph (a)(5) relate only to the regulator set points used to activate the rams and do not alter any of the ram operational requirements contained in Â§Â§â250.733 and 250.734 for surface and subsea BOPs, respectively. Those provisions continue to require that BOP systems contain rams that, when activated, are capable of âsealing the wellbore after shearing,â and other rams âcapable of closing and sealingâ on downhole equipment. Some rams are not designed or intended to seal, such as the casing shear ram. BSEE uses the data obtained through this provision in the permit application to evaluate ram closing and sealing capabilities. The word âeffectiveâ in this context is not necessary and does not provide any supplemental regulatory standard.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: Test Demonstration Timeâ30 CFR 250.732(a)(2)(ii)</HD>
+                <P>A commenter expressed concerns that the 5-minute testing time is insufficient. This commenter suggested that BSEE should not abandon the 30-minute test protocol and that BSEE must provide supporting rationale for adopting anything other than the recommended pressure time.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE is unaware of any data indicating BOP pressure testing failures between 5 and 30 minutes, such that extending test length would capture additional relevant data. In developing the 2019 WCR, BSEE considered and reevaluated the 2016 WCR requirements regarding BOP testing done in laboratories or test facilities against historical data and the past application of that data. Based on the historical data, BSEE found that the 5-minute pressure integrity testing timeframe was well established and adequate to demonstrate effective sealing. This conclusion was bolstered through increased and ongoing interactions with testing facilities, through which BSEE was kept apprised of new test protocols and test data and what they indicated regarding appropriate test period length. In reviews of historical lab testing data as well as permits issued since 2010, BSEE found no indications of failures between the 5-minute and 30-minute marks. BSEE also reviewed publicly available incident data and did not identify any past incidents involving failure of equipment after successfully sealing a well. Accordingly, BSEE views the 5-minute pressure integrity test hold time to provide sufficient confirmation of the required capabilities, and more prolonged tests do not provide material safety gains.
+                </P>
+                <HD SOURCE="HD3">Summary of Comments: Shear Ram Capabilityâ30 CFR 250.734(a)(6)(vi)</HD>
+                <P>A commenter expressed concerns that the 2019 WCR removed the 2016 WCR âfail safeâ requirement that the control systems for certain emergency functions be a failsafe design once activated, and recommended that BSEE restore that language in the regulations.</P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenter's recommendation, as the relevant systems already function as fail-safe designs once activated, and adding that language would not alter the required emergency functionality. BSEE removed this language in the 2019 WCR because certain required emergency functions, such as the autoshear/deadman systems, are already considered fail-safe systems (
+                    <E T="03">i.e.,</E>
+                     they will fail in the mode that results in activation of the emergency function). They are designed to function automatically in emergency situations and do not require intervention by surface personnel to function. Existing regulatory requirements maintain these inherently fail-safe emergency functions (
+                    <E T="03">e.g.,</E>
+                     autoshear/deadman systems) adequately and ensure that the required emergency systems function in a fail-safe manner, without the commenter's proposed language change.
+                </P>
+                <HD SOURCE="HD1">IV. Section-by-Section Summary and Responses to Comments on the Proposed Rule</HD>
+                <P>BSEE is finalizing revisions to the following regulations:</P>
+                <HD SOURCE="HD2">Subpart GâWell Operations and Equipment</HD>
+                <HD SOURCE="HD3">What are the general requirements for BOP systems and system components? (Â§â250.730)</HD>
+                <P>This section of the existing regulations includes requirements for the design, installation, maintenance, inspection, repair, testing, and use of BOP systems and system components. This section also requires compliance with certain provisions of API Standard 53 and several related industry standards, and requires operators to use failure reporting procedures.</P>
+                <P>
+                    <E T="03">Summary of proposed rule revisions to paragraph (a):</E>
+                </P>
+                <P>BSEE proposed to revise paragraph (a) by modifying the current requirement that the âBOP system must be capable of closing and sealing the wellbore in the event of flow due to a kick, including under anticipated flowing conditions for the specific well conditions,â to a requirement that the âBOP system must be capable of closing and sealing the wellbore at all times to the well's maximum kick tolerance design limits.â Additional minor, non-substantive wording and grammatical changes were proposed for readability to accommodate this proposed revision.</P>
+                <P>
+                    <E T="03">Summary of final rule revisions to paragraph (a):</E>
+                </P>
+                <P>Based upon comments received, BSEE is revising paragraph (a) to state that the âBOP system must be capable of closing and sealing the wellbore to the well's [maximum anticipated surface pressure] at all times, except as otherwise specified in the BOP system requirements of this subpart.â These revisions will help ensure there is a consistent and proven approach for BOP system design criteria and will also provide clarity for operators to ensure the BOP system meets the requirements of the regulations at all times.</P>
+                <P>
+                    <E T="03">Summary of comments to proposed paragraph (a):</E>
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed concerns with the inclusion of the well's maximum kick tolerance design limit and suggested that the use of the maximum anticipated surface pressure (MASP) is a more appropriate and conservative design criteria.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees that the maximum anticipated surface pressure, in this case, is a better design criterion than the maximum kick tolerance design limit. MASP is used extensively in the requirements for design and operation of multiple pieces of equipment across BSEE regulations. Industry has substantial experience in calculating MASP, while experience 
+                    <PRTPAGE P="57339"/>
+                    with the methods for determining the maximum kick tolerance is less extensive and consistent. BSEE also recognizes that there may be circumstances where the use of MASP as a design parameter for identifying and sizing appropriate well control equipment would require more equipment capabilities than use of the maximum kick tolerance. Therefore, BSEE is revising the proposed provision to replace the reference to maximum kick tolerance design limit as the capability threshold with a reference to MASP to ensure consistency for calculating the design criteria and utilization of the most conservative design parameter.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed general support for the use of the maximum kick tolerance design limit. However, the commenters also expressed concerns that the maximum kick tolerance design limit is unclear and suggested that BSEE define and clarify the term.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees with the commenters' concerns about the clarity of using the maximum kick tolerance design limit as a standard. The maximum kick tolerance design limit concept is not referenced in the current BSEE regulations, so there is no clear experience from which a general consistent approach for calculating the maximum kick tolerance design limit can be developed. In response to comments, BSEE will not finalize the use of the maximum kick tolerance design limit as the applicable threshold and will instead require the use of a well-established design parameter: the well's MASP. The MASP is a commonly used design criterion referenced throughout the BSEE regulations. It is thoroughly understood and provides a comparable, and often more conservative, standard to ensure adequate BOP capability.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters recommended that BSEE clarify that BOP systems must close and seal the wellbore at all times to the requirements of the regulations.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees with the commenters' assertion that BOP systems must properly function at all times to the requirements of the regulations. Therefore, BSEE is revising the proposed provision to state that the BOP system must be capable of closing and sealing the wellbore to MASP at all times, except as otherwise specified in the regulations (such as in Â§Â§â250.730(a)(3); 250.732(a)(1)(i), (iii), and (v); and 250.733(a)(1)). BSEE's regulations include requirements related to BOP system design, fabrication, operation, maintenance, and testing, as well as independent validation and certification for ensuring the BOP was designed, tested, and maintained to perform under the maximum environmental and operational conditions anticipated to occur at the well. As a whole, the BOP system regulatory requirements help ensure that the BOP systems are appropriate for their intended use at all times and provide regulatory certainty to stakeholders for compliance and, if necessary, BSEE enforcement.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter expressed concerns that this paragraph does not go far enough to ensure that the BOP system is capable of closing and sealing the wellbore at all times based on existing exclusions in the current regulations. The commenter suggested revising the paragraph to specify that the BOP system must be capable of closing and sealing on all tubulars, including tool joints, drill collars, slip-proof sections, bottom hole assemblies, heavy casing, and pipe under compression, and under the maximum flowing conditions. The commenter also asserted that their trademarked technology is the only system able to meet the standard reflected in their suggested revisions.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees in part with the commenter's assertion that technology can help drive improvements to existing BOP system capabilities. However, at this time and based on existing knowledge, data, and experience, there is not adequate data demonstrating that the referenced equipment is necessary or proven for general adoption or implementation. In the context of existing proven and available technologies, imposition of an âat all timesâ mandate without further context would not accurately recognize prevailing operational realities. A BOP functions as a mitigation device, designed to backstop other prevention mechanisms to keep a well from progressing to a full blowout; its purpose is not to halt a full blowout once it has commenced. Operators must ensure ram closure time and sealing integrity within the operational and mechanical design limits of proven and available equipment that are reflected in the equipment capability requirements of the regulations. The changes in the final rule further support and reflect the totality of improved BOP equipment, procedures, and testing, while acknowledging the safe and appropriate purpose and function of the BOP, clarifying these requirements from the 2016 and 2019 WCRs. BSEE regulations accommodate use of new or unusual technology to demonstrate improvements that can influence development of regulatory requirements. BSEE will continue to evaluate, and, if appropriate, allow the use of new technology, including the commenter's cited technology, while responsibly overseeing developments in the field through regulations designed to ensure safety and environmental protection. BSEE will also continue to evaluate the BOP system regulations to ensure they are appropriate and effective, and, if necessary, revise the regulations based on proven improved technology. BSEE believes that the existing cited regulatory standards are consistent with the capabilities of currently proven technologies and the purpose and intended functions of BOPs.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter expressed concerns that industry is not currently using BOP systems properly to ensure well control. The commenter stated that, during certain stripping operations, industry is using subsea BOP elastomeric elements in a manner that may not constitute âproper useâ of the equipment under Â§â250.730(a). The commenter asserted that their company-specific technology would eliminate the concerns related to stripping operations.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees in part with the commenter's assertion that BOP systems need to be properly used. However, the commenter's discussion of stripping operations does not pertain to any of the proposals promulgated through the proposed rule and is therefore outside the scope of this final rule. Further, BSEE would not codify a requirement to use a specific company's product. BSEE will continue to review and evaluate existing stripping operations and their effects on the associated equipment.
+                </P>
+                <P>
+                    <E T="03">Summary of proposed rule revisions to paragraph (c):</E>
+                </P>
+                <P>BSEE proposed to revise paragraph (c) by removing, throughout the paragraph, the option to submit failure reports to a designated third party. BSEE also proposed to revise paragraph (c)(2) to ensure that the operator starts a failure investigation and analysis within 90 days of the failure instead of within 120 days.</P>
+                <P>
+                    <E T="03">Summary of final rule revisions to paragraph (c):</E>
+                </P>
+                <P>
+                    Based on comments received, BSEE is requiring throughout paragraph (c) that the failure reporting must be sent to BSEE's Office of Offshore Regulatory Programs Chief, any BSEE-designated third party to collect failure data, and the manufacturer of the equipment. BSEE also received and considered comments on the proposed provisions in paragraph (c)(2) that would require the investigation and failure analysis to 
+                    <PRTPAGE P="57340"/>
+                    be started within 90 days of the failure, and BSEE includes the proposed language in the final rule without change.
+                </P>
+                <P>
+                    <E T="03">Summary of Comments on paragraph (c)âSubmission of Failure Reporting to a Designated Third Party:</E>
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters strongly opposed the removal of BSEE's ability to use a third party to collect failure data. The commenters expressed their concerns that the proposed revisions may discourage the same level of details currently submitted to the third party, which includes confidential data, commercially sensitive information, and operators' internal processes. The commenters also cited the value of utilizing the third party, including the prevention of disclosure of proprietary and confidential data under the Confidential Information Protection and Statistical Efficiency Act (CIPSEA). The commenters suggested that BSEE retain the language in the current regulations and continue to allow the use of a designated third party. The commenters also suggested that BSEE work with the designated third party to establish increased reporting protocols to facilitate BSEE's timely review of failure data, identify trends, and respond appropriately.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees in part with the commenters' suggestion to retain the use of a designated third party to collect failure data. However, this final rule also requires submittal of the failure data to BSEE. BSEE continues to find value in using the Bureau of Transportation Statistics (BTS) for monitoring failure analysis and compiling and analyzing trend data, but this reporting arrangement limits BSEE's ability to efficiently and effectively address all of the issues associated with certain failures. Receiving failure reports directly will facilitate BSEE's timely review of the failure data to help more quickly identify trends and respond to systemic issues falling within BSEE's regulatory authority. BSEE also agrees with the commenters' suggestion to establish an increased reporting protocol from the third party (or parties) to BSEE. BSEE is in discussions with the currently designated third party to establish a monthly dashboard, as well as additional tools that would enhance BSEE's ability to review data and take appropriate action if necessary. BSEE does not want to disrupt the reporting process and the detailed data collected under CIPSEA. Furthermore, BSEE will protect confidential, proprietary, or sensitive information to the extent permitted by law, similar to its treatment of similar information submitted regularly to BSEE through the permitting process and other regulatory processes.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters support the proposed revision to remove the option to use a third party for failure data collection and explained that the revisions would enable BSEE to review and respond to the failure information quickly and efficiently.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees in part with the commenters that BSEE's timely review and response to the failure data is important. Accordingly, BSEE is now requiring the failure data to be submitted to BSEE in addition to the designated third party. Furthermore, BSEE is in discussions with the current designated third party to establish a monthly dashboard as well as additional tools that would enhance BSEE's ability to review data and to take additional action if necessary. These revisions will allow BSEE to continue to use BTS for monitoring failure analysis and trend data while also facilitating BSEE's access to and timely review of the relevant failure data for the purposes discussed in the prior response.
+                </P>
+                <P>
+                    <E T="03">Summary of Comments on paragraph (c)(2)âTimeframe to Start a Failure Analysis:</E>
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed concerns about shortening the timeframe for starting the failure analysis due to the time it takes to transport the equipment from remote offshore locations to various onshore equipment manufacturers' locations. The commenters recommended that BSEE keep the timeframe as in the existing regulations.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the recommendation to keep the timeframe in the existing regulations. BSEE understands the need to allow for transportation of the equipment, but experience indicates that 90 days is enough time to ensure proper transport, if necessary, under most circumstances, as discussed in the proposed rule. The regulations allow for BSEE approval of alternate procedures if necessary and justified under the regulatory standards.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed concerns that BSEE did not provide adequate justification to support the change of the failure analysis paradigm from the 2016 WCR to the 2019 WCR and that shortening the timeframe in this rule is still inadequate. The commenters suggested that the timeframe should revert to the 2016 WCR standard of 120 days to start and complete the failure analysis.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenters' request to revert to the 2016 WCR timeframe and is finalizing the timeframe as proposed. The commenters did not proffer new data that would call into question the justifications provided for the changes made in the 2019 WCR, including the operational safety and practical issues implicated by the prior timelines. As discussed in the proposed rule, based in part on experience gathered through implementation of the 2019 WCR, the selected timeframe allows for sufficient time to commence the analysis without jeopardizing safety or compromising investigation resources, while acknowledging that certain timeframes established in the 2016 WCR were inconsistent with some operational realities.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter expressed concerns that, in certain circumstances, operations are allowed to continue during an investigation. The commenter requested that BSEE provide a list of planned exemptions and rationale for each exemption and expressed concern with using a BOP with known failures.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     Other BSEE regulations specify the required actions to be taken when there are certain failures, including suspending operations as appropriate (
+                    <E T="03">e.g.,</E>
+                     Â§â250.738), and establish the substantive requirements for BOP capabilities during operations (
+                    <E T="03">e.g.,</E>
+                     Â§Â§â250.730, 250.733, 250.734). Paragraph (c)(2) refers to the failure investigation and reporting requirements, not the equipment operational or functional requirements. Regulatory revisions are not required to address this concern.
+                </P>
+                <HD SOURCE="HD3">What are the independent third party requirements for BOP systems and system components? (Â§â250.732)</HD>
+                <P>This section of the existing regulations describes the required qualifications of an independent third party. It also identifies the circumstances in which an operator must use an independent third party to satisfy certification, verification, or reporting requirements.</P>
+                <P>
+                    <E T="03">Summary of proposed revisions to paragraph (b):</E>
+                </P>
+                <P>BSEE proposed to revise paragraph (b) by adding that an independent third party must be accredited by a qualified standards development organization and that BSEE may review the independent third party accreditation and qualifications to ensure that it has sufficient capabilities to perform the required functions.</P>
+                <P>
+                    <E T="03">Summary of final rule revisions to paragraph (b):</E>
+                    <PRTPAGE P="57341"/>
+                </P>
+                <P>Based on comments received, BSEE is not finalizing the proposed revision to paragraph (b) that would have stated that the independent third party must be accredited by a qualified standards development organization (SDO). BSEE will instead require the operator to submit the independent third party's qualifications to BSEE with the associated permit application. This final rule will also add clarification that BSEE will evaluate the submitted qualifications to ensure they meet the regulatory requirements for permit approval. This revision will ensure that BSEE receives the third party qualifications and has the ability to evaluate the qualifications in connection with the permit review and approval process. This revision will also provide BSEE with an additional tool to increase oversight of the independent third party qualifications and ensure properly qualified entities perform the required verifications and certifications.</P>
+                <P>
+                    <E T="03">Summary of Comments:</E>
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed concerns that it was unclear who or what SDO would provide the proposed accreditation, and that no accreditation process currently exists to satisfy the proposed requirement. The commenters asserted that the regulatory framework has successfully incorporated use of independent third parties for many years and that the proposed accreditation requirements would disrupt those established systems without contributing materially to independent third party accountability. These commenters suggested keeping the existing regulations unchanged.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenters' suggestion to keep the existing requirements unchanged, which would not achieve the desired improvement for BSEE's oversight of the independent third party qualifications. BSEE does agree in part with the commenters' assertion that the proposed SDO process and the expectations for the accreditation of the independent third parties through that process were unclear. BSEE understands that there are many SDOs that provide many different types of accreditations. BSEE also understands that there is no regulated entity in a position to provide consistency with an accreditation process under these circumstances. Therefore, BSEE is not finalizing the proposed requirement for SDO accreditation and is instead requiring operators to submit the independent third party's qualifications directly to BSEE with the associated permit application. In considering whether to approve the permit application, BSEE will evaluate whether the identified qualifications satisfy the regulatory requirement to use an independent third party with the mandated credentials and âcapable of providing the required certifications and verifications.â This will achieve the appropriate enhancement of oversight for the qualifications of independent third parties providing the required verifications, while avoiding the ambiguity and uncertainty surrounding the proposed SDO accreditation requirement.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters suggested that BSEE should restore the BSEE approved verification organizations (BAVO) process established in the 2016 WCR.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees that the BAVO process is necessary. As discussed, BSEE is taking alternative steps to review and ensure independent third party qualifications to perform the necessary verification functions by requiring submission of their qualification for review with the associated permit application (
+                    <E T="03">e.g.,</E>
+                     Application for Permit to Drill (APD) and Application for Permit to Modify (APM)). These qualifications would be fully considered as part of the permit review and associated permit approval process. BSEE would identify any gaps in the potential qualifications of the independent third parties and address any issues related to adequate oversight. This is similar to the functions BSEE anticipated performing through its BAVO approval process. The Department does not perceive meaningful gains in accountability or vetting from implementing the additional layer of administrative certification of the former BAVO framework, which never went into effect and was replaced based on BSEE's positive experiences interacting and attending inspections and testing with independent third parties in its stead.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter asserted that BSEE should take a larger role in oversight of the independent third party qualifications and should require review of the qualifications in the regulations.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees with the commenter and is requiring in this final rule the submission of the independent third party's qualifications with the associated permit application (
+                    <E T="03">e.g.,</E>
+                     APD and APM). BSEE will fully review these qualifications during the permit review and associated permit approval process to ensure that the regulatory requirement to use independent third parties with the identified credentials and necessary capabilities has been met. BSEE will use those reviews to identify any gaps in the potential qualifications and address any issues related to the validity or reliability of the associated verifications. If BSEE determines that the submitted third party qualifications do not meet the regulatory requirements, then BSEE would not approve the associated permit application.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter disagreed with the third party review concept and suggested that BSEE use an auditing process similar to that applied in the Safety and Environmental Management Systems Program. The commenter also suggested that BSEE study the effects of accreditation and third party review.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the suggested use of an auditing process to review the third party qualifications or in lieu of using independent third parties. Similar to the issues identified above regarding the proposed imposition of an SDO accreditation requirement, BSEE is not aware of existing organizations or systems with the frameworks currently in place to implement an audit process that would adequately replace the important functions currently served by independent third party verifications and certifications or that would be materially superior to the enhanced BSEE oversight of those functions facilitated by this final rule. BSEE will continue to evaluate the appropriateness of an auditing process for future potential rulemaking.
+                </P>
+                <HD SOURCE="HD3">What are the requirements for a surface BOP stack? (Â§â250.733)</HD>
+                <P>This section of the existing regulations describes the capability, type, and number of BOPs required when an operator uses a surface BOP stack for drilling or for conducting operations. </P>
+                <P>This section also describes the requirements for the risers and BOP stack when a surface BOP is used on a floating production facility.</P>
+                <P>
+                    <E T="03">Summary of proposed rule revisions to paragraph (b)(1):</E>
+                </P>
+                <P>BSEE proposed to revise paragraph (b)(1) by adding that an operator must also follow the BOP requirements of Â§â250.734(a)(1) when replacing an entire surface BOP stack on an existing floating production facility. That provision requires dual shear rams for applicable BOP stacks.</P>
+                <P>
+                    <E T="03">Summary of final rule revisions:</E>
+                </P>
+                <P>BSEE received and considered comments on the proposed revisions and includes the proposed revisions in the final rule without change.</P>
+                <P>
+                    <E T="03">Summary of Comments:</E>
+                    <PRTPAGE P="57342"/>
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter asserted that consideration should be given to the extent to which this revision might create a disincentive for replacing old BOP stacks.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the assertion that the provision might create a disincentive for replacing old BOP stacks. BSEE is aware of every facility and BOP stack that does not have dual shear rams and the potential constraints on a complete BOP stack replacement. If a BOP stack reaches the point of needing immediate replacement, the operator would not realistically have the option to neglect that action to avoid meeting the dual shear ram requirements. If a stack needs to be entirely replaced, the operator would likely have no choice but to replace the BOP stack to remain in compliance with the general regulatory requirements of part 250, subpart G. BSEE has identified only seven facilities potentially implicated by this provision and will work with the operators on a case-by-case basis to ensure appropriate action is taken without creating a disincentive to make the upgrades.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed concerns that the proposed rule is unclear and could require significant (and perhaps infeasible) modifications to be made to existing facilities on the OCS, and that this rulemaking does not fully account for these impacts. The commenters suggested that BSEE engage with industry to determine how to achieve the intent of the proposed provision and then repropose a modified provision in a later rulemaking. The commenters suggested that BSEE should keep the existing regulations unchanged.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenters' suggestion to keep the existing regulations unchanged. BSEE is working to ensure that all BOPs have dual shear rams. However, BSEE recognizes that the existing facilities without the dual shear rams must complete the upgrades at an appropriate time. BSEE is aware of every facility and BOP stack that does not have dual shear rams and the potential constraints on a complete BOP stack replacement. If there is an immediate need to replace the entire BOP stack, beyond routine maintenance, those circumstances are serious enough to warrant the upgrade of the BOP stack to meet the dual shear ram requirements. BSEE has identified only seven facilities potentially implicated by this provision and will work with the operators on a case-by-case basis to ensure appropriate action is taken without creating unnecessary and potentially hazardous modifications to the associated facility to ensure regulatory compliance.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed support for requiring dual shear rams to be installed whenever the BOP stack is replaced, not merely on new facilities.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees with these commenters in part and is finalizing the proposed provisions to require that certain facilities upgrade their BOP stacks to include dual shear rams at an appropriate time.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter asserted that all existing facilities should have dual shear rams and opined on the importance of redundancy.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE generally agrees and is working to ensure that all BOPs have dual shear rams, within operational, practical, and safety constraints. The provisions of the final rule advance those efforts.
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     A commenter expressed concerns that the financial impact is grossly underestimated, as requiring operators to raise the substructure of existing platform rigs to accommodate a taller BOP system after adding another BOP cavity would result in massive structural impacts. The commenter asserts this could have the effect of rendering some leases and projects uneconomic.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE disagrees with the commenter that it has underestimated the economic impacts of this provision. BSEE has identified only seven existing facilities using BOP stacks that would potentially be subject to the requirements of this revision, most of which are located in depleted fields and only one of which is projected to replace its entire BOP stack over the next ten years. If an operator of such a facility has determined an immediate need to replace the entire BOP stack, beyond routine maintenance, those circumstances are serious enough that the operation would be necessary for the operator to comply with the general regulatory requirements of part 250, subpart G. Irrespective of this change, replacement of an entire BOP stack would entail rig downtime and require such facilities to take a number of actions to accommodate the new BOP stack, 
+                    <E T="03">i.e.,</E>
+                     such replacement would be an appropriate time to accommodate the dual shear rams. Furthermore, potential facility modifications can be conducted simultaneously with anticipated rig down time for replacement of the entire BOP stack to help minimize overall rig down time. BSEE anticipates that any facility modifications and burdens associated with that replacement would be incurred because of the otherwise-required stack replacement itself, and that this particular element of that substantial undertaking is unlikely to contribute significantly to the overall costs. See the accompanying Regulatory Impact Analysis for more detailed discussion of estimated costs. BSEE is not requiring all remaining surface BOP stacks to be immediately upgraded and is allowing completion of the upgrades at an appropriate time when other facility modifications would be necessary. BSEE will work with the operators on a case-by-case basis to ensure that they take appropriate actions for regulatory compliance without creating unnecessary and potentially hazardous modifications to the associated facility.
+                </P>
+                <HD SOURCE="HD3">What are the requirements for a subsea BOP system? (Â§â250.734)</HD>
+                <P>
+                    This section of the existing regulations identifies the requirements for a subsea BOP system used for drilling or conducting operations. The section describes the requirements for subsea BOP system capabilities, as well as the functionality, type, and quantity of required equipment (
+                    <E T="03">e.g.,</E>
+                     BOPs, pod control systems, accumulator capacity, ROVs, autoshear and deadman, acoustic control system, and management and operating protocols).
+                </P>
+                <P>
+                    <E T="03">Summary of proposed rule revisions to paragraph (a)(4):</E>
+                </P>
+                <P>BSEE proposed to revise paragraph (a)(4) by adding that the operator must have the ROV intervention capability to both open and close each shear ram, ram locks, and one pipe ram. (Current regulations require only closure capability.)</P>
+                <P>
+                    <E T="03">Summary of final rule revisions:</E>
+                </P>
+                <P>BSEE received comments in general support of the proposed revisions to this section and is including the proposed language in the final rule without change. However, based on comments, BSEE is also adding a deferred compliance dateâone year after publication of the final ruleâto allow operators to make the required equipment modifications.</P>
+                <P>
+                    <E T="03">Summary of Comments:</E>
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed support for the proposal to require the ROV intervention capability to both open and close certain components. However, multiple commenters also requested a one-year deferred compliance date to allow sufficient time to make the required modifications to the existing equipment and ensure compliance with the regulations.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees with the commenters' request to allow a one-year deferred compliance date in order to allow sufficient time for operators to 
+                    <PRTPAGE P="57343"/>
+                    make the necessary equipment modifications to comply with this provision. This is a reasonable amount of time for executing the modifications to the impacted subsea BOP systems that currently lack these functionalities, which must be removed from subsea service at a safe operational time and undergo necessary equipment modifications before being returned to subsea service. One year is a reasonable period of time for responsibly accomplishing these steps, particularly given that the critical function of ram closure will continue to be required in the interim. BSEE does not want to inadvertently increase the risk during any of the ongoing BOP operations and the one-year deferred compliance date allows enough time for the operators to conduct the necessary equipment modifications during routine maintenance and other opportunities when the well is placed in a safe condition.
+                </P>
+                <HD SOURCE="HD3">What are the BOP system testing requirements? (Â§â250.737)</HD>
+                <P>This section of the existing regulations details the pressure test frequency, procedures, and duration for BOP systems. This section also contains additional testing requirements, including compliance with API Standard 53, and specifies documentation required for certain BOP testing.</P>
+                <P>
+                    <E T="03">Summary of proposed rule revisions to paragraphs (d)(2)(ii) and (d)(3)(iii):</E>
+                </P>
+                <P>BSEE proposed to revise paragraphs (d)(2)(ii) and (d)(3)(iii) by adding the requirement that, if a BSEE representative is unable to witness the testing, the operator must provide the initial test results to the appropriate District Manager within 72 hours after completion of the tests.</P>
+                <P>
+                    <E T="03">Summary of final rule revisions:</E>
+                </P>
+                <P>BSEE received comments in general support of the proposed revisions to this section and is including the proposed language in the final rule without change.</P>
+                <P>
+                    <E T="03">Summary of Comments:</E>
+                </P>
+                <P>
+                    <E T="03">Summary of comments:</E>
+                     Multiple commenters expressed support for the proposed return to the 2016 WCR requirement that, if BSEE is unable to witness testing, the operator must provide initial test results within 72 hours.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     BSEE agrees with the commenters' support for these provisions and is including the proposed language in the final rule without change.
+                </P>
+                <HD SOURCE="HD1">V. Procedural Matters</HD>
+                <HD SOURCE="HD2">Regulatory Planning and Review (Executive Orders (E.O.) 12866 and 13563)</HD>
+                <P>
+                    E.O. 12866 provides that the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB) will review all significant rules. To determine if this rulemaking is a significant rule, a BSEE contractor prepared an economic analysis that assessed the anticipated costs and potential benefits of the rulemaking. The following discussion summarizes the economic analysis; a complete copy of the economic analysis can be viewed at 
+                    <E T="03">www.Regulations.gov</E>
+                     (use the keyword/ID âBSEE-2022-0009â).
+                </P>
+                <P>Changes to Federal regulations must undergo several types of economic analyses. First, E.O.s 12866, 14094, and 13563 direct agencies to assess the costs and benefits of regulatory alternatives and, if regulation is necessary, to select a regulatory approach that maximizes net benefits (including potential economic, environmental, public health, and safety effects; distributive impacts; and equity), unless a statute requires another regulatory approach. Under E.O.s 12866 and 14094, an agency must determine whether a regulatory action is significant and, therefore, subject to review by OMB. Section 3(f) of E.O. 12866, as amended by E.O. 14094, defines a âsignificant regulatory actionâ as any regulatory action that is likely to result in a rule that:</P>
+                <FP SOURCE="FP-1">âHas an annual effect on the economy of $200 million or more, or adversely affects in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities (also referred to as âeconomically significantâ);</FP>
+                <FP SOURCE="FP-1">âCreates serious inconsistency or otherwise interferes with an action taken or planned by another agency;</FP>
+                <FP SOURCE="FP-1">âMaterially alters the budgetary impacts of entitlement grants, user fees, loan programs, or the rights and obligations of recipients thereof; or</FP>
+                <FP SOURCE="FP-1">âRaises novel legal or policy issues arising out of legal mandates, the President's priorities, or the principles set forth in E.O. 12866.</FP>
+                <P>OIRA has determined that this final rule is not significant within the definition of E.O. 12866 because the estimated annual costs or benefits would not exceed $200 million in any year of the 10-year analysis period and the rule will not meet any of the other significance triggers. Accordingly, OMB has not reviewed this final rule.</P>
+                <HD SOURCE="HD3">(1) Need for Regulatory Action</HD>
+                <P>
+                    BSEE has identified a need to amend the existing well control regulations to ensure that oil and gas operations on the OCS are conducted in a safe and environmentally responsible manner. In particular, BSEE considers the rule necessary to reduce the likelihood of an oil or gas blowout, which can lead to the loss of life, serious injuries, and harm to the environment. As the 
+                    <E T="03">Deepwater Horizon</E>
+                     incident demonstrated, blowouts can result in catastrophic consequences.
+                </P>
+                <P>
+                    After the 
+                    <E T="03">Deepwater Horizon</E>
+                     incident in 2010, BSEE adopted several recommendations from multiple investigation teams to improve the safety of offshore operations. Subsequently, on April 29, 2016, BSEE published the 2016 Blowout Preventer Systems and Well Control Final Rule (81 FR 25888) (2016 WCR). The 2016 WCR consolidated the equipment and operational requirements for well control into one part of BSEE's regulations; enhanced BOP and well design requirements; modified well-control requirements; and incorporated certain industry technical standards. Most of the 2016 WCR provisions became effective on July 28, 2016.
+                </P>
+                <P>
+                    Although the 2016 WCR addressed a significant number of issues that were identified during the analyses of the 
+                    <E T="03">Deepwater Horizon</E>
+                     incident, BSEE recognized that BOP equipment and systems continue to improve and that well control processes also evolve. Therefore, after the 2016 WCR took effect, BSEE continued to engage with the offshore oil and gas industry, Standards Development Organizations (SDOs), and other stakeholders. During these engagements, BSEE identified issues, and stakeholders expressed a variety of concerns regarding the implementation of the 2016 WCR. BSEE completed a review of the 2016 WCR and, on May 15, 2019, published the 2019 WCR in the 
+                    <E T="04">Federal Register</E>
+                     (84 FR 21908). The 2019 WCR left most of the 2016 WCR unchanged.
+                </P>
+                <P>
+                    Following publication of the 2019 WCR, BSEE continued to engage with stakeholders to gather information to ensure that industry was effectively implementing the governing regulatory requirements. On January 20, 2021, the President issued Executive Order (E.O.) 13990 (Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis). The accompanying âPresident's Fact Sheet: List of Agency Actions for Reviewâ included the 2019 WCR on a list of rules the President instructed DOI to review for potential revisions to promote and 
+                    <PRTPAGE P="57344"/>
+                    protect public health and the environment, among other policy goals identified in the E.O. This review confirmed that the 2019 WCR contains many provisions that help ensure that federally regulated outer Continental Shelf (OCS) oil and gas operations are conducted safely and in an environmentally responsible manner. Therefore, this final rule addresses only select provisions that, consistent with and as authorized by the Outer Continental Shelf Lands Act (OCSLA), will further promote the objectives of E.O. 13990. At this time, BSEE is finalizing narrowly focused revisions to improve operations that use a BOP, certain BOP capabilities and functionalities, and BSEE oversight of such operations. The final rule will:
+                </P>
+                <P>(A) Clarify the general BOP system expectations,</P>
+                <P>(B) Require failure notifications to be sent to BSEE and modify the timeframes for commencing a failure analysis,</P>
+                <P>(C) Require submission of the independent third party qualifications with the associated permit application,</P>
+                <P>(D) Establish dual shear ram requirements for surface BOPs on existing floating production facilities when an operator replaces an entire surface BOP stack,</P>
+                <P>(E) Require ROV open functions for subsea BOPs, and</P>
+                <P>(F) Require submittal of certain BOP test results if BSEE is unable to witness the testing.</P>
+                <HD SOURCE="HD3">(2) Alternatives</HD>
+                <P>BSEE has considered two regulatory alternatives:</P>
+                <P>(A) Promulgate the requirements contained within the final rule.</P>
+                <P>(B) Take no regulatory action and continue to rely on existing well control regulations in combination with permit conditions, deepwater operations plans (DWOPs), operator prudence, and industry standards.</P>
+                <P>Alternative 1âthe final ruleâwould incorporate recommendations provided by government, industry, academia, and other stakeholders. In addition to addressing concerns and aligning with industry standards, this final rule would prudently improve efficiency and consistency of the regulations.</P>
+                <HD SOURCE="HD3">(3) Economic Analysis</HD>
+                <P>
+                    BSEE's economic analysis evaluated the expected impacts of the final rule compared with the baseline. The baseline refers to current industry practice in accordance with existing regulations, industry permits, DWOPs, and industry standards with which operators already comply. Impacts that exist as part of the baseline were not considered costs or benefits of the final rule. Thus, the cost analysis evaluates only activities, expenditures, and capital investments representing a change from the baseline that would result when the rule is finalized. BSEE quantified and monetized the costs, in year 2022 dollars, of all the provisions in the final rule determined to result in a change compared to the baseline. These estimated compliance costs are discussed more specifically in the associated final regulatory impact analysis, which can be viewed at 
+                    <E T="03">www.regulations.gov</E>
+                     (use the keyword/ID âBSEE-2022-0009â).
+                </P>
+                <P>BSEE qualitatively assessed the benefits of the final rule. The rulemaking will allow BSEE to address stakeholder concerns related to the BOP and well control provisions in 30 CFR part 250 and provide clarification about regulations in this section. The amendments will have a positive net impact on worker safety and the environment. The benefits include clarification, more timely review of data to facilitate faster response to systemic risks, increased accountability of verification entities to ensure that risks are accurately assessed and verified, improved protection from a blowout, improved ability to manage a blowout, and the assurance that BSEE receives and is able to review BOP testing data to help identify risks.</P>
+                <P>BSEE's economic analysis covers 10 years (2023 through 2032) to ensure it encompasses any significant costs and benefits likely to result from this final rule. A 10-year period was used for this analysis because of the uncertainty associated with predicting industry's activities and the advancement of technical capabilities beyond 10 years. It is very difficult to predict, plan, or project costs associated with technological innovation due to unknown technological or business constraints that could drive a product into mainstream adoption or into obsolescence. The regulated community itself has difficulty conducting business modeling beyond a 10-year time frame. Over time, the costs associated with a particular new technology may drop because of various supply and demand factors, causing the technology to be more broadly adopted. In other cases, an existing technology may be replaced by a lower-cost alternative as business needs may drive technological innovation. Extrapolating costs and benefits beyond this 10-year time frame would produce more speculative results and therefore be disadvantageous in determining actual costs and benefits likely to result from this final rule. BSEE concluded that this 10-year analysis period provides the best overall ability to forecast reliable costs and benefits likely to result from this final rule. When summarizing the costs and benefits, we present the estimated annual effects, as well as the 10-year discounted totals using discount rates of 3 and 7 percent, per OMB Circular A-4, âRegulatory Analysis.â</P>
+                <P>Table 1 presents the total costs per year of the final rule. As seen in the table, the estimated costs over the ten-year period are $2.8 million undiscounted, $2.6 million discounted at 3%, and $2.4 million discounted at 7%.</P>
+                <GPOTABLE COLS="4" OPTS="L2,i1" CDEF="s25,10,10,10">
+                    <TTITLE>Table 1âTotal Costs Associated With Final Amendments to BOP and Well Control Regulations</TTITLE>
+                    <TDESC>[2022$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Year</CHED>
+                        <CHED H="1">Undiscounted</CHED>
+                        <CHED H="1">Discounted at 3%</CHED>
+                        <CHED H="1">Discounted at 7%</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">2023</ENT>
+                        <ENT>$38,046</ENT>
+                        <ENT>$38,046</ENT>
+                        <ENT>$38,046</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2024</ENT>
+                        <ENT>1,898,190</ENT>
+                        <ENT>1,842,903</ENT>
+                        <ENT>1,774,009</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2025</ENT>
+                        <ENT>38,046</ENT>
+                        <ENT>35,862</ENT>
+                        <ENT>33,231</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2026</ENT>
+                        <ENT>38,046</ENT>
+                        <ENT>34,817</ENT>
+                        <ENT>31,057</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2027</ENT>
+                        <ENT>595,852</ENT>
+                        <ENT>529,407</ENT>
+                        <ENT>454,573</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2028</ENT>
+                        <ENT>38,046</ENT>
+                        <ENT>32,819</ENT>
+                        <ENT>27,126</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2029</ENT>
+                        <ENT>38,046</ENT>
+                        <ENT>31,863</ENT>
+                        <ENT>25,352</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2030</ENT>
+                        <ENT>38,046</ENT>
+                        <ENT>30,935</ENT>
+                        <ENT>23,693</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2031</ENT>
+                        <ENT>38,046</ENT>
+                        <ENT>30,034</ENT>
+                        <ENT>22,143</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">2032</ENT>
+                        <ENT>38,046</ENT>
+                        <ENT>29,159</ENT>
+                        <ENT>20,694</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <PRTPAGE P="57345"/>
+                        <ENT I="03">Total</ENT>
+                        <ENT>2,798,410</ENT>
+                        <ENT>2,635,845</ENT>
+                        <ENT>2,449,924</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Annualized</ENT>
+                        <ENT>279,841</ENT>
+                        <ENT>309,001</ENT>
+                        <ENT>348,814</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <E T="02">Note:</E>
+                         Annualized costs are calculated by the annuity method.
+                    </TNOTE>
+                </GPOTABLE>
+                <HD SOURCE="HD1">Small Business Regulatory Enforcement Fairness Act, Regulatory Flexibility Act, and the Congressional Review Act</HD>
+                <P>
+                    The Principal Deputy Assistant Secretary, Land and Minerals Management, certifies that this final rule will not have a significant economic impact on a substantial number of small entities as defined under the Regulatory Flexibility Act, 5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                     (RFA).
+                </P>
+                <P>
+                    The RFA, at 5 U.S.C. 603, requires agencies to prepare a regulatory flexibility analysis to determine whether a regulation would have a significant economic impact on a substantial number of small entities. Further, under the Congressional Review Act, 5 U.S.C. 801 
+                    <E T="03">et seq.,</E>
+                     an agency is required to produce compliance guidance for small entities if the rule would have a significant economic impact. For the reasons explained in this section, BSEE believes that this final rule likely will not have a significant economic impact on a substantial number of small entities. BSEE provides this Regulatory Flexibility Act Analysis to demonstrate the relatively minor impact of this final rule on small entities and to support DOI's certification.
+                </P>
+                <HD SOURCE="HD2">(1) Description of the Reasons That Action by the Agency Is Being Considered</HD>
+                <P>Following publication of the 2019 WCR, BSEE continued to engage with stakeholders to gather information to ensure that industry was effectively implementing the governing regulatory requirements. On January 20, 2021, the President issued Executive Order (E.O.) 13990 (Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis). The accompanying âPresident's Fact Sheet: List of Agency Actions for Reviewâ included the 2019 WCR on a list of rules the President instructed DOI to review for potential revisions to promote and protect public health and the environment, among other policy goals identified in the E.O.</P>
+                <HD SOURCE="HD2">(2) Description and Estimated Number of Small Entities Regulated</HD>
+                <P>
+                    Small entities, as defined by the RFA, consist of small businesses, small organizations, and small governmental jurisdictions. 5 U.S.C. 601(6). We have not identified any small organizations or small government jurisdictions that the rule would impact, so this analysis focuses on impacts to small businesses. A small business is one that is independently owned and operated and that is not dominant in its field of operation. See, 
+                    <E T="03">e.g.,</E>
+                     5 U.S.C. 601(3); 15 U.S.C. 632(a)(1). The definition of small business varies from industry to industry to properly reflect differing industry characteristics. 15 U.S.C. 632(a)(3).
+                </P>
+                <P>The final rule will affect all well drilling operators and Federal oil and gas lease holders on the OCS, primarily those working in the Gulf of Mexico. BSEE's analysis shows that this will include 48 companies that drilled at least one offshore well during the period 2015 to 2021. Of these drilling operators, approximately 20 are likely to be active in each given year. Entities that will operate under the final rule are classified primarily under North American Industry Classification System (NAICS) codes 211120 (Crude Petroleum Extraction), 211130 (Natural Gas Extraction), and 213111 (Drilling Oil and Gas Wells). For NAICS classifications 211120 and 211130, the Small Business Administration defines a small business as one with fewer than 1,251 employees; the rest are considered large businesses (the threshold for 213111 is lower, and thus less inclusive). BSEE estimates that approximately 83 percent of offshore operators drilling on the OCS are small under this standard.</P>
+                <HD SOURCE="HD2">(3) Description and Estimate of Compliance Requirements</HD>
+                <P>BSEE has estimated the incremental costs for small operators and lease holders in the offshore oil and natural gas production industry. BSEE did not consider costs already incurred as a result of current industry practice in accordance with existing regulations, industry permits, DWOPs, and API industry standards with which operators already comply because they are part of the baseline.</P>
+                <P>
+                    Three provisions of the final rule will have cost impacts on a substantial number of small businesses. For the amendments to Â§â250.730(c), BSEE estimates that the annual cost of adding an additional recipient to failure notification submissions is $101 per company. For the amendments to Â§â250.732(b), BSEE estimates that the annual cost of adding independent third-party qualifications to associated permit application (
+                    <E T="03">e.g.,</E>
+                     APDs and APMs) is $682 per company. For the new requirements under Â§â250.737(d)(2)(ii) and (d)(3)(iii) to submit BOP testing data to BSEE when it does not witness the testing, BSEE estimates that the annual cost per company to comply with these requirements will be $58.03. The combined cost of these provisions constitutes less than 1 percent of revenues for the smallest operators and therefore is not a significant economic impact.
+                </P>
+                <HD SOURCE="HD2">(4) Identification of All Relevant Federal Rules That May Duplicate, Overlap, or Conflict With the Final Rule</HD>
+                <P>The final rule will not conflict with any relevant Federal rules or duplicate or overlap with any Federal rules in any way that will unnecessarily add cumulative regulatory burdens on small entities without any gain in regulatory benefits.</P>
+                <HD SOURCE="HD2">(5) Description of Significant Alternatives to the Final Rule</HD>
+                <P>BSEE has considered two regulatory alternatives:</P>
+                <P>(A) Promulgate the requirements contained within the final rule.</P>
+                <P>(B) Take no regulatory action and continue to rely on existing well control regulations in combination with permit conditions, DWOPs, operator prudence, and industry standards.</P>
+                <P>
+                    Alternative 1âthe final ruleâwould incorporate recommendations provided by government, industry, academia, and 
+                    <PRTPAGE P="57346"/>
+                    other stakeholders. In addition to addressing concerns and aligning with industry standards, this final rule will prudently improve efficiency and consistency of the regulations.
+                </P>
+                <P>The potential costs to small entities are believed to be small; however, the risk of safety or environmental accidents for small companies is not necessarily lower than it is for larger companies. Offshore operations are highly technical and can be hazardous. Adverse consequences in the event of incidents are similar regardless of the operator's size. The final rule will reduce risk for entities of all sizes.</P>
+                <HD SOURCE="HD1">Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    This final rule will not impose an unfunded mandate on State, local, or Tribal governments or the private sector of more than $189 million per year. The final rule will not have a significant or unique effect on State, local, or Tribal governments or the private sector. A statement containing the information required by Unfunded Mandates Reform Act (2 U.S.C. 1531 
+                    <E T="03">et seq.</E>
+                    ) is not required.
+                </P>
+                <HD SOURCE="HD1">Takings Implication Assessment (E.O. 12630)</HD>
+                <P>Under the criteria in E.O. 12630, this final rule does not have significant takings implications. The rule is not a governmental action capable of interference with constitutionally protected property rights. A Takings Implication Assessment is not required.</P>
+                <HD SOURCE="HD1">Federalism (E.O. 13132)</HD>
+                <P>Under the criteria in E.O. 13132, this final rule does not have federalism implications. This final rule does not substantially and directly affect the relationship between the Federal and State governments. To the extent that State and local governments have a role in OCS activities, this final rule does not affect that role. A federalism assessment is not required.</P>
+                <HD SOURCE="HD1">Civil Justice Reform (E.O. 12988)</HD>
+                <P>This final rule complies with the requirements of E.O. 12988. Specifically, this rule:</P>
+                <P>(1) Meets the criteria of section 3(a) requiring that all regulations be reviewed to eliminate errors and ambiguity and be written to minimize litigation; and</P>
+                <P>(2) Meets the criteria of section 3(b)(2) requiring that all regulations be written in clear language and contain clear legal standards.</P>
+                <HD SOURCE="HD1">Consultation With Indian Tribes (E.O. 13175)</HD>
+                <P>BSEE strives to strengthen its government-to-government relationships with Tribal Nations and Alaska Natives through a commitment to consultation with the Tribes and recognition of their right to self-governance and Tribal sovereignty. We are also respectful of our responsibilities for consultation with Alaska Native Claims Settlement Act (ANCSA) Corporations. BSEE evaluated the subject matter of this rulemaking under the criteria in E.O. 13175, Consultation and Coordination with Indian Tribal Governments (dated November 6, 2000), DOI's Policy on Consultation with Indian Tribes and Policy on Consultation with Alaska Native Claims Settlement Act Corporations (512 Departmental Manual 4, dated November 30, 2022 and 512 Departmental Manual 6, dated November 30, 2022, respectively), and DOI's Procedures for Consultation with Indian Tribes and Procedures for Consultation with Alaska Native Claims Settlement Act Corporations (512 Departmental Manual 5, dated November 30, 2022, and 512 Departmental Manual 7, dated November 30, 2022, respectively) and determined that it has no substantial direct effects on Tribal Nations or Alaska Natives. Therefore, consultation under E.O. 13175 and DOI's Procedures for Consultation with Tribal Nations and ANCSA Corporations is not required.</P>
+                <HD SOURCE="HD1">Paperwork Reduction Act (PRA) of 1995</HD>
+                <P>
+                    This final rule does not contain any new collection of information that requires approval by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    ). OMB has previously approved the information collection requirements associated with 30 CFR part 250, subpart G, Well Operations and Equipment, and assigned OMB Control Number 1014-0028. That approval is currently with OMB under the renewal process, and in accordance with 5 CFR 1320.10, an agency may continue to conduct or sponsor this collection of information while the submission is pending at OMB. The currently approved annual burden associated with this information collection is 160,842 hours. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+                </P>
+                <P>During the proposed rule stage, BSEE suggested changing the requirements in subpart G, Well Operations and Equipment, by revising regulatory provisions published in the 2019 WCR for drilling, workover, completion, and decommissioning operations. These changes provide clarity to BOP system requirements and revise a few specific BOP equipment capabilities. These proposed changes were estimated to add 10 burden hours to the 1014-0028 collection.</P>
+                <P>The following provides a breakdown of the paperwork hour burdens and non-hour cost burdens for this final rule.</P>
+                <P>Section 250.730âThis section will add text requiring that BSEE and the designated third party receive failure reports. This will result in no burden changes in the currently approved failure reporting burden because adding BSEE to already-required transmissions to third parties would impose minimal to no additional burden.</P>
+                <P>Section 250.732(b)âThis section will add to the current paragraph that the independent third party qualifications must be sent to BSEE with the associated permit application (hour burden and any associated fees are covered under 1014-0025 or 1014-0026); furthermore, there are no changes in hour burden. Any anticipated burdens are miniscule and won't add any additional burdens to the permitting process.</P>
+                <P>Section 250.737(d)(2) and (3)âThis section will add the requirement that if BSEE is unable to witness BOP testing, the operator must provide the initial test results to the appropriate District Manager within 72 hours after completion of the tests. The 2019 WCR provisions removed this requirement from the regulations. Yet, BSEE inadvertently never removed the IC burden associated with this requirement; therefore, no burden changes are needed.</P>
+                <HD SOURCE="HD1">National Environmental Policy Act of 1969 (NEPA)</HD>
+                <P>
+                    BSEE analyzed the provisions of the rule in compliance with the National Environmental Policy Act of 1969 (NEPA) (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ) to determine whether they could have a significant impact on the quality of the human environment. The DOI implementing regulations for NEPA encourage the use of existing NEPA analyses when a bureau determines those analyses âadequately assess[â] the environmental effects of the proposed action and reasonable alternatives,â and the supporting record for that determination evaluates âwhether new circumstances, new information[,] or 
+                    <PRTPAGE P="57347"/>
+                    changes in the action or its impacts not previously analyzed may result in significantly different environmental effects.â (43 CFR 46.120)
+                </P>
+                <P>BSEE prepared Environmental Assessments (EAs) for both the 2016 WCR and the 2019 WCR. Those EAs analyzed the environmental effects of regulatory revisions the same as or similar to those contained in this final rule, because the majority of this rule reverts to the regulatory standards established in the 2016 WCR (and revised through the 2019 WCR). Both EAs resulted in a Finding of No Significant Impact. BSEE evaluated this rulemaking through a Determination of NEPA Adequacy (DNA) and found that the previous EAs adequately assessed the environmental effects of the potentially impact-producing portions of this rulemaking and that no new circumstances, new information, or changes in the action or its impacts exist that could result in significantly different environmental effects than those analyzed in the previous EAs. The balance of the changes in the final rule are purely administrative in nature with no potential for environmental impacts. Consequently, no additional NEPA analysis is required.</P>
+                <HD SOURCE="HD1">Data Quality Act</HD>
+                <P>In developing this rule, we did not conduct or use a study, experiment, or survey requiring peer review under the Data Quality Act (Pub. L. 106-554, app. C, sec. 515, 114 Stat. 2763, 2763A-153-154).</P>
+                <HD SOURCE="HD1">Effects on the Nation's Energy Supply (E.O. 13211)</HD>
+                <P>This rule is not a significant energy action under the definition in E.O. 13211. The rule is not a significant regulatory action under E.O. 12866, as amended by Executive Order 14094, and it is not likely to have a significant adverse effect on the supply, distribution, or use of energy. A Statement of Energy Effects is not required.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 30 CFR Part 250</HD>
+                    <P>Administrative practice and procedure, Continental shelf, Environmental impact statements, Environmental protection, Government contracts, Incorporation by reference, Investigations, Oil and gas exploration, Outer Continental Shelfâmineral resources, Outer Continental Shelfârights-of-way, Penalties, Pipelines, Reporting and recordkeeping requirements, Sulfur.</P>
+                </LSTSUB>
+                <SIG>
+                    <NAME>Laura Daniel-Davis,</NAME>
+                    <TITLE>Principal Deputy Assistant Secretary, Land and Minerals Management.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, the Department of the Interior amends 30 CFR part 250 as follows:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 250âOIL AND GAS AND SULFUR OPERATIONS IN THE OUTER CONTINENTAL SHELF</HD>
+                </PART>
+                <REGTEXT TITLE="30" PART="250">
+                    <AMDPAR>1. The authority citation for part 250 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>30 U.S.C. 1751, 31 U.S.C. 9701, 33 U.S.C. 1321(j)(1)(C), 43 U.S.C. 1334.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="30" PART="250">
+                    <AMDPAR>2. Amend Â§â250.730 by revising paragraphs (a) introductory text and (c) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â250.730</SECTNO>
+                        <SUBJECT>What are the general requirements for BOP systems and system components?</SUBJECT>
+                        <P>(a) You must ensure that the BOP system and system components are designed, installed, maintained, inspected, tested, and used properly to ensure well control. The working-pressure rating of each BOP component (excluding annular(s)) must exceed MASP as defined for the operation. For a subsea BOP, the MASP must be determined at the mudline. The BOP system includes the BOP stack, control system, and any other associated system(s) and equipment. The BOP system and individual components must be able to perform their expected functions and be compatible with each other. Your BOP system must be capable of closing and sealing the wellbore to the well's MASP at all times, except as otherwise specified in the BOP system requirements of this subpart. The BOP system must be capable of closing and sealing without losing ram closure time and sealing integrity due to the corrosiveness, volume, and abrasiveness of any fluids in the wellbore that the BOP system may encounter. Your BOP system must meet the following requirements:</P>
+                        <STARS/>
+                        <P>(c) You must follow the failure reporting procedures contained in API Standard 53 (incorporated by reference in Â§â250.198) and:</P>
+                        <P>(1) You must provide a written notice of equipment failure to the Office of Offshore Regulatory Programs (OORP) Chief, any third party designated by BSEE pursuant to paragraph (c)(4) of this section, and the manufacturer of such equipment within 30 days after the discovery and identification of the failure. A failure is any condition that prevents the equipment from meeting the functional specification.</P>
+                        <P>(2) You must start an investigation and a failure analysis within 90 days of the failure to determine the cause of the failure and complete the investigation and the failure analysis within 120 days after initiation. You also must document the results and any corrective action. You must submit the analysis report to the OORP Chief, any third party designated by BSEE pursuant to paragraph (c)(4) of this section, and the manufacturer. If you cannot complete the investigation and analysis within the specified time, you must submit an extension request detailing when and how you will complete the investigation and analysis to BSEE for approval. You must submit the extension request to the OORP Chief.</P>
+                        <P>(3) If the equipment manufacturer notifies you that it has changed the design of the equipment that failed or if you have changed operating or repair procedures as a result of a failure, then you must, within 30 days of such changes, report the design change or modified procedures in writing to the OORP Chief, and any third party designated by BSEE pursuant to paragraph (c)(4) of this section.</P>
+                        <P>(4) Submit notices and reports to the Chief, Office of Offshore Regulatory Programs; Bureau of Safety and Environmental Enforcement; 45600 Woodland Road, Sterling, Virginia 20166. BSEE may designate a third party to also receive the data and reports. If BSEE designates a third party, you must submit the data and reports to the designated third party as well.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="30" PART="250">
+                    <AMDPAR>3. Amend Â§â250.732 by revising paragraph (b) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â250.732</SECTNO>
+                        <SUBJECT>What are the independent third party requirements for BOP systems and system components?</SUBJECT>
+                        <STARS/>
+                        <P>
+                            (b) The independent third party must be a technical classification society, a licensed professional engineering firm, or a registered professional engineer capable of providing the required certifications and verifications. You must submit the independent third party qualifications to BSEE with the associated permit application (
+                            <E T="03">e.g.,</E>
+                             APD and APM). BSEE will evaluate the submitted qualifications to ensure they meet the regulatory requirements for permit approval.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="30" PART="250">
+                    <AMDPAR>4. Amend Â§â250.733 by revising paragraph (b)(1) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <PRTPAGE P="57348"/>
+                        <SECTNO>Â§â250.733</SECTNO>
+                        <SUBJECT>What are the requirements for a surface BOP stack?</SUBJECT>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>(1) On new floating production facilities installed after April 29, 2021, that include a surface BOP, or when you replace an entire surface BOP stack on an existing floating production facility, follow the BOP requirements in Â§â250.734(a)(1).</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="30" PART="250">
+                    <AMDPAR>5. Amend Â§â250.734 by revising paragraph (a)(4) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â250.734</SECTNO>
+                        <SUBJECT>What are the requirements for a subsea BOP system?</SUBJECT>
+                        <P>(a) * * *</P>
+                        <GPOTABLE COLS="2" OPTS="L1,tp0,i1" CDEF="s50,r150">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1" O="L">When operating with a subsea BOP system, you must:</CHED>
+                                <CHED H="1">Additional requirements</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">(4) Have a subsea BOP stack equipped with remotely operated vehicle (ROV) intervention capability</ENT>
+                                <ENT>You must have the ROV intervention capability to open and close each shear ram, ram locks, one pipe ram, and disconnect the lower marine riser package (LMRP) under MASP conditions as defined for the operation. You must be capable of performing these functions in the response times outlined in API Standard 53 (as incorporated by reference in Â§â250.198). The ROV panels on the BOP and LMRP must be compliant with API RP 17H (as incorporated by reference in Â§â250.198).</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="30" PART="250">
+                    <AMDPAR>6. Amend Â§â250.737 by revising paragraphs (d)(2)(ii) and (d)(3)(iii) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â250.737</SECTNO>
+                        <SUBJECT>What are the BOP system testing requirements?</SUBJECT>
+                        <STARS/>
+                        <P>(d) * * *</P>
+                        <GPOTABLE COLS="2" OPTS="L1,tp0,i1" CDEF="s50,r150">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1" O="L">You must . . .</CHED>
+                                <CHED H="1" O="L">Additional requirements . . .</CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">(2) * * *</ENT>
+                                <ENT>(ii) Contact the District Manager at least 72 hours prior to beginning the initial test to allow BSEE representative(s) to witness the testing. If BSEE representative(s) are unable to witness the testing, you must provide the initial test results to the appropriate District Manager within 72 hours after completion of the tests.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">(3) * * *</ENT>
+                                <ENT>(iii) Contact the District Manager at least 72 hours prior to beginning the stump test to allow BSEE representative(s) to witness the testing. If BSEE representative(s) are unable to witness the testing, you must provide the test results to the appropriate District Manager within 72 hours after completion of the tests.</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="22">â</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="28">*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*âââââââââ*</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2023-17847 Filed 8-22-23; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 4310-VH-P</BILCOD>
+        </RULE>

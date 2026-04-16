@@ -1,0 +1,5 @@
+[TABLE]
+| Severe (Curtailment) | State Government Will: | Communities/Utilities Need to: | Individuals Need to: |
+| --- | --- | --- | --- |
+|  | Declare a Drought Emergency; (Governor) in affected area(s); Communicate conditions,; promote general conservation; tips, provide information on; drought mitigation and; response options; Require State Facilities to; reduce water use by 15%; Increased media outreach; (and enhanced assistance to; com | Continue aforementioned; restrictions from moderate; Communicate drought level &; conditions; Increased emphasis on; existing Conservation; Programs; Institute rationing through fixed; allotments for large turf; facilities; Implement time of day/day of; week schedules; Require reductions in non-; es | Reduce outdoor watering; . Reset irrigation timers; consistent with community; time of day/day of week; schedule; Convert to Xeriscaping or; native plants; Utilize water harvesting; practices; Use commercial car washes; Use covers to reduce; evaporation from pools; Take extra steps to reduce; indoor |
+[/TABLE]

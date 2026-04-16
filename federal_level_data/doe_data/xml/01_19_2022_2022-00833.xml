@@ -1,0 +1,909 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 430</CFR>
+                <DEPDOC>[EERE-2021-BT-STD-0002]</DEPDOC>
+                <RIN>RIN 1904-AF14</RIN>
+                <SUBJECT>Energy Conservation Program: Product Classes for Residential Dishwashers, Residential Clothes Washers, and Consumer Clothes Dryers</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>On October 30, 2020, and December 16, 2020, the U.S. Department of Energy (âDOEâ) published two final rules that established product classes for residential dishwashers with a cycle time for the normal cycle of 60 minutes or less, top-loading residential clothes washers and certain classes of consumer clothes dryers with a cycle time of less than 30 minutes, and front-loading residential clothes washers with a cycle time of less than 45 minutes (âshort-cycle product classesâ). The rules resulted in amended energy conservation standards for these short-cycle product classes, without determining whether relevant statutory criteria for amending standards were met. On August 11, 2021, DOE published a notice of proposed rulemaking (âNOPRâ) to withdraw these short-cycle product classes This final rule finalizes the revocation of the two earlier rules that improperly promulgated standards for these new product classes and reinstates the prior product classes and applicable standards for these covered products.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The effective date of this rule is February 18, 2022.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket for this rulemaking, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, public meeting attendee lists and transcripts, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">www.regulations.gov.</E>
+                         All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                    <P>
+                        The docket web page can be found at 
+                        <E T="03">
+                            www.regulations.gov/docket/EERE-
+                            <PRTPAGE P="2674"/>
+                            2021-BT-STD-0002.
+                        </E>
+                         The docket web page contains instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                    <P>
+                        For further information on how to review the docket, contact the Appliance and Equipment Standards Program staff at (202) 287-1445 or by email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Mr. John Cymbalsky, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC, 20585-0121. Email: 
+                        <E T="03">ApplianceStandardsQuestions@ee.doe.gov.</E>
+                    </P>
+                    <P>
+                        Ms. Kathryn McIntosh, U.S. Department of Energy, Office of the General Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC, 20585-0121. Telephone: (202) 586-2002. Email: 
+                        <E T="03">Kathryn.McIntosh@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Summary of the Final Rule</FP>
+                    <FP SOURCE="FP-2">II. Authority and Background</FP>
+                    <FP SOURCE="FP1-2">A. Authority</FP>
+                    <FP SOURCE="FP1-2">B. Background</FP>
+                    <FP SOURCE="FP1-2">1. Residential Dishwashers</FP>
+                    <FP SOURCE="FP1-2">2. Residential Clothes Washers and Consumer Clothes Dryers</FP>
+                    <FP SOURCE="FP-2">III. Discussion</FP>
+                    <FP SOURCE="FP1-2">A. Comments on DOE's Statutory Authority</FP>
+                    <FP SOURCE="FP1-2">1. Interpretation of 42 U.S.C. 6295(o)(2)(A)</FP>
+                    <FP SOURCE="FP1-2">2. Interpretation of 42 U.S.C. 6295(o)(1)</FP>
+                    <FP SOURCE="FP1-2">3. Interpretation of 42 U.S.C. 6295(q)(1)</FP>
+                    <FP SOURCE="FP1-2">4. Other Statutory Concerns</FP>
+                    <FP SOURCE="FP1-2">B. Impact on Water and Energy Use</FP>
+                    <FP SOURCE="FP1-2">C. Impact to Manufacturers</FP>
+                    <FP SOURCE="FP1-2">D. Other Concerns</FP>
+                    <FP SOURCE="FP-2">IV. Conclusion</FP>
+                    <FP SOURCE="FP-2">V. Procedural Issues and Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Orders 12866</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">E. Review Under Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 12630</FP>
+                    <FP SOURCE="FP1-2">J. Review Under the Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VI. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Summary of the Final Rule</HD>
+                <P>On October 30, 2020, and December 16, 2020, DOE published two final rules that established new short-cycle product classes for residential dishwashers, residential clothes washers, and consumer clothes dryers. 85 FR 68723 (âOctober 2020 Final Ruleâ); 85 FR 81359 (âDecember 2020 Final Ruleâ); collectively, the â2020 Final Rules.â While these short-cycle products had previously been subject to energy and water conservation standards, the 2020 Final Rules created new short-cycle product classes that are not subject to any water or energy conservation standards. 85 FR 68723, 68742; 85 FR 81359, 81376. As a result, products falling into these short-cycle classes are currently allowed to consume unlimited amounts of energy and water.</P>
+                <P>
+                    In amending its standards to allow for short-cycle products that can use unlimited water and energy, DOE had not considered whether the amended standards met the criteria in the Energy Policy and Conservation Act, as amended (âEPCAâ),
+                    <SU>1</SU>
+                    <FTREF/>
+                     for issuing an amended standard. Notably, among other things, DOE did not determine, as required, that the amended standards for short-cycle products were designed to achieve the maximum improvement in energy efficiency that is technologically feasible and economically justified. 42 U.S.C. 6295(o)(2)(A).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âAll references to EPCA in this document refer to the statute as amended by the Energy Act of 2020, Public Law 116-260 (Dec. 27, 2020).
+                    </P>
+                </FTNT>
+                <P>
+                    On August 11, 2021, DOE published a NOPR (âAugust 2021 NOPRâ) proposing to revoke the 2020 Final Rules. 86 FR 43970. DOE stated that these two rules improperly resulted in new product classes that amended the existing energy conservation standards for these products without determining whether the relevant statutory criteria for amending such standards were met. As a result, DOE proposed to reinstate the prior product classes and applicable standards for these covered products that existed prior to the 2020 Final Rules. 
+                    <E T="03">Id.</E>
+                     at 86 FR 43971.
+                </P>
+                <P>In this final rule, based on the failure of the 2020 Final Rules to consider whether amended standards for the short-cycle products met the EPCA criteria, DOE revokes the 2020 Final Rules and reinstates the prior product classes and applicable standards for these covered products.</P>
+                <HD SOURCE="HD1">II. Authority and Background</HD>
+                <HD SOURCE="HD2">A. Authority</HD>
+                <P>
+                    EPCA authorizes DOE to regulate the energy efficiency of a number of consumer products and certain industrial equipment. (42 U.S.C. 6291-6317) Title III, Part Bâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     of EPCA established the Energy Conservation Program for Consumer Products Other Than Automobiles, which sets forth a variety of provisions designed to improve energy efficiency. These covered products include residential dishwashers, residential clothes washers, and consumer clothes dryers, the subjects of this document. 42 U.S.C. 6292(a)(6), (7), and (8), respectively.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âFor editorial reasons, upon codification in the U.S. Code, Part B was re-designated Part A.
+                    </P>
+                </FTNT>
+                <P>The energy conservation program under EPCA consists essentially of four parts: (1) Testing, (2) labeling, (3) the establishment of Federal energy conservation standards, and (4) certification and enforcement procedures. Relevant provisions of EPCA specifically include definitions (42 U.S.C. 6291), test procedures (42 U.S.C. 6293), labeling provisions (42 U.S.C. 6294), energy conservation standards (42 U.S.C. 6295), and the authority to require information and reports from manufacturers (42 U.S.C. 6296).</P>
+                <P>
+                    DOE must follow specific statutory criteria for prescribing new or amended standards for covered products, including residential dishwashers, residential clothes washers, and consumer clothes dryers. For instance, any new or amended standard for a covered product must be designed to achieve the maximum improvement in energy efficiency that is technologically feasible and economically justified. 42 U.S.C. 6295(o)(2)(A). In deciding whether a standard is economically justified, DOE must determine whether the benefits of the standard exceed its burdens by considering the comments received on the proposed rule and, to the greatest extent possible, considering the following seven statutory factors: (1) The economic impact of the standard on manufacturers and consumers of the products subject to the standard; (2) the savings in operating costs throughout the estimated average life of the covered products in the type (or class) compared to any increase in the price, initial charges, or maintenance expenses for the covered products that are likely to result from the standard; (3) the total projected amount of energy (or as applicable, water) savings likely to result directly from imposition of the standard; (4) any lessening of the utility or the performance of the covered products likely to result from imposition of the standard; (5) the impact of any lessening of competition, as determined in writing by the Attorney General, that is likely to result from the imposition of the standard; (6) 
+                    <PRTPAGE P="2675"/>
+                    the need for national energy and water conservation; and (7) other factors the Secretary of Energy (âSecretaryâ) considers relevant. 42 U.S.C. 6295(o)(2)(B)(i)(I)-(VII). Furthermore, the new or amended standard must result in a significant conservation of energy. 42 U.S.C. 6295(o)(3)(B).
+                </P>
+                <P>EPCA also includes what is known as an âanti-backslidingâ provision, which prevents the Secretary from prescribing any amended standard that either increases the maximum allowable energy use or decreases the minimum required energy efficiency of a covered product. 42 U.S.C. 6295(o)(1).</P>
+                <P>
+                    Additionally, when prescribing an energy conservation standard, EPCA requires DOE to specify a different standard level than that which applies generally to a type or class of products for any group of covered products that have the same function or intended use, if DOE determines that products within such group: (A) Consume a different kind of energy from that consumed by other covered products within such type (or class); or (B) have a capacity or other performance-related feature which other products within such type (or class) do not have and such feature justifies a higher or lower standard. 42 U.S.C. 6295(q)(1). In determining whether a performance-related feature justifies such a different standard for a group of products, DOE must consider such factors as the utility to the consumer of the feature and other factors DOE deems appropriate. 
+                    <E T="03">Id.</E>
+                     Any rule prescribing such a âhigher or lower standardâ must include an explanation of the basis on which such higher or lower level was established. 42 U.S.C. 6295(q)(2).
+                </P>
+                <HD SOURCE="HD2">B. Background</HD>
+                <P>As previously described, DOE's 2020 Final Rules amended the applicable energy and water conservation standards for residential dishwashers, residential clothes washers, and consumer clothes dryers in establishing new short-cycle product classes for those products. Creation of those short-cycle classes effectively removed the energy and water conservation standards that had previously applied to those products.</P>
+                <P>Through its August 2021 NOPR, DOE proposed to revoke the 2020 Final Rules and reinstate the prior product classes and applicable standards for these covered products. 86 FR 43970. DOE received comments in response to the August 2021 NOPR from the interested parties listed in Table II.1.</P>
+                <GPOTABLE COLS="3" OPTS="L2,nj,i1" CDEF="s100,r50,xs100">
+                    <TTITLE>Table II.1âWritten Comments Received in Response to the August 2021 NOPR and Referenced in the Final Rule</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Commenter(s)</CHED>
+                        <CHED H="1">Abbreviation used in this final rule</CHED>
+                        <CHED H="1">Commenter type</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">60 Plus Association</ENT>
+                        <ENT/>
+                        <ENT>Advocates.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Alliance for Water Efficiency</ENT>
+                        <ENT>AWE</ENT>
+                        <ENT>Efficiency Organization.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Americans for Tax Reform</ENT>
+                        <ENT/>
+                        <ENT>Advocates.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Appliance Standards Awareness Project (âASAPâ), Alliance for Water Efficiency (âAWEâ), American Council for an Energy-Efficient Economy (âACEEEâ), Consumer Federation of America (âCFAâ), National Consumer Law Center, on behalf of its low-income clients (âNCLCâ), and Northwest Energy Efficiency Alliance (âNEEAâ)</ENT>
+                        <ENT>Joint Commenters</ENT>
+                        <ENT>Efficiency Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Association of Home Appliance Manufacturers</ENT>
+                        <ENT>AHAM</ENT>
+                        <ENT>Trade Association.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Attorneys General of California, Colorado, Connecticut, Illinois, Massachusetts, Maryland, Maine, Michigan, Minnesota, New Mexico, Nevada, New Jersey, New York, Oregon, Vermont, Washington, and the District of Columbia, and the City of New York</ENT>
+                        <ENT>Joint State AGs, DC, and NYC</ENT>
+                        <ENT>State Officials.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Attorney General of Missouri, Eric Schmitt</ENT>
+                        <ENT>Missouri AG</ENT>
+                        <ENT>State Officials.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">California Energy Commission</ENT>
+                        <ENT>CEC</ENT>
+                        <ENT>State Agency.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Competitive Enterprise Institute</ENT>
+                        <ENT>CEI</ENT>
+                        <ENT>Advocates.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">FreedomWorks Foundation</ENT>
+                        <ENT/>
+                        <ENT>Advocates.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">GE Appliances, a Haier Company</ENT>
+                        <ENT>GEA</ENT>
+                        <ENT>Manufacturer.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Institute for Policy Integrity</ENT>
+                        <ENT>IPI</ENT>
+                        <ENT>Advocates.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Office of the Arizona Attorney General, Mark Brnovich</ENT>
+                        <ENT>Arizona AG</ENT>
+                        <ENT>State Officials.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Pacific Gas and Electric Company (âPG&amp;Eâ), San Diego Gas and Electric (âSDG&amp;Eâ), and Southern California Edison (âSCEâ), collectively, the California Investor-Owned Utilities</ENT>
+                        <ENT>the CA IOUs</ENT>
+                        <ENT>Utilities.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Natural Resources Defense Council, Sierra Club, and Earthjustice</ENT>
+                        <ENT>NRDC, SC, and EJ</ENT>
+                        <ENT>Efficiency Organizations.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Northwest Power and Conservation Council</ENT>
+                        <ENT>NWPCC</ENT>
+                        <ENT>Interstate Compact Agency.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <FP>
+                    A parenthetical reference at the end of a comment quotation or paraphrase provides the location of the item in the public record.
+                    <SU>3</SU>
+                    <FTREF/>
+                     In addition to the comments listed in Table II.1, DOE also received 246 comments from individuals, which were considered in the development of this final rule and discussed generally in the following sections, but not cited individually.
+                </FP>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âThe parenthetical reference provides a reference for information located in Docket No. EERE-2021-BT-STD-0002, which is maintained at 
+                        <E T="03">www.regulations.gov.</E>
+                         The references are arranged as follows: (Commenter name, comment docket ID number, page of that document).
+                    </P>
+                </FTNT>
+                <P>As discussed in greater detail in the August 2021 NOPR and the following sections, the 2020 rulemakings failed to consider the criteria prescribed under EPCA to amend a standardâspecifically, whether the amended standards were designed to achieve the maximum improvement in energy efficiency that is technologically feasible and economically justified. 42 U.S.C. 6295(o)(2)(A).</P>
+                <HD SOURCE="HD3">1. Residential Dishwashers</HD>
+                <P>
+                    Prior to the October 2020 Final Rule, residential dishwashers were divided into two product classes by size: Standard and compact. Standard size dishwashers had a capacity equal to or greater than eight place settings plus six serving pieces, while compact size dishwashers had a capacity of less than eight place settings plus six serving pieces. 10 CFR 430.32(f)(1) (Oct. 29, 2020 edition). Standard size dishwashers, regardless of normal cycle time,
+                    <SU>4</SU>
+                    <FTREF/>
+                     were required to use less than 
+                    <PRTPAGE P="2676"/>
+                    307 kilowatt-hours per year (âkwh/yearâ) and 5.0 gallons per cycle, while compact dishwashers, regardless of normal cycle time, were required to use less than 222 kwh/year and 3.5 gallons per cycle.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        ââNormal cycleâ is the cycle type, including washing and drying temperature options, recommended in the manufacturer's instructions for daily, regular, or typical use to completely wash a full load of normally soiled dishes, including the 
+                        <PRTPAGE/>
+                        power-dry setting. 10 CFR part 430 subpart B appendix C1 (âAppendix C1â), section 1.12.
+                    </P>
+                </FTNT>
+                <P>
+                    The October 2020 Final Rule replaced an existing product class for standard size residential dishwashers with two new product classes based on cycle time and amended the standards for such dishwashers. 85 FR 68723. DOE initiated the rulemaking in response to a petition for rulemaking submitted by CEI in March 2018, in which CEI asserted that there was considerable consumer dissatisfaction with the dramatically longer cycle time for residential dishwashers under the then-current energy conservation standards. 83 FR 17768 (Apr. 24, 2018). CEI requested that DOE establish a new product class for residential dishwashers with a cycle time of less than one hour. 
+                    <E T="03">Id.</E>
+                     at 83 FR 17771.
+                </P>
+                <P>
+                    In the October 2020 Final Rule, DOE stated that a product class of standard size residential dishwashers with a normal cycle of 60 minutes or less would allow manufacturers to provide consumers with the option to purchase a dishwasher that maximizes the consumer utility of a short-cycle time to wash and dry dishes. 85 FR 68723, 68724. DOE also stated that a product class for which the normal cycle time is 60 minutes or less could spur manufacturer innovation to generate additional product offerings to fill the market gap that exists for these products. 
+                    <E T="03">Id.</E>
+                     at 85 FR 68726. DOE determined that, under 42 U.S.C. 6295(q), residential dishwashers with a normal cycle time of 60 minutes or less have a performance-related feature that other dishwashers lack and that this feature justifies a separate product class subject to a higher or lower standard than the standards currently applicable to the existing product classes of residential dishwashers. 
+                    <E T="03">Id.</E>
+                     As a result, DOE replaced the existing product class for standard size dishwashers with two new product classes for standard size dishwashers based on normal cycle time. DOE kept the existing energy conservation standards for standard size dishwashers with a normal cycle time greater than 60 minutes at the level previously prescribed for the product class that covered all standard size dishwashers. 
+                    <E T="03">Id.</E>
+                     at 85 FR 68741. DOE also stated that standard size dishwashers with a normal cycle time of 60 minutes or less were not subject to any energy or water conservation standards, thus allowing for unlimited water and energy usage. 
+                    <E T="03">Id.</E>
+                     at 85 FR 68742. DOE based its decision on CEI's petition and the comments the Department received in response to the petition and the proposed rule, as well as additional testing and evaluation conducted by the Department. 
+                    <E T="03">Id.</E>
+                     at 85 FR 68723. DOE stated it would consider further amending energy and water conservation standards for standard size dishwashers with a normal cycle time of 60 minutes or less in a future rulemaking. 
+                    <E T="03">Id.</E>
+                     at 85 FR 68724.
+                </P>
+                <P>
+                    On December 29, 2020, NRDC, Sierra Club, Consumer Federation of America, and Massachusetts Union of Public Housing Tenants petitioned the U.S. Court of Appeals for the Second Circuit to review and set aside the October 2020 Final Rule. 
+                    <E T="03">Natural Resources Defense Council</E>
+                     v. 
+                    <E T="03">U.S. Dep't of Energy,</E>
+                     No. 20-4256 (2d Cir.). On the same day, the States of California, Connecticut, Illinois, Maine, Michigan, Minnesota, New Jersey, New Mexico, New York, Nevada, Oregon, Vermont, and Washington, the Commonwealth of Massachusetts, the District of Columbia, and the City of New York filed a separate petition for review of the October 2020 Final Rule in the U.S. Court of Appeals for the Second Circuit. 
+                    <E T="03">California</E>
+                     v. 
+                    <E T="03">U.S. Dep't of Energy,</E>
+                     No. 20-4285 (2d Cir.). These two cases have been consolidated in the Second Circuit and have been placed in abeyance pending DOE's review of the October 2020 Final Rule.
+                </P>
+                <P>
+                    Further, on March 1, 2021, AHAM petitioned DOE to reconsider the October 2020 Final Rule that established and amended standards for short-cycle residential dishwashers. âAHAM Petition for Reconsideration-1â; Docket EERE-2021-BT-STD-0002, No. 001 at p. 2.
+                    <SU>5</SU>
+                    <FTREF/>
+                     On April 28, 2021, the NRDC, Sierra Club, the Consumer Federation of America, and the Massachusetts Union of Public Housing Tenants (âNRDC 
+                    <E T="03">et al.â</E>
+                    ) also submitted a petition for DOE to repeal the same October 2020 Final Rule (âNRDC Petition for Reconsiderationâ).
+                    <SU>6</SU>
+                    <FTREF/>
+                     This petition challenged the legality of the final rule, stating that the creation of the new product class violated the core requirements of EPCA. NRDC Petition for Reconsideration, Docket EERE-2021-BT-STD-0002, No. 003 at p. 2. The petition contended that addressing those defects is critical to preventing such an error from being repeated in the future.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âAHAM submitted its petition pursuant to the Administrative Procedure Act (âAPAâ), 5 U.S.C. 551 
+                        <E T="03">et seq.,</E>
+                         which provides, among other things, that â[e]ach agency shall give an interested person the right to petition for the issuance, amendment, or repeal of a rule.â 5 U.S.C. 553(e). The AHAM petition is available in the docket to this rulemaking, EERE-2021-BT-STD-0002, at 
+                        <E T="03">www.regulations.gov.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âNRDC also submitted its petition pursuant to the APA, 5 U.S.C. 553(e), to repeal the final rule. The NRDC petition is available in the docket to the is rulemaking, EERE-2021-BT-STD-0002, at 
+                        <E T="03">www.regulations.gov.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2. Residential Clothes Washers and Consumer Clothes Dryers</HD>
+                <P>
+                    Prior to the December 2020 Final Rule, product classes for residential clothes washers were based on clothes container capacity and axis of loadingâ
+                    <E T="03">i.e.,</E>
+                     front-loading or top-loading. 10 CFR 430.32(g)(4) (Dec. 15, 2020 edition). And, prior to the December 2020 Final Rule, product classes for consumer clothes dryers were based on fuel source (120 volt (âVâ) electric, 240V electric, or gas), venting configuration (vented or ventless), capacity, and integration with a clothes washer (combination washer-dryer). 10 CFR 430.32(h)(3) (Dec. 15, 2020 edition). Each product class was subject to a specific energy or energy and water conservation standard that applied regardless of the cycle time.
+                </P>
+                <P>
+                    In August 2020, DOE proposed to replace the existing product classes with new product classes based on cycle time for top-loading standard residential clothes washers (30 minutes or greater; less than 30 minutes), front-loading standard residential clothes washers (45 minutes or greater; less than 45 minutes), and vented electric standard and vented gas consumer clothes dryers (30 minutes or greater; less than 30 minutes). 85 FR 49297, 49311-49312 (Aug. 13, 2020) (âAugust 2020 NOPRâ). Unlike the residential dishwasher product class rulemaking, this rulemaking was not initiated in response to a petition, but instead relied on particular similarities between consumer use of residential dishwashers and residential clothes washers and consumer clothes dryers as the basis for proposing the rulemaking. 
+                    <E T="03">Id.</E>
+                     at 85 FR 49298. Shortly thereafter, on December 16, 2020, DOE published the December 2020 Final Rule that replaced the product classes with new product classes based on cycle time and kept the existing energy conservation standards for the new product classes with longer cycle times, while declaring the short-cycle product classes are not currently subject to any energy or water conservation standards, thus allowing for unlimited water and energy usage. 85 FR 81359, 81375-81376.
+                </P>
+                <P>
+                    On January 19, 2021, the States of California, Connecticut, Illinois, Maine, Michigan, Minnesota, New Jersey, New Mexico, New York, Nevada, Oregon, Vermont, and Washington, the 
+                    <PRTPAGE P="2677"/>
+                    Commonwealth of Massachusetts, the District of Columbia, and the City of New York filed a petition for review of the December 2020 Final Rule in the Second Circuit. 
+                    <E T="03">California</E>
+                     v. 
+                    <E T="03">U.S. Dep't of Energy,</E>
+                     No. 21-108 (2d Cir.). Shortly thereafter, two other groups of petitioners filed petitions for review of the December 2020 Final Rule. The AWE, the U.S. Public Interest Research Group, and Environment America (âAWE, 
+                    <E T="03">et al.â</E>
+                    ) filed a petition for review of that final rule in the Seventh Circuit on January 17, 2021, and the Sierra Club filed a petition for review of that final rule in the Ninth Circuit on February 12, 2021. 
+                    <E T="03">Alliance for Water Efficiency</E>
+                     v. 
+                    <E T="03">U.S. Dep't of Energy,</E>
+                     No. 21-428 (2d Cir.); 
+                    <E T="03">Sierra Club</E>
+                     v. 
+                    <E T="03">U.S. Dep't of Energy,</E>
+                     No. 21-564 (2d Cir.). After transfer of the Seventh and Ninth Circuit petitions for review, all three cases were consolidated in the Second Circuit. In its court filings, AWE, 
+                    <E T="03">et al.</E>
+                     raised the following issues with the December 2020 Final Rule: (1) That DOE lacks authority to exempt a product group from water conservation standards; (2) that DOE failed to comply with the requirements for a section 325(q) (42 U.S.C. 6295(q)) rule; (3) that DOE violated EPCA's anti-backsliding provision; and (4) that DOE violated the National Environmental Policy Act. Briefing on the merits is currently stayed through February 1, 2022, while DOE reviews the December 2020 Final Rule.
+                </P>
+                <P>
+                    On April 2, 2021, AHAM further petitioned DOE to reconsider the December 2020 Final Rule that established and amended standards for short-cycle residential clothes washers and consumer clothes dryers. âAHAM Petition for Reconsideration-2â; Docket EERE-2021-BT-STD-0002, No. 002 at p. 2.
+                    <SU>7</SU>
+                    <FTREF/>
+                     AHAM argued that the short-cycle product classes were neither justified nor needed for three reasons. First, AHAM stated that many residential clothes washers and consumer clothes dryers already offer cycles that are within the December 2020 Final Rule's cycle time goal and that meet the existing standards. 
+                    <E T="03">Id.</E>
+                     at pp. 7-8, 12. Second, AHAM argued that the cycle times in the December 2020 Final Rule were arbitrary because DOE lacked the data necessary to demonstrate a consumer desire for the times adopted. 
+                    <E T="03">Id.</E>
+                     at p. 13. Third, AHAM specified that establishing the separate product classes would likely cause negative, unintended consequences such as stranded manufacturer investments; create new regulation; introduce manufacturer uncertainty until standards for the new product classes are developed; increase test burden; and potentially cause disharmony in North America for residential clothes washer and consumer clothes dryer standards. 
+                    <E T="03">Id.</E>
+                     at pp. 8-9, 16-18. For these reasons, AHAM requested that DOE withdraw the December 2020 Final Rule. 
+                    <E T="03">Id.</E>
+                     at p. 19.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âAs with its first petition, AHAM submitted its second petition pursuant to the APA. The AHAM Petition for Reconsideration-2 is available in the docket to this rulemaking, EERE-2021-BT-STD-0002, at 
+                        <E T="03">www.regulations.gov.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Like its petition regarding the short-cycle product class for residential dishwashers, AHAM requested that DOE stay the effectiveness of the final rule while considering the petition since the rule allows for unlimited energy and water use by these products. AHAM also asked that DOE issue a statement to the market indicating that these new product classes cannot reliably be used as the basis for new products. 
+                    <E T="03">Id.</E>
+                     at p. 2.
+                </P>
+                <HD SOURCE="HD1">III. Discussion</HD>
+                <P>
+                    In issuing the 2020 Final Rules, DOE relied on its authority under EPCA to establish product classes with higher or lower levels of energy use or efficiency when prescribing, by rule, an energy conservation standard. 42 U.S.C. 6295(q). In so doing, the 2020 Final Rules also amended the energy conservation standards for the short-cycle product classes by stating they were no longer subject to energy and water conservation standards. 85 FR 68733; 85 FR 81366. But these rules did not address any of EPCA's requirements for amending an energy conservation standard, such as analyzing whether the amended standards are designed to achieve the maximum improvement in energy efficiency that is technologically feasible and economically justified. 42 U.S.C. 6295(o)(2)(A); 
+                    <E T="03">see</E>
+                     85 FR 81361. The rules also did not, among other things, adequately consider whether the amended standards violated EPCA's prohibition against prescribing an amended standard that increases the maximum allowable energy use or decreases the energy efficiency of a covered product. 42 U.S.C. 6295(o)(1).
+                </P>
+                <P>AHAM; GEA; AWE; NWPCC; IPI; NRDC, SC, and EJ; CEC; the CA IOUs; Joint State AGs, DC, and NYC; and Joint Commenters all supported DOE's proposal to revoke the 2020 Final Rules. (AHAM, No. 253 at p.1; GEA, No. 255 at p. 2; AWE, No. 254 at p. 1; NWPCC, No. 9 at p. 1; IPI, No. 244 at p. 1; NRDC, SC, and EJ, No. 243 at p. 1; CEC, No. 245 at pp. 1-2; CA IOUs, No. 247 at p. 1; Joint State AGs, DC, and NYC, No. 249 at p. 1; Joint Commenters, No. 252 at p. 1; ASAP, Public Meeting Transcript, No. 12 at p. 11; AHAM, Public Meeting Transcript, No. 12 at p. 13) AHAM and the CA IOUs specifically requested that DOE finalize its proposed rule as soon as possible. (AHAM, No. 253 at pp. 1-2; CA IOUs, No. 247 at p. 2) AHAM also asserted that doing so would prevent use of the new product classes as the basis for new product offerings and would reduce possibilities for confusion in the market. (AHAM, No. 253 at pp. 1-2;)</P>
+                <P>CEI, Americans for Tax Reform, FreedomWorks Foundation, the 60 Plus Association, the Arizona AG, and Missouri AG urged DOE to reconsider its proposal to revoke the short-cycle product classes. (CEI, No. 239 at p. 1; Americans for Tax Reform, No. 223 at p. 2; FreedomWorks Foundation, No. 238 at p. 1; 60 Plus Association, No. 251 at p. 1; Arizona AG, No. 248 at p. 1; Missouri AG, No. 246 at p. 1)</P>
+                <P>
+                    Of the 246 comments received from individuals, approximately 46 percent opposed any type of regulation for residential dishwashers, residential clothes washers, or consumer clothes dryers (
+                    <E T="03">e.g.,</E>
+                     âPlease stop making regulations about appliances. The regulations are driving us crazy!â (Cooksey, No. 37, at p. 1); âLeave our appliances as is. No new Regulations now or ever!â (Bise, No. 52, at p. 1); âWe do not need more regulations. Companies have enough regulatory constraints to deal with already. Why burden them with more by making appliances less efficient.â (Qualls, No. 61, at p. 1)). An additional 39 percent of the individuals expressed concern with cycle times and generally supported short-cycle product classes (
+                    <E T="03">e.g., â</E>
+                    Please make household appliances so that they work quickly and efficiently, and so that they are not disposable. It's better for the environment if I keep the appliances for 20 years and they work with minimal maintenance and wear and tear.â (Anonymous, No. 17 at p. 1); âPlease leave the dishwashers which clean dishes in 1 hour very well alone. I do not want a dishwasher which takes 2-3 hours to clean dishes and uses much more water and energy.â (Sieben, No, 48 at p. 1); âPlease don't change the dishwasher rules again! If one has to run the dishwasher twice to get the dishes clean, we are not saving any water or electricity!â (Spurlock; No. 56 at p. 1). The remaining 15 percent of individual commenters included general complaints, but did not specifically comment about the regulations or product classes for residential dishwashers, residential clothes washers, and consumer clothes dryers (
+                    <E T="03">e.g.,</E>
+                     âKeep dishwasher [
+                    <E T="03">sic</E>
+                    ] safe. Keep 
+                    <PRTPAGE P="2678"/>
+                    energy prices low.â (Sith, No. 49 at p. 1); âMy new dishwasher doesn't clean like old one.â (Hall, No. 106 at p. 1); âEnough is enough.â (Mudaro, No. 242 at p. 1)
+                </P>
+                <P>DOE received numerous comments discussing the concern that this rulemaking would create longer cycle times for residential dishwashers, residential clothes washers, and consumer clothes dryers. DOE is clarifying that this rulemaking does not change the cycle times currently available on the market nor does it change the cycle options available on these products.</P>
+                <P>The following sections discuss and address the issues raised by commenters in response to the initial determination and proposed amendments in the August 2021 NOPR.</P>
+                <HD SOURCE="HD2">A. Comments on DOE's Statutory Authority</HD>
+                <HD SOURCE="HD3">1. Interpretation of 42 U.S.C. 6295(o)(2)(A)</HD>
+                <P>DOE must follow specific statutory criteria for prescribing new or amended standards for covered products, including residential dishwashers, residential clothes washers, and consumer clothes dryers. EPCA specifies that any new or amended energy conservation standard for any type of covered product shall be designed to achieve the maximum improvement in energy efficiency that is technologically feasible and economically justified. 42 U.S.C. 6295(o)(2)(A). In the 2020 Final Rules, DOE stated that it would consider establishing energy conservation standards for the new established product classes in subsequent rulemakings. 85 FR 68723, 68724; 85 FR 81359, 81360. As stated in the August 2021 NOPR, the plain meaning of the statutory term âamendâ is to âalter formally by adding, deleting or rephrasing.â (American Heritage Dictionary for the English Language 42 (1981)). The 2020 Final Rules altered the existing energy and water conservation standards for the short cycle products by removing the standards applicable to those products to allow for unlimited energy and water use. This activity clearly fits within this scope of the definition of âamendâ because DOE deleted the applicable standards altogether. 86 FR 43970, 43973.</P>
+                <P>Further, in the August 2021 NOPR, DOE stated that even assuming that EPCA were ambiguous in this regard, DOE's positionâthat the 2020 Final Rules improperly amend the energy and water conservation standards for the short-cycle productsâis the better understanding of the statute. Prior to the 2020 Final Rules, the short-cycle products belonged to product classes subject to specific energy and/or water conservation standards. The 2020 Final Rules separated the products that met the classification for the new short-cycle product classes from their regulated counterparts to established product classes not subject to any standard and that could operate with unlimited energy and water use. Those products now do not have any applicable standard, which effectively amended the prior energy or water conservation standards for those products to zero. But the 2020 Final Rules did so without considering any of EPCA's requirements for such action. 86 FR 43970, 43973.</P>
+                <P>CEC, AWE, IPI, and the Joint Commenters explained that when amending standards, DOE is required to consider whether the standard meets EPCA's criteria for amending a standard, whether the standard is designed to achieve the maximum improvement in energy efficiency that is technologically feasible and economically justified. (CEC, No. 245 at p. 3; AWE, No. 254 at p. 3; Joint Commenters, No. 252 at pp. 1-2; IPI, No. 244 at p. 1) Further, CEC, IPI, and AWE stated that DOE failed to consider those criteria in the 2020 Final Rules. (CEC, No. 245 at p. 3; AWE, No. 254 at p. 3; IPI, No. 244 at p. 1) AWE also stated that the 2020 Final Rules did not even attempt such an analysis, and it is hard to see how an analysis under paragraph (o)(2) could have supported the Rule as the previous standards were, clearly, technologically feasible and economically justified. (AWE, No. 254 at p. 3)</P>
+                <P>AWE, IPI, CEC, Joint State AGs, DC, and NYC and the Joint Commenters asserted that the 2020 Final Rules violated EPCA because DOE did not include an analysis of whether the amended standards are designed to achieve the maximum improvement in energy efficiency that is technologically feasible and economically justified as required under 42 U.S.C. 6295(o)(2)(A). (AWE, No. 254 at p. 3; IPI, No. 244 at p. 1; CEC, No. 243 at p. 3; Joint State AGs, DC, and NYC, No. 249 at pp. 5-6; Joint Commenters, No. 252 at pp. 1-2) AWE further commented that a standard that allows unlimited energy and water use would not be justified under EPCA because the standards that existed prior to the creation of the short-cycle product classes were technologically feasible and economically justified and have been used to certify residential dishwashers, residential clothes washers, and consumer clothes dryers for years. (AWE, No. 254 at p. 3) CEC further commented that in issuing the 2020 Final Rules, DOE also disregarded the provision at 42 U.S.C. 6295(o)(2)(B)(i), which requires DOE to consider economic impacts on consumers and manufacturers, savings in operating cost versus increases in price, total projected energy or water savings, and other relevant factors. (CEC, No. 245 at p. 3)</P>
+                <P>Upon reconsideration, DOE agrees with the commenters that DOE was required to address EPCA's requirements for establishing or amending an energy conservation standard in the 2020 Final Rules, which lacked any analysis of whether the standards were designed to achieve the maximum improvement in energy efficiency that was technologically feasible and economically justified. 42 U.S.C. 6295(o)(2)(A). Further, as discussed at the beginning of this section, applying the plain meaning of the term âamend,â DOE altered the existing energy and water conservation standards for short-cycle products in the 2020 Final Rules. Thus, DOE has determined that by stating that the new product classes were not subject to any energy or water conservation standards without following 42 U.S.C. 6295(q), the 2020 Final Rules amended the existing standards in violation of EPCA.</P>
+                <HD SOURCE="HD3">2. Interpretation of 42 U.S.C. 6295(o)(1)</HD>
+                <P>EPCA also specifies that the Secretary may not prescribe any amended standard which increases the maximum allowable energy use of a covered product. 42 U.S.C. 6295(o)(1). This is generally referred to as the âanti-backslidingâ provision.</P>
+                <P>
+                    AWE; NRDC, SC, and EJ; the CA IOUs; CEC; Joint State AGs, DC, and NYC; and Joint Commenters stated that the 2020 Final Rule violated EPCA's anti-backsliding provision. (AWE, No. 254 at pp. 2-3; NRDC, SC, and EJ, No. 243 at p. 2; CA IOUs, No. 247 at p. 2; CEC, No. 245 at pp. 1-2; Joint State AGs, DC, and NYC, No. 249 at pp. 4-5; CA IOUs, Public Meeting Transcript, No. 12 at p. 12) IPI and the Joint Commenters stated that the 2020 Final rules amended the applicable efficiency standards without considering the prohibition on backsliding. (IPI, No. 244 at p. 1; Joint Commenters, No. 252 at pp. 1-2) CEC stated that the 2020 Final Rules violate EPCA's anti-backsliding prohibition. (CEC, No. 245 at pp. 1-2) CEC further supported what is described as âDOE's strong repudiation of the previous unlawful rationale that the anti-backsliding prohibition did not apply because the standards were merely being âdeferredâ for these products.â (CEC, No. 245 at p. 4) NRDC, 
+                    <PRTPAGE P="2679"/>
+                    SC, and EJ commented that the plain language of the anti-backsliding provision allows no exceptions and serves an important purpose, referring to a House Report, âto maintain a climate of relative stability with respect to future planning by all interested parties.â (NRDC, SC, and EJ, No. 243 at p. 2; 
+                    <E T="03">citing</E>
+                     House Report 100-11, at 22 (Mar. 3, 1987) Moreover, NRDC, SC, and EJ explained that the U.S. Court of Appeals for the Second Circuit stated in 
+                    <E T="03">NRDC</E>
+                     v. 
+                    <E T="03">Abraham,</E>
+                     the anti-backsliding provision must be interpreted in light of âthe appliance program's goal of steadily increasing the energy efficiency of covered productsâ and congressional intent to provide a âsense of certainty on the part of manufacturers as to the required energy efficiency standards.â (NRDC, SC, and EJ, No. 243 at p. 2; 
+                    <E T="03">citing NRDC</E>
+                     v. 
+                    <E T="03">Abraham,</E>
+                     355 F.3d 179, 197 (2d Cir. 2004))
+                </P>
+                <P>Joint State AGs, DC, and NYC stated that while DOE had argued that the product class provision conditioned the anti-backsliding provision in the 2020 Final Rules, the contrary reading is more appropriate in light of the provisions themselves, the canons of statutory interpretation, and EPCA's legislative history, in which the anti-backsliding provision was adopted after the product class provisions. (Joint State AGs, DC, and NYC, No. 249 at pp. 4-5) NRDC, SC, and EJ further discussed this and stated that the anti-backsliding provision constrains DOE's creation of new product classes under EPCA section 325(q). The product class provision authorizes DOE to determine that the presence of a âperformance-related featureâ in certain products âjustifies the establishment of a higher or lower standardâ than the one that âapplies (or will apply)â to those products. NRDC, SC and EJ explained that in the 2020 Final Rules, DOE used the multiple tenses to argue that DOE can reduce the stringency of a standard, but this interpretation improperly reads the text of the product class provision in a vacuum, ignoring that the statutory context and EPCA's history and purposes must inform the meaning of the words. (NRDC, SC, and EJ, No. 243 at pp. 2-3) NRDC, SC and EJ commented that in light of the statutory context and purpose, the only plausible interpretation is that Congress intended the anti-backsliding provision to constrain DOE's authority under the product class provision, and the broad application of the anti-backsliding provision is consistent with EPCA's goals of âconserv[ing] energy supplies through energy conservation programs,â âprovid[ing] for improved energy efficiency of motor vehicles, major appliances, and certain other consumer products,â and âconserv[ing] water by improving the water efficiency of certain plumbing products and appliances.â Further, the âclimate of relative stabilityâ that Congress sought to ensure would be undermined by a reading of the product class provision that enables DOE to waive the applicability of the anti-backsliding provision as to all existing energy use of efficiency standards for consumer products. (NRDC, SC, and EJ, No. 243 at p. 3)</P>
+                <P>NRDC, SC, and EJ also noted the history of the product class provision. The 1978 version of the product class provision authorized DOE to âspecify a level of energy efficiency higher or lower than that which applies (or would apply)â to the product. As enacted in 1978, the product class provision might have been reasonably interpreted to allow for the weakening of existing standards. However, when Congress imposed the anti-backsliding provision on DOE in 1987 and made conforming changes to the product class provision, that amendment altered the degree of discretion conferred in the product class provision. (NRDC, SC, and EJ, No. 243 at p. 3)</P>
+                <P>DOE agrees with AWE; NRDC, SC, and EJ; the CA IOUs; CEC; Joint State AGs, DC, and NYC; and the Joint Commenters that DOE erred when it did not adequately consider EPCA's anti-backsliding provisions in the 2020 Final Rules.</P>
+                <P>Joint State AGs, DC, and NYC explained that because Congress had already set minimum standards for residential clothes washers, 42 U.S.C. 6295(g)(9), and residential dishwashers, 42 U.S.C. 6295(g)(10), DOE could only strengthen those standards, consistent with anti-backsliding provision, but the 2020 Final Rules weakened those standards by applying no standards to short-cycle products. Congress did not provide for separate classes for short-cycle products, and the standards thus applied to all such products regardless of that feature. Thus, the Join State AGs, DC, and NYC asserted, the 2020 Final Rules violated EPCA's minimum energy conservation standards for those products. (Joint State AGs, DC, and NYC, No. 249 at pp. 6-7)</P>
+                <P>DOE agrees with the Joint State AGs, DC, and NYC that because Congress had set standards for residential clothes washers and residential dishwashers that DOE could not weaken those standards without considering EPCA's anti-backsliding provision.</P>
+                <P>CEI commented that the provision at 42 U.S.C. 6295(o)(1) does not apply to the short-cycle product classes because no standard has yet been established for these new product classes. CEI cited 42 U.S.C. 6291(6) stating that a standard specifies the âminimum level of energy efficiency or maximum quantity of energy useâ for a covered product. The rulemakings creating these new product classes did not specify a âminimum level of energy efficiency or maximum quantity of energy useâ for these products. For that reason, the creation of these product classes did not, as defined by the statute, create, modify, or amend any standard for these products. (CEI, No. 239 at p. 5) CEI stated that since 42 U.S.C. 6295(o)(1) only applies to an âamended standard,â it does not apply to a new product class for which no standard yet exists. (CEI, No. 239 at p. 5; see also CEI, Public Meeting Transcript, No. 12 at pp. 9-10) CEI further explained that though the lack of a standard does not limit energy and water use of those products, that does not mean that an âamendmentâ of any standard occurred. (CEI, No. 239 at p. 6) CEI stated that those standards still exist today, just as they did before with the exact same water and energy requirements. (CEI, No. 239 at p. 6; see also CEI, Public Meeting Transcript, No. 12 at p. 10) CEI also highlighted other rulemakings where DOE established new product classes without establishing standards for those classes, including distribution transformers in 2007 and beverage vending machines in 2009. CEI stated the fact that no âfirst instance of energy conservation standardsâ have been issued for faster dishwashers does not undercut the validity of the short-cycle product class for these dishwashers. (CEI, No. 239 at pp. 5-6) CEI argued that the text of 42 U.S.C. 6295(q)(1) explicitly allows a lower standard than applies to other products that do not have that feature and as such, 42 U.S.C. 6295(o)(1) provision does not apply to new product classes when there is no prior standard. (CEI, No. 239 at p. 6)</P>
+                <P>
+                    As explained in the August 2021 NOPR, the October 2020 and December 2020 Final Rules inaccurately cited DOE's 2007 distribution transformer and 2009 beverage vending machine (âBVMâ) energy conservation standards rulemakings as support. 85 FR 68723, 68733; 85 FR 81361, 81368. In the 2007 distribution transformers rulemaking, DOE established a separate equipment class for underground mining distribution transformers without establishing associated energy conservation standards. 72 FR 58190 (Oct. 12, 2007). Similarly, in the 2009 BVM rulemaking, DOE established a 
+                    <PRTPAGE P="2680"/>
+                    separate equipment class for combination BVMs without establishing associated energy conservation standards. 74 FR 44914 (Aug. 31, 2009). But the October 2020 and December 2020 Final Rules failed to note the key distinction between these examples and the short-cycle product class rulemakings. Both the 2007 and 2009 rulemakings were the first instance of energy conservation standards being promulgated for distribution transformers and BVMs. As such, not setting standards for those equipment classes simply maintained the status quo-that is, underground mining distribution transformers and combination BVMs were not subject to energy use or efficiency restrictions either before or after those rulemakings. As a result, DOE did not establish or âamendâ the standards for these equipment classes and thus was not required to satisfy any of the criteria in EPCA for amending a standard for these equipment classes. 86 FR 43970, 43973-43974.
+                </P>
+                <P>In contrast, short-cycle residential dishwashers, residential clothes washers, and consumer clothes dryers were all subject to energy conservation standards prior to the October 2020 and December 2020 Final Rules. By stating that short-cycle products were no longer subject to energy or water conservation standards, the October 2020 and December 2020 Final Rules changed the status quo in a direction that would allow for unlimited energy and water use by these short-cycle products. Thus, DOE did âamendâ the standards for these equipment classes and thus was required to satisfy the requirements in EPCA for issuing an amended standard. 86 FR 43970, 43973-43974.</P>
+                <P>
+                    While CEI is correct that there are not currently any standards applicable to the short-cycle product classes, this ignores the fact that prior to the 2020 Final Rules, products currently defined as short-cycle products were subject to energy conservation and water conservation standards. (
+                    <E T="03">See</E>
+                     10 CFR 430.32(f), (g), and (h) (Jan. 1, 2020 edition), which prescribed standards for residential dishwashers, residential clothes washers, and consumer clothes dryers, respectively, without regard to cycle time.) As discussed in section III.A.1 of this document, by separating certain models of residential dishwashers, residential clothes washers, and consumer clothes dryers from a product class with standards to a new product class that did not have any applicable standards, DOE amended (or altered) the standards applicable to those models in the 2020 Final Rules. Contrary to CEI's assertions, this is not analogous to the first instance of energy conservation standards for beverage vending machines and distribution transformers, as there were already standards in place for these products. Under the newly-created product classes, these products now have no applicable standard, which allows the energy and water use of these products to be higher than the standard to which they were subjected previously. Accordingly, DOE has concluded that it did not adequately consider EPCA's requirements, including the anti-backsliding provision, when it finalized the 2020 Final Rules.
+                </P>
+                <HD SOURCE="HD3">3. Interpretation of 42 U.S.C. 6295(q)(1)</HD>
+                <P>
+                    EPCA provides that, when prescribing an energy conservation standard for a new product class, DOE must specify a different standard level than that which applies generally to a type or class of products for any group of covered products that have the same function or intended use, if DOE determines that products within such group: (A) Consume a different kind of energy from that consumed by other covered products within such type (or class); or (B) have a capacity or other performance-related feature which other products within such type (or class) do not have and such feature justifies a higher or lower standard. 42 U.S.C. 6295(q)(1). In determining whether a performance-related feature justifies such a different standard for a group of products, DOE must consider such factors as the utility to the consumer of the feature and other factors DOE deems appropriate. 
+                    <E T="03">Id.</E>
+                </P>
+                <P>As stated in the August 2021 NOPR, as support for establishing product classes without associated energy conservation standards, the October 2020 and December 2020 Final Rules asserted that those rules were simply deferring the issuance of new conservation standards. 85 FR 68723, 68733; 85 FR 81359, 81368. As discussed in section III.A.1 of this document, EPCA does not, however, allow DOE to simply defer the establishment of new energy conservation standards for regulated products or equipment that already have energy conservation standards. Even if EPCA authorized deferrals in some instances, any creation of the new product classes here would have needed to follow the requirements of 42 U.S.C. 6295(q), which frames the development of a product class within the context of an energy conservation standard rulemaking. But the October 2020 and December 2020 Final Rules did not develop the new product classes in the context of an energy conservation standard rulemaking. Instead, by stating that the new product classes were not subject to any energy conservation standards without following 42 U.S.C. 6295(q), the October 2020 and December 2020 Final Rules were an amendment in violation of EPCA. 86 FR 43970, 43973.</P>
+                <P>CEC asserted that although the provision at 42 U.S.C. 6295(q)(1) provides DOE with the authority to establish new product classes, if DOE determines that the sub-class includes a âperformance-related feature [that] justifies the establishment of a higher or lower standard,â DOE erroneously relied on that authority to justify establishing new product classes and setting lower standards in the 2020 Final Rules. (CEC, No. 245 at p. 4) CEC and IPI stated that the 2020 Final Rules amended the applicable standards without justifying short cycle time as a product utility nor providing any data to justify the creation of a new product class or higher or lower standards. (CEC, No. 245 at p. 4; IPI, No. 244 at p. 1)</P>
+                <P>
+                    The Joint State AGs, DC, and NYC asserted that short-cycle functionality does not provide consumer utility that would qualify as a âperformance-related featureâ consistent with prior interpretations, and, where cycle duration was considered in the past rulemakings, it was not in the product class context. Further, Joint State AGs, DC, and NYC stated that the administrative records compiled in support of the 2020 Final Rules failed to meet either burden, as they did not support DOE's determination that short-cycle functionality was a âperformance-related featureâ as that term is interpreted under EPCA, or that separate standards were necessary to maintain that functionality. The Joint State AGs, DC, and NYC also questioned whether short-cycle functionality provides unique consumer utility and stated that ENERGY STAR data indicated that consumer preferences were more influenced by efficiency and other features of the products instead of cycle time. The Joint State AGs, DC, and NYC concluded that short-cycle time does not qualify as a âperformance-related featureâ that could justify a separate product class with different energy conservation standards under EPCA. (Joint State AGs, DC, and NYC, No. 249 at pp. 6-7) Joint State AGs, DC, and NYC also explained that even if short-cycle functionality could be a performance-related feature under EPCA, DOE did not demonstrate that different energy conservation standards were necessary to provide short-cycle functionality for the subject products. DOE's presumption that weaker energy conservation standards would result in 
+                    <PRTPAGE P="2681"/>
+                    quicker cycle times was also belied by the data in the rulemaking records, which, when assessed accurately, showed that energy conservation standards did not cause any increase in cycle times. (Joint State AGs, DC, and NYC, No. 249 at p. 7)
+                </P>
+                <P>
+                    Other interested parties cited the availability of short-cycle functionality on existing products as evidence that categorizing normal cycle time as a performance-related feature is unwarranted and unjustified. NWPCC asserted that the residential dishwasher short-cycle product class is unnecessary because, according to a December 2020 NEEA survey, residential dishwasher short-cycles are only used about 8 percent of the time. (NWPCC, No. 9 at p. 2) ASAP, the CA IOUs, and the Joint Commenters stated that the separate product classes are unwarranted and there are already products available on the market with the option of a short cycle. (ASAP, Public Meeting Transcript, No. 12 at p. 11; Joint Commenters, No. 252 at p. 2; CA IOUS, No. 247 at p. 2) NWPCC; AHAM; Joint State AGs, DC, and NYC; and NRDC, SC, and EJ commented that many residential dishwasher, residential clothes washer, and consumer clothes dryer models already provide short-cycle times while meeting the existing standards. (NWPCC, No. 9 at p. 2; AHAM, No. 253 at p. 2; AHAM, Public Meeting Transcript, No. 12 at p. 14; NRDC, SC, and EJ, No. 243 at pp. 3-4; Joint State AGs, DC, and NYC, No. 249 at p. 7) Specifically, the CA IOUs cited data from NEEA, which showed that 76 percent of top-selling residential clothes washers in NEEA's incentive programs, and from AHAM, where over 75 percent of the most popular residential dishwasher models on the market, were equipped with short-cycle options.
+                    <SU>8</SU>
+                    <FTREF/>
+                      
+                    <SU>9</SU>
+                    <FTREF/>
+                     The CA IOUs further commented that data published by DOE in support of the October 2020 Final Ruleâ
+                    <SU>10</SU>
+                    <FTREF/>
+                     demonstrated that, across 29 tested units with a quick-cycle option, the majority of units achieved a higher per-cycle cleaning index score for the quick cycle than for the normal cycle. Accordingly, in their view, the creation of separate product classes is not needed to ensure the availability of quick cycles with adequate cleaning performance, since they are already available to consumers. (CA IOUs, No. 247 at p. 2)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        â
+                        <E T="03">www.regulations.gov/comment/EERE-2017-BT-STD-0014-0019.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        â
+                        <E T="03">www.regulations.gov/comment/EERE-2018-BT-STD-0005-2233.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âDishwasher NODA Test Data (5-21-20). Available at: 
+                        <E T="03">www.regulations.gov/document/EERE-2018-BT-STD-0005-3213.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    The CA IOUs further commented that cycle time for commonly used appliances may be an important attribute for some consumers, but that cycle time could be incorporated into performance standards, as DOE proposed in the clothes washer test procedure NOPR that DOE published on September 1, 2021. 86 FR 49140. The CA IOUs contended that this approach would create incentives for manufacturers to develop products with a balance of short-cycle times and energy and water efficiency. The CA IOUs further commented that publicly reporting cycle times in DOE's Compliance Certification Management System (âCCMSâ) database,
+                    <SU>11</SU>
+                    <FTREF/>
+                     as ENERGY STAR already does in its database of qualified products, would provide many consumer information platforms such as Consumer Reports to incorporate and report on cycle time for all DOE-certified appliances, including non-ENERGY STAR products. (CA IOUs, No. 247 at p. 3)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âDOE's Compliance Certification Management System database is available at 
+                        <E T="03">www.regulations.doe.gov/certification-data.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    The Joint Commenters specifically noted that, for residential dishwashers, there is wide availability of products that provide the option of a short cycle with a cycle time of less than one hour. The Joint Commenters added that, for residential clothes washers and consumer clothes dryers, DOE's test dataâ
+                    <SU>12</SU>
+                    <FTREF/>
+                     showed the availability of products with short cycle times on the normal cycle, which is the cycle that is tested for certification purposes. (Joint Commenters, No. 252 at p. 2) NRDC, SC, and EJ commented that the product class provision at 42 U.S.C. 6295(q) permits DOE to distinguish among classes of products only when products âhave a capacity or other performance-related feature which other products . . . do not have,â and asserted that this provision in EPCA does not offer limitless discretion to DOE. These commenters noted further that residential dishwashers, residential clothes washers, and consumer clothes dryers are available on the market with cycle options resulting in cycle times shorter than the thresholds in the 2020 Final Rules, indicating that consumers who are concerned about cycle duration can already purchase models that meet their needs. (NRDC, SC, and EJ, No. 243 at pp. 3-4)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        â
+                        <E T="03">www.regulations.gov/comment/EERE-2020-BT-STD-0001-0033.</E>
+                    </P>
+                </FTNT>
+                <P>AHAM commented that there are not sufficient data to show that a shorter normal cycle time for residential clothes washers and consumer clothes dryers would offer consumer utility that justifies a higher or lower standard. (AHAM, No. 253 at p. 3)</P>
+                <P>AWE and the Joint State AGs, DC, and NYC asserted that establishing the new short-cycle product classes without simultaneously establishing new standards for them goes against the provision at 42 U.S.C. 6295(q)(1). (AWE, No. 254 at p. 3; Joint State AGs, DC, and NYC, No. 249 at pp. 5-6) AWE commented that the authority on which the 2020 Final Rules relied for creating for creating product classes does not allow a new product class with different water efficiency or usage at all, because section 325(q) applies only to rules that specify âlevel[s] of energy use or energy efficiency.â Thus, according to AWE, DOE had no authority to carve out short-cycle residential clothes washers as a class that can use extra water. AWE added that the central purpose of EPCA, energy and water conservation, would be defeated if DOE were to avoid the statutory limitations set forth by 42 U.S.C. 6295(q)(1) by recharacterizing the amendment of existing standards for the short-cycle products as though it is not an amendment and instead characterizing it as the establishment of new product classes for which prior standards did not exist. (AWE, No. 254 at p. 3)</P>
+                <P>
+                    Americans for Tax Reform argued that DOE is required to assess standards based on a number of statutory factors, including the economic impact of the standard on manufacturers and consumers, as well as âthe utility or performance of the covered product.â Americans for Tax Reform asserted that the August 2021 NOPR failed to appropriately assess these factors, as the evidence demonstrates faster classes of consumer appliances are of significant benefit to members of the public. Specifically, Americans for Tax Reform referenced polling data that shows in excess of 80 percent of consumers would find such projects useful. Americans for Tax Reform commented that 98 percent of individuals who submitted comments in response to the dishwasher short-cycle product class rulemaking were in favor of the dishwasher short-cycle product class. (Americans for Tax Reform, No. 223 at p. 1) Americans For Tax Reform commented that consumer appliances with shorter cycle times would be particularly beneficial to larger families and cited a 2017 survey from Statista.com that showed that families in lower income brackets tend to have higher birth rates. Americans for Tax Reform suggested that denying access to 
+                    <PRTPAGE P="2682"/>
+                    appliances with shorter cycle times indirectly penalizes low-income families and exacerbates the problems associated with income inequality, asserting that higher-income families or those able to afford housekeeping services may not need shorter cycle times. (Americans for Tax Reform, No. 223 at p. 1) The 60 Plus Association claimed that senior citizens would benefit from cycle times less than an hour. (60 Plus Association, No. 251 at p. 3)
+                </P>
+                <P>The Arizona AG argued that the August 2021 NOPR, if finalized, would be a detriment to consumers, who stand to benefit greatly from products produced under the new classes of machines and who expressed much support for the two rules. (Arizona AG, No. 248 at p. 1) The Arizona AG highlighted comments from consumers and industry groups about the prior standards, which stated that the prior standards led to machines that did not clean as well and took longer to do it, which created a burden on many, including large families, work professionals, and seniors. (Arizona AG, No. 248 at p. 2)</P>
+                <P>FreedomWorks Foundation argued that the 2020 Final Rules determined that a new class of dishwashers was a performance-related feature that justified creation of a standard that allowed use of more energy and water. FreedomWorks Foundation claimed that short-cycle product classes would help busy Americans maintain their households, and that repealing these product classes would be neglectful to those citizens. (FreedomWorks Foundation, No. 238 at p. 2) FreedomWorks Foundation and the Arizona AG highlighted consumer comments filed in support of the 2020 Final Rules. (FreedomWorks Foundation, No. 238 at pp. 1-2; Arizona AG, No. 248 at p. 2) The Arizona AG stated that utility to the consumer had been well established by the DOE's previous findings and the hundreds of comments in support in the docket for the 2020 Final Rules. (Arizona AG, No. 248 at pp. 4-5)</P>
+                <P>
+                    CEI argued that these faster products provide substantial utility to consumers. CEI highlighted the magnitude of comments from individual consumers in the prior rulemaking that stated that faster dishwashers would be useful to them. (CEI, No. 239 at p. 2; see also CEI, Public Meeting Transcript, No. 12 at pp. 6-7) CEI commented that more than 2,200 individuals submitted comments supporting the dishwasher short-cycle product class in the rulemaking leading to the October 2020 Final Rule, while only 57 individuals opposed the short-cycle product class or were neutral. (CEI, No. 239 at p. 2) CEI also noted a comment received as a part of this rulemaking, where the commenter stated that âa short normal cycle clothes washer is essential to someone like me, a working mother doing laundry for a family of six, to allow me to schedule around the sun and use a clothesline rather than being forced into using a heated tumble clothes drier [
+                    <E T="03">sic</E>
+                    ].â (CEI, No. 239 at p. 3) CEI further commissioned a survey of over 1,000 random Americans, of which 81 percent said the new class of short-cycle dishwashers would be useful to them and only 8 percent thought a dishwasher should take more than an hour. (CEI, No. 239 at p. 3; see also CEI, Public Meeting Transcript, No. 12 at pp. 7-8) In further support of its view that short-cycles provide consumer utility, CEI referenced a comment provided by Robert C. Hoffman in response to DOE's July 2019 NOPR to establish the new dishwasher product class, noting that he is an âexpert with nearly three decades of experience in the appliance industry and in DOE compliance testing.â Hoffman stated that, âclearly a percentage of the dishwasher market in the U.S. is dissatisfied with current dishwasher cleaning and cycle time performances,â and viewed DOE's stringent energy standards as restricting the availability of products that were on the market.
+                    <SU>13</SU>
+                    <FTREF/>
+                     (CEI, No. 239 at p. 3)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âAttachment C: Hoffman Evaluation available at: 
+                        <E T="03">www.regulations.gov/comment/EERE-2021-BT-STD-0002-0239.</E>
+                    </P>
+                </FTNT>
+                <P>CEI stated that the provision at 42 U.S.C. 6295(q)(1) explicitly allows the establishment of a lower standard for products that have a capacity or other performance-related feature than applies to other products that do not have that feature. (CEI, No. 239 at p. 6) The Arizona AG stated that DOE has the regulatory authority to empower consumers to buy residential dishwashers, residential clothes washers, and consumer clothes dryers that will fit their specific needs and time constraints. The Arizona AG and Missouri AG argued that EPCA authorizes the creation of a âhigher or lowerâ energy conservation standard for a new class of products provided that DOE determines that the class is characterized by a distinct performance-related feature. (Arizona AG, No. 248 at p. 4 (citing 42 U.S.C. 6295(q)(1)); Missouri AG, No. 246 at pp. 4-5) Furthermore, the Missouri AG asserted if the current classes of regulated appliances do not accurately describe a new type of product to be introduced to the market, regulators are free to craft a completely new, less burdensome, regulatory scheme for this new product, which is what the 2020 Final Rules did. (Missouri AG. No. 246 at p. 5)</P>
+                <P>
+                    Although irrelevant to the conclusion that the 2020 Final Rules failed to follow the statutory requirements for amending standards, it nonetheless bears mentioning that DOE standards apply only to the particular cycles required by the test procedure for testing these products. Most basic models of residential dishwashers, residential clothes washers, and consumer clothes dryers provide multiple cycle options that are not regulated, each of which are designed for different purposes. For instance, a residential dishwasher may have a quick cycle, heavy cycle, delicates, 
+                    <E T="03">etc.</E>
+                     in addition to the normal cycle. These unregulated cycles provide consumers options to their individual needs in the moment. The standards in place prior to the 2020 Final Rules, to which DOE is now reverting, do not impede the inclusion of these cycle options in products currently available on the market.
+                </P>
+                <P>
+                    Further, DOE is not contending in this rulemaking the validity of the determinations made about whether short cycles provide a âperformance-related featureâ and âutility.â However, the appropriate occasion for conducting the 42 U.S.C. 6295(q) analysis is in a rulemaking prescribing new or amended standards. As discussed previously, the 2020 Final Rules failed to undertake consideration of the statutory criteria explicitly applicable to a rulemaking to establish a new or amended standard. 
+                    <E T="03">See generally</E>
+                     42 U.S.C. 6295(o). By failing to adhere to the process set out in EPCA for it to consider these prescribed criteria, DOE has concluded that the 2020 Final Rules were promulgated in violation of that process.
+                </P>
+                <HD SOURCE="HD3">4. Other Statutory Concerns</HD>
+                <P>
+                    IPI stated that when agencies deregulate in ways that impose costsâincluding harms to human health and the environmentâthe Administrative Procedure Act, principles for rational rulemaking, and court precedent all require agencies to consider the forgone benefits of deregulation.
+                    <SU>14</SU>
+                    <FTREF/>
+                     IPI commented that the 2020 Final Rules explicitly declined to consider any forgone benefits from those actions. Further, IPI stated that the 2020 Final Rules directly opened the possibility that products could be sold that would 
+                    <PRTPAGE P="2683"/>
+                    consume unlimited amounts of energy or water could pose the risk of increased consumer costs and pollution, resulting in financial, health, climate, and other environmental harms. IPI asserted that DOE should cite the failure to consider forgone benefits as another justification for revoking the 2020 Final Rules. (IPI, No. 244 at pp. 1-2)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        â
+                        <E T="03">See</E>
+                         Bethany A. Davis Noll &amp; Denise A. Grab, 
+                        <E T="03">Deregulation: Process and Procedures that Govern Agency Decisionmaking in an Era of Rollbacks,</E>
+                         38 ENERGY L. J. 269, 292-93 (2017) (summarizing the legal requirements and case law).
+                    </P>
+                </FTNT>
+                <P>As discussed previously, due to the uncertainty in the market about these product classes and energy conservation standards, it is DOE's understanding that new products in these short-cycle product classes have not entered the market at this time. As such, DOE believes that it is unlikely that the foregone benefits referenced by IPI have resulted.</P>
+                <P>
+                    CEI stated when it made the request for a new product class for dishwashers, it expected DOE to issue the new standard as part of the same rulemaking process that established the new class of product. CEI commented that, instead, DOE decided to split the creation of the standard for this new product class into two different parts, and if DOE now believes that this product class had to be issued with a new standard in one step, as CEI originally requested, then DOE can fix that problem by issuing that standard now. (CEI, No. 239 at p. 7 ; see also CEI, Public Meeting Transcript, No. 12 at p. 8) CEI asserted that other than the absurd idea that DOE cannot create a new product class with a lower energy standard due to a performance-related feature, âthere is no argument that DOE does not have the power to issue a valid standard for these new product classes now.â Further, CEI argued that issuing a standard for these products is a reasonable regulatory alternative, which the APA requires DOE to consider prior to revoking these product classes. (CEI, No. 239 at p. 7 (citing 
+                    <E T="03">California</E>
+                     v. 
+                    <E T="03">Interior,</E>
+                     381 F. Supp. 3d 1153, 1168 (N.D. Cal. 2019) (âWhen considering revoking a rule, an agency must consider alternatives in lieu of a complete repeal, such as by addressing the deficiencies individually.â); citing 
+                    <E T="03">Yakima Valley Cablevision</E>
+                     v. 
+                    <E T="03">F.C.C.,</E>
+                     794 F.2d 737, 746 n. 36 (âThe failure of an agency to consider obvious alternative has led uniformly to reversal.â)) Sabedra also suggested that the short-cycle product classes be subject to energy conservation standards, which would ensure companies will continue to move forward with technological advancements that can conserve both water and energy, while filling the market gap that exists for these products. (Sabedra, No. 7) An anonymous commenter also suggested that short-cycle product classes should have regulations for water and cleaning efficiency set for them, so that manufacturers of these products can add this option to their products. (Anonymous, No. 8)
+                </P>
+                <P>While DOE could propose new standards for short-cycle productsâas certain commenters suggestedâDOE is declining to do so at this time. DOE reached this judgment after considering: (1) The time and resources that it would entail to develop these new standards in relation to other obligations of the program, (2) the lack of presently-available data that would be necessary to analyze the short-cycle product classes and establish new standards for these class, and (3) the absence of new products on the market that would fall within these new product classes. DOE weighed these factors against the benefit of more quickly fixing an EPCA procedural error through the revocation of this rulemaking. As such, DOE determined that revoking the 2020 Final Rules was the best course of action. </P>
+                <P>Additionally, as discussed throughout this document, many residential dishwashers, residential clothes washers, and consumer clothes dryers offer shorter cycle options on models already available to consumers. The inclusion of these cycle options has not been hindered by the existing conservation standards, meaning consumers can purchase such models if desired.</P>
+                <P>Americans for Tax Reform commented that the August 2021 NOPR should be withdrawn because DOE had failed to fulfill the statutory requirements of EPCA by neglecting to complete a cost benefit analysis, an adequate analysis of consumer welfare or the disproportionate harm this rule would cause low-income earners, and a genuine analysis of the environmental impact. (Americans for Tax Reform, No. 223, at p. 2) CEI claimed that repealing the short-cycle product classes would be contrary to the provision at 42 U.S.C. 6295(o)(4), which prohibits DOE from creating standards that eliminate existing âperformance characteristics (including reliability), features, sizes, capacities, and volumes.â CEI stated that before these new classes of faster products were established, the regulations at issue prevented people from making the trade-off between speed and efficiency. (CEI, No. 239 at p. 1)</P>
+                <P>As DOE is not establishing or amending energy conservation standards in this final rule under 42 U.S.C. 6295, DOE disagrees with the Americans for Tax Reform that DOE is required to fulfill EPCA's requirements for developing standards when revoking the 2020 Final Rules. Instead, DOE notes that it should have completed such an analysis in the 2020 Final Rules that established the product classes at issue here as discussed in section III.A.1 of this document. Additionally, the revocation of the 2020 Final Rules will return the applicable regulations and the marketplace to the status-quo prior to October 2020. As discussed in section III.A.3 of this document, the marketplace already includes products that provide consumers with shorter cycle options, such as residential dishwasher products with cycles times of less than 60 minutes. As such, the revocation of the 2020 Final Rules will not result in the elimination of any existing performance characteristics from the market.</P>
+                <HD SOURCE="HD2">B. Impact on Water and Energy Use</HD>
+                <P>
+                    In the August 2021 NOPR, DOE explained that it made a policy judgment that EPCA's express purpose of energy and water conservation (42 U.S.C. 6201(4), (5), (8)) would be thwarted if DOE could avoid restrictions on amending existing standards by nominally characterizing a regulatory change in the energy conservation standards applicable to a covered product as something other than an amendment. 86 FR 43980, 43974. In response, DOE received comments on the impacts of the proposal on water and energy use. AWE stated that reverting to the prior standards will have significant environmental benefits. Specifically, AWE highlighted that efficient residential clothes washers have helped reduce water use by an average of 5.4 gallons per person per dayânationwide savings of more than 640 billion gallons a year, the single most effective per-capita water reduction effort in 15 years. For consumer clothes dryers, AWE noted DOE findings that prior standards will, over 30 years, save 0.39 quadrillion British thermal units (âquadsâ) of energy, reduce electricity generation requirements by nearly 1 gigawatt, and reduce carbon dioxide emissions by about 36 million metric tons. AWE also stated that DOE also determined that the prior standards would result in a cumulative national net present value of total consumer costs and savings from $1.08 billion to $3.01 billion for consumer clothes dryers, and from $13.01 billion to $31.29 billion for residential clothes washers. (AWE, No. 254 at pp. 1-2) AWE also commented that the 2020 Final Rules go against the purpose of EPCA to consistently improve energy and water efficiency over time, and stated that if DOE did not revoke the 2020 Final Rules, long-term 
+                    <PRTPAGE P="2684"/>
+                    consequences could erase water and energy savings produced by previous efficiency standards. (AWE, No. 254 at p. 2) CEC stated that repealing the 2020 Final Rules would ensure that DOE is properly exercising its authority to prevent excess energy and water consumption and save consumers money, instead of allowing products with short cycle times to consume unlimited amounts of energy and water. (CEC, No. 245 at p. 2) ASAP explained that the short-cycle product classes put at risk huge gains in energy and water efficiency that have been achieved in the past three decades for these products. (ASAP, Public Meeting Transcript, No. 12 at pp. 11-12)
+                </P>
+                <P>NWPCC commented that if the short-cycle product classes remain in effect, machines with primarily short-cycle operations would be developed and would require more per-cycle energy and water use. This could lead to significant energy and water use increases, which would represent backsliding relative to current per-unit consumption rates. NWPCC also noted that clothes washing and drying represents approximately 10 percent of the residential energy load in the northwest region of the United States. (NWPCC, No. 9 at p. 2) NWPCC asserted that while it is unknown how many clothing loads would be performed by short-cycle units in the future, it is clear that the short-cycle product classes would result in an increase in energy and water consumption. (NWPCC, No. 9 at p. 2)</P>
+                <P>AWE commented that much of the western United States is in an extended drought, and scientists warn that water shortages are likely to become more common and significant due to climate change across the United States because of climate change. (AWE, No. 254 at p. 2) CEC commented that because climate change is threatening communities across the country and the Western United States is experiencing severe drought conditions, with California experiencing extreme or exceptional drought conditions, DOE must utilize every available tool to address climate change and drought. (CEC, No. 245 at p. 2)</P>
+                <P>The FreedomWorks Foundation claimed that pre-2020 energy and water standards are responsible for increased cycle times and poor residential dishwasher performance that result in consumers frequently hand washing dishes or resorting to other methods that consume additional energy and water. (FreedomWorks Foundation, No. 238 at p. 1) The Arizona AG commented that, during previous rulemakings, consumers expressed concerns about the negative environmental impact of residential dishwashers that must have cycles repeated or extra pre-washing conducted before use. (Arizona AG, No. 248 at p. 3)</P>
+                <P>Americans for Tax Reform argued that the August 2021 NOPR follows an extremely superficial analysis of the environmental impact, neglecting to consider the abundance of evidence regarding the longer-term environmental benefits brought about through these new classes of products. Americans for Tax Reform suggested that other existing metrics fail to adequately capture the full energy and water use as according to survey data up to 86 percent of Americans wash their dishes by hand at least some or all of the time because of long cycle times. (Americans for Tax Reform, No. 223 at p. 1) Americans for Tax Reform further stated that washing dishes by hand is significantly more water and energy intensive than any form of dishwasher use and, as such, the August 2021 NOPR may significantly increase water usage. Americans for Tax Reform also suggested that longer cycles for residential clothes washers make it more difficult for consumers to time their clothes washing around the weather, so as to take advantage of sunshine to dry their clothes. This could lead to increased energy use as people are forced to use tumble dryers when the new rules would allow for greater use of clotheslines. (Americans for Tax Reform, No. 223 at p. 1) Similarly, Randtke discussed the importance of having a residential clothes washer with a short normal wash cycle time because it allows them to run the clothes washer before work and use a clothesline to dry their families' clothes instead of using a clothes dryer. (Randtke, No. 6 at pp. 1-2) Randtke suggested that longer cycles times for residential clothes washers put pressure on them to switch from a clothesline to a heated tumble clothes dryer, which they asserted uses a lot more energy. (Randtke, No. 6 at p. 3) Randtke also commented that water is necessary to wash clothes, and that to limit water use results in them running multiple cycles for the same load of laundry, as it affects the ability of the washer to get clothes clean. (Randtke, No. 6 at pp. 3-6)</P>
+                <P>
+                    CEI stated that the issue DOE failed to consider is that faster residential dishwashers save water and energy. CEI asserted that even if faster residential dishwashers use more water and energy per cycle, they can still end up saving water and energy by reducing the need for hand washing or extensive pre-scrubbing or running double cycles in order to get dishes clean. (CEI, No. 239 at p. 4) CEI cited its own survey, which showed that 23 percent of consumers always wash their dishes by hand because their residential dishwasher takes too long, 27 percent of consumers do so often, and 37 percent of consumers do so sometimes.
+                    <SU>15</SU>
+                    <FTREF/>
+                     (CEI, No. 239 at p. 4; see also CEI, Public Meeting Transcript, No. 12 at p. 8)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âAttachment B: Survey Concerning Dishwashers available at: 
+                        <E T="03">www.regulations.gov/comment/EERE-2021-BT-STD-0002-0239.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Thompson stated that returning to the prior standards will not save energy or water, as people are forced to perform significant pre-rinsing and run multiple loads. Thompson further noted that these efficiency rules that are meant to save energy and water have added to their home's energy and water use, as well as increased the amount of chemicals consumed, and added to the environment [
+                    <E T="03">sic</E>
+                    ] through additional detergent and rinse aid use. (Thompson, No. 122) Simpson stated that water and electricity conservation was not needed because an industrialized society can produce more of those things. (Simpson, No. 130)
+                </P>
+                <P>
+                    As stated previously, DOE has determined that the 2020 Final Rules that established the short-cycle product classes and amended the associated energy conservation standards violated EPCA and are, therefore, invalid. The product class structure and associated energy conservation standards that were in effect prior to the 2020 Final Rules, and which DOE is reinstating, were subject to the necessary considerations of energy and water savings, technological feasibility, and economic justification as required by EPCA. 
+                    <E T="03">See</E>
+                     77 FR 31918 (May 30, 2012) (establishing amended energy conservation standards for residential dishwashers); 77 FR 59719 (Oct. 1, 2012) (establishing amended energy conservation standards for residential clothes washers); and 76 FR 22454 (Apr. 21, 2011) (establishing amended energy conservation standards for consumer clothes dryers).
+                </P>
+                <P>
+                    DOE recognizes the concerns raised by commenters about the potential impacts on energy and water use that could result from permitting the 2020 Final Rules to remain in effect. As stated in the August 2021 NOPR, DOE has made a policy judgement that EPCA's expressed purposes for energy and water conservation (42 U.S.C. 6201(4), (5), and (8)) would be thwarted if DOE could avoid EPCA's restrictions on amending existing standards by nominally characterizing a regulatory change to an existing standard as something other than an amendment. 86 FR 43970, 43974. Considerations 
+                    <PRTPAGE P="2685"/>
+                    regarding energy and water use, as well as EPCA's other requirements, should have been addressed during the rulemaking process for the 2020 Final Rules, as discussed in section III.A.1 of this document.
+                </P>
+                <HD SOURCE="HD2">C. Impact to Manufacturers</HD>
+                <P>Commenters also discussed the impact of the proposal on manufacturers. AHAM commented that short-cycle product classes for residential clothes washers and consumer clothes dryers would likely have negative, unintended consequences. Specifically, AHAM stated that retaining the short-cycle product classes could strand manufacturer investments in efficiency and require new investments to develop new products; create new regulation; introduce uncertainty for manufacturers until DOE develops energy conservation standards for the new product classes; increase test burden for laundry products; and create possible disharmony in North American laundry energy conservation standards. (AHAM, No. 253 at p. 3)</P>
+                <P>
+                    GEA commented that by failing to follow the requirements of EPCA, the Appliance Standards Process Rule (
+                    <E T="03">see</E>
+                     10 CFR part 430, subpart C, appendix AâProcedures, Interpretations, and Policies for Consideration of New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Certain Commercial/Industrial Equipment), and the APA, the 2020 Final Rules damaged the relationship between major appliance manufacturers and DOE, threatened domestic manufacturing of major appliances, and undercut the significant work DOE and manufacturers have done to bring highly effective and efficient appliances to U.S. consumers. According to GEA, manufacturers were unable to plan for and implement any changes in response to the short-cycle product class rulemaking due to the uncertainty created by not establishing standards for the new product classes. GEA stated that manufacturers rely on DOE to consistently follow EPCA and the APA in order to invest with confidence in U.S.-based technology, manufacturing facilities, and jobs because domestic manufacturing requires greater capital investment, longer lead times, and greater risk than sourcing or foreign manufacturing. GEA also noted that manufacturers rely on the information and understanding provided by the standards rulemaking process to make predictions and projections about forthcoming standards and the 3-5-year implementation times for new standards to redesign their products and implement new manufacturing capabilities. (GEA, No. 255 at p. 2)
+                </P>
+                <P>GEA further noted that the short-cycle product classes could lead to possible job losses, decreased sales, and a loss of confidence in residential dishwashers, residential clothes washers, and consumer clothes dryers. It added that the short-cycle product class rulemaking threatens established manufacturing jobs in the U.S. because the short-cycle product classes are susceptible to being filled with low-quality imported products made by manufacturers that GEA asserts lack the care or resources for consumers, competitors, and DOE to be assured they comply with U.S. law. (GEA, No. 255 at pp. 2-3) GEA commented that the predictability and consistency inherent to the DOE Appliance Standards Program reduce development cost, manufacturing cost, and stranded investment. GEA further explained that all of these cost factors are used to determine what maximum efficiency levels are economically justified for both manufacturers and consumers under EPCA's economic justification requirements. GEA stated, therefore, that the short-cycle product class rulemakings and their impacts on the market threaten to drive up cost for manufacturers and consumers, which would make more efficient products unavailable under EPCA's requirements. GEA added that EPCA's processes are essential to the success of EPCA's ultimate goal of conserving water and energy consumption, and in order to continue to reach for this goal, the short-cycle product classes should be terminated. (GEA, No. 255 at p. 3)</P>
+                <P>AWE noted that the residential clothes washer and consumer clothes dryer standards preceding the short-cycle rulemaking benefited manufacturers by creating a level, well-understood playing field for American companies that have invested heavily in creating products that meet the prior standards and that reverting to the prior standards will result in essential savings for both consumers and manufacturers. (AWE, No. 254 at p. 2)</P>
+                <P>
+                    CEI countered AHAM and manufacturers' opposition to the formation of short-cycle product classes, stating that the manufacturers' argumentsâthat there is no utility for the short-cycle product classes, and that their past investment in more efficient products might be wastedâare contradictory because, according to CEI, if no consumers purchase products with shorter cycle times due to a lack of utility, then AHAM members could continue selling higher efficiency products without losing market share and without loss of investment. CEI asserted that some of AHAM's members understand that there is utility to short-cycle products, citing a statement from one AHAM member's senior manager that the manufacturer would probably redesign residential dishwashers if a standard was issued for these products.
+                    <SU>16</SU>
+                    <FTREF/>
+                     CEI asserted that short-cycle products are not currently available because DOE has not yet issued a standard for these product classes, and, according to CEI, manufacturers do not want to create products that could soon be illegal to sell if they do not meet that standard. (CEI, No. 239 at p. 3) Americans for Tax Reform also asserted that the lack of new products being introduced to the market is partially attributed to regulatory uncertainty, and argued that this rule would block innovation without assessing future technological innovation. Americans for Tax Reform suggested that, while it is true that no products under the new rules have been presently introduced to the market, that is not an adequate reason to finalize this withdrawal rulemaking. Americans for Tax Reform cautioned DOE against engaging in anti-competitive regulatory policy, which would benefit existing manufacturers, at the expense of newer ones trying to enter the market, and stated that benefiting vested interest to prevent consumer interest would be contrary to sound public policy. (Americans for Tax Reform, No. 223 at p. 2)
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âLiam McCabe, Did Trump Really Make Dishwashers Great Again?, New York Times (Mar. 2, 2021). 
+                        <E T="03">www.nytimes.com/wirecutter/blog/dishwashers-trump-efficiency/.</E>
+                    </P>
+                </FTNT>
+                <P>The Arizona AG commented that repealing the short-cycle product class would limit consumers' choices and block innovation of technology and products in the marketplace that can meet consumer demands. The Arizona AG added that the technology exists for more helpful machines that meet the needs of modern lifestyles, and that DOE should allow the 2020 short-cycle rulemakings to stand instead of repealing them. (Arizona AG, No. 248 at pp. 5-6)</P>
+                <P>
+                    As discussed in section III.A.1 of this document, in amending the standards for the short-cycle products, DOE failed to consider the potential impacts on manufacturers. Commenters suggest that the standards as amended by the 2020 Final Rules may have economic impacts on manufacturers that were not appropriately considered. Appropriate consideration of the potential impacts on manufacturers resulting from amended product classes would occur 
+                    <PRTPAGE P="2686"/>
+                    as part of a standards rulemaking as required by EPCA.
+                </P>
+                <HD SOURCE="HD2">D. Other Concerns</HD>
+                <P>The CA IOUs commented that the 2020 Final Rules delayed the EPCA 6- and 7-year lookback periods for energy conservation standards and test procedures, respectively, for dishwashers, clothes washers, and clothes dryers, and created uncertainty in their evaluations. The CA IOUs commented that there is an opportunity to save a significant amount of energy, but the creation of the short-cycle product classes without a testing method to verify product class eligibility or associated energy and water efficiency standards created uncertainty for stakeholders. (CA IOUs, No. 247 at pp. 2-3)</P>
+                <P>
+                    DOE is actively pursuing a robust rulemaking schedule to meet EPCA's 6-and 7- year lookback period requirements for energy conservations standards and test procedures. 
+                    <E T="03">See</E>
+                     notice of proposed rulemaking for the residential and commercial clothes washer test procedure (86 FR 49140 (Sept. 1, 2021)); notice and request for comment on a preliminary analysis of residential clothes washer energy conservation standards (86 FR 53886 (Sept. 29, 2021)); notice and request for comment on a preliminary analysis of consumer clothes dryer standards (86 FR 20327 (Apr. 19, 2021)). DOE notes that the requirements regarding the measurement and reporting of cycle-time would more appropriately be addressed in a test procedure rulemaking and DOE therefore is not addressing such requirements in this final rule.
+                </P>
+                <P>The Joint State AGs, DC, and NYC expressed concern that the 2020 Final Rules have weakened the energy efficiency program by removing standards for important consumer products and creating unjustified product classes, which in turn opened the possibility of similar proposals in the future that could further undermine the program. (Joint State AGs, DC, and NYC, No. 249 at p. 2)</P>
+                <P>As mentioned in section III.B of this document, DOE recognizes that EPCA's expressed purposes for energy and water conservation would be thwarted if the 2020 Final Rules remained in place, as those rules avoided EPCA's restrictions on amending existing standards to permit the short-cycle products to operate with unlimited energy and water use. By finalizing this proposal, DOE will revoke the 2020 Final Rules and ensure that the energy efficiency program fulfills EPCA's purposes.</P>
+                <HD SOURCE="HD1">IV. Conclusion</HD>
+                <P>After careful consideration, DOE is revoking the October 2020 and December 2020 Final Rules that improperly amended standards and is reinstating the prior product classes and applicable standards for residential dishwashers, residential clothes washers, and consumer clothes dryers. The short-cycle residential dishwashers, residential clothes washers, and consumer clothes dryers were all subject to energy conservation standards prior to the 2020 Final Rules. By stating that short-cycle products were no longer subject to energy or water conservation standards, the 2020 Final Rules allowed for unlimited energy and water use by these short-cycle products. DOE was required to satisfy the requirements in EPCA before issuing these amended standards.</P>
+                <P>In addition, DOE has made a policy judgment that EPCA's express purposes of energy and water conservation (42 U.S.C. 6201(4), (5), (8)) would be thwarted if DOE could avoid restrictions on amending existing standards by nominally characterizing a regulatory change in the energy conservation standards applicable to a covered product as something other than an amendment. The 2020 Final Rules contravened EPCA by failing to consider these criteria when the rules amended the existing standards for short-cycle products in the 2020 Final Rules.</P>
+                <P>DOE is not aware of any residential dishwashers, residential clothes washers, or consumer clothes dryers that are certified and sold as short-cycle products at this time. DOE considers the lack of products on the market classified under the short-cycle product definitions and the short time period between 2020 Final Rules and the proposed revocation of those rules by the August 2021 NOPR to indicate a lack of reliance by stakeholders on the short-cycle product class definitions revoked in this final rule.</P>
+                <HD SOURCE="HD1">V. Procedural Issues and Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Orders 12866</HD>
+                <P>The Office of Information and Regulatory Affairs (âOIRAâ) in the Office of Management and Budget (âOMBâ) has waived review of this rule pursuant to Executive Order (âE.O.â) 12866, âRegulatory Planning and Review.â</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires preparation of an initial regulatory flexibility analysis (âIRFAâ) and a final regulatory flexibility analysis (âFRFAâ) for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by E.O. 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (Aug. 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. DOE has made its procedures and policies available on the Office of the General Counsel's website (
+                    <E T="03">www.energy.gov/gc/office-general-counsel</E>
+                    ).
+                </P>
+                <P>DOE reviewed this final rule under the provisions of the Regulatory Flexibility Act and the procedures and policies published on February 19, 2003. As discussed, DOE has concluded that this rule would not have a significant impact on a substantial number of small entities. The factual basis for this certification is as follows:</P>
+                <P>
+                    The Small Business Administration (âSBAâ) considers a business entity to be a small business, if, together with its affiliates, it employs less than a threshold number of workers or earns less than the average annual receipts specified in 13 CFR part 121. The threshold values set forth in these regulations use size standards and codes established by the North American Industry Classification System (âNAICSâ) that are available at: 
+                    <E T="03">www.sba.gov/document/support-table-size-standards.</E>
+                     The threshold number for NAICS classification code 335220, âMajor Household Appliance Manufacturing,â which includes residential dishwasher, residential clothes washer, and consumer clothes dryer manufacturers, is 1,500 employees.
+                </P>
+                <P>
+                    Most of the companies that manufacture residential dishwashers, residential clothes washers, and/or consumer clothes dryers are large multinational corporations. DOE collected data from CCMSâ
+                    <SU>17</SU>
+                    <FTREF/>
+                     and reviewed data from prior rulemakings to identify original equipment manufacturers (âOEMsâ) of the products covered by this rulemaking. DOE then consulted publicly available data, such as individual company websites, and subscription-based market research 
+                    <PRTPAGE P="2687"/>
+                    tools, such as Dun &amp; Bradstreet,
+                    <SU>18</SU>
+                    <FTREF/>
+                     to determine whether they meet the SBA's definition of a âsmall business manufacturerâ. DOE screened out companies that do not offer products covered by this rulemaking, do not meet the definition of a âsmall business,â or are foreign-owned and operated.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âDOE's Compliance Certification Management System database is available at 
+                        <E T="03">www.regulations.doe.gov/certification-data/.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âThe Dun &amp; Bradstreet Hoovers subscription login is available at 
+                        <E T="03">https://app.dnbhoovers.com/.</E>
+                    </P>
+                </FTNT>
+                <P>In response to the August 2021 NOPR, the 60 Plus Association stated that it observed the agency justification for OMB control number 1910-1400 indicates small businesses are impacted by the collection of information and its associated standards. The 60 Plus Association explained that the August 2021 NOPR indicated that the Regulatory Flexibility Act is not triggered and suggested that DOE review this determination. (60 Plus Association, No. 251 at p. 3)</P>
+                <P>In the August 2021 NOPR, DOE initially identified two small domestic OEMs of residential dishwashers and zero small domestic OEMs of residential clothes washers or consumer clothes dryers. DOE also initially determined that there were no compliance or other requirements imposed by the proposed rule on manufacturers, including small businesses. 86 FR 43970, 43974-43975. Upon further review, DOE has amended its small business counts for the products covered under this rulemaking. DOE determined that no small domestic OEMs manufacture residential dishwashers or consumer clothes dryers. DOE confirmed that one small domestic OEM manufactures residential clothes washers.</P>
+                <P>This rulemaking eliminates the product classes for residential clothes washers based on cycle time established in the December 2020 Final Rule. DOE has determined that this final rule would not impose any compliance or other requirements on manufacturers of residential clothes washers, including small businesses, as revoking the December 2020 Final Rule would not eliminate any products on the market.</P>
+                <P>As a result, DOE certifies that this final rule will not have a significant impact on a substantial number of small entities. Accordingly, DOE has not prepared a FRFA for this rule. DOE has transmitted the certification and supporting statement of factual basis to the Chief Counsel for Advocacy of the Small Business Administration for review under 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">C. Review Under the Paperwork Reduction Act of 1995</HD>
+                <P>Manufacturers of covered products/equipment, such as residential dishwashers, residential clothes washers, and consumer clothes dryers, must certify to DOE that their products comply with any applicable energy conservation standards. In certifying compliance, manufacturers must test their products according to the DOE test procedures for residential dishwashers, residential clothes washers, and consumer clothes dryers, including any amendments adopted for those test procedures. DOE has established regulations for the certification and recordkeeping requirements for all covered consumer products and commercial equipment, including residential dishwashers, residential clothes washers, and consumer clothes dryers. 76 FR 12422 (Mar. 7, 2011); 80 FR 5099 (Jan. 30, 2015). The collection-of-information requirement for the certification and recordkeeping is subject to review and approval by OMB under the Paperwork Reduction Act (âPRAâ). This requirement has been approved by OMB under OMB control number 1910-1400. Public reporting burden for the certification is estimated to average 35 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.</P>
+                <P>The 60 Plus Association commented that the August 2021 NOPR did not clarify whether the collection of information for reporting, recordkeeping, or certification requirements obtained necessary OMB approval, as is required by the Paperwork Reduction Act and the corresponding implementing rule. The 60 Plus Association further stated that the OMB approval of 1910-1400 control number operated illegally for a six month period until approval in September 2021, which indicates that what DOE refers to as a necessary approved collection of information received approval just recently. (60 Plus Association, No. 251, p. 2)</P>
+                <P>
+                    DOE notes that the currently approved information collection request that includes consumer dishwashers, residential clothes washers, and consumer clothes dryers (OMB No. 1910-1400) accounts for the certification of these products without regard to cycle-time distinctions and, therefore, reflects the certification of the products previously defined as short-cycle products.
+                    <SU>19</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        â
+                        <E T="03">See</E>
+                         Supporting Statement for Certification Reports, Compliance Statements, Application for a Test Procedure Waiver, and Recording keeping for Consumer Products and Commercial Equipment Subject to Energy or Water Conservation Standards, available at 
+                        <E T="03">www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202102-1910-002.</E>
+                    </P>
+                </FTNT>
+                <P>Notwithstanding any other provision of the law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the PRA, unless that collection of information displays a currently valid OMB Control Number.</P>
+                <HD SOURCE="HD2">D. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>Pursuant to the National Environmental Policy Act of 1969 (âNEPAâ) of 1969, DOE has analyzed this proposed action rule in accordance with NEPA and DOE's NEPA implementing regulations (10 CFR part 1021). DOE has determined that this rule qualifies for categorical exclusion under 10 CFR part 1021, subpart D, appendix A5 because it is an interpretive rulemaking that does not change the environmental effect of the rule and meets the requirements for application of a CX. See 10 CFR 1021.410. Therefore, DOE has determined that promulgation of this rule is not a major Federal action significantly affecting the quality of the human environment within the meaning of NEPA, and does not require an EA or EIS.</P>
+                <HD SOURCE="HD2">E. Review Under Executive Order 13132</HD>
+                <P>
+                    E.O. 13132, âFederalism,â 64 FR 43255 (Aug. 10, 1999), imposes certain requirements on Federal agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735. DOE has examined this final rule and has determined that it would not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. EPCA governs and prescribes Federal preemption of State regulations as to energy conservation for 
+                    <PRTPAGE P="2688"/>
+                    the products that are the subject of this final rule. States can petition DOE for exemption from such preemption to the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 6297) No further action is required by Executive Order 13132.
+                </P>
+                <HD SOURCE="HD2">F. Review Under Executive Order 12988</HD>
+                <P>Regarding the review of existing regulations and the promulgation of new regulations, section 3(a) of E.O. 12988, âCivil Justice Reform,â imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity, (2) write regulations to minimize litigation, (3) provide a clear legal standard for affected conduct rather than a general standard, and (4) promote simplification and burden reduction. 61 FR 4729 (Feb. 7, 1996). Section 3(a), section 3(b) of E.O. 12988 specifically requires that executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the preemptive effect, if any, (2) clearly specifies any effect on existing Federal law or regulation, (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction, (4) specifies the retroactive effect, if any, (5) adequately defines key terms, and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this final rule meets the relevant standards of E.O. 12988.</P>
+                <HD SOURCE="HD2">G. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (âUMRAâ) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and Tribal governments and the private sector. Public Law 104-4, section 201 (codified at 2 U.S.C. 1531). For a regulatory action likely to result in a rule that may cause the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and Tribal governments on a proposed âsignificant intergovernmental mandate,â and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect them. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA. 62 FR 12820. DOE's policy statement is also available at 
+                    <E T="03">https://energy.gov/sites/prod/files/gcprod/documents/umra_97.pdf.</E>
+                </P>
+                <P>DOE examined this final rule according to UMRA and its statement of policy and determined that the rule contains neither an intergovernmental mandate nor a mandate that may result in the expenditures of $100 million or more in any one year, so these requirements do not apply.</P>
+                <HD SOURCE="HD2">H. Review Under the Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 12630</HD>
+                <P>Pursuant to E.O. 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rights,â 53 FR 8859 (Mar. 15, 1988), DOE has determined that this regulation will not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</P>
+                <HD SOURCE="HD2">J. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>
+                    Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for Federal agencies to review most disseminations of information to the public under information quality guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant to OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act (April 24, 2019), DOE published updated guidelines which are available at 
+                    <E T="03">www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf.</E>
+                     DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.
+                </P>
+                <HD SOURCE="HD2">K. Review Under Executive Order 13211</HD>
+                <P>E.O. 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA at OMB, a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgates or is expected to lead to promulgation of a final rule, and that (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the regulation be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use.</P>
+                <P>DOE has concluded that this regulatory action, which would eliminate certain product classes for residential dishwashers, residential clothes washers, and consumer clothes dryers would not have a significant adverse effect on the supply, distribution, or use of energy and, therefore, is not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects on this final rule.</P>
+                <HD SOURCE="HD2">L. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule prior to its effective date. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VI. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <PRTPAGE P="2689"/>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 430</HD>
+                    <P>Administrative practice and procedure, Confidential business information, Energy conservation, Household appliances, Imports, Incorporation by reference, Intergovernmental relations, Small businesses.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the Department of Energy was signed on January 11, 2022, by Kelly J. Speakes-Backman, Principal Deputy Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document with the original signature and date is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE  Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the Department of Energy. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on January 12, 2022.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons set forth in the preamble, DOE amends part 430 of chapter II, subchapter D, of title 10 of the Code of Federal Regulations, to read as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 430âENERGY CONSERVATION PROGRAM FOR CONSUMER PRODUCTS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>1. The authority citation for part 430 continues as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P>42 U.S.C. 6291-6309; 28 U.S.C. 2461 note.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="430">
+                    <AMDPAR>2. Section 430.32 is amended by:</AMDPAR>
+                    <AMDPAR>a. Removing paragraph (f)(1)(iii); and</AMDPAR>
+                    <AMDPAR>b. Revising paragraphs (g)(4) and (h)(3).</AMDPAR>
+                    <P>The revisions read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â430.32 </SECTNO>
+                        <SUBJECT>Energy and water conservation standards and their compliance dates.</SUBJECT>
+                        <STARS/>
+                        <P>(g) * * *</P>
+                        <P>(4) Clothes washers manufactured on or after January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:</P>
+                        <GPOTABLE COLS="3" OPTS="L2,tp0,i1" CDEF="s100,20,20">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Product class</CHED>
+                                <CHED H="1">
+                                    Integrated modified 
+                                    <LI>energy factor</LI>
+                                    <LI>(cu.ft./kWh/cycle)</LI>
+                                </CHED>
+                                <CHED H="1">
+                                    Integrated water factor
+                                    <LI>(gal/cycle/cu.ft.)</LI>
+                                </CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="01">
+                                    (i) Top-loading, Compact (less than 1.6 ftâ
+                                    <SU>3</SU>
+                                     capacity)
+                                </ENT>
+                                <ENT>1.15</ENT>
+                                <ENT>12.0</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (ii) Top-loading, Standard (1.6 ftâ
+                                    <SU>3</SU>
+                                     or greater capacity)
+                                </ENT>
+                                <ENT>1.57</ENT>
+                                <ENT>6.5</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (iii) Front-loading, Compact (less than 1.6 ftâ
+                                    <SU>3</SU>
+                                     capacity)
+                                </ENT>
+                                <ENT>1.13</ENT>
+                                <ENT>8.3</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (iv) Front-loading, Standard (1.6 ftâ
+                                    <SU>3</SU>
+                                     or greater capacity)
+                                </ENT>
+                                <ENT>1.84</ENT>
+                                <ENT>4.7</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <P>(h) * * *</P>
+                        <P>(3) Clothes dryers manufactured on or after January 1, 2015, shall have a combined energy factor no less than:</P>
+                        <GPOTABLE COLS="2" OPTS="L2,tp0,i1" CDEF="s200,20">
+                            <TTITLE>â</TTITLE>
+                            <BOXHD>
+                                <CHED H="1">Product class</CHED>
+                                <CHED H="1">
+                                    Combined energy factor 
+                                    <LI>(lbs/kWh)</LI>
+                                </CHED>
+                            </BOXHD>
+                            <ROW>
+                                <ENT I="01">
+                                    (i) Vented Electric, Standard (4.4 ftâ
+                                    <SU>3</SU>
+                                     or greater capacity)
+                                </ENT>
+                                <ENT>3.73</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (ii) Vented Electric, Compact (120V) (less than 4.4 ftâ
+                                    <SU>3</SU>
+                                     capacity)
+                                </ENT>
+                                <ENT>3.61</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (iii) Vented Electric, Compact (240V) (less than 4.4 ftâ
+                                    <SU>3</SU>
+                                     capacity)
+                                </ENT>
+                                <ENT>3.27</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">(iv) Vented Gas</ENT>
+                                <ENT>3.30</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">
+                                    (v) Ventless Electric, Compact (240V) (less than 4.4 ftâ
+                                    <SU>3</SU>
+                                     capacity)
+                                </ENT>
+                                <ENT>2.55</ENT>
+                            </ROW>
+                            <ROW>
+                                <ENT I="01">(vi) Ventless Electric, Combination Washer-Dryer</ENT>
+                                <ENT>2.08</ENT>
+                            </ROW>
+                        </GPOTABLE>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2022-00833 Filed 1-18-22; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

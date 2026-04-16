@@ -1,0 +1,1151 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 590</CFR>
+                <DEPDOC>[FE Docket No. 17-86-R]</DEPDOC>
+                <RIN>RIN 1901-AB43</RIN>
+                <SUBJECT>Small-Scale Natural Gas Exports</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Fossil Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        The Department of Energy (DOE or the Department) is revising its regulations to provide that DOE will issue an export authorization upon receipt of any complete application that seeks to export natural gas, including liquefied natural gas (LNG), to countries with which the United States has not entered into a free trade agreement (FTA) requiring national treatment for trade in natural gas and with which trade is not prohibited by U.S. law or policy (non-FTA countries), provided that the application satisfies the following two criteria: The application proposes to export natural gas in a volume up to and including 51.75 billion cubic feet (Bcf) per year (Bcf/yr) (equivalent to 0.14 Bcf per day (Bcf/d)), and DOE's approval of the application does not require an environmental impact statement (EIS) or an environmental assessment (EA) under the National Environmental Policy Act of 1969 (NEPA). Applications that satisfy these criteria are requesting authorization for âsmall-scale natural gas exports,â and DOE deems such exports to be consistent with the public interest under the Natural Gas Act (NGA). DOE's regulations regarding 
+                        <PRTPAGE P="35107"/>
+                        notice of applications and procedures conducted on applications do not apply to applications that satisfy these criteria. This regulation is intended to expedite DOE's processing of these applications and reduce administrative burdens for the small-scale natural gas export market.
+                    </P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This final rule is effective August 24, 2018.</P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>Amy Sweeney, U.S. Department of Energy (FE-34), Office of Regulation and International Engagement, Office of Fossil Energy Forrestal Building, Room 3E-042, 1000 Independence Avenue SW, Washington, DC 20585; (202) 586-2627; or Cassandra Bernstein or Ronald (R.J.) Colwell, U.S. Department of Energy (GC-76), Office of the Assistant General Counsel for Electricity and Fossil Energy, Forrestal Building, Room 6D-033, 1000 Independence Ave. SW, Washington, DC 20585; (202) 586-9793 or (202) 586-8499.</P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <P>
+                    <E T="03">Acronyms and Abbreviations.</E>
+                     A number of acronyms and abbreviations are used in this final rule and set forth below for reference.
+                </P>
+                <EXTRACT>
+                    <FP SOURCE="FP-1">AEOâAnnual Energy Outlook</FP>
+                    <FP SOURCE="FP-1">APAâAdministrative Procedure Act</FP>
+                    <FP SOURCE="FP-1">Bcf/dâBillion Cubic Feet per Day</FP>
+                    <FP SOURCE="FP-1">Bcf/yrâBillion Cubic Feet per Year</FP>
+                    <FP SOURCE="FP-1">CNGâCompressed Natural Gas</FP>
+                    <FP SOURCE="FP-1">DOEâDepartment of Energy</FP>
+                    <FP SOURCE="FP-1">EAâEnvironmental Assessment</FP>
+                    <FP SOURCE="FP-1">EIAâU.S. Energy Information Administration</FP>
+                    <FP SOURCE="FP-1">EISâEnvironmental Impact Statement</FP>
+                    <FP SOURCE="FP-1">FEâOffice of Fossil Energy, U.S. Department of Energy</FP>
+                    <FP SOURCE="FP-1">FERCâFederal Energy Regulatory Commission</FP>
+                    <FP SOURCE="FP-1">FTAâFree Trade Agreement</FP>
+                    <FP SOURCE="FP-1">ISOâISO IMO7/TVAC-ASME LNG</FP>
+                    <FP SOURCE="FP-1">LNGâLiquefied Natural Gas</FP>
+                    <FP SOURCE="FP-1">mtpaâMillion Metric Tons per Annum</FP>
+                    <FP SOURCE="FP-1">NEPAâNational Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP-1">NGAâNatural Gas Act of 1938</FP>
+                    <FP SOURCE="FP-2">I. Background</FP>
+                    <FP SOURCE="FP-2">II. Discussion of Final Rule and Response to Comments</FP>
+                    <FP SOURCE="FP1-2">A. Public Interest Determination</FP>
+                    <FP SOURCE="FP1-2">1. General</FP>
+                    <FP SOURCE="FP1-2">2. Scope of Rule</FP>
+                    <FP SOURCE="FP1-2">3. Public Interest Standard</FP>
+                    <FP SOURCE="FP1-2">4. Domestic Supply of Natural Gas</FP>
+                    <FP SOURCE="FP1-2">5. Cumulative Impacts</FP>
+                    <FP SOURCE="FP1-2">6. Economic Impacts</FP>
+                    <FP SOURCE="FP1-2">7. Environmental Issues</FP>
+                    <FP SOURCE="FP1-2">8. Administrative Procedures and Judicial Review Under the Natural Gas Act</FP>
+                    <FP SOURCE="FP1-2">B. Regulatory Criteria</FP>
+                    <FP SOURCE="FP1-2">1. Volume Limitation</FP>
+                    <FP SOURCE="FP1-2">2. Categorical Exclusion From NEPA</FP>
+                    <FP SOURCE="FP1-2">C. Other Issues</FP>
+                    <FP SOURCE="FP-2">III. Regulatory Review</FP>
+                    <FP SOURCE="FP1-2">A. Executive Orders 12866 and 13563</FP>
+                    <FP SOURCE="FP1-2">B. Executive Orders 13771, 13777, and 13783</FP>
+                    <FP SOURCE="FP1-2">C. National Environmental Policy Act</FP>
+                    <FP SOURCE="FP1-2">D. Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">E. Paperwork Reduction Act</FP>
+                    <FP SOURCE="FP1-2">F. Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">G. Treasury and General Government Appropriations Act, 1999</FP>
+                    <FP SOURCE="FP1-2">H. Executive Order 13132</FP>
+                    <FP SOURCE="FP1-2">I. Executive Order 12988</FP>
+                    <FP SOURCE="FP1-2">J. Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">K. Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">L. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">IV. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Background</HD>
+                <P>
+                    The Department of Energy is responsible for authorizing exports of domestically produced natural gas to foreign nations pursuant to section 3 of the NGA, 15 U.S.C. 717b. For applications to export natural gas to non-FTA countries under NGA section 3(a), 15 U.S.C. 717b(a),
+                    <SU>1</SU>
+                    <FTREF/>
+                     DOE has consistently interpreted section 3 of the NGA as creating a rebuttable presumption that a proposed export of natural gas is in the public interest.
+                    <SU>2</SU>
+                    <FTREF/>
+                     Accordingly, DOE will conduct an informal adjudication and grant a non-FTA application unless DOE finds that the proposed exportation will not be consistent with the public interest.
+                    <SU>3</SU>
+                    <FTREF/>
+                     Before reaching a final decision, DOE must also comply with NEPA, 42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âThis final rule does not apply to exports to FTA countries under section 3(c) of the NGA, 15 U.S.C. 717b(c). This final rule also does not affect existing DOE authorizations or DOE's evaluation of any non-FTA application that does not meet the criteria for small-scale natural gas exports.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        â
+                        <E T="03">See Sierra Club</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         867 F.3d 189, 203 (D.C. Cir. 2017) (âWe have construed [NGA section 3(a)] as containing a `general presumption favoring [export] authorization.'ââ) (quoting 
+                        <E T="03">W. Va. Pub. Serv. Comm'n</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         681 F.2d 847, 856 (D.C. Cir. 1982)).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        â
+                        <E T="03">See id.</E>
+                         (âthere must be `an affirmative showing of inconsistency with the public interest' to deny the applicationâ under NGA section 3(a)) (quoting 
+                        <E T="03">Panhandle Producers &amp; Royalty Owners Ass'n</E>
+                         v. 
+                        <E T="03">Econ. Regulatory Admin.,</E>
+                         822 F.2d 1105, 1111 (D.C. Cir. 1987)).
+                    </P>
+                </FTNT>
+                <P>In this final rule, DOE revises its regulations to expedite the application and approval process for âsmall-scaleâ exports of natural gas to non-FTA countries, pursuant to section 3(a) of the NGA. This emerging market involves exports of small volumes of natural gas from the United States to countries primarily in, but not limited to, the Caribbean, Central America, and South America. The small-scale export market has developed as a solution to the practical and economic constraints limiting large-scale natural gas exports to these countries. In contrast to large-scale natural gas exports, small-scale exports typically originate from existing facilities in the United States, are transported shorter distances, and rely on a variety of transportation modes, such as approved ISO IMO7/TVAC-ASME LNG (ISO) containers loaded onto container ships and barges. DOE believes that facilitating small-scale natural gas exports will allow for greater diversity and competition in the natural gas market, consistent with the public interest under NGA section 3(a).</P>
+                <P>
+                    For each small-scale export application submitted to DOE, DOE will first determine if the application is complete under DOE's regulations. If the application is complete, DOE will post the application on DOE's website, consistent with DOE practice. This final rule establishes that, upon receipt of any complete application to export natural gas (including LNG) to non-FTA countries, DOE will grant the application provided that it satisfies the following two criteria: (1) The application proposes to export natural gas in a volume up to and including 51.75 Bcf/yrâ
+                    <SU>4</SU>
+                    <FTREF/>
+                     (10 CFR 590.102(p)(1)); and (2) DOE's approval of the application does not require an EIS or EA under NEPA (10 CFR 590.102(p)(2))âthat is, the application is eligible for a categorical exclusion under DOE's NEPA regulations.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âIn this final rule, DOE is changing the volume criterion from a daily limitation of âup to and including 0.14 Bcf/d,â as stated in the proposed rule, to an annualized limitation of âup to and including 51.75 Bcf/yr.â This change does not affect the total volume, as 0.14 Bcf/d and 51.75 Bcf/yr represent the same amount of natural gas expressed in different terms. DOE has determined that expressing the volume criterion in an annualized figure is both more consistent with industry practice and more practicable for DOE's administration of the small-scale export program.
+                    </P>
+                </FTNT>
+                <P>Any non-FTA application that satisfies these two criteria will qualify as a âsmall-scale natural gas exportâ as that term is defined under this final rule (10 CFR 590.102(p)), and will be deemed to be consistent with the public interest under NGA section 3(a) (10 CFR 590.208(a)). DOE will issue an export authorization granting the application on an expedited basis. Specifically, DOE will not provide notice of each individual application nor apply other procedures typically conducted for non-FTA export applications under DOE's regulations, 10 CFR 590.205 and 10 CFR part 590, subpart C (10 CFR 590.303-10 CFR 590.317).</P>
+                <P>
+                    On September 1, 2017, DOE published the notice of proposed rulemaking (NOPR or proposed rule) to revise its regulations to provide for this expedited approval of small-scale export applications (82 FR 41570; Sept. 1, 2017). Publication of the NOPR began a 45-day public comment period that ended on October 16, 2017. DOE received approximately 85 unique 
+                    <PRTPAGE P="35108"/>
+                    comments on the NOPR from a variety of sources, including natural gas industry groups, environmental organizations, and individuals. The NOPR and comments received on the NOPR can be accessed through DOE's website at 
+                    <E T="03">https://www.energy.gov/fe/articles/notice-proposed-rulemaking-regarding-small-scale-lng-exports.</E>
+                </P>
+                <P>For additional background information on this final rule, please see the proposed rule. In the proposed rule, DOE provides information on DOE's practice of issuing non-FTA export authorizations and the various studies DOE has commissioned to evaluate the reasonably foreseeable economic and environmental impacts of natural gas exportsâincluding those that would qualify as small-scale exports under this final rule.</P>
+                <HD SOURCE="HD1">II. Discussion of Final Rule and Response to Comments</HD>
+                <P>DOE has evaluated the comments received during the public comment period. In this section, DOE discusses the relevant, significant comments received on the proposed rule and provides DOE's responses to those comments. Some commenters raised a variety of other concerns that are outside the scope of the ruleâincluding criticizing individual LNG export projects currently in operation or pending before DOE and questioning the scope of the Federal Energy Regulatory Commission's (FERC) jurisdiction over certain types of LNG export facilities under NGA section 3. DOE does not address these comments in the final rule.</P>
+                <HD SOURCE="HD2">A. Public Interest Determination</HD>
+                <HD SOURCE="HD3">1. General</HD>
+                <P>In issuing this final rule, DOE has determined that small-scale natural gas exports are consistent with the public interest under NGA section 3(a). In reaching this conclusion, DOE has considered its obligations under NGA section 3(a), the public comments received on the proposed rule, and a wide range of information bearing on the public interest, including (but not limited to) information on economic impacts, international impacts, security of domestic natural gas supply, and environmental impacts associated with these exports (82 FR 41573-41574; Sept. 1, 2017).</P>
+                <P>
+                    Additionally, DOE has considered the 29 final non-FTA export authorizations issued to date,
+                    <SU>5</SU>
+                    <FTREF/>
+                     as well as authoritative projections for natural gas supply, demand, and prices set forth in the U.S. Energy Information Administration's (EIA) 
+                    <E T="03">Annual Energy Outlook</E>
+                     2017 (AEO 2017)â
+                    <SU>6</SU>
+                    <FTREF/>
+                     (discussed in the proposed rule) and 
+                    <E T="03">Annual Energy Outlook</E>
+                     2018 (AEO 2018).
+                    <SU>7</SU>
+                    <FTREF/>
+                     With respect to the regulatory criteria established by this rulemaking, DOE considered industry sources in establishing the volume limitation, as well as its obligations under NEPA in establishing the NEPA criterion.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âAs of the date of the proposed rule, DOE had issued 28 final authorizations to export LNG or compressed natural gas (CNG) to non-FTA countries (82 FR 41572). After the proposed rule was published, DOE issued an additional non-FTA export authorization. 
+                        <E T="03">See Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, FE Docket No. 17-79-LNG, Opinion and Order Granting Long-Term, Multi-Contract Authorization to Export Liquefied Natural Gas in ISO Containers Loaded at the Eagle Maxville Facility in Jacksonville, Florida, and Exported by Vessel to Free Trade Agreement and Non-Free Trade Agreement Nations (Sept. 15, 2017). Thus, to date, DOE has issued 29 final export authorizations to non-FTA countries, bringing the cumulative total of approved non-FTA exports of LNG and CNG to 21.35 Bcf/d of natural gas, or 7.79 trillion cubic feet per year. 
+                        <E T="03">See id.</E>
+                         at 34-37.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        âU.S. Energy Info. Admin., 
+                        <E T="03">Annual Energy Outlook</E>
+                         2017 (Jan. 2017), 
+                        <E T="03">available at: https://www.eia.gov/outlooks/archive/aeo17/.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âU.S. Energy Info. Admin., 
+                        <E T="03">Annual Energy Outlook</E>
+                         2018 (Feb. 2018), 
+                        <E T="03">available at: http://www.eia.gov/outlooks/aeo.</E>
+                    </P>
+                </FTNT>
+                <P>In sum, DOE has thoroughly analyzed the many factors affecting the export of U.S. natural gas, as well as the unique characteristics and minimal adverse impacts of the emerging small-scale natural gas market. On this basis (and as discussed in the proposed rule), DOE has determined that the final rule is in accordance with section 3 of the NGA, DOE's interpretation of the public interest standard set forth in NGA section 3(a), and DOE's long-standing policy of minimizing federal control and involvement in energy markets and promoting a balanced and mixed energy resource system. Based on this evidence, 10 CFR 590.208 of the final rule establishes that small-scale natural gas exports, as defined in 10 CFR 590.102(p), are deemed to be consistent with the public interest under NGA section 3(a).</P>
+                <P>Many commenters expressed overall support for DOE's authorization of LNG exports and, specifically, for DOE's efforts to expedite the approval of applications for small-scale natural gas exports to non-FTA countries. Several commenters agreed that small-scale natural gas exports are an important emerging market that DOE should facilitate through a streamlined approval process for qualifying applicants. They commented that small-scale exports will provide a variety of benefits both to the United States and to the anticipated importing countries primarily located in the Caribbean, Central America, and South America. Benefits identified for the United States include stimulating the natural gas market, generating economic growth, strengthening the global natural gas market, and enhancing U.S. national security interests abroad. Benefits identified for the importing countries include expanding natural gas markets and providing access to cleaner and more reliable sources of energy. Commenters also expressed support for DOE's regulatory definition of âsmall-scale natural gas export,â such that qualifying applications are deemed consistent with the public interest; as well as DOE's efforts to reduce regulatory burdens for these applicants. DOE generally agrees with these comments and recognizes the variety of important benefits that are expected to occur under the final rule.</P>
+                <HD SOURCE="HD3">2. Scope of Rule</HD>
+                <P>
+                    Some commenters remarked that this rulemaking is an important step, yet encouraged DOE to liberalize 
+                    <E T="03">all</E>
+                     natural gas exportsânot just qualifying small-scale natural gas exportsâto ensure that the benefits of natural gas exports can be fully realized.
+                </P>
+                <P>
+                    Based on findings from 
+                    <E T="03">The Macroeconomic Impact of Increasing U.S. LNG Exports</E>
+                     (2015 LNG Export Study),
+                    <SU>8</SU>
+                    <FTREF/>
+                     DOE agrees that higher natural gas exports are associated with marginally higher macroeconomic benefits to the United States (82 FR 41572).
+                    <SU>9</SU>
+                    <FTREF/>
+                     This rulemaking focuses only on small-scale natural gas exports to non-FTA countries, in light of the unique characteristics and minimal adverse impacts associated with that market. Insofar as the commenters are suggesting that DOE undertake additional deregulatory efforts under NGA section 3(a), DOE welcomes suggestions, data, and information on this topic through its regulatory reform email inbox at 
+                    <E T="03">Regulatory.Review@hq.doe.gov.</E>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âCenter for Energy Studies at Rice University Baker Institute and Oxford Economics, 
+                        <E T="03">The Macroeconomic Impact of Increasing U.S. LNG Exports</E>
+                         (Oct. 29, 2015), 
+                        <E T="03">available at: http://energy.gov/sites/prod/files/2015/12/f27/20151113_macro_impact_of_lng_exports_0.pdf</E>
+                         [hereinafter 2015 LNG Export Study].
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âOn June 12, 2018, DOE published a notice of availability of the 2018 LNG Export Study and request for comments. 
+                        <E T="03">See</E>
+                         U.S. Dep't of Energy, Study on Macroeconomic Outcomes of LNG Exports, 83 FR 27314 (June 12, 2018).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">3. Public Interest Standard</HD>
+                <P>
+                    Several commenters disagreed with various aspects of DOE's public interest analysis generally. For example, some commenters disagreed with DOE's position that NGA section 3(a) creates a 
+                    <PRTPAGE P="35109"/>
+                    rebuttable presumption that natural gas exports are consistent with the public interest. Some stated that Congress, not DOE, must define âpublic interestâ under section 3(a), whereas other commenters criticized DOE for not providing a regulatory definition of the public interest. Another commenter suggested that applications to export natural gas should be subjected to the same standard, regardless of whether the natural gas is being exported to FTA or non-FTA countries.
+                </P>
+                <P>
+                    As an initial matter, section 3 of the NGA (as amended by section 201 of the Energy Policy Act of 1992 (Pub. L. 102-486)) distinguishes between exports to non-FTA countries under section 3(a) and FTA countries under section 3(c).
+                    <SU>10</SU>
+                    <FTREF/>
+                     These provisions establish different standards of review for proposed exports to FTA and non-FTA countries, and DOE has comported with the appropriate standard of review for the future non-FTA exports at issue in this rulemaking.
+                    <SU>11</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        â
+                        <E T="03">See supra</E>
+                         note 1.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        â
+                        <E T="03">See id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    In every non-FTA authorization to date,
+                    <SU>12</SU>
+                    <FTREF/>
+                     as well as in the proposed rule (82 FR 41571-41572; Sept. 1, 2017), DOE has explained its interpretation of the public interest analysis under NGA section 3(a). The commenters' concerns reflect a lack of familiarity with both the statute and DOE's long-standing practice in evaluating non-FTA applicationsâa practice that was upheld by the U.S. Court of Appeals for the District of Columbia Circuit in a series of cases decided in 2017.
+                    <SU>13</SU>
+                    <FTREF/>
+                     Indeed, the D.C. Circuit has consistently affirmed DOE's interpretation that NGA section 3(a) creates a rebuttable presumption favoring authorization of applications to import or export natural gas.
+                    <SU>14</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        â
+                        <E T="03">See, e.g., Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, at 8-10, 
+                        <E T="03">supra</E>
+                         note 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        â
+                        <E T="03">See Sierra Club</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         867 F.3d 189 (D.C. Cir. 2017) (denying petition for review challenging non-FTA export authorization); 
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         Nos. 16-1186, 16-1252, 16-1253, 703 Fed. Appx. 1 (D.C. Cir. Nov. 1, 2017) (denying petitions for review challenging three non-FTA export authorizations).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        â
+                        <E T="03">See Sierra Club,</E>
+                         867 F.3d at 203; 
+                        <E T="03">see also, e.g., W. Va. Pub. Serv. Comm'n</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         681 F.2d 847 (D.C. Cir. 1982); 
+                        <E T="03">Panhandle Producers and Royalty Owners Ass'n</E>
+                         v. 
+                        <E T="03">Economic Regulatory Admin.,</E>
+                         822 F.2d 1105 (D.C. Cir. 1987); 
+                        <E T="03">Panhandle Producers and Royalty Owners Ass'n</E>
+                         v. 
+                        <E T="03">Economic Regulatory Admin.,</E>
+                         847 F.2d 1168 (1988).
+                    </P>
+                </FTNT>
+                <P>
+                    Although section 3(a) establishes a broad public interest standard and a presumption favoring export authorizations, Congress has not defined the phrase âpublic interestâ or identified specific criteria that must be considered in issuing a non-FTA authorization under that statute. As a result, DOE has identified a range of factors, described above, that it considers when determining whether a proposed export of natural gas is consistent with the public interest. The D.C. Circuit has upheld DOE's non-FTA export authorizations granted on the basis of this public interest evaluation.
+                    <SU>15</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        â
+                        <E T="03">See supra</E>
+                         note 13.
+                    </P>
+                </FTNT>
+                <P>In this rulemaking, DOE has followed its established approach in interpreting NGA section 3(a) to determine that qualifying small-scale natural gas exports are consistent with the public interest after considering all relevant factors (82 FR 41573). There is nothing fundamentally unique about small-scale exports that would alter DOE's analysis of the public interest in this context.</P>
+                <HD SOURCE="HD3">4. Domestic Supply of Natural Gas</HD>
+                <P>Numerous commenters disagreed as to whether the United States has sufficient natural gas supplies to support the expedited approval of small-scale exports under this rule. Some commenters asserted that the United States has sufficient natural gas supplies to meet both increased natural gas exports and increased domestic natural gas demand, as DOE set forth in the proposed rule (82 FR 41573-41574). Other commenters asserted that the United States does not have sufficient natural gas supplies to meet current demand, much less increased demand associated with this rulemaking. One commenter, for example, argued that approvals for natural gas exports to FTA and non-FTA countries combined already exceed 71% of domestic demand, thereby calling into question the sufficiency of U.S. natural gas supplies.</P>
+                <P>First, DOE notes that the volumes authorized for export to FTA and non-FTA countries are not additive to one another. The 71% figure cited by the commenter for âcombined LNG exportsâ fails to acknowledge this fact, which is reflected in DOE's orders. Rather, each authorization grants authority to export the entire volume of a facility to FTA or non-FTA countries, respectively, to provide the authorization holder with maximal flexibility in determining its export destinations.</P>
+                <P>
+                    Next, to date DOE has issued 29 final non-FTA authorizations in a cumulative volume of exports totaling 21.35 Bcf/d of natural gas.
+                    <SU>16</SU>
+                    <FTREF/>
+                     By comparison, approximately 3.5 Bcf/d of capacity has been built and is being utilized, and approximately 7
+                    <E T="03">.5</E>
+                     Bcf/d of additional capacity is under construction.
+                    <SU>17</SU>
+                    <FTREF/>
+                     Industry outlooks, including Reference cases in the last several years of EIA's Annual Energy Outlook, do not foresee long-term LNG exports from the United States exceeding the volume currently authorized for export from non-FTA countries.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        â
+                        <E T="03">See Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, at 34-37, 
+                        <E T="03">supra</E>
+                         note 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        â
+                        <E T="03">See, e.g.,</E>
+                         U.S. Energy Info. Admin., Existing and Under Construction Large Scale U.S. Liquefaction Facilities (June 18, 2018), 
+                        <E T="03">available at: https://www.eia.gov/naturalgas/U.S.liquefactioncapacity.xlsx</E>
+                         (also see Contents tab); Cheniere Energy, Inc., âCheniere Makes Positive Final Investment Decision on Train 3 at the Corpus Christi Liquefaction Projectâ (May 22, 2018), 
+                        <E T="03">available at: http://phx.corporate-ir.net/phoenix.zhtml?c=101667&amp;p=irol-newsArticle&amp;ID=2350302.</E>
+                    </P>
+                </FTNT>
+                <P>By DOE's standard measures of supply, there are adequate natural gas resources to meet demand associated with the final rule. EIA's most recent natural gas estimates of future production, price, and other domestic industry fundamentals set forth in AEO 2017 and AEO 2018 support this conclusion. For example, the AEO 2017 Reference case projection of lower-48 states dry natural gas production in 2035 increased significantly (by 27.9 Bcf/d) as compared with AEO 2011, while the AEO 2018 Reference case projection of that figure was higher still, an increase of 33.8 Bcf/d over AEO 2011. Projections of domestic natural gas consumption in 2035 also increased in both AEO 2017 and AEO 2018, as compared to AEO 2011 (by 11.3 Bcf/d in AEO 2017 and by 13.3 Bcf/d in AEO 2018). Even with higher production and consumption, the 2035 projected natural gas market price in the Reference case declined from $8.04/MMBtu (2017$) in AEO 2011 to $5.20/MMBtu (2017$) in AEO 2017 and to $4.26/MMBtu (2017$) in AEO 2018. The implication of the latest EIA projections in AEO 2017 and AEO 2018 is that a significantly greater quantity of natural gas is projected to be available at a lower cost than was estimated seven years ago.</P>
+                <PRTPAGE P="35110"/>
+                <P>
+                    Proved reserves of natural gasâ
+                    <E T="03">i.e.,</E>
+                     volumes of oil and natural gas that geologic and engineering data demonstrate with reasonable certainty to be recoverable in future years from known reservoirsâalso have been increasing. From 2000 to 2015, proved reserves have increased 73% to 307,730 Bcf, while production has increased only 41% during the same period, demonstrating the growing supply of natural gas available under existing economic and operating conditions.
+                    <SU>18</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âU.S. Energy Info. Admin., 
+                        <E T="03">U.S. Dry Natural Gas Proved Reserves</E>
+                         (Feb. 12, 2018), 
+                        <E T="03">available at: http://www.eia.gov/dnav/ng/ng_enr_dry_dcu_nus_a.htm;</E>
+                         U.S. Energy Info. Admin., 
+                        <E T="03">U.S. Dry Natural Gas Production</E>
+                         (Feb. 12, 2018), 
+                        <E T="03">available at: https://www.eia.gov/dnav/ng/hist/n9070us2a.htm</E>
+                         (additional calculations conducted to produce percentage change and R/P ratios).
+                    </P>
+                </FTNT>
+                <P>
+                    EIA's estimates of technically recoverable reserves point to the availability of domestic natural gas for decades to come. These reserves are resources in accumulations (both proved and unproved) that are producible using current recovery technology but without reference to economic profitability. EIA's estimates of lower-48 natural gas technically recoverable reserves total 1,796 Tcf in AEO 2017.
+                    <SU>19</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        â
+                        <E T="03">See</E>
+                         U.S. Energy Info. Admin., 
+                        <E T="03">Assumptions to the Annual Energy Outlook 2017</E>
+                         (July 2017), Table 9.2. Technically recoverable U.S. dry natural gas resources as of January 1, 2015, at 133, 
+                        <E T="03">available at: https://www.eia.gov/outlooks/aeo/assumptions/pdf/oilgas.pdf (2017).pdf,</E>
+                         and 
+                        <E T="03">Assumptions to the Annual Energy Outlook 2010</E>
+                         (Apr. 2010), Table 9.2. Technically recoverable U.S. natural gas resources as of January 1, 2008, at 111, 
+                        <E T="03">available at: http://www.eia.gov/oiaf/aeo/assumption/pdf/0554(2010).pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Next, the 2014 and 2015 Studies concluded that, for the period of the analysis (through 2040), the United States is projected to have ample supplies of natural gas resources that can meet domestic needs for natural gas and the LNG export market. Further, most projections of domestic natural gas resources extend beyond 20 to 40 years. Although not all technically recoverable resources are currently economical to produce, it is instructive to note that EIA's recent estimate of technically recoverable resources as of January 1, 2015, equates to nearly 66 years of natural gas supply at the 2015 domestic consumption level of 27.24 Tcf.
+                    <SU>20</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        â
+                        <E T="03">See</E>
+                         U.S. Energy Info. Admin., 
+                        <E T="03">Natural Gas Consumption by End Use</E>
+                         (Feb. 12, 2018), 
+                        <E T="03">available at: http://www.eia.gov/dnav/ng/ng_cons_sum_dcu_nus_a.htm.</E>
+                    </P>
+                </FTNT>
+                <P>Based upon this record evidence and the discussion in the proposed rule, DOE finds that the small-scale exports will not adversely affect the availability of natural gas supplies to domestic consumers, such as would negate the net economic benefits to the United States.</P>
+                <HD SOURCE="HD3">5. Cumulative Impacts</HD>
+                <P>Several commenters asserted that DOE must account for cumulative impacts in various ways as part of its public interest determination for this final rule. Some commenters urged DOE to provide a âcapâ or other language in the final rule to halt automatic approval of small-scale exports if the cumulative volume of exports exceeds the scope of existing cumulative impact analyses (which the commenters acknowledge is 28 Bcf/d of exports based on the 2015 LNG Export Study, 82 FR 41572), or if other circumstances arise that would render these exports inconsistent with the public interest. Commenters suggested, for example, that DOE should cease approval of small-scale export applications if the United States loses its competitive price advantage in exporting LNG, or if exporting natural gas above a certain volume would have negative economic impacts or threaten the security of domestic natural gas supplies. Other commenters expressed concern that U.S. natural gas production could not meet âunlimitedâ LNG exports as might occur under the proposed rule, and therefore urged DOE to implement a âsafety netâ in the rule allowing DOE to halt approvals of small-scale applications.</P>
+                <P>
+                    DOE declines to adopt a mechanism in the final rule that would automatically halt approvals of small-scale applications if the cumulative volume of approvals exceeds the scope of DOE's cumulative impact analyses to date. The 2015 Study considered export volumes ranging from 12 to 20 Bcf/d of natural gas, as well as a high resource recovery case examining export volumes up to 28 Bcf/d of natural gas. By comparison, to date DOE has issued final non-FTA authorizations in a cumulative volume of exports totaling 21.35 Bcf/d of natural gasâ
+                    <SU>21</SU>
+                    <FTREF/>
+                    âwell below the 28 Bcf/d case considered in the 2015 Study. DOE already assesses the cumulative impacts of each succeeding request for export authorization on the public interest with due regard to the effect on domestic natural gas supply and demand fundamentals. DOE will continue to do so for non-small-scale export applications (
+                    <E T="03">i.e.,</E>
+                     applications requesting an export volume greater than 51.75 Bcf/yr), which constitute both 99% of the non-FTA LNG export volumes authorized to date and 99% of the LNG export volumes requested in non-FTA applications currently pending before DOE.
+                    <SU>22</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        â
+                        <E T="03">See Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, at 34-37, 
+                        <E T="03">supra</E>
+                         note 5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        âU.S. Dep't of Energy, Office of Fossil Energy, 
+                        <E T="03">Summary of LNG Export Applications of the Lower 48 States Annual Energy Outlook 2017</E>
+                         (Feb. 14, 2018), 
+                        <E T="03">available at: https://energy.gov/fe/downloads/summary-lng-export-applications-lower-48-states</E>
+                        .
+                    </P>
+                </FTNT>
+                <P>
+                    For this final rule, DOE has determined that domestic supplies of natural gas will be adequate to supply small-scale exports of natural gas while meeting domestic demand. In so doing, DOE considered the economic impacts of higher natural gas prices, potential increases in natural gas price volatility, and the security of domestic natural gas supplies, among other factors. DOE also explained that the prospect of âunlimitedâ exports of U.S. natural gas is not realistic, as discussed in the 2015 LNG Export Study.
+                    <SU>23</SU>
+                    <FTREF/>
+                     The authors of the 2015 Study had to include several assumptions about the global natural gas market for U.S. LNG exports to exceed 12 Bcf/d, and include far less likely assumptions to reach the high resource recovery case of 28 Bcf/d of exports. Further, as DOE has observed in prior orders, receiving a non-FTA authorization from DOE does not guarantee that a particular facility will be financed and built; nor does it guarantee that, if built, market conditions would continue to favor exports once the facility is operational.
+                    <SU>24</SU>
+                    <FTREF/>
+                     For more information on DOE's LNG export studies and DOE's conclusions regarding these public interest factors, please see the proposed rule (82 FR 41571-41574; Sept. 1, 2017).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âThe 2015 LNG Export Study included scenarios in which LNG exports were unconstrained. These scenarios indicated that, should the U.S. resource base be less robust and more expensive than anticipated, U.S. LNG exports would be less competitive in the world market, thereby resulting in lower export levels from the United States. Further, in all of the unconstrained scenarios, the supply and price response to LNG exports did not negate the net economic benefit to the economy from the exports.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        â
+                        <E T="03">See, e.g., Golden Pass Products LLC,</E>
+                         DOE/FE Order No. 3978, FE Docket No. 12-156-LNG, Opinion and Order Granting Long-Term, Multi-Contract Authorization to Export Liquefied Natural Gas by Vessel from the Golden Pass LNG Terminal Located in Jefferson County, Texas, to Non-Free Trade Agreement, at 148 (Apr. 25, 2017).
+                    </P>
+                </FTNT>
+                <P>
+                    As to the commenter's concern that the global natural gas market for U.S. LNG exports could change in the future, DOE notes that the 2015 LNG Export Study included several assumptions about the global market for the time period covering 2015 to 2040. Nonetheless, DOE's long-standing policy is to minimize federal control and involvement in energy markets (82 FR 41571, 41574), such that even a change in the competitive status of U.S. LNG globally would not affect DOE's 
+                    <PRTPAGE P="35111"/>
+                    approval of small-scale natural gas exports as set forth in this final rule.
+                </P>
+                <P>Next, commenters stated that the proposed rule is deficient because DOE has neither: (i) Attempted to predict the potential cumulative size of the U.S. small-scale export market, nor (ii) identified the potential LNG demand in the importing Caribbean, Central American, and South American countries that are the target of this rule.</P>
+                <P>DOE explained in the proposed rule that foreign demand for imports of U.S. natural gas has increased as many countries, such as those in the Caribbean, Central America, and South America, seek to import cleaner sources of energy. Based on the record evidence and the small volumes at issue in this rulemaking, DOE has determined that domestic supplies of natural gas will be adequate both to meet domestic needs and to supply small-scale exports of natural gas (82 FR 41572-41574). We therefore disagree with the comment that DOE was required to consider projections of the potential cumulative size of the U.S. small-scale market and/or the market demand of the importing regions among the many factors evaluated as part of its public interest determination.</P>
+                <HD SOURCE="HD3">6. Economic Impacts</HD>
+                <P>Several commenters agreed with DOE's position that small-scale natural gas exports will not lead to a detectable impact on domestic natural gas prices (82 FR 41574), whereas other commenters disputed this position. The dissenting commenters expressed concern that this rulemaking will increase exports of U.S. natural gas (including LNG), leading to increases in natural gas prices. They further argued that even very small increases in natural gas prices are likely to lead to the loss of employment in energy-intensive industries. In sum, they asserted that, if there are any economic or job-creation impacts associated with this final rule, these impacts are likely to be negative.</P>
+                <P>
+                    First, as discussed in the proposed rule, the 2014 and 2015 LNG Export Studiesâ
+                    <SU>25</SU>
+                    <FTREF/>
+                     projected the economic impacts of LNG exports in a range of scenarios, including scenarios that exceeded the current amount of LNG exports authorized in the final non-FTA export authorizations to date. The 2015 LNG Export Study concluded that LNG exports at these levels (in excess of 12 Bcf/d of natural gas) would result in higher U.S. natural gas prices, but that these price changes would remain in a relatively narrow range across the scenarios studied. However, even with these estimated price increases, the 2015 LNG Export Study found that the United States would experience net economic benefits from increased LNG exports in all cases studied.
+                    <SU>26</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        âU.S. Energy Info. Admin., 
+                        <E T="03">Effect of Increased Levels of Liquefied Natural Gas Exports on U.S. Energy Markets</E>
+                         (Oct. 2014), 
+                        <E T="03">available at: https://www.eia.gov/analysis/requests/fe/pdf/lng.pdf</E>
+                         [hereinafter 2014 LNG Export Study]; 2015 LNG Export Study, 
+                        <E T="03">supra</E>
+                         note 8; 
+                        <E T="03">see also</E>
+                         82 FR 41571-41572 (Sept. 1, 2017).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        â
+                        <E T="03">See</E>
+                         2015 LNG Export Study, 
+                        <E T="03">supra</E>
+                         note 8, at 82.
+                    </P>
+                </FTNT>
+                <P>
+                    Next, for the proposed rule, DOE reviewed EIA's AEO 2017. The Reference case of this projection includes the effects of the Clean Power Plan (CPP) final rule,
+                    <SU>27</SU>
+                    <FTREF/>
+                     which was intended to reduce carbon emissions from the power sector. DOE assessed AEO 2017 to evaluate any differences from AEO 2014, which formed the basis for the 2014 LNG Export Study.
+                    <SU>28</SU>
+                    <FTREF/>
+                     Comparing key results from 2040 (the end of the projection period in Reference case projections from AEO 2014) shows that the latest Reference case Outlook foresees lower-48 market conditions that would be even more supportive of LNG exports, including higher production and demand coupled with notably lower prices. Results from EIA's AEO 2017 no-CPP case, which is the same as the Reference case but does not include the CPP, are also more supportive of LNG exports on the basis of higher production with lower prices relative to AEO 2014.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        âU.S. Envtl. Prot. Agency, Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units; Final Rule, 80 FR 64662 (Oct. 23, 2015). On February 9, 2016, the U.S. Supreme Court issued a stay of the effectiveness of the CPP final rule pending review by the U.S. Court of Appeals for the District of Columbia Circuit in consolidated cases challenging the rule. See 
+                        <E T="03">Chamber of Commerce, et al.</E>
+                         v. 
+                        <E T="03">EPA, et al.,</E>
+                         No. 15A787, Order in Pending Case (U.S. Feb. 9, 2016). The litigation over the CPP final rule pending in the D.C. Circuit has been held in abeyance as the U.S. Environmental Protection Agency (EPA) reviews the rule. 
+                        <E T="03">See West Virginia, et al.</E>
+                         v. 
+                        <E T="03">EPA, et al.,</E>
+                         Case Nos. 15-1363 
+                        <E T="03">et al.,</E>
+                         EPA Status Report, at 3 (D.C. Cir. June 1, 2018). On October 10, 2017, EPA issued a notice proposing to repeal the CPP final rule. U.S. Envtl. Prot. Agency, Repeal of Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units; Proposed Rule, 82 FR 48035 (Oct. 16, 2017). That rulemaking is on-going, and EPA has asked for the consolidated cases to remain in abeyance pending the conclusion of the rulemaking. 
+                        <E T="03">See</E>
+                         EPA Status Report at 4-5.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        â
+                        <E T="03">See</E>
+                         2014 LNG Export Study, 
+                        <E T="03">supra</E>
+                         note 25 (discussed in the proposed rule at 82 FR 41571-41572; Sept. 1, 2017).
+                    </P>
+                </FTNT>
+                <P>For the year 2040, the AEO 2017 Reference case anticipates 3% more natural gas production in the lower-48 than AEO 2014. It also projects an average Henry Hub natural gas price that is lower than AEO 2014 by 38% in 2017$. In the AEO 2017 no-CPP case, for the year 2040, lower-48 production is 2% higher than in AEO 2014, with the price differential being approximately the same. Both higher production and lower prices in both AEO 2017 cases illustrate a market environment supportive of LNG exports.</P>
+                <P>On February 6, 2018, EIA issued AEO 2018. For this final rule, DOE has considered AEO 2018 to determine whether EIA's most recent projections present any material difference in terms of price impacts. AEO 2018, which does not include the CPP in its Reference case, is even more supportive of exports than AEO 2017 and AEO 2014, showing Henry Hub prices of $4.50 in 2040, which is 46% lower than AEO 2014 and 13% lower than AEO 2017 in 2017$. Production levels are also increased in 2040 in AEO 2018 over AEO 2014 and AEO 2017âwith AEO 2018 showing lower-48 dry production at 109.1 Bcf/d over lower-48 production levels of 99.7 and 102.5 in AEO 2014 and 2017, respectively, as shown in the table below.</P>
+                <GPOTABLE COLS="5" OPTS="L2,tp0,i1" CDEF="s50,12,12,12,12">
+                    <TTITLE>â</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">â</CHED>
+                        <CHED H="1">
+                            AEO 2014
+                            <LI>reference</LI>
+                            <LI>case</LI>
+                        </CHED>
+                        <CHED H="1">
+                            AEO 2017
+                            <LI>reference</LI>
+                            <LI>case</LI>
+                        </CHED>
+                        <CHED H="1">
+                            AEO 2017
+                            <LI>reference</LI>
+                            <LI>case without</LI>
+                            <LI>clean power</LI>
+                            <LI>plan</LI>
+                        </CHED>
+                        <CHED H="1">
+                            AEO 2018
+                            <LI>reference</LI>
+                            <LI>case</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Henry Hub Prices in 2040 (in 2017$)</ENT>
+                        <ENT>$8.27</ENT>
+                        <ENT>$5.18</ENT>
+                        <ENT>$5.01</ENT>
+                        <ENT>$4.50</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Lower-48 Production (Bcf/d) in 2040</ENT>
+                        <ENT>99.7</ENT>
+                        <ENT>102.5</ENT>
+                        <ENT>101.6</ENT>
+                        <ENT>109.1</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    In sum, the conclusion of the 2015 LNG Export Study is that the United States will experience net economic benefits from issuance of authorizations to export domestically produced LNG. The 2015 LNG Export Study projected that an increase in U.S. natural gas exports will generate small declines in output at the margin for some energy-
+                    <PRTPAGE P="35112"/>
+                    intensive, trade-exposed industries, but that negative impacts in energy-intensive sectors will be offset by positive impacts (82 FR 41572; Sept 1, 2017).
+                </P>
+                <P>
+                    DOE has reviewed both the evidence in the record and relevant precedent, and has not found evidence to support the commenters' claims of negative economic impact. Nor have those commenters presented sufficient evidence to support their assertions of economic harm.
+                    <SU>29</SU>
+                    <FTREF/>
+                     On this basis, DOE concludes that small-scale natural gas exports are expected to generate positive economic benefits in the United States through direct and indirect job creation, increased economic activity, tax revenues, and improved U.S. balance of trade.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>29</SU>
+                        âSome commenters criticized the LNG export studies commissioned by DOE and cited in the proposed rule (82 FR 41571-41572; Sept. 1, 2017), including the 2014 and 2015 LNG Export Studies. They argued, for example, that these macroeconomic studies are flawed in various respects and have been refuted by peer-reviewed evidence. DOE notes, however, that each of those studies was published in the 
+                        <E T="04">Federal Register</E>
+                        . DOE received comments on each studyâincluding on their models, assumptions, and designâand responded to the comments in other proceedings. Based upon the record evidence, DOE determined that these studies are fundamentally sound. 
+                        <E T="03">See, e.g., Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, at 27-28, 
+                        <E T="03">supra</E>
+                         note 5. Accordingly, criticisms of DOE's macroeconomic studies are outside the scope of this rulemaking.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">7. Environmental Issues</HD>
+                <P>In reviewing the potential environmental impacts of the proposed rulemaking, DOE has considered both its obligations under NEPA (discussed in Section II.B.2) and its obligation under NGA section 3(a) to ensure that the proposal is not inconsistent with the public interest.</P>
+                <P>In the context of NGA section 3(a), several commenters contended that this rulemaking is inconsistent with the public interest on environmental grounds. According to these commenters, expediting the approval of small-scale natural gas exports will lead to increased natural gas production and transmission which, in turn, will result in negative environmental impacts. They cite, for example, the possibility of accelerated climate change and increased greenhouse gas emissions, both in the United States and in the importing countries, as a result of these increased small-scale exports. These commenters contend that, rather than facilitating small-scale exports, DOE should closely scrutinize or ban natural gas exports to non-FTA countries altogether.</P>
+                <P>
+                    As discussed in Section II.B.2 and in the proposed rule, qualifying applications for small-scale exports must not require an environmental impact statement (EIS) or an environmental assessment (EA) under NEPA. That is, the application must be eligible for a categorical exclusion. Further, DOE has determinedâand the D.C. Circuit has agreedâ
+                    <SU>30</SU>
+                    <FTREF/>
+                    âthat NEPA does not require consideration of induced âupstreamâ natural gas production related to increased natural gas production, contrary to the commenters' assertions.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>30</SU>
+                        â
+                        <E T="03">See Sierra Club</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         867 F.3d 189, 201-02 (D.C. Cir. 2017).
+                    </P>
+                </FTNT>
+                <P>Specifically, DOE determined that the current rapid development of natural gas resources in the United States will continue, with or without the export of natural gas to non-FTA nations. DOE also found that fundamental uncertainties constrain its ability to foresee and analyze with any particularity the incremental natural gas production that may be induced by permitting exports of LNG (or CNG) to non-FTA countriesâwhether from unconventional shale gas formations or otherwise. Nevertheless, a decision by DOE to authorize exports to non-FTA countriesâincluding the small-scale exports at issue hereâcould accelerate that development by some increment.</P>
+                <P>
+                    For these reasons, and because DOE previously had received comments regarding the potential environmental impacts associated with unconventional production, DOE produced a document in 2014 entitled 
+                    <E T="03">Addendum to Environmental Review Documents Concerning Exports of Natural Gas from the United States</E>
+                     (Addendum), and made it available for public comment.
+                    <SU>31</SU>
+                    <FTREF/>
+                     The Addendum takes a broad look at unconventional natural gas production in the United States, with chapters covering water resources (including water quantity and quality), air quality, greenhouse gas emissions, induced seismicity, and land use.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>31</SU>
+                        âU.S. Dep't of Energy, Addendum to Environmental Review Documents Concerning Exports of Natural Gas From the United States, 79 FR 48132 (Aug. 15, 2014), 
+                        <E T="03">available at: http://energy.gov/fe/addendum-environmental-review-documents-concerning-exports-natural-gas-united-states</E>
+                         [hereinafter Addendum]. DOE takes administrative notice of the Addendum in this proceeding.
+                    </P>
+                </FTNT>
+                <P>
+                    The Addendum shows that there are potential environmental issues associated with unconventional natural gas production as a whole that need to be carefully managed, especially with respect to emissions of volatile organic compounds and methane, and the potential for groundwater contamination. These environmental concerns do not lead DOE to conclude, however, that the proposed small-scale exports of natural gas are not in the public interest and/or should be prohibited. Rather, DOE believes the public interest is better served by addressing these concerns directlyâthrough federal, state, or local regulation, or through self-imposed industry guidelines where appropriateârather than by prohibiting exports of natural gas. Unlike DOE, environmental regulators have the legal authority to impose requirements on natural gas production that appropriately balance benefits and burdens, and to update these regulations from time to time as technological practices and scientific understanding evolve. Declining to approve (or to expedite) small-scale natural gas exports would cause the United States to forego the economic and international benefits discussed herein, but would have little more than a small, incremental impact on the environmental issues identified by these commenters. This is particularly true becauseâas the Addendum illustratesâDOE is unable to predict at a local level where any additional natural gas production would occur and in what quantity to support the small-scale exports.
+                    <SU>32</SU>
+                    <FTREF/>
+                     For these reasons, we conclude that the environmental concerns associated with natural gas production do not establish that the small-scale exports at issue in this rulemaking are inconsistent with the public interest. We also note that DOE's legal analysis in this regard has been upheld by the D.C. Circuit in the context of four different non-FTA authorizations together approving far more significant volumes of U.S. LNG for export.
+                    <SU>33</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>32</SU>
+                        â
+                        <E T="03">See, e.g., Golden Pass Products LLC,</E>
+                         DOE/FE Order No. 3978, 
+                        <E T="03">supra</E>
+                         note 24, at 147-49.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>33</SU>
+                        â
+                        <E T="03">See Sierra Club,</E>
+                         867 F.3d at 198-200 (upholding DOE's conclusion that, 
+                        <E T="03">inter alia,</E>
+                         there was not sufficiently specific information to identify where incremental natural gas production would occur at the local level); 
+                        <E T="03">Sierra Club</E>
+                         v. 
+                        <E T="03">U.S. Dep't of Energy,</E>
+                         Nos. 16-1186, 16-1252, 16-1253, 703 Fed. Appx. 1, *2 (D.C. Cir. Nov. 1, 2017) (same).
+                    </P>
+                </FTNT>
+                <P>
+                    Next, one commenter questioned whether small-scale exports will, in fact, facilitate the transition of importing countries away from the use of diesel and fuel oil, and argued that DOE has not provided sufficient evidence of this displacement to justify the final rule. We emphasize that foreign demand for U.S. natural gas has increased as countries in the Caribbean, Central America, and South America seek to import cleaner sources of energy. DOE further observes that many of these countries are currently dependent on diesel and/or fuel oil for their generation needs. These energy needs are challenging from both a cost- and emissions-perspective. By importing 
+                    <PRTPAGE P="35113"/>
+                    LNG from the United States, these countries will have access to a more reliable, cost-effective supply of energy that also has emissions benefits over current energy sources. Small-scale natural gas exports will fulfill an important need for natural gas in importing countries that often lack the customer demand, waterway infrastructure, and transmission infrastructure necessary to handle large quantities of natural gas and large LNG carriers.
+                </P>
+                <P>Additionally, increased diversity of fuel supplies and sources used for generating electricity are expected to make these importing countries more, not less, resilient against energy outages after hurricanes, earthquakes, and other natural disasters. At the same time, the United States will facilitate stronger relationships with these importing countries, while promoting U.S. leadership in the global energy market. In sum, the commenter's argument as to DOE's lack of âevidenceâ of this expected transition to U.S. natural gas misconceives DOE's public interest analysis and seeks to impose a burden of proof where none exists, although DOE anticipates numerous environmental benefits to the importing countries from this rulemaking.</P>
+                <P>Finally, some commenters argued that DOE should be focused on encouraging renewable sources of energy, rather than facilitating exports of natural gas through this rulemaking. They asserted that renewable sources of energy are more environmentally friendly than natural gas, whereas (in their view) the proposed exports of natural gas are not in the public interest. DOE notes, however, that imports of U.S. LNG can work in concert with the development of renewable generation in importing countries. Imported natural gas can provide reliable standby energy supply available immediately, while renewable development is occurring. Imported LNG also can provide continued reliability to enhance solar or other renewable sources once they are developed. For these reasons, small-scale natural gas exports approved under this rule may provide indirect benefits to the use of renewable energy in importing countries.</P>
+                <HD SOURCE="HD3">8. Administrative Procedures and Judicial Review Under the Natural Gas Act</HD>
+                <P>Some commenters argued that DOE cannot, in interpreting the phrase âin the public interestâ in NGA section 3(a), remove public notice and comment procedures for individual small-scale export applications. According to these commenters, the phrase âopportunity for hearingâ in NGA section 3(a) means that members of the public must be afforded the opportunity to present evidence to DOE regarding each non-FTA export application on a case-by-case basis. These commenters expressed concern that the proposed rule would frustrate the design of the NGA by eliminating the opportunity for public comment on individual small-scale applications.</P>
+                <P>Some commenters also asserted that the final rule is inconsistent with the NGA's judicial review provisions set forth in NGA section 19 (15 U.S.C. 717r) and the implementing regulation (10 CFR 590.501(a)). They argued that these judicial review provisions are available only to a âpartyâ to a proceeding, yet under the proposed rule, there would be no clear way for a member of the public to intervene in an individual small-scale application proceeding and become a party to that proceeding. In their view, absent the availability of this remedy, judicial review would be provided by the Administrative Procedure Act (APA) (5 U.S.C. 704) and thus lie in the district courtsâcreating tension with the NGA's intent to provide for direct review in the federal courts of appeals under NGA section 19(b).</P>
+                <P>
+                    As to the administrative concerns, we note that under NGA section 3(a), the Secretary of Energy âshallâ issue an order upon application unless, after âopportunity for hearing,â DOE finds that the proposed export will not be consistent with the public interest.
+                    <SU>34</SU>
+                    <FTREF/>
+                     Section 3(a) does not require adjudication of applications to be determined âon the record after opportunity for a hearingâ under the APA.
+                    <SU>35</SU>
+                    <FTREF/>
+                     That type of statutory language imposes the need for a formal adjudication under the APA. Section 3(a) also does not require the individual adjudication of each application. The statutory language in NGA section 3(a)ââopportunity for hearingââallows DOE to conduct an informal (rather than a formal) adjudication and affords DOE broad discretion to determine that the notice and public comment period on the proposed rule constitutes the notice and opportunity for comment on all prospective small-scale natural gas export applications. In this proceeding, DOE sought public comment on the proposed rule for a 45-day period and received comments from a variety of stakeholders and interested persons. DOE has reviewed the comments and taken them into consideration in this final rule. Therefore, DOE disagrees that expediting the review and approval process for qualifying small-scale natural gas applications under 10 CFR 590.208(a) would frustrate the design of NGA section 3(a). Rather, DOE believes it is has provided sufficient process under the APA to determine that all prospective small-scale natural gas export applicationsâif meeting the qualifying criteriaâare in the public interest.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>34</SU>
+                        â15 U.S.C. 717b(a).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>35</SU>
+                        â5 U.S.C. 554.
+                    </P>
+                </FTNT>
+                <P>
+                    As to the judicial review comments, to the extent that small-scale export authorizations are reviewable, NGA section 19(b) vests exclusive jurisdiction in the appropriate federal court of appeals.
+                    <SU>36</SU>
+                    <FTREF/>
+                     A federal district court thus would lack jurisdiction over the dispute.
+                    <SU>37</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>36</SU>
+                        âNGA section 19(b) states that â[a]ny party to a proceeding under this chapter aggrieved by an order issued by the Commission in such proceeding may obtain a review of such order in the court of appeals of the United States for any circuit wherein the natural-gas company to which the order relates is located or has its principal place of business, or in the United States Court of Appeals for the District of Columbia . . . . [S]uch court shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to affirm, modify, or set aside such order in whole or in part.â 15 U.S.C. 717r(b).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>37</SU>
+                        â
+                        <E T="03">See, e.g., Sierra Club,</E>
+                         867 F.3d at 202 (citing 15 U.S.C. 717r(b)).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Regulatory Criteria</HD>
+                <P>In the final rule, DOE establishes a regulatory definition for âsmall-scale natural gas export,â to be codified at 10 CFR 590.102(p). Under this provision, a small-scale natural gas export is any export of natural gas to non-FTA nations, provided that the application for the export authority satisfies both the volume and NEPA criteria identified in 10 CFR 590.102(p)(1) and (2).</P>
+                <HD SOURCE="HD3">1. Volume Limitation</HD>
+                <P>10 CFR 590.102(p)(1) establishes the volume limitation for small-scale natural gas exports. Under this criterion, a qualifying application must propose to export natural gas in a volume up to and including 51.75 Bcf/yrâan annualized figure that corresponds to the 0.14 Bcf/d volume criterion proposed by DOE. In the proposed rule, DOE stated that this volume criterion is consistent with industry practice for the emerging small-scale export market, but invited comment on any other appropriate volume limitation (82 FR 41573; Sept. 1, 2017).</P>
+                <P>
+                    Some commenters generally disagreed with this volume criterion, asserting that exports up to and including 0.14 Bcf/d (51.75 Bcf/yr) are substantial and cannot reasonably be considered âsmall scale.â These commenters, however, neither presented evidence supporting their claims in the context of small-scale natural gas exports nor suggested a 
+                    <PRTPAGE P="35114"/>
+                    different volume limitation they believe to be more appropriate. As explained in the proposed rule, DOE based the volume criterion on industry standards that define âsmall-scale LNGâ as 1.0 million metric tons per annum (mtpa) or lower (82 FR 41573 note 21). Using DOE's conversion factor to convert mtpa of LNG to Bcf of natural gas (82 FR 41573), this amount equates to a volume of 0.14 Bcf/d, or 51.75 Bcf/yr, of natural gas. On this basis, DOE believes that it is reasonable to define small-scale natural gas exports as any export of natural gas up to and including a volume of 51.75 Bcf/yr.
+                </P>
+                <P>One commenter expressed concern that the volume criterion is too large for a single project. This commenter pointed out that, of DOE's seven non-FTA export authorizations identified in the proposed rule as falling under this volume threshold (82 FR 41572), the volumes authorized in those orders were, in fact, smaller than 0.14 Bcf/d even if all of the volumes are combined. Specifically, the commenter states that the proposed volume criterion is approximately 25% larger than the combined total of those seven authorizationsâ0.14 Bcf/d for a single project, as opposed to a combined 0.112 Bcf/d for the seven authorizations identified in the proposed rule.</P>
+                <P>
+                    The seven authorizations identified in the proposed rule were not intended to suggest a limiting parameter for this rulemaking. Rather, they provide context in showing small-scale LNG export authorizations previously issued by DOEâparticularly as compared to the large-scale LNG export authorizations issued by DOE in volumes up to and exceeding 2.0 Bcf/d of natural gas for a single project.
+                    <SU>38</SU>
+                    <FTREF/>
+                     As discussed above, DOE proposed the volume criterion for this rulemaking based on industry sources that mark the boundary between large-scale and small-scale exports at 1 mtpa (82 FR 41573 note 21)âequivalent to the 51.75 Bcf/yr volume criterion in this final rule. DOE sees no basis to depart from this volume limitation on the basis of the information presented in the comments.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>38</SU>
+                        â
+                        <E T="03">See Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, 
+                        <E T="03">supra</E>
+                         note 5, at 34-37 (identifying DOE's 29 final non-FTA authorizations for LNG and CNG issued to date).
+                    </P>
+                </FTNT>
+                <P>The same commenter argued that the proposed rule is overbroad insofar as it may apply in export circumstances beyond those identified by DOE as justifying the rule. The commenter therefore urged DOE to expand the mandatory criteria for small-scale exports to include specific export characteristics beyond the volume criterionâsuch as the exporter's use of ISO containers or other non-traditional transport, destination countries in specific regions, and evidence that the exports will displace diesel or fuel oil in the importing markets. DOE has considered this proposal but sees no reason to unnecessarily confine the development of the small-scale export market by adding criteria that are, in fact, already market-driven.</P>
+                <P>As explained in the proposed rule, many of the countries in the Caribbean, Central America, and South America do not generate enough demand to import the large volumes of natural gas supplied by the large-scale natural gas import/export market. Given these diseconomies of scale, a gap has emerged in the regional natural gas import/export market, and small-scale natural gas exports represent a market-driven response to fill this gap. Because the small-scale market already reflects the specific characteristics identified by the commenter, imposing these characteristics as additional mandatory criteria is unlikely to benefit the public interest or otherwise enhance the objectives or implementation of this final rule. Further, imposing such criteria would be at odds with DOE's long-standing practice of minimizing regulatory impediments to a freely operating market and promoting market competition (82 FR 41571, 41574; Sept. 1, 2017). DOE has concluded that the volume criterion, in addition to the NEPA criterion discussed below, is sufficient in defining and regulating the small-scale export market.</P>
+                <P>Commenters asked DOE whether the proposed rule would allow exporters to submit multiple applications, each below the 0.14 Bcf/d (51.75 Bcf/yr) volume limitation, as a way to expand the authorized export volumes for their facilities without triggering the jurisdiction of FERC or the U.S. Maritime Administration (MARAD) under NEPA. These types of applicationsâcommonly referred to as âdesign increasesâ or expansionsâtypically arise from the improved engineering of proposed or existing LNG facilities that allows for additional LNG production without new construction. Some commenters asked DOE to add language to the final rule that would expressly allow this practice, so as to encourage investment in and innovation at LNG export facilities. Other commenters suggested that this practice, if allowed, would effectively change the nature of this rule by encouraging âsegmentationâ of additional export volumes at large-scale facilities, as opposed to the intended small-scale facilities.</P>
+                <P>DOE declines to add the requested language to this final rule. DOE emphasizes that the final rule is intended to facilitate small-scale exports of natural gas for the reasons discussed herein. This rule does not preclude applicants from applying for more than one authorization for small-scale natural gas exports. Such flexibility may be useful, for example, for authorization holders seeking to export small-scale volumes from different facilities. DOE, however, will not accept requests by authorization holders seeking to combine more than one small-scale export authorization as an indirect means of expanding the DOE-approved export volume from their facility, including from large-scale facilities.</P>
+                <P>
+                    Further, DOE notes that, in the non-FTA export authorizations issued to date, DOE has approved an applicant's export volume from a specific facility (or facilities), based on the approved production (or export) capacity of that facility.
+                    <SU>39</SU>
+                    <FTREF/>
+                     Likewise, approved export volumes for a particular facility under this rule may not, on their own or added together, exceed the maximum approved production (or export) capacity of that facility.
+                    <SU>40</SU>
+                    <FTREF/>
+                     Finally, nothing in this final rule affects the authorities exercised by FERC under the NGA or by MARAD under the Deepwater Port Act.
+                    <SU>41</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>39</SU>
+                        â
+                        <E T="03">See, e.g.,</E>
+                         10 CFR 590.202(b)(1) (requiring applicants to identify the facilities to be utilized or constructed for the proposed export).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>40</SU>
+                        â
+                        <E T="03">See, e.g., Dominion Cove Point LNG, LP,</E>
+                         DOE/FE Order No. 3331-A, FE Docket No. 11-128-LNG, Final Opinion and Order Granting Long-Term, Multi-Contract Authorization to Export Liquefied Natural Gas from the Cove Point LNG Terminal in Calvert County, Maryland, to Non-Free Trade Agreement Nations, at 1-2 (May 7, 2015); 
+                        <E T="03">see also Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, 
+                        <E T="03">supra</E>
+                         note 5, at 37.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>41</SU>
+                        â33 U.S.C. 1501, 
+                        <E T="03">et seq.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2. Categorical Exclusion From NEPA</HD>
+                <P>10 CFR 590.102(p)(2) establishes the NEPA criterion for small-scale natural gas exports. As the second criterion for this final rule, DOE's approval of the application must not require an EIS or EA under NEPAâthat is, the application must be eligible for a categorical exclusion under DOE's NEPA regulations.</P>
+                <P>
+                    As explained in the proposed rule, DOE's environmental review process under NEPA usually results in the preparation or adoption of an EIS or EA describing the potential environmental impacts associated with the application. In some cases, DOE may determine that an application is eligible for a categorical exclusion pursuant to DOE's 
+                    <PRTPAGE P="35115"/>
+                    regulations implementing NEPA, 10 CFR 1021.410, appendices A &amp; B. The categorical exclusion most commonly used in this context is categorical exclusion B5.7 (10 CFR part 1021, subpart D, appendix B5.7), which applies to natural gas import or export activities requiring minor operational changes to existing projects, but no new construction.
+                    <SU>42</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>42</SU>
+                        âThis categorical exclusion states in full: âB5.7 Import or export natural gas, with operational changes: Approvals or disapprovals of new authorizations or amendments of existing authorizations to import or export natural gas under section 3 of the Natural Gas Act that involve minor operational changes (such as changes in natural gas throughput, transportation, and storage operations) but not new construction.â 10 CFR part 1021, subpart D, appendix B5.7.
+                    </P>
+                </FTNT>
+                <P>
+                    This NEPA criterion is very conservative. Based on DOE's experience, this criterion will limit application of this final rule to a small subset of all export applications. For example, of the 29 final non-FTA export authorizations for LNG (and CNG) issued as of the date of this final rule, only seven would meet 
+                    <E T="03">both</E>
+                     the volume and NEPA criteria to qualify as small-scale natural gas exports.
+                    <SU>43</SU>
+                    <FTREF/>
+                     Together, these seven authorizations approve exports in a combined volume of 0.074 Bcf/dârepresenting only 0.35% of the cumulative volume of non-FTA exports approved to date (21.35 Bcf/d of natural gas).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>43</SU>
+                        â
+                        <E T="03">Carib Energy (USA) LLC</E>
+                         (FE Docket No. 11-141-LNG), 0.04 Bcf/d; 
+                        <E T="03">American LNG Marketing LLC</E>
+                         (FE Docket No. 14-209-LNG), 0.008 Bcf/d; 
+                        <E T="03">Floridian Natural Gas Storage Company,</E>
+                         LLC (FE Docket No. 15-38-LNG); 
+                        <E T="03">Air Flow North American Corp.</E>
+                         (FE Docket No. 15-206-LNG, 0.002 Bcf/d; 
+                        <E T="03">Flint Hills Resources, LP</E>
+                         (FE Docket No. 15-168-LNG, 0.01 Bcf/d; 
+                        <E T="03">Carib Energy (USA), LLC</E>
+                         (FE Docket No. 16-98-LNG), 0.004 Bcf/d; and 
+                        <E T="03">Eagle LNG Partners Jacksonville II LLC</E>
+                         (FE Docket No. 17-79-LNG), 0.01 Bcf/d. The 
+                        <E T="03">Carib</E>
+                         and 
+                        <E T="03">Floridian</E>
+                         orders are both 0.04 Bcf/d, yet are not additive to one another because the source of LNG approved under both orders is from the Floridian Facility.
+                    </P>
+                </FTNT>
+                <P>Nonetheless, some of the comments on the proposed rule reflected widespread confusion about the meaning and applicability of a categorical exclusion under NEPA. Several commenters expressed concern that this criterion will result in small-scale natural gas exports that have no environmental protections or oversight because they are not subject to an EIS or EA under NEPA. These commenters asserted that an EA or EIS must be prepared in every instance to consider a variety of perceived risks to the environment, public safety, and public health posed by natural gas exports. In their view, an export application approved by DOE on the basis of a categorical exclusion under NEPA will lead to âunregulatedâ natural gas export facilities and infrastructure.</P>
+                <P>
+                    DOE emphasizes that its determination that a particular application qualifies for a DOE categorical exclusion is the result of a thorough NEPA assessment process. A categorical exclusion does not circumvent or ârelaxâ the NEPA review process (as some commenters suggest) but, in fact, is a means to comply with NEPA. Indeed, categorical exclusions facilitate NEPA by allowing federal agencies to focus their environmental review and resources on actions that could have significant impacts. The Council on Environmental Quality's NEPA regulations provide for categorical exclusions when an agency has identified a âcategory of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency. . .ââ
+                    <SU>44</SU>
+                    <FTREF/>
+                     DOE has made such a determination with respect to categorical exclusion B5.7, Import or Export of Natural Gas, with Operational Changes. Accordingly, there is no basis to conclude that qualifying small-scale exports would originate from âunregulatedâ LNG export facilities lacking sufficient oversight of potential risks to the environment, public safety, and public health.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>44</SU>
+                        â40 CFR 1508.4.
+                    </P>
+                </FTNT>
+                <P>
+                    In determining that an export application is eligible for a categorical exclusion under DOE's NEPA regulations, DOE must not only determine that the application fits within a specific categorical exclusion, but it must also determine that âthere are no extraordinary circumstances related to the proposal that may affect the significance of the environmental effects of the proposal.ââ
+                    <SU>45</SU>
+                    <FTREF/>
+                     For qualifying small-scale natural gas export applications, DOE will satisfy this requirement by conducting an assessment of appropriate environmental-related documents to determine whether there are âextraordinary circumstancesâ associated with the proposed exports. This review includes consideration of potential impacts to property of historic, archeological, or architectural significance; federally-listed threatened or endangered species and their habitat; and wetlands regulated under the Clean Water Act.
+                    <SU>46</SU>
+                    <FTREF/>
+                     To ensure transparency, all categorical exclusions used by DOE to comply with NEPA are made publicly available on DOE's NEPA website.
+                    <SU>47</SU>
+                    <FTREF/>
+                     DOE will follow the same practice for qualifying small-scale natural gas export applications.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>45</SU>
+                        â10 CFR 1021.410(b)(2).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>46</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>47</SU>
+                        â
+                        <E T="03">See</E>
+                         U.S. Dep't of Energy, Office of NEPA Policy and Compliance, Categorical Exclusion (CX) Determinations, 
+                        <E T="03">available at: https://energy.gov/nepa/categorical-exclusion-cx-determinations.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Finally, regardless of whether DOE determines that an application is subject to an EIS, an EA, or is eligible for a categorical exclusion under NEPA, DOE expressly conditions all of its non-FTA authorizations on the authorization holder's ongoing compliance with all preventative and mitigative measures at the facility imposed by federal, state, and/or local agencies.
+                    <SU>48</SU>
+                    <FTREF/>
+                     Small-scale natural gas exports will be subject to the same conditions and oversight.
+                    <SU>49</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>48</SU>
+                        â
+                        <E T="03">See, e.g., Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, 
+                        <E T="03">supra</E>
+                         note 5, at 46.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>49</SU>
+                        âIn the context of NEPA, many commenters discussed the environmental and health risks that, in their view, are associated with the siting and operation of LNG export facilities and related transportation infrastructure near their home or community. They asserted, for example, that they will suffer from any accidents at nearby LNG export facilities and pipelines, or explosions of ISO containers loaded onto trains or trucks. They expressed concern that such accidents could result in harm to air, water, and other natural resources. They also assert that natural disasters, such as hurricanes and wildfires, in the vicinity of LNG export facilities and infrastructure can threaten public safety. DOE notes that these concerns generally involve the siting of natural gas-related infrastructure. These concerns are outside the scope of this rulemaking, which is based on 
+                        <E T="03">existing</E>
+                         facilities subject to a categorical exclusion under NEPA. Nonetheless, as stated above, DOE requires all authorization holders to comply with any preventative and mitigative measures at natural gas import and export facilities imposed by federal, state, and/or local agencies.
+                    </P>
+                </FTNT>
+                <P>For these reasons, DOE does not agree that this criterion of this ruleâwhereby an application must be eligible for a categorical exclusion under NEPAâwill lead to natural gas exports lacking in environmental protection and/or to unregulated LNG export facilities. DOE is committed to a thorough NEPA assessment process and, accordingly, DOE is not changing this criterion in the final rule.</P>
+                <HD SOURCE="HD2">C. Other Issues</HD>
+                <P>
+                    Below, DOE addresses a variety of other comments on the proposed rule. To the extent commenters have urged DOE to take some different type of action with respect to natural gas exports, DOE notes that it may consider additional measures under section 3(a) of the Natural Gas Act as part of its regulatory reform efforts and welcomes suggestions, data, and information on this topic through its regulatory reform email inbox at 
+                    <E T="03">Regulatory.Review@hq.doe.gov.</E>
+                </P>
+                <P>
+                    One commenter asserted that this rulemaking is arbitrary and capricious because it lacks substantive analysis and viable alternatives. Under the APA, an 
+                    <PRTPAGE P="35116"/>
+                    agency decision is arbitrary and capricious only if the agency's decision is not based on a consideration of the relevant factors and where there is a clear error of judgment by the agency.
+                    <SU>50</SU>
+                    <FTREF/>
+                     As explained above and in the proposed rule, DOE has determined that small-scale natural gas exports are consistent with the public interest after considering its obligations under NGA section 3(a), the public comments received on the proposed rule, and a wide range of information bearing on the public interest (82 FR 41573-41574; Sept. 1, 2017). Additionally, DOE has considered its 29 final non-FTA export authorizations issued to date, as well EIA's authoritative projections for natural gas supply, demand, and prices set forth in both the AEO 2017 and AEO 2018. DOE has thoroughly analyzed the many factors affecting the export of U.S. natural gas, as well as the unique characteristics and minimal adverse impacts of the emerging small-scale natural gas market. On this basis, DOE has determined that this rule is consistent with both NGA section 3(a) and DOE's established practice in authorizing such exports.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>50</SU>
+                        â
+                        <E T="03">See, e.g.,</E>
+                         5 U.S.C. 706; 
+                        <E T="03">Motor Vehicle Mfr. Ass'n</E>
+                         v. 
+                        <E T="03">State Farm Mut. Auto. Ins. Co.,</E>
+                         463 U.S. 29, 43 (1983).
+                    </P>
+                </FTNT>
+                <P>One commenter characterized this rulemaking as imposing redundant, burdensome administrative requirements and compliance costs, but did not specify the basis for that claim. DOE emphasizes that it is not imposing any administrative requirements or compliance costs through this rulemaking. To the contrary, as explained in the proposed rule (82 FR 41570), the regulation promulgated in this final rule is intended to expedite DOE's processing of small-scale applications, thereby reducing administrative burdens and costs for the small-scale natural gas market.</P>
+                <P>On the other hand, another commenter asserted that this rulemaking is not deregulatory because it creates a new regulation to define small-scale natural gas exports according to specified criteria. This commenter claimed that DOE is limiting its ability to adapt to market changes, should the parameters of the small-scale natural gas market change. As stated above, however, this rulemaking qualifies as a deregulatory action because DOE is reducing or eliminating administrative requirements and compliance costs for the small-scale export market under NGA section 3(a). DOE is satisfied that the criteria for this rulemaking, which are based in part on industry practice, are appropriate for this developing market. Nonetheless, should unforeseeable changes in the small-scale export market require DOE to amend this regulation, DOE retains the regulatory authority to do so.</P>
+                <P>One commenter asserted that the 45-day public comment period for the proposed rule should be extended because the link for submitting comments on the Federal eRulemaking Portal was not working when the commenter attempted to submit comments. In the proposed rule, DOE identified a variety of methods that could be used to submit comments, including email (82 FR 41570; Sept. 1, 2017). DOE also notes that no other commenter raised this issue and many commenters submitted comments through the Federal eRulemaking Portal. DOE therefore declines to extend or re-open the public comment period in this rulemaking.</P>
+                <P>
+                    One commenter argued that DOE failed to provide sufficient notice of this rule in local media outlets, print media, and online publications. As a matter of law, however, DOE provided sufficient notice of this rulemaking by publishing it in the 
+                    <E T="04">Federal Register</E>
+                    .
+                    <SU>51</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>51</SU>
+                        â
+                        <E T="03">See</E>
+                         44 U.S.C. 1508 (notice sufficient when published in the 
+                        <E T="04">Federal Register</E>
+                        ).
+                    </P>
+                </FTNT>
+                <P>Finally, separate from the NEPA regulatory criterion for small-scale natural gas exports, several commenters disagreed with DOE's application of categorical exclusion A6 under NEPA for this rulemaking itself, as discussed in the âRegulatory Reviewâ portion of the proposed rule (82 FR 41575, âNational Environmental Policy Actâ) and set forth below. In the proposed rule, DOE explained that neither an EIS nor an EA was required to support this rulemaking. These commenters disagreed with that assessment, asserting that DOE violated NEPA by not preparing an EIS or an EA that addressed all potential environmental impacts associated with this rulemaking and that considered reasonable alternatives to the proposed rule.</P>
+                <P>As explained in the proposed rule (as well as in this final rule), DOE has determined that this regulation âfall[s] into a class of actions that does not individually or cumulatively have a significant impact on the human environment as set forth under DOE's regulations implementing [NEPA]â (82 FR 41575). Specifically, DOE has determined that this rulemaking falls under categorical exclusion A6 (10 CFR part 1021, subpart D, appendix A6).</P>
+                <P>
+                    Categorical exclusion A6 applies to ârulemakings that are strictly procedural.ââ
+                    <SU>52</SU>
+                    <FTREF/>
+                     This rulemaking is strictly procedural because it establishes expedited procedures applicable to qualifying small-scale natural gas export applications. Currently, DOE makes a public interest determination for all applications to export natural gas to non-FTA countries under NGA section 3(a), regardless of the proposed export volume. In making this determination, DOE imposes certain procedural requirements, which in turn lead to longer processing time for applications to export natural gas to non-FTA countries. This rulemaking expedites DOE's administrative processing for qualifying small-scale natural gas export applications by eliminating the notice of application and other procedures typically required under DOE's regulations (82 FR 41573). For these reasons, DOE has determined that categorical exclusion A6 applies to this rulemaking.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>52</SU>
+                        â10 CFR part 1021, subpart D, appendix A6.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">III. Regulatory Review</HD>
+                <HD SOURCE="HD2">A. Executive Orders 12866 and 13563</HD>
+                <P>This regulatory action has been determined to be an âeconomically significant regulatory actionâ under Executive Order 12866, âRegulatory Planning and Review,â 58 FR 51735 (October 4, 1993). Accordingly, this action was subject to review under that Executive Order by the Office of Information and Regulatory Affairs of the Office of Management and Budget.</P>
+                <P>
+                    DOE has also reviewed this regulation pursuant to Executive Order 13563, issued on January 18, 2011. (76 FR 3281, Jan. 21, 2011.) E.O. 13563 is supplemental to and explicitly reaffirms the principles, structures, and definitions governing regulatory review established in Executive Order 12866. To the extent permitted by law, agencies are required by Executive Order 13563 to: (1) Propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs (recognizing that some benefits and costs are difficult to quantify); (2) tailor regulations to impose the least burden on society, consistent with obtaining regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations; (3) select, in choosing among alternative regulatory approaches, those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity); (4) to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt; and (5) identify and assess 
+                    <PRTPAGE P="35117"/>
+                    available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public.
+                </P>
+                <P>DOE concludes that this final rule is consistent with these principles. Specifically, this final rule provides that DOE will issue an export authorization upon receipt of any complete application that seeks to export natural gas, including LNG, to non-FTA countries, provided that the application satisfies the following two criteria: (1) The application proposes to export natural gas in a volume up to and including 51.75 Bcf/yr, and (2) DOE's approval of the application does not require an EIS or EA under NEPA. DOE's regulations regarding notice of applications, 10 CFR 590.205, and procedures applicable to application proceedings, 10 CFR part 590, subpart C (10 CFR 590.303 to 10 CFR 590.317), do not apply to small-scale natural gas exports. The final rule is intended to expedite DOE's processing of these applications, thereby reducing administrative burdens for the small-scale natural gas export market.</P>
+                <HD SOURCE="HD2">B. Executive Orders 13771, 13777, and 13783</HD>
+                <P>On January 30, 2017, the President issued Executive Order 13771, âReducing Regulation and Controlling Regulatory Costs.â That Order stated the policy of the executive branch is to be prudent and financially responsible in the expenditure of funds, from both public and private sources. The Order stated it is essential to manage the costs associated with the governmental imposition of private expenditures required to comply with Federal regulations. This final rule is expected to be an E.O. 13771 deregulatory action.</P>
+                <P>Additionally, on February 24, 2017, the President issued Executive Order 13777, âEnforcing the Regulatory Reform Agenda.â The Order required the head of each agency designate an agency official as its Regulatory Reform Officer (RRO). Each RRO oversees the implementation of regulatory reform initiatives and policies to ensure that agencies effectively carry out regulatory reforms, consistent with applicable law. Further, E.O. 13777 requires the establishment of a regulatory task force at each agency. The regulatory task force is required to make recommendations to the agency head regarding the repeal, replacement, or modification of existing regulations, consistent with applicable law. At a minimum, each regulatory reform task force must attempt to identify regulations that:</P>
+                <P>(i) Eliminate jobs, or inhibit job creation;</P>
+                <P>(ii) Are outdated, unnecessary, or ineffective;</P>
+                <P>(iii) Impose costs that exceed benefits;</P>
+                <P>(iv) Create a serious inconsistency or otherwise interfere with regulatory reform initiatives and policies;</P>
+                <P>(v) Are inconsistent with the requirements of Information Quality Act, or the guidance issued pursuant to that Act, in particular those regulations that rely in whole or in part on data, information, or methods that are not publicly available or that are insufficiently transparent to meet the standard for reproducibility; or</P>
+                <P>(vi) Derive from or implement Executive Orders or other Presidential directives that have been subsequently rescinded or substantially modified.</P>
+                <P>Finally, on March 28, 2017, the President signed Executive Order 13783, entitled âPromoting Energy Independence and Economic Growth.â Among other things, E.O. 13783 requires the heads of agencies to review all existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) that potentially burden the development or use of domestically produced energy resources, with particular attention to oil, natural gas, coal, and nuclear energy resources. Such review does not include agency actions that are mandated by law, necessary for the public interest, and consistent with the policy set forth elsewhere in that order.</P>
+                <P>Executive Order 13783 defined burden for purposes of the review of existing regulations to mean to unnecessarily obstruct, delay, curtail, or otherwise impose significant costs on the siting, permitting, production, utilization, transmission, or delivery of energy resources.</P>
+                <P>DOE concludes that this final rule is consistent with the directives set forth in these executive orders. Specifically, this final rule is a deregulatory action that requires DOE to issue an export authorization upon receipt of any complete application that seeks to export natural gas, including LNG, to non-FTA countries, provided that the application satisfies the following two criteria: (1) The application proposes to export natural gas in a volume up to and including 51.75 Bcf/yr, and (2) DOE's approval of the application does not require an EIS or an EA under NEPA. Applications that satisfy these criteria are requesting authorization for âsmall-scale natural gas exportsâ and, as such, the exports are deemed to be consistent with the public interest under NGA section 3(a). DOE's regulations regarding notice of applications and procedures conducted on applications do not apply to applications that satisfy these criteria. The final rule will expedite DOE's processing of these applications, thereby reducing administrative burdens for the small-scale natural gas export market.</P>
+                <HD SOURCE="HD2">C. National Environmental Policy Act</HD>
+                <P>
+                    DOE has determined that adoption of this final rule falls into a class of actions that does not individually or cumulatively have a significant impact on the human environment as set forth under DOE's regulations implementing the National Environmental Policy Act of 1969 (42 U.S.C. 4321 
+                    <E T="03">et seq</E>
+                    ). Specifically, this rulemaking is covered under the categorical exclusion found in the DOE's National Environmental Policy Act regulations at paragraph A6 of appendix A to subpart D, 10 CFR part 1021, which applies to rulemakings that are strictly procedural. Accordingly, neither an EIS nor an EA is required.
+                </P>
+                <HD SOURCE="HD2">D. Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.)</E>
+                     requires preparation of an initial regulatory flexibility analysis for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by Executive Order 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (August 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process (68 FR 7990). DOE has made its procedures and policies available on the Office of General Counsel's website: 
+                    <E T="03">http://www.gc.doe.gov.</E>
+                </P>
+                <P>
+                    DOE has reviewed this final rule under the provisions of the Regulatory Flexibility Act and the procedures and policies published on February 19, 2003. This final rule will require DOE to issue an export authorization upon receipt of any complete application that seeks to export natural gas, including LNG, to non-FTA countries, provided that the application satisfies the following two criteria: (1) The application proposes to export natural gas in a volume up to and including 51.75 Bcf/yr, and (2) DOE's approval of the application does not require an EIS or an EA under NEPA. DOE's regulations regarding notice of applications and procedures conducted 
+                    <PRTPAGE P="35118"/>
+                    on applications do not apply to applications that satisfy these criteria.
+                </P>
+                <P>
+                    To date, DOE has receivedâand grantedâeight applications to export LNG in volumes below 51.75 Bcf/yr of natural gas to non-FTA countries.
+                    <SU>53</SU>
+                    <FTREF/>
+                     Of these eight applicants, three qualify as small businesses under the Small Business Administration's size standards of 1000 employees or less under both NAICS 221210, Natural Gas Distribution, and NAICS 325120, Industrial Gas Manufacturing. Because the final rule will streamline the application and approval process for small-scale natural gas exports, it will not result in a significant economic impact on a substantial number of small entities. The final rule will, however, provide greater regulatory certainty for applicants by eliminating the individual application proceeding and public interest evaluation for qualifying applications. This, in turn, will both reduce the administrative burden associated with the application process and expedite authorization of qualifying applications, removing (at a minimum) the opportunity cost of receiving an application delayed by the current procedures.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>53</SU>
+                        âSeven of the eight applications are identified in section I.C of the proposed rule (82 FR 41572; Sept. 1, 2017). The eighth authorization was issued on September 15, 2017, after the NOPR was published. 
+                        <E T="03">See Eagle LNG Partners Jacksonville II LLC,</E>
+                         DOE/FE Order No. 4078, 
+                        <E T="03">supra</E>
+                         note 5.
+                    </P>
+                </FTNT>
+                <P>DOE received no comments on this certification. Comments regarding the economic impact of the proposed rule are responded to in Section II of the preamble, and for the reasons explained in Section II, those comments did not affect this certification, or result in any changes from the proposal in this final rule.</P>
+                <P>Therefore, DOE certifies that this rulemaking will not have a significant economic impact on a substantial number of small entities. Accordingly, DOE did not prepare an IRFA for this rulemaking. DOE's certification and supporting statement of factual basis was provided to the Chief Counsel for Advocacy of the Small Business Administration for review under 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">E. Paperwork Reduction Act</HD>
+                <P>
+                    The final rule does not change any requirements subject to review and approval by OMB pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    ) and the procedures implementing that Act, 5 CFR 1320.1 
+                    <E T="03">et seq.</E>
+                     Current natural gas import and export authorization holders, including any approved under this final rule, would be subject to the information collection requirements approved by the Office of Management and Budget under OMB Control No. 1901-0294. Public reporting burden for the certification is estimated to average 3 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.
+                </P>
+                <P>Notwithstanding any other provision of the law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the PRA, unless that collection of information displays a currently valid OMB Control Number.</P>
+                <HD SOURCE="HD2">F. Unfunded Mandates Reform Act of 1995</HD>
+                <P>The Unfunded Mandates Reform Act of 1995 (Pub. L. 104-4) generally requires Federal agencies to examine closely the impacts of regulatory actions on tribal, state, and local governments. Subsection 101(5) of title I of that law defines a Federal intergovernmental mandate to include any regulation that would impose upon tribal, state, or local governments an enforceable duty, except a condition of Federal assistance or a duty arising from participating in a voluntary Federal program. Title II of that law requires each Federal agency to assess the effects of Federal regulatory actions on tribal, state, and local governments, in the aggregate, or to the private sector, other than to the extent such actions merely incorporate requirements specifically set forth in a statute. Section 202 of that title requires a Federal agency to perform a detailed assessment of the anticipated costs and benefits of any rule that includes a Federal mandate which may result in costs to tribal, state, or local governments, or to the private sector, of $100 million or more in any one year (adjusted annually for inflation). 2 U.S.C. 1532(a) and (b). Section 204 of that title requires each agency that proposes a rule containing a significant Federal intergovernmental mandate to develop an effective process for obtaining meaningful and timely input from elected officers of tribal, state, and local governments. 2 U.S.C. 1534.</P>
+                <P>This final rule will streamline procedures for small-scale natural gas exports. DOE has determined that the final rule will not result in the expenditure by tribal, state, and local governments in the aggregate, or by the private sector, of $100 million or more in any one year. Accordingly, no assessment or analysis is required under the Unfunded Mandates Reform Act of 1995.</P>
+                <HD SOURCE="HD2">G. Treasury and General Government Appropriations Act, 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any final rule that may affect family well-being. The final rule will not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">H. Executive Order 13132</HD>
+                <P>Executive Order 13132, âFederalism,â 64 FR 43255 (August 4, 1999) imposes certain requirements on agencies formulating and implementing policies or regulations that preempt state law or that have Federalism implications. Agencies are required to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the states and carefully assess the necessity for such actions. DOE has examined this final rule and has determined that it will not preempt state law and will not have a substantial direct effect on the states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among the various levels of government. No further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">I. Executive Order 12988</HD>
+                <P>
+                    With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â 61 FR 4729 (February 7, 1996), imposes on Executive agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; and (3) provide a clear legal standard for affected conduct rather than a general standard and promote simplification and burden reduction. With regard to the review required by section 3(a), section 3(b) of Executive Order 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms; and (6) 
+                    <PRTPAGE P="35119"/>
+                    addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, the final rule meets the relevant standards of Executive Order 12988.
+                </P>
+                <HD SOURCE="HD2">J. Treasury and General Government Appropriations Act, 2001</HD>
+                <P>The Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516 note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB.</P>
+                <P>OMB's guidelines were published at 67 FR 8452 (February 22, 2002), and DOE's guidelines were published at 67 FR 62446 (October 7, 2002). DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">K. Executive Order 13211</HD>
+                <P>Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001) requires Federal agencies to prepare and submit to the OMB, a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that: (1) Is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use. This regulatory action, which is intended to streamline the application and approval process for small-scale natural gas exports, will not have a significant adverse effect on the supply, distribution, or use of energy, and therefore is not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">L. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule prior to its effective date. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">IV. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved the publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 590</HD>
+                    <P>Administrative practice and procedure, Exports, Natural gas, Reporting and recordkeeping requirements. </P>
+                </LSTSUB>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on July 19, 2018.</DATED>
+                    <NAME>Steven E. Winberg,</NAME>
+                    <TITLE>Assistant Secretary, Office of Fossil Energy.</TITLE>
+                </SIG>
+                <P>For the reasons stated in the preamble, DOE amends part 590, chapter II of title 10, subchapter G, Code of Federal Regulations as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 590âADMINISTRATIVE PROCEDURES WITH RESPECT TO THE IMPORT AND EXPORT OF NATURAL GAS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="590">
+                    <AMDPAR>1. The authority citation for part 590 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>Secs. 301(b), 402(f), and 644, Pub. L. 95-91, 91 Stat. 578, 585, and 599 (42 U.S.C. 7151(b), 7172(f), and 7254), Sec. 3, Act of June 21, 1938, c. 556, 52 Stat. 822 (15 U.S.C. 717b); E.O. 12009 (42 FR 46267, September 15, 1977); DOE Delegation Order Nos. 0204-111 and 0204-127 (49 FR 6684, February 22, 1984; 54 FR 11437, March 20, 1989).</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="590">
+                    <AMDPAR>2. Section 590.102 is amended by redesignating paragraph (p) as paragraph (q) and adding new paragraph (p) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â590.102 </SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            (p) 
+                            <E T="03">Small-scale natural gas export</E>
+                             means an export of natural gas to nations with which there is not in effect a free trade agreement with the United States requiring national treatment for trade in natural gas and with which trade is not prohibited by U.S. law or policy, provided that the application for such export authority satisfies the following two criteria:
+                        </P>
+                        <P>(1) The application proposes to export natural gas in a volume up to and including 51.75 billion cubic feet per year, and</P>
+                        <P>
+                            (2) DOE's approval of the application does not require an environmental impact statement or an environmental assessment under the National Environmental Policy Act, 42 U.S.C. 4321 
+                            <E T="03">et seq.</E>
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="590">
+                    <AMDPAR>3. Section 590.208 is revised to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â590.208 </SECTNO>
+                        <SUBJECT>Small volume exports.</SUBJECT>
+                        <P>
+                            (a) 
+                            <E T="03">Small-scale natural gas exports.</E>
+                             Small-scale natural gas exports are deemed to be consistent with the public interest under section 3(a) of the Natural Gas Act, 15 U.S.C. 717b(a). DOE will issue an export authorization upon receipt of any complete application to conduct small-scale natural gas exports. DOE's regulations regarding notice of applications, 10 CFR 590.205, and procedures applicable to application proceedings, 10 CFR part 590, subpart C (10 CFR 590.303 to 10 CFR 590.317), are not applicable to small-scale natural gas exports.
+                        </P>
+                        <P>
+                            (b) 
+                            <E T="03">Scientific, experimental, or other non-utility natural gas exports.</E>
+                             Any person may export up to 100,000 cubic feet of natural gas (14.73 pounds per square inch at 60 degrees Fahrenheit) or the liquefied or compressed equivalent thereof, in a single shipment for scientific, experimental, or other non-utility gas use without prior authorization of the Assistant Secretary.
+                        </P>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2018-15903 Filed 7-24-18; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

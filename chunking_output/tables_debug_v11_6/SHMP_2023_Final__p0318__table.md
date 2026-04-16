@@ -1,0 +1,6 @@
+[TABLE]
+| ID | Hazard Addressed: Action: | Priority: .Estimated Completion: Potential Funding Source: . Objective Satisfied: | Status | Disposition | Explanation |
+| --- | --- | --- | --- | --- | --- |
+| 6.0 | All Natural Hazards; The State Climate Office will pull together a Natural; Hazards webpage that describes Arizona's weather/; climate related natural hazards and explains measures; the public can take before, during and after the events; to keep themselves and their property safe. Will also; includ | .High; : 2023; Existing; Staff/Budget; .1&2 | Completed | Keep | https://azclimate.asu.edu/weather/weather-safety,; All items currently available on the website. |
+| 6.1 | All Natural Hazards; The State Climate Office, in conjunction with Arizona; State University, will create a University-wide weather; webpage showing current weather conditions across the; four campuses and include NWS alerts, special weather; statements, watches and warnings for the area and the; st | : 2023; . Existing; Staff/Budget; .1&2 | Largely; completed | Modify | A mesonet (weather station network) is being; developed for the 4 ASU campuses. TBD; uncertain date. Currently, there are no weather.; stations available to portray weather conditions on; each individual ASU campus in real time; https://azclimate.asu.edu/weather/; The website shows current weather c |
+[/TABLE]

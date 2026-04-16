@@ -1,0 +1,796 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="31567"/>
+                <AGENCY TYPE="F">DEPARTMENT OF AGRICULTURE</AGENCY>
+                <SUBAGY>Farm Service Agency</SUBAGY>
+                <CFR>7 CFR Part 760</CFR>
+                <SUBAGY>Commodity Credit Corporation</SUBAGY>
+                <CFR>7 CFR Parts 1400 and 1439</CFR>
+                <RIN>RIN 0560-AH95</RIN>
+                <SUBJECT>Livestock Indemnity Program and General Provisions for Supplemental Agricultural Disaster Assistance Programs</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Farm Service Agency and Commodity Credit Corporation, USDA.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>This rule implements the general eligibility provisions for all the supplemental agricultural disaster assistance programs authorized by the Food, Conservation, and Energy Act of 2008 (2008 Farm Bill) and the specific requirements for the Livestock Indemnity Program (LIP). LIP provides disaster assistance for livestock losses. LIP applies only to livestock owners and contract growers that had losses due to livestock deaths in excess of normal mortality due to adverse weather during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold. Eligible LIP losses must have occurred on or after January 1, 2008, and before October 1, 2011. This rule specifies how the LIP payments are calculated and when producers may apply for benefits. This rule also removes some outdated rules from the Code of Federal Regulations (CFR).</P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>
+                        <E T="03">Effective Date:</E>
+                         July 13, 2009.
+                    </P>
+                </DATES>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Scotty Abbott, Production, Emergencies, and Compliance Division, Farm Service Agency (FSA), United States Department of Agriculture, STOP 0517, 1400 Independence Avenue, SW., Washington, DC 20250-0517; telephone (202) 720-7997; e-mail 
+                        <E T="03">scotty.abbott@usda.gov.</E>
+                         Persons with disabilities who require alternative means for communication (Braille, large print, audio tape, etc.) should contact the USDA Target Center at (202) 720 2600 (voice and TDD).
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Background</HD>
+                <P>This rule implements the general eligibility provisions for the supplemental agricultural disaster assistance programs authorized by the 2008 Farm Bill (Pub. L. 110-246). Sections 12033 and 15101 of the 2008 Farm Bill authorize the Secretary of Agriculture (Secretary) to assist producers who have had crop and livestock losses due to adverse weather. FSA will provide assistance through five different programs:</P>
+                <P>â¢ Livestock Indemnity Program (referred to as Livestock Indemnity Payments in the Farm Bill),</P>
+                <P>â¢ Livestock Forage Disaster Program (LFP),</P>
+                <P>â¢ Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish (ELAP),</P>
+                <P>â¢ Supplemental Revenue Assistance Payments Program (SURE) (which covers general crop production losses, but not those covered by LFP), and</P>
+                <P>â¢ Tree Assistance Program (TAP).</P>
+                <P>This rule implements the first of these programs, LIP, in 7 CFR part 760, subpart E. The 2008 Farm Bill sets, however, common eligibility requirements for the programs. The general provisions for supplemental agricultural disaster assistance programs will be implemented in regulations in 7 CFR part 760, subpart B. Specific provisions for the other programs, LFP, SURE, ELAP, and TAP, will be implemented through separate rulemakings. Where practical, these programs will be implemented to be similar to previous ad hoc disaster assistance programs. For example, LIP will be similar to the previous LIP regulations that were in 7 CFR part 760, subpart E.</P>
+                <P>Currently, for LIP, the 2008 Farm Bill authorizes the Secretary to assist eligible livestock producers on farms that have had livestock death losses in excess of the normal mortality due to adverse weather.</P>
+                <P>The supplemental agricultural disaster assistance programs will be administered by FSA using funds from the Agricultural Disaster Relief Trust Fund established under section 902 of the Trade Act of 1974 (19 U.S.C. 2497a). The disaster assistance programs authorized by the 2008 Farm Bill are permanent or âstandingâ programs that have similar scope to the previous ad hoc programs. The programs are provided for in two separate places in the 2008 Farm Bill. First, there is section 12033, which adds a new section 531 to the Federal Crop Insurance Act (7 U.S.C. 1501-1524). Second, there is section 15101, which adds section 902 of the Trade Act of 1974. The provisions of the two sections as enacted were identical except that the Trade Act of 1974 provisions contained the trust fund provisions. Since then, there have been some amendments, but the two sections of the 2008 Farm bill are considered to be interchangeable for the purposes of this rule.</P>
+                <HD SOURCE="HD1">General Eligibility Requirements</HD>
+                <HD SOURCE="HD2">Payment Limits</HD>
+                <P>The 2008 Farm Bill limits how much a producer may receive from FSA disaster assistance programs.</P>
+                <P>In applying payment limitation for 2008, no person, as defined and determined by the regulations in 7 CFR part 1400 in effect for 2008, may receive more than $100,000:</P>
+                <P>â¢ Total per crop year under ELAP, LFP, LIP and SURE</P>
+                <P>â¢ Per program years under TAP.</P>
+                <P>For 2009 through 2011, no person or legal entity (excluding a joint venture or general partnership), as defined and determined by the regulations in 7 CFR part 1400 may receive, directly or indirectly, more than $100,000:</P>
+                <P>â¢ Total per crop year under ELAP, LFP, LIP and SURE</P>
+                <P>â¢ Per program years under TAP.</P>
+                <P>For this purpose, both indirect and direct benefits are counted by attribution. In the case of a legal entity, the same payment is attributed to the direct payee in the full amount and those that have an indirect interest to the amount of the interest. For example, under the attribution rules that applies to these programs, assume:</P>
+                <P>â¢ Corporation A is in line to receive a $100,000 SURE payment,</P>
+                <P>â¢ Corporation A is owned 50 percent by Individual A and 50 percent by Corporation B, and</P>
+                <P>
+                    â¢ Corporation B is owned by Individual B with a 30 percent interest 
+                    <PRTPAGE P="31568"/>
+                    and by Individual C with a 70 percent interest.
+                </P>
+                <P>If so, Corporation A, for payment limitation purposes would be considered to have received $100,000 and Individual C (who owns 70 percent of Corporation B, which owns half of Corporation A) would be considered to have indirectly benefitted by the amount of $35,000 (50 percent times 70 percent of the $100,000). Even though no part of the $100,000 was actually paid to Individual C, the amount of $35,000 would count against individual C's overall payment limitation from all sources and farms. Assume Individual C was already at the maximum payment limit, Individual C would not have been eligible to receive $35,000; as a result, the payment to Corporation A would be reduced by $35,000.</P>
+                <P>The amount of any payment for which a participant may be eligible under any of these programs may be reduced by any amount received by the participant for the same or any similar loss from any Federal disaster assistance program.</P>
+                <P>In applying the limitation on average adjusted gross income (AGI) for 2008, an individual or entity is ineligible for payment under ELAP, LFP, LIP, SURE, and TAP if the individual's or entity's average AGI exceeds $2.5 million for 2007, 2006, and 2005 under the provisions in 7 CFR part 1400 in effect for 2008. For 2009 through 2011, the average AGI limitation provisions in 7 CFR part 1400 applicable to Commodity Credit Corporation (CCC) commodity programs also apply to ELAP, LFP, LIP, SURE, and TAP. Specifically, as specified in the 2008 Farm Bill, for 2009 through 2011, a person or legal entity with an average adjusted gross nonfarm income, as defined in 7 CFR 1400.3, that exceeds $500,000 for the relevant period will not be eligible to receive payments under these programs. Likewise, if a person with an indirect interest in a legal entity has an average nonfarm AGI over $500,000, then the payment to the legal entity will be reduced as calculated based on the percent of interest in the legal entity receiving the payment. For example, continuing with the assumptions in the example above, if Individual B had an average AGI that was over the limit, then the payment to Corporation A will be reduced by 15 percent (Individual B's 30 percent interest in Corporation B times Corporation B's 50 percent interest in Corporation A).</P>
+                <P>Payment and average AGI limits will be determined under regulations specified in 7 CFR part 1400 for Commodity Credit Corporation (CCC) commodity programs. The programs covered in this final rule are not CCC programs, but the CCC regulations in 7 CFR part 1400 are adopted for these programs.</P>
+                <P>The relevant AGI period for these programs is the 3 calendar years that precede the program year involved. For livestock losses, the program year is the calendar year of the loss of the livestock. For SURE, the program year is the year that corresponds to the relevant crop year. The crop year concept in some limited cases can involve a loss that occurs in a different calendar year than the calendar year whose number corresponds to the crop year. For example, wheat for the 2009 crop year can be planted in the fall of 2008 and be lost during 2008. SURE payments related to such a loss would be made in calendar year 2009.</P>
+                <P>The regulations in 7 CFR 1400.105 specify how payments will be attributed and how far the attribution will go. Attribution will be tracked through four levels of ownership in legal entities. The 2008 Farm Bill removed the previous â3 entity rule,â so a person can now receive benefits attributed through an unlimited number of entities, subject to the payment limits and the rules of attribution described in this final rule and in 7 CFR part 1400. In addition to these limits, the 2008 Farm Bill imposes limitations of payments to foreign persons. Those limits are specified in the regulations in Â§â760.103.</P>
+                <HD SOURCE="HD2">Risk Management Purchase Requirement</HD>
+                <P>To be eligible for program payments under ELAP, SURE, and TAP, eligible producers on a farm, as specified by the 2008 Farm Bill, must have purchased insurance for each insurable commodity, excluding grazing land; a few exceptions allowed by the 2008 Farm Bill are discussed later in this section. âInsurable commoditiesâ are those for which a plan of insurance can be obtained from the USDA's Risk Management Agency (RMA) that makes coverage for crops available under the Federal Crop Insurance Act (FCIA). Benefits for ânoninsurableâ commodities are generally available through the Noninsured Crop Disaster Assistance Program (NAP) run by FSA. Except for grazing land, producers for ELAP, SURE, and TAP must have obtained an RMA policy or plan of insurance or NAP coverage for all of their crops. For LFP, producers must have obtained an RMA policy or plan of insurance or NAP coverage for those grazing lands for which they seek benefits.</P>
+                <P>LIP does not have a risk management purchase requirement. The risk management purchase requirement regulations are included in this rule because they have multi-program application. As noted, this final rule contains general provisions for multiple programs and specific provisions for LIP. Additional provisions to cover the other programs will be issued later.</P>
+                <P>Producers who did not purchase required coverage are not eligible for benefits unless an exception applies. âSocially disadvantaged farmers and ranchers,â as well as âlimited resource farmers and ranchers,â or âbeginning farmers or ranchers,â are exempt. For the 2008 crop, persons who paid a certain buy-in fee were exempt from the purchase requirement if the buy-in fee was paid by September 16, 2008. By an amendment to the 2008 Farm Bill, Congress allowed a second buy-in enabling producers to buy in from February 17, 2009 up to May 18, 2009; however, if the buy-in occurred after the first deadline, or was not granted administratively through some form of equitable relief the producer had to agree to buy crop insurance or NAP for the next year for the crops to which the buy-in applied. Also, there were special benefit calculation provisions for producers who made use of the second deadline. The buy-in fee was equal to the cost of the insurance or NAP coverage, but did not entitle the producer to insurance or NAP coverage. Also, an amendment allowed a 2009 crop buy-in for crops if the 2009 Federal Crop Insurance Corporation (FCIC) sales closing date was prior to August 14, 2008. The deadline for the 2009 crop buy-in was January 12, 2009. In addition to these provisions, section 531(g)(5) of the FCIA (and the corresponding provisions of the Trade Act of 1974) have some more general provisions allowing the Secretary discretion to grant equitable relief to persons with a lack of coverage. The buy-in concept has no application to LIP since LIP has no purchase requirement. The buy-in fees were different for 2008 and 2009.</P>
+                <HD SOURCE="HD2">Miscellaneous</HD>
+                <P>Under this rule, participants receiving disaster assistance payments under any of the these programs must keep records and supporting documentation for 3 years following the end of the year in which the application for payment was filed. This discretionary recordkeeping requirement is consistent with other FSA rules and programs, as well as with previous similar disaster assistance programs.</P>
+                <P>
+                    Restrictions apply to these programs including, but not limited to, those pertaining to highly erodible land and wetland conservation provisions in 7 CFR part 12.
+                    <PRTPAGE P="31569"/>
+                </P>
+                <P>This rule amends subpart B by adding Â§â760.110 to clarify that appeal regulations specified in 7 CFR parts 11 and 780 apply. It also specifies that for all the new standing disaster programs, matters requiring FSA determinations that are not in response to, or result from, an individual disputable set of facts in a specific individual participant's application, are not matters that can be appealed under 7 CFR parts 11 or 780. These include, but are not limited to, general statutory or regulatory provisions that apply to similarly situated participants, national average payment prices, regions, crop definition, average yields, or similar items.</P>
+                <HD SOURCE="HD1">Specific Provisions for LIP</HD>
+                <HD SOURCE="HD2">Overview</HD>
+                <P>The 2008 Farm Bill provisions require LIP payments to be made at a rate of 75 percent of the market value of the livestock on the day before the date of the death of the livestock. Payments are to be made to eligible producers on farms that have incurred livestock death losses for the calendar year in excess of the normal mortality. The eligible livestock death losses must have occurred on or after January 1, 2008, but before October 1, 2011, due to adverse weather, as determined by the Secretary, during the calendar year for which benefits are requested, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold. All the provisions described in this paragraph, which are implemented in this rule, are statutory provisions over which FSA has little or no discretion.</P>
+                <P>The details in this rule on what kinds of livestock are eligible, acceptable documentation of loss, and the application process for payment, are discretionary provisions. Generally, FSA has based the discretionary provisions of the program as specified in this rule on the rules and policies used for the 2005-2007 LIP because they are known to the public and to Congress and because they have worked well to apportion benefits for the type of loss involved in this program.</P>
+                <P>Unlike some previous livestock-related programs, LIP does not cover crawfish, catfish, or other aquaculture because losses of that kind are covered by SURE and the general direction of the 2008 Farm bill is that there will not be duplicative payments.</P>
+                <HD SOURCE="HD2">Eligibility Requirements; Livestock Covered by LIP</HD>
+                <P>LIP payments and eligibilities will be calculated on the type of eligible livestock and the actual losses and the calculations will be made by FSA-approved categories. Eligible livestock for payment to livestock owners include beef cattle, dairy cattle, buffalo, beefalo, equine, sheep, goats, deer, swine, poultry, reindeer, elk, emus, alpacas, and llamas that died as a direct result of an eligible adverse weather event. The list of eligible livestock includes all the types from the previous ad hoc disaster program for livestock, except for catfish and crawfish as described above. Regulations for that program are in 7 CFR part 760, subpart J. This final rule adds alpacas, emus, and llamas to the list of eligible livestock. FSA added these types of livestock based on concerns expressed with respect to previous programs.</P>
+                <P>Benefits are only available for the owners of livestock or for âcontract growersââpersons who produce livestock owned by someone else, but have a risk in the livestock (such as a farmer who raises chickens owned by a company that produces chicken products, but does not receive payment for livestock that die before the livestock is mature and returned to the owner). The contract grower provisions only cover swine and poultry because those are the only known examples of that kind of production arrangement. To be eligible livestock for LIP, as of the day they died the livestock must have been both of the following:</P>
+                <P>â¢ Owned by an eligible owner or in the possession of an eligible contract grower and</P>
+                <P>â¢ Maintained for commercial use as part of a farming operation of the participant on the day they died.</P>
+                <P>In addition, to be eligible, the livestock must have died as a direct result of an eligible adverse weather event in the calendar year for which benefits are requested. Participants must provide verifiable documentation of livestock deaths claimed.</P>
+                <P>Animals kept for recreational purposes, such as hunting animals, animals used for roping practice, pets, and show animals, are not eligible. Wild, free roaming animals are not eligible to generate payments.</P>
+                <P>Eligibility for payments to poultry and swine contract growers will be limited based on the amount of their contractual risk and other payments received. Payments will not exceed their contractual risk, as determined by FSA. Any compensation received by the contract grower from the contractor for loss of income for the dead livestock will be deducted from the contract grower's payment.</P>
+                <P>Determination of LIP payment eligibility will be based on actual losses in excess of normal mortality for the calendar year for the relevant animal type and approved category by an individual producer or contract grower due to adverse weather. There is not a State or National âtriggerâ such as an emergency declaration that provides automatic eligibility for all producers in a particular State, county, or region. Adverse weather includes, but is not limited to, events such as hurricanes, floods, blizzards, wildfires, extreme heat, and extreme cold. FSA has the authority to determine eligibility of livestock losses caused by other adverse weather types, including disease caused by such weather.</P>
+                <HD SOURCE="HD2">Applying for LIP Payment; LIP Payment Calculations</HD>
+                <P>There are two basic steps for a producer to obtain LIP payments. One step is to file a notice of loss when there is an event that does or could generate a claim because of the death of an animal due to adverse weather. Because the eligible losses are only those above normal mortality that are calculated on a yearly basis, a loss occurring in, for example, July, will not necessarily generate a claim depending on how great the losses are, natural or otherwise, for the rest of the year. It could be, however, that a loss in July is so great that the producer is already beyond normal mortality for the year, in which case there could already be a claim for benefits. The second step is to file the application for payment.</P>
+                <P>
+                    For the first step, after this final rule is published, producers must provide a notice of loss to the FSA county office within 30 days of when the loss of livestock was apparent, or within 30 days after the end of the calendar year in which the loss occurred, whichever comes first. Producers who suffered a potentially eligible loss of livestock prior to July 13, 2009 (prior to this rule being effective), must provide a notice of loss to the FSA county office by September 13, 2009 (within 60 calendar days after this rule is effective). As indicated, however, a notice of loss is one part of the application process; other documentation is required for a complete application for payment, as described in this rule. The completed application must be submitted to the FSA county office no later than 30 calendar days after the end of the calendar year in which the loss of livestock occurred or, for 2008 losses, by September 13, 2009 (60 calendar days after this rule is effective). Producers that suffer multiple livestock losses during the calendar year may file multiple notices of loss and multiple applications for payment. This rule 
+                    <PRTPAGE P="31570"/>
+                    specifies the documents that are required to show loss, such as inventory records and grower contracts. The 30-day deadline is a change from the previous programs that had an application period determined by the Deputy Administrator for Farm Programs for FSA. Putting a specific deadline in the rules should make it clear when applications are due.
+                </P>
+                <P>As specified in the 2008 Farm Bill, the payment for livestock owners will be calculated based on 75 percent of the average fair market value of the applicable livestock on the day before the date of death of the livestock, as determined by the Agency. This program is not a program funded by CCC. Rather, it is funded by the trust fund as provided for in section 902 of the Trade Act of 1974, as added by the 2008 Farm Bill. For contract growers, the payment will be based on 75 percent of the average income loss sustained by the grower with respect to the dead livestock. Where there is a contract grower holding the livestock at the time of death, only the contract grower will be eligible for the payment; the owner is not eligible. When determining the market value of applicable livestock in order to determine payment rates for LIP, FSA will establish market values for each type and category of livestock using data from credible livestock markets. Credible livestock markets will include sale barns and local sales as well as sales at terminal market centers or slaughtering facilities.</P>
+                <P>FSA, through the State FSA offices, will obtain recommendations from applicable State livestock organizations, State Cooperative Extension Service, and other knowledgeable and credible sources, to establish the normal mortality rate for each type of livestock on a State-by-State basis. Payments are only available for losses over normal mortality over the course of the year and those rates will be established on a State-by-State basis.</P>
+                <HD SOURCE="HD2">Miscellaneous LIP Provisions</HD>
+                <P>All owners, contract growers, livestock, and losses must meet the eligibility requirements provided in this rule. False certifications carry serious consequences. FSA will validate applications with random spot-checks.</P>
+                <P>Livestock losses that are not weather-related are not eligible for LIP.</P>
+                <HD SOURCE="HD1">Structure of the Regulations</HD>
+                <P>The regulations in 7 CFR part 760, âIndemnity Payment Programs,â currently contain subparts A through M, which generally cover previous ad hoc disaster assistance programs. This rule revises subparts B and E and removes and reserves subparts C, D, and F through H. The current subpart B specifies general provisions for the 2005 Hurricane Disaster Programs; this rule revises subpart B to specify general provisions for the new standing disaster programs from the 2008 Farm Bill. The current subpart E provides the regulations for the 2005 Livestock Indemnity Program; this rule revises Subpart E to establish the regulations for the new LIP established by the 2008 Farm Bill. This rule removes the existing provisions for previous ad hoc disaster programs in subparts C, D, F, G, and H because the authority for the programs has expired. For housekeeping purposes, this rule also removes 7 CFR part 1439, which contains some related CCC programs. For questions on the former regulations, interested parties can refer to the appropriate regulation in the January 1, 2009 edition of the Code of Federal Regulations.</P>
+                <P>Subpart A of part 760 covers the Dairy Indemnity Program and is not impacted by this rule. Subparts I through M, which provide the rules for the 2005-2007 ad hoc disaster programs, are left intact and not removed because of the status of potential claims under those subparts. In all cases, however, to the extent of lingering or new disputes, the rules governing these older programs apply as they existed at the time the programs were administered.</P>
+                <P>When all of the supplemental agricultural disaster assistance programs are implemented, 7 CFR part 760 will have been revised as described in the table below:</P>
+                <GPOTABLE COLS="2" OPTS="L2,tp0,i1" CDEF="s150,r150">
+                    <TTITLE>â</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Current subpart</CHED>
+                        <CHED H="1">New subpart</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Subpart AâDairy Indemnity Payment Program</ENT>
+                        <ENT>Subpart AâDairy Indemnity Payment Program [unchanged].</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Subpart BâGeneral Provisions for the 2005 Section 32 Hurricane Disaster Programs</ENT>
+                        <ENT>760 Subpart BâGeneral Provisions for Supplemental Agricultural Disaster Assistance Programs.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Subpart CâHurricane Indemnity Program</ENT>
+                        <ENT>760 Subpart CâEmergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Subpart DâFeed Indemnity Program</ENT>
+                        <ENT>760 Subpart DâLivestock Forage Disaster Program.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Subpart EâLivestock Indemnity Program</ENT>
+                        <ENT>760 Subpart EâLivestock Indemnity Program [revised].</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Subpart FâTree Indemnity Program</ENT>
+                        <ENT>760 Subpart FâTree Assistance Program.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Subpart GâAquaculture Program</ENT>
+                        <ENT>760 Subpart GâSupplemental Revenue Assistance Payments Program.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Subpart Hâ2006 Livestock Assistance Grant Program</ENT>
+                        <ENT>Noneâremoved.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Subparts I through M</ENT>
+                        <ENT>Subparts I through M [unchanged].</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD1">Miscellaneous Conforming Amendments</HD>
+                <P>We are updating the references in 7 CFR 1400.1 to refer to 7 CFR part 760 for the LIP, ELAP, LFP, SURE, and TAP programs.</P>
+                <P>
+                    In addition, as indicated we are removing in its entirety 7 CFR part 1439, âEmergency Livestock Assistance,â as the programs there are outdated even though there may be some lingering claims. The times for filing claims under all of those programs has long since passed and in any event all involve rules that were published in the 
+                    <E T="04">Federal Register</E>
+                     and can be found in the 2009 edition of the Code of Federal Regulations.
+                </P>
+                <HD SOURCE="HD1">Notice and Comment</HD>
+                <P>
+                    The 2008 Consolidated Security, Disaster Assistance, and Continuing Appropriations Act (Pub. L. 110-329) made section 1601(c)(2) of the 2008 Farm Bill applicable in implementing section 12033 of the 2008 Farm Bill. To the extent relevant, the exemption applies, we believe to the corresponding provision enacted in section 15101 since they are identical except for the provisions for funding in section 15101, which do not appear at all in section 12033. Otherwise, the provisions of Public Law 110-329 would have no meaning. Therefore, these regulations are exempt from the notice and comment requirements of the Administrative Procedures Act (5 U.S.C. 553), as specified in section 1601(c)(2) of the 2008 Farm Bill, which requires that the regulations be promulgated and administered without regard to the notice and comment provisions of section 553 of title 5 of the United States Code or the Statement of Policy of the Secretary of Agriculture effective July 
+                    <PRTPAGE P="31571"/>
+                    24, 1971, (36 FR 13804) relating to notices of proposed rulemaking and public participation in rulemaking.
+                </P>
+                <HD SOURCE="HD1">Effective Date</HD>
+                <P>
+                    In making this final rule exempt from notice and comment through section 1601(c)(2) of the 2008 Farm Bill, using the administrative procedure provisions in 5 U.S.C. 553, FSA finds that there is good cause for making this rule effective less than 30 days after publication in the 
+                    <E T="04">Federal Register</E>
+                    . This rule allows FSA to provide benefits to producers who suffered losses due to livestock deaths caused by adverse weather. Therefore, to begin providing benefits to producers as soon as possible, this final rule is effective 13 days after publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <HD SOURCE="HD1">Executive Order 12866</HD>
+                <P>The Office of Management and Budget (OMB) designated this rule as not significant under Executive Order 12866 and, therefore, OMB was not required to review this rule.</P>
+                <HD SOURCE="HD1">Regulatory Flexibility Act</HD>
+                <P>This rule is not subject to the Regulatory Flexibility Act since FSA is not required to publish a notice of proposed rulemaking for this rule.</P>
+                <HD SOURCE="HD1">Environmental Review</HD>
+                <P>The environmental impacts of this rule have been considered in a manner consistent with the provisions of the National Environmental Policy Act (NEPA, 42 U.S.C. 4321-4347), the regulations of the Council on Environmental Quality (40 CFR parts 1500-1508), and FSA regulations for compliance with NEPA (7 CFR part 799). The LIP provisions required by the 2008 Farm Bill that are identified in this rule are non-discretionary in nature, solely providing financial assistance. Therefore, FSA has determined that provisions for further NEPA review do not apply to this rule. Therefore, no environmental assessment or environmental impact statement will be prepared.</P>
+                <HD SOURCE="HD1">Executive Order 12372</HD>
+                <P>
+                    This program is not subject to Executive Order 12372, which requires consultation with State and local officials. See the notice related to 7 CFR part 3015, subpart V, published in the 
+                    <E T="04">Federal Register</E>
+                     on June 24, 1983 (48 FR 29115).
+                </P>
+                <HD SOURCE="HD1">Executive Order 12988</HD>
+                <P>This rule has been reviewed under Executive Order 12988. This rule is not retroactive and it does not preempt State or local laws, regulations, or policies unless they present an irreconcilable conflict with this rule. Before any judicial action may be brought regarding the provisions of this rule the administrative appeal provisions of 7 CFR parts 11 and 780 must be exhausted.</P>
+                <HD SOURCE="HD1">Executive Order 13132</HD>
+                <P>The policies contained in this rule do not have any substantial direct effect on States, on the relationship between the national government and States, or on the distribution of power and responsibilities among various levels of government. Nor does this rule impose substantial direct compliance costs on State and local governments. Therefore, consultation with States was not required.</P>
+                <HD SOURCE="HD1">Executive Order 13175</HD>
+                <P>The policies contained in this rule do not impose substantial unreimbursed direct compliance costs on Indian tribal governments or have tribal implications that preempt tribal law.</P>
+                <HD SOURCE="HD1">Unfunded Mandates</HD>
+                <P>This rule contains no Federal mandates under the regulatory provisions of Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) for State, local, and tribal government or the private sector. In addition, FSA was not required to publish a notice of proposed rule making for this rule. Therefore, this rule is not subject to the requirements of sections 202 and 205 of the UMRA.</P>
+                <HD SOURCE="HD1">Federal Assistance Programs</HD>
+                <P>This rule applies to the following Federal assistance program that is not in the Catalog of Federal Domestic Assistance: LIP.</P>
+                <HD SOURCE="HD1">Paperwork Reduction Act</HD>
+                <P>The regulations in this rule are exempt from the requirements of the Paperwork Reduction Act (44 U.S.C. Chapter 35), as specified in section 1601(c)(2) of the 2008 Farm Bill, which provides that these regulations be promulgated and administered without regard to the Paperwork Reduction Act.</P>
+                <HD SOURCE="HD1">E-Government Act Compliance</HD>
+                <P>FSA is committed to complying with the E-Government Act, to promote the use of the Internet and other information technologies to provide increased opportunities for citizen access to Government information and services, and for other purposes.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects</HD>
+                    <CFR>7 CFR Part 760</CFR>
+                    <P>Dairy products, Indemnity payments, Pesticide and pests, Reporting and recordkeeping requirements.</P>
+                    <CFR>7 CFR Part 1400</CFR>
+                    <P>Agriculture, Grant programsâagriculture, Loan programsâagriculture, Price support programs, Reporting and recordkeeping requirements.</P>
+                    <CFR>7 CFR Part 1439</CFR>
+                    <P>Animal feeds, Disaster assistance, Grant programsâagriculture, Indians, Livestock, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <REGTEXT TITLE="7" PART="760">
+                    <AMDPAR>For the reasons discussed above, under the authority of 15 U. S.C. 714b, this rule amends 7 CFR parts 760, 1400, and 1439 as follows:</AMDPAR>
+                    <PART>
+                        <HD SOURCE="HED">PART 760âINDEMNITY PAYMENT PROGRAMS</HD>
+                    </PART>
+                    <AMDPAR>1. Revise the authority citation for part 760 to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 7 U.S.C. 4501, 7 U.S.C. 1531, 16 U.S.C. 3801, note, and 19 U.S.C. 2497; Title III, Public Law 109-234, 120 Stat. 474; and Title IX, Public Law 110-28, 121 Stat. 211.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="760">
+                    <AMDPAR>2. Revise Subpart B to read as follows:</AMDPAR>
+                    <P/>
+                    <CONTENTS>
+                        <SUBPART>
+                            <HD SOURCE="HED">Subpart BâGeneral Provisions for Supplemental Agricultural Disaster Assistance Programs</HD>
+                            <SECHD>Sec.</SECHD>
+                            <SECTNO>760.101</SECTNO>
+                            <SUBJECT>Applicability.</SUBJECT>
+                            <SECTNO>760.102</SECTNO>
+                            <SUBJECT>Administration of ELAP, LFP, LIP, SURE, and TAP.</SUBJECT>
+                            <SECTNO>760.103</SECTNO>
+                            <SUBJECT>Eligible producer.</SUBJECT>
+                            <SECTNO>760.104</SECTNO>
+                            <SUBJECT>Risk management purchase requirements.</SUBJECT>
+                            <SECTNO>760.105</SECTNO>
+                            <SUBJECT>Waiver for certain crop years; buy-in.</SUBJECT>
+                            <SECTNO>760.106</SECTNO>
+                            <SUBJECT>Equitable relief.</SUBJECT>
+                            <SECTNO>760.107</SECTNO>
+                            <SUBJECT>Socially disadvantaged, limited resource, or beginning farmer or rancher.</SUBJECT>
+                            <SECTNO>760.108</SECTNO>
+                            <SUBJECT>Payment limitation.</SUBJECT>
+                            <SECTNO>760.109</SECTNO>
+                            <SUBJECT>Misrepresentation and scheme or device.</SUBJECT>
+                            <SECTNO>760.110</SECTNO>
+                            <SUBJECT>Appeals.</SUBJECT>
+                            <SECTNO>760.111</SECTNO>
+                            <SUBJECT>Offsets, assignments, and debt settlement.</SUBJECT>
+                            <SECTNO>760.112</SECTNO>
+                            <SUBJECT>Records and inspections.</SUBJECT>
+                            <SECTNO>760.113</SECTNO>
+                            <SUBJECT>Refunds; joint and several liability.</SUBJECT>
+                            <SECTNO>760.114</SECTNO>
+                            <SUBJECT>Minors.</SUBJECT>
+                            <SECTNO>760.115</SECTNO>
+                            <SUBJECT>Deceased individuals or dissolved entities.</SUBJECT>
+                            <SECTNO>760.116</SECTNO>
+                            <SUBJECT>Miscellaneous.</SUBJECT>
+                        </SUBPART>
+                    </CONTENTS>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart BâGeneral Provisions for Supplemental Agricultural Disaster Assistance Programs</HD>
+                        <SECTION>
+                            <SECTNO>Â§â760.101 </SECTNO>
+                            <SUBJECT>Applicability.</SUBJECT>
+                            <P>
+                                (a) This subpart establishes general conditions for this subpart and subparts C through H of this part and applies 
+                                <PRTPAGE P="31572"/>
+                                only to those subparts. Subparts C through H cover the following programs provided for in the â2008 Farm Billâ (Pub. L. 110-246):
+                            </P>
+                            <P>(1) Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program (ELAP);</P>
+                            <P>(2) Livestock Forage Disaster Program (LFP);</P>
+                            <P>(3) Livestock Indemnity Payments Program (LIP);</P>
+                            <P>(4) Supplemental Revenue Assistance Payments Program (SURE); and</P>
+                            <P>(5) Tree Assistance Program (TAP).</P>
+                            <P>(b) To be eligible for payments under these programs, participants must comply with all provisions under this subpart and the relevant particular subpart for that program. All other provisions of law also apply.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.102 </SECTNO>
+                            <SUBJECT>Administration of ELAP, LFP, LIP, SURE, and TAP.</SUBJECT>
+                            <P>(a) The programs in subparts C through H of this part will be administered under the general supervision and direction of the Administrator, Farm Service Agency (FSA), and the Deputy Administrator for Farm Programs, FSA (who is referred to as the âDeputy Administratorâ in this part).</P>
+                            <P>(b) FSA representatives do not have authority to modify or waive any of the provisions of the regulations of this part as amended or supplemented, except as specified in paragraph (e) of this section.</P>
+                            <P>(c) The State FSA committee will take any action required by the regulations of this part that the county FSA committee has not taken. The State FSA committee will also:</P>
+                            <P>(1) Correct, or require a county FSA committee to correct, any action taken by such county FSA committee that is not in accordance with the regulations of this part or</P>
+                            <P>(2) Require a county FSA committee to withhold taking any action that is not in accordance with this part.</P>
+                            <P>(d) No provision or delegation to a State or county FSA committee will preclude the Administrator, the Deputy Administrator for Farm Programs, or a designee or other such person, from determining any question arising under the programs of this part, or from reversing or modifying any determination made by a State or county FSA committee.</P>
+                            <P>(e) The Deputy Administrator for Farm Programs may authorize State and county FSA committees to waive or modify non-statutory deadlines, or other program requirements of this part in cases where lateness or failure to meet such requirements does not adversely affect operation of the programs in this part. Participants have no right to seek an exception under this provision. The Deputy Administrator's refusal to consider cases or circumstances or decision not to exercise this discretionary authority under this provision will not be considered an adverse decision and is not appealable.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.103 </SECTNO>
+                            <SUBJECT>Eligible producer.</SUBJECT>
+                            <P>(a) In general, the term âeligible producerâ means, in addition to other requirements as may apply, an individual or entity described in paragraph (b) of this section that, as determined by the Secretary, assumes the production and market risks associated with the agricultural production of crops or livestock on a farm either as the owner of the farm, when there is no contract grower, or a contract grower of the livestock when there is a contract grower.</P>
+                            <P>(b) To be eligible for benefits, an individual or entity must be a:</P>
+                            <P>(1) Citizen of the United States;</P>
+                            <P>(2) Resident alien; for purposes of this part, resident alien means âlawful alienâ as defined in 7 CFR part 1400;</P>
+                            <P>(3) Partnership of citizens of the United States; or</P>
+                            <P>(4) Corporation, limited liability corporation, or other farm organizational structure organized under State law.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.104 </SECTNO>
+                            <SUBJECT>Risk management purchase requirements.</SUBJECT>
+                            <P>(a) To be eligible for program payments under:</P>
+                            <P>(1) ELAP, SURE, and TAP, eligible producers for any commodity at any location for which the producer seeks benefits must have for every commodity on every farm in which the producer has an interest for the relevant program year:</P>
+                            <P>(i) In the case of an âinsurable commodity,â (which for this part means a commodity for which the Deputy Administrator determines catastrophic coverage is available from the USDA Risk Management Agency (RMA)) obtained catastrophic coverage or better under a policy or plan of insurance administered by RMA under the Federal Crop Insurance Act (FCIA) (7 U.S.C. 1501-1524), except that this obligation will not include crop insurance pilot programs so designated by RMA or to forage crops, and</P>
+                            <P>(ii) In the case of a ânoninsurable commodity,â (which is any commodity for which, as to the particular production in question, is not an âinsurable commodity,â but for which coverage is available under the Noninsured Crop Disaster Assistance Program (NAP) operated under 7 CFR part 1437), have obtained NAP coverage by filing the proper paperwork and fee within the relevant deadlines, except that this requirement will not include forage on grazing land.</P>
+                            <P>(2) LFP, with respect to those grazing lands incurring losses for which assistance is being requested, eligible livestock producers must have:</P>
+                            <P>(i) Obtained a policy or plan of insurance for the forage crop under FCIA, or</P>
+                            <P>(ii) Filed the required paperwork and paid the administrative fee by the applicable State filing deadline for NAP coverage for that grazing land.</P>
+                            <P>(b) Producers who did not purchase a policy or plan of insurance administered by RMA in accordance with FCIA (7 U.S.C. 1501-1524), or NAP coverage for their applicable crops, will not be eligible for assistance under ELAP, LFP, SURE, and TAP, as provided in paragraph (a) of this section unless the producer is one of the classes of farmers for which an exemption under Â§â760.107 apply, is exempt under the âbuy-inâ provisions of this subpart, or is granted relief from that requirement by the Deputy Administrator under some other provision of this part.</P>
+                            <P>(c) Producers who have obtained insurance by a written agreement as specified in Â§â400.652(d) of this title even though that production would not normally be considered an âinsurable commodityâ under the rules of this subpart, will be considered to have met the risk management purchase requirement of this subpart with respect to such production. The commodity to which the agreement applies will be considered for purposes of this subpart to be an âinsurable commodity.â</P>
+                            <P>(d) Producers by an administrative process who were granted NAP coverage for the relevant period as a form of relief in an administrative proceeding, or who were awarded NAP coverage for the relevant period through an appeal through the National Appeals Division (NAD), will be considered as having met the NAP eligibility criteria of this section for that crop as long as the applicable NAP service fee has been paid.</P>
+                            <P>(e) The risk management purchase requirement for programs specified under this part will be determined based on the initial intended use of a crop at the time a policy or plan of insurance or NAP coverage was purchased and as reported on the acreage report.</P>
+                        </SECTION>
+                        <SECTION>
+                            <PRTPAGE P="31573"/>
+                            <SECTNO>Â§â760.105 </SECTNO>
+                            <SUBJECT>Waiver for certain crop years; buy-in.</SUBJECT>
+                            <P>(a) For the 2008 crop year, the insurance or NAP purchase requirements of Â§â760.104 (this is referred to as the âpurchaseâ requirement) will be waived for eligible producers for losses during the 2008 crop year if the eligible producer paid a fee (buy-in fee) equal to the applicable NAP service fee or catastrophic risk protection plan fee to the Secretary by September 16, 2008. Payment of a buy-in fee under this section is for the sole purpose of becoming eligible for participation in ELAP, LFP, SURE, and TAP. Payment of a buy-in fee does not provide any actual insurance or NAP coverage or assistance.</P>
+                            <P>(b) For the 2009 crop year, the purchase requirement will be waived for purchases where the closing date for coverage occurred prior to August 14, 2008, so long as the buy-in fee set by the Secretary of Agriculture was paid by January 12, 2009.</P>
+                            <P>(c) Any producer of 2008 commodities who is otherwise ineligible because of the purchase requirement and who did not meet the conditions of paragraph (a) of this section may still be covered for ELAP, SURE, or TAP assistance if the producer paid the applicable fee described in paragraph (d) of this section no later than May 18, 2009, provided that in the case of each:</P>
+                            <P>(1) Insurable commodity, excluding grazing land, the eligible producers on the farm agree to obtain a policy or plan of insurance under FCIA (7 U.S.C. 1501-1524), excluding a crop insurance pilot program under that subtitle, for the next insurance year for which crop insurance is available to the eligible producers on the farm at a level of coverage equal to 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage, and</P>
+                            <P>(2) Noninsurable commodity, the eligible producers on the farm must agree to file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for NAP for the next year for which a policy is available.</P>
+                            <P>(d) For producers seeking eligibility under paragraph (c) of this section, the applicable buy-in fee for the 2008 crop year was the catastrophic risk protection plan fee or the applicable NAP service fee in effect prior to NAP service fee adjustments specified in the 2008 Farm Bill.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.106 </SECTNO>
+                            <SUBJECT>Equitable relief.</SUBJECT>
+                            <P>(a) The Secretary may provide equitable relief on a case-by-case basis for the purchase requirement to eligible participants that:</P>
+                            <P>(1) Are otherwise ineligible or unintentionally fail to meet the requirements of Â§â760.104 for one or more eligible crops on the farm, as determined by the Secretary, or</P>
+                            <P>(2) Failed to meet the requirements of Â§â760.104 due to the enactment of the 2008 Farm Bill after the:</P>
+                            <P>(i) Applicable sales closing date for a policy or plan of insurance in accordance with the FCIA (7 U.S.C. 1501-1524) or</P>
+                            <P>(ii) Application closing date for NAP.</P>
+                            <P>(b) Equitable relief will not be granted to participants in instances of:</P>
+                            <P>(1) A scheme or device that had the effect or intent of defeating the purposes of a program of insurance, NAP, or any other program administered under this part or elsewhere in this title,</P>
+                            <P>(2) An intentional decision to not meet the purchase or buy-in requirements,</P>
+                            <P>(3) Producers against whom sanctions have been imposed by RMA or FSA prohibiting the purchase of coverage or prohibiting the receipt of payments otherwise payable under this part,</P>
+                            <P>(4) Violations of highly erodible land and wetland conservation provisions of 7 CFR part 12,</P>
+                            <P>(5) Producers who are ineligible under any provisions of law, including regulations, relating to controlled substances (see for example 7 CFR 718.6), or</P>
+                            <P>(6) A producer's debarment by a federal agency from receiving any federal government payment if such debarment included payments of the type involved in this matter.</P>
+                            <P>(c) In general, no relief that is discretionary will be allowed except upon a finding by the Deputy Administrator or the Deputy Administrator's designee that the person seeking the relief acted in good faith as determined in accordance with such rules and procedures as may be set by the Deputy Administrator.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.107 </SECTNO>
+                            <SUBJECT>Socially disadvantaged, limited resource, or beginning farmer or rancher.</SUBJECT>
+                            <P>(a) Risk management purchase requirements, as provided in Â§â760.104, will be waived for a participant who, as specified in paragraphs (b)(1) through (3) of this section, is eligible to be considered a âsocially disadvantaged farmer or rancher,â a âlimited resource farmer or rancher,â or a âbeginning farmer or rancher.â</P>
+                            <P>(b) To qualify for this section as a âsocially disadvantaged farmer or rancher,â âlimited resource farmer or rancher,â or âbeginning farmer or rancher,â participants must meet eligibility criteria as follows:</P>
+                            <P>(1) A âsocially disadvantaged farmer or rancherâ is, for this section, a farmer or rancher who is a member of a socially disadvantaged group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities. Gender is not included as a covered group. Socially disadvantaged groups include the following and no others unless approved in writing by the Deputy Administrator:</P>
+                            <P>(i) American Indians or Alaskan Natives,</P>
+                            <P>(ii) Asians or Asian-Americans,</P>
+                            <P>(iii) Blacks or African Americans,</P>
+                            <P>(iv) Native Hawaiians or other Pacific Islanders, and</P>
+                            <P>(v) Hispanics.</P>
+                            <P>(2) A âlimited resource farmer or rancherâ means for this section a producer who is both:</P>
+                            <P>(i) A producer whose direct or indirect gross farm sales do not exceed $100,000 in both of the two calendar years that precede the calendar year that corresponds to the relevant program year, adjusted upwards for any general inflation since fiscal year 2004, inflation as measured using the Prices Paid by Farmer Index compiled by the National Agricultural Statistics Service (NASS), and</P>
+                            <P>
+                                (ii) A producer whose total household income is at or below the national poverty level for a family of four, or less than 50 percent of the county median household income for the same two calendar years referenced in paragraph (a) of this section, as determined annually using Commerce Department data. (Limited resource farmer or rancher status can be determined using a Web site available through the Limited Resource Farmer and Rancher Online Self Determination Tool through the National Resource and Conservation Service at 
+                                <E T="03">http://www.lrftool.sc.egov.usda.gov/tool.asp.</E>
+                                )
+                            </P>
+                            <P>(3) A âbeginning farmer or rancherâ means for this section a person or legal entity who for a program year both:</P>
+                            <P>(i) Has never previously operated a farm or ranch, or who has not operated a farm or ranch in the previous 10 years, applicable to all members (shareholders, partners, beneficiaries, etc., as fits the circumstances) of an entity, and</P>
+                            <P>(ii) Will have or has had for the relevant period materially and substantially participated in the operation of a farm or ranch.</P>
+                            <P>
+                                (c) If a legal entity requests to be considered a âsocially disadvantaged,â âlimited resource,â or âbeginningâ farmer or rancher, at least 50 percent of the persons in the entity must in their individual capacities meet the 
+                                <PRTPAGE P="31574"/>
+                                definition as provided in paragraphs (b)(1) through (3) of this section and it must be clearly demonstrated that the entity was not formed for the purposes of avoiding the purchase requirements or formed after the deadline for the purchase requirement.
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.108 </SECTNO>
+                            <SUBJECT>Payment limitation.</SUBJECT>
+                            <P>(a) For 2008, no person, as defined and determined under the provisions in part 1400 of this title in effect for 2008 may receive more than:</P>
+                            <P>(1) $100,000 total for the 2008 program year under ELAP, LFP, LIP, and SURE combined or</P>
+                            <P>(2) $100,000 for the 2008 program year under TAP.</P>
+                            <P>(b) For 2009 and subsequent program years, no person or legal entity, excluding a joint venture or general partnership, as determined by the rules in part 1400 of this title may receive, directly or indirectly, more than:</P>
+                            <P>(1) $100,000 per program year total under ELAP, LFP, LIP, and SURE combined; or</P>
+                            <P>(2) $100,000 per program year under TAP.</P>
+                            <P>(c) The Deputy Administrator may take such actions as needed, whether or not specifically provided for, to avoid a duplication of benefits under the multiple programs provided for in this part, or duplication of benefits received in other programs, and may impose such cross-program payment limitations as may be consistent with the intent of this part.</P>
+                            <P>(d) In applying the limitation on average adjusted gross income (AGI) for 2008, an individual or entity is ineligible for payment under ELAP, LFP, LIP, SURE, and TAP if the individual's or entity's average adjusted gross income (AGI) exceeds $2.5 million for 2007, 2006, and 2005 under the provisions in part 1400 of this title in effect for 2008.</P>
+                            <P>(e) For 2009 through 2011, the average AGI limitation provisions in part 1400 of this title relating to limits on payments for persons or legal entities, excluding joint ventures and general partnerships, with certain levels of average adjusted gross income (AGI) will apply under this subpart and will apply to each applicant for ELAP, LFP, LIP, SURE, and TAP. Specifically, for 2009 through 2011, a person or legal entity with an average adjusted gross nonfarm income, as defined in Â§â1404.3 of this title, that exceeds $500,000 will not be eligible to receive benefits under this part.</P>
+                            <P>(f) The direct attribution provisions in part 1400 of this title apply to ELAP, LFP, LIP, SURE, and TAP for 2009 and subsequent years. Under those rules, any payment to any legal entity will also be considered for payment limitation purposes to be a payment to persons or legal entities with an interest in the legal entity or in a sub-entity. If any such interested person or legal entity is over the payment limitation because of direct payment or their indirect interests or a combination thereof, then the payment to the actual payee will be reduced commensurate with the amount of the interest of the interested person in the payee. Likewise, by the same method, if anyone with a direct or indirect interest in a legal entity or sub-entity of a payee entity exceeds the AGI levels that would allow a participant to directly receive a payment under this part, then the payment to the actual payee will be reduced commensurately with that interest. For all purposes under this section, unless otherwise specified in part 1400 of this title, the AGI figure that will be relevant for a person or legal entity will be an average AGI for the three taxable years that precede the most immediately preceding complete taxable year, as determined by CCC.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.109 </SECTNO>
+                            <SUBJECT>Misrepresentation and scheme or device.</SUBJECT>
+                            <P>(a) A participant who is determined to have deliberately misrepresented any fact affecting a program determination made in accordance with this part, or otherwise used a scheme or device with the intent to receive benefits for which the participant would not otherwise be entitled, will not be entitled to program payments and must refund all such payments received, plus interest as determined in accordance with part 792 of this chapter. The participant will also be denied program benefits for the immediately subsequent period of at least 2 crop years, and up to 5 crop years. Interest will run from the date of the original disbursement by FSA.</P>
+                            <P>(b) A participant will refund to FSA all program payments, plus interest, as determined in accordance with part 792 of this chapter, provided however, that in any case it will run from the date of the original disbursement, received by such participant with respect to all contracts or applications, as may be applicable, if the participant is determined to have knowingly done any of the following:</P>
+                            <P>(1) Adopted any scheme or device that tends to defeat the purpose of the program,</P>
+                            <P>(2) Made any fraudulent representation, or</P>
+                            <P>(3) Misrepresented any fact affecting a program determination.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.110 </SECTNO>
+                            <SUBJECT>Appeals.</SUBJECT>
+                            <P>
+                                (a) 
+                                <E T="03">Appeals.</E>
+                                 Appeal regulations set forth at parts 11 and 780 of this title apply to this part.
+                            </P>
+                            <P>
+                                (b) 
+                                <E T="03">Determinations not eligible for administrative review or appeal.</E>
+                                 FSA determinations that are not in response to a specific individual participant's application are not to be construed to be individual program eligibility determinations or adverse decisions and are, therefore, not subject to administrative review or appeal under parts 11 or 780 of this title. Such determinations include, but are not limited to, application periods, deadlines, coverage periods, crop years, fees, prices, general statutory or regulatory provisions that apply to similarly situated participants, national average payment prices, regions, crop definition, average yields, and payment factors established by FSA for any of the programs for which this subpart applies or similar matters requiring FSA determinations.
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.111 </SECTNO>
+                            <SUBJECT>Offsets, assignments, and debt settlement.</SUBJECT>
+                            <P>(a) Any payment to any participant under this part will be made without regard to questions of title under State law, and without regard to any claim or lien against the commodity, or proceeds, in favor of the owner or any other creditor except agencies of the U.S. Government. The regulations governing offsets and withholdings in part 792 of this title apply to payments made under this part.</P>
+                            <P>(b) Any participant entitled to any payment may assign any payment(s) in accordance with regulations governing the assignment of payments in part 1404 of this title.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.112 </SECTNO>
+                            <SUBJECT>Records and inspections.</SUBJECT>
+                            <P>(a) Any participant receiving payments under any program in ELAP, LFP, LIP, SURE, or TAP, or any other legal entity or person who provides information for the purposes of enabling a participant to receive a payment under ELAP, LFP, LIP, SURE, or TAP, must:</P>
+                            <P>(1) Maintain any books, records, and accounts supporting the information for 3 years following the end of the year during which the request for payment was submitted, and</P>
+                            <P>
+                                (2) Allow authorized representatives of USDA and the Government Accountability Office, during regular business hours, to inspect, examine, and make copies of such books or records, and to enter the farm and to inspect and verify all applicable livestock and acreage in which the participant has an interest for the purpose of confirming 
+                                <PRTPAGE P="31575"/>
+                                the accuracy of information provided by or for the participant.
+                            </P>
+                            <P>(b) [Reserved]</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.113 </SECTNO>
+                            <SUBJECT>Refunds; joint and several liability.</SUBJECT>
+                            <P>(a) In the event that the participant fails to comply with any term, requirement, or condition for payment or assistance arising under ELAP, LFP, LIP, SURE, or TAP and if any refund of a payment to FSA will otherwise become due in connection with this part, the participant must refund to FSA all payments made in regard to such matter, together with interest and late-payment charges as provided for in part 792 of this chapter provided that interest will in all cases run from the date of the original disbursement.</P>
+                            <P>(b) All persons with a financial interest in an operation or in an application for payment will be jointly and severally liable for any refund, including related charges, that is determined to be due FSA for any reason under this part.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.114 </SECTNO>
+                            <SUBJECT>Minors.</SUBJECT>
+                            <P>A minor child is eligible to apply for program benefits under ELAP, LFP, LIP, SURE, or TAP if all the eligibility requirements are met and the provision for minor children in part 1400 of this title are met.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.115 </SECTNO>
+                            <SUBJECT>Deceased individuals or dissolved entities.</SUBJECT>
+                            <P>(a) Payments may be made for eligible losses suffered by an eligible participant who is now a deceased individual or is a dissolved entity if a representative, who currently has authority to enter into a contract, on behalf of the participant, signs the application for payment.</P>
+                            <P>(b) Legal documents showing proof of authority to sign for the deceased individual or dissolved entity must be provided.</P>
+                            <P>(c) If a participant is now a dissolved general partnership or joint venture, all members of the general partnership or joint venture at the time of dissolution or their duly authorized representatives must sign the application for payment.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.116 </SECTNO>
+                            <SUBJECT>Miscellaneous.</SUBJECT>
+                            <P>(a) As a condition to receive benefits under ELAP, LFP, LIP, SURE, or TAP, a participant must have been in compliance with the provisions of parts 12 and 718 of this title, and must not otherwise be precluded from receiving benefits under those provisions or under any law.</P>
+                            <P>(b) Rules of the Commodity Credit Corporation that are cited in this part will be applied to this subpart in the same manner as if the programs covered in this subpart were programs funded by the Commodity Credit Corporation.</P>
+                        </SECTION>
+                    </SUBPART>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="760">
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart C [Removed and Reserved]</HD>
+                    </SUBPART>
+                    <AMDPAR>3. Remove and reserve subpart C.</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="760">
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart D [Removed and Reserved]</HD>
+                    </SUBPART>
+                    <AMDPAR>4. Remove and reserve subpart D.</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="760">
+                    <AMDPAR>5. Revise subpart E to read as follows:</AMDPAR>
+                    <CONTENTS>
+                        <SUBPART>
+                            <HD SOURCE="HED">Subpart EâLivestock Indemnity Program</HD>
+                            <SECHD>Sec.</SECHD>
+                            <SECTNO>760.401 </SECTNO>
+                            <SUBJECT>Applicability.</SUBJECT>
+                            <SECTNO>760.402 </SECTNO>
+                            <SUBJECT>Definitions.</SUBJECT>
+                            <SECTNO>760.403 </SECTNO>
+                            <SUBJECT>Eligible owners and contract growers.</SUBJECT>
+                            <SECTNO>760.404 </SECTNO>
+                            <SUBJECT>Eligible livestock.</SUBJECT>
+                            <SECTNO>760.405 </SECTNO>
+                            <SUBJECT>Application process.</SUBJECT>
+                            <SECTNO>760.406 </SECTNO>
+                            <SUBJECT>Payment calculation.</SUBJECT>
+                        </SUBPART>
+                    </CONTENTS>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart EâLivestock Indemnity Program</HD>
+                        <SECTION>
+                            <SECTNO>Â§â760.401 </SECTNO>
+                            <SUBJECT>Applicability.</SUBJECT>
+                            <P>(a) This subpart establishes the terms and conditions under which the Livestock Indemnity Program (LIP) will be administered under Titles XII and XV of the 2008 Farm Bill (Pub. L. 110-246).</P>
+                            <P>(b) Eligible livestock owners and contract growers will be compensated in accordance with Â§â760.406 for eligible livestock deaths in excess of normal mortality that occurred in the calendar year for which benefits are being requested as a direct result of an eligible adverse weather event. An âeligible adverse weather eventâ is one, as determined by the Secretary, occurring in the program year that could and did, even when normal preventative or corrective measures were taken and good farming practices were followed, directly result in the death of livestock. Because feed can be purchased or otherwise obtained in the event of a drought, drought is not an eligible adverse weather event except when anthrax, resulting from drought, causes the death of eligible livestock.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.402 </SECTNO>
+                            <SUBJECT>Definitions.</SUBJECT>
+                            <P>The following definitions apply to this subpart. The definitions in parts 718 and 1400 of this title also apply, except where they conflict with the definitions in this section.</P>
+                            <P>
+                                <E T="03">Adult beef bull</E>
+                                 means a male beef breed bovine animal that was at least 2 years old and used for breeding purposes before it died.
+                            </P>
+                            <P>
+                                <E T="03">Adult beef cow</E>
+                                 means a female beef breed bovine animal that had delivered one or more offspring before dying. A first-time bred beef heifer is also considered an adult beef cow if it was pregnant at the time it died.
+                            </P>
+                            <P>
+                                <E T="03">Adult buffalo and beefalo bull</E>
+                                 means a male animal of those breeds that was at least 2 years old and used for breeding purposes before it died.
+                            </P>
+                            <P>
+                                <E T="03">Adult buffalo and beefalo cow</E>
+                                 means a female animal of those breeds that had delivered one or more offspring before dying. A first-time bred buffalo or beefalo heifer is also considered an adult buffalo or beefalo cow if it was pregnant at the time it died.
+                            </P>
+                            <P>
+                                <E T="03">Adult dairy bull</E>
+                                 means a male dairy breed bovine animal at least 2 years old used primarily for breeding dairy cows before it died.
+                            </P>
+                            <P>
+                                <E T="03">Adult dairy cow</E>
+                                 means a female bovine dairy breed animal used for the purpose of providing milk for human consumption that had delivered one or more offspring before dying. A first-time bred dairy heifer is also considered an adult dairy cow if it was pregnant at the time it died.
+                            </P>
+                            <P>
+                                <E T="03">Adverse weather</E>
+                                 means damaging weather events, including, but not limited to,
+                                <E T="03"/>
+                                 hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
+                            </P>
+                            <P>
+                                <E T="03">Agricultural operation</E>
+                                 means a farming operation.
+                            </P>
+                            <P>
+                                <E T="03">Application</E>
+                                 means the âLivestock Indemnity Programâ form.
+                            </P>
+                            <P>
+                                <E T="03">Buck</E>
+                                 means a male goat.
+                            </P>
+                            <P>
+                                <E T="03">Commercial use</E>
+                                 means used in the operation of a business activity engaged in as a means of livelihood for profit by the eligible producer.
+                            </P>
+                            <P>
+                                <E T="03">Contract</E>
+                                 means, with respect to contracts for the handling of livestock, a written agreement between a livestock owner and another individual or entity setting the specific terms, conditions, and obligations of the parties involved regarding the production of livestock or livestock products.
+                            </P>
+                            <P>
+                                <E T="03">Deputy Administrator</E>
+                                 or DAFP means the Deputy Administrator for Farm Programs, Farm Service Agency, U.S. Department of Agriculture or the designee.
+                            </P>
+                            <P>
+                                <E T="03">Equine animal</E>
+                                 means a domesticated horse, mule, or donkey.
+                            </P>
+                            <P>
+                                <E T="03">Ewe</E>
+                                 means a female sheep.
+                            </P>
+                            <P>
+                                <E T="03">Farming operation</E>
+                                 means a business enterprise engaged in producing agricultural products.
+                            </P>
+                            <P>
+                                <E T="03">FSA</E>
+                                 means the Farm Service Agency.
+                            </P>
+                            <P>
+                                <E T="03">Goat</E>
+                                 means a domesticated, ruminant mammal of the genus Capra, including Angora goats. Goats are further defined by sex (bucks and nannies) and age (kids).
+                            </P>
+                            <P>
+                                <E T="03">Kid</E>
+                                 means a goat less than 1 year old.
+                            </P>
+                            <P>
+                                <E T="03">Lamb</E>
+                                 means a sheep less than 1 year old.
+                            </P>
+                            <P>
+                                <E T="03">Livestock owner</E>
+                                 means one having legal ownership of the livestock for which benefits are being requested on the day such livestock died.
+                            </P>
+                            <P>
+                                <E T="03">Nanny</E>
+                                 means a female goat.
+                            </P>
+                            <P>
+                                <E T="03">Non-adult beef cattle</E>
+                                 means a beef breed bovine animal that does not meet 
+                                <PRTPAGE P="31576"/>
+                                the definition of adult beef cow or bull. Non-adult beef cattle are further delineated by weight categories of either less than 400 pounds or 400 pounds or more at the time they died.
+                            </P>
+                            <P>
+                                <E T="03">Non-adult buffalo or beefalo</E>
+                                 means an animal of those breeds that does not meet the definition of adult buffalo or beefalo cow or bull. Non-adult buffalo or beefalo are further delineated by weight categories of either less than 400 pounds or 400 pounds or more at the time of death.
+                            </P>
+                            <P>
+                                <E T="03">Non-adult dairy cattle</E>
+                                 means a dairy breed bovine animal, of a breed used for the purpose of providing milk for human consumption, that does not meet the definition of adult dairy cow or bull. Non-adult dairy cattle are further delineated by weight categories of either less than 400 pounds or 400 pounds or more at the time they died.
+                            </P>
+                            <P>
+                                <E T="03">Normal mortality</E>
+                                 means the numerical amount, computed by a percentage, as established for the area by the FSA State Committee, of expected livestock deaths, by category, that normally occur during a calendar year for a producer.
+                            </P>
+                            <P>
+                                <E T="03">Poultry</E>
+                                 means domesticated chickens, turkeys, ducks, and geese. Poultry are further delineated by sex, age, and purpose of production as determined by FSA.
+                            </P>
+                            <P>
+                                <E T="03">Ram</E>
+                                 means a male sheep.
+                            </P>
+                            <P>
+                                <E T="03">Secretary</E>
+                                 means the Secretary of Agriculture or a designee of the Secretary.
+                            </P>
+                            <P>
+                                <E T="03">Sheep</E>
+                                 means a domesticated, ruminant mammal of the genus Ovis. Sheep are further defined by sex (rams and ewes) and age (lambs) for purposes of dividing into categories for loss calculations.
+                            </P>
+                            <P>
+                                <E T="03">State committee, State office, county committee, or county office</E>
+                                 means the respective FSA committee or office.
+                            </P>
+                            <P>
+                                <E T="03">Swine</E>
+                                 means a domesticated omnivorous pig, hog, or boar. Swine for purposes of dividing into categories for loss calculations are further delineated by sex and weight as determined by FSA.
+                            </P>
+                            <P>
+                                <E T="03">United States</E>
+                                 means all fifty States of the United States, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and the District of Columbia.
+                            </P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.403 </SECTNO>
+                            <SUBJECT>Eligible owners and contract growers.</SUBJECT>
+                            <P>(a) In addition to other eligibility rules that may apply, to be eligible as a:</P>
+                            <P>(1) Livestock owner for benefits with respect to the death of an animal under this subpart, the applicant must have had legal ownership of the eligible livestock on the day the livestock died and under conditions in which no contract grower could have been eligible for benefits with respect to the animal. Eligible types of animal categories for which losses can be calculated for an owner are specified in Â§â760.404(a).</P>
+                            <P>(2) Contract grower for benefits with respect to the death of an animal, the animal must be in one of the categories specified on Â§â760.404(b), and the contract grower must have had</P>
+                            <P>(i) A written agreement with the owner of eligible livestock setting the specific terms, conditions, and obligations of the parties involved regarding the production of livestock;</P>
+                            <P>(ii) Control of the eligible livestock on the day the livestock died; and</P>
+                            <P>(iii) A risk of loss in the animal.</P>
+                            <P>(b) A producer seeking payment must not be ineligible under the restrictions applicable to foreign persons contained in Â§â760.103(b) and must meet all other requirements of subpart B and other applicable USDA regulations.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.404 </SECTNO>
+                            <SUBJECT>Eligible livestock.</SUBJECT>
+                            <P>(a) To be considered eligible livestock for livestock owners, the kind of livestock must be alpacas, adult or non-adult dairy cattle, beef cattle, buffalo, beefalo, elk, emus, equine, llamas, sheep, goats, swine, poultry, deer, or reindeer and meet all the conditions in paragraph (c) of this section.</P>
+                            <P>(b) To be considered eligible livestock for contract growers, the kind of livestock must be poultry or swine as defined in Â§â760.402 and meet all the conditions in paragraph (c) of this section.</P>
+                            <P>(c) To be considered eligible livestock for the purpose of generating payments under this subpart, livestock must meet all of the following conditions:</P>
+                            <P>(1) Died as a direct result of an eligible adverse weather event:</P>
+                            <P>(i) On or after January 1, 2008, but before October 1, 2011,</P>
+                            <P>(ii) No later than 60 calendar days from the ending date of the applicable adverse weather event, but before October 1, 2011, and</P>
+                            <P>(iii) In the calendar year for which benefits are being requested;</P>
+                            <P>(2) Been maintained for commercial use as part of a farming operation on the day they died; and</P>
+                            <P>(3) Before dying, not have been produced or maintained for reasons other than commercial use as part of a farming operation, such non-eligible uses being understood to include, but not be limited to, any uses of wild free roaming animals or use of the animals for recreational purposes, such as pleasure, hunting, roping, pets, or for show.</P>
+                            <P>(d) The following categories of animals owned by a livestock owner are eligible livestock and calculations of eligibility for payments will be calculated separately for each producer with respect to each category:</P>
+                            <P>(1) Adult beef bulls;</P>
+                            <P>(2) Adult beef cows;</P>
+                            <P>(3) Adult buffalo or beefalo bulls;</P>
+                            <P>(4) Adult buffalo or beefalo cows;</P>
+                            <P>(5) Adult dairy bulls;</P>
+                            <P>(6) Adult dairy cows;</P>
+                            <P>(7) Alpacas;</P>
+                            <P>(8) Chickens, broilers, pullets;</P>
+                            <P>(9) Chickens, chicks;</P>
+                            <P>(10) Chickens, layers, roasters;</P>
+                            <P>(11) Deer;</P>
+                            <P>(12) Ducks;</P>
+                            <P>(13) Ducks, ducklings;</P>
+                            <P>(14) Elk;</P>
+                            <P>(15) Emus;</P>
+                            <P>(16) Equine;</P>
+                            <P>(17) Geese, goose;</P>
+                            <P>(18) Geese, gosling;</P>
+                            <P>(19) Goats, bucks;</P>
+                            <P>(20) Goats, nannies;</P>
+                            <P>(21) Goats, kids;</P>
+                            <P>(22) Llamas;</P>
+                            <P>(23) Non-adult beef cattle;</P>
+                            <P>(24) Non-adult buffalo or beefalo;</P>
+                            <P>(25) Non-adult dairy cattle;</P>
+                            <P>(26) Reindeer;</P>
+                            <P>(27) Sheep, ewes;</P>
+                            <P>(28) Sheep, lambs;</P>
+                            <P>(29) Sheep, rams;</P>
+                            <P>(30) Swine, feeder pigs under 50 pounds;</P>
+                            <P>(31) Swine, sows, boars, barrows, gilts 50 to 150 pounds;</P>
+                            <P>(32) Swine, sows, boars, barrows, gilts over 150 pounds;</P>
+                            <P>(33) Turkeys, poults; and</P>
+                            <P>(34) Turkeys, toms, fryers, and roasters.</P>
+                            <P>(e) The following categories of animals are eligible livestock for contract growers and calculations of eligibility for payments will be calculated separately for each producer with respect to each category:</P>
+                            <P>(1) Chickens, broilers, pullets;</P>
+                            <P>(2) Chickens, layers, roasters;</P>
+                            <P>(3) Geese, goose;</P>
+                            <P>(4) Swine, boars, sows;</P>
+                            <P>(5) Swine, feeder pigs;</P>
+                            <P>(6) Swine, lightweight barrows, gilts;</P>
+                            <P>(7) Swine, sows, boars, barrows, gilts; and</P>
+                            <P>(8) Turkeys, toms, fryers, and roasters.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.405 </SECTNO>
+                            <SUBJECT>Application process.</SUBJECT>
+                            <P>(a) In addition to submitting an application for payment at the appropriate time, a producer or contract grower that suffered livestock losses that create or could create a claim for benefits must:</P>
+                            <P>(1) For losses during 2008 and losses in 2009, prior to July 13, 2009, provide a notice of loss to FSA no later than September 13, 2009.</P>
+                            <P>
+                                (2) For losses on or after July 13, 2009, provide a notice of loss to FSA within the earlier of:
+                                <PRTPAGE P="31577"/>
+                            </P>
+                            <P>(i) 30 calendar days of when the loss of livestock is apparent to the participant or</P>
+                            <P>(ii) 30 calendar days after the end of the calendar year in which the loss of livestock occurred.</P>
+                            <P>(3) The participant must submit the notice of loss required in paragraphs (a)(1) and (a)(2) to the FSA administrative county office that maintains the participant's farm records for the agricultural operation.</P>
+                            <P>(b) In addition to the notices of loss required in paragraph (a) of this section, a participant must also submit a completed application for payment no later than</P>
+                            <P>(1) 30 calendar days after the end of the calendar year in which the loss of livestock occurred or</P>
+                            <P>(2) September 13, 2009 for losses during 2008.</P>
+                            <P>(c) Applicants must submit supporting documentation with their application. For contract growers, the information must include a copy of the grower contract and other documents establishing their status. In addition, for all applicants, including contract growers, supporting documents must show:</P>
+                            <P>(1) Evidence of loss,</P>
+                            <P>(2) Current physical location of livestock in inventory,</P>
+                            <P>(3) Physical location of claimed livestock at the time of death, and</P>
+                            <P>(4) Inventory numbers and other inventory information necessary to establish actual mortality as required by FSA.</P>
+                            <P>(d) The participant must provide adequate proof that the death of the eligible livestock occurred as a direct result of an eligible adverse weather event in the calendar year for which benefits are requested. The quantity and kind of livestock that died as a direct result of the eligible adverse weather event during the calendar year for which benefits are being requested may be documented by: purchase records; veterinarian records; bank or other loan papers; rendering-plant truck receipts; Federal Emergency Management Agency records; National Guard records; written contracts; production records; Internal Revenue Service records; property tax records; private insurance documents; and other similar verifiable documents as determined by FSA.</P>
+                            <P>(e) If adequate verifiable proof of death documentation is not available, the participant may provide reliable records, in conjunction with verifiable beginning and ending inventory records, as proof of death. Reliable records may include contemporaneous producer records, dairy herd improvement records, brand inspection records, vaccination records, pictures, and other similar reliable documents as determined by FSA.</P>
+                            <P>(f) Certification of livestock deaths by third parties may be accepted only if verifiable proof of death records or reliable proof of death records in conjunction with verifiable beginning and ending inventory records are not available and both of the following conditions are met:</P>
+                            <P>(1) The livestock owner or livestock contract grower, as applicable, certifies in writing:</P>
+                            <P>(i) That there is no other verifiable or reliable documentation of death available;</P>
+                            <P>(ii) The number of livestock, by category identified in this subpart and by FSA were in inventory at the time the applicable adverse weather event occurred;</P>
+                            <P>(iii) The physical location of the livestock, by category, in inventory when the deaths occurred; and</P>
+                            <P>(iv) Other details required for FSA to determine the certification acceptable; and</P>
+                            <P>(2) The third party is an independent source who is not affiliated with the farming operation such as a hired hand and is not a âfamily member,â defined as a person whom a member in the farming operation or their spouse is related as lineal ancestor, lineal descendant, sibling, spouse, and provides their telephone number, address, and a written statement containing specific details about:</P>
+                            <P>(i) Their knowledge of the livestock deaths;</P>
+                            <P>(ii) Their affiliation with the livestock owner;</P>
+                            <P>(iii) The accuracy of the deaths claimed by the livestock owner or contract grower including, but not limited to, the number and kind or type of the participant's livestock that died because of the eligible adverse weather event; and</P>
+                            <P>(iv) Other information required by FSA to determine the certification acceptable.</P>
+                            <P>(g) Data furnished by the participant and the third party will be used to determine eligibility for program benefits. Furnishing the data is voluntary; however, without all required data program benefits will not be approved or provided.</P>
+                        </SECTION>
+                        <SECTION>
+                            <SECTNO>Â§â760.406 </SECTNO>
+                            <SUBJECT>Payment calculation.</SUBJECT>
+                            <P>(a) Under this subpart, separate payment rates for eligible livestock owners and eligible livestock contract growers are specified in paragraphs (b) and (c) of this section, respectively. Payments for LIP are calculated by multiplying the national payment rate for each livestock category by the number of eligible livestock in excess of normal mortality in each category that died as a result of an eligible adverse weather event. Normal mortality for each livestock category will be determined by FSA on a State-by-State basis using local data sources including, but not limited to, State livestock organizations and the Cooperative Extension Service for the State. Adjustments will be applied as specified in paragraph (d) of this section.</P>
+                            <P>(b) The LIP national payment rate for eligible livestock owners is based on 75 percent of the average fair market value of the applicable livestock as computed using nationwide prices for the previous calendar year unless some other price is approved by the Deputy Administrator.</P>
+                            <P>(c) The LIP national payment rate for eligible livestock contract growers is based on 75 percent of the average income loss sustained by the contract grower with respect to the dead livestock.</P>
+                            <P>(d) The LIP payment calculated for eligible livestock contract growers will be reduced by the amount the participant received from the party who contracted with the producer to raise the livestock for the loss of income from the dead livestock.</P>
+                        </SECTION>
+                    </SUBPART>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart F [Removed and Reserved]</HD>
+                    </SUBPART>
+                    <AMDPAR>6. Remove and reserve subpart F.</AMDPAR>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart G [Removed and Reserved]</HD>
+                    </SUBPART>
+                    <AMDPAR>7. Remove and reserve subpart G.</AMDPAR>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart H [Removed and Reserved]</HD>
+                    </SUBPART>
+                    <AMDPAR>8. Remove and reserve subpart H.</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="1400">
+                    <PART>
+                        <HD SOURCE="HED">PART 1400âPAYMENT LIMITATION AND PAYMENT ELIGIBILITY FOR 2009 AND SUBSEQUENT CROP, PROGRAM, OR FISCAL YEARS</HD>
+                    </PART>
+                    <AMDPAR>9. The authority citation for part 1400 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority: </HD>
+                        <P>7 U.S.C. 1308, 1308-1, 1308-2, 1308-3, 1308-3a, 1308-4, and 1308-5.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="1400">
+                    <SECTION>
+                        <SECTNO>Â§â1400.1 </SECTNO>
+                        <SUBJECT>[Amended]</SUBJECT>
+                    </SECTION>
+                    <AMDPAR>10. Amend Â§â1400.1 as follows:</AMDPAR>
+                    <AMDPAR>a. In paragraph (a)(4), remove the reference âpart 1480 of this chapterâ and add, in its place, the reference âpart 760 of this titleâ;</AMDPAR>
+                    <AMDPAR>b. In paragraph (a)(5), remove the reference âpart 1439 of this chapterâ and add, in its place, the reference âpart 760 of this titleâ; and</AMDPAR>
+                    <AMDPAR>c. In paragraph (a)(6), remove the reference âpart 783â and add, in its place, the reference âpart 760â.</AMDPAR>
+                </REGTEXT>
+                <REGTEXT TITLE="7" PART="1400">
+                    <PART>
+                        <PRTPAGE P="31578"/>
+                        <HD SOURCE="HED">PART 1439âEMERGENCY LIVESTOCK ASSISTANCE</HD>
+                    </PART>
+                    <AMDPAR>11. Remove part 1439.</AMDPAR>
+                </REGTEXT>
+                <SIG>
+                    <DATED>Signed in Washington, DC, June 25, 2009.</DATED>
+                    <NAME>Carolyn B. Cooksie,</NAME>
+                    <TITLE>Acting Administrator, Farm Service Agency, and Acting Executive Vice President, Commodity Credit Corporation.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. E9-15537 Filed 7-1-09; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 3410-05-P</BILCOD>
+        </RULE>

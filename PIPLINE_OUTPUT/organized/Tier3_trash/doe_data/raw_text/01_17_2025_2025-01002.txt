@@ -1,0 +1,2783 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 11 (Friday, January 17, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 11 (Friday, January 17, 2025)]
+[Rules and Regulations]
+[Pages 5538-5560]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-01002]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF ENERGY
+
+10 CFR Part 431
+
+[EERE-2022-BT-TP-0019]
+RIN 1904-AF08
+
+
+Energy Conservation Program: Test Procedure for Compressors
+
+AGENCY: Office of Energy Efficiency and Renewable Energy, Department of 
+Energy.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Department of Energy (``DOE'') is amending the test 
+procedure for compressors to correct an error and to ensure that 
+pressure ratio is expressed in terms of absolute pressure. DOE is also 
+correcting the formula for isentropic efficiency and specific energy 
+consumption of the packaged compressor by incorporating a K<INF>6</INF> 
+correction factor to correct for differences in pressure ratio when 
+testing at differing elevations. Finally, DOE is amending the 
+definition of ``air compressor'' to include a minor clarification and 
+revise a typographical error.
+
+DATES: The effective date of this rule is April 2, 2025. The amendments 
+will be mandatory for product testing starting July 16, 2025.
+    The incorporation by reference of certain publications listed in 
+the rule is approved by the Director of the Federal Register on April 
+2, 2025.
+
+ADDRESSES: The docket, which includes Federal Register notices, public 
+meeting attendee lists and transcripts, comments, and other supporting 
+documents/materials, is available for review at <a href="http://www.regulations.gov">www.regulations.gov</a>. 
+All documents in the docket are listed in the <a href="http://www.regulations.gov">www.regulations.gov</a> 
+index. However, not all documents listed in the index may be publicly 
+available, such as those containing information that is exempt from 
+public disclosure.
+    A link to the docket web page can be found at <a href="http://www.regulations.gov/docket/EERE-2022-BT-TP-0019">www.regulations.gov/docket/EERE-2022-BT-TP-0019</a>. The docket web page contains instructions 
+on how to access all documents, including public comments, in the 
+docket.
+    For further information on how to review the docket contact the 
+Appliance and Equipment Standards Program staff at (202) 287-1445 or by 
+email: <a href="/cdn-cgi/l/email-protection#ecad9c9c80858d828f89bf988d82888d9e889fbd99899f988583829fac8989c2888389c28b839a"><span class="__cf_email__" data-cfemail="5d1c2d2d31343c333e380e293c33393c2f392e0c28382e293432332e1d383873393238733a322b">[email&#160;protected]</span></a>.
+
+FOR FURTHER INFORMATION CONTACT: 
+    Mr. Jeremy Dommu, U.S. Department of Energy, Office of Energy 
+Efficiency and Renewable Energy, Building Technologies Office, EE-2J, 
+1000 Independence Avenue SW, Washington, DC 20585-0121. Telephone: 
+(202) 586-9870. Email: <a href="/cdn-cgi/l/email-protection#165766667a7f7778757345627778727764726547637365627f7978655673733872797338717960"><span class="__cf_email__" data-cfemail="1d5c6d6d71747c737e784e697c73797c6f796e4c68786e697472736e5d787833797278337a726b">[email&#160;protected]</span></a>.
+    Mr. Pete Cochran, U.S. Department of Energy, Office of the General 
+Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585-0121. 
+Telephone: (202) 586-9496. Email: <a href="/cdn-cgi/l/email-protection#c595a0b1a0b7eb86aaa6adb7a4ab85adb4eba1aaa0eba2aab3"><span class="__cf_email__" data-cfemail="59093c2d3c2b771a363a312b3837193128773d363c773e362f">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+    DOE incorporates by reference the following industry standards into 
+title 10 of the Code of Federal Regulation (``CFR'') part 431:
+    IEC 60584-1:2013, Thermocouples--Part 1: EMF specifications and 
+tolerances, edition 3.0, August 2013 (``IEC 60584-1:2013'').
+    IEC 60584-3:2021, Thermocouples--Part 3: Extension and compensating 
+cables--Tolerances and identification system, edition 3.0, February 
+2021 (``IEC 60584-3:2021'').
+    Copies of IEC 60584-1:2013 and IEC 60584-3:2021 may be purchased 
+from International Electrotechnical Commission (``IEC'') Central 
+Office, 3, rue de Varemb[eacute], Case Postale 131, CH-1211, Geneva, 
+Switzerland +41 22 919 02 11, or by going to webstore.iec.ch.
+    ISO 1217:2009(E), Displacement compressors--Acceptance tests, 
+fourth edition, July 1, 2009 (``ISO 1217:2009(E)'').
+    ISO 1217:2009/Amd.1:2016(E), Displacement compressors--Acceptance 
+tests (fourth edition, July 1, 2009), AMENDMENT 1: Calculation of 
+isentropic efficiency and relationship with specific energy, April 15, 
+2016 (``ISO 1217:2009/Amd.1:2016(E)'').
+    ISO 5167-1:2022(E), Measurement of fluid flow by means of pressure
+
+[[Page 5539]]
+
+differential devices inserted in circular cross-section conduits 
+running full--Part 1: General principles and requirements, third 
+edition, June 2022 (``ISO 5167-1:2022(E)'').
+    ISO 9300:2022(E), Measurement of gas flow by means of critical flow 
+nozzles, third edition, June 2022 (``ISO 9300:2022(E)'').
+    Copies of ISO 1217:2009(E), ISO 1217:2009/Amendment 1:2016(E), ISO 
+5167-1:2022(E), and ISO 9300:2022(E) may be purchased from 
+International Organization for Standardization (``ISO'') at Chemin de 
+Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland +41 22 749 01 
+11, or by going to <a href="http://www.iso.org">www.iso.org</a>.
+    See section IV.N of this document for further discussion of these 
+standards.
+
+Table of Contents
+
+I. Authority and Background
+    A. Authority
+    B. Background
+II. Synopsis of the Final Rule
+III. Discussion
+    A. Scope of Applicability
+    1. Reciprocating Compressors
+    2. Centrifugal Compressors
+    3. Compressor Motor Nominal Horsepower
+    4. Lubricant-Free Compressors
+    5. Brushed Motors
+    6. Output Pressure Less Than 75 psig
+    7. Integrated Dryers
+    B. Updates to Industry Standards
+    1. ISO 1217:2009(E) as the Basis for This Test Procedure
+    2. Ambient Temperature Range Requirement
+    C. Definitions
+    1. Multi-Element Air Compressors
+    D. Efficiency Metrics
+    1. Load Point for Fixed-Speed Compressors
+    2. Load Points for Variable-Speed Compressors
+    3. Inclusion of Unloaded Operation for Fixed-Speed Compressors
+    4. Part-Load Performance of Fixed-Speed Compressors With 
+Variable-Airflow Controls
+    E. Test Method
+    1. K<INF>6</INF> Correction Factor
+    2. Correction of Pressure Ratio at Full-Load Operating Pressure 
+Formula
+    3. Tolerances for Measured Energy Efficiency Values
+    F. Reporting
+    G. Test Procedure Costs and Harmonization
+    1. Amendment to Incorporate K<INF>6</INF> Correction Factor
+    2. Amendment To Update Formula for Pressure Ratio at Full-Load 
+Operating Pressure
+    3. Amendment to Update Definition of ``Air Compressor''
+    4. Harmonization With Industry Standards
+    H. Effective and Compliance Dates
+    I. Renumbering of Appendix A
+IV. Procedural Issues and Regulatory Review
+    A. Review Under Executive Orders 12866, 13563, and 14094
+    B. Review Under the Regulatory Flexibility Act
+    C. Review Under the Paperwork Reduction Act of 1995
+    D. Review Under the National Environmental Policy Act of 1969
+    E. Review Under Executive Order 13132
+    F. Review Under Executive Order 12988
+    G. Review Under the Unfunded Mandates Reform Act of 1995
+    H. Review Under the Treasury and General Government 
+Appropriations Act, 1999
+    I. Review Under Executive Order 12630
+    J. Review Under Treasury and General Government Appropriations 
+Act, 2001
+    K. Review Under Executive Order 13211
+    L. Review Under Section 32 of the Federal Energy Administration 
+Act of 1974
+    M. Congressional Notification
+    N. Description of Materials Incorporated by Reference
+V. Approval of the Office of the Secretary
+
+I. Authority and Background
+
+    Compressors are included in the list of ``covered equipment'' (via 
+the clause classifying certain types of ``industrial equipment'' as 
+``covered equipment'') for which the U.S. Department of Energy 
+(``DOE'') is authorized to establish and amend energy conservation 
+standards and test procedures. (42 U.S.C. 6311(1)(L), 6311(2)(B)(i), 
+and 6312(b)). DOE's test procedures for compressors are currently 
+prescribed at subpart T of part 431 of title 10 of the Code of Federal 
+Regulations (10 CFR part 431). The following sections discuss DOE's 
+authority to establish and amend test procedures for compressors and 
+relevant background information regarding DOE's consideration of test 
+procedures for this equipment.
+
+A. Authority
+
+    The Energy Policy and Conservation Act, Public Law 94-163, as 
+amended (``EPCA''),\1\ authorizes DOE to regulate the energy efficiency 
+of a number of consumer products and certain industrial equipment. (42 
+U.S.C. 6291-6317, as codified) Title III, Part C of EPCA,\2\ added by 
+Public Law 95-619, Title IV, section 441(a), established the Energy 
+Conservation Program for Certain Industrial Equipment, which sets forth 
+a variety of provisions designed to improve energy efficiency. This 
+equipment includes compressors, the subject of this document. Under 
+EPCA, DOE may include a type of industrial equipment, including 
+compressors, as covered equipment if it determines that doing so is 
+necessary to carry out the purposes of Part A-1. (42 U.S.C. 6311(1)(L), 
+6311(2)(B)(i), and 6312(b)). The purpose of Part A-1 is to improve the 
+efficiency of electric motors and pumps and certain other industrial 
+equipment to conserve the energy resources of the Nation. (42 U.S.C. 
+6312(a)). On November 15, 2016, DOE published a final rule, which 
+determined that coverage for compressors is necessary to carry out the 
+purposes of Part A-1 of Title III of EPCA. 81 FR 79991. (42 U.S.C. 
+6311(1)(L); 42 U.S.C. 6311 (2)(A); 42 U.S.C. 6311 (2)(B)(i))
+---------------------------------------------------------------------------
+
+    \1\ All references to EPCA in this document refer to the statute 
+as amended through the Energy Act of 2020, Public Law 116-260 (Dec. 
+27, 2020), which reflect the last statutory amendments that impact 
+Parts A and A-1 of EPCA.
+    \2\ For editorial reasons, upon codification in the U.S. Code, 
+Part C was redesignated Part A-1.
+---------------------------------------------------------------------------
+
+    The energy conservation program under EPCA consists essentially of 
+four parts: (1) testing, (2) labeling, (3) Federal energy conservation 
+standards, and (4) certification and enforcement procedures. Relevant 
+provisions of EPCA include definitions (42 U.S.C. 6311), test 
+procedures (42 U.S.C. 6314), labeling provisions (42 U.S.C. 6315), 
+energy conservation standards (42 U.S.C. 6313), and the authority to 
+require information and reports from manufacturers (42 U.S.C. 6316; 42 
+U.S.C. 6296).
+    The Federal testing requirements consist of test procedures that 
+manufacturers of covered equipment must use as the basis for: (1) 
+certifying to DOE that their equipment complies with the applicable 
+energy conservation standards adopted pursuant to EPCA (42 U.S.C. 
+6316(a); 42 U.S.C. 6295(s)), and (2) making other representations about 
+the efficiency of that equipment (42 U.S.C. 6314(d)). Similarly, DOE 
+must use these test procedures to determine whether the equipment 
+complies with relevant standards promulgated under EPCA. (42 U.S.C. 
+6316(a); 42 U.S.C. 6295(s))
+    Federal energy efficiency requirements for covered equipment 
+established under EPCA generally supersede State laws and regulations 
+concerning energy conservation testing, labeling, and standards. (42 
+U.S.C. 6316(a) and 42 U.S.C. 6316(b); 42 U.S.C. 6297). DOE may, 
+however, grant waivers of Federal preemption for particular State laws 
+or regulations, in accordance with the procedures and other provisions 
+of EPCA. 42 U.S.C. 6316(b)(2)(D).
+    Under 42 U.S.C. 6314, EPCA sets forth the criteria and procedures 
+DOE must follow when prescribing or amending test procedures for 
+covered equipment. EPCA requires that any test procedures prescribed or 
+amended under this section must be reasonably designed to produce test 
+results that reflect energy efficiency, energy use, or estimated annual 
+operating cost of a given type of covered equipment during a
+
+[[Page 5540]]
+
+representative average use cycle (as determined by the Secretary) and 
+requires that test procedures not be unduly burdensome to conduct. (42 
+U.S.C. 6314(a)(2))
+    EPCA also requires that, at least once every 7 years, DOE evaluate 
+test procedures for each type of covered equipment, including 
+compressors, to determine whether amended test procedures would more 
+accurately or fully comply with the requirements for the test 
+procedures to not be unduly burdensome to conduct and be reasonably 
+designed to produce test results that reflect energy efficiency, energy 
+use, and estimated operating costs during a representative average use 
+cycle. (42 U.S.C. 6314(a)(1))
+    In addition, if the Secretary determines that a test procedure 
+amendment is warranted, the Secretary must publish proposed test 
+procedures in the Federal Register and afford interested persons an 
+opportunity (of not less than 45 days' duration) to present oral and 
+written data, views, and arguments on the proposed test procedures. (42 
+U.S.C. 6314(b)) If DOE determines that test procedure revisions are not 
+appropriate, DOE must publish its determination not to amend the test 
+procedures. (42 U.S.C. 6314(a)(1)(A)(ii))
+    DOE is publishing this final rule in satisfaction of the 7-year 
+review requirement specified in EPCA. (42 U.S.C. 6314(b)(1))
+
+B. Background
+
+    DOE's existing test procedure for compressors appears at title 10 
+of the Code of Federal Regulations (CFR) part 431, subpart T, appendix 
+A--Uniform Test Method for Certain Air Compressors (hereafter 
+``appendix A'').
+    As stated, DOE published a final rule on November 15, 2016, in 
+which DOE determined that coverage of compressors is necessary to carry 
+out the purposes of Part A-1 of Title III of EPCA. 81 FR 79991. DOE's 
+test procedure for determining compressor energy efficiency of certain 
+varieties of compressors was established in a final rule published on 
+January 4, 2017 (hereafter, the ``January 2017 Final Rule''). 82 FR 
+1052.
+    On May 17, 2019, DOE published a notice of petition for rulemaking 
+and request for comment regarding the test procedure for compressors in 
+response to a petition from Atlas Copco North America (``Atlas 
+Copco''). 84 FR 22395. Atlas Copco's petition was received on April 17, 
+2019. Atlas Copco requested that DOE amend the compressors test 
+procedure to specify that manufacturers could satisfy the test 
+procedure requirements by using the industry test method for rotary air 
+compressor energy efficiency, ISO 1217:2009(E) ``Displacement 
+compressors--Acceptance tests''. In the notice of petition for 
+rulemaking, DOE sought comment as to whether to proceed with the 
+petition, but took no position at the time regarding the merits of the 
+suggested rulemaking or the assertions made by Atlas Copco. 84 FR 
+22395.\3\
+---------------------------------------------------------------------------
+
+    \3\ Associated documents are available in the rulemaking docket 
+at <a href="http://www.regulations.gov/docket/EERE-2019-BT-PET-0017">www.regulations.gov/docket/EERE-2019-BT-PET-0017</a>.
+---------------------------------------------------------------------------
+
+    On January 10, 2020, DOE published a final rule for energy 
+conservation standards for air compressors (hereafter, the ``January 
+2020 ECS Final Rule''). 85 FR 1504. Compliance with the energy 
+conservation standards established in the January 2020 ECS Final Rule 
+is required for compressors manufactured starting on January 10, 2025. 
+10 CFR 431.345.
+    On May 6, 2022, DOE issued a Request for Information (``RFI'') for 
+a test procedure for compressors to consider whether to amend DOE's 
+test procedure for compressors (hereafter, the ``May 2022 RFI''). 87 FR 
+27025. To inform interested parties and to facilitate this process, DOE 
+identified certain issues associated with the currently applicable test 
+procedure on which DOE is interested in receiving comment. On June 6, 
+2022, DOE granted a 14-day extension to the public comment period, 
+allowing comments to be submitted until June 20, 2022. 87 FR 34220.
+    In general, representations of compressor performance must be in 
+accordance with the DOE test procedure. (42 U.S.C. 6314(d)). However, 
+DOE guidance (issued Dec. 6, 2017; revised Jun. 8, 2018) stated that it 
+would discretionarily not enforce this requirement until compliance 
+with a standard is required or a labeling requirement is established. 
+On May 2, 2022, DOE announced that it was suspending the enforcement 
+policy regarding the test procedure for air compressors and removed the 
+policy from the DOE enforcement website.
+    Following retraction of the enforcement policy and to aid 
+manufacturers in understanding DOE's regulatory requirements regarding 
+the test procedure and forthcoming energy conservation standards, DOE 
+held a ``Compressors Regulations 101'' webinar on May 24, 2022. The 
+webinar reviewed testing, rating, certification, and compliance 
+responsibilities.\4\
+---------------------------------------------------------------------------
+
+    \4\ The slide material presented during the webinar has been 
+published on DOE's website: <a href="http://www.energy.gov/sites/default/files/2022-05/compressors-101.pdf">www.energy.gov/sites/default/files/2022-05/compressors-101.pdf</a>.
+---------------------------------------------------------------------------
+
+    On February 13, 2023, DOE published a notice of proposed rulemaking 
+and announcement of public meeting for test procedures for compressors 
+(hereafter, the ``February 2023 NOPR''). 88 FR 9199. To inform 
+interested parties and to facilitate this process, DOE identified 
+certain issues associated with the currently applicable test procedure 
+on which DOE is interested in receiving comment. On March 22, 2023, DOE 
+held a public meeting (hereafter, the ``March 2023 Public Meeting'') to 
+obtain stakeholder input regarding the issues and proposed amendments 
+raised by the February 2023 NOPR.
+    DOE received comments in response to the February 2023 NOPR from 
+the interested parties listed in table I.1.
+
+          Table I.1--List of Commenters With Written Submissions in Response to the February 2023 NOPR
+----------------------------------------------------------------------------------------------------------------
+                                      Reference in this   Comment No. in
+           Commenter(s)                  final rule         the docket                Commenter type
+----------------------------------------------------------------------------------------------------------------
+Compressed Air & Gas Institute....  CAGI................              21  Trade Association.
+Saylor-Beall Air Compressors......  Saylor-Beall........              22  Manufacturer.
+Sullivan-Palatek, Inc.............  Sullivan-Palatek....              23  Manufacturer.
+Kaeser Compressors................  Kaeser Compressors..              24  Manufacturer.
+Ingersoll Rand....................  Ingersoll Rand......              25  Manufacturer.
+Northwest Energy Efficiency         NEEA & NPCC.........              26  Efficiency Organizations.
+ Alliance, and Northwest Power and
+ Conservation Council.
+Pacific Gas and Electric Company,   CA IOUs.............              27  Utility Companies.
+ San Diego Gas and Electric, and
+ Southern California Edison.
+
+[[Page 5541]]
+
+ 
+Appliance Standard Awareness        ASAP, ACEEE, & NRDC.              28  Efficiency Organizations.
+ Project, American Council for an
+ Energy-Efficient Economy, and
+ Natural Resources Defense Council.
+----------------------------------------------------------------------------------------------------------------
+
+    A parenthetical reference at the end of a comment quotation or 
+paraphrase provides the location of the item in the public record.\5\ 
+To the extent that interested parties have provided written comments 
+that are substantively consistent with any oral comments provided 
+during the March 2023 Public Meeting, DOE cites the written comments 
+throughout this final rule. DOE did not identify any oral comments 
+provided during the March 2023 Public Meeting that are not 
+substantively addressed by written comments.
+---------------------------------------------------------------------------
+
+    \5\ The parenthetical reference provides a reference for 
+information located in the docket of DOE's rulemaking to develop 
+test procedures for compressors. (Docket No. EERE-2022-BT-TP-0019, 
+which is maintained at <a href="http://www.regulations.gov">www.regulations.gov</a>). The references are 
+arranged as follows: (commenter name, comment docket ID number, page 
+of that document).
+---------------------------------------------------------------------------
+
+II. Synopsis of the Final Rule
+
+    In this final rule, DOE is amending subpart T of title 10 of the 
+Code of Federal Regulations, part 431 (10 CFR part 431), which contains 
+definitions, materials incorporated by reference, and the test 
+procedure for determining the energy efficiency of certain varieties of 
+compressors, as follows:
+    (1) Correct the formula for calculating isentropic efficiency and 
+specific energy consumption of the packaged compressor by incorporating 
+a K6 correction factor to correct for the change in pressure ratio when 
+testing at differing elevations;
+    (2) Revise the formula for pressure ratio at full-load operating 
+pressure currently in 10 CFR part 431, subpart T to correct a 
+typographical error, and to calculate pressure ratio using terms 
+expressed in absolute pressure; and
+    (3) Modify the current definition of ``air compressor'' to clarify 
+that compressors with more than one compression element are still 
+within the scope of this test procedure, and to revise the 
+typographical error of ``compressor element'' to ``compression 
+elements.''
+    DOE's actions are summarized in table II.1 compared to the current 
+test procedure as well as the reason for the proposed change.
+
+                            Table II.1--Summary of Changes in Amended Test Procedure
+----------------------------------------------------------------------------------------------------------------
+  DOE test procedure prior to amendment        Amended test procedure                   Attribution
+----------------------------------------------------------------------------------------------------------------
+References ISO 1217:2009(E) Annex C       Adds the K6 correction factor    Error correction.
+ (excluding sections C.1.2, C.2.1, C.3,    in the formula calculating
+ C.4.2.2, C.4.3.1, and C.4.5) for          isentropic efficiency and
+ calculating isentropic efficiency and     specific energy consumption of
+ specific energy consumption of the        the packaged compressor in
+ packaged compressor.                      order to correct for the
+                                           change in pressure ratio when
+                                           testing at differing
+                                           elevations. Incorporates by
+                                           reference Annex B, section
+                                           B.4.5 of ISO 1217:2009(E).
+Pressure ratio at full-load operating     Corrects the pressure ratio at   Error correction.
+ pressure formula in 10 CFR part 431,      full-load operating pressure
+ subpart T contains an error, as the       formula in 10 CFR part 431,
+ wrong formula is presented.               subpart T.
+Air Compressor Definition: A compressor   Air Compressor Definition: A     Clarification.
+ designed to compress air that has an      compressor designed to
+ inlet open to the atmosphere or other     compress air that has an inlet
+ source of air, and is made up of a        open to the atmosphere or
+ compression element (bare compressor),    other source of air, and is
+ driver(s), mechanical equipment to        made up of one or more
+ drive the compressor element, and any     compression elements (bare
+ ancillary equipment.                      compressors), driver(s),
+                                           mechanical equipment to drive
+                                           the compression elements, and
+                                           any ancillary equipment.
+----------------------------------------------------------------------------------------------------------------
+
+    DOE has determined that the amendments described in section III and 
+adopted in this document will more accurately comply with the 
+requirements that test procedures be reasonably designed to produce 
+test results that reflect energy use during a representative average 
+use cycle and are not unduly burdensome to conduct. (42 U.S.C. 
+6314(a)(2)) The amendments adopted in this final rule will ensure that 
+any test for isentropic efficiency and specific energy consumption of a 
+packaged compressor performed at any elevation other than 364 ft, or 
+during low- or high-pressure weather events, will be correct. As such, 
+these amendments will ensure accurate measured/calculated efficiency of 
+compressors. DOE has also determined that these amendments will not 
+require retesting or recertification solely as a result of DOE's 
+adoption of the amendments to the test procedures since the amendment 
+aligns the test procedure with existing industry practice. 
+Additionally, DOE has determined that the amendments will not increase 
+the cost of testing. Discussion of DOE's actions are addressed in 
+detail in section III of this document.
+    The effective date for the amended test procedures adopted in this 
+final rule is 75 days after publication of this document in the Federal 
+Register. Representations of energy use or energy efficiency must be 
+based on testing in accordance with the amended test procedures 
+beginning 180 days after the publication of this final rule.
+
+III. Discussion
+
+    In the following sections, DOE adopts certain amendments to its 
+test procedure for compressors. For each amendment, DOE provides 
+relevant background information, explains why
+
+[[Page 5542]]
+
+the amendment merits consideration, discusses relevant public comments, 
+and adopts an approach.
+
+A. Scope of Applicability
+
+    DOE's test procedure applies to a compressor that meets all of the 
+following criteria: is an air compressor; is a rotary compressor; is 
+not a liquid ring compressor; is driven by a brushless electric motor; 
+is a lubricated compressor; has a full-load operating pressure of 75-
+200 pounds per square inch gauge (psig); is not designed and tested to 
+the requirements of the American Petroleum Institute Standard 619; has 
+full-load actual volume flow rate greater than or equal to 35 cubic 
+feet per minute (cfm), or is distributed in commerce with a compressor 
+motor nominal horsepower greater than or equal to 10 horsepower (hp); 
+and has a full-load actual volume flow rate less than or equal to 1,250 
+cfm, or is distributed in commerce with a compressor motor nominal 
+horsepower less than or equal to 200 hp. 10 CFR 431.344.
+    DOE received comments both supporting and opposing scope changes. 
+CAGI, supported by Kaeser Compressors, Ingersoll Rand, Saylor-Beall, 
+and Sullivan-Palatek, stated that they support DOE's proposal to 
+maintain the current scope of the test procedure. (CAGI, No. 21 at pp. 
+1-3; Kaeser Compressors, No. 24 at pp. 3-5; Ingersoll Rand, No. 25 at 
+pp. 1-3; Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 
+1) On the other hand, NEEA & NPCC, CA IOUs, and ASAP, ACEEE, & NRDC 
+encouraged DOE to consider expanding the scope of the test procedure to 
+include additional air compressor types. (NEEA & NPCC, No. 26 at pp. 2-
+4; CA IOUs, No. 27 at pp. 2-9; ASAP, ACEEE, & NRDC, No. 28 at pp. 1-3)
+    As discussed in more detail in the following sections, DOE is not 
+amending the scope of the test procedure at this time. DOE may consider 
+test procedure scope expansion, including related comments discussed in 
+this final rule, in a future test procedure rulemaking.
+    DOE responds to specific scope expansion topics in sections III.A.1 
+through III.A.7 of this final rule.
+1. Reciprocating Compressors
+    As stated in section III.A of this document, the current test 
+procedure for compressors applies to rotary compressors (and, 
+therefore, does not apply to reciprocating compressors). 10 CFR 
+431.344. In the February 2023 NOPR, DOE proposed to continue excluding 
+reciprocating compressors from the scope of the test procedure. 88 FR 
+9199, 9203. DOE stated that it will continue reviewing potential test 
+procedures for reciprocating compressors, including existing test 
+methods, and may consider expanding the scope of the test procedure to 
+include these compressors in a future test procedure rulemaking. Id. 
+DOE also asked for comment regarding its proposal to not include 
+reciprocating compressors within the scope of test procedure 
+applicability. Id.
+    In response to the February 2023 NOPR, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all expressed 
+support for the DOE proposal to exclude reciprocating compressors from 
+the scope of test procedure applicability. (CAGI, No. 21 at p. 1; 
+Kaeser Compressors, No. 24 at p. 3; Ingersoll Rand, No. 25 at p. 1; 
+Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 1)
+    However, in response to the request for comment, NEEA & NPCC 
+recommended that DOE modify the proposed test procedure or develop a 
+new test procedure for testing both one- and three-phase reciprocating 
+compressors because ISO 1217:2009(E) contains a commonly used test 
+procedure for rating reciprocating compressors among manufacturers. 
+However, NEEA & NPCC commented that the reasons discussed in the 
+February 2023 NOPR (88 FR 9199, 9202) for DOE not using ISO 
+1217:2009(E), as currently written, as the test method for 
+reciprocating compressors are reasonable. NEEA & NPCC also stated that, 
+by establishing a test procedure for reciprocating compressors, DOE is 
+ensuring consistent representation of efficiency in this market and 
+creating a path for industry stakeholders to gather data on this 
+equipment type that would better inform future rulemakings. (NEEA & 
+NPCC, No. 26 at pp. 2-3) ASAP, ACEEE, & NRDC agreed with this point and 
+added that, given the significant potential energy savings for 
+reciprocating compressors, DOE should consider the inclusion of 
+reciprocating compressors within the test procedure scope. ASAP, ACEEE, 
+& NRDC also stated that this would make it easier for DOE to pursue 
+future energy conservation standards for reciprocating compressors and 
+could provide helpful efficiency data to support voluntary programs. 
+(ASAP, ACEEE, & NRDC, No. 28 at pp. 2-3)
+    DOE agrees that there could be benefits to including reciprocating 
+compressors within the scope of the test procedure. DOE also agrees 
+that the test method in ISO 1217:2009(E) might be appropriate for some 
+reciprocating compressors but inappropriate for others, as there are a 
+wide range of intended duty cycles for reciprocating compressors.
+    DOE is continuing to exclude reciprocating compressors from the 
+scope of the compressors test procedure. DOE will continue reviewing 
+potential test procedures for reciprocating compressors, including 
+existing test methods, and may consider expanding the scope of the test 
+procedure to include reciprocating compressors in a future test 
+procedure rulemaking.
+2. Centrifugal Compressors
+    As stated in section III.A of this document, the current test 
+procedure for compressors applies to rotary positive displacement 
+compressors (and therefore does not apply to centrifugal air 
+compressors). 10 CFR 431.344. In the February 2023 NOPR, DOE proposed 
+to continue excluding centrifugal compressors from the scope of the 
+test procedure. 88 FR 9199, 9203. DOE stated that it will continue to 
+review and consider potential test methods for centrifugal compressors 
+and may consider developing test procedures for centrifugal compressors 
+as a part of a future rulemaking process. Id. DOE also asked for 
+comment regarding its proposal to not include centrifugal compressors 
+within the scope of test procedure applicability and regarding whether 
+dynamic compressor varieties other than centrifugal compete with the 
+air compressor categories discussed in the February 2023 NOPR. Id.
+    In response to the request for comment in the February 2023 NOPR, 
+CAGI, Kaeser Compressors, Ingersoll Rand, Saylor-Beall, and Sullivan-
+Palatek all expressed support for DOE's proposal to exclude centrifugal 
+compressors from the scope of test procedure applicability. (CAGI, No. 
+21 at p. 2; Kaeser Compressors, No. 24 at p. 3; Ingersoll Rand, No. 25 
+at p. 1; Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 
+1) Additionally, in response to the request for comment regarding 
+clarification on ``dynamic'' versus ``centrifugal'' compressors, CAGI, 
+Kaeser Compressors, Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek 
+all supported the position that centrifugal compressors are the only 
+form of dynamic compressor that competes with the air compressor 
+categories discussed in the February 2023 NOPR. (CAGI, No. 21 at p. 2; 
+Kaeser Compressors, No. 24 at p. 3; Ingersoll Rand, No. 25 at p. 2; 
+Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 1)
+    NEEA & NPCC also recommended that DOE consider a separate future 
+test
+
+[[Page 5543]]
+
+procedure rulemaking for centrifugal compressors, which would create a 
+path for expanding the current test procedure scope to rotary 
+compressors up to 500 hp. NEEA & NPCC commented that centrifugal 
+compressors make up a small market share but represent 18 percent of 
+annual energy consumption for industrial compressors, and are typically 
+above 200 hp. NEEA & NPCC also stated that rotary and centrifugal 
+compressors from 200 hp to 500 hp represent 25 percent of total 
+commercial and industrial compressor energy consumption. NEEA & NPCC 
+stated that ISO 5389 is an industry-accepted test procedure for 
+centrifugal compressors and recommended this as an option for a future 
+centrifugal compressor test procedure rulemaking. NEEA & NPCC also 
+stated that there is little overlap in the applications that would use 
+a centrifugal compressor instead of a rotary compressor because 
+centrifugal compressors are more expensive and are used for specific 
+applications that require clean air. (NEEA & NPCC, No. 26 at pp. 3-4)
+    CA IOUs recommended DOE expand the scope of this test procedure to 
+cover centrifugal compressors. CA IOUs stated that dynamic air 
+compressors account for approximately 18 percent of total industrial 
+air compressor national energy consumption. CA IOUs also stated that 
+the inclusion of dynamic compressors would give end users more data to 
+compare with and that these compressors provide oil- and particulate-
+free air, which would allow them to compete with regulated and large 
+positive displacement rotary compressors in certain applications. (CA 
+IOUs, No. 27 at pp. 7-9) ASAP, ACEEE, & NRDC also encouraged DOE to 
+include centrifugal compressors in the scope of this test procedure 
+final rule due to the significance of their energy usage and the fact 
+that centrifugal compressors may compete with large rotary positive 
+displacement compressors. ASAP, ACEEE, & NRDC added that ISO 5389, the 
+industry test procedure for dynamic compressors, could potentially 
+serve as the basis of the test procedure. (ASAP, ACEEE, & NRDC, No. 28 
+at p. 3)
+    It is true that centrifugal compressors can compete with large 
+rotary positive displacement compressors, as stated by commenters. (CA 
+IOUs, No. 27 at pp. 8-9; ASAP, ACEEE, & NRDC, No. 28 at p. 3) DOE 
+discussed the potential for competition between these categories in the 
+January 2017 Final Rule. 82 FR 1052, 1061-1063. Competition between 
+these categories is considerable above 200 hp, and this reasoning was 
+used to set the upper bound of the compressor test procedure motor 
+nominal horsepower at 200 hp. 82 FR 1052, 1062. As discussed in section 
+III.A.3 of this final rule, DOE is maintaining this upper bound on 
+compressor motor nominal horsepower in the test procedure. This ensures 
+that there is not considerable competition between unregulated 
+centrifugal compressors and regulated positive displacement rotary 
+compressors within the scope of the DOE compressors test procedure.
+    DOE has not yet determined a test procedure for centrifugal 
+compressors that would produce test results that reflect efficiency 
+during a representative average use cycle and that would not be unduly 
+burdensome to conduct. (42 U.S.C. 6314(a)(2)) Due to the reasons 
+discussed in the February 2023 NOPR and previous paragraphs, DOE is not 
+expanding the scope of this test procedure to include centrifugal 
+compressors. DOE continues to review and consider potential methods for 
+centrifugal compressors and may consider developing test procedures for 
+centrifugal compressors as part of a future rulemaking process.
+3. Compressor Motor Nominal Horsepower
+    As stated in section III.A of this document, the current test 
+procedure for compressors applies to compressors that have a full-load 
+operating pressure of 75 to 200 psig (inclusive) and either (1) a full-
+load actual volume flow rate of 35 to 1,250 cfm (inclusive) or (2) 
+compressor motor nominal horsepower of 10 to 200 hp (inclusive). 10 CFR 
+431.344. In the February 2023 NOPR, DOE tentatively determined that the 
+same burden concerns as discussed in the January 2017 Final Rule would 
+continue to exist for the current compressor market. 88 FR 9199, 9203. 
+These include a small number of shipments of units greater than 200 hp 
+and the potential for competitive disadvantage for rotary positive 
+displacement compressors that compete with centrifugal compressors. Id. 
+Therefore, DOE did not propose any changes to the current horsepower 
+range of 10 to 200 hp for the existing test procedure in the February 
+2023 NOPR. Id. DOE asked for comment regarding the determination to not 
+include compressors with a horsepower rating above 200 hp within the 
+scope of test procedure applicability. Id.
+    In response to the February 2023 NOPR, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all expressed 
+support for the DOE proposal to not include compressors with a 
+horsepower rating above 200 hp within the scope of test procedure 
+applicability. (CAGI, No. 21 at p. 2; Kaeser Compressors, No. 24 at pp. 
+3-4; Ingersoll Rand, No. 25 at p. 2; Saylor-Beall, No. 22 at p. 1; 
+Sullivan-Palatek, No. 23 at p. 1)
+    Kaeser Compressors encouraged DOE to investigate increasing the 
+maximum horsepower above 200 hp to 500 hp in a future rulemaking. 
+(Kaeser Compressors, No. 24 at p. 2) NEEA & NPCC recommended that DOE 
+consider a separate future test procedure rulemaking for centrifugal 
+compressors, which would create a path for expanding the current test 
+procedure scope to rotary compressors up to 500 hp. NEEA & NPCC also 
+stated that rotary and centrifugal compressors from 200 hp to 500 hp 
+represent 25 percent of total commercial and industrial compressor 
+energy consumption. (NEEA & NPCC, No. 26 at pp. 3-4)
+    CA IOUs recommended that DOE expand the scope of the test procedure 
+to cover large (201-500 hp) rotary positive displacement air 
+compressors. CA IOUs stated that all compressor types in this size 
+range consume 29 percent of total industrial air compressor energy, and 
+that increasing the scope of the test procedure would support the goal 
+of fully evaluating the cost-effectiveness, technological feasibility, 
+and economically justified savings opportunities for end users. CA IOUs 
+also stated that air compressor manufacturers voluntarily provide CAGI 
+data sheets for large and oil-free rotary positive displacement air 
+compressors, therefore the additional test burden of covering 
+compressors with motors operating at 201-500 hp is limited. CA IOUs 
+provided data showing that there is a wide range of isentropic 
+efficiencies for rotary positive displacement compressors with motor 
+nominal power greater than 200 hp. Finally, CA IOUs provided data 
+indicating that centrifugal compressors likely compete with fixed-speed 
+rotary positive displacement compressors to provide baseload, but they 
+do not likely compete with variable-speed rotary positive displacement 
+compressors providing low part load. (CA IOUs, No. 27 at pp. 2-7)
+    ASAP, ACEEE, & NRDC also encouraged DOE to expand the scope of the 
+test procedure to cover rotary positive displacement air compressors 
+greater than 200 hp. ASAP, ACEEE, & NRDC disagreed with DOE's rationale 
+for excluding rotary compressors greater than 200 hp for several 
+reasons. First, ASAP, ACEEE, & NRDC indicated that CAGI performance 
+data is already available for many of these larger models. Second, 
+ASAP, ACEEE, & NRDC acknowledged that larger
+
+[[Page 5544]]
+
+compressors have lower shipment numbers, but they indicated that DOE 
+has recently expanded the scope of the electric motors test procedure 
+to 750 hp and stated that very large electric motors are also often 
+low-volume, custom products. Third, ASAP, ACEEE, & NRDC stated that 
+most compressor manufacturers make both in-scope rotary compressors and 
+out-of-scope compressors, so it is unclear whether certain 
+manufacturers would be disadvantaged by inclusion of larger rotary 
+compressors. Finally, ASAP, ACEEE, & NRDC stated that DOE should 
+consider expanding the test procedure scope to currently out-of-scope 
+compressor types, such as centrifugal compressors, as this would 
+mitigate concerns over disadvantaging certain manufacturers or pushing 
+the market towards out-of-scope substitutions. (ASAP, ACEEE, & NRDC, 
+No. 28 at pp. 1-2)
+    DOE recognizes that a considerable amount of the market for 
+compressors greater than 200 hp is served by centrifugal compressors. 
+As discussed in the January 2017 Final Rule, the inclusion of rotary 
+compressors greater than 200 hp could create a competitive disadvantage 
+for manufacturers of these compressors, as centrifugal compressors of 
+the same horsepower do not have the same testing and representation 
+requirements. 82 FR 1052, 1061-1062. DOE concluded at the time that 
+this competitive advantage could incentivize users to switch from 
+regulated rotary compressors to unregulated centrifugal compressors, 
+thus creating a competitive advantage for manufacturers of unregulated 
+centrifugal compressors. Id. Although commenters have indicated that 
+these categories compete in only a subset of the market and that some 
+manufacturers make both regulated and unregulated compressors, the same 
+competitive issues still largely exist today.
+    Although ASAP, ACEEE, & NRDC have suggested that DOE can mitigate 
+the concerns over competition by covering both rotary positive 
+displacement and centrifugal compressors over 200 hp in the test 
+procedure scope (ASAP, ACEEE, & NRDC, No. 28 at pp. 1-2), section 
+III.A.2 of this final rule discusses that DOE is continuing to exclude 
+centrifugal compressors from the scope of the test procedure at this 
+time. As a result, in order to ensure that there is not considerable 
+competition between unregulated centrifugal compressors and regulated 
+positive displacement rotary compressors, DOE is also continuing to 
+exclude rotary positive displacement compressors over 200 hp from the 
+scope of the test procedure at this time.
+    For the reasons discussed in the February 2023 NOPR and the 
+previous paragraphs, DOE is maintaining the current horsepower range of 
+10 to 200 hp for this test procedure final rule. DOE continues to 
+review and consider potential methods for testing positive displacement 
+rotary compressors with nominal motor horsepower greater than and less 
+than the current scope and may consider developing test procedures for 
+these compressors as part of a future rulemaking process.
+4. Lubricant-Free Compressors
+    As stated in section III.A of this document, the current test 
+procedure for compressors applies to lubricated compressors (and 
+therefore does not apply to lubricant-free compressors). 10 CFR 
+431.344. In the February 2023 NOPR, DOE proposed to not expand the 
+scope of the test procedure to include lubricant-free compressors. 88 
+FR 9199, 9203-9204. DOE stated that it may evaluate the justification 
+for developing test procedures for lubricant-free compressors as part 
+of a future rulemaking process. DOE also asked for comment regarding 
+its proposal to not include lubricant-free compressors within the scope 
+of test procedure applicability.
+    In response to the request for comment, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all responded in 
+agreement with DOE's proposal to not include lubricant-free compressors 
+within the scope of test procedure applicability. (CAGI, No. 21 at p. 
+2; Kaeser Compressors, No. 24 at p. 4; Ingersoll Rand, No. 25 at p. 2; 
+Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 1)
+    Kaeser Compressors encouraged DOE to evaluate recently added/
+verified test standards for oil-free compressors and blowers for 
+potential incorporation in a future rulemaking. Kaeser Compressors also 
+added that, since there are many different compressor and blower 
+technologies in the oil-free category, they may require different ways 
+to develop efficiency and test standards. (Kaeser Compressors, No. 24 
+at p. 2)
+    ASAP, ACEEE, & NRDC recommended DOE expand the scope of this test 
+procedure to cover lubricant-free compressors, because including 
+lubricant-free compressors would mitigate the risk of unregulated 
+product substitutions, which was a concern in the January 2017 Final 
+Rule. (ASAP, ACEEE, & NRDC, No. 28 at p. 3)
+    DOE discussed lubricant-free compressors in both the January 2017 
+Final Rule (82 FR 1052, 1063) and the January 2020 ECS Final Rule (85 
+FR 1504, 1519-1520), concluding that justification did not exist at the 
+time to support extending the scope of test procedures or energy 
+conservation standards to apply to lubricant-free compressors. DOE has 
+determined that the conclusion made in the 2017 and 2020 final rules 
+still applies for lubricant-free compressors.
+    ASAP, ACEEE, & NRDC recommended that DOE mitigate the risk of 
+unregulated product substitutions by expanding the scope of the test 
+procedure to cover lubricant-free compressors and other categories of 
+compressors, such as centrifugal and scroll compressors, instead of 
+excluding lubricant-free compressors. (ASAP, ACEEE, & NRDC, No. 28 at 
+p. 3) Section III.A.2 of this final rule, however, discusses that DOE 
+is continuing to exclude centrifugal compressors from the scope of the 
+test procedure at this time. As a result, in order to ensure that there 
+is not competition between unregulated centrifugal compressors and 
+regulated lubricant-free positive displacement rotary compressors, DOE 
+is also excluding lubricant-free rotary positive displacement 
+compressors from the scope of the test procedure at this time.
+    For the reasons discussed in the previous paragraphs, at this time, 
+DOE is not expanding the scope of the test procedure to include 
+lubricant-free compressors. DOE may evaluate the justification for 
+developing test procedures for lubricant-free compressors as part of a 
+future rulemaking process.
+5. Brushed Motors
+    As stated in section III.A, the current test procedure for 
+compressors applies only to compressors with brushless motors. 10 CFR 
+431.344. In the February 2023 NOPR, DOE proposed to not expand the 
+scope of the test procedure to include compressors with brushed motors. 
+88 FR 9199, 9204. DOE stated that it may evaluate the justification for 
+developing test procedures for compressors with brushed motors as part 
+of a future rulemaking process. DOE also asked for comment regarding 
+its proposal to not include compressors with brushed motors within the 
+scope of test procedure applicability.
+    In response to the request for comment, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all responded in 
+agreement with DOE's proposal to exclude compressors with brushed 
+motors from the scope of test procedure applicability. (CAGI, No. 21 at 
+p. 2;
+
+[[Page 5545]]
+
+Kaeser Compressors, No. 24 at p. 4; Ingersoll Rand, No. 25 at p. 2; 
+Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 1)
+    ASAP, ACEEE, & NRDC encouraged DOE to include compressors with 
+brushed motors in the test procedure scope. (ASAP, ACEEE, & NRDC, No. 
+28 at p. 1) ASAP, ACEEE, & NRDC commented that they were concerned that 
+manufacturers could consider replacing brushless motors with less 
+efficient brushed motors to avoid compressor regulations. (ASAP, ACEEE, 
+& NRDC, No. 28 at p. 3)
+    DOE discussed compressors with brushed motors in both the January 
+2017 Final Rule (82 FR 1052, 1060) and the January 2020 ECS Final Rule 
+(85 FR 1504, 1515), concluding that the burden associated with 
+establishing testing requirements for brushed motor compressors 
+outweighed the associated benefits. This was because, although there 
+were potential benefits to expanding scope to include these models, 
+brushed motors are uncommon in compressors with significant operating 
+hours, and most brushed motor compressors are not tested for 
+efficiency. 82 FR 1052, 1060. In addition, DOE stated that brushed 
+motors are uncommon in compressors with significant potential energy 
+savings (i.e., high operating hours) due to higher maintenance costs, 
+short operating lives, significant acoustic noise, and electrical 
+arcing. Id. For these reasons, DOE concluded that brushed motors are 
+not a viable substitution risk for compressors within the scope of the 
+DOE compressor test procedure. Id.
+    DOE has determined that the conclusions made in the January 2017 
+Final Rule still apply for compressors with brushed motors. Due to this 
+reasoning, at this time, DOE is not expanding the scope of the test 
+procedure to include compressors with brushed motors. DOE may evaluate 
+the inclusion of compressors with brushed motors as part of a future 
+rulemaking.
+6. Output Pressure Less Than 75 psig
+    As stated in section III.A, the current test procedure for 
+compressors applies only to compressors that have a full-load operating 
+pressure greater than or equal to 75 psig and less than or equal to 200 
+psig. 10 CFR 431.344. In the February 2023 NOPR, DOE proposed to not 
+include equipment for compressed air applications for pressures under 
+75 psig within the scope of test procedure applicability. 88 FR 9199, 
+9204. DOE stated that it may evaluate the justification for developing 
+test procedures for compressors with output pressure of less than 75 
+psig as part of a future rulemaking process. Id. DOE also asked for 
+comment regarding its proposal to not include equipment for compressed 
+air applications for pressures under 75 psig within the scope of test 
+procedure applicability. Id.
+    In response to the request for comment, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all commented in 
+agreement with DOE's proposal to not include compressors with output 
+pressure less than 75 psig. (CAGI, No. 21 at p. 2; Kaeser Compressors, 
+No. 24 at p. 4; Ingersoll Rand, No. 25 at p. 2; Saylor-Beall, No. 22 at 
+p. 1; Sullivan-Palatek, No. 23 at p. 1)
+    Kaeser Compressors encouraged DOE to evaluate recently added/
+verified test standards for oil-free compressors and blowers for 
+potential incorporation in a future rulemaking, which would include 
+pressure ranges of 50-160 psig. Kaeser Compressors added that 1-30 psig 
+is also a large area of energy consumption, which includes wastewater 
+treatment and other aeration and conveying applications that include 
+24/7 operation. (Kaeser Compressors, No. 24 at p. 2)
+    At this time, DOE is not expanding the scope of the test procedure 
+to include compressors with output pressure of less than 75 psig. DOE 
+discussed compressors with output pressure of less than 75 psig in both 
+the January 2017 Final Rule (82 FR 1052, 1062-1063) and the January 
+2020 ECS Final Rule (85 FR 1504,1519), concluding that justification 
+did not exist at the time to support extending the scope of either test 
+procedures or energy conservation standards to apply to compressors 
+with output pressure of less than 75 psig. DOE has determined that the 
+conclusion made in the January 2017 Final Rule and the January 2020 ECS 
+Final Rule still applies for compressors with output pressure of less 
+than 75 psig. DOE may evaluate the justification for developing test 
+procedures for compressors with output pressure of less than 75 psig as 
+part of a future rulemaking process.
+7. Integrated Dryers
+    In response to the February 2023 NOPR, Kaeser Compressors commented 
+that, while integrated dryers inside a compressor package are not 
+listed in the DOE procedure, it might be necessary to specifically 
+exclude them from this test procedure. (Kaeser Compressors, No. 24 at 
+p. 8)
+    Section 2.2.4 of appendix A contains tables 1 and 2, which specify 
+the compressor components and ancillary equipment that must be present 
+and installed when testing an air compressor. These tables were 
+discussed in the January 2017 Final Rule. 82 FR 1052, 1055-1057, 1080-
+1082. Table 1 to appendix A contains the equipment that must be present 
+and installed for all tests. If the compressor is distributed in 
+commerce without an item from table 1 to appendix A, the manufacturer 
+must provide an appropriate item to be installed for the test. If any 
+of the equipment listed in table 2 to appendix A is distributed in 
+commerce with units of the compressor basic model, it must be present 
+and installed for all tests specified in appendix A. Additional 
+ancillary equipment beyond the items listed in tables 1 and 2 to 
+appendix A may be installed for the test, if distributed in commerce 
+with the compressor, but this additional ancillary equipment is not 
+required.
+    Neither table 1 nor table 2 to appendix A specify an integrated 
+dryer, or any type of dryer, as a piece of equipment that must be 
+installed for testing. Table 1 to appendix A specifies a moisture 
+separator and drain, but this is different from a dryer, in that a 
+moisture separator removes liquid water from the air, whereas a dryer 
+removes water vapor from the air. As a result, an integrated dryer is 
+not required to be present and installed for the tests specified in the 
+compressors test procedure. A manufacturer may install an integrated 
+dryer for the tests if the integrated dryer is distributed in commerce 
+with the compressor, but the integrated dryer is not required.
+    Although Kaeser Compressors suggested that it might be necessary to 
+specifically exclude integrated dryers from the test procedure, DOE is 
+not doing that in this final rule. As discussed in the previous 
+paragraphs, a manufacturer is not required to install an integrated 
+dryer for testing, but the manufacturer may install an integrated dryer 
+if they wish to represent the performance of their compressor with an 
+integrated dryer installed. This flexibility is indicated by the text 
+of section 2.2.4 of appendix A and tables 1 and 2 to appendix A, and no 
+changes are required at this time to clarify this flexibility.
+
+B. Updates to Industry Standards
+
+1. ISO 1217:2009(E) as the Basis for This Test Procedure
+    DOE's current test procedure incorporates by reference certain 
+sections of ISO 1217:2009(E) as amended through Amendment 1:2016 for 
+test methods and acceptance tests regarding volume rate of flow and 
+power requirements of displacement
+
+[[Page 5546]]
+
+compressors, in addition to the operating and testing conditions that 
+apply when a full performance test is specified. In the February 2023 
+NOPR, DOE did not propose amendments to the existing reference to ISO 
+1217:2009(E) as amended through Amendment 1:2016 as the basis for the 
+compressors test procedure. 88 FR 9199, 9204-9205. DOE also asked for 
+comment regarding its initial determination to continue to use ISO 
+1217:2009(E) as amended through Amendment 1:2016 as the basis for the 
+compressors test procedure.
+    In response to the request for comment, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all commented in 
+agreement with DOE's proposal to continue to use ISO 1217:2009(E) as 
+amended through Amendment 1:2016 as the basis for the compressors test 
+procedure. (CAGI, No. 21 at p. 3; Kaeser Compressors, No. 24 at p. 4; 
+Ingersoll Rand, No. 25 at p. 2; Saylor-Beall, No. 22 at p. 1; Sullivan-
+Palatek, No. 23 at p. 1)
+    DOE agrees with the comments received and is continuing to 
+incorporate by reference certain sections of ISO 1217:2009(E) as 
+amended through Amendment 1:2016 in the compressors test procedure at 
+10 CFR 431.343. As discussed in section III.E.1, DOE is revising 10 CFR 
+431.343 to add section B.4.5 of Annex B of ISO 1217:2009(E) to the list 
+of sections that DOE is incorporating by reference in the compressors 
+test procedure. See section III.E.1 for a full discussion of this 
+revision.
+2. Ambient Temperature Range Requirement
+    DOE adopted the ambient temperature range for testing of 68 to 90 
+[deg]F in the January 2017 Final Rule partially in response to concern 
+that creating a climate-controlled space for testing compressors could 
+be a significant burden on small businesses. DOE stated that this 
+temperature range provides representative measurements without unduly 
+burdening manufacturers. 82 FR 1052, 1079-1080. In the February 2023 
+NOPR, DOE proposed to maintain the current ambient temperature range 
+requirement of 68 to 90 [deg]F for testing air compressors. 88 FR 9199, 
+9205. DOE also asked for comment regarding its proposal to maintain the 
+current ambient temperature range requirement.
+    In response to the request for comment, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all commented in 
+agreement with DOE's proposal to maintain the current ambient 
+temperature range requirement of 68 to 90 [deg]F for testing air 
+compressors. (CAGI, No. 21 at p. 3; Kaeser Compressors, No. 24 at p. 5; 
+Ingersoll Rand, No. 25 at p. 2; Saylor-Beall, No. 22 at p. 1; Sullivan-
+Palatek, No. 23 at p. 1) They added that narrowing the range or 
+specifying specific requirements would add burden to the industry 
+without providing any advantages to consumers. (Id.)
+    For the reasons discussed in the February 2023 NOPR and the 
+previous paragraphs, DOE is not amending the current ambient 
+temperature range requirement of 68 to 90 [deg]F for testing air 
+compressors in this final rule.
+
+C. Definitions
+
+1. Multi-Element Air Compressors
+    Air compressors may include multiple compression elements to 
+increase compression efficiency or to generate a greater pressure 
+increase than would be possible with a single compression element. The 
+current definition of ``air compressor'' specifies inclusion of a 
+compression element but does not exclude air compressors that include 
+more than one compression element. DOE discussed the current definition 
+of ``air compressor'' as applying to multi-element air compressors in 
+both the January 2017 Final Rule (82 FR 1052, 1068) and the January 
+2020 ECS Final Rule, in which multi-staging was identified as a 
+technology option for improving the energy efficiency of compressors. 
+85 FR 1504, 1537.
+    In the February 2023 NOPR, DOE tentatively determined that revising 
+the definition of ``air compressor'' to explicitly include air 
+compressors with more than one compression element would reduce the 
+probability that the definition is misinterpreted to exclude air 
+compressors with more than one compression element. 88 FR 9199, 9205-
+9206. DOE proposed to amend the definition of ``air compressor'' such 
+that ``compression element (bare compressor)'' is replaced by ``one or 
+more compression elements (bare compressors).'' Id. Additionally, DOE 
+proposed to change ``compressor element'' to ``compression elements'' 
+to correct a typographical error. Id. DOE also issued a request for 
+comment in the February 2023 NOPR regarding its proposed amendment of 
+the definition of ``air compressor.'' 88 FR 9199, 9206.
+    In response to the request for comment, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, Sullivan-Palatek, and CA IOUs all 
+expressed support for DOE's proposed amendment to the definition of 
+``air compressor.'' (CAGI, No. 21 at p. 2; Kaeser Compressors, No. 24 
+at p. 4; Ingersoll Rand, No. 25 at p. 2; Saylor-Beall, No. 22 at p. 1; 
+Sullivan-Palatek, No. 23 at p. 1; CA IOUs, No. 27 at p. 1)
+    The current formulation of the definition of ``air compressor'' 
+does not exclude air compressors with more than one compression 
+element; nonetheless, stating expressly that multi-element compressors 
+meet the definition of ``air compressor'' limits the potential for 
+misinterpretation.
+    For the reasons discussed in the February 2023 NOPR and the 
+preceding paragraphs, DOE is amending the definition of ``air 
+compressor'' to be ``a compressor designed to compress air that has an 
+inlet open to the atmosphere or other source of air, and is made up of 
+one or more compression elements (bare compressors), driver(s), 
+mechanical equipment to drive the compression elements, and any 
+ancillary equipment.''
+
+D. Efficiency Metrics
+
+1. Load Point for Fixed-Speed Compressors
+    The current efficiency metric for fixed-speed compressors, full-
+load package isentropic efficiency, uses a single load point at 100 
+percent of full-load actual volume flow rate. In the February 2023 
+NOPR, DOE proposed to maintain the requirement to measure the 
+performance of fixed-speed compressors at full load, or more 
+specifically, full-load actual volume flow rate at full-load operating 
+pressure, as described in paragraph 3.3.1 of appendix A. 88 FR 9199, 
+9209. DOE also asked for comment on whether the test procedure reflects 
+actual operating costs for compressors based on their realistic average 
+use cycles. Id.
+    In response to the February 2023 NOPR, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all expressed 
+support for the provision that the test procedure can be considered 
+reflective of realistic average use cycles. They commented that, in 
+practical terms, no one compressor installation will have identical or 
+predictable use cycles, and that the current regulatory provision to 
+certify fixed-speed machines based on their performance at 100 percent 
+flow rate and for variable-speed machines based on a weighted average 
+for flow conditions provides a realistic, representative framework for 
+testing, certifying, and presenting meaningful and consistent data to 
+customers. (CAGI, No. 21 at p. 5; Kaeser Compressors, No. 24 at p. 8; 
+Ingersoll Rand, No. 25 at p. 4; Saylor-Beall, No. 22 at p. 1; Sullivan-
+Palatek, No. 23 at p. 1)
+
+[[Page 5547]]
+
+    For the reasons discussed in the February 2023 NOPR and preceding 
+paragraphs, DOE is not proposing to alter the current metric for fixed-
+speed compressors in this test procedure final rule.
+2. Load Points for Variable-Speed Compressors
+    The part-load package isentropic efficiency metric for variable-
+speed air compressors uses three load points: 40, 70, and 100 percent 
+of full-load actual volume flow rate. In the February 2023 NOPR, DOE 
+proposed to continue using those load points. 88 FR 9199, 9208-9209. 
+DOE requested comment on its proposal to maintain the number of load 
+points for variable-speed air compressors and to not include points 
+with greater than 100 percent of full-load actual volume flow rate. Id.
+    In response to the request for comment in the February 2023 NOPR, 
+CAGI, Kaeser Compressors, Ingersoll Rand, Saylor-Beall, and Sullivan-
+Palatek all expressed support for the DOE proposal to maintain the 
+number of test points and to not include points with greater than 100-
+percent load.
+    For the reasons discussed in the February 2023 NOPR and the 
+previous paragraphs, in this final rule, DOE is maintaining the load 
+points for the part-load package isentropic efficiency metric for 
+variable-speed air compressors at 100 percent, 70 percent, and 40 
+percent of full-load actual volume flow rate.
+3. Inclusion of Unloaded Operation for Fixed-Speed Compressors
+    The isentropic efficiency metric for fixed-speed compressors 
+currently includes performance at full-load operation only. No measure 
+of performance is included from unloaded operation. In the February 
+2023 NOPR, DOE proposed to maintain this exclusion of unloaded 
+operation from the isentropic efficiency metric. 88 FR 9199, 9208.
+    ASAP, ACEEE, & NRDC encouraged DOE to explore how unloaded power 
+measurements could be incorporated into the test procedure. ASAP, 
+ACEEE, & NRDC stated that fixed-speed air compressors are tested and 
+evaluated only at full load. However, they elaborated that fixed-speed 
+compressors often include controls such as ``load/unload'' or ``start/
+stop'' and commented that testing and evaluating fixed-speed compressor 
+efficiency at both fully loaded and fully unloaded (i.e., zero flow) 
+conditions would be more representative of typical usage. ASAP, ACEEE, 
+& NRDC further stated that the CAGI Performance Verification Program 
+already specifies testing at a fully unloaded test point, and that 
+capturing differences in unloaded power usage will become increasingly 
+important as compressor efficiencies improve. (ASAP, ACEEE, & NRDC, No. 
+28 at p. 3)
+    NEEA & NPCC recommended that DOE include a no-load power 
+measurement in the test procedure for fixed-speed compressors that use 
+start/stop and load/unload control strategies. NEEA & NPCC stated that 
+unlike variable-airflow controls, fixed-speed air compressors that use 
+start/stop and load/unload control strategies operate at either fully 
+loaded or fully unloaded states, and testing units that have start/stop 
+or load/unload control strategies at fully loaded and fully unloaded 
+states would be more representative of typical usage. NEEA & NPCC 
+commented that the January 2020 ECS Final Rule indicates that a 
+significant portion of annual energy consumption is spent in a no-load 
+or fully unloaded state for fixed-speed compressors with unload 
+strategies. NEEA & NPCC further stated that, because the metric does 
+not currently account for a no-load power, DOE can't consider 
+technologies that reduce no-load power consumption in its standard 
+analysis; manufacturers that develop products that use less energy in 
+no-load are not given credit in their regulated ratings; and the DOE 
+test procedure assumption for non-operating hours is zero, which is not 
+in agreement with the analysis performed in the January 2020 ECS Final 
+Rule and does not align with the typical usage of compressors. NEEA & 
+NPCC also stated that standby mode and off mode energy consumption 
+measurements are required for all consumer products' test procedures, 
+and that including a no-load power measurement for industrial equipment 
+that consumes power in a no-load state, such as start/stop and load/
+unload compressors, ensures consistency in test procedure requirements 
+across industrial and consumer products. (NEEA & NPCC, No. 26 at pp. 5-
+6)
+    NEEA & NPCC disagreed with DOE's statement in the February 2023 
+NOPR that testing at a no-load state is not an essential output of the 
+test procedure and, therefore, would cause unneeded incremental burden 
+on testing and reporting requirements. NEEA & NPCC stated that DOE 
+requiring testing at a no-load state is the necessary step for no-load 
+power measurement to be an essential output of the test procedure. NEEA 
+& NPCC also stated that the incremental burden of testing a unit at a 
+no-load state is minimal, as units under test are already set up for 
+testing at specified load points and the CAGI data sheets already 
+specify tolerances for testing at a fully unloaded test point. (NEEA & 
+NPCC, No. 26 at p. 6)
+    DOE agrees that information describing unloaded states of operation 
+could be useful to the end user. This subject was discussed in the 
+January 2017 Final Rule. 82 FR 1052, 1068-1070. This included mention 
+of possible methods to include loaded and unloaded points in a 
+representative manner, including, potentially, the energy required 
+during the transient periods between loaded and unloaded operation. Id. 
+At the time, it was noted that there were no methods that had been 
+developed and accepted by industry consensus, although Atlas Copco did 
+provide an example of a cycle energy requirement approach to consider 
+the energy during loaded operation, unloaded operation, and the 
+transient periods between loaded and unloaded operation. Id. At the 
+time, DOE did not include unloaded performance in its isentropic 
+efficiency metric because there was no accepted industry test method. 
+Id. DOE indicated at the time that DOE may consider incorporating such 
+a method in future rulemakings if the metric gains acceptance in the 
+industry and the test method can be formalized and validated beyond a 
+case study. 82 FR 1052, 1069. DOE also stated that manufacturers may 
+measure and advertise unloaded power, but it would not require 
+measurement of unloaded performance as part of the test procedure. 82 
+FR 1052, 1070.
+    At the current time, DOE is not aware that an industry standard 
+test method has been developed to provide a representative measure of 
+performance across loaded and unloaded operation. In a comment in 
+response to the February 2023 NOPR, Kaeser Compressors indicated that 
+DOE could consider new industrial standards for a future rulemaking, 
+including ISO 4376, Cycle energy requirement.\6\ This standard is 
+described on the ISO website as measuring the additional energy 
+required for a single cycle caused by transient conditions, which 
+sounds similar to the method from Atlas Copco that was discussed in the 
+January 2017 Final Rule. The standard is currently listed as ``under 
+development'' on the ISO website, and DOE is not aware of any 
+compressors that are currently rated using this standard. As a result, 
+it appears that this standard is not currently being used widely by 
+industry. DOE is also not aware of any other industry consensus method 
+to
+
+[[Page 5548]]
+
+combine loaded and unloaded performance.
+---------------------------------------------------------------------------
+
+    \6\ Available at <a href="http://iso.org/standard/85352.html">iso.org/standard/85352.html</a>.
+---------------------------------------------------------------------------
+
+    The concerns that existed in the January 2017 Final Rule regarding 
+the lack of an accepted industry test method to combine loaded and 
+unloaded performance still exist. As a result, DOE is not including any 
+measure of unloaded performance in the metrics of the compressors test 
+procedure at this time, although manufacturers may measure and 
+advertise unloaded power. DOE may consider including unloaded 
+performance in the metrics of the compressors test procedures as part 
+of a future rulemaking process.
+4. Part-Load Performance of Fixed-Speed Compressors With Variable-
+Airflow Controls
+    The isentropic efficiency metric for fixed-speed compressors 
+includes performance at full-load operation only. No measure of 
+performance is included from part-load operation. In the February 2023 
+NOPR, DOE proposed to maintain this exclusion of part-load operation 
+from the isentropic efficiency metric for fixed-speed compressors. 88 
+FR 9199, 9208.
+    ASAP, ACEEE, & NRDC encouraged DOE to include voluntary testing and 
+reporting of part-load performance of fixed-speed compressors with 
+variable-airflow controls. ASAP, ACEEE, & NRDC stated that fixed-speed 
+compressors sold with variable-airflow controls, such as ``variable 
+displacement'' or ``inlet modulation,'' can provide similar utility as 
+variable-speed compressors. Thus, ASAP, ACEEE, & NRDC stated that DOE 
+should provide specific voluntary provisions to test and rate 
+compressors with variable-airflow controls (e.g., using the variable-
+speed compressor test points at 40, 70, and 100 percent of full load). 
+ASAP, ACEEE, & NRDC further stated that part-load testing of fixed-
+speed compressors with airflow controls would facilitate comparison of 
+part-load efficiency among variable-airflow compressors as well as 
+between variable-airflow and variable-speed compressors. Finally, ASAP, 
+ACEEE, & NRDC indicated that these provisions would also ensure that 
+any manufacturer representations of variable-airflow compressor part-
+load performance are consistent across the industry. (ASAP, ACEEE, & 
+NRDC, No. 28 at pp. 3-4)
+    NEEA & NPCC recommended DOE coordinate with CAGI in rating fixed-
+speed rotary compressors with variable-airflow controls at variable 
+load points to align with variable-speed compressors. NEEA & NPCC 
+stated that many fixed-speed rotary compressors have variable-airflow 
+controls and non-flat load profiles. Fixed-speed compressors that use 
+variable-airflow controls, such as inlet valve modulation and variable 
+displacement, provide the same function as variable-speed compressors; 
+however, these compressors are tested only at full-load operation 
+currently. Testing fixed-speed rotary compressors with variable-airflow 
+controls at variable load points would be more representative of 
+typical usage and produce a more representative isentropic efficiency. 
+Furthermore, NEEA & NPCC stated that by not testing compressors with 
+variable-airflow controls at part-load set points, consumers cannot 
+compare and select the most efficient air compressors for part-load 
+operations. (NEEA & NPCC, No. 26 at p. 4)
+    NEEA & NPCC disagreed with DOE's reasoning in the February 2023 
+NOPR that because fixed-speed rotary compressors in the CAGI data 
+sheets are rated at only full-load isentropic efficiency, establishing 
+part-load isentropic efficiencies for compressors with variable-airflow 
+controls in the test procedure is not warranted at this time. NEEA & 
+NPCC stated that DOE should consider improvements to the testing of 
+variable-airflow compressors for several reasons. First, NEEA & NPCC 
+stated that DOE is not limited to CAGI's performance verification 
+program or the information on CAGI data sheets in their test procedure, 
+and that DOE should fully consider the burden and value of changes to 
+the testing of fixed-speed variable-airflow compressors. Second, NEEA & 
+NPCC commented that the January 2020 ECS Final Rule indicated that 
+about 37 percent of fixed-speed industrial air compressors use inlet 
+valve modulation or variable displacement with high, low, or even load 
+profiles, indicating that a significant portion of fixed-speed air 
+compressors are tested in conditions at which they rarely or never 
+operate. Finally, NEEA & NPCC commented that there may be a significant 
+savings opportunity for fixed-speed rotary compressors with variable-
+airflow controls, and that DOE should investigate the savings 
+opportunity by testing these compressors the same as variable-speed 
+compressors. NEEA & NPCC stated that if significant savings potential 
+is noted, DOE should update testing to better reflect the energy 
+consumption and potential for savings in this equipment. In addition, 
+NEEA & NPCC stated that DOE could also coordinate with CAGI on how to 
+include these reporting requirements in their data sheets so that both 
+continue to align, should DOE make changes. (NEEA & NPCC, No. 26 at p. 
+6)
+    DOE agrees that a part-load package isentropic efficiency metric 
+for fixed-speed variable-airflow compressors could acceptably represent 
+the typical energy use of fixed-speed compressors with variable-airflow 
+controls. This subject was discussed in the January 2017 Final Rule. 82 
+FR 1052, 1072-1073. At the time, it was noted that CAGI was doing 
+preliminary work on developing a method for one of these control 
+methods (variable displacement), but that there was not yet an industry 
+consensus method for measuring the part-load performance of variable-
+airflow fixed-speed compressors. Id. at 82 FR 1073. The lack of an 
+accepted test method was one of the reasons that DOE did not include a 
+part-load package isentropic efficiency metric for fixed-speed 
+variable-airflow compressors in the test procedure. The other reasons 
+included the lack of historical part-load performance data for these 
+compressors and the approach taken by CAGI and the EU Lot 31 draft 
+standard. Id. DOE also acknowledged in the January 2017 Final Rule that 
+part-load performance information for these varieties of compressors 
+can provide valuable information for the end user, and that 
+manufacturers of fixed-speed compressors may continue making graphical 
+or numerical representations of package isentropic efficiency and 
+package specific power as functions of flow rate or rotational speed. 
+Id.
+    At the current time, DOE is not aware of an industry consensus 
+method for measuring part-load package isentropic efficiency for fixed-
+speed variable-airflow compressors, nor is DOE aware of this metric 
+being used widely for this category of compressors. As a result, the 
+concerns that existed in the January 2017 Final Rule regarding the lack 
+of an accepted industry test method still exist. Therefore, DOE is not 
+including any measure of part-load package isentropic efficiency for 
+fixed-speed variable-airflow compressors in the compressors test 
+procedure at this time. DOE may consider part-load package isentropic 
+efficiency for fixed-speed variable-airflow compressors as part of a 
+future rulemaking process.
+
+E. Test Method
+
+1. K6 Correction Factor
+    ISO 1217:2009(E) contains several correction factors that correct 
+for variables of the environment, process gas, and compressor 
+operation. The K<INF>6</INF> correction factor in ISO 1217:2009(E) is 
+labeled in section 4.1 of ISO 1217:2009(E) as the correction factor for
+
+[[Page 5549]]
+
+the isentropic exponent. The DOE test procedure uses only a subset of 
+the correction factors in ISO 1217:2009(E), and it does not use the 
+K<INF>6</INF> correction factor. The DOE test procedure specifies in 
+sections 3.3.2.2, 3.4.3.2, 3.4.4.2, and 3.5 of appendix A to multiply 
+measured power by the K<INF>5</INF> correction factor, which is labeled 
+in section 4.1 of ISO 1217:2009(E) as the correction factor for the 
+inlet pressure, polytropic exponent, and pressure ratio.
+    In response to the May 2022 RFI, DOE received comments about 
+potentially needing to use the K<INF>6</INF> correction factor in 
+certain situations. CAGI, supported by Kaeser Compressors, commented 
+that if testing is conducted at sites significantly above sea level, 
+use of the K<INF>6</INF> correction factor may be necessary to obtain 
+accurate representative results. (CAGI, No. 11 at p. 2; Kaeser 
+Compressors, No. 17 at p. 1)
+    In the February 2023 NOPR, DOE explained that DOE had deliberately 
+omitted the K<INF>6</INF> correction factor during the January 2017 
+Final Rule. 82 FR 1052, 1084; 88 FR 9199, 9206. As listed in the 
+footnotes of the January 2017 Final Rule, the isentropic exponent of 
+air has some limited variability with atmospheric conditions, and DOE 
+adopted a fixed value of 1.400 to align with the EU Lot 31 draft 
+standard's metric calculations. Id. As such, DOE did not propose to 
+amend the current fixed value of 1.400 for the isentropic exponent in 
+the February 2023 NOPR. 88 FR 9199, 9206. DOE also asked for comment 
+regarding its initial determination to continue to use a fixed value of 
+1.400 for the isentropic exponent, as opposed to incorporating a 
+K<INF>6</INF> correction factor. Id.
+    In response to the request for comment, CAGI, supported by Kaeser 
+Compressors, Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek, 
+commented in support of DOE's initial determination to continue to use 
+a fixed value of 1.400 for the isentropic exponent of air. However, 
+they added that to ensure results derived from testing at elevation are 
+accurate, the K<INF>6</INF> correction factor is necessary to 
+incorporate both isentropic exponent and pressure ratio. They indicated 
+that is necessary to correct the measured power with both the 
+K<INF>5</INF> and K<INF>6</INF> correction factors in order to correct 
+for inlet pressure and pressure ratio. The DOE test procedure directs 
+that performance be normalized to a reference ambient inlet pressure of 
+100 kPa, approximately corresponding to an altitude of 364 ft above sea 
+level. CAGI presented a table illustrating that calculated results are 
+incorrect at elevations greater than and less than 364 ft if 
+K<INF>6</INF> is not used. (CAGI, No. 21 at pp. 3-5; Kaeser 
+Compressors, No. 24 at p. 6; Ingersoll Rand, No. 25 at p. 3; Saylor-
+Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 1) The commenters 
+also indicated that correcting the DOE test procedure to include 
+K<INF>6</INF> will reduce burdens and potential burdens for the 
+industry, because currently the DOE test method and its correction 
+deviates from the national consensus standard. They also stated that 
+correcting the procedure will not result in a need to retest and 
+recertify but will ensure that any verification/certification performed 
+at any elevation other than 364 ft or during low- or high-pressure 
+weather events will be correct. (CAGI, No. 21 at pp. 4-5; Kaeser 
+Compressors, No. 24 at pp. 8-9; Ingersoll Rand, No. 25 at pp. 4-5; 
+Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 1)
+    After reviewing CAGI's comments and the content of ISO 
+1217:2009(E), DOE now understands that K<INF>6</INF> is required to 
+calculate package isentropic efficiency and specific power accurately 
+in the DOE test procedure. Although K<INF>5</INF> is labeled as 
+``correction factor for inlet pressure, polytropic exponent and 
+pressure ratio'' and K<INF>6</INF> is labeled as ``correction factor 
+for isentropic exponent'' in section 4.1 of ISO 1217:2009(E), which 
+appears to be inaccurate. K<INF>5</INF>, as determined in section 
+C.4.3.2 of Annex C to ISO 1217:2009(E), appears to correct only for 
+inlet pressure, because it is a ratio of inlet pressures. 
+K<INF>6</INF>, as determined in section B.4.5 of Annex B to ISO 
+1217:2009(E), appears to correct for both the isentropic exponent and 
+pressure ratio, because it contains ratios of isentropic exponents and 
+pressure ratios. In the case of the DOE test procedure, for which a 
+fixed value of 1.400 is used for the isentropic exponent, K<INF>6</INF> 
+will correct for only pressure ratio. For the packaged compressors 
+covered by the DOE test procedure, both inlet pressure and pressure 
+ratio change with elevation and weather conditions. By including the 
+K<INF>5</INF> correction factor but excluding the K<INF>6</INF> 
+correction factor, the DOE test procedure currently corrects for 
+variations in inlet pressure but does not correct for variations in 
+pressure ratio. By including K<INF>6</INF> as well, the DOE test 
+procedure will correct for variations in both inlet pressure and 
+pressure ratio, thereby resulting in more accurate measurements of 
+isentropic efficiency and specific power.
+    To incorporate the K<INF>6</INF> correction factor, DOE is making 
+the following changes in the DOE test procedure. First, DOE is 
+incorporating by reference section B.4.5 of ISO 1217:2009(E) into 
+subpart T of 10 CFR part 431, which includes equations to calculate the 
+K<INF>6</INF> correction factor: equation B.9 for single-stage 
+displacement compressors with or without cooling and multi-stage 
+compressors without intercooling, and equation B.10 for multi-stage 
+displacement compressors with intercoolers. Second, DOE is revising 
+sections 3.3.2.2, 3.4.3.2, 3.4.4.2, and 3.5 of appendix A to multiply 
+measured power by both K<INF>5</INF> and K<INF>6</INF>, instead of only 
+multiplying measured power by K<INF>5</INF>.
+    As indicated by commenters, these changes will make the results of 
+the DOE test procedure more accurate, reduce burden by making the DOE 
+test procedure consistent with the industry test method, and not 
+require any retesting or recertifying.
+2. Correction of Pressure Ratio at Full-Load Operating Pressure Formula
+    Section 3.6 of appendix A specifies a formula for pressure ratio at 
+full-load operating pressure, which is used to classify whether a 
+machine or apparatus qualifies as a compressor, as the definition of 
+``compressor'' stated in 10 CFR 431.342 states that the machine or 
+apparatus must have a pressure ratio at full-load operating pressure 
+greater than 1.3. Pressure ratio at full-load operating pressure does 
+not factor directly into the measured values of compressor performance.
+    In response to the May 2022 RFI, DOE received comments noting that 
+there is an apparent error in the formula for pressure ratio. In the 
+February 2023 NOPR, DOE concurred with the commenters that the current 
+formula contains an error, as it both does not match the discussion in 
+the preamble of the January 2017 Final Rule and does not contain terms 
+related to the calculation of pressure ratio at full-load operating 
+pressure. 88 FR 9199, 9207.
+    The current formula for pressure ratio at full-load operating 
+pressure inadvertently duplicates a formula used in a calculation 
+related to determining a represented value of performance for a 
+compressor basic model from a tested sample of units. Specifically, the 
+current formula of pressure ratio at full-load operating pressure 
+exactly matches the formula for the lower 95-percent confidence limit 
+(``LCL'') of the true test mean divided by 0.95. In the February 2023 
+NOPR, DOE proposed to change the formula for pressure ratio at full-
+load operating pressure in section 3.6 of appendix A to rectify this 
+error and reflect the proper pressure ratio at full-load operating 
+pressure equation that will be utilized in the test procedure. The 
+numerator of this proposed formula for pressure ratio incorporated 
+full-load
+
+[[Page 5550]]
+
+operating pressure, determined in section 4.3.4 of appendix A (Pa 
+gauge), while the denominator was standard atmospheric pressure, 100 
+kPa. 88 FR 9199, 9207.
+    DOE requested comment in the February 2023 NOPR regarding its 
+proposal to correct the equation for pressure ratio at full-load 
+operating pressure. In response, CAGI, supported by Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek, commented in 
+support of DOE's proposal to correct the equation for pressure ratio at 
+full-load operating pressure to amend a previous typographical error. 
+In addition, the commenters noted that pressure ratio must always be 
+calculated in terms of absolute pressure and recommended the addition 
+of 100 kPa to the numerator of the equation to achieve this. (CAGI, No. 
+21 at p. 4; Kaeser Compressors, No. 24 at p. 7; Ingersoll Rand, No. 25 
+at p. 4; Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 
+1)
+    DOE evaluated the stakeholders' recommendation to express pressure 
+ratio in terms of absolute pressure and agrees with the proposed 
+solution. ``Absolute pressure'' is defined as pressure relative to a 
+perfect vacuum. In the correction proposed in the February 2023 NOPR, 
+the equation for pressure ratio expresses pressure in terms of gauge 
+pressure in the numerator and absolute pressure in the denominator. 88 
+FR 9199, 9207. ``Gauge pressure'' is defined as the pressure above 
+atmospheric pressure and has a different reference pressure compared to 
+absolute pressure. For the calculated pressure ratio to be accurate, 
+both the numerator and denominator must be expressed in terms of 
+absolute pressure.
+    As a result, in this test procedure final rule, DOE is amending the 
+formula for pressure ratio at full-load operating pressure in section 
+3.6 of appendix A to rectify the typographical error and to adjust the 
+proposed equation so that pressure ratio is calculated in terms of 
+absolute pressure by adding atmospheric pressure of 100 kPa to the 
+numerator. The amended calculation for pressure ratio at full-load 
+operating pressure is shown below in equation 1:
+[GRAPHIC] [TIFF OMITTED] TR17JA25.092
+
+Where:
+
+PR = pressure ratio at full-load operating pressure;
+P<INF>1</INF> = 100 kPa; and
+P<INF>FL</INF> = full-load operating pressure, determined in section 
+4.3.4 of appendix A to subpart T of part 431 (Pa gauge).
+
+    This change has no effect on the scope of compressors subject to 
+the test procedure and does not increase the associated testing burden 
+on manufacturers.
+3. Tolerances for Measured Energy Efficiency Values
+    DOE adopted the tolerances specified in table 1 of ISO 1217:2009(E) 
+in the January 2017 Final Rule in order to align with ISO 1217:2009(E), 
+as amended, to reduce the burden and cost to manufacturers. DOE stated 
+that most manufacturers currently use ISO 1217:2009(E), and with the 
+modifications adopted in the January 2017 Final Rule, the test methods 
+established for compressors are intended to produce results equivalent 
+to those produced historically under ISO 1217:2009(E). 82 FR 1052, 
+1076. In the February 2023 NOPR, DOE proposed to continue to use the 
+tolerances for measured energy efficiency values specified in ISO 
+1217:2009(E) and asked for comment regarding this proposal. 88 FR 9199, 
+9205.
+    In response to the request for comment, CAGI, Kaeser Compressors, 
+Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek all commented in 
+support of DOE's proposal to continue to use the tolerances for 
+measured energy efficiency values specified in ISO 1217:2009(E). (CAGI, 
+No. 21 at p. 3; Kaeser Compressors, No. 24 at p. 5; Ingersoll Rand, No. 
+25 at p. 2; Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at 
+p. 1) CAGI stated that uncertainty of measurement and variation in 
+performance as a result of variation in manufacturing needs to be 
+reflected in data presented to consumers, and that tolerances defined 
+in Annex C of ISO 1217:2019 relate only to the verification of the 
+measured parameters by a practical test. Id.
+    For the reasons discussed in the previous paragraphs, DOE is not 
+amending the tolerances for measured energy efficiency values specified 
+in ISO 1217:2009(E).
+
+F. Reporting
+
+    Manufacturers, including importers, must use product-specific 
+certification templates to certify compliance to DOE. For compressors, 
+the certification template reflects the general certification 
+requirements specified at 10 CFR 429.12 and the product-specific 
+requirements specified at 10 CFR 429.63. DOE is not amending the 
+product-specific certification requirements for these products at this 
+time.
+
+G. Test Procedure Costs and Harmonization
+
+    EPCA requires that test procedures established by DOE not be unduly 
+burdensome to conduct. (42 U.S.C. 6293(b)(3)) The following sections 
+discuss DOE's evaluation of estimated costs associated with the 
+amendments included in this final rule.
+    In this final rule, DOE is amending the test procedure for 
+compressors by: (1) correcting the formula for calculating isentropic 
+efficiency and specific energy consumption of the packaged compressor 
+to the specified pressure ratio by incorporating a K<INF>6</INF> 
+correction factor, (2) updating the formula for pressure ratio at full-
+load operating pressure currently presented in appendix A to rectify a 
+previous error, and (3) modifying the current definition of ``air 
+compressor'' to clarify that compressors with more than one compression 
+element are still within the scope of this test procedure, and to 
+revise the typographical error of ``compressor element'' to 
+``compression element.''
+1. Amendment To Incorporate K6 Correction Factor
+    In the February 2023 NOPR, DOE issued a request for comment on the 
+benefits and burdens of the proposed updates to the test procedure for 
+compressors. 88 FR 9199, 9210. In response to DOE's request for 
+comment, regarding DOE's amendment to include a K<INF>6</INF> 
+correction factor, DOE received comments from CAGI, supported by Kaeser 
+Compressors, Ingersoll Rand, Saylor-Beall, and Sullivan-Palatek, 
+stating that this correction will reduce potential burdens for the 
+industry. These commenters commented that,
+
+[[Page 5551]]
+
+currently, the DOE test method and its correction deviate from the 
+national consensus standard. These commenters believe this deviation 
+was not intentional, as it provides no benefit and reduces test 
+accuracy. These commenters further stated that the error and deviation 
+are more significant the farther the elevation is from 364 ft. These 
+commenters also stated that error can occur during atmospheric weather 
+events leading to extreme low or high pressure, and that testing that 
+is not performed at the exact rated full-load operating pressure is 
+incorrectly converted to efficiency and specific power in the current 
+DOE test procedure. CAGI elaborated that 100 kPa represents the mean 
+ambient pressure at 111 m (364 ft), and that if lab elevation differs 
+significantly from this level, measurements deriving efficiency will 
+deviate when using the DOE test method. CAGI stated that, using the 
+industry standard correction, the efficiency as measured (with no 
+corrections) is the same exact value as applying K<INF>5</INF> and 
+K<INF>6</INF> factors to correct specific power consumption and 
+deriving isentropic efficiency at the conclusion (as presented in Annex 
+C and Annex H of ISO 1217:2009). CAGI concluded that correcting the 
+test procedure using their recommendations will not result in a need to 
+retest and recertify, but will ensure that any verification/
+certification performed at any elevation other than 364 ft or during 
+low- or high-pressure events will be correct. (CAGI, No. 21 at pp. 5-6; 
+Kaeser Compressors, No. 24 at pp. 8-9; Ingersoll Rand, No. 25 at pp. 4-
+5; Saylor-Beall, No. 22 at p. 1; Sullivan-Palatek, No. 23 at p. 1)
+    DOE agrees with the stakeholder comments that the incorporation of 
+the K<INF>6</INF> correction factor will not add any test burden or 
+associated costs and will only increase the accuracy of efficiency 
+representations in this test procedure. DOE has also determined that 
+this amendment will not require retesting or recertification solely as 
+a result of DOE's adoption of the amendment to the test procedures, 
+since the amendment aligns the test procedure with existing industry 
+practice. Current industry practice is to use the K<INF>6</INF> 
+correction factor to correct for error introduced by non-standard 
+ambient pressures when testing at elevations above or below 364 ft. As 
+such, although the newly incorporated correction factor would alter the 
+final efficiency output of the DOE test procedure for compressors 
+tested at non-standard ambient pressures as compared to the incorrect 
+calculation in the current test procedure, this correction will not 
+result in a need for manufacturers to retest or to update the 
+isentropic efficiency ratings of their compressors because the industry 
+already uses the appropriate correction factor consistent with the 
+existing industry test procedure. This amendment serves to harmonize 
+the DOE test procedure with the existing industry practice for testing 
+compressor efficiency.
+    DOE does not anticipate any added test burden or associated costs 
+from the amendment incorporating the K<INF>6</INF> correction factor, 
+as: (1) the test method follows accepted industry practice, and (2) 
+representations of compressor efficiency would not need to be updated, 
+since the amendment DOE is adopting in this final rule will align DOE's 
+test procedure with current industry testing practice, making it so 
+manufacturers do not need to retest their models. As any 
+representations are voluntary prior to the compliance date of any 
+energy conservation standards for compressors, there is no direct 
+burden associated with any of the testing requirements adopted in this 
+final rule.
+2. Amendment To Update Formula for Pressure Ratio at Full-Load 
+Operating Pressure
+    The amendment regarding updating the formula for pressure ratio at 
+full-load operating pressure will not impact the representations of 
+compressor energy efficiency/energy use. The definition of a compressor 
+is ``a machine or apparatus that converts different types of energy 
+into the potential energy of gas pressure for displacement and 
+compression of gaseous media to any higher-pressure values above 
+atmospheric pressure and has a pressure ratio at full-load operating 
+pressure greater than 1.3,'' as stated in 10 CFR 431.342. In the test 
+procedure for compressors, the calculation of pressure ratio at full-
+load operating pressure is only used to determine if a compressor meets 
+the statutory definition of ``compressor'' by ensuring that the 
+pressure ratio at full-load operating pressure is greater than 1.3. As 
+such, this amendment does not impact representations of energy 
+efficiency/energy use, and DOE does not anticipate any added test 
+burden or associated costs for manufacturers stemming from this 
+correction to the compressors test procedure.
+3. Amendment To Update Definition of ``Air Compressor''
+    DOE does not anticipate any added test burden or associated costs 
+from the amendment updating the definition of ``air compressor.'' This 
+amendment serves to clarify that compressors with more than one 
+compression element are still within the scope of this test procedure, 
+and to revise the typographical error of ``compressor element'' to 
+``compression elements.'' As such, DOE does not anticipate any added 
+test burden or associated costs for compressor manufacturers due to 
+this amendment.
+4. Harmonization With Industry Standards
+    DOE's established practice is to adopt relevant industry standards 
+as DOE test procedures, unless such methodology would be unduly 
+burdensome to conduct or would not produce test results that reflect 
+the energy efficiency, energy use, water use (as specified in EPCA), or 
+estimated operating costs of that product during a representative 
+average use cycle. 10 CFR 431.4; section 8(c) of appendix A of 10 CFR 
+part 430 subpart C. In cases where the industry standard does not meet 
+EPCA statutory criteria for test procedures, DOE will make 
+modifications through the rulemaking process to these standards as the 
+DOE test procedure.
+    The test procedure for compressors at appendix A is based on, and 
+incorporates by reference, much of ISO 1217:2009(E), ``Displacement 
+compressors--Acceptance tests,'' as amended through Amendment 1:2016. 
+In this final rule, DOE will incorporate by reference section B.4.5 of 
+Annex B of ISO 1217:2009(E) via amendment. The industry standards DOE 
+has incorporated by reference for the test procedure for compressors 
+are located in 10 CFR 431.343.
+
+H. Effective and Compliance Dates
+
+    The effective date for the adopted test procedure amendment will be 
+75 days after publication of this final rule in the Federal Register. 
+EPCA prescribes that all representations of energy efficiency and 
+energy use, including those made on marketing materials and product 
+labels, must be made in accordance with an amended test procedure, 
+beginning 180 days after publication of the final rule in the Federal 
+Register. (42 U.S.C. 6314(d)(1)) EPCA provides an allowance for 
+individual manufacturers to petition DOE for an extension of the 180-
+day period if the manufacturer may experience undue hardship in meeting 
+the deadline. (42 U.S.C. 6314(d)(2)) To receive such an extension, 
+petitions must be filed with DOE no later than 60 days before the end 
+of the 180-day period and must detail how the manufacturer will 
+experience undue hardship. (Id.)
+
+[[Page 5552]]
+
+I. Renumbering of Appendix A
+
+    Currently, appendix A is organized using a hierarchy that uses 
+Roman numerals (i.e., ``I, II, III, IV . . .'') for first-level 
+headings, Latin capital letters for second-level headings (i.e., ``A, 
+B, C, D . . .''), and Arabic numerals (i.e., 1, 2, 3 . . .'') for 
+third-level headings.
+    In this final rule, DOE is revising the numbering hierarchy of 
+appendix A to use only Arabic numerals, consistent with the numbering 
+hierarchy that DOE uses across test procedures for consumer products at 
+10 CFR part 430, subpart B and for commercial and industrial equipment 
+generally at 10 CFR part 431. For example, the current heading 
+``I.B.2'' of appendix A is renumbered to ``2.2.2'' (also reflecting the 
+addition of a new section at the beginning of appendix A). This 
+renumbering is for consistency purposes only and does not result in any 
+substantive changes solely as a result of the renumbering.
+
+IV. Procedural Issues and Regulatory Review
+
+A. Review Under Executive Orders 12866, 13563, and 14094
+
+    Executive Order (``E.O.'') 12866, ``Regulatory Planning and 
+Review,'' as supplemented and reaffirmed by E.O. 13563, ``Improving 
+Regulation and Regulatory Review,'' 76 FR 3821 (Jan. 21, 2011) and E.O. 
+14094, ``Modernizing Regulatory Review,'' 88 FR 21879 (April 11, 2023), 
+requires agencies, to the extent permitted by law, to (1) propose or 
+adopt a regulation only upon a reasoned determination that its benefits 
+justify its costs (recognizing that some benefits and costs are 
+difficult to quantify); (2) tailor regulations to impose the least 
+burden on society, consistent with obtaining regulatory objectives, 
+taking into account, among other things, and to the extent practicable, 
+the costs of cumulative regulations; (3) select, in choosing among 
+alternative regulatory approaches, those approaches that maximize net 
+benefits (including potential economic, environmental, public health 
+and safety, and other advantages; distributive impacts; and equity); 
+(4) to the extent feasible, specify performance objectives, rather than 
+specifying the behavior or manner of compliance that regulated entities 
+must adopt; and (5) identify and assess available alternatives to 
+direct regulation, including providing economic incentives to encourage 
+the desired behavior, such as user fees or marketable permits, or 
+providing information upon which choices can be made by the public. DOE 
+emphasizes as well that E.O. 13563 requires agencies to use the best 
+available techniques to quantify anticipated present and future 
+benefits and costs as accurately as possible. In its guidance, the 
+Office of Information and Regulatory Affairs (``OIRA'') in the Office 
+of Management and Budget (``OMB'') has emphasized that such techniques 
+may include identifying changing future compliance costs that might 
+result from technological innovation or anticipated behavioral changes. 
+For the reasons stated in this preamble, this final regulatory action 
+is consistent with these principles.
+    Section 6(a) of E.O. 12866 also requires agencies to submit 
+``significant regulatory actions'' to OIRA for review. OIRA has 
+determined that this final regulatory action does not constitute a 
+``significant regulatory action'' under section 3(f) of E.O. 12866. 
+Accordingly, this action was not submitted to OIRA for review under 
+E.O. 12866.
+
+B. Review Under the Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (5 U.S.C. 601 et seq.) requires 
+preparation of a final regulatory flexibility analysis (FRFA) for any 
+final rule where the agency was first required by law to publish a 
+proposed rule for public comment, unless the agency certifies that the 
+rule, if promulgated, will not have a significant economic impact on a 
+substantial number of small entities. As required by Executive Order 
+13272, ``Proper Consideration of Small Entities in Agency Rulemaking,'' 
+67 FR 53461 (August 16, 2002), DOE published procedures and policies on 
+February 19, 2003 to ensure that the potential impacts of its rules on 
+small entities are properly considered during the DOE rulemaking 
+process. 68 FR 7990. DOE has made its procedures and policies available 
+on the Office of the General Counsel's website: <a href="http://www.energy.gov/gc/office-general-counsel">www.energy.gov/gc/office-general-counsel</a>. DOE reviewed this final rule under the 
+provisions of the Regulatory Flexibility Act and the procedures and 
+policies published on February 19, 2003.
+    For manufacturers of compressors, the Small Business Administration 
+(``SBA'') has set a size threshold, which defines those entities 
+classified as ``small businesses'' for the purposes of the statute. DOE 
+used the SBA's small business size standards to determine whether any 
+small entities would be subject to the requirements of the rule. 13 CFR 
+part 121. The size standards are listed by North American Industry 
+Classification System (``NAICS'') code and industry description and are 
+available at <a href="http://www.sba.gov/document/support-table-size-standards">www.sba.gov/document/support-table-size-standards</a>. 
+Compressor manufacturing is classified under NAICS 333912, ``air and 
+gas compressor manufacturing.'' The SBA sets a threshold of 1,000 
+employees or less for an entity to be considered a small business in 
+this category. This employment figure is enterprise-wide, encompassing 
+employees at all parent, subsidiary, and sister corporations.
+    To identify and estimate the number of small business manufacturers 
+of equipment within the scope of this rulemaking, DOE conducted a 
+market survey using available public information. DOE's research 
+involved industry trade association membership directories (including 
+CAGI), individual company and online retailer websites, and market 
+research tools (e.g., Hoovers reports) to create a list of companies 
+that manufacture equipment covered by this rulemaking. DOE additionally 
+reviewed publicly available data, data available through market 
+research tools, and contacted select companies on its list, as 
+necessary, to determine whether they met the SBA's definition of a 
+small business manufacturer. DOE screened out companies that do not 
+offer equipment within the scope of this rulemaking, do not meet the 
+definition of a ``small business,'' or are foreign owned and operated.
+    DOE identified a total of 12 domestic small businesses 
+manufacturing compressors. However, as previously stated, the 
+amendments adopted in this final rule revise certain definitions and 
+formulas to ensure the clarity and accuracy of existing requirements 
+and procedures, and the amendments harmonize the DOE test procedure 
+with existing industry practices, without requiring manufacturers to 
+retest their compressors. DOE has determined that the adopted test 
+procedure amendments would not impact testing costs otherwise 
+experienced by manufacturers.
+    Therefore, DOE concludes that the cost effects accruing from the 
+final rule would not have a ``significant economic impact on a 
+substantial number of small entities,'' and that the preparation of a 
+FRFA is not warranted. DOE has submitted a certification and supporting 
+statement of factual basis to the Chief Counsel for Advocacy of the 
+Small Business Administration for review under 5 U.S.C. 605(b).
+
+C. Review Under the Paperwork Reduction Act of 1995
+
+    Manufacturers of compressors must certify to DOE that their 
+products comply with any applicable energy conservation standards. To 
+certify compliance, manufacturers must first
+
+[[Page 5553]]
+
+obtain test data for their products according to the DOE test 
+procedures, including any amendments adopted for those test procedures. 
+DOE has established regulations for the certification and recordkeeping 
+requirements for all covered consumer products and commercial 
+equipment, including compressors. (See generally 10 CFR part 429.) The 
+collection-of-information requirement for the certification and 
+recordkeeping is subject to review and approval by OMB under the 
+Paperwork Reduction Act (PRA). This requirement has been approved by 
+OMB under OMB control number 1910-1400. Public reporting burden for the 
+certification is estimated to average 35 hours per response, including 
+the time for reviewing instructions, searching existing data sources, 
+gathering and maintaining the data needed, and completing and reviewing 
+the collection of information.
+    DOE is not amending the certification or reporting requirements for 
+compressors in this final rule. Instead, DOE may consider proposals to 
+amend the certification requirements and reporting for compressors 
+under a separate rulemaking regarding appliance and equipment 
+certification. DOE will address changes to OMB Control Number 1910-1400 
+at that time, as necessary.
+    Notwithstanding any other provision of the law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the PRA, unless that collection of information displays 
+a currently valid OMB Control Number.
+
+D. Review Under the National Environmental Policy Act of 1969
+
+    In this final rule, DOE establishes test procedure amendments that 
+it expects will be used to develop and implement future energy 
+conservation standards for compressors. DOE has determined that this 
+rule falls into a class of actions that are categorically excluded from 
+review under the National Environmental Policy Act of 1969 (42 U.S.C. 
+4321 et seq.) and DOE's implementing regulations at 10 CFR part 1021. 
+Specifically, DOE has determined that adopting test procedures for 
+measuring energy efficiency of consumer products and industrial 
+equipment is consistent with activities identified in 10 CFR part 1021, 
+appendix A to subpart D, A5 and A6. Accordingly, neither an 
+environmental assessment nor an environmental impact statement is 
+required.
+
+E. Review Under Executive Order 13132
+
+    Executive Order 13132, ``Federalism,'' 64 FR 43255 (August 4, 
+1999), imposes certain requirements on agencies formulating and 
+implementing policies or regulations that preempt State law or that 
+have federalism implications. The Executive order requires agencies to 
+examine the constitutional and statutory authority supporting any 
+action that would limit the policymaking discretion of the States and 
+to carefully assess the necessity for such actions. The Executive order 
+also requires agencies to have an accountable process to ensure 
+meaningful and timely input by State and local officials in the 
+development of regulatory policies that have federalism implications. 
+On March 14, 2000, DOE published a statement of policy describing the 
+intergovernmental consultation process it will follow in the 
+development of such regulations. 65 FR 13735. DOE examined this final 
+rule and determined that it will not have a substantial direct effect 
+on the States, on the relationship between the national government and 
+the States, or on the distribution of power and responsibilities among 
+the various levels of government. EPCA governs and prescribes Federal 
+preemption of State regulations as to energy conservation for the 
+products that are the subject of this final rule. States can petition 
+DOE for exemption from such preemption to the extent, and based on 
+criteria, set forth in EPCA. (42 U.S.C. 6297(d)) No further action is 
+required by Executive Order 13132.
+
+F. Review Under Executive Order 12988
+
+    Regarding the review of existing regulations and the promulgation 
+of new regulations, section 3(a) of Executive Order 12988, ``Civil 
+Justice Reform,'' 61 FR 4729 (Feb. 7, 1996), imposes on Federal 
+agencies the general duty to adhere to the following requirements: (1) 
+eliminate drafting errors and ambiguity; (2) write regulations to 
+minimize litigation; (3) provide a clear legal standard for affected 
+conduct rather than a general standard; and (4) promote simplification 
+and burden reduction. Section 3(b) of Executive Order 12988 
+specifically requires that Executive agencies make every reasonable 
+effort to ensure that the regulation (1) clearly specifies the 
+preemptive effect, if any; (2) clearly specifies any effect on existing 
+Federal law or regulation; (3) provides a clear legal standard for 
+affected conduct while promoting simplification and burden reduction; 
+(4) specifies the retroactive effect, if any; (5) adequately defines 
+key terms; and (6) addresses other important issues affecting clarity 
+and general draftsmanship under any guidelines issued by the Attorney 
+General. Section 3(c) of Executive Order 12988 requires Executive 
+agencies to review regulations in light of applicable standards in 
+sections 3(a) and 3(b) to determine whether they are met or it is 
+unreasonable to meet one or more of them. DOE has completed the 
+required review and determined that, to the extent permitted by law, 
+this final rule meets the relevant standards of Executive Order 12988.
+
+G. Review Under the Unfunded Mandates Reform Act of 1995
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (``UMRA'') 
+requires each Federal agency to assess the effects of Federal 
+regulatory actions on State, local, and Tribal governments and the 
+private sector. Public Law 104-4, sec. 201 (codified at 2 U.S.C. 1531). 
+For a regulatory action resulting in a rule that may cause the 
+expenditure by State, local, and Tribal governments, in the aggregate, 
+or by the private sector of $100 million or more in any one year 
+(adjusted annually for inflation), section 202 of UMRA requires a 
+Federal agency to publish a written statement that estimates the 
+resulting costs, benefits, and other effects on the national economy. 
+(2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to 
+develop an effective process to permit timely input by elected officers 
+of State, local, and Tribal governments on a proposed ``significant 
+intergovernmental mandate,'' and requires an agency plan for giving 
+notice and opportunity for timely input to potentially affected small 
+governments before establishing any requirements that might 
+significantly or uniquely affect small governments. On March 18, 1997, 
+DOE published a statement of policy on its process for 
+intergovernmental consultation under UMRA. 62 FR 12820; also available 
+at <a href="http://www.energy.gov/gc/office-general-counsel">www.energy.gov/gc/office-general-counsel</a>. DOE examined this final 
+rule according to UMRA and its statement of policy and determined that 
+the rule contains neither an intergovernmental mandate, nor a mandate 
+that may result in the expenditure of $100 million or more in any year, 
+so these requirements do not apply.
+
+H. Review Under the Treasury and General Government Appropriations Act, 
+1999
+
+    Section 654 of the Treasury and General Government Appropriations 
+Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family 
+Policymaking Assessment for any
+
+[[Page 5554]]
+
+proposed rule or policy that may affect family well-being. When 
+developing a Family Policymaking Assessment, agencies must assess 
+whether: (1) the action strengthens or erodes the stability or safety 
+of the family and, particularly, the marital commitment; (2) the action 
+strengthens or erodes the authority and rights of parents in the 
+education, nurture, and supervision of their children; (3) the action 
+helps the family perform its functions, or substitutes governmental 
+activity for the function; (4) the action increases or decreases 
+disposable income or poverty of families and children; (5) the proposed 
+benefits of the action justify the financial impact on the family; (6) 
+the action may be carried out by State or local government or by the 
+family; and whether (7) the action establishes an implicit or explicit 
+policy concerning the relationship between the behavior and personal 
+responsibility of youth, and the norms of society. In evaluating the 
+above factors, DOE has concluded that it is not necessary to prepare a 
+Family Policymaking Assessment as none of the above factors are 
+implicated. Further, this proposed determination would not have any 
+financial impact on families nor any impact on the autonomy or 
+integrity of the family as an institution.
+
+I. Review Under Executive Order 12630
+
+    DOE has determined, under Executive Order 12630, ``Governmental 
+Actions and Interference with Constitutionally Protected Property 
+Rights'' 53 FR 8859 (March 18, 1988), that this regulation will not 
+result in any takings that might require compensation under the Fifth 
+Amendment to the U.S. Constitution.
+
+J. Review Under Treasury and General Government Appropriations Act, 
+2001
+
+    Section 515 of the Treasury and General Government Appropriations 
+Act, 2001 (44 U.S.C. 3516 note) provides for agencies to review most 
+disseminations of information to the public under guidelines 
+established by each agency pursuant to general guidelines issued by 
+OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and 
+DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant 
+to OMB Memorandum M-19-15, Improving Implementation of the Information 
+Quality Act (April 24, 2019), DOE published updated guidelines which 
+are available at <a href="http://www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf">www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf</a>. DOE has 
+reviewed this final rule under the OMB and DOE guidelines and has 
+concluded that it is consistent with applicable policies in those 
+guidelines.
+
+K. Review Under Executive Order 13211
+
+    Executive Order 13211, ``Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution, or Use,'' 66 FR 28355 
+(May 22, 2001), requires Federal agencies to prepare and submit to OMB, 
+a Statement of Energy Effects for any significant energy action. A 
+``significant energy action'' is defined as any action by an agency 
+that promulgates or is expected to lead to promulgation of a final 
+rule, and that: (1) is a significant regulatory action under Executive 
+Order 12866, or any successor order, and is likely to have a 
+significant adverse effect on the supply, distribution, or use of 
+energy; or (2) is designated by the Administrator of OIRA as a 
+significant energy action. For any significant energy action, the 
+agency must give a detailed statement of any adverse effects on energy 
+supply, distribution, or use if the regulation is implemented, and of 
+reasonable alternatives to the action and their expected benefits on 
+energy supply, distribution, and use.
+    This regulatory action is not a significant regulatory action under 
+Executive Order 12866. Moreover, it would not have a significant 
+adverse effect on the supply, distribution, or use of energy, nor has 
+it been designated as a significant energy action by the Administrator 
+of OIRA. Therefore, it is not a significant energy action, and, 
+accordingly, DOE has not prepared a Statement of Energy Effects.
+
+L. Review Under Section 32 of the Federal Energy Administration Act of 
+1974
+
+    Under section 301 of the Department of Energy Organization Act 
+(Pub. L. 95-91; 42 U.S.C. 7101), DOE must comply with section 32 of the 
+Federal Energy Administration Act of 1974, as amended by the Federal 
+Energy Administration Authorization Act of 1977. (15 U.S.C. 788; 
+``FEAA'') Section 32 essentially provides in relevant part that, where 
+a proposed rule authorizes or requires use of commercial standards, the 
+notice of proposed rulemaking must inform the public of the use and 
+background of such standards. In addition, section 32(c) requires DOE 
+to consult with the Attorney General and the Chairman of the Federal 
+Trade Commission (``FTC'') concerning the impact of the commercial or 
+industry standards on competition.
+    The modifications to the test procedure for compressors adopted in 
+this final rule incorporate testing methods contained in certain 
+sections of the following commercial standards: ISO 1217:2009(E), as 
+amended through ISO 1217:2009(E)/Amd.1:2016. While this test procedure 
+is not exclusively based on this industry testing standard, some 
+components of the DOE test procedure adopt definitions, test 
+parameters, measurement techniques, and additional calculations from 
+them without amendment. DOE has evaluated these standards and is unable 
+to conclude whether it fully complies with the requirements of section 
+32(b) of the FEAA (i.e., whether it was developed in a manner that 
+fully provides for public participation, comment, and review.) In the 
+January 2017 Final Rule, DOE consulted with both the Attorney General 
+and the Chairman of the FTC about the impact on competition of using 
+the methods contained in these standards and received no comments 
+objecting to their use. 82 FR 1052, 1099.
+
+M. Congressional Notification
+
+    As required by 5 U.S.C. 801, DOE will report to Congress on the 
+promulgation of this rule before its effective date. The report will 
+state that it has been determined that the rule is not a ``major rule'' 
+as defined by 5 U.S.C. 804(2).
+
+N. Description of Materials Incorporated by Reference
+
+    The following standards have not previously been approved for 
+incorporation by reference in subpart T, appendix A, but are 
+incorporated by reference in this final rule on the basis that they are 
+referenced by other standards which had been previously and remain 
+incorporated by reference in subpart T, appendix A.
+    ISO 1217:2009(E), ``Displacement compressors--Acceptance tests,'' 
+fourth edition, July 1, 2009. ISO 1217:2009(E) specifies methods for 
+acceptance tests regarding volume rate of flow and power requirements 
+of displacement compressors. It also specifies methods for testing 
+liquid-ring type compressors and the operating and testing conditions 
+which apply when a full performance test is specified.
+    ISO 1217:2009/Amd.1:2016(E), Displacement compressors--Acceptance 
+tests (fourth edition, July 1, 2009), AMENDMENT 1: Calculation of 
+isentropic efficiency and relationship with specific energy, April 15, 
+2016. ISO 1217:2009/Amd.1.:2016(E) provides a method for the 
+calculation of isentropic efficiency and relationship with specific 
+energy.
+    ISO 5167-1:2022(E), Measurement of fluid flow by means of pressure 
+differential devices inserted in circular cross-section conduits 
+running full--Part 1: General principles and
+
+[[Page 5555]]
+
+requirements, third edition, June 2022. ISO 5167-1:2022(E) defines 
+terms and symbols and establishes the general principles for methods of 
+measurement and computation of the flow rate of fluid flowing in a 
+conduit by means of pressure differential devices (orifice plates, 
+nozzles, Venturi tubes, cone meters, and wedge meters) when they are 
+inserted into a circular cross-section conduit running full. The 
+standard also specifies the general requirements for methods of 
+measurement, installation and determination of the uncertainty of the 
+measurement of flow rate.
+    ISO 9300:2022(E), Measurement of gas flow by means of critical flow 
+nozzles, third editions, June 2022. ISO 9300:2022(E) specifies the 
+geometry and method of use (installation in a system and operating 
+conditions) of critical flow nozzles used to determine the mass flow 
+rate of a gas flowing through a system basically without the need to 
+calibrate the critical flow nozzle. It also gives the information 
+necessary for calculating the flow rate and its associated uncertainty.
+    IEC 60584-1:2013, Thermocouples--Part 1: EMF specifications and 
+tolerances, edition 3.0, August 2013. IEC 60584-1:2013 specifies 
+reference functions and tolerances for letter-designated thermocouples.
+    IEC 60584-3:2021, Thermocouples--Part 3: Extension and compensating 
+cables--Tolerances and identification system, edition 3.0, February 
+2021. IEC 60584-3:2021 provides tolerances and an identification system 
+necessary for the measurement of thermocouple circuits.
+    In this final rule, DOE includes revisions to the regulatory text 
+that contained references to section B.4.5 of Annex B of ISO 
+1217:2009(E), which was not specifically incorporated by reference 
+before this test procedure final rule.
+    See SUPPLEMENTARY INFORMATION section of this document for 
+availability information of this material.
+
+V. Approval of the Office of the Secretary
+
+    The Secretary of Energy has approved publication of this final 
+rule.
+
+List of Subjects in 10 CFR Part 431
+
+    Administrative practice and procedure, Confidential business 
+information, Energy conservation test procedures, Incorporation by 
+reference, Reporting and recordkeeping requirements.
+
+Signing Authority
+
+    This document of the Department of Energy was signed on January 10, 
+2025, by Jeffrey Marootian, Principal Deputy Assistant Secretary for 
+Energy Efficiency and Renewable Energy, pursuant to delegated authority 
+from the Secretary of Energy. That document with the original signature 
+and date is maintained by DOE. For administrative purposes only, and in 
+compliance with requirements of the Office of the Federal Register, the 
+undersigned DOE Federal Register Liaison Officer has been authorized to 
+sign and submit the document in electronic format for publication, as 
+an official document of the Department of Energy. This administrative 
+process in no way alters the legal effect of this document upon 
+publication in the Federal Register.
+
+    Signed in Washington, DC, on January 13, 2025.
+Treena V. Garrett,
+Federal Register Liaison Officer, U.S. Department of Energy.
+
+    For the reasons stated in the preamble, DOE amends part 431 of 
+chapter II of title 10 of the Code of Federal Regulations as set forth 
+below:
+
+PART 431--ENERGY EFFICIENCY PROGRAM FOR CERTAIN COMMERCIAL AND 
+INDUSTRIAL EQUIPMENT
+
+0
+1. The authority citation for part 431 continues to read as follows:
+
+    Authority: 42 U.S.C. 6291-6317; 28 U.S.C. 2461 note.
+
+
+0
+2. Amend Sec.  431.342 by revising the definition of ``Air compressor'' 
+to read as follows:
+
+
+Sec.  431.342  Definitions concerning compressors.
+
+* * * * *
+    Air compressor means a compressor designed to compress air that has 
+an inlet open to the atmosphere or other source of air, and is made up 
+of one or more compression elements (bare compressors), driver(s), 
+mechanical equipment to drive the compression elements, and any 
+ancillary equipment.
+* * * * *
+
+
+0
+3. Revise Sec.  431.343 to read as follows:
+
+
+Sec.  431.343  Materials incorporated by reference.
+
+    (a) Certain material is incorporated by reference into this subpart 
+with the approval of the Director of the Federal Register in accordance 
+with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other 
+than that specified in this section, the DOE must publish a document in 
+the Federal Register and the material must be available to the public. 
+All approved incorporation by reference (IBR) material is available for 
+inspection at DOE and at the National Archives and Records 
+Administration (NARA). Contact DOE at: the U.S. Department of Energy, 
+Office of Energy Efficiency and Renewable Energy, Building Technologies 
+Program, 1000 Independence Avenue SW, EE-5B, Washington, DC 20024, 
+(202) 586-9127, <a href="/cdn-cgi/l/email-protection#5d1f2834313934333a2e1d383873393238733a322b"><span class="__cf_email__" data-cfemail="501225393c34393e37231035357e343f357e373f26">[email&#160;protected]</span></a>, <a href="http://www.energy.gov/eere/buildings/building-technologies-office">www.energy.gov/eere/buildings/building-technologies-office</a>. For information on the availability of 
+this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a> or email: <a href="/cdn-cgi/l/email-protection#b0d6c29ed9dec3c0d5d3c4d9dfdef0ded1c2d19ed7dfc6"><span class="__cf_email__" data-cfemail="0264702c6b6c71726761766b6d6c426c6370632c656d74">[email&#160;protected]</span></a>. The material may be 
+obtained from the sources in paragraphs (b) and (c) of this section:
+    (b) IEC. International Electrotechnical Commission Central Office, 
+3, rue de Varemb[eacute], Case Postale 131, CH-1211 GENEVA 20, 
+Switzerland; + 41 22 919 02 11; webstore.iec.ch.
+    (1) IEC 60584-1:2013, Thermocouples--Part 1: EMF specifications and 
+tolerances, editions 3.0, August 2013; IBR approved for appendix A to 
+this subpart.
+    (2) IEC 60584-3:2021, Thermocouples--Part 3: Extension and 
+compensating cables--Tolerances and identification system, edition 3.0, 
+February 2021; IBR approved for appendix A to this subpart.
+    (c) ISO. International Organization for Standardization, Chemin de 
+Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland +41 22 749 01 
+11, <a href="http://www.iso.org">www.iso.org</a>.
+    (1) ISO 1217:2009(E), Displacement compressors--Acceptance tests, 
+fourth edition, July 1, 2009; IBR approved for appendix A to this 
+subpart.
+    (2) ISO 1217:2009/Amd.1:2016(E), Displacement compressors--
+Acceptance tests (fourth edition, July 1, 2009), AMENDMENT 1: 
+Calculation of isentropic efficiency and relationship with specific 
+energy, April 15, 2016; IBR approved for appendix A to this subpart.
+    (3) ISO 5167-1:2022(E), Measurement of fluid flow by means of 
+pressure differential devices inserted in circular cross-section 
+conduits running full--Part 1: General principles and requirements, 
+third edition, June 2022; IBR approved for appendix A to this subpart.
+    (4) ISO 9300:2022(E), Measurement of gas flow by means of critical 
+flow nozzles, third edition, June 2022; IBR approved for appendix A to 
+this subpart.
+
+
+0
+4. Revise appendix A to subpart T to read as follows:
+
+[[Page 5556]]
+
+Appendix A to Subpart T of Part 431--Uniform Test Method for Certain 
+Air Compressors.
+
+    Note:  Prior to July 16, 2025, any representations made with 
+respect to the energy use or efficiency of compressors must be based 
+on testing conducted in accordance with:
+    (a) The applicable provisions of this appendix as they appeared 
+in this subpart T of part 431 as of January 1, 2023; or
+    (b) This appendix.
+    Beginning July 16, 2025, representations with respect to energy 
+use or efficiency of compressors, including compliance 
+certifications, must be based on testing conducted in accordance 
+with this appendix.
+
+1. Incorporation by Reference
+
+    DOE incorporated by reference in Sec.  431.343, the entire 
+standard for: IEC 60584-1:2013, IEC 60584-3:2021, ISO 1217:2009(E), 
+ISO 1217:2009/Amd.1:2016(E), ISO 5167-1:2022, and ISO 9300:2022; 
+however, only enumerated provisions of ISO 1217:2009(E) and ISO 
+1217:2009/Amd.1:2016(E) are applicable to this appendix as listed in 
+section 1. To the extent there is a conflict between the terms or 
+provisions of a referenced industry standard and the CFR, the CFR 
+provisions control.
+    1.1 ISO 1217:2009(E)
+    1.1.1 Section 2, Normative references;
+    1.1.2 Section 3, Terms and definitions;
+    1.1.3 Section 4, Symbols;
+    1.1.4 Section 5, Measuring equipment, methods and accuracy 
+(excluding 5.1, 5.5, 5.7, and 5.8);
+    1.1.5 Section 6, Test procedures: the introductory text to 
+Section 6.2, Test arrangements, paragraphs 6.2(g) and 6.2(h), and 
+Table 1--Maximum deviations from specified values and fluctuations 
+from average readings of this appendix;
+    1.1.6 Annex B (normative), Simplified acceptance test for bare 
+displacement compressors, Section B.4.5 Comparison with specified 
+values;
+    1.1.7 Annex C (normative), Simplified acceptance test for 
+electrically driven packaged displacement compressors (excluding 
+C.1.2, C.2.1, C.3, C.4.2.2, C.4.3.1, and C.4.5).
+    1.2 ISO 1217:2009/Amd.1:2016(E)
+    1.2.1 Section 3.5.1: isentropic power;
+    1.2.2 Section 3.6.1: isentropic efficiency;
+    1.2.3 Annex H (informative), Isentropic efficiency and its 
+relation to specific energy requirement, sections H.2, Symbols and 
+subscripts, and H.3, Derivation of isentropic power.
+
+2. Measurements, Test Conditions, and Equipment Configuration
+
+    2.1. Measurement Equipment.
+    2.1.1. For the purposes of measuring air compressor performance, 
+the equipment necessary to measure volume flow rate, inlet and 
+discharge pressure, temperature, condensate, and packaged compressor 
+power input must comply with the equipment and accuracy requirements 
+specified in sections 5.2, 5.3, 5.4, 5.6, and 5.9 of ISO 
+1217:2009(E), (including the applicable provisions of IEC 60584-1 
+and IEC 60584-3, as referenced in section 5.3 of ISO 1217:2009(E) 
+and the applicable provisions of ISO 5167-1 and ISO 9300, as 
+referenced in section 5.6 of ISO 1217:2009(E)) and sections C.2.3 
+and C.2.4 of Annex C to ISO 1217:2009(E).
+    2.1.2. Electrical measurement equipment must be capable of 
+measuring true root mean square (RMS) current, true RMS voltage, and 
+real power up to the 40th harmonic of fundamental supply source 
+frequency.
+    2.1.3. Any instruments used to measure a particular parameter 
+specified in section 2.1.1 of this appendix must have a combined 
+accuracy of <plus-minus>2.0 percent of the measured value at the 
+fundamental supply source frequency, where combined accuracy is the 
+square root of the sum of the squares of individual instrument 
+accuracies.
+    2.1.4. Any instruments used to directly measure the density of 
+air must have an accuracy of <plus-minus>1.0 percent of the measured 
+value.
+    2.1.5. Any pressure measurement equipment used in a calculation 
+of another variable (e.g.,actual volume flow rate) must also meet 
+all accuracy and measurement requirements of section 5.2 of ISO 
+1217:2009(E).
+    2.1.6. Any temperature measurement equipment used in a 
+calculation of another variable (e.g.,actual volume flow rate) must 
+also meet all accuracy and measurement requirements of section 5.3 
+of ISO 1217:2009(E).
+    2.1.7. Where ISO 1217:2009(E) refers to ``corrected volume flow 
+rate,'' the term is deemed synonymous with the term ``actual volume 
+flow rate,'' as defined in section 3.4.1 of ISO 1217:2009(E).
+
+2.2. Test Conditions and Configuration of Unit Under Test
+
+    2.2.1. For both fixed-speed and variable-speed compressors, 
+conduct testing in accordance with the test conditions, unit 
+configuration, and specifications of section 6.2 paragraphs (g) and 
+(h) of ISO 1217:2009(E) and sections C.1.1, C.2.2, C.2.3, C.2.4, 
+C.4.1, C.4.2.1, C.4.2.3, and C.4.3.2 of Annex C to ISO 1217:2009(E).
+    2.2.2. The power supply must:
+    (a) Maintain the voltage greater than or equal to 95 percent and 
+less than or equal to 110 percent of the rated value of the motor,
+    (b) Maintain the frequency within <plus-minus>5 percent of the 
+rated value of the motor,
+    (c) Maintain the voltage unbalance of the power supply within 
+<plus-minus>3 percent of the rated values of the motor, and
+    (d) Maintain total harmonic distortion below 12 percent 
+throughout the test.
+    2.2.3. Ambient Conditions. The ambient air temperature must be 
+greater than or equal to 68 [deg]F and less than or equal to 90 
+[deg]F for the duration of testing. There are no ambient condition 
+requirements for inlet pressure or relative humidity.
+    2.2.4. All equipment indicated in table 1 of this appendix must 
+be present and installed for all tests specified in this appendix. 
+If the compressor is distributed in commerce without an item from 
+table 1 of this appendix, the manufacturer must provide an 
+appropriate item to be installed for the test. Additional ancillary 
+equipment may be installed for the test, if distributed in commerce 
+with the compressor, but this additional ancillary equipment is not 
+required. If any of the equipment listed in table 2 of this appendix 
+is distributed in commerce with units of the compressor basic model, 
+it must be present and installed for all tests specified in this 
+appendix.
+
+                 Table 1--Equipment Required During Test
+------------------------------------------------------------------------
+                                                        Variable-speed
+            Equipment             Fixed-speed rotary      rotary air
+                                    air compressors       compressors
+------------------------------------------------------------------------
+Driver..........................  Yes...............  Yes.
+Bare compressors................  Yes...............  Yes.
+Inlet filter....................  Yes...............  Yes.
+Inlet valve.....................  Yes...............  Yes.
+Minimum pressure check valve/     Yes...............  Yes.
+ backflow check valve.
+Lubricant separator.............  Yes...............  Yes.
+Air piping......................  Yes...............  Yes.
+Lubricant piping................  Yes...............  Yes.
+Lubricant filter................  Yes...............  Yes.
+Lubricant cooler................  Yes...............  Yes.
+Thermostatic valve..............  Yes...............  Yes.
+Electrical switchgear or          Yes...............  Not applicable.*
+ frequency converter for the
+ driver.
+Device to control the speed of    Not applicable **.  Yes.
+ the driver (e.g., variable
+ speed drive).
+Compressed air cooler(s)........  Yes...............  Yes.
+Pressure switch, pressure         Yes...............  Yes.
+ transducer, or similar pressure
+ control device.
+
+[[Page 5557]]
+
+ 
+Moisture separator and drain....  Yes...............  Yes.
+------------------------------------------------------------------------
+* This category is not applicable to variable-speed rotary air
+  compressors.
+** This category is not applicable to fixed-speed rotary air
+  compressors.
+
+
+Table 2--Equipment Required During Test, if Distributed in Commerce With
+                             the Basic Model
+------------------------------------------------------------------------
+                                                        Variable-speed
+            Equipment             Fixed-speed rotary      rotary air
+                                    air compressors       compressors
+------------------------------------------------------------------------
+Cooling fan(s) and motors.......  Yes...............  Yes.
+Mechanical equipment............  Yes...............  Yes.
+Lubricant pump..................  Yes...............  Yes.
+Interstage cooler...............  Yes...............  Yes.
+Electronic or electrical          Yes...............  Yes.
+ controls and user interface.
+All protective and safety         Yes...............  Yes.
+ devices.
+------------------------------------------------------------------------
+
+    2.2.5. The inlet of the compressor under test must be open to 
+the atmosphere and take in ambient air for all tests specified in 
+this appendix.
+    2.2.6. The compressor under test must be set up according to all 
+manufacturer instructions for normal operation (e.g., verify 
+lubricant level, connect all loose electrical connections, close off 
+bottom of unit to floor, cover forklift holes).
+    2.2.7. The piping connected to the discharge orifice of the 
+compressor must be of a diameter at least equal to that of the 
+compressor discharge orifice to which it is connected. The piping 
+must be straight with a length of at least 6 inches.
+    2.2.8. Transducers used to record compressor discharge pressure 
+must be located on the discharge piping between 2 inches and 6 
+inches, inclusive, from the discharge orifice of the compressor. The 
+pressure tap for transducers must be located at the highest point of 
+the pipe's cross section.
+
+3. Determination of Package Isentropic Efficiency, Package Specific 
+Power, and Pressure Ratio at Full-Load Operating Pressure
+
+    3.1 Data Collection and Analysis.
+    3.1.1. Stabilization. Record data at each load point under 
+steady-state conditions. Steady-state conditions are achieved when a 
+set of two consecutive readings taken at least 10 seconds apart and 
+no more than 60 seconds apart are within the maximum permissible 
+fluctuation from the average (of the two consecutive readings), as 
+specified in table 1 of ISO 1217:2009(E) for--
+    (a) Discharge pressure;
+    (b) Temperature at the nozzle or orifice plate, measured per 
+section 5.3 of ISO 1217:2009(E); and
+    (c) Differential pressure over the nozzle or orifice plate, 
+measured per section 5.2 of ISO 1217:2009(E).
+    3.1.2. Data Sampling and Frequency. At each load point, record a 
+minimum set of 16 unique readings, collected over a minimum time of 
+15 minutes. Each consecutive reading must be no more than 60 seconds 
+apart, and not less than 10 seconds apart. All readings at each load 
+point must be within the maximum permissible fluctuation from 
+average specified in table 1 of ISO 1217:2009(E) for--
+    (a) Discharge pressure;
+    (b) Temperature at the nozzle or orifice plate, measured per 
+section 5.3 of ISO 1217:2009(E); and
+    (c) Differential pressure over the nozzle or orifice plate, 
+measured per section 5.2 of ISO 1217:2009(E).
+    If one or more readings do not meet the requirements, then all 
+previous readings must be disregarded and a new set of at least 16 
+new unique readings must be collected over a minimum time of 15 
+minutes. Average the readings to determine the value of each 
+parameter to be used in subsequent calculations.
+    3.1.3. Calculations and Rounding. Perform all calculations using 
+raw measured values. Round the final result for package isentropic 
+efficiency to the thousandth (i.e., 0.001), for package specific 
+power in kilowatts per 100 cubic feet per minute to the nearest 
+hundredth (i.e., 0.01), for pressure ratio at full-load operating 
+pressure to the nearest tenth (i.e., 0.1), for full-load actual 
+volume flow rate in cubic feet per minute to the nearest tenth 
+(i.e., 0.1), and for full-load operating pressure in pounds per 
+square inch gauge (psig) to the nearest integer (i.e., 1). All terms 
+and quantities refer to values determined in accordance with the 
+procedures set forth in this appendix for the tested unit.
+
+3.2. Full-Load Operating Pressure and Full-Load Actual Volume Flow Rate
+
+    Determine the full-load operating pressure and full-load actual 
+volume flow rate (referenced throughout this appendix) in accordance 
+with the procedures prescribed in section 4 of this appendix.
+
+3.3. Full-Load Package Isentropic Efficiency for Fixed- and Variable-
+Speed Air Compressors
+
+    Use this test method to test fixed-speed air compressors and 
+variable-speed air compressors.
+    3.3.1. Test unit at full-load operating pressure and full-load 
+volume flow rate according to the requirements established in 
+sections 2, 3.1, and 3.2 of this appendix. Measure volume flow rate 
+and calculate actual volume flow rate in accordance with section 
+C.4.2.1 of Annex C to ISO 1217:2009(E) with no corrections made for 
+shaft speed. Measure discharge gauge pressure and packaged 
+compressor power input. Measured discharge gauge pressure and 
+calculated actual volume flow rate must be within the deviation 
+limits for discharge pressure and volume flow rate specified in 
+tables C.1 and C.2 of Annex C to ISO 1217:2009(E), where full-load 
+operating pressure and full-load actual volume flow rate (as 
+determined in section 4 of this appendix) are the targeted values.
+    3.3.2. Calculate the package isentropic efficiency at full-load 
+operating pressure and full-load actual volume flow rate (full-load 
+package isentropic efficiency, [eta]<INF>isen,FL</INF>) using the 
+equation for isentropic efficiency in section 3.6.1 of ISO 
+1217:2009(E) as modified by ISO 1217:2009/Amd.1:2016(E). For 
+P<INF>isen,</INF> use the isentropic power required for compression 
+at full-load operating pressure and full-load actual volume flow 
+rate, as determined in section 3.3.2.1 of this appendix. For 
+P<INF>real,</INF> use the real packaged compressor power input at 
+full-load operating pressure and full-load actual volume flow rate, 
+as determined in section 3.3.2.2 of this appendix.
+    3.3.2.1. Calculate the isentropic power required for compression 
+at full-load operating pressure and full-load actual volume flow 
+rate using equation (H.6) of Annex H to ISO 1217:2009/Amd.1:2016(E). 
+For q<INF>V</INF><INF>1,</INF> use the actual volume flow rate 
+(cubic meters per second) calculated in section 3.3.1 of this 
+appendix. For p<INF>1,</INF> use 100 kPa. For p<INF>2,</INF> use the 
+sum of
+    (a) 100 kPa, and
+    (b) The measured discharge gauge pressure (Pa) from section 
+3.3.1 of this appendix. For K, use the isentropic exponent (ratio of 
+specific heats) of air, which, for the purposes of this test 
+procedure, is 1.400.
+    3.3.2.2. Calculate real packaged compressor power input at full-
+load operating pressure and full-load actual volume flow rate using 
+the following equation:
+
+P<INF>real,100%</INF> = K<INF>5</INF> [middot] K<INF>6</INF> 
+[middot] P<INF>PR,100</INF><not-eq>
+
+Where:
+
+
+[[Page 5558]]
+
+
+    K<INF>5</INF> = correction factor for inlet pressure, as 
+determined in section C.4.3.2 of Annex C to ISO 1217:2009(E). For 
+calculations of this variable use a value of 100 kPa for contractual 
+inlet pressure;
+    K<INF>6</INF> = correction factor for pressure ratio, as 
+determined in section B.4.5 of Annex B to ISO 1217:2009(E). For 
+calculations of this variable use a value of 1.400 for isentropic 
+exponent, and for contractual pressure ratio, use the ratio of (a) 
+The sum of 100 kPa and the measured discharge gauge pressure (kPa) 
+from section 3.3.1 of this appendix, to
+    (b) 100 kPa; and
+P<INF>PR,100</INF><not-eq> = packaged compressor power input reading 
+at full-load operating pressure and full-load actual volume flow 
+rate measured in section 3.3.1 of this appendix (W).
+
+3.4. Part-Load Package Isentropic Efficiency for Variable-Speed Air 
+Compressors
+    Use this test method to test variable-speed air compressors.
+    3.4.1. Test unit at two load points:
+    (a) Full-load operating pressure and 70 percent of full-load actual 
+volume flow rate and
+    (b) Full-load operating pressure and 40 percent of full-load actual 
+volume flow rate, according to the requirements established in sections 
+2, 3.1, and 3.2 of this appendix. To reach each specified load point, 
+adjust the speed of the driver and the backpressure of the system. For 
+each load point, measure volume flow rate and calculate actual volume 
+flow rate in accordance with section C.4.2.1 of Annex C to ISO 
+1217:2009(E), with no corrections made for shaft speed. For each load 
+point, measure discharge gauge pressure and packaged compressor power 
+input. Measured discharge gauge pressure and calculated actual volume 
+flow rate must be within the deviation limits for discharge pressure 
+and volume flow rate specified in tables C.1 and C.2 of Annex C to ISO 
+1217:2009(E).
+    3.4.2. For variable-speed compressors, calculate the part-load 
+package isentropic efficiency using the following equation:
+
+[eta]<INF>isen,PL</INF> = v<INF>40</INF><not-eq> x 
+[eta]<INF>isen,40</INF><not-eq> + v<INF>70</INF><not-eq> x 
+[eta]<INF>isen,70</INF><not-eq> + v<INF>100</INF><not-eq> x 
+[eta]<INF>isen,100</INF><not-eq>
+
+
+Where:
+
+[eta]<INF>isen,PL</INF> = part-load package isentropic efficiency 
+for a variable-speed compressor;
+[eta]<INF>isen,100</INF><not-eq> = package isentropic efficiency at 
+full-load operating pressure and 100 percent of full-load actual 
+volume flow rate, as determined in section 3.3.2 of this appendix;
+[eta]<INF>isen,70</INF><not-eq> = package isentropic efficiency at 
+full-load operating pressure and 70 percent of full-load actual 
+volume flow rate, as determined in section 3.4.3 of this appendix;
+[eta]<INF>isen,40</INF><not-eq> = package isentropic efficiency at 
+full-load operating pressure and 40 percent of full-load actual 
+volume flow rate, as determined in section 3.4.4 of this appendix;
+v<INF>40</INF><not-eq> = weighting at 40 percent of full-load actual 
+volume flow rate and is 0.25;
+v<INF>70</INF><not-eq> = weighting at 70 percent of full-load actual 
+volume flow rate and is 0.50; and
+v<INF>100</INF><not-eq> = weighting at 100 percent of full-load 
+actual volume flow rate and is 0.25.
+
+    3.4.3. Calculate package isentropic efficiency at full-load 
+operating pressure and 70 percent of full-load actual volume flow rate 
+using the equation for isentropic efficiency in section 3.6.1 of ISO 
+1217:2009(E) as modified by ISO 1217:2009/Amd.1:2016(E). For 
+P<INF>isen,</INF> use the isentropic power required for compression at 
+full-load operating pressure and 70 percent of full-load actual volume 
+flow rate, as determined in section 3.4.3.1 of this appendix. For 
+P<INF>real,</INF> use the real packaged compressor power input at full-
+load operating pressure and 70 percent of full-load actual volume flow 
+rate, as determined in section 3.4.3.2 of this appendix.
+    3.4.3.1. Calculate the isentropic power required for compression at 
+full-load operating pressure and 70 percent of full-load actual volume 
+flow rate using equation (H.6) of Annex H to ISO 1217:2009/
+Amd.1:2016(E). For qV<INF>1,</INF> use actual volume flow rate (cubic 
+meters per second) at full-load operating pressure and 70 percent of 
+full-load actual volume flow rate, as calculated in section 3.4.1 of 
+this appendix. For p<INF>1,</INF> use 100 kPa. For p<INF>2,</INF> use 
+the sum of
+    (a) 100 kPa, and
+    (b) Discharge gauge pressure (Pa) at full-load operating pressure 
+and 70 percent of full-load actual volume flow rate, as calculated in 
+section 3.4.1 of this appendix. For K, use the isentropic exponent 
+(ratio of specific heats) of air, which, for the purposes of this test 
+procedure, is 1.400.
+    3.4.3.2. Calculate real packaged compressor power input at full-
+load operating pressure and 70 percent of full-load actual volume flow 
+rate using the following equation:
+
+P<INF>real,70</INF><not-eq> = K<INF>5</INF> [middot] K<INF>6</INF> 
+[middot] P<INF>PR,70</INF><not-eq>
+
+Where:
+
+K<INF>5</INF> = correction factor for inlet pressure, as determined 
+in section C.4.3.2 of Annex C to ISO 1217:2009(E). For calculations 
+of this variable use a value of 100 kPa for contractual inlet 
+pressure;
+K<INF>6</INF> = correction factor for pressure ratio, as determined 
+in section B.4.5 of Annex B to ISO 1217:2009(E). For calculations of 
+this variable use a value of 1.400 for isentropic exponent, and for 
+contractual pressure ratio, use the ratio of
+    (a) The sum of 100 kPa and the measured discharge gauge pressure 
+(kPa) from the test at 70 percent of full-load actual volume flow 
+rate in section 3.4.1 of this appendix, to
+    (b) 100 kPa; and
+
+P<INF>PR,70</INF><not-eq> = packaged compressor power input reading 
+at full-load operating pressure and 70 percent of full-load actual 
+volume flow rate, as measured in section 3.4.1 of this appendix (W).
+
+    3.4.4. Calculate package isentropic efficiency at full-load 
+operating pressure and 40 percent of full-load actual volume flow rate 
+using the equation for isentropic efficiency in section 3.6.1 of ISO 
+1217:2009(E) as modified by ISO 1217:2009/Amd.1:2016(E). For 
+P<INF>isen,</INF> use the isentropic power required for compression at 
+full-load operating pressure and 40 percent of full-load actual volume 
+flow rate, as determined in section 3.4.4.1 of this appendix. For 
+P<INF>real,</INF> use the real packaged compressor power input at full-
+load operating pressure and 40 percent of full-load actual volume flow 
+rate, as determined in section 3.4.4.2 of this appendix.
+    3.4.4.1. Calculate the isentropic power required for compression at 
+full-load operating pressure and 40 percent of full-load actual volume 
+flow rate using equation (H.6) of Annex H to ISO 1217:2009/
+Amd.1:2016(E). For qV<INF>1,</INF> use actual volume flow rate (cubic 
+meters per second) at full-load operating pressure and 40 percent of 
+full-load actual volume flow rate, as calculated in section 3.4.1 of 
+this appendix. For p<INF>1,</INF> use 100 kPa. For p<INF>2,</INF> use 
+the sum of
+    (a) 100 kPa, and
+    (b) Discharge gauge pressure (Pa) at full-load operating pressure 
+and 40 percent of full-load actual volume flow rate, as calculated in 
+section 3.4.1 of this appendix. For K, use the isentropic exponent 
+(ratio of specific heats) of air, which, for the purposes of this test 
+procedure, is 1.400.
+    3.4.4.2. Calculate real packaged compressor power input at full-
+load operating pressure and 40 percent of full-load actual volume flow 
+rate using the following equation:
+
+P<INF>real,40</INF><not-eq> = K<INF>5</INF> [middot] K<INF>6</INF> 
+[middot] P<INF>PR,40</INF><not-eq>
+
+Where:
+
+K<INF>5</INF> = correction factor for inlet pressure, as determined 
+in section C.4.3.2 of Annex C to ISO 1217:2009(E). For calculations 
+of this variable use a value of 100 kPa for contractual inlet 
+pressure;
+K<INF>6</INF> = correction factor for pressure ratio, as determined 
+in section B.4.5 of Annex B to ISO 1217:2009(E). For calculations of 
+this variable use a value of 1.400 for isentropic exponent, and for 
+contractual pressure ratio, use the ratio of
+    (a) The sum of 100 kPa and the measured discharge gauge pressure 
+(kPa) from the test at 40 percent of full-load actual volume flow 
+rate in section 3.4.1 of this appendix, to
+    (b) 100 kPa; and
+
+P<INF>PR,40</INF><not-eq> = packaged compressor power input reading 
+at full-load operating pressure and 40 percent of full-load actual 
+volume
+
+[[Page 5559]]
+
+flow rate, as measured in section 3.4.1 of this appendix (W).
+3.5. Determination of Package Specific Power
+    For both fixed and variable-speed air compressors, determine the 
+package specific power, at any load point, using the equation for 
+specific energy consumption in section C.4.4 of Annex C to ISO 
+1217:2009(E) and other values measured pursuant to this appendix, with 
+no correction for shaft speed. Calculate P<INF>Pcorr</INF> in section 
+C.4.4 of Annex C to ISO 1217:2009(E) using the following equation:
+
+P<INF>Pcorr</INF> = K<INF>5</INF> [middot] K<INF>6</INF> [middot] 
+P<INF>PR</INF>
+
+Where:
+
+K<INF>5</INF> = correction factor for inlet pressure, as determined 
+in section C.4.3.2 of Annex C to ISO 1217:2009(E). For calculations 
+of this variable use a value of 100 kPa for contractual inlet 
+pressure;
+K<INF>6</INF> = correction factor for pressure ratio, as determined 
+in section B.4.5 of Annex B to ISO 1217:2009(E). For calculations of 
+this variable use a value of 1.400 for isentropic exponent, and for 
+contractual pressure ratio, use the ratio of
+    (a) The sum of 100 kPa and the measured discharge gauge pressure 
+(kPa) from the test used to determine the package specific power, to
+    (b) 100 kPa; and
+P<INF>PR</INF> = packaged compressor power input reading (W), as 
+determined in section C.2.4 of Annex C to ISO 1217:2009(E).
+3.6. Determination of Pressure Ratio at Full-Load Operating Pressure
+    Pressure ratio at full-load operating pressure, as defined in Sec.  
+431.342, is calculated using the following equation:
+[GRAPHIC] [TIFF OMITTED] TR17JA25.094
+
+Where:
+
+PR = pressure ratio at full-load operating pressure;
+P<INF>1</INF> = 100 kPa; and
+P<INF>FL</INF> = full-load operating pressure, determined in section 
+4.3.4 of this appendix (Pa gauge).
+
+4. Method To Determine Maximum Full-Flow Operating Pressure, Full-Load 
+Operating Pressure, and Full-Load Actual Volume Flow Rate
+
+4.1. Principal Strategy
+    The principal strategy of this method is to incrementally increase 
+discharge pressure by 2 psig relative to a starting point, and identify 
+the maximum full-flow operating pressure at which the compressor is 
+capable of operating. The maximum discharge pressure achieved is the 
+maximum full-flow operating pressure. The full-load operating pressure 
+and full-load actual volume flow rate are determined based on the 
+maximum full-flow operating pressure.
+4.2. Pre-test Instructions
+    4.2.1. Safety. For the method presented in section 4.3.1 of this 
+appendix, only test discharge pressure within the safe operating range 
+of the compressor, as specified by the manufacturer in the installation 
+and operation manual shipped with the unit. Make no changes to safety 
+limits or equipment. Do not violate any manufacturer-provided motor 
+operational guidelines for normal use, including any restriction on 
+instantaneous and continuous input power draw and output shaft power 
+(e.g., electrical rating and service factor limits).
+4.2.2. Adjustment of Discharge Pressure
+    4.2.2.1. If the air compressor is not equipped, as distributed in 
+commerce by the manufacturer, with any mechanism to adjust the maximum 
+discharge pressure output limit, proceed to section 4.2.3 of this 
+appendix.
+    4.2.2.2. If the air compressor is equipped, as distributed in 
+commerce by the manufacturer, with any mechanism to adjust the maximum 
+discharge pressure output limit, then adjust this mechanism to the 
+maximum pressure allowed, according to the manufacturer's operating 
+instructions for these mechanisms. Mechanisms to adjust discharge 
+pressure may include, but are not limited to, onboard digital or analog 
+controls, and user-adjustable inlet valves.
+    4.2.3. Driver speed. If the unit under test is a variable-speed 
+compressor, maintain maximum driver speed throughout the test. If the 
+unit under test is a fixed-speed compressor with a multi-speed driver, 
+maintain driver speed at the maximum speed throughout the test.
+4.2.4. Measurements and Tolerances
+    4.2.4.1. Recording. Record data by electronic means such that the 
+requirements of section 4.2.4.5 of this appendix are met.
+    4.2.4.2. Discharge Pressure. Measure discharge pressure in 
+accordance with section 5.2 of ISO 1217:2009(E). Express compressor 
+discharge pressure in psig in reference to ambient conditions, and 
+record it to the nearest integer. Specify targeted discharge pressure 
+points in integer values only. The maximum allowable measured deviation 
+from the targeted discharge pressure at each tested point is <plus-
+minus>1 psig.
+    4.2.4.3. Actual Volume Flow Rate. Measure actual volume flow rate 
+in accordance with section C.4.2.1 of Annex C to ISO 1217:2009(E) 
+(where it is called ``corrected volume flow rate'') with no corrections 
+made for shaft speed. Express compressor actual volume flow rate in 
+cubic feet per minute at inlet conditions (cfm).
+    4.2.4.4. Stabilization. Record data at each tested load point under 
+steady-state conditions, as determined in section 3.1.1 of this 
+appendix.
+    4.2.4.5. Data Sampling and Frequency. At each load point, record a 
+set of at least of two readings, collected at a minimum of 10 seconds 
+apart. All readings at each load point must be within the maximum 
+permissible fluctuation from the average (of the two consecutive 
+readings), as specified in 3.1.2 of this appendix. Average the 
+measurements to determine the value of each parameter to be used in 
+subsequent calculations.
+    4.2.5 Adjusting System Backpressure. Set up the unit under test so 
+that backpressure on the unit can be adjusted (e.g., by valves) 
+incrementally, causing the measured discharge pressure to change, until 
+the compressor is in an unloaded condition.
+    4.2.6 Unloaded Condition. A unit is considered to be in an unloaded 
+condition if capacity controls on the unit automatically reduce the 
+actual volume flow rate from the compressor (e.g., shutting the motor 
+off, or unloading by adjusting valves).
+4.3. Test Instructions
+    4.3.1. Adjust the backpressure of the system so the measured 
+discharge pressure is 90 percent of the expected maximum full-flow 
+operating pressure, rounded to the nearest integer, in psig. If the 
+expected maximum full-flow operating pressure is not known, then adjust 
+the backpressure of the system so that the measured discharge pressure 
+is 65 psig. Allow the unit to remain at this setting for 15 minutes to 
+allow the unit to thermally stabilize. Then measure and record 
+discharge pressure and actual volume flow rate at the starting 
+pressure.
+    4.3.2. Adjust the backpressure of the system to increase the 
+discharge pressure by 2 psig from the previous value, allow the unit to 
+remain at this setting for a minimum of 2 minutes, and proceed to 
+section 4.3.3 of this appendix.
+    4.3.3. If the unit is now in an unloaded condition, end the test 
+and proceed to section 4.3.4 of this appendix. If the unit is not in an 
+unloaded condition, measure discharge pressure and actual volume flow 
+rate, and repeat section 4.3.2 of this appendix.
+
+[[Page 5560]]
+
+    4.3.4. Of the discharge pressures recorded under stabilized 
+conditions in sections 4.3.1 through 4.3.3 of this appendix, identify 
+the largest. This is the maximum full-flow operating pressure. 
+Determine the full-load operating pressure as a self-declared value 
+greater than or equal to the lesser of (A) 90 percent of the maximum 
+full-flow operating pressure, or (B) 10 psig less than the maximum 
+full-flow operating pressure.
+    4.3.5 The full-load actual volume flow rate is the actual volume 
+flow rate measured at the full-load operating pressure. If the self-
+declared full-load operating pressure falls on a previously tested 
+value of discharge pressure, then use the previously measured actual 
+volume flow rate as the full-load actual volume flow rate. If the self-
+declared full-load operating pressure does not fall on a previously 
+tested value of discharge pressure, then adjust the backpressure of the 
+system to the self-declared full-load operating pressure and allow the 
+unit to remain at this setting for a minimum of 2 minutes. The measured 
+actual volume flow rate at this setting is the full-load actual volume 
+flow rate.
+
+[FR Doc. 2025-01002 Filed 1-16-25; 8:45 am]
+BILLING CODE 6450-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

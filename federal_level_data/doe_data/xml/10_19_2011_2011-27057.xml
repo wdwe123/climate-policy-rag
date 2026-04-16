@@ -1,0 +1,1705 @@
+<NOTICE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF ENERGY</AGENCY>
+                <DEPDOC>[Docket No. EERE-2006-BC-0132]</DEPDOC>
+                <RIN>RIN 1904-AC42</RIN>
+                <SUBJECT>Building Energy Standards Program: Final Determination Regarding Energy Efficiency Improvements in the Energy Standard for Buildings, Except Low-Rise Residential Buildings, ANSI/ASHRAE/IESNA Standard 90.1-2010</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Notice of final determination.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        The Department of Energy (DOE or Department) has determined that the 2010 edition of the 
+                        <E T="03">Energy Standard for Buildings, Except Low-Rise Residential Buildings,</E>
+                         American National Standards Institute (ANSI)/American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) Illuminating Engineering Society of North America (IESNA) Standard 90.1-2010, (Standard 90.1-2010 or the 2010 edition) would achieve greater energy efficiency in buildings subject to the code, than the 2007 edition (Standard 90.1-2007 or the 2007 edition). Also, DOE has determined that the quantitative analysis of the energy consumption of buildings built to Standard 90.1-2010, as compared with buildings built to Standard 90.1-2007, indicates national source energy savings of approximately 18.2 percent of commercial building energy consumption. Additionally, DOE has determined site energy savings are estimated to be approximately 18.5 percent. Upon publication of this affirmative final determination, States are required to certify that they have reviewed the provisions of their commercial building code regarding energy efficiency, and as necessary, updated their code to meet or exceed Standard 90.1-2010. Additionally, this notice provides guidance to States on Certifications, and Requests for Extensions of Deadlines for Certification Statements.
+                    </P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>Certification statements by the States must be provided by October 18, 2013.</P>
+                </DATES>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>Certification Statements must be addressed to the Buildings Technologies Program-Building Energy Codes Program Manager, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Forrestal Building, Mail Station EE-2J, 1000 Independence Avenue, SW., Washington, DC 20585-0121.</P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Michael Erbesfeld, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Forrestal Building, Mail Station EE-2J, 1000 Independence Avenue, SW., Washington, DC 20585-0121, (202) 287-1874, 
+                        <E T="03">e-mail: michael.erbesfeld@ee.doe.gov.</E>
+                         For legal issues contact Kavita Vaidyanathan, U.S. Department of Energy, Office of the General Counsel, Forrestal Building, GC-71, 1000 Independence Avenue, SW., Washington, DC 20585, (202) 586-0669, 
+                        <E T="03">e-mail: kavita.vaidyanathan@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Introduction</FP>
+                    <FP SOURCE="FP1-2">A. Statutory Requirements</FP>
+                    <FP SOURCE="FP1-2">B. Background</FP>
+                    <FP SOURCE="FP1-2">1. Publication of Standard 90.1-2010</FP>
+                    <FP SOURCE="FP1-2">2. Preliminary Determination</FP>
+                    <FP SOURCE="FP1-2">3. Public Comments Regarding the Preliminary Determination</FP>
+                    <FP SOURCE="FP-2">II. Summary of the Comparative Analysis</FP>
+                    <FP SOURCE="FP1-2">A. Qualitative Analysis</FP>
+                    <FP SOURCE="FP1-2">1. Discussion of Detailed Textual Analysis</FP>
+                    <FP SOURCE="FP1-2">2. Results of Detailed Textual Analysis</FP>
+                    <FP SOURCE="FP1-2">B. Quantitative Analysis</FP>
+                    <FP SOURCE="FP1-2">1. Discussion of Whole Building Energy Analysis</FP>
+                    <FP SOURCE="FP1-2">2. Results of Whole Building Energy Analysis</FP>
+                    <FP SOURCE="FP1-2">C. Final Determination Statement</FP>
+                    <FP SOURCE="FP-2">III. Filing Certification Statements With DOE</FP>
+                    <FP SOURCE="FP1-2">A. Review and Update</FP>
+                    <FP SOURCE="FP1-2">B. Certification</FP>
+                    <FP SOURCE="FP1-2">C. Requests for Extensions To Certify</FP>
+                    <FP SOURCE="FP-2">IV. Regulatory Analysis</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Order 12866</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">D. Review Under Executive Order 13132, âFederalismâ</FP>
+                    <FP SOURCE="FP1-2">E. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">F. Review Under the Treasury and General Government Appropriations Act of 1999</FP>
+                    <FP SOURCE="FP1-2">G. Review Under the Treasury and General Government Appropriations Act of 2001</FP>
+                    <FP SOURCE="FP1-2">H. Review Under Executive Order 13211</FP>
+                    <FP SOURCE="FP1-2">I. Review Under Executive Order 13175</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Introduction</HD>
+                <HD SOURCE="HD2">A. Statutory Requirements</HD>
+                <P>
+                    Title III of the Energy Conservation and Production Act, as amended (ECPA), establishes requirements for the 
+                    <PRTPAGE P="64905"/>
+                    Building Energy Efficiency Standards Program. (42 U.S.C. 6831 
+                    <E T="03">et seq.</E>
+                    ) Section 304(b), as amended, of ECPA provides that whenever the ANSI/ASHRAE/IESNA Standard 90.1-1989 (Standard 90.1-1989 or 1989 edition), or any successor to that code, is revised, the Secretary must make a determination, not later than 12 months after such revision, whether the revised code would improve energy efficiency in commercial buildings and must publish notice of such determination in the 
+                    <E T="04">Federal Register</E>
+                    . (42 U.S.C. 6833 (b)(2)(A)) The Secretary may determine that the revision of Standard 90.1-1989 or any successor thereof, improves the level of energy efficiency in commercial buildings. If so, then not later than two years after the date of the publication of such affirmative determination, each State is required to certify that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency with respect to the revised or successor code. (42 U.S.C. 6833(b)(2)(B)(i)) The State must include in its certification a demonstration that the provisions of its commercial building code, regarding energy efficiency, meet or exceed the revised standard. (42 U.S.C. 6833(b)(2)(B)(i))
+                </P>
+                <P>
+                    If the Secretary makes a determination that the revised standard will not improve energy efficiency in commercial buildings, State commercial codes must meet or exceed the last revised standard for which the Secretary has made a positive determination. (42 U.S.C. 6833(b)(2)(B)(ii)). On July 20, 2011, the DOE published a determination in the 
+                    <E T="04">Federal Register</E>
+                     updating the reference code to Standard 90.1-2007. See 76 FR 43287 (July 20, 2011).
+                </P>
+                <P>ECPA also requires the Secretary to permit extensions of the deadlines for the State certification if a State can demonstrate that it has made a good faith effort to comply with the requirements of section 304(c) of ECPA and that it has made significant progress in doing so. (42 U.S.C. 6833(c))</P>
+                <HD SOURCE="HD2">B. Background</HD>
+                <HD SOURCE="HD3">1. Publication of Standard 90.1-2010</HD>
+                <P>
+                    ASHRAE and the IESNA approved the publication of the 2010 edition of 
+                    <E T="03">Energy Standard for Buildings Except Low-rise Residential Buildings,</E>
+                     in October 2010.
+                </P>
+                <P>The Standard was developed under ANSI-approved consensus standard procedures. Standard 90.1 is under continuous maintenance by a Standing Standard Project Committee (SSPC) for which the ASHRAE Standard Committee has established a documented program for regular publication of addenda or revisions, including procedures for timely, documented, consensus action on requests for change to any part of the standard. ANSI approves addenda prior to their publication by ASHRAE and IESNA and prior to their inclusion in a new version of Standard 90.1. ANSI approved the final addendum for inclusion in Standard 90.1-2010 on July 24, 2010. Appeals were made to several addenda and the results of the appeals process were not final until October 15, 2010. The 2010 edition was published on October 28, 2010.</P>
+                <HD SOURCE="HD3">2. Preliminary Determination</HD>
+                <P>In arriving at a preliminary determination, DOE first reviewed all significant changes between the 2010 edition and the 2007 edition. Standard 90.1 is complex and covers a broad spectrum of the energy related components and systems in buildings ranging from simple storage buildings to complex hospitals and laboratories. The size of buildings addressed range from those smaller than single family homes to the largest buildings in the world. The approach to development of the standard used in the 2010 edition was not changed from that used for the 2007 edition, with no changes to the scope or the way components are defined. DOE preliminarily determined that because no significant changes were made to the structure, scope, or component definitions of Standard 90.1-2007, a similar methodology used for the analysis of Standard 90.1-2007 could be utilized for the analysis of Standard 90.1-2010, consisting of a qualitative comparison of the textual changes to requirements in Standard 90.1-2010 from Standard 90.1-2007, and a quantitative estimate of the energy savings developed from whole building simulations of a standard set of buildings constructed to both Standards over a range of U.S. climates. DOE used an extension of the procedure used for the Standard 90.1-2007 determination for the quantitative estimate of energy savings. The extension was that additional building types were added to the analysis. DOE used the same simulation tool and data for weighing the results by building type and climate as used for the 90.1-2007 determination.</P>
+                <P>A detailed discussion of the analysis methodology, which was subject to public comment in 2010 and 2011, can be found in the Notice of Preliminary Determination for Standard 90.1-2007 and in the Notice of Preliminary Determination for Standard 90.1-2010. 75 FR 54117 (Sept. 3, 2010) and 76 FR 43299 (July 20, 2011) respectively.</P>
+                <HD SOURCE="HD3">3. Public Comments Regarding the Preliminary Determination</HD>
+                <P>DOE accepted public comments on the preliminary determination for Standard 90.1-2010 until August 19, 2011. DOE received submissions from a total of six different entities.</P>
+                <P>The Edison Electric Institute (EEI) submitted a written comment (Docket No. EERE-2010-BT-DET-0050-0002, pgs. 1-3) supporting the preliminary determination while stating the following four issues: (1) DOE should only use the results from its site energy analysis and its energy cost analysis to make its final determination, and not report the source energy analysis results in the final determination, (2) the energy savings, or at least a portion of the estimated energy savings, from addenda that include new federal energy efficiency standards or provide updates to energy efficiency standards should be incorporated into the final determination analysis, (3) EEI would request that the information about the impact of addendum âbuâ be included in the final determination notice, and (4) in terms of primary energy associated with electricity, the value in this notice is overstated and that DOE should use a more realistic ratio for electricity in its estimates.</P>
+                <P>In regards to EEI's first comment, the Department still believes that despite the fact that the source energy analysis results are estimates, it is important to the discussion of global resources and environmental issues to report them. Source energy (or primary energy) addresses the energy needed to deliver energy to the building in addition to the energy used at the building and thus provides a more complete view of the total energy expenditure used by a building than site energy. However, DOE realizes that site energy is the energy that typically appears on utility bills and that is seen by the consumer. DOE also realizes that it is energy cost (as shown on energy bills) to which many consumers react. It is for this reason that DOE provides all three metricsâsite energy, source energy, and energy costâin its determinations.</P>
+                <P>
+                    EEI's second comment is in reference to the fact that the Department does not include the impact from new or updated federal energy efficiency standards in its determination of energy savings. For the quantitative analysis performed for the 90.1-2010 preliminary determination (
+                    <E T="03">http://www.energycodes.gov/status/documents/QuantitativeAnalysisReport901-2010Determination.pdf</E>
+                    ), DOE 
+                    <PRTPAGE P="64906"/>
+                    incorporated only addenda that modified the prescriptive requirements of the Standard. New or updated federal efficiency standards are not independent requirements of the standard, but rather reflections of Federal manufacturing requirements. In specific circumstances, particularly with regard to requirements for certain heating, ventilation, and air conditioning (HVAC) equipment, addenda to Standard 90.1-2010 reflect changes to national manufacturing standards previously developed by DOE or enacted independently through Federal legislation. The energy savings that are attributable to these national manufacturing standards would accrue no matter what version of Standard 90.1 is considered and regardless of whether they are reflected in the text of the Standards, therefore DOE has not incorporated these as changes contributing to energy savings for the purpose of the Determination.
+                </P>
+                <P>EEI's third comment requests that information regarding the impact of addendum âbuâ be included in the final determination. Addendum âbuâ added equipment efficiency requirements for mechanical equipment serving computer rooms, however none of the prototype building models that DOE uses in its simulations have data centers and therefore the quantifiable impact of this addendum was not captured. DOE does note that the impact of addendum âbuâ is captured in the qualitative, or text comparison analysis, where addendum âbuâ is listed as a major positive and noted as a new efficiency requirement. When the prototype building models used in this determination were developed by DOE and later reviewed by ASHRAE, no data center models were included because at that point Standard 90.1 did not include efficiency requirements related to data centers. DOE did not add data centers to the prototype building models for this determination because the quantitative impact of this addendum would not change the fact that this is a positive final determination of energy savings. DOE is considering adding data centers to the prototype building models for future determinations.</P>
+                <P>EEI's final comment suggests that DOE use a more realistic electricity ratio for determining primary energy associated with electricity production by crediting renewable energy production on the primary side of generation and on the on-site/delivered side of electricity consumption. The Department has chosen to be consistent within their energy analyses by using Energy Information Administration's (EIA) data and conversion factors solely and by choosing not to mix and match conversion factors. DOE recognizes that these conversion factors are estimates and that some types of utility energy inputs do not have known conversion factors and other inputs have multiple generally accepted conversion factors. The Department has chosen not to subtract primary renewable energy from the delivered electricity losses value because renewable energy generated as primary energy is still subject to losses in the delivery process to the site. Also, DOE has chosen not to add on-site generated renewable energy to the delivered electricity value when determining the electricity ratio because on-site generated renewable energy is not subject to the losses that are incurred when delivering primary energy from the plant to the site. Therefore the delivered electricity and delivered electricity loss values used in the preliminary determination are the same values used in this final determination and yield the electricity ratio of 3.2, explained on page 31-32 of this notice, for converting how much primary (source) electricity is required per unit of site required electricity.</P>
+                <P>The Gas Technology Institute (GTI) submitted a written comment (Docket No. EERE-2010-BT-DET-0050-0005, pg. 1) stating that it supports the analysis and states that until ASHRAE 90.1 addresses issues related to full fuel-cycle energy metrics and a single baseline building budget, the DOE preliminary determination is incomplete and misleading.</P>
+                <P>The Department's preliminary determination does estimate source energy metrics, and DOE has not chosen to use a single baseline building budget because there are a multitude of building types with far different operating requirements and accompanying energy needs. A single baseline building budget would penalize certain building types while aiding other building types depending on how far away their respective baseline budgets were from a single average baseline budget.</P>
+                <P>DOE also notes that while DOE has recently issued a notice of proposed policy (NOPP) related to full-fuel-cycle analysis for appliance and equipment standards (76 FR 51281, Docket No. EERE-2010-BT-NOA-0028, âEnergy Conservation Program for Consumer Products and Certain Commercial and Industrial Equipment: Statement of Policy for Adopting Full-Fuel-Cycle Analyses Into Energy Conservation Standards Programâ), this policy was not proposed for application to building energy codes and standards such as Standard 90.1. This policy was a direct offshoot of the National Academy of Sciences report discussed in conjunction with the comment below from Laclede Gas Company. DOE notes that GTI's comment takes issue with standard 90.1. DOE's role in determinations is to compare the latest version of Standard 90.1 with the previous version and to determine if the latest version improves the level of energy efficiency in commercial buildings over the previous version. While DOE is a participant in the Standard 90.1 development process, DOE does not control the content of Standard 90.1.</P>
+                <P>The American Gas Association submitted a written comment (Docket No. EERE-2010-BT-DET-0050-0004, pg. 1) stating that the performance requirements for commercial electric storage water heaters greater then 12kW appear to be less stringent than the current federal minimum efficiency requirements for this class of water heaters.</P>
+                <P>DOE acknowledges the discrepancy between Federal standards for commercial electric storage water heaters and the requirements for this equipment in Standard 90.1-2010. For the purposes of this determination the performance requirements for commercial electric storage water heaters greater than 12kW in ASHRAE 90.1-2010 are not applicable as this determination is only concerned with whether the 90.1-2010 version improves the level of energy efficiency in commercial buildings compared to the 2007 version of 90.1, and the performance requirements of this equipment did not change from the 2007 to 2010 version.</P>
+                <P>
+                    The Laclede Gas Company submitted a written comment (Docket No. EERE-2010-BT-DET-0050-0007, pgs. 1-5) stating the following three issues: (1) Laclede contends there is a conflict of interest because DOE evaluates new versions of the ASHRAE 90.1 through its Pacific Northwest National Lab (PNNL), the staff of which participate in ASHRAE committees; (2) Laclede objects âto the site-based energy efficiency metric because it does not fulfill the `scientific integrity' objectives as ordered by the 
+                    <E T="03">Presidential Scientific Integrity Memorandum of March 9, 2009</E>
+                    â; and (3) Laclede is concerned that âDOE has limited its `Statement of Policy' for implementing the National Academy of Sciences (NAS) conclusions to the minimum efficiency standards of appliances. Laclede contends that the NAS conclusions should also apply to building efficiency standards.â
+                </P>
+                <P>
+                    In response to Laclede's first issue, DOE acknowledges that staff members at 
+                    <PRTPAGE P="64907"/>
+                    PNNL participate in ASHRAE. However, the determination analyses were reviewed by DOE management.
+                </P>
+                <P>In response to Laclede's second issue, DOE believes that its determination on Standard 90.1-2010 has indeed followed the requirements of the Presidential Memorandum on Scientific Integrity. DOE has subjected the scientific and technological information it considered in this determination to well-established scientific processes and DOE made available to the public the scientific and technological findings and conclusions considered or relied on in this final determination by way of the preliminary determination and public comment period. DOE provides all three metricsâsite energy, source energy, and energy costâin its determinations. DOE does not mandate energy efficiency standards which give electric resistance heat an efficiency advantage over natural gas. DOE's role in determinations is to compare the latest version of Standard 90.1 with the previous version and to determine if the latest version improves the level of energy efficiency in commercial buildings over the previous version.</P>
+                <P>
+                    In response to Laclede's third issue, DOE interprets the phrase âNAS conclusionsâ to refer to the National Academy of Sciences (NAS) report entitled âReview of Site (Point-of-Use) and Full-Fuel-Cycle Measurement Approaches to DOE/EERE Building Appliance Energy-Efficiency StandardsâLetter Report (2009) (available at 
+                    <E T="03">http://books.nap.edu/openbook.php?record_id=12670&amp;page=1</E>
+                    ). DOE has not limited its âStatement of Policyâ because this NAS report is for the application to âbuilding appliancesâ where DOE has statutory authority to set building appliance standards, and does not apply to determinations of energy efficiency for building energy codes. Today's determination is based on a review of the work of ASHRAE, as required by statute, and does not establish the efficiency standards of the ASHRAE code.
+                </P>
+                <P>The Building Codes Assistance Project (BCAP) submitted a written comment (Docket No. EERE-2010-BT-DET-0050-0003, pgs. 1-2) supporting the DOE's determination and suggests that DOE follow up with the States after publication of the Final Determination as well as making public which States comply with the statutory requirements to submit certification letters within two years of publication.</P>
+                <P>
+                    DOE does list the States that have filed certifications and those that have or have not adopted new codes on the DOE Energy Efficiency and Renewable Energy Web site at 
+                    <E T="03">http://www.energycodes.gov/states/.</E>
+                     Once a State has adopted a new commercial code, DOE typically provides software, training, and support for the new code as long as the new code is based on the national model codes (in this case, ASHRAE Standard 90.1).
+                </P>
+                <P>The Natural Resources Defense Council (NRDC) submitted a written comment (Docket No. EERE-2010-BT-DET-0050-0006, pgs. 1-2) agreeing with and supporting the Department's preliminary determination that ASHRAE Standard 90.1-2010 saves energy compared to ASHRAE 90.1-2007 and urges the Department to finalize this determination.</P>
+                <HD SOURCE="HD1">II. Summary of the Comparative Analysis</HD>
+                <P>DOE carried out both a detailed qualitative analysis and a broad quantitative analysis of the differences between the requirements and the stringencies in the 2007 and the 2010 editions.</P>
+                <HD SOURCE="HD2">A. Qualitative Analysis</HD>
+                <HD SOURCE="HD3">1. Discussion of Detailed Textual Analysis</HD>
+                <P>DOE performed a detailed analysis of the differences between the textual requirements and stringencies of the 2007 and 2010 editions in the scope of the standard, the building envelope requirements, the building lighting and power requirements, and the building mechanical equipment requirements.</P>
+                <P>The emphasis of DOE's detailed requirement and stringency analysis was on looking at the specific changes that ASHRAE made in going from Standard 90.1-2007 to Standard 90.1-2010. ASHRAE publishes changes to their standards as addenda to the preceding standard and then bundles all the addenda together to form the next edition. ASHRAE processed 109 addenda to Standard 90.1-2007 to create Standard 90.1-2010. Each of these addenda was evaluated by DOE in preparing this final determination. No changes were made to the final detailed textual analysis from the preliminary detailed textual analysis.</P>
+                <P>In addition, each standard has multiple ways to demonstrate compliance, including a prescriptive set of requirements by section of the standard, various tradeoff approaches within those same sections, and a whole building performance method (Energy Cost Budget or ECB). For each addendum DOE identified whether it applies to the prescriptive requirements, or one of the tradeoff paths provided for in the envelope, lighting, or mechanical sections, or the ECB whole building performance path. For each addendum DOE identified the impact on the stringency for that path to compliance.</P>
+                <P>Overall, DOE found that that the vast majority of changes made to Standard 90.1-2007 to create Standard 90.1-2010 were positive or neutral (in the context of energy efficiency). Positive changes greatly outweighed the negative energy efficiency changes. Specifically, of the 109 total changes:</P>
+                <P>56 were considered positive;</P>
+                <P>47 were considered neutral;</P>
+                <P>6 were considered negative.</P>
+                <P>The 56 positive changes greatly overwhelm the 6 negative changes in terms of a simple numerical comparison. In addition, the 6 negative changes were considered to be âminor negativesâ, with 19 of the positive changes being considered âmajor positiveâ and an additional 37 positive changes being considered âminor positiveâ. Not only do the positive changes outweigh the negative changes in raw numbers, but also in terms of the estimated impact.</P>
+                <HD SOURCE="HD3">2. Results of Detailed Textual Analysis</HD>
+                <P>
+                    Table 1 presents the results of DOE's addendum-by-addendum analysis of Standard 90.1-2010. Table 6 is a reformatted and slightly modified version of a table in the preliminary qualitative analysis. The complete preliminary qualitative analysis may be found on the DOE codes Web site at 
+                    <E T="03">http://www.energycodes.gov/status/determinations_com.stm.</E>
+                </P>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s25,r25,r50,r100,r100">
+                    <TTITLE>Table 1âResults of Addendum-by-Addendum Analysis</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">No.</CHED>
+                        <CHED H="1">
+                            Addendum to 
+                            <LI>standard </LI>
+                            <LI>90.1-2007</LI>
+                        </CHED>
+                        <CHED H="1">Section affected</CHED>
+                        <CHED H="1">Description of changes</CHED>
+                        <CHED H="1">Impact on energy efficiency and reason</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>A</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Remove closed cooling tower requirements from 6.8.1G</ENT>
+                        <ENT>0 (clarifies that requirements do not apply to closed cooling towers).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64908"/>
+                        <ENT I="01">2</ENT>
+                        <ENT>B</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Revises exception a to section 6.5.2.3 to allow for codes other than ASHRAE 62.1 to dictate minimum ventilation rates</ENT>
+                        <ENT>Minorâ(allows larger minimum ventilation rates if required by other codes).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>C</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Adds vivarium to list of spaces that require specific humidity levels to satisfy process needs</ENT>
+                        <ENT>Minorâ(allows exception to dehumidification controls for vivariums).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>D</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 5. Building Envelope; 9. Lighting</ENT>
+                        <ENT>Adds exceptions for Solar Heat Gain Coefficient (SHGC) and Visible Transmittance (VT) requirements for skylights; adds requirement for including visible light transmittance test results with construction documents; adds information on determining daylit area under skylights, automatic daylighting controls (with exceptions), and submittal requirements</ENT>
+                        <ENT>Major + (requires daylighting controls under skylights and commissioning of daylighting controls).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>E</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Changes exhaust air energy recovery requirements and harmonizes requirements in simplified section 6.3.2 with requirements in the 6.5 prescriptive path</ENT>
+                        <ENT>Major + (increased use of heat recovery).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>F</ENT>
+                        <ENT>5. Building Envelope</ENT>
+                        <ENT>Requires high albedo roofs in hot climates</ENT>
+                        <ENT>Major + (requires cool roofs in hot climates)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>G</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 5. Building Envelope</ENT>
+                        <ENT>Updates building envelope criteria for metal buildings</ENT>
+                        <ENT>Minor + (increases envelope requirements for metal buildings).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>H</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Adds another exception to Section 6.5.2.1 Limitation of Simultaneous Heating and Cooling. The exception addresses apparent conflict between standards and allows users to achieve comfort, meet the code, and save energy</ENT>
+                        <ENT>Minor + (allows another exception that saves energy in some applications).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">9</ENT>
+                        <ENT>I</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Applies a four-zone lighting power density approach to exterior lighting requirements. Deletes the 5% additional power allowance in 9.4.5 and replaces it with a base wattage allowance per site. Defines the four zones and applies the appropriate requirements</ENT>
+                        <ENT>Major + (lowers illuminance requirements in certain zones).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">10</ENT>
+                        <ENT>J</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning; 12. Normative References; Appendix E. Informative References</ENT>
+                        <ENT>Updates the mechanical test procedures references in the standard. The changes also modify a reference in Table 6.8.1E, the normative references in Chapter 12, and the informative references in Informative Appendix E</ENT>
+                        <ENT>0 (updating references).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">11</ENT>
+                        <ENT>K</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Updates Tables 6.8.1E and 7.8 to identify specific sections of referenced standards. Table 7.8 also reflects the current federal efficiency levels for residential water heaters and adds a requirement for electric table-top water heaters</ENT>
+                        <ENT>0 (updating tables to reflect current federal standards).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">12</ENT>
+                        <ENT>L</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Adds minimum efficiency and certification requirements for axial and centrifugal fan closed-circuit cooling towers. Also adds a reference to ATC-105S, The Cooling Technology Institute test standard for closed-circuit cooling towers to Section 12</ENT>
+                        <ENT>0 (Requirement codifies industry standard practice).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">13</ENT>
+                        <ENT>M</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Updates chiller efficiency requirements. Establishes additional path of compliance for water-cooled chillers. Combines all water-cooled chillers into one category and adds a new size category for centrifugal chillers at or above 600 tons</ENT>
+                        <ENT>Major + (updates chiller efficiency requirements).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">14</ENT>
+                        <ENT>N</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Extends Variable Air Volume (VAV) fan control requirements to large single-zone units</ENT>
+                        <ENT>Major + (extends control requirements to another equipment class).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">15</ENT>
+                        <ENT>O</ENT>
+                        <ENT>8. Power</ENT>
+                        <ENT>Modifies the scope of Section 8 and adds requirements specific to low voltage dry-type distribution transformers</ENT>
+                        <ENT>0 (implements Federal efficiency standards for transformers).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">16</ENT>
+                        <ENT>P</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Provides pressure credits for laboratory exhaust systems that allow prescriptive compliance with the standard</ENT>
+                        <ENT>Minorâ(increases allowable pressure drop in laboratory exhaust systems).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64909"/>
+                        <ENT I="01">17</ENT>
+                        <ENT>Q</ENT>
+                        <ENT>5. Building Envelope</ENT>
+                        <ENT>Vestibules, remove CZ4 exception</ENT>
+                        <ENT>Minor + (applies vestibule requirement in more locations).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">18</ENT>
+                        <ENT>R</ENT>
+                        <ENT>Informative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Changes Informative Appendix G Performance Rating Method into a Normative Appendix. Additionally, some language has been modified to make the Appendix Enforceable</ENT>
+                        <ENT>0 (performance rating method only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">19</ENT>
+                        <ENT>S</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Updates the Coefficient of Performance (COP) at 17 Â°F efficiency levels for commercial heat pumps and introduces a new part-load energy efficiency descriptor (IEER) for all commercial unitary products above 65,000 Btu/h of cooling capacity</ENT>
+                        <ENT>0 (replaces Integrated Part Load Value (IPLV) with Energy Efficiency Ratio(EER) to capture part load performance).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">20</ENT>
+                        <ENT>T</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>
+                            Removes the term âreplacementâ and ânew constructionâ from the product classes listed in Table 6.8.1D and replaces them with the terms ânonstandard sizeâ and âstandard sizeâ to clarify that one product class is intended for applications with nonstandard size exterior wall openings while the other is intended for applications with standard size exterior wall openings. Also amends section 6.4.1.5.2 and footnote b to Table 6.8.1D to clarify that nonstandard size packaged terminal equipment have sleeves with an external wall opening less than 16 in. high or less than 42 in. wide to reflect existing applications where the wall opening is not necessarily less than 16 in. high and less than 42 in. wide. However, to avoid a potential abuse of the definition, nonstandard size packaged terminal equipment are required to have a cross-sectional area of the sleeves less than 670 in
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>0 (clarification of definitions).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">21</ENT>
+                        <ENT>U</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Adds a new section requiring centrifugal fan open-circuit cooling towers over 1100 gpm at the rating conditions to meet efficiency requirements for axial fan units found in 6.8.1G</ENT>
+                        <ENT>Minor + (applies cooling tower requirements more broadly).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">22</ENT>
+                        <ENT>V</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning; 12. Normative References</ENT>
+                        <ENT>Revises section 6.4.2.1 to reference ANSI/ASHRAE/ACCA Standard 183-2007 for sizing heating and cooling system design loads. Adds requirements for calculating pump head</ENT>
+                        <ENT>0 (updates references).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">23</ENT>
+                        <ENT>W</ENT>
+                        <ENT>Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Changes footnote to Table G3.1.1A to make it clear that Exception a to Section G3.1.1 also applies here. Changes the exception to G3.1.2.10 on Exhaust Air Energy Recovery for multifamily buildings because they are unlikely to have a centralized exhaust air system needed to effectively recover heat</ENT>
+                        <ENT>0 (performance rating method).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">24</ENT>
+                        <ENT>X</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Updates requirements for automatic lighting shutoff, adds specific occupancy sensor applications, and provides additional clarification</ENT>
+                        <ENT>Major + (adds occupancy sensor requirements for many specific applications).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">25</ENT>
+                        <ENT>Y</ENT>
+                        <ENT>7. Service Water Heating</ENT>
+                        <ENT>Establishes ARI 1160 as the test procedure for heat pump pool heaters and requires that the minimum COP of 4 be met at the low outdoor temperature of 50 Â°F</ENT>
+                        <ENT>Minor + (requires COP be met at lower temperature).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">26</ENT>
+                        <ENT>Aa</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Adds space exceptions for automatic lighting controls</ENT>
+                        <ENT>Minor + (limits automatic-on controls to specific space types).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">27</ENT>
+                        <ENT>Ab</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; and 9. Lighting</ENT>
+                        <ENT>Adds definitions and provides daylighting control requirements for side-lighted spaces</ENT>
+                        <ENT>Major + (adds daylighting control requirements for side-lighted spaces).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64910"/>
+                        <ENT I="01">28</ENT>
+                        <ENT>Ac</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 9. Lighting</ENT>
+                        <ENT>Adds incentives to use advanced lighting controls</ENT>
+                        <ENT>0 (alternate compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">29</ENT>
+                        <ENT>Ad</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Includes certification requirements for liquid-to-liquid heat exchangers to benefit both manufacturers and consumers, allow product comparisons, and provide incentives to manufacturers to improve efficiency in order to gain market share</ENT>
+                        <ENT>0 (documentation only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">30</ENT>
+                        <ENT>Ae</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Adds a requirement for insulating the surfaces of radiant panels that do not face conditioned spaces</ENT>
+                        <ENT>Minor + (reduced heat loss in radiant panels).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">31</ENT>
+                        <ENT>Af</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Provides requirement for designers, contractors, and owners to properly size system piping (hydronic systems) to balance ongoing energy costs and first costs</ENT>
+                        <ENT>Minor + (requires proper hydronic system sizing).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">32</ENT>
+                        <ENT>Ag</ENT>
+                        <ENT>5. Building Envelope</ENT>
+                        <ENT>Adds requirement for rigid board insulation overlap</ENT>
+                        <ENT>Minor + (reduces potential for thermal bridging).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">33</ENT>
+                        <ENT>Ai</ENT>
+                        <ENT>Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Removes requirement for comparing proposed buildings utilizing chilled water with a baseline building with on-site chillers, and instead requires a baseline that also uses purchased chilled water. Details modifications to be made to the baseline HVAC systems when purchased chilled water or heat are included</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">34</ENT>
+                        <ENT>Aj</ENT>
+                        <ENT>10. Other Equipment</ENT>
+                        <ENT>Updates the text and table of Chapter 10 to comply with new federal law for motors rated at 1.0 horsepower and greater. Adding this information will help designers, end-use customers, and code officials with motor specifications and verifications</ENT>
+                        <ENT>0 (implements Federal motor requirements).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">35</ENT>
+                        <ENT>Ak</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Adds a pump isolation requirement for systems with multiple chillers and boilers and temperature reset requirement for equipment with a minimum Btu/h. Revises wording to have requirements of 6.5.4.1 apply only to cooling systems. Changes threshold of variable speed systems to 7.5 HP</ENT>
+                        <ENT>Minor + (reduces pumping energy).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl">Adds requirement for differential pressure reset. Does not preclude also implementing chilled water supply temperature setpoint reset. Includes requirements for hydronic Heat Pump and Water-Cooled Unitary Air Conditioners.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">36</ENT>
+                        <ENT>Al</ENT>
+                        <ENT>5. Building Envelope</ENT>
+                        <ENT>Adds skylight requirements in certain space types (enclosed spaces) to promote daylighting energy savings</ENT>
+                        <ENT>Major + (requires skylights and daylighting in some building types.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">37</ENT>
+                        <ENT>Am</ENT>
+                        <ENT>5. Building Envelope</ENT>
+                        <ENT>Revise air leakage criteria for fenestration and doors</ENT>
+                        <ENT>Minor + (decreased air leakage).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">38</ENT>
+                        <ENT>An</ENT>
+                        <ENT>5. Building Envelope</ENT>
+                        <ENT>Expands table of default U-values for single-digit rafter roofs</ENT>
+                        <ENT>0 (updates default tables).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">39</ENT>
+                        <ENT>Ao</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>
+                            Repairs know errata to Table 6.8.1E and re-orders the notes to properly organize them. Corrects the error of identifying E
+                            <E T="52">C</E>
+                            , which should be listed as Et under âWarm Air Furnaces, Gas-Firedâ and also eliminates incorrect and redundant footnotes
+                        </ENT>
+                        <ENT>0 (editorial only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">40</ENT>
+                        <ENT>Ap</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Includes demand controlled ventilation in the simplified approach</ENT>
+                        <ENT>Major + (reduces ventilation energy.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">41</ENT>
+                        <ENT>Aq</ENT>
+                        <ENT>Title, 1. Purpose, and 2. Scope</ENT>
+                        <ENT>Modify Title Purpose &amp; Scope of ASHRAE 90.1</ENT>
+                        <ENT>0 (no impact now, but does allow future positive additions to Standard 90.1).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">42</ENT>
+                        <ENT>Ar</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Corrects an oversight in previous versions where expanded exterior lighting power limits were put in place but the details of how to calculate the installed power and compare it to the limits was not included. This language revision puts the needed details in the standard</ENT>
+                        <ENT>0 (editorial only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64911"/>
+                        <ENT I="01">43</ENT>
+                        <ENT>As</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Removes exception for VAV turndown requirements for zones with special pressurization requirements. Reduces laboratory threshold where VAV or heat recovery is required</ENT>
+                        <ENT>Minor + (saves large amount of fan and reheat energy in hospitals).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">44</ENT>
+                        <ENT>At</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Clears up inconsistencies and conflicts regarding damper requirements in Chapter 6</ENT>
+                        <ENT>0 (editorial only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">45</ENT>
+                        <ENT>Au</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Updates efficiency tradeoff table for eliminating economizers</ENT>
+                        <ENT>0 (alternate compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">46</ENT>
+                        <ENT>Av</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Changes Section 9.1.2 to require that in all spaces where alterations take place, all requirements of Section 9 are met. Changes exception so that the lighting power density (LPD) requirements of the standard are met in the altered space if less than 10% of luminaries are replaced</ENT>
+                        <ENT>Major + (expansion of new lighting power densities to more retrofits).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">47</ENT>
+                        <ENT>Aw</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Recognizes practical design application of excluding bathroom lighting from âmasterâ switch control in hotel/motel guest rooms and adds a requirement to eliminate wasted light in guest room bathrooms. Adds a 5W allowance for night lights that recognizes the practical current design application of guest room bathroom night light use but at a reasonable low level</ENT>
+                        <ENT>Minorâ(adds additional lighting allowance).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">48</ENT>
+                        <ENT>Ax</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Expands requirements for Kitchen Exhaust Systems (formerly Kitc8.4.1hen Hoods). Includes addition of definitions for transfer air, replacement air, and makeup air. Add Table 6.5.7.1.3 defining the maximum exhaust flow rate through various hood types (CFM/Linear Foot of Hood Length). Include provisions for hoods with flows greater than 5,000 CFM. Require performance testing to evaluate design airflow rates and demonstrate capture and containment performance</ENT>
+                        <ENT>Minor + (more stringent kitchen exhaust requirements).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">49</ENT>
+                        <ENT>Ay</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Change that requires users to identify spaces by function</ENT>
+                        <ENT>Minor + (requires users to use proper LPDs).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">50</ENT>
+                        <ENT>Az</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Adds requirements for lighting controls to be functionally tested to ensure proper use and appropriate energy savings</ENT>
+                        <ENT>Minor + (requires testing of lighting systems).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">51</ENT>
+                        <ENT>Ba</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Allows a system performance option that allows for compensating for the insulating value of the piping while maintaining the same net thermal requirements</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">52</ENT>
+                        <ENT>Bc</ENT>
+                        <ENT>5. Building Envelope</ENT>
+                        <ENT>Clarifies that the requirements in Section 5.5.4.2.3 are also specified for unconditioned spaces</ENT>
+                        <ENT>0 (clarification only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">53</ENT>
+                        <ENT>Bd</ENT>
+                        <ENT>8. Power</ENT>
+                        <ENT>Removes emergency circuits not used for normal building operation from the requirements which will lead to increased compliance. Allows for an increased conformance/use of 90.1 standard by eliminating issues of impracticality of feeder drop requirements for emergency circuits and provides significant initial cost savings</ENT>
+                        <ENT>0 (removes emergency circuits from requirements, but only impact is when emergency circuits are activated).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">54</ENT>
+                        <ENT>Bf</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 4. Administration and Enforcement; 5. Building Envelope</ENT>
+                        <ENT>Modifies language to include performance requirements for air leakage of the opaque envelope</ENT>
+                        <ENT>Minor + (reduces air leakage allowances in opaque envelope).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64912"/>
+                        <ENT I="01">55</ENT>
+                        <ENT>Bg</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning; 12. Normative References</ENT>
+                        <ENT>Establishes a product class for water-to-water heat pumps. Intent is to recognize the technology in 90.1 by requiring minimum energy efficiency standards. Cooling Energy Efficiency Ratios (EERs) and heating COPs are proposed for products with cooling capacities below 135,000 Btu/h at standard rating conditions listed in International Organization for Standardization (ISO) standard 13256-2</ENT>
+                        <ENT>Minor + (adds requirement where no requirement previously existed).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">56</ENT>
+                        <ENT>Bh</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Provides requirements for multiple zone HVAC systems (that include simultaneous heating and cooling) to include controls that automatically raise the supply air-temperature when the spaces served are not at peak load conditions. Allows an override of the temperature reset if a maximum space humidity setpoint is exceeded. There is an exception from this requirement for warm and humid climate zones 1a, 2a, and 3a</ENT>
+                        <ENT>Major + (requires supply air temperature reset for non-peak conditions).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">57</ENT>
+                        <ENT>Bi</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Updates requirements for piping insulation, including incorporation of new 90.1 SPPC economic criteria used in developing standard requirements. Adds footnotes to address constrained locations and clarify requirements for direct buried piping</ENT>
+                        <ENT>Minor + (reduced piping heat loss/gain).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">58</ENT>
+                        <ENT>Bj</ENT>
+                        <ENT>Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Adds an exception within Appendix G that allows users to claim energy cost savings credit for the increased ventilation effectiveness of certain HVAC system designs</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">59</ENT>
+                        <ENT>Bk</ENT>
+                        <ENT>3. Definitions, Abbreviations and Acronyms; and 10. Other Equipment</ENT>
+                        <ENT>Includes the minimum efficiency requirements for both Subtype I and Subtype II motors as well as clarifies what specific motor types these requirements apply to</ENT>
+                        <ENT>0 (clarification only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">60</ENT>
+                        <ENT>Bl</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Corrects the intent of the standard to not exempt all chillers with secondary coolants for freeze protection from coverage by Table 6.8.1C and removes ambiguity. Changes footnote a to Table 6.8.1C in recognition of lower practical scope limits for the lower limit introduced in Addendum M for centrifugal chillers</ENT>
+                        <ENT>Minor + (removes exemption for some chillers).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">61</ENT>
+                        <ENT>Bm</ENT>
+                        <ENT>5. Building Envelope</ENT>
+                        <ENT>Coordinates terminology for visible transmittance with NFRC 200</ENT>
+                        <ENT>0 (terminology only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">62</ENT>
+                        <ENT>Bn</ENT>
+                        <ENT>5. Building Envelope; 11. Energy Cost Budget Method</ENT>
+                        <ENT>Limits use of poorly oriented fenestrationâcompliance shown by having more south-facing than west-facing fenestration. Provides exceptions for retail glass and buildings potentially shaded from the south or west. Exception also provided for certain additions and alterations</ENT>
+                        <ENT>Minor + (limits poor fenestration orientation).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">63</ENT>
+                        <ENT>Bo</ENT>
+                        <ENT>Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Effort to keep requirements of Section 11 and Appendix G consistent with other addenda. Makes changes related to Addenda E, S, and U</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">64</ENT>
+                        <ENT>Bp</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Allows the use of control that provides automatic 50% auto on with the capability to manually activate the remaining 50% and has full auto-off</ENT>
+                        <ENT>Minor + (allows use of additional energy saving control strategy).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">65</ENT>
+                        <ENT>Bq</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Retail lighting additional allowance levels reduced</ENT>
+                        <ENT>Minor + (lower retail lighting energy).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">66</ENT>
+                        <ENT>Br</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Adds an exterior zone 0 to cover very low light requirement areas</ENT>
+                        <ENT>Minor + (reduced exterior lighting energy).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">67</ENT>
+                        <ENT>Bs</ENT>
+                        <ENT>8. Power</ENT>
+                        <ENT>Adds requirements to provide a means for non-critical receptacle loads to be automatically controlled based on occupancy or scheduling without additional individual desktop or similar controllers</ENT>
+                        <ENT>Minor + (reduces energy use during unoccupied periods).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64913"/>
+                        <ENT I="01">68</ENT>
+                        <ENT>Bt</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Modifies equation for determining the performance adjustment factor for chillers under nonstandard conditions. Adds labeling requirements for chillers to make compliance determinations simpler</ENT>
+                        <ENT>Minor + (chillers that were previously exempt are no longer exempt).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">69</ENT>
+                        <ENT>Bu</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; and 6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Modifies and adds to requirements for computer rooms</ENT>
+                        <ENT>Major + (adds efficiency requirements for data centers).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">70</ENT>
+                        <ENT>Bv</ENT>
+                        <ENT>Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Effort to keep requirements of Section 11 and Appendix G consistent with other addenda to 90.1. This addendum includes changes to Section 11 and Appendix G due to Addendum Y, AJ, BK, and AX</ENT>
+                        <ENT>0 (alternative compliance paths).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">71</ENT>
+                        <ENT>Bw</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Amends minimum energy efficiency requirements for standard-size package terminal equipment to be consistent with the new federal standards</ENT>
+                        <ENT>0 (implements existing Federal standards).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">72</ENT>
+                        <ENT>Bx</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Supplements changes made in addendums H and AS. Attempts to bring into alignment requirements of ASHRAE 90.1 and ASHRAE 62.1. Limits the reheat supply air temperature from ceiling supply air devices to achieve better room air distribution and reduce short-circuiting of air into ceiling return air inlets. Promotes alternative methods of heating perimeter spaces with high heat losses other than use of a VAV box with terminal reheat</ENT>
+                        <ENT>Minor + (limits reheat supply air temperatures).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">73</ENT>
+                        <ENT>By</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 9. Lighting</ENT>
+                        <ENT>Revision represents a complete review, update, correction, and restructuring of the modeling and calculation basis for the space type and resulting whole building type lighting power densities</ENT>
+                        <ENT>Major + (lowered lighting power densities).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">74</ENT>
+                        <ENT>Ca</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Closes a loophole in the fan power allowances for single zone variable air volume (VAV) systems</ENT>
+                        <ENT>Minor + (removes fan power allowance for VAV systems without terminal units).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">75</ENT>
+                        <ENT>Cb</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Adds requirement for simple systems to meet prescriptive outdoor air damper requirements</ENT>
+                        <ENT>Major + (expansion of automatic damper requirements).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl">Allows backdraft dampers only for exhaust and relief dampers in buildings less than 3 stories in height. Requires backdraft dampers on outdoor air intakes to be protected from wind limiting windblown infiltration through the damper.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl">Moves climate zone 5a to the category of climates that require low leak dampers. Corrects a mistake in Table 6.4.3.4.4 Reformats Table 6.4.3.4.4 for clarity.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">76</ENT>
+                        <ENT>Cc</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Corrects a mistake in the way 8â³ pipe was analyzed</ENT>
+                        <ENT>Minorâ(increases allowable flow rate in 8â³ pipe).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">77</ENT>
+                        <ENT>Cd</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Additions to (1) Strengthen language to actually require exterior control rather than just require the control capability, (2) add bi-level control for general all-night applications such as parking lots to reduce lighting when not needed, and (3) add control for faÃ§ade and landscape lighting not needed after midnight</ENT>
+                        <ENT>Major + (requires control of exterior lightingâsavings during night when lights not needed).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">78</ENT>
+                        <ENT>Ce</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Adds requirements for multilevel control capability (bi-level switching) in all spaces except those specifically exempted</ENT>
+                        <ENT>0 (manual control requirement).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">79</ENT>
+                        <ENT>Cf</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Adds requirements for automatic reduction of stairway lighting within 30 minutes of occupants exiting the zone</ENT>
+                        <ENT>Minor + (energy savings through use of controls in stairways).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64914"/>
+                        <ENT I="01">80</ENT>
+                        <ENT>Ch</ENT>
+                        <ENT>11. Energy Cost Budget Method; Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Clarifies baseline minimum setpoints for fan-powered boxes and VAV reheat boxes. Modifies exceptions to: remove exception originally intended for hospitals and laboratory type spaces, clarify that lab systems with greater than 5000 cfm of exhaust air use a single VAV baseline system; and add exception to the 50% lab VAV minimum airflow to address minimum ventilation requirements lab designers follow to meet codes and accreditation standards</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">81</ENT>
+                        <ENT>Ck</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Expands zone-level demand controlled ventilation to include various forms of system level strategies. It is being added to the prescriptive section, so that it could be traded off using the Energy Cost Budget (ECB) method</ENT>
+                        <ENT>Minor + (expands automatic zone reset in multizone systems).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">82</ENT>
+                        <ENT>Cl</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 5. Building Envelope</ENT>
+                        <ENT>Clarifies how to interpret the use of dynamic glazing which are designed to be able to vary a performance property such as Solar Heat Gain Coefficient (SHGC), rather than having just a single value</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">83</ENT>
+                        <ENT>Cn</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Adds two versions of a combined advanced control to the control incentives table (9.6.2). These control system combinations involve personal workstation control and work-station-specific occupancy sensors for open office applications</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">84</ENT>
+                        <ENT>Co</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>This proposal makes three amendments to Table 6.8.1A. First, it updates EER and IEER values for all condensing units and water and evaporatively cooled air conditioners with cooling capacities greater than 65,000 Btu/h. Second, the proposal establishes a separate product class for evaporatively cooled air conditioners with different energy efficiency standards. Third, the proposal replaces the IPLV descriptor for condensing units with the new IEER metric and amends the EERs with more stringent values</ENT>
+                        <ENT>Minor + (improves efficiency of minor market products).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">85</ENT>
+                        <ENT>Cp</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Establishes efficiency requirements for Variable Refrigerant Flow (VRF) air conditioners and heat pumps including heat pumps that use a water source for heat rejection</ENT>
+                        <ENT>0 (not more stringent than common practice).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">86</ENT>
+                        <ENT>Cq</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning; Informative Appendix E. Informative References</ENT>
+                        <ENT>Addendum is based on economic analysis using the current scalar value. Nearly all classes are economically justified at seal class A, allowing for the removal of two tables</ENT>
+                        <ENT>Minor + (reduced duct leakage).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">87</ENT>
+                        <ENT>Cr</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 11. Energy Cost Budget Method and Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Modifies definition of unmet load hour and adds definition for temperature control throttling range. Requires that both baseline and proposed unmet hours not exceed 300. Removes language allowing modification of system coil capacities to reduce unmet hours as needed</ENT>
+                        <ENT>0 (alternative compliance paths).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">88</ENT>
+                        <ENT>Cs</ENT>
+                        <ENT>8. Power</ENT>
+                        <ENT>Modifies automatic receptacle control requirements and exemptions to eliminate potential practical application issues</ENT>
+                        <ENT>Major+ (minimizes exceptions to switched receptacle requirement.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">89</ENT>
+                        <ENT>Ct</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Reduces the area threshold where side daylighting requires daylight sensor control down to 250 square feet</ENT>
+                        <ENT>Minor + (reduce area requirement for occupancy sensors).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">90</ENT>
+                        <ENT>Cv</ENT>
+                        <ENT>10. Other Equipment</ENT>
+                        <ENT>Adds requirements for service water pressure booster systems</ENT>
+                        <ENT>Minor + (adds requirement s for service water pressure booster systems).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64915"/>
+                        <ENT I="01">91</ENT>
+                        <ENT>Cw</ENT>
+                        <ENT>11. Energy Cost Budget Method</ENT>
+                        <ENT>Revises the Energy Cost Budget for service hot water heaters. Corrects contradiction with section 11.32(b). Provides user instruction for situations where a certain type of service hot water system is not listed in Table 7.8</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">92</ENT>
+                        <ENT>Cy</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Makes several revisions to the economizer requirements in section 6.5.1 and 6.3.2. Updates Table 6.3.2 which allows for the elimination of economizers through the use of higher efficiency HVAC equipment</ENT>
+                        <ENT>Major + (expands use of economizers).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">93</ENT>
+                        <ENT>Cz</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Incorporates bi-level control for parking garages to reduce energy waste during unoccupied periods</ENT>
+                        <ENT>Minor + (reduced parking garage lighting).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">94</ENT>
+                        <ENT>da</ENT>
+                        <ENT>Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Establishes that an Appendix G baseline shall be based on the minimum ventilation requirements required by local codes or a rating authority and not the proposed design ventilation rates</ENT>
+                        <ENT>0 (performance rating method).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">95</ENT>
+                        <ENT>db</ENT>
+                        <ENT>Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>This addendum modifies the design air flow rates for laboratory systems in the baseline building in Appendix G</ENT>
+                        <ENT>0 (performance rating method).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">96</ENT>
+                        <ENT>dc</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Removes information related to tandem wiring of lighting</ENT>
+                        <ENT>Minorâ(tandem wiring no longer used in practiceâpossible small increase in energy usage).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">97</ENT>
+                        <ENT>dd</ENT>
+                        <ENT>5. Building Envelope; and 9. Lighting</ENT>
+                        <ENT>Reduces the area threshold where skylights are required to be designed into building spaces down to 5000 square feet and similarly reduces the threshold where daylighting controls must be applied to 900 square feet</ENT>
+                        <ENT>Major + (requires daylighting controls in more spaces).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">98</ENT>
+                        <ENT>de</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Splits the âgeneric lobbyâ from common elevator lobbies and lighting power densities were adjusted to reflect specific space needs. Also removes the fitness center audience seating because it's considered a space type that was considered not used and potentially confusing.</ENT>
+                        <ENT>0 (allows more lighting power in lobbies but less in elevator lobbies).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">99</ENT>
+                        <ENT>df</ENT>
+                        <ENT>10. Other Equipment</ENT>
+                        <ENT>Adds requirements that address excess energy use in elevators due to ventilation fans and cab lighting</ENT>
+                        <ENT>Minor + (small lighting and ventilation savings).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">100</ENT>
+                        <ENT>dg</ENT>
+                        <ENT>3. Definitions, Acronyms, and Abbreviations; and Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>Adds a definition for the term âfield-fabricated fenestrationâ used in section 5.4.3.2 consistent with Interpretation IC 90.1-2007-01 and similar language in California's Title 24</ENT>
+                        <ENT>0 (clarification of definition).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">101</ENT>
+                        <ENT>di</ENT>
+                        <ENT>3. Definitions, Abbreviations, and Acronyms; 6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Adds requirements for enclosed parking garage ventilation</ENT>
+                        <ENT>Minor + (reduced parking garage ventilation energy).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">102</ENT>
+                        <ENT>dj</ENT>
+                        <ENT>6. Heating, Ventilating, and Air Conditioning</ENT>
+                        <ENT>Limits the fan energy allowance for energy recovery devices to values that approximate the results of the economic analysis, with some allowance to permit adequate pressure drop for products near the minimum recovery effectiveness of 50%. A separate allowance is also created for coil runaround loop systems</ENT>
+                        <ENT>Minor + (limits fan energy allowance of energy recovery devices).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">103</ENT>
+                        <ENT>dk</ENT>
+                        <ENT>Normative Appendix C. Methodology for Building Envelope Trade-Off Option in Subsection 5.6</ENT>
+                        <ENT>Adds clarity and instruction to the users of Appendix C, the envelope trade off option, for new requirements that were added in addendums AL, BC, and BN. AL required skylights and lighting controls in certain occupancies. BC required skylights and lighting controls in unconditioned semi-heated spaces. BN dealt with orientation specific SHGC requirements.</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="64916"/>
+                        <ENT I="01">104</ENT>
+                        <ENT>dl</ENT>
+                        <ENT>Normative Appendix C. Methodology for Building Envelope Trade-Off Option in Subsection 5.6</ENT>
+                        <ENT>Gives instruction to the users of Appendix C on how to model the base envelope design and the proposed envelope design on how to comply with the cool roof provisions of Section 5</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">105</ENT>
+                        <ENT>dn</ENT>
+                        <ENT>Normative Appendix G. Performance Rating Method</ENT>
+                        <ENT>This addendum adds system types 9 and 10 for heated only storage spaces and associated changes</ENT>
+                        <ENT>0 (performance rating method).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">106</ENT>
+                        <ENT>do</ENT>
+                        <ENT>4. Administration and Enforcement; 9. Lighting</ENT>
+                        <ENT>Establishes the goals and requirements of the lighting system including controls and ensures that owners are provided all the information necessary to best use and maintain lighting systems </ENT>
+                        <ENT>0 (documentation only).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">107</ENT>
+                        <ENT>dp</ENT>
+                        <ENT>12. Normative References</ENT>
+                        <ENT>Updates the references in 90.1 to reflect the current edition of the cited standard. Substantive changes in the referenced documents did not affect the requirements in 90.1 or change the stringency of the requirements of 90.1</ENT>
+                        <ENT>0 (updates references).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">108</ENT>
+                        <ENT>dq</ENT>
+                        <ENT>Normative Appendix C. Methodology for Building Envelope Trade-Off Option in Subsection 5.6</ENT>
+                        <ENT>Modifies the calculations found in Appendix C in order to reflect modifications to the modeling assumptions</ENT>
+                        <ENT>0 (alternative compliance path).</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">109</ENT>
+                        <ENT>dr</ENT>
+                        <ENT>9. Lighting</ENT>
+                        <ENT>Original purpose of 9.4.4 was to limit the use of inefficient lighting sources for high wattage applications when there was not a comprehensive table of lighting power density limits. With such a table now in place, section 9.4.4 is no longer necessary</ENT>
+                        <ENT>0 (editorial only).</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>Table 2 is an overall summary of the addenda in terms of their impact in the qualitative analysis. Overall, the sum of the major positive and minor positive addenda (56) greatly overwhelms the number of minor negative addenda (6), leading to the conclusion that the overall impact of the addenda on the standard is positive.</P>
+                <GPOTABLE COLS="6" OPTS="L2,i1" CDEF="12C,12C,12C,12C,12C,12C">
+                    <TTITLE>Table 2âOverall Summary of Addenda Impact in Qualitative Analysis</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Major negative</CHED>
+                        <CHED H="1">Minor negative</CHED>
+                        <CHED H="1">Neutral</CHED>
+                        <CHED H="1">Minor positive</CHED>
+                        <CHED H="1">Major positive</CHED>
+                        <CHED H="1">Total</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">None</ENT>
+                        <ENT>6</ENT>
+                        <ENT>47</ENT>
+                        <ENT>37</ENT>
+                        <ENT>19</ENT>
+                        <ENT>109</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>The 6 negative impacts on energy efficiency include:</P>
+                <P>1. Addendum bâallows larger than minimum ventilation rates if required by other codes.</P>
+                <P>2. Addendum câallows an exception to dehumidification for controls for vivariums.</P>
+                <P>3. Addendum pâincreases allowable pressure drop in laboratory exhaust systems.</P>
+                <P>4. Addendum awâadds an additional lighting allowance for nightlights in hotel/motel bathrooms.</P>
+                <P>5. Addendum ccâallows higher flow rates in 8â piping.</P>
+                <P>6. Addendum dcâeliminates tandem wiring requirement.</P>
+                <P>None of these negative impacts are judged to be significant. Addendum b simply acknowledges that Standard 90.1 does not address ventilation rates that are required in other codes. Addendum c simply adds vivariums (spaces used for plant or animal growth) to the list of spaces that may have more stringent humidity requirements than normal spaces. Addendum p increases allowable pressure drop in laboratory exhaust systems and addresses some noted shortcomings in the previous version of Standard 90.1 with regard to fume hoods. Addendum aw acknowledges the common practice of the use of bathroom lights as ânightlightsâ in hotel/motel guest rooms. Addendum cc corrects a calculation error in the previous version of Standard 90.1. Addendum dc eliminates a tandem wiring requirement for ballasts that is no longer used with the widespread use of electronic ballasts.</P>
+                <P>The 19 major positive impacts on energy efficiency include:</P>
+                <P>1. Addendum dârequires daylighting controls under skylights and commissioning of daylighting controls.</P>
+                <P>2. Addendum eârequires increased use of heat recovery.</P>
+                <P>3. Addendum fârequires cool roofs in hot climates.</P>
+                <P>4. Addendum iâlower illuminance requirements in certain exterior zones.</P>
+                <P>5. Addendum mâupdates chiller efficiency requirements.</P>
+                <P>6. Addendum nâextends VAV fan control requirements.</P>
+                <P>7. Addendum xâadds occupancy sensor requirements for many specific applications.</P>
+                <P>
+                    8. Addendum abâadds daylighting control requirements for side-lighted spaces.
+                    <PRTPAGE P="64917"/>
+                </P>
+                <P>9. Addendum alârequires skylights and daylighting in some building types.</P>
+                <P>10. Addendum apâreduces ventilation energy.</P>
+                <P>11. Addendum avâexpansion of new lighting power densities to more retrofits.</P>
+                <P>12. Addendum bhârequires supply air temperature reset for non-peak conditions.</P>
+                <P>13. Addendum buâadds efficiency requirements for data centers.</P>
+                <P>14. Addendum byârequired lower lighting power densities.</P>
+                <P>15. Addendum cbâexpands automatic damper requirements.</P>
+                <P>16. Addendum cdârequires control of exterior lighting.</P>
+                <P>17. Addendum csâminimizes exceptions to switched receptacle requirement.</P>
+                <P>18. Addendum cyâexpands use of economizers.</P>
+                <P>19. Addendum ddârequires daylighting controls in more spaces.</P>
+                <P>Many of these âmajor positiveâ addenda are self descriptive. The high-level themes of the major positive addenda tend to be as follows:</P>
+                <P>â¢ Better lighting, daylighting, and controls (d, i, x, ab, al, av, by, cd, cs, and dd)</P>
+                <P>â¢ Better mechanical systems and application to more systems (e, m, n, ap, bh, bu, cb, and cy).</P>
+                <P>â¢ Better building envelope (f).</P>
+                <P>There are an additional 37 addenda that have minor positive impacts. See the complete qualitative analysis for additional detail.</P>
+                <HD SOURCE="HD2">B. Quantitative Analysis</HD>
+                <HD SOURCE="HD3">1. Discussion of Whole Building Energy Analysis</HD>
+                <P>The quantitative comparison of Standard 90.1-2010 was carried out using whole-building energy simulations of buildings built to both Standard 90.1-2007 and Standard 90.1-2010. DOE simulated 16 representative building types in 15 U.S. climate locations, each climate location selected to be representative of one of the 15 U.S. climate zones used in the definition of building energy code criteria in Standard 90.1-2007 and Standard 90.1-2010. The simulations were developed using specific building prototypes based on the DOE commercial reference building models developed for DOE's Net-Zero Energy Commercial Building Initiative. (These reference building prototypes were formerly known as Benchmark building models). No changes were made to the final quantitative analysis from the preliminary quantitative analysis.</P>
+                <P>For each building prototype simulated in each climate the energy use intensities (EUI) by fuel type and by end-use were extracted. These EUIs by fuel type for each building were then weighted to national average EUI figures using weighting factors based on the relative square footage of construction represented by that prototype in each of the 15 climate regions. These weighting factors were based on commercial building construction starts data for a five year period from 2003 to 2007. The source of data was the McGraw-Hill Construction Projects Starts Database (MHC). The MHC database captures over 90% of new commercial construction in any given year and the collection process is independently monitored to ensure the coverage of most of the commercial construction in the U.S. The data is used by other federal agencies such as the U.S. Census Bureau, the Federal Reserve and the U.S. Department of Health and Human Services (HHS) for characterizing building construction in the U.S. For the purpose of developing construction weighting factors, the strength of this data lies in the number of samples, the characterization of each sample in terms of building end-use and size and number of stories, the frequency of data collection, and the detailed location data. In addition, the MHC database can be used to identify multifamily residential buildings that would be covered under ASHRAE Standard 90.1.</P>
+                <P>
+                    DOE's prototypes reflect the use of two fuel types, electricity and natural gas. Using the weighting factors, DOE was able to establish an estimate of the relative reduction in building energy use, as determined by a calculated reduction in weighted average site EUI for each building prototype. Site energy refers to the energy consumed at the building site. In a corresponding fashion, DOE was also able to calculate a reduction in terms of weighted average primary EUI and in terms of weighted average energy cost intensity (ECI) in $/sq. ft. of building floorspace. Primary energy as used here refers to the energy required to generate and deliver energy to the site. To estimate primary energy, all electrical energy use intensities were first converted to primary energy using a factor of 10,918 Btus primary energy per kWh (based on the 2010 estimated values reported in Table 2 of the EIA 2010 Annual Energy Outlook, release date December 2009, available at 
+                    <E T="03">http://www.eia.doe.gov/oiaf/archive/aeo10/aeoref_tab.html</E>
+                    ).
+                </P>
+                <P>The conversion factor of 10,918 was calculated from Table 2 by summing the commercial electricity value of 4.62 quads with the electricity losses value of 10.17 quads and then dividing that sum by the commercial value. ((4.62 + 10.17)/4.62 = 3.2) This yields an electricity ratio of 3.2 for converting how much primary (source) electricity is required per unit of site required electricity. This ratio of 3.2 is then multiplied by 3,412 Btu per kWh, producing a value of 10,918 Btus primary energy per kWh of site energy. Natural Gas EUIs in the prototypes were converted to primary energy using a factor of 1.090 Btus primary energy per Btu of site natural gas use (based on the 2010 national energy use estimated shown in Table 2 of the AEO 2010). This natural gas source energy conversion factor was calculated by dividing the natural gas subtotal of 23.15 quads (sum of all natural gas usage, including usage for natural gas field production, leases, plant fuel, and pipeline (compression) supply) by the delivered natural gas total of 21.23 quads (sum of four primary energy sectors (residential, commercial, industrial, and transportation).</P>
+                <HD SOURCE="HD3">a. Calculation of Energy Cost Index</HD>
+                <P>
+                    To estimate the reduction in energy cost index, DOE relied on national average commercial building energy prices of $0.1026/kWh of electricity and $10.06 per 1000 cubic feet ($0.9796/therm) of natural gas, based on EIA statistics for 2009 (the last complete year of data available in Table 5B Commercial Average Monthly Bill by Census Division, and Stateâavailable from EIA at 
+                    <E T="03">http://www.eia.gov/cneaf/electricity/esr/table5_b.html</E>
+                     and for 2009 (the last complete year of data available from the EIA Natural Gas Annual Summary for the commercial sector available at 
+                    <E T="03">http://tonto.eia.doe.gov/dnav/ng/ng_pri_sum_dcu_nus_a.htm.</E>
+                    ) DOE recognizes that actual fuel costs will vary somewhat by building type within a region, and will in fact vary more across regions. Nevertheless, DOE believes that the use of simple national average figures illustrates whether there will be energy cost savings sufficient for the purposes of the DOE determination.
+                </P>
+                <HD SOURCE="HD3">b. Calculation of Energy Use Intensities</HD>
+                <P>
+                    Energy use intensities developed for each representative building type were weighted by total national square footage of each representative building type to provide an estimate of the difference between the national energy use in buildings constructed to the 2007 and 2010 editions of the Standard 90.1. Note that the 16 buildings types used in the final determination reflect approximately 80% of the total square footage of commercial construction including multi-family buildings greater 
+                    <PRTPAGE P="64918"/>
+                    than three stories covered under ASHRAE Standard 90.1.
+                </P>
+                <P>Note that only differences between new building requirements were considered in this quantitative analysis. Changes to requirements in the 2010 edition that pertain to existing buildings only are addressed in the detailed textual analysis only.</P>
+                <HD SOURCE="HD3">c. Application to Additions and Renovations</HD>
+                <P>Both the 2010 and 2007 editions address additions and renovations to existing buildings. Since DOE has preliminarily found insufficient data to characterize renovations in terms of what energy using features are utilized, DOE has not determined that the results obtained from the whole building prototypes used would reasonably reflect the EUI benefits that would accrue to renovated floor space. For this reason, renovated floor space is not included in the DOE weighting factors. Building additions on the other hand are believed to be substantially equivalent to new construction. For this reason, FW Dodge construction data on additions has been incorporated into the overall weighting factors. Floor space additions reflect approximately 13 percent of new construction floor space based on data captured in the FW Dodge dataset.</P>
+                <HD SOURCE="HD3">d. Ventilation Rate Assumptions</HD>
+                <P>
+                    The final quantitative analysis assumed the same base ventilation level for buildings constructed to Standard 90.1-2007 and Standard 90.1-2010. Neither edition of Standard 90.1 specifies ventilation rates for commercial building construction. ASHRAE has a separate ventilation standard for commercial construction, ASHRAE Standard 62.1 
+                    <E T="03"> Ventilation for Acceptable Indoor Air Quality.</E>
+                     This standard is cited only in a few exceptions within the mechanical sections of either Standard 90.1-2007 or Standard 90.1-2010, with each edition referencing a different version of Standard 62.1. Standard 90.1-2007 lists Standard 62.1-2004 in its table of references. Standard 90.1-2010 lists Standard 62.1-2007 in its table of references.
+                </P>
+                <P>Ventilation rates can have significant impact on the energy use of commercial buildings. States and local jurisdictions typically specify the ventilation requirements for buildings within their respective building codes and can set these requirements independent of the energy code requirements. Because of the limited reference to ventilation within either the 2007 or the 2010 edition, the requirements that States certify that their energy codes meet or exceed the 2010 edition of Standard 90.1 would in general not require modification of State ventilation code requirements. However, in many cases, ventilation requirements can be traced back to requirements found in one or another version of Standard 62.1. For the purpose of the quantitative analysis, DOE assumed ventilation rates for the simulation prototypes based on the requirements of Standard 62.1-2004.</P>
+                <HD SOURCE="HD3">2. Results of Whole Building Energy Analysis</HD>
+                <P>The final quantitative analysis of the energy consumption of buildings built to Standard 90.1-2010, as compared with buildings built to Standard 90.1-2007, indicates national primary energy savings of approximately 18.2 percent of commercial building energy consumption based on the weighting factors for the 16 buildings simulated. Site energy savings are estimated to be approximately 18.5 percent. Using national average fuel prices for electricity and natural gas DOE estimated a reduction in energy expenditures of 18.2 percent would result from the use of Standard 90.1-2010 as compared to Standard 90.1-2007. As identified previously, these estimated savings figures do not include energy savings from equipment or appliance standards that would be in place due to Federal requirements regardless of their presence in the Standard 90.1-2010.</P>
+                <P>
+                    Tables 3 and 4 show the aggregated energy use and associated energy savings by building type for the 16 building prototypes analyzed and on an aggregated national basis for the 2007 and 2010 editions, respectively. For each edition of Standard 90.1, the national building floor area weight used to calculate the national impact on building EUI or building ECI is presented. National-average site energy use intensities ranges from over five hundred Btu per square foot annually for the Fast Food prototype to approximately 20 Btu per square foot annually for the Non-refrigerated Warehouse type. Source energy use intensities and building energy cost intensities ($/sf-yr) are also presented. Further details on the final quantitative analysis can be found in the full final quantitative analysis report available at 
+                    <E T="03">http://www.energycodes.gov/status/determinations_com.stm.</E>
+                </P>
+                <GPOTABLE COLS="6" OPTS="L2,i1" CDEF="s50,r50,10.2,12,12,12">
+                    <TTITLE>Table 3âEstimated Energy Use Intensity by Building Typeâ2007 Edition</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Building type</CHED>
+                        <CHED H="1">Building prototype</CHED>
+                        <CHED H="1">
+                            Building type floor area weight
+                            <LI>%</LI>
+                        </CHED>
+                        <CHED H="1">Whole building EUI data for building population</CHED>
+                        <CHED H="2">
+                            Site EUI
+                            <LI>kBtu/ft2-yr</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Source EUI
+                            <LI>kBtu/ft2-yr</LI>
+                        </CHED>
+                        <CHED H="2">
+                            ECI
+                            <LI>
+                                <E T="03">
+                                    $/ft
+                                    <SU>2</SU>
+                                    -yr
+                                </E>
+                            </LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Office</ENT>
+                        <ENT>Small Office</ENT>
+                        <ENT>5.61</ENT>
+                        <ENT>39.1</ENT>
+                        <ENT>118.4</ENT>
+                        <ENT>$1.11</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Medium Office</ENT>
+                        <ENT>6.05</ENT>
+                        <ENT>47.7</ENT>
+                        <ENT>140.6</ENT>
+                        <ENT>1.32</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Large Office</ENT>
+                        <ENT>3.33</ENT>
+                        <ENT>42.8</ENT>
+                        <ENT>123.3</ENT>
+                        <ENT>1.16</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Retail</ENT>
+                        <ENT>Stand-Alone Retail</ENT>
+                        <ENT>15.25</ENT>
+                        <ENT>65.0</ENT>
+                        <ENT>179.5</ENT>
+                        <ENT>1.69</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Strip Mall</ENT>
+                        <ENT>5.67</ENT>
+                        <ENT>68.3</ENT>
+                        <ENT>186.0</ENT>
+                        <ENT>1.75</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Education</ENT>
+                        <ENT>Primary School</ENT>
+                        <ENT>4.99</ENT>
+                        <ENT>63.4</ENT>
+                        <ENT>170.2</ENT>
+                        <ENT>1.60</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Secondary School</ENT>
+                        <ENT>10.36</ENT>
+                        <ENT>54.2</ENT>
+                        <ENT>149.7</ENT>
+                        <ENT>1.41</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Healthcare</ENT>
+                        <ENT>Outpatient Health Care</ENT>
+                        <ENT>4.37</ENT>
+                        <ENT>162.0</ENT>
+                        <ENT>438.0</ENT>
+                        <ENT>4.11</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Hospital</ENT>
+                        <ENT>3.45</ENT>
+                        <ENT>156.4</ENT>
+                        <ENT>374.9</ENT>
+                        <ENT>3.51</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Lodging</ENT>
+                        <ENT>Small Hotel</ENT>
+                        <ENT>1.72</ENT>
+                        <ENT>70.8</ENT>
+                        <ENT>179.4</ENT>
+                        <ENT>1.68</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Large Hotel</ENT>
+                        <ENT>4.95</ENT>
+                        <ENT>157.1</ENT>
+                        <ENT>315.8</ENT>
+                        <ENT>2.95</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Warehouse</ENT>
+                        <ENT>Non-Refrigerated Warehouse</ENT>
+                        <ENT>16.72</ENT>
+                        <ENT>24.2</ENT>
+                        <ENT>58.6</ENT>
+                        <ENT>0.55</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Food Service</ENT>
+                        <ENT>Fast-Food Restaurant</ENT>
+                        <ENT>0.59</ENT>
+                        <ENT>547.7</ENT>
+                        <ENT>1068.0</ENT>
+                        <ENT>9.98</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Sit-Down Restaurant</ENT>
+                        <ENT>0.66</ENT>
+                        <ENT>382.4</ENT>
+                        <ENT>810.7</ENT>
+                        <ENT>7.59</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Apartment</ENT>
+                        <ENT>Mid-Rise Apartment</ENT>
+                        <ENT>7.32</ENT>
+                        <ENT>44.2</ENT>
+                        <ENT>123.7</ENT>
+                        <ENT>1.16</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>High-Rise Apartment</ENT>
+                        <ENT>8.97</ENT>
+                        <ENT>44.2</ENT>
+                        <ENT>129.3</ENT>
+                        <ENT>1.22</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National</ENT>
+                        <ENT/>
+                        <ENT>100</ENT>
+                        <ENT>67.5</ENT>
+                        <ENT>174.0</ENT>
+                        <ENT>1.63</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <PRTPAGE P="64919"/>
+                <GPOTABLE COLS="6" OPTS="L2,i1" CDEF="s50,r50,10.2,12,12,12">
+                    <TTITLE>Table 4âEstimated Energy Use Intensity by Building Typeâ2010 Edition</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Building type</CHED>
+                        <CHED H="1">Building prototype</CHED>
+                        <CHED H="1">
+                            Building type floor area weight
+                            <LI>%</LI>
+                        </CHED>
+                        <CHED H="1">Whole building EUI data for building population</CHED>
+                        <CHED H="2">
+                            Site EUI
+                            <LI>kBtu/ft2-yr</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Source EUI
+                            <LI>kBtu/ft2-yr</LI>
+                        </CHED>
+                        <CHED H="2">
+                            ECI
+                            <LI>
+                                <E T="03">
+                                    $/ft
+                                    <SU>2</SU>
+                                    -yr
+                                </E>
+                            </LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Office</ENT>
+                        <ENT>Small Office</ENT>
+                        <ENT>5.61</ENT>
+                        <ENT>32.8</ENT>
+                        <ENT>99.0</ENT>
+                        <ENT>$0.93</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Medium Office</ENT>
+                        <ENT>6.05</ENT>
+                        <ENT>37.1</ENT>
+                        <ENT>106.3</ENT>
+                        <ENT>1.00</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Large Office</ENT>
+                        <ENT>3.33</ENT>
+                        <ENT>33.3</ENT>
+                        <ENT>96.8</ENT>
+                        <ENT>0.91</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Retail</ENT>
+                        <ENT>Stand-Alone Retail</ENT>
+                        <ENT>15.25</ENT>
+                        <ENT>48.0</ENT>
+                        <ENT>135.1</ENT>
+                        <ENT>1.27</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Strip Mall</ENT>
+                        <ENT>5.67</ENT>
+                        <ENT>56.9</ENT>
+                        <ENT>150.9</ENT>
+                        <ENT>1.42</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Education</ENT>
+                        <ENT>Primary School</ENT>
+                        <ENT>4.99</ENT>
+                        <ENT>48.0</ENT>
+                        <ENT>134.8</ENT>
+                        <ENT>1.27</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Secondary School</ENT>
+                        <ENT>10.36</ENT>
+                        <ENT>39.8</ENT>
+                        <ENT>114.9</ENT>
+                        <ENT>1.08</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Healthcare</ENT>
+                        <ENT>Outpatient Health Care</ENT>
+                        <ENT>4.37</ENT>
+                        <ENT>125.4</ENT>
+                        <ENT>340.9</ENT>
+                        <ENT>3.20</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Hospital</ENT>
+                        <ENT>3.45</ENT>
+                        <ENT>118.1</ENT>
+                        <ENT>299.5</ENT>
+                        <ENT>2.81</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Lodging</ENT>
+                        <ENT>Small Hotel</ENT>
+                        <ENT>1.72</ENT>
+                        <ENT>66.6</ENT>
+                        <ENT>165.7</ENT>
+                        <ENT>1.55</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Large Hotel</ENT>
+                        <ENT>4.95</ENT>
+                        <ENT>139.8</ENT>
+                        <ENT>282.5</ENT>
+                        <ENT>2.64</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Warehouse</ENT>
+                        <ENT>Non-Refrigerated Warehouse</ENT>
+                        <ENT>16.72</ENT>
+                        <ENT>19.2</ENT>
+                        <ENT>45.0</ENT>
+                        <ENT>0.42</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Food Service</ENT>
+                        <ENT>Fast-Food Restaurant</ENT>
+                        <ENT>0.59</ENT>
+                        <ENT>519.9</ENT>
+                        <ENT>976.5</ENT>
+                        <ENT>9.12</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Sit-Down Restaurant</ENT>
+                        <ENT>0.66</ENT>
+                        <ENT>330.9</ENT>
+                        <ENT>654.1</ENT>
+                        <ENT>6.12</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Apartment</ENT>
+                        <ENT>Mid-Rise Apartment</ENT>
+                        <ENT>7.32</ENT>
+                        <ENT>41.2</ENT>
+                        <ENT>118.3</ENT>
+                        <ENT>1.11</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>High-Rise Apartment</ENT>
+                        <ENT>8.97</ENT>
+                        <ENT>41.0</ENT>
+                        <ENT>123.5</ENT>
+                        <ENT>1.16</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National</ENT>
+                        <ENT/>
+                        <ENT>100</ENT>
+                        <ENT>55.0</ENT>
+                        <ENT>142.4</ENT>
+                        <ENT>1.34</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>Table 5 presents the estimated percent energy savings (based on change in EUI) between the 2007 and 2010 editions. Overall, considering those differences that can be reasonably quantified, the 2010 edition is expected to increase the energy efficiency of commercial buildings. Numbers in Table 5 represent percent energy savings.</P>
+                <GPOTABLE COLS="6" OPTS="L2,i1" CDEF="s50,r50,10.2,12,12,12">
+                    <TTITLE>Table 5âEstimated Percent Energy Savings With 2010 Editionâby Building Type</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Building type</CHED>
+                        <CHED H="1">Building prototype</CHED>
+                        <CHED H="1">
+                            Building type floor area weight
+                            <LI>
+                                <E T="03">%</E>
+                            </LI>
+                        </CHED>
+                        <CHED H="1">
+                            Percent savings in whole building energy use
+                            <LI>intensity (%)</LI>
+                        </CHED>
+                        <CHED H="2">Site EUI</CHED>
+                        <CHED H="2">Source EUI</CHED>
+                        <CHED H="2">ECI </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Office</ENT>
+                        <ENT>Small Office</ENT>
+                        <ENT>5.61</ENT>
+                        <ENT>16.1</ENT>
+                        <ENT>16.4</ENT>
+                        <ENT>16.4</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Medium Office</ENT>
+                        <ENT>6.05</ENT>
+                        <ENT>22.1</ENT>
+                        <ENT>24.4</ENT>
+                        <ENT>24.4</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Large Office</ENT>
+                        <ENT>3.33</ENT>
+                        <ENT>22.3</ENT>
+                        <ENT>21.5</ENT>
+                        <ENT>21.5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Retail</ENT>
+                        <ENT>Stand-Alone Retail</ENT>
+                        <ENT>15.25</ENT>
+                        <ENT>26.1</ENT>
+                        <ENT>24.7</ENT>
+                        <ENT>24.7</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Strip Mall</ENT>
+                        <ENT>5.67</ENT>
+                        <ENT>16.8</ENT>
+                        <ENT>18.9</ENT>
+                        <ENT>18.9</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Education</ENT>
+                        <ENT>Primary School</ENT>
+                        <ENT>4.99</ENT>
+                        <ENT>24.2</ENT>
+                        <ENT>20.8</ENT>
+                        <ENT>20.8</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Secondary School</ENT>
+                        <ENT>10.36</ENT>
+                        <ENT>26.7</ENT>
+                        <ENT>23.3</ENT>
+                        <ENT>23.2</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Healthcare</ENT>
+                        <ENT>Outpatient Health Care</ENT>
+                        <ENT>4.37</ENT>
+                        <ENT>22.6</ENT>
+                        <ENT>22.2</ENT>
+                        <ENT>22.2</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Hospital</ENT>
+                        <ENT>3.45</ENT>
+                        <ENT>24.5</ENT>
+                        <ENT>20.1</ENT>
+                        <ENT>20.1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Lodging</ENT>
+                        <ENT>Small Hotel</ENT>
+                        <ENT>1.72</ENT>
+                        <ENT>5.9</ENT>
+                        <ENT>7.7</ENT>
+                        <ENT>7.7</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Large Hotel</ENT>
+                        <ENT>4.95</ENT>
+                        <ENT>11.0</ENT>
+                        <ENT>10.5</ENT>
+                        <ENT>10.5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Warehouse</ENT>
+                        <ENT>Non-Refrigerated Warehouse</ENT>
+                        <ENT>16.72</ENT>
+                        <ENT>20.7</ENT>
+                        <ENT>23.1</ENT>
+                        <ENT>23.1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Food Service</ENT>
+                        <ENT>Fast Food Restaurant</ENT>
+                        <ENT>0.59</ENT>
+                        <ENT>5.1</ENT>
+                        <ENT>8.6</ENT>
+                        <ENT>8.6</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>Sit-Down Restaurant</ENT>
+                        <ENT>0.66</ENT>
+                        <ENT>13.5</ENT>
+                        <ENT>19.3</ENT>
+                        <ENT>19.4</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Apartment</ENT>
+                        <ENT>Mid-Rise Apartment</ENT>
+                        <ENT>7.32</ENT>
+                        <ENT>6.8</ENT>
+                        <ENT>4.4</ENT>
+                        <ENT>4.4</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>High-Rise Apartment</ENT>
+                        <ENT>8.97</ENT>
+                        <ENT>7.2</ENT>
+                        <ENT>4.5</ENT>
+                        <ENT>4.5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National</ENT>
+                        <ENT/>
+                        <ENT>100</ENT>
+                        <ENT>18.5</ENT>
+                        <ENT>18.2</ENT>
+                        <ENT>18.2</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD2">C. Final Determination Statement</HD>
+                <P>DOE's review and evaluation indicates that there are significant differences between the 2007 edition and the 2010 edition. DOE's overall final conclusion is that the 2010 edition will improve the energy efficiency of commercial buildings.</P>
+                <P>However, DOE identified six changes in textual requirements that taken alone appear to represent a reduction in stringencies and could decrease energy efficiency. The six changes are:</P>
+                <P>â¢ Addendum b, which allows larger than minimum ventilation rates if required by other codes;</P>
+                <P>â¢ Addendum c, which allows an exception to dehumidification for controls for vivariums;</P>
+                <P>â¢ Addendum p, which increases allowable pressure drop in laboratory exhaust systems;</P>
+                <P>â¢ Addendum aw, which adds an additional lighting allowance for nightlights in hotel/motel bathrooms;</P>
+                <P>â¢ Addendum cc, which allows higher flow rates in 8â³ piping; and</P>
+                <P>â¢ Addendum dc, which eliminates tandem wiring requirements.</P>
+                <P>DOE believes that in these cases, the reduction in stringency was not considered a major impact. For the other addenda, DOE determined that the remaining addenda either represented no change in stringency, or indicated a positive change in stringency corresponding to improved efficiency. Overall, DOE concluded the changes in textual requirements and stringencies are âpositive,â in the sense that they would improve energy efficiency in commercial construction.</P>
+                <P>
+                    The quantitative analysis shows that for the 16 prototype buildings, a weighted average national improvement in new building efficiency of 16.5 percent, when considering source energy, and by 17.1 percent, when considering site energy.
+                    <PRTPAGE P="64920"/>
+                </P>
+                <P>As both the 2007 and 2010 editions cover existing buildings, to the extent that these standards are applied to existing buildings in retrofits or in new construction addition, the 2010 edition should improve the efficiency of the existing building stock.</P>
+                <P>DOE has, therefore, concluded that Standard 90.1-2010 receive an affirmative determination under Section 304(b) of ECPA.</P>
+                <HD SOURCE="HD1">III. Filing Certification Statements With DOE</HD>
+                <HD SOURCE="HD2">A. Review and Update</HD>
+                <P>Upon publication of this affirmative final determination, each State is required to review and update, as necessary, the provisions of its commercial building energy code to meet or exceed the energy efficiency provisions of the 2010 edition. (42 U.S.C. 6833(b)(2)(B)(i)) This action is required to be taken not later than two years from the date of publication of this notice of final determination, unless an extension is provided.</P>
+                <P>The DOE recognizes that some States do not have a State commercial building energy code or have a State code that does not apply to all commercial buildings. If local building energy codes regulate commercial building design and construction rather than a State code, the State must review and make all reasonable efforts to update as authorized those local codes to determine whether they meet or exceed the 2010 edition of Standard 90.1. States may base their certifications on reasonable actions by units of general purpose local government. Each such State must still review the information obtained from the local governments and gather any additional data and testimony for its own certification.</P>
+                <P>Note that the applicability of any State revisions to new or existing buildings would be governed by the State building codes. However, it is our understanding that generally, the revisions would not apply to existing buildings unless they are undergoing a change that requires a building permit.</P>
+                <P>States should be aware that the DOE considers high-rise (greater than three stories) multi-family residential buildings, hotel, motel, and other transient residential building types of any height as commercial buildings for energy code purposes. Consequently, commercial buildings, for the purposes of certification, would include high-rise (greater than three stories) multi-family residential buildings, hotel, motel, and other transient residential building types of any height.</P>
+                <HD SOURCE="HD2">B. Certification</HD>
+                <P>
+                    Section 304(b) of ECPA, as amended, requires each State to certify to the Secretary of Energy that it has reviewed and updated the provisions of its commercial building energy code regarding energy efficiency to meet or exceed the Standard 90.1-2010 edition. (42 U.S.C 6833(b)) Today's final determination is being published before the 2 year deadline to file a certification for the 2007 positive determination; therefore, a state may file just one certification to address both determinations. The certification must include a demonstration that the provisions of the State's commercial building energy code regarding energy efficiency meet or exceed Standard 90.1-2010. If a State intends to certify that its commercial building energy code already meets or exceeds the requirements of Standard 90.1-2010, the State should provide an explanation of the basis for this certification, 
+                    <E T="03">e.g.,</E>
+                     Standard 90.1-2010 is incorporated by reference in the State's building code regulations. The chief executive of the State (
+                    <E T="03">e.g.,</E>
+                     the Governor) or a designated State official, such as the Director of the State energy office, State code commission, utility commission, or equivalent State agency having primary responsibility for commercial building energy codes, is to provide the certification to the Secretary. Such a designated State official also is to provide the certifications regarding the codes of units of general purpose local government based on information provided by responsible local officials. Certifications are to be sent to the address provided in the 
+                    <E T="02">ADDRESSES</E>
+                     section.
+                </P>
+                <P>
+                    DOE does list the States that have filed certifications and those that have or have not adopted new codes on the DOE Energy Efficiency and Renewable Energy Web site at 
+                    <E T="03">http://www.energycodes.gov/states/.</E>
+                     Once a State has adopted a new commercial code, DOE typically provides software, training, and support for the new code as long as the new code is based on the national model codes (in this case, ASHRAE Standard 90.1).
+                </P>
+                <P>Some States develop their own codes that are only loosely related to the national model codes and DOE does not typically provide technical support for those codes. However, DOE does provide grants to these States through grant programs administered by the National Energy Technology Laboratory (NETL). DOE does not prescribe how each State adopts and enforces its energy codes.</P>
+                <HD SOURCE="HD2">C. Request for Extensions To Certify</HD>
+                <P>
+                    Section 304(c) of ECPA, requires that the Secretary permit an extension of the deadline for complying with the certification requirements described above, if a State can demonstrate that it has made a good faith effort to comply with such requirements and that it has made significant progress toward meeting its certification obligations. (42 U.S.C. 6833(c)) Such demonstrations could include one or both of the following: (1) A plan for response to the requirements stated in section 304; or (2) a statement that the State has appropriated or requested funds (within State funding procedures) to implement a plan that would respond to the requirements of Section 304 of ECPA. This list is not exhaustive. Requests are to be sent to the address provided in the 
+                    <E T="02">ADDRESSES</E>
+                     section.
+                </P>
+                <HD SOURCE="HD1">IV. Regulatory Analysis</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866</HD>
+                <P>Today's action is not a significant regulatory action under section 3(f)(1) of Executive Order 12866, âRegulatory Planning and Reviewâ (58 FR 51735; October 4, 1993). Accordingly, today's action was not subject to review by the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB).</P>
+                <HD SOURCE="HD2">B. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires the preparation of an initial regulatory flexibility analysis for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by Executive Order 13272, âProper Consideration of Small Entities in Agency Rulemaking,â (67 FR 53461 (Aug. 16, 2002)), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process (68 FR 7990). DOE has made its procedures and policies available on the Office of General Counsel's Web site: 
+                    <E T="03">http://www.gc.doe.gov.</E>
+                </P>
+                <P>
+                    DOE has reviewed today's final determination under the provisions of the Regulatory Flexibility Act and the procedures and policies published on February 19, 2003. Since today's action on the determination of improved energy efficiency between the 2007 and 2010 editions of Standard 90.1 is now finalized by DOE, it requires States to 
+                    <PRTPAGE P="64921"/>
+                    undertake an analysis of their respective building codes. As such, the only entities directly regulated by this final determination would be States. DOE does not believe that there will be any direct impacts on small entities such as small businesses, small organizations, or small governmental jurisdictions.
+                </P>
+                <P>On the basis of the foregoing, DOE certifies that this final determination would not have a significant economic impact on a substantial number of small entities. Accordingly, DOE has not prepared a regulatory flexibility analysis for this final determination. DOE's certification and supporting statement of factual basis will be provided to the Chief Counsel for Advocacy of the Small Business Administration pursuant to 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">C. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    Today's action is covered under the Categorical Exclusion found in DOE's National Environmental Policy Act regulations at paragraph A.6. of Appendix A to subpart D, 10 CFR part 1021. That Categorical Exclusion applies to actions that are strictly procedural, such as rulemaking establishing the administration of grants. Today's action is required by Title III of ECPA, as amended, which provides that whenever the Standard 90.1-1989, or any successor to that code, is revised, the Secretary must make a determination, not later than 12 months after such revision, whether the revised code would improve energy efficiency in commercial buildings and must publish notice of such determination in the 
+                    <E T="04">Federal Register</E>
+                    . (42 U.S.C. 6833(b)(2)(A)) If the Secretary determines that the revision of Standard 90.1-1989 or any successor thereof, improves the level of energy efficiency in commercial buildings then no later than two years after the date of the publication of such affirmative determination, each State is required to certify that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency with respect to the revised or successor code. (42 U.S.C. 6833(b)(2)(B)(i)) If the Secretary makes a determination that the revised standard will not improve energy efficiency in commercial buildings then State commercial codes shall meet or exceed the last revised standard for which the Secretary has made a positive determination. (42 U.S.C. 6833(b)(2)(B)(ii)) Therefore, DOE has preliminarily determined that the Secretary's determination is not a major federal action that would have direct environmental impacts. Accordingly, DOE has not prepared an environmental assessment or an environmental impact statement.
+                </P>
+                <HD SOURCE="HD2">D. Review Under Executive Order 13132, âFederalismâ</HD>
+                <P>Executive Order 13132, 64 FR 43255 (Aug 4, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that pre-empt State law or that have federalism implications. Agencies are required to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and carefully assess the necessity for such actions.</P>
+                <P>DOE has reviewed the statutory authority. Congress found that:</P>
+                <P>(1) Large amounts of fuel and energy are consumed unnecessarily each year in heating, cooling, ventilating, and providing domestic hot water for newly constructed residential and commercial buildings because such buildings lack adequate energy conservation features;</P>
+                <P>(2) Federal voluntary performance standards for newly constructed buildings can prevent such waste of energy, which the Nation can no longer afford in view of its current and anticipated energy shortage;</P>
+                <P>(3) the failure to provide adequate energy conservation measures in newly constructed buildings increases long-term operating costs that may affect adversely the repayment of, and security for, loans made, insured, or guaranteed by Federal agencies or made by federally insured or regulated instrumentalities; and</P>
+                <P>(4) State and local building codes or similar controls can provide an existing means by which to assure, in coordination with other building requirements and with a minimum of Federal interference in State and local transactions, that newly constructed buildings contain adequate energy conservation features. (42 U.S.C. 6831)</P>
+                <P>Pursuant to Section 304(b) of ECPA, DOE is statutorily required to determine whether the most recent versions of ASHRAE 90.1 would improve the level of energy efficiency in commercial buildings as compared to the previous version. If DOE makes a positive determination, the statute requires each State to certify that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency with respect to the revised or successor codes. (42 U.S.C. 6833(b)(2)(B)(i))</P>
+                <P>Executive Order 13132, 64 FR 43255 (August 4, 1999) requires meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications unless âfunds necessary to pay the direct costs incurred by the State and local governments in complying with the regulation are provided by the Federal Government.â (62 FR 43257) Pursuant to section 304(e) of ECPA, the DOE Secretary is required to âprovide incentive funding to States to implement the requirements of [Section 304], and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provide incentive funding under this subsection, the Secretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.â (42 U.S.C. 6833(e)) Therefore, consultation with States and local officials regarding this final determination was not required.</P>
+                <P>However, DOE notes that State and local governments were invited to participate in the development Standard 90.1-2010. Standard 90.1-2010, was developed in a national ANSI consensus process open to the public and in which State and local governments participate along with DOE and other interested parties. It is the product of a series of amendments to the prior addition of the standard. Each addendum is put out for national public review. Anyone may submit comments, and in the process comments were received from State and local governments. Comments on the addendum are received, reviewed and resolved through a consensus process. Members of the standards project committee have included representatives of State and local governments.</P>
+                <P>
+                    DOE annually holds a national building energy codes workshop at which the progress on development of the model energy codes are presented, along with discussion and sharing of problems and successes in adoption, implementation, and enforcement of building energy codes. The predominate attendance of these workshops are State and local officials responsible for building energy codes. They are consistently encouraged and urged to participate in the model building energy code processes, which will be the subject of DOE's next determinations under section 304 of ECPA. Thus, State and local officials have had the opportunity to participate in the development of the standard through 
+                    <PRTPAGE P="64922"/>
+                    the ASHRAE process. Some have done so.
+                </P>
+                <P>Similarly, the comments of States and local governments about provisions of the developing Standard 90.1-2010 were received in formal comment periods and heard and addressed in ASHRAE committee deliberations open to the public. In addition, concerns and issues about adoption, implementation and enforcement issues were presented and discussed at informal sessions at the Department's annual national workshops on building energy codes. DOE believes that the above process has given State and local jurisdictions extensive opportunity to comment on and express their concerns on Standard 90.1-2010, the subject of this determination.</P>
+                <P>On issuance of a final determination that Standard 90.1-2010 would improve the energy efficiency of commercial buildings, ECPA requires the States to certify to the Secretary that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency to meet or exceed the requirements of Standard 90.1-2010. DOE notes that ECPA sets forth this requirement for States. (42 U.S.C. 6833(b)(2)(B)(i)) States are given broad freedom to either adopt Standard 90.1-2010 or develop their own code that meets equivalent energy efficiency.</P>
+                <HD SOURCE="HD2">E. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>The Unfunded Mandates Reform Act of 1995 (Pub. L. 104-4) generally requires Federal agencies to examine closely the impacts of regulatory actions on State, local, and tribal governments. Subsection 101(5) of Title I of that law defines a Federal intergovernmental mandate to include any regulation that would impose upon State, local, or tribal governments an enforceable duty, except a condition of Federal assistance or a duty arising from participating in a voluntary Federal program. Title II of that law requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and tribal governments, in the aggregate, or to the private sector, other than to the extent such actions merely incorporate requirements specifically set forth in a statute. Section 202 of that title requires a Federal agency to perform a detailed assessment of the anticipated costs and benefits of any rule that includes a Federal mandate which may result in costs to State, local, or tribal governments, or to the private sector, of $100 million or more. Section 204 of that title requires each agency that proposes a rule containing a significant Federal intergovernmental mandate to develop an effective process for obtaining meaningful and timely input from elected officers of State, local, and tribal governments.</P>
+                <P>Upon publication of this affirmative final determination, each State is required under section 304 of ECPA to review and update, as necessary, the provisions of its commercial building energy code to meet or exceed the provisions of the 2010 edition of Standard 90.1. (42 U.S.C. 6833(b)(2)(B)(i)) Section 304 of ECPA requires State action in response to this positive determination by DOE. The statutory requirements of ECPA require DOE to provide a determination irrespective of costs. While the processes that States may undertake to update their codes vary widely, as a general rule a State at a minimum needs to:</P>
+                <P>â¢ Evaluate Standard 90.1-2010 using the background material provided by DOE</P>
+                <P>â¢ Compare the existing State commercial building energy code to Standard 90.1-2010 to see if an update is needed</P>
+                <P>â¢ Update the State commercial building energy code to meet or exceed Standard 90.1-2010.</P>
+                <P>DOE evaluated the potential for State activity to exceed $100 million in any one year. The approach looked at the three steps for minimum activity listed in the previous paragraphâevaluate, compare and update. A fourth potential step of providing training on the new code was also considered as some States may consider training on the new code to be an integral part of adopting the new code. For the three steps of minimum activity, DOE estimated the following:</P>
+                <P>
+                    Evaluate Standard 90.1-2010âDOE estimated a minimum of 8 hours of review per State and a maximum review time of 500 hours of review per State (12.5 work weeks). The minimum review time of 8 hours (one day) is the estimated minimum amount of time DOE can see States taking to review Standard 90.1-2010. Reading and reviewing the 
+                    <E T="04">Federal Register</E>
+                     notice, the qualitative analysis document and the quantitative analysis document will take the average person several hours. Deciding on whether or not to upgrade to Standard 90.1-2010 may take another couple of hours. The maximum review time of 500 hours (62.5 day, 3 working months) upper limit was estimated as the amount of time that a State that was not familiar with energy codes at all or which has a particularly arduous review process within the State would take to review these documents.
+                </P>
+                <P>(1) A cost per hour of $100 per hour was assumed based on actual rates proposed in subcontracts associated with compliance studies funded by DOE. The average rate calculated from these subcontracts for 10 types of building officials from 6 states was $93.41, so DOE chose to round this up to $100 per hour.</P>
+                <FP SOURCE="FP-2">a. Low estimateâ8 hours Ã 50 states Ã $100 per hour = $40,000.</FP>
+                <FP SOURCE="FP-2">b. High estimateâ500 hours Ã 50 states Ã $100 per hour = $2,500,000.</FP>
+                <P>(2) Compare Standard 90.1-2010 to existing state codeâAssuming the State is familiar with its code and has performed an effective evaluation of Standard 90.1 in the first step, the range of potential costs should be similar to Step 1. (See Step 1 for discussion of 8 hour and 500 hour times and $100 per hour cost estimate).</P>
+                <FP SOURCE="FP-2">a. Low estimateâ8 hours Ã 50 states Ã $100 per hour = $40,000.</FP>
+                <FP SOURCE="FP-2">b. High estimateâ500 hours Ã 50 states Ã $100 per hour = $2,500,000.</FP>
+                <P>
+                    (3) Update the State Codes to meet or exceed Standard 90.1-2010âAdopting a new energy code could be as simple as updating an order within the State, or it could be very complex involving hearings, testimony, 
+                    <E T="03">etc.</E>
+                     Again, the range of potential costs should be similar to Step 1. (See Step 1 for discussion of origin of 8 hour and 500 hour times and $100 per hour cost estimate).
+                </P>
+                <FP SOURCE="FP-2">a. Low estimateâ8 hours Ã 50 states Ã $100 per hour = $40,000.</FP>
+                <FP SOURCE="FP-2">b. High estimateâ500 hours Ã 50 states Ã $100 per hour = $2,500,000.</FP>
+                <P>The potential range of total costs States to under these assumptions would be $120,000 to $7.5 million. This range is well below the $100 million threshold in the Unfunded Mandates Act. DOE has also considered potential costs were States to provide training on the new code.</P>
+                <P>
+                    (4) Train Code officials on New CodeâAssuming every jurisdiction has at least one person that needs to be trained on energy code. There are roughly 40,000 general purpose local governments, or jurisdictions, in the U.S.. The total number of jurisdictions in the U.S. that enforce energy codes is not known with any degree of certainty. The National League of Cities publishes an estimate of the number of local governments in the U.S. at 
+                    <E T="03">http://www.nlc.org/build-skills-networks/resources/cities-101/number-of-local-governmentsâpopulation-distribution.</E>
+                     Their summary indicates the following:
+                </P>
+                <P>â¢ 19,492 Municipal governments;</P>
+                <P>
+                    â¢ 16,519 Town or Township governments;
+                    <PRTPAGE P="64923"/>
+                </P>
+                <P>â¢ 3,033 County governments;</P>
+                <P>â¢ 13,726 School districts; and</P>
+                <P>â¢ 37,381 Special district governments.</P>
+                <P>
+                    (5) DOE believes it is reasonable to assume that all of the municipal governments, town or township governments, and county governments could be required to acquire training on Standard 90.1-2010 in order to enforce this standard as an adopted energy code. In addition, the 50 state governments would be required to acquire training. This number adds up to 19,429+16,504+3,033+50 = 39,094. Another widely mentioned estimate of the total number of code adopting jurisdictions in the U.S. is 44,000. This number is based on the National Conference of States on Building Codes and Standards (NCBCS). See, for example, 
+                    <E T="03">http://www.ncsbcs.org/newsite/New%20Releases/RW_Presentation_060602.htm.</E>
+                     Both these estimates are in reasonable agreement and so DOE assumed that there are 40,000 potential jurisdictions that potentially would need training on a new energy code.
+                </P>
+                <P>Based on training experiences of the Building Energy Codes Program staff, with conducting training sessions for jurisdictional staff regarding Standard 90.1, one full-day (8 hours) of training is normally sufficient. Therefore, DOE has used 8 hours as a low estimate and 16 hours as a high estimate for training hours required if a jurisdiction were to adopt Standard 90.1-2010.</P>
+                <FP SOURCE="FP-2">a. Low estimateâ8 hours Ã 40,000 jurisdictions Ã $100 per hour = $32,000,000.</FP>
+                <FP SOURCE="FP-2">b. High Estimateâ16 hours Ã 40,000 jurisdictions Ã $100 per hour = $64,000,000.</FP>
+                <P>Adding the potential training costs of $32 million to $64 million to the costs for the three steps indicates a potential total costs ranging from $32.12 million to $71.5 million. The high end of this estimate is less than the $100 million threshold in the Unfunded Mandates Act. Accordingly, no further action is required under the Unfunded Mandates Reform Act of 1995.</P>
+                <HD SOURCE="HD2">F. Review Under the Treasury and General Government Appropriations Act of 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act of 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. Today's action would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">G. Review Under the Treasury and General Government Appropriations Act of 2001</HD>
+                <P>Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). DOE has reviewed today's action under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">H. Review Under Executive Order 13211</HD>
+                <P>Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to the OMB a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that: (1) Is a significant regulatory action under Executive Order 12866, or any successor order; and (2) Is likely to have a significant adverse effect on the supply, distribution, or use of energy; or (3) Is designated by the Administrator of the Office of Information and Regulatory Affairs (OIRA) as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use, should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use.</P>
+                <P>Today's action would not have a significant adverse effect on the supply, distribution, or use of energy and is therefore not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects.</P>
+                <HD SOURCE="HD2">I. Review Under Executive Order 13175</HD>
+                <P>Executive Order 13175. âConsultation and Coordination with Indian tribal Governmentsâ (65 FR 67249 (Nov. 9, 2000)), requires DOE to develop an accountable process to ensure âmeaningful and timely input by tribal officials in the development of regulatory policies that have tribal implications.â âPolicies that have tribal implicationsâ refers to regulations that have âsubstantial direct effects on one or more Indian tribes, on the relationship between the Federal Government and Indian tribes, or on the distribution of power and responsibilities between the Federal Government and Indian tribes.â</P>
+                <P>Today's action is not a policy that has âtribal implicationsâ under Executive Order 13175. DOE has reviewed today's action under Executive Order 13175 and has determined that it is consistent with applicable policies of that Executive Order.</P>
+                <SIG>
+                    <DATED>Issued in Washington, DC, on October 12, 2011.</DATED>
+                    <NAME> Henry Kelly,</NAME>
+                    <TITLE> Acting Assistant Secretary, Energy Efficiency and Renewable Energy.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2011-27057 Filed 10-18-11; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </NOTICE>

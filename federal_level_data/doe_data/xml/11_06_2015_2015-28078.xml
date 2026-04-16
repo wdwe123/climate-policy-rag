@@ -1,0 +1,933 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="68749"/>
+                <AGENCY TYPE="F">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 433</CFR>
+                <DEPDOC>[Docket No. EERE-2014-BT-STD-0047]</DEPDOC>
+                <RIN>RIN 1904-AD39</RIN>
+                <SUBJECT>Energy Efficiency Standards for New Federal Commercial and Multi-Family High-Rise Residential Buildings' Baseline Standards Update</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The U.S. Department of Energy (DOE) is publishing this final rule to implement provisions in the Energy Conservation and Production Act (ECPA) that require DOE to update the baseline Federal energy efficiency performance standards for the construction of new Federal commercial and multi-family high-rise residential buildings. This rule updates the baseline Federal commercial standard to the American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) Standard 90.1-2013.</P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective January 5, 2016.</P>
+                    <P>The incorporation by reference of certain ANSI/ASHRAE/IES 90.1-2013 in this rule is approved by the Director of the Federal Register as of January 5, 2016.</P>
+                    <P>All Federal agencies shall design new Federal buildings that are commercial and multi-family high-rise residential buildings, for which design for construction began on or after November 6, 2016, using ASHRAE Standard 90.1-2013 as the baseline standard for 10 CFR part 433.</P>
+                </DATES>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>This rulemaking can be identified by docket number EERE-2014-BT-STD-0047 and/or RIN number 1904-AD39.</P>
+                    <P>
+                        <E T="03">Docket:</E>
+                         The docket is available for review at 
+                        <E T="03">http://www.regulations.gov</E>
+                         including 
+                        <E T="04">Federal Register</E>
+                         Notices and other supporting documents/materials. All documents in the docket are listed in the 
+                        <E T="03">http://www.regulations.gov</E>
+                         index. However, not all documents listed in the index may be publicly available, such as information that is exempt from public disclosure.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        For technical issues: Sarah Jensen, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Federal Energy Management Program, Mailstop EE-5F, 1000 Independence Avenue SW., Washington, DC 20585, (202) 287-6033, email: 
+                        <E T="03">sarah.jensen@ee.doe.gov.</E>
+                         For legal issues: Kavita Vaidyanathan, U.S. Department of Energy, Office of the General Counsel, Forrestal Building, GC-33, 1000 Independence Avenue SW., Washington, DC 20585, (202) 586-6609, email: 
+                        <E T="03">kavita.vaidyanathan@hq.doe.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Material Under 1 CFR Part 51</HD>
+                <P>This rulemaking incorporates by reference the following standard into 10 CFR part 433:</P>
+                <P>â¢ ANSI/ASHRAE/IES Standard 90.1-2013, Energy Standard for Buildings Except Low-Rise Residential Buildings, I-P Edition, Copyright 2013.</P>
+                <P>
+                    Copies of this standard are available from the American Society of Heating Refrigerating and Air-Conditioning Engineers, Inc., 1791 Tullie Circle NE., Atlanta, GA 30329, (404) 636-8400, 
+                    <E T="03">http://www.ashrae.org.</E>
+                     The standard is discussed in greater detail in sections III and VI.N of this document.
+                </P>
+                <P>
+                    Also, a copy of this standard is available for inspection at U.S. Department of Energy (DOE), Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza SW., Washington, DC 20024. For information on the availability of this standard at DOE, contact Ms. Brenda Edwards at (202) 586-2945 or email 
+                    <E T="03">Brenda.Edwards@ee.doe.gov.</E>
+                </P>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Executive Summary of the Final Rule</FP>
+                    <FP SOURCE="FP-2">II. Introduction</FP>
+                    <FP SOURCE="FP-2">III. Discussion of the Final Rule</FP>
+                    <FP SOURCE="FP-2">IV. Compliance Date</FP>
+                    <FP SOURCE="FP-2">V. Reference Resources</FP>
+                    <FP SOURCE="FP-2">VI. Regulatory Analysis</FP>
+                    <FP SOURCE="FP-2">VII. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VIII. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Executive Summary of the Final Rule</HD>
+                <P>
+                    Section 305 of the Energy Conservation and Production Act (ECPA), as amended, requires DOE to determine whether the energy efficiency standards for new Federal buildings should be updated to reflect revisions to ASHRAE Standard 90.1 based on the cost-effectiveness of the revisions. (42 U.S.C. 6834(a)(3)(B)) Accordingly, DOE conducted a cost-effectiveness analysis that found ASHRAE Standard 90.1-2013 to be cost-effective. DOE's assumptions and methodology for the cost-effectiveness of this rule are based on DOE's cost-effectiveness analysis of ASHRAE Standard 90.1-2013, as well as DOE's Environmental Assessment (EA) for this rulemaking.
+                    <SU>1</SU>
+                    <FTREF/>
+                     Therefore, in this final rule, DOE updates the energy efficiency standards for new Federal buildings to ASHRAE Standard 90.1-2013 for buildings for which design for construction began on or after one year after the rule is published in the 
+                    <E T="04">Federal Register</E>
+                    . (42 U.S.C. 6834 (a)(3)(A)). Federal buildings are defined as follows: âany building to be constructed by, or for the use of, any Federal agency. Such term shall include buildings built for the purpose of being leased by a Federal agency, and privatized military housing.â (42 U.S.C. 6832 (6)). This term does not include renovations or modifications to existing buildings.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âThe Environmental Assessment (EA) (DOE/EA-2001) is entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 433, `Energy Efficiency Standards for New Federal Commercial and Multi-Family High-Rise Residential Buildings,' Baseline Standards Updateâ. The EA and Finding Of No Significant Impact (FONSI) may be found in the docket for this rulemaking and at 
+                        <E T="03">http://energy.gov/node/984581.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">II. Introduction</HD>
+                <P>ECPA, as amended, requires DOE to establish building energy efficiency standards for all new Federal buildings. (42 U.S.C. 6834(a)(1)) The standards established under section 305(a)(1) of ECPA must contain energy efficiency measures that are technologically feasible, economically justified, and meet the energy efficiency levels in the applicable voluntary consensus energy codes specified in section 305. (42 U.S.C. 6834(a)(1)-(3))</P>
+                <P>
+                    Under section 305 of ECPA, the referenced voluntary consensus code for commercial buildings (including multi-
+                    <PRTPAGE P="68750"/>
+                    family high rise residential buildings) is the American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) Standard 90.1. (42 U.S.C. 6834(a)(2)(A)) For the purposes of discussion in this preamble, all references to âFederal buildingsâ subject to 10 CFR 433 will include commercial and multi-family high-rise residential unless otherwise noted. DOE codified this referenced code as the baseline Federal building standard in its existing energy efficiency standards found in 10 CFR part 433. Also pursuant to section 305 of ECPA, DOE must establish, by rule, revised Federal building energy efficiency performance standards for new Federal buildings that require such buildings be designed to achieve energy consumption levels that are at least 30 percent below the levels established in the referenced code (baseline Federal building standard), if life-cycle cost-effective. (42 U.S.C. 6834(a)(3)(A)(i)(I))
+                </P>
+                <P>Under section 305 of ECPA, not later than one year after the date of approval of each subsequent revision of the ASHRAE Standard or the International Energy Conservation Code (IECC), DOE must determine whether to amend the baseline Federal building standards with the revised voluntary standard based on the cost-effectiveness of the revised voluntary standard. (42 U.S.C. 6834(a)(3)(B)) It is this requirement that this rulemaking addresses. ASHRAE has updated Standard 90.1 from the version currently referenced in DOE's regulations at 10 CFR part 433. In this rule, DOE revises the latest baseline Federal building standard for 10 CFR part 433 from ASHRAE Standard 90.1-2010 to ASHRAE Standard 90.1-2013.</P>
+                <P>Section 306(a) of ECPA provides that each Federal agency and the Architect of the Capitol must adopt procedures to ensure that new Federal buildings will meet or exceed the Federal building energy efficiency standards established under section 305. (42 U.S.C. 6835(a)) ECPA Section 306(b) bars the head of a Federal agency from expending Federal funds for the construction of a new Federal building unless the building meets or exceeds the applicable baseline Federal building energy standards established under section 305. (42 U.S.C. 6835(b)) Specifically, all new Federal buildings must be designed to achieve the baseline standards in ASHRAE Standard 90.1 (and the International Energy Conservation Code for low-rise residential buildings) and achieve energy consumption levels at least 30 percent below these minimum baseline standards, where life-cycle cost-effective. (42 U.S.C. 6834 (a)(3)(A)). This requirement does not extend to renovations or modifications to existing buildings.</P>
+                <HD SOURCE="HD1">III. Discussion of the Final Rule</HD>
+                <P>DOE is issuing this action as a final rule. As indicated above, DOE must determine whether the energy efficiency standards for new Federal buildings should be updated to reflect revisions to ASHRAE Standard 90.1 based on the cost-effectiveness of the revisions. (42 U.S.C. 6834(a)(3)(B)) In this final rule, DOE determines that the energy efficiency standards for new Federal buildings should be updated to reflect the 2013 revisions to ASHRAE Standard 90.1 based on the cost-effectiveness of the revisions.</P>
+                <P>DOE reviewed ASHRAE Standard 90.1 for DOE's state building codes program and determined that the 2013 version of ASHRAE Standard 90.1 would achieve greater energy efficiency than the prior version. (See 79 FR 57900 (Sept. 26, 2014)) This determination was subject to notice and comment. See 79 FR 27778 (May 15, 2014). In that determination, DOE found that the 2013 version of Standard 90.1 would save 8.5% more source energy than the 2010 version of Standard 90.1.</P>
+                <P>In DOE's determination for the state building codes program, and again in this rule, DOE states that the cost-effectiveness of revisions to the voluntary codes is considered through DOE's statutorily directed involvement in the codes process. See 79 FR 57900. Section 307 of ECPA requires DOE to participate in the ASHRAE code development process and to assist in determining the cost-effectiveness of the voluntary standards. (42 U.S.C. 6836) DOE is required to periodically review the economic basis of the voluntary building energy codes and participate in the industry process for review and modification, including seeking adoption of all technologically feasible and economically justified energy efficiency measures. (42 U.S.C. 6836(b))</P>
+                <P>
+                    In addition to DOE's consideration of the cost-effectiveness of ASHRAE 90.1-2013 through its participation in the codes development process, DOE conducted an independent analysis of the cost-effectiveness of ASHRAE Standard 90.1-2013. The results of the analysis are discussed below in section A. Review Under Executive Order 12866, âRegulatory Planning and Reviewâ.
+                    <SU>2</SU>
+                    <FTREF/>
+                     DOE's assumptions and methodology for the cost-effectiveness of this rule are based on DOE's cost-effectiveness analysis of ASHRAE Standard 90.1-2013, as well as DOE's Environmental Assessment (EA) for this rulemaking.
+                    <SU>3</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        â
+                        <E T="03">National Cost-Effectiveness of ANSI/ASHRAE/IES Standard 90.1-2013,</E>
+                         Hart, R. 
+                        <E T="03">et. al.</E>
+                         PNNL-23834, Pacific Northwest National Laboratory, January 2015. 
+                        <E T="03">http://www.energycodes.gov/sites/default/files/documents/Cost-effectiveness_of_ASHRAE_Standard_90-1-2013-Report.pdf.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        âThe Environmental Assessment (EA) (DOE/EA-2001) is entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 433, `Energy Efficiency Standards for New Federal Commercial and Multi-Family High-Rise Residential Buildings,' Baseline Standards Updateâ. The EA and FONSI may be found in the docket for this rulemaking and at 
+                        <E T="03">http://energy.gov/node/984581.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    In this rule, DOE updates the energy efficiency standards applicable to new Federal buildings based on the determinations made by DOE as to the energy efficiency improvements of ASHRAE Standard 90.1-2013, as compared to the predecessor version, and based on the considerations of cost-effectiveness incorporated into the codes processes, DOE's involvement in those processes, and DOE's own cost-effectiveness analysis.
+                    <SU>4</SU>
+                    <FTREF/>
+                     This final rule amends 10 CFR part 433 to update the referenced baseline Federal energy efficiency performance standards. No other changes are proposed to 10 CFR part 433 by this rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        âDetermination Regarding Energy Efficiency Improvements in ANSI/ASHRAE/IES Standard 90.1-2013: Energy Standard for Buildings, Except Low-Rise Residential Buildings; Notice of Determination September 26, 2014. 
+                        <E T="03">http://www.regulations.gov/#!documentDetail;D=EERE-2014-BT-DET-0009-0006.</E>
+                    </P>
+                </FTNT>
+                <P>DOE also notes that there are a number of statutory provisions, regulations, Executive Orders, and memoranda of understanding that govern energy consumption in new Federal buildings. These include, but are not limited to, the Executive Order 13693 (80 FR 15871 (March 25, 2015)); sections 323, 433, 434, and 523 of EISA 2007; section 109 of the Energy Policy Act of 2005 (Pub. L. 109-58); and 10 CFR parts 433 and 435. This rule supports and does not supplant these other applicable legal requirements for new Federal buildings. For example, by designing buildings to meet the ASHRAE 90.1-2013 baseline, Federal agencies also help achieve the energy intensity reductions mandated under section 431 of EISA 2007.</P>
+                <P>
+                    Of particular significance is the Administration's Climate Action Plan, (CAP), issued June 2013, in which the President affirmed that the Federal government must position itself as a leader in clean energy and energy efficiency, and pledged that Federal agencies must surpass previous greenhouse gas reduction achievements, through a combination of consuming 20 percent of Federal electricity from renewable sources by 2020, and by pursuing greater energy efficiency in 
+                    <PRTPAGE P="68751"/>
+                    Federal buildings.
+                    <SU>5</SU>
+                    <FTREF/>
+                     Additionally, the President directed that efficiency standards for appliances and federal buildings set in the first and second terms combined would reduce carbon pollution by at least 3 billion metric tons cumulatively by 2030âequivalent to nearly one-half of the carbon pollution from the entire U.S. energy sector for one year. Today's rule, which DOE estimates will avoid cumulative emissions of 6,234,000 metric tons of carbon dioxide through 2030, directly supports the Administration's undertaking to make energy efficiency in Federal buildings an essential stratagem in the government's enduring achievement of the greenhouse gas reduction goals set out in the CAP.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âThe President's Climate Action Plan, Office of the Executive Office of the President, 
+                        <E T="03">https://www.whitehouse.gov/sites/default/files/image/president27sclimateactionplan.pdf,</E>
+                         June 2013.
+                    </P>
+                </FTNT>
+                <P>
+                    DOE further notes, on the subject of process loads, that the scope of building loads covered by ASHRAE Standard 90.1 broadened in ASHRAE Standard 90.1-2010 and again in ASHRAE Standard 90.1-2013 to cover ânew equipment or building systems specifically identified in the standard as part of an industrial or manufacturing process.ââ
+                    <SU>6</SU>
+                    <FTREF/>
+                     For example, Standard 90.1-2013 now includes escalator and moving walkway control requirements. Such requirements were not included in efficiency calculations under prior versions of ASHRAE Standard 90.1. Process loads are defined in 10 CFR 433.2 as âthe load on a building resulting from energy consumed in support of a manufacturing, industrial, or commercial process. Process loads do not include energy consumed maintaining comfort and amenities for the occupants of the building (including space conditioning for human comfort).â Receptacle loads, also known as âplug loadsâ are defined in 10 CFR 433.2 as âthe load on a building resulting from energy consumed by any equipment plugged into electrical outlets.â As in prior versions of the energy efficiency performance standards for new Federal commercial and multi-family high-rise residential buildings, DOE is maintaining the exclusion of process loads (for example, medical or industrial equipment) from the energy savings metric. Process loads typically involve specialized equipment for which improvements in energy efficiency may affect the functionality of the equipment or where improvements are not available at all. Some Federal buildings use most of their energy serving process loads, and application of the energy savings requirement to these buildings would likely place an undue burden on the rest of the building if the 30 percent savings is to be achieved.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        â
+                        <E T="03">See</E>
+                         section 2 in ASHRAE Standard 90.1-2013, âEnergy Standard for Buildings Except Low-Rise Residential Buildings, (I-P Edition)â and section 2 in âASHRAE Standard 90.1-2010 âEnergy Standard for Buildings Except Low-Rise Residential Buildings, (I-P Edition)â at: 
+                        <E T="03">http://www.ashrae.org.</E>
+                    </P>
+                </FTNT>
+                <P>In addition, DOE is also maintaining its exclusion of receptacle loads for the purpose of calculating energy savings under the Federal building standards because they are difficult to anticipate at the design stage and would change over time. (See 72 FR 72565, 72567-72568 (Dec. 21, 2007))</P>
+                <P>This rule clarifies that Federal agencies should continue to consider the building envelope and energy consuming systems normally specified as part of the building design covered by ASHRAE Standard 90.1 when determining if a design meets ASHRAE Standard 90.1 and whether achieving energy consumption levels at least 30% below the relevant ASHRAE baseline building is life-cycle cost-effective. Receptacle and process loads not explicitly covered in Standard 90.1, such as specialized medical or research equipment and equipment used in manufacturing processes, may be excluded from the calculations as noted in the rule.</P>
+                <HD SOURCE="HD1">IV. Compliance Date</HD>
+                <P>
+                    This final rule applies to new Federal commercial and multi-family high-rise residential buildings for which design for construction begins on or after one year from the publication date of this rulemaking in the 
+                    <E T="04">Federal Register</E>
+                    . (42 U.S.C. 6834(a)(1)) Such buildings must be designed to exceed the energy efficiency level of the appropriate updated voluntary standard by 30 percent if life-cycle cost-effective. However, at a minimum, such buildings must achieve the energy efficiency equal to that of the appropriate updated voluntary standard. One year lead time before the design for construction begins is consistent with DOE's previous updates to the energy efficiency baselines and the original statutory mandate for Federal building standards. One year lead time before design for construction begins helps minimize compliance costs to agencies, which may have planned buildings in various stages of design, and allows for design changes to more fully consider life-cycle cost-effective measures (as opposed to having to revise designs in development, which may make incorporation of energy efficiency measure more difficult or expensive).
+                </P>
+                <HD SOURCE="HD1">V. Reference Resources</HD>
+                <P>The Department originally prepared this list of resources to help Federal agencies achieve building energy efficiency levels of at least 30 percent below ASHRAE Standard 90.1-2004. The Department has reviewed these resources and believes that they continue to be useful for helping agencies maximize their energy efficiency levels. The Department has updated this resource list as necessary. These resources come in many forms and in a variety of media. Resources are provided for all buildings, and also specifically for commercial and multi-family high-rise residential buildings.</P>
+                <EXTRACT>
+                    <HD SOURCE="HD1">Resources for Commercial and Multi-Family High-Rise Residential Buildings</HD>
+                    <HD SOURCE="HD2">1. Energy Efficient ProductsâU.S. DOE Federal Energy Management Program and U.S. Environmental Protection Agency (EPA) ENERGY STAR Program</HD>
+                    <FP SOURCE="FP-1">
+                        <E T="03">http://energy.gov/eere/femp/energy-and-water-efficient-products</E>
+                    </FP>
+                    <P>Federal agencies are required by the Energy Policy Act of 2005 to specify Federal Energy Management Program (FEMP) designated or ENERGY STAR equipment, including building mechanical and lighting equipment and builder-supplied appliances, for purchase and installation in all new construction. This equipment is generally more efficient than the corresponding requirements of ASHRAE Standard 90.1-2013, and may be used to achieve part of the savings required of Federal building designs. (This rule does not specifically address the use of this equipment, but this Web site is listed for convenience because it is a very useful resource for achieving part of the energy savings required by the rule.)</P>
+                    <HD SOURCE="HD2">2. Life-Cycle Cost AnalysisâU.S. DOE Federal Energy Management Program</HD>
+                    <P>
+                        The life-cycle cost analysis rules promulgated in 10 CFR part 436 Subpart A 
+                        <E T="03">Life-Cycle Cost Methodology and Procedures</E>
+                         conform to requirements in the Federal Energy Management Improvement Act of 1988 (Pub. L. 100-615) and subsequent energy conservation legislation, as well as Executive Order 13693, 
+                        <E T="03">Planning for Federal Sustainability in the Next Decade.</E>
+                         The life-cycle cost guidance and required discount rates and energy price projections are determined annually by FEMP and the Energy Information Administration, and are published in the Annual Supplement to The National Institute of Standards and Technology Handbook 135: âEnergy Price Indices and Discount Factors for Life-Cycle Cost Analysisâ 
+                        <E T="03">http://www1.eere.energy.gov/femp/pdfs/ashb10.pdf.</E>
+                    </P>
+                    <HD SOURCE="HD2">3. ENERGY STAR Target FinderâU.S. Environmental Protection Agency and U.S. Department of Energy</HD>
+                    <FP SOURCE="FP-1">
+                        <E T="03">http://www.energystar.gov/index.cfm?c=new_bldg_design.bus_target_finder</E>
+                    </FP>
+                    <P>
+                        ENERGY STAR is a Government-backed program helping businesses and individuals 
+                        <PRTPAGE P="68752"/>
+                        protect the environment through superior energy efficiency. The benchmarking tool and other information at the ENERGY STAR Target Finder Web site can be useful in determining an annual energy target for building design and computer simulations, evaluating cost-effectiveness of efficiency measures, and tracking a building's actual energy performance after construction.
+                        <SU>7</SU>
+                        <FTREF/>
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>7</SU>
+                            âThe use of EPA's Target Finder tool during the design process of applicable new Federal buildings helps ensure that buildings are on a pathway to meet the existing building Federal Sustainable Building Guiding Principle (Energy Efficiency: Option 1), which is to receive an ENERGY STAR score of 75 or higher in EPA's Portfolio Manager.
+                        </P>
+                    </FTNT>
+                    <HD SOURCE="HD2">4. Building Energy Software ToolsâU.S. DOE Building Technologies Program</HD>
+                    <FP SOURCE="FP-1">
+                        <E T="03">http://apps1.eere.energy.gov/buildings/tools_directory/</E>
+                    </FP>
+                    <P>This directory provides information on building software tools for evaluation energy efficiency, renewable energy, and sustainability in buildings.</P>
+                    <HD SOURCE="HD2">5. ASHRAE Standard 90.1-2013âASHRAE</HD>
+                    <FP SOURCE="FP-1">
+                        <E T="03">http://www.techstreet.com/ashrae/products/1865966</E>
+                    </FP>
+                    <P>The baseline energy efficiency standard for commercial and multi-family high-rise buildings is ANSI/ASHRAE/IESNA Standard 90.1-2013. This link also contains a link to a read-only version of Standard 90.1-2013 under the Preview button.</P>
+                    <HD SOURCE="HD2">6. Whole Building Design GuideâNational Institute of Building Sciences</HD>
+                    <FP SOURCE="FP-1">
+                        <E T="03">http://www.wbdg.org/</E>
+                    </FP>
+                    <P>A portal providing one-stop access to up-to-date information on a wide range of building-related guidance, criteria and technology from a âwhole buildingsâ perspective.</P>
+                    <HD SOURCE="HD2">7. Labs for the 21st CenturyâU.S. EPA and U.S. DOE</HD>
+                    <FP SOURCE="FP-1">
+                        <E T="03">http://energy.gov/eere/femp/laboratories-21st-century</E>
+                    </FP>
+                    <P>A Web site focused on improving the energy efficiency and environmental performance of laboratory space. This site includes training and educational resources and design tools focused on laboratories.</P>
+                </EXTRACT>
+                <HD SOURCE="HD1">VI. Regulatory Analysis</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866, âRegulatory Planning and Reviewâ</HD>
+                <P>
+                    This final rule is a âsignificant regulatory actionâ under Executive Order 12866, âRegulatory Planning and Review.â 58 FR 51735 (October 4, 1993). Accordingly, this action was subject to review by the Office of Information and Regulatory Affairs in the Office of Management and Budget (OMB). OMB has completed its review. As discussed previously in this rule, DOE is required to determine, based on the cost-effectiveness, whether the standards for Federal buildings should be updated to reflect an amendment to the ASHRAE standard. As stated above, DOE complied with the statutory language by analyzing the cost-effectiveness of ASHRAE Standard 90.1-2013, and through DOE's involvement in the ASHRAE code development process, including the consideration of ASHRAE's cost-effectiveness criteria for Standard 90.1-2013.
+                    <SU>8</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        âSee 
+                        <E T="03">infra</E>
+                         at 1.
+                    </P>
+                </FTNT>
+                <P>DOE has also reviewed this regulation pursuant to Executive Order 13563, issued on January 18, 2011. 76 FR 3281 (January 21, 2011). EO 13563 is supplemental to and explicitly reaffirms the principles, structures, and definitions governing regulatory review established in Executive Order 12866.</P>
+                <P>Review under Executive Order 12866 requires an analysis of the economic effect of the rule. For this purpose, DOE estimated incremental first cost (in this case, the difference between the cost of a building designed to meet ASHRAE Standard 90.1-2013 and a building designed to meet ASHRAE Standard 90.1-2010) for the Federal commercial and high-rise multi-family residential buildings sector, as well as life-cycle cost net savings. DOE determined that the total incremental first cost estimate is a savings of $1.2 million per year, with an average first cost decrease of $0.03 per square foot. DOE estimated $87.2 million in annual life-cycle cost (LCC) net savings for the entire Federal commercial and multi-family high-rise buildings sector with an average life-cycle cost net savings of $2.21 per square foot.</P>
+                <P>
+                    DOE's assumptions and methodology for the cost-effectiveness of this rule are based on DOE's cost-effectiveness analysis of ASHRAE Standard 90.1-2013, as well as DOE's Environmental Assessment (EA) for this rulemaking.
+                    <SU>9</SU>
+                    <FTREF/>
+                     The EA identified a rate of new Federal commercial construction of 39.4 million square feet per year with a distribution of building types as shown in Table 1. As described in the EA, the distribution of building types is based on the 2007, 2008, 2009, 2010, and 2011 GSA Federal real property reports. Table 1 also shows the prototype buildings incorporated into computer simulations that are used to estimate energy use in each building type. DOE derived these prototype buildings from 16 building types in 17 climate zonesâ
+                    <SU>10</SU>
+                    <FTREF/>
+                     using its Commercial Prototype Building models.
+                    <SU>11</SU>
+                    <FTREF/>
+                     Of the 16 prototype buildings, DOE developed costs for six prototype buildings to determine the cost effectiveness of ASHRAE Standard 90.1-2013. DOE then extracted the cost-effectiveness information for those prototype buildings and weighted those values as appropriate to obtain an average cost effectiveness value for building types found in the Federal commercial sector, as discussed in the EA.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        âThe Environmental Assessment (EA) (DOE/EA-2001) is entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 433, `Energy Efficiency Standards for New Federal Commercial and Multi-Family High-Rise Residential Buildings,' Baseline Standards Updateâ. The EA and FONSI may be found in the docket for this rulemaking and at 
+                        <E T="03">http://energy.gov/node/984581.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âBriggs, R.S., R.G. Lucas, and Z.T. Taylor. 2003. âClimate classification for building energy codes and standards: Part 1âDevelopment Process.â ASHRAE Transactions 109(1): 109:121. American Society of Heating, Refrigerating and Air-Conditioning Engineers. Atlanta, Georgia. The 90.1-2013 climate zone map may be viewed as Figure B.1 of the online version of Standard 90.1-2013 at 
+                        <E T="03">https://ashrae.iwrapper.com/ViewOnline/Standard_90.1-2013_I-P.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âDOE's prototype buildings are described at 
+                        <E T="03">http://www.energycodes.gov/development/commercial/90.1_models.</E>
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s50,9.3,r100">
+                    <TTITLE>Table 1âNew Federal Commercial and High-Rise Multi-Family Construction Volume by Building Type</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Building type</CHED>
+                        <CHED H="1">
+                            Fraction of 
+                            <LI>federal </LI>
+                            <LI>construction volume </LI>
+                            <LI>(by floor area)</LI>
+                        </CHED>
+                        <CHED H="1">Assumed prototypes</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Office</ENT>
+                        <ENT>0.63</ENT>
+                        <ENT>Small Office,* Medium Office, Large Office.*</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Education</ENT>
+                        <ENT>0.083</ENT>
+                        <ENT>Primary School,* Secondary School.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Dorm/Barracks</ENT>
+                        <ENT>0.09</ENT>
+                        <ENT>Small Hotel,* Large Hotel, Mid-Rise Apartment,* High-Rise Apartment.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Warehouse</ENT>
+                        <ENT>0.15</ENT>
+                        <ENT>Non-Refrigerated Warehouse.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Hospital</ENT>
+                        <ENT>0.04</ENT>
+                        <ENT>Outpatient Healthcare, Hospital.</ENT>
+                    </ROW>
+                    <TNOTE>
+                        *âIndicates prototypes for which costs are available (See Table 2)
+                        <PRTPAGE P="68753"/>
+                    </TNOTE>
+                    <TNOTE>
+                        <E T="02">Notes:</E>
+                    </TNOTE>
+                    <TNOTE>1. Note that first cost data is not available for the prototypes assumed for warehouses and hospitals. As described below, DOE considered costs for the warehouse and hospital to be equivalent to the weighted cost for the offices, education, and dorm/barracks, which represents 81% of the Federal building stock.</TNOTE>
+                    <TNOTE>2. DOE has preliminarily determined incremental cost and the life-cycle cost net savings information for the building types and climate zones analyzed. This information is shown in Tables 2 and 3.</TNOTE>
+                </GPOTABLE>
+                <GPOTABLE COLS="7" OPTS="L2,i1" CDEF="s50,r50,12,12,12,12,12">
+                    <TTITLE>Table 2âIncremental Construction First Cost (2013$) for ASHRAE 90.1-2013 vs. ASHRAE 90.1-2010</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Prototype</CHED>
+                        <CHED H="1">Value</CHED>
+                        <CHED H="1">ASHRAE Climate zone</CHED>
+                        <CHED H="2">2A</CHED>
+                        <CHED H="2">3A</CHED>
+                        <CHED H="2">3B</CHED>
+                        <CHED H="2">4A</CHED>
+                        <CHED H="2">5A</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Small Office</ENT>
+                        <ENT>First Cost</ENT>
+                        <ENT>($2,601)</ENT>
+                        <ENT>($906)</ENT>
+                        <ENT>($1,358)</ENT>
+                        <ENT>$12,472</ENT>
+                        <ENT>$9,072</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>$/ft2</ENT>
+                        <ENT>($0.47)</ENT>
+                        <ENT>($0.16)</ENT>
+                        <ENT>($0.25)</ENT>
+                        <ENT>$2.27</ENT>
+                        <ENT>$1.65</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Large Office</ENT>
+                        <ENT>First Cost</ENT>
+                        <ENT>$352,647</ENT>
+                        <ENT>($1,065,759)</ENT>
+                        <ENT>($1,476,190)</ENT>
+                        <ENT>$98,124</ENT>
+                        <ENT>($1,014,770)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>$/ft2</ENT>
+                        <ENT>$0.71</ENT>
+                        <ENT>($2.14)</ENT>
+                        <ENT>($2.96)</ENT>
+                        <ENT>$0.20</ENT>
+                        <ENT>($2.04)</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Primary School</ENT>
+                        <ENT>First Cost</ENT>
+                        <ENT>$88,857</ENT>
+                        <ENT>$119,646</ENT>
+                        <ENT>$9,620</ENT>
+                        <ENT>$167,916</ENT>
+                        <ENT>$179,872</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>$/ft2</ENT>
+                        <ENT>$1.20</ENT>
+                        <ENT>$1.62</ENT>
+                        <ENT>$0.13</ENT>
+                        <ENT>$2.27</ENT>
+                        <ENT>$2.43</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Small Hotel</ENT>
+                        <ENT>First Cost</ENT>
+                        <ENT>$20,483</ENT>
+                        <ENT>$18,527</ENT>
+                        <ENT>$18,675</ENT>
+                        <ENT>$32,441</ENT>
+                        <ENT>$39,120</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>$/ft2</ENT>
+                        <ENT>$0.47</ENT>
+                        <ENT>$0.43</ENT>
+                        <ENT>$0.43</ENT>
+                        <ENT>$0.75</ENT>
+                        <ENT>$0.91</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Mid-rise Apartment</ENT>
+                        <ENT>First Cost</ENT>
+                        <ENT>$5,711</ENT>
+                        <ENT>$23,214</ENT>
+                        <ENT>$23,358</ENT>
+                        <ENT>$12,891</ENT>
+                        <ENT>$19,577</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>$/ft2</ENT>
+                        <ENT>$0.17</ENT>
+                        <ENT>$0.69</ENT>
+                        <ENT>$0.69</ENT>
+                        <ENT>$0.38</ENT>
+                        <ENT>$0.58</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <E T="02">1. Notes:</E>
+                         Negative costs (shown in parentheses) indicate a reduction in cost due to changes in the code, usually due to reduced HVAC capacity.
+                        <SU>12</SU>
+                    </TNOTE>
+                </GPOTABLE>
+                <P>
+                    DOE
+                    <FTREF/>
+                     used data from Table 1 and Table 2 to calculate preliminary values for overall incremental first cost of construction for Federal commercial and high-rise, multi-family residential buildings. DOE calculated the incremental first cost of the Federal building types based on the DOE prototypes shown in bold font in Table 1. DOE then calculated the weighted average incremental cost for Federal building types based on the office, education, and dorm/barracks building types which represent an estimated 81% of new Federal construction. This weighted incremental cost was assigned to the warehouse and hospital building types and a total weighted incremental cost was calculated by multiplying the incremental cost for each Federal building type by the fraction of Federal construction shown in Table 1. For warehouses and hospitals DOE considered costs to be equivalent to the weighted cost for offices, education, and dorm/barracks.
+                    <SU>13</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âIn this particular transition from 90.1-2010 to 90.1-2013, the cost reduction was mainly because of smaller and less expensive HVAC equipment since the building load had decreased. This cost reduction is part of the first cost calculation. Note that in addition to reduced equipment costs, there is reduced ductwork or piping costs as well.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âThere are no data for those years for warehouses or hospitals. It could be expected that costs to a warehouse would be less since it is a simpler building. We assumed both the warehouse and the hospital were the âaverageâ of the data we did have. And so, the warehouse value is likely higher than it might have been and the hospital value is likely lower than it might have been had there been data available.
+                    </P>
+                </FTNT>
+                <P>
+                    The national total incremental first cost for building types was developed by multiplying the average (across climate zones) incremental first cost of the prototypes (determined from the DOE ASHRAE Standard 90.1 cost-effectiveness analysis) by the fraction of the Federal sector construction volume shown in Table 1.
+                    <SU>14</SU>
+                    <FTREF/>
+                     The resulting building type incremental first costs were then summed together to determine an overall incremental first cost for the entire Federal commercial and high-rise multi-family residential buildings sector. DOE estimates that total first cost outlays for new Federal buildings will be less under ASHRAE Standard 90.1 2013 than ASHRAE 90.1 2010, primarily due to cheaper equipment costs for some building types (See Table 2 and footnote 13 above). The resulting total incremental first cost estimate is a savings of $1.2 million per year. The average first cost decrease is $0.03 per square foot.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âFor the Federal office building, the small and large office prototype first costs were averaged. For the Federal education building, the primary school prototype first cost was used. For the Federal dorm/barracks building type, the small hotel and mid-rise apartment prototype first costs were averaged.
+                    </P>
+                </FTNT>
+                <P>
+                    DOE also examined the relative impact of today's rule on the first cost of new constructed Federal buildings. Estimated construction costs for new Federal commercial and high-rise multifamily buildings were obtained from RS Means (2014)â
+                    <SU>15</SU>
+                    <FTREF/>
+                     for the 5 buildings types analyzed in DOE's cost-effectiveness methodology plus two additional building types that are reasonably common in the Federal sectorâhospitals and warehouses. Weights for the Federal building types and relationships between Federal building types and the DOE prototypes used in the cost-effectiveness analysis are shown in Table 1. The results of this analysis are shown in Table 3. For the assumptions used in this rulemaking, the average cost of a new Federal building would be $135 per square foot. This cost may be multiplied by the 39.4 million square feet of new Federal construction per year used in this rulemaking to estimate the total cost of new Federal commercial and high-rise multi-family construction at $5.325 billion. Savings associated with this rulemaking are estimated at $1.2 million per year, indicating a potential cost reduction in new Federal construction costs of 0.023%.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âRS Means. 2014. RS Means Building Construction Cost Data, 72nd Ed. Construction Publishers &amp; Consultants. Norwell, MA.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,12,r50,12,12">
+                    <TTITLE>
+                        Table 3âFirst Cost of Typical New Federal Building in $/ft
+                        <SU>2</SU>
+                    </TTITLE>
+                    <BOXHD>
+                        <CHED H="1">BECP Prototype</CHED>
+                        <CHED H="1">
+                            Building first cost $/ft
+                            <SU>2</SU>
+                        </CHED>
+                        <CHED H="1">Corresponds to Federal building type</CHED>
+                        <CHED H="1">
+                            Federal 
+                            <LI>weighting</LI>
+                            <LI>(%)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Weighted 
+                            <LI>cost</LI>
+                            <LI>($)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Small Office</ENT>
+                        <ENT>132</ENT>
+                        <ENT>Small Office</ENT>
+                        <ENT>32</ENT>
+                        <ENT>42</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Large Office</ENT>
+                        <ENT>166</ENT>
+                        <ENT>Large Office</ENT>
+                        <ENT>32</ENT>
+                        <ENT>52</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="68754"/>
+                        <ENT I="01">Primary School</ENT>
+                        <ENT>138</ENT>
+                        <ENT>Education</ENT>
+                        <ENT>8</ENT>
+                        <ENT>11</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Small Hotel</ENT>
+                        <ENT>111</ENT>
+                        <ENT>Barracks/Dormitory</ENT>
+                        <ENT>5</ENT>
+                        <ENT>5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Mid-Rise Apartment</ENT>
+                        <ENT>117</ENT>
+                        <ENT>Barracks/Dormitory</ENT>
+                        <ENT>5</ENT>
+                        <ENT>5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Hospital</ENT>
+                        <ENT>253</ENT>
+                        <ENT>Hospital</ENT>
+                        <ENT>4</ENT>
+                        <ENT>10</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Warehouse</ENT>
+                        <ENT>63</ENT>
+                        <ENT>Warehouse</ENT>
+                        <ENT>15</ENT>
+                        <ENT>9</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Total</ENT>
+                        <ENT/>
+                        <ENT/>
+                        <ENT>99</ENT>
+                        <ENT>135</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    Turning to LCC net savings, DOE estimated the LCC net savings to be $87.2 million for 39.4 million square feet of annual construction, with the average life-cycle cost net savings in year one estimated at $2.21 per square foot. Table 4 shows annual LCC net savings by prototype buildings. For LCC net savings, DOE used a similar approach to that used for incremental first cost. That is, DOE developed the national total annual LCC net savingsâ
+                    <SU>16</SU>
+                    <FTREF/>
+                     for building types by multiplying the average (across climate zones) LCC net savings (determined from the DOE ASHRAE 90.1 cost-effectiveness analysis) by the fraction of the federal sector construction volume shown in Table 1.
+                    <SU>17</SU>
+                    <FTREF/>
+                     The results of the building type LCC net savings were then summed together to determine the overall annual LCC net savings for the entire Federal commercial and high-rise multi-family buildings sector. The resulting total LCC net savings for 39.4 million square feet of annual construction was estimated to be $87.2 million. The average life-cycle cost net savings in year one was estimated to be $2.21 per square foot. Note the annual LCC savings are for one year of Federal commercial and high-rise multi-family residential construction and that those savings would accumulate over the LCC evaluation period. For the purpose of this analysis, DOE relied on a 30-year period.
+                    <SU>18</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âThe energy costs used were the national average energy costs used by ASHRAE in the development of Standard 90.1-2013. To quote the cost-effectiveness analysis report âEnergy rates used to calculate the energy costs from the modeled energy usage were $0.990/therm for fossil fuel and $0.1032/kWh for electricity. These rates were used for the 90.1-2013 energy analysis, and derived from the US DOE Energy Information Administration data. These were the values approved by 90.1-2013â.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âFor the Federal office building, the small and large office prototype life cycle costs were averaged. For the Federal education building, the primary school prototype life cycle cost was used. For the Federal dorm/barracks building type, the small hotel and mid-rise apartment prototype life cycle costs were averaged.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âRushing, A, J Kneifel, and B Lippiatt. 2013. Energy Price Indices and Discount Factors for Life-Cycle Cost Analysis-2013: Annual Supplement to NIST Handbook 135 and NBS Special Publication 709.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="7" OPTS="L2,i1" CDEF="s50,r25,15,15,15,15,15">
+                    <TTITLE>Table 4âAnnual Life-Cycle Cost (LCC) Net Savings (2013$) for ASHRAE 90.1-2013 vs. ASHRAE 90.1-2010</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Prototype</CHED>
+                        <CHED H="2">â</CHED>
+                        <CHED H="2">Value</CHED>
+                        <CHED H="1">ASHRAE Climate zone</CHED>
+                        <CHED H="2">2A</CHED>
+                        <CHED H="2">3A</CHED>
+                        <CHED H="2">3B</CHED>
+                        <CHED H="2">4A</CHED>
+                        <CHED H="2">5A</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Small Office</ENT>
+                        <ENT>Total</ENT>
+                        <ENT>$21,600.00</ENT>
+                        <ENT>$15,200.00</ENT>
+                        <ENT>$10,800.00</ENT>
+                        <ENT>$2,900.00</ENT>
+                        <ENT>$5,000.00</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>
+                            $/ft
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>3.93</ENT>
+                        <ENT>2.76</ENT>
+                        <ENT>1.96</ENT>
+                        <ENT>0.51</ENT>
+                        <ENT>0.91</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Large Office</ENT>
+                        <ENT>Total</ENT>
+                        <ENT>740,000.00</ENT>
+                        <ENT>1,650,000.00</ENT>
+                        <ENT>2,540,000.00</ENT>
+                        <ENT>310,000.00</ENT>
+                        <ENT>1,340,000.00</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>
+                            $/ft
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>1.48</ENT>
+                        <ENT>3.31</ENT>
+                        <ENT>5.09</ENT>
+                        <ENT>0.60</ENT>
+                        <ENT>2.69</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Primary School</ENT>
+                        <ENT>Total</ENT>
+                        <ENT>246,000.00</ENT>
+                        <ENT>116,000.00</ENT>
+                        <ENT>398,000.00</ENT>
+                        <ENT>70,000.00</ENT>
+                        <ENT>109,000.00</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>
+                            $/ft
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>3.33</ENT>
+                        <ENT>1.57</ENT>
+                        <ENT>5.38</ENT>
+                        <ENT>0.95</ENT>
+                        <ENT>1.47</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Small Hotel</ENT>
+                        <ENT>Total</ENT>
+                        <ENT>96,410.00</ENT>
+                        <ENT>76,000.00</ENT>
+                        <ENT>78,000.00</ENT>
+                        <ENT>62,600.00</ENT>
+                        <ENT>68,000.00</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>
+                            $/ft
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>2.23</ENT>
+                        <ENT>1.76</ENT>
+                        <ENT>1.81</ENT>
+                        <ENT>1.45</ENT>
+                        <ENT>1.57</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Mid-rise Apartment</ENT>
+                        <ENT>Total</ENT>
+                        <ENT>59,600.00</ENT>
+                        <ENT>22,600.00</ENT>
+                        <ENT>23,800.00</ENT>
+                        <ENT>29,200.00</ENT>
+                        <ENT>28,500.00</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">â</ENT>
+                        <ENT>
+                            $/ft
+                            <SU>2</SU>
+                        </ENT>
+                        <ENT>1.77</ENT>
+                        <ENT>0.67</ENT>
+                        <ENT>0.71</ENT>
+                        <ENT>0.87</ENT>
+                        <ENT>0.84</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD2">B. Administrative Procedure Act</HD>
+                <P>DOE notes that the determination regarding ASHRAE Standard 90.1-2013 in the context of State building codes was subject to notice and comment in evaluating the voluntary consensus codes. See 76 FR 43298 (July 20, 2011) for the preliminary determination and 76 FR 64904 (October 19, 2011) for the final determination. The determinations made in the context of the State codes are equally applicable in the context of Federal buildings. DOE finds that providing notice and comment on the determinations again in the context of Federal buildings would be unnecessary. The fact that the voluntary consensus codes apply to Federal buildings as opposed to the general building stock does not require a different evaluation of energy efficiency and cost-effectiveness. Additionally, DOE notes that this rule, which updates energy efficiency performance standards for the design and construction of new Federal buildings, is a rule relating to public property, and therefore is not subject to the rulemaking requirements of the Administrative Procedure Act, including the requirement to publish a notice of proposed rulemaking. (See 5 U.S.C. 553(a)(2))</P>
+                <HD SOURCE="HD2">C. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires the preparation of an initial regulatory flexibility analysis for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by Executive Order 13272, 
+                    <E T="03">Proper Consideration of Small Entities in Agency Rulemaking,</E>
+                     67 FR 53461 (August 16, 2002), DOE published procedures and policies on February 19, 
+                    <PRTPAGE P="68755"/>
+                    2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process, 68 FR 7990. The Department has made its procedures and policies available on the Office of General Counsel's Web site: 
+                    <E T="03">http://energy.gov/gc/office-general-counsel.</E>
+                </P>
+                <P>DOE has determined that a notice of proposed rulemaking is not required by 5 U.S.C. 553 or any other law for issuance of this rule. As such, the analytical requirements of the Regulatory Flexibility Act do not apply.</P>
+                <HD SOURCE="HD2">D. Review Under the Paperwork Reduction Act of 1995</HD>
+                <P>
+                    This rulemaking will impose no new information or record keeping requirements. Accordingly, Office of Management and Budget (OMB) clearance is not required under the Paperwork Reduction Act. (44 U.S.C. 3501 
+                    <E T="03">et seq</E>
+                    ).
+                </P>
+                <HD SOURCE="HD2">E. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    The Department prepared an Environmental Assessment (EA) (DOE/EA-2001) entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 433, `Energy Efficiency Standards for New Federal Commercial and Multi-Family High-Rise Residential Buildings,' Baseline Standards Update,ââ
+                    <SU>19</SU>
+                    <FTREF/>
+                     pursuant to the Council on Environmental Quality's (CEQ) Regulations for Implementing the Procedural Provisions of the National Environmental Policy Act (40 CFR parts 1500-1508), the National Environmental Policy Act of 1969 (NEPA), as amended (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ), and DOE's NEPA Implementing Procedures (10 CFR part 1021).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âThe EA and FONSI may be found in the docket for this rulemaking and at 
+                        <E T="03">http://energy.gov/node/984581.</E>
+                    </P>
+                </FTNT>
+                <P>The EA addresses the possible incremental environmental effects attributable to the application of the final rule. The only anticipated impact would be a decrease in outdoor air pollutants resulting from decreased fossil fuel burning for energy use in Federal buildings. Therefore, DOE has issued a Finding of No Significant Impact (FONSI), pursuant to NEPA, the regulations of the Council on Environmental Quality (40 CFR parts 1500-1508), and DOE's regulations for compliance with NEPA (10 CFR part 1021).</P>
+                <P>To identify the potential environmental impacts that may result from implementing the final rule on new Federal commercial buildings, DOE compared the requirements of the final rule updating energy efficiency performance standard for Federal new commercial and multi-family high rise residential buildings to ASHRAE Standard 90.1-2013 with the âno-action alternativeâ of using the current Federal standards (ASHRAE Standard 90.1-2010). This comparison is identical to that undertaken by DOE in its determinations of energy savings of those standards and codes.</P>
+                <P>
+                    Accordingly, DOE concludes in the EA that new Federal buildings designed and constructed to Standard 90.1-2013 will use less energy than new Federal buildings designed and constructed to Standard 90.1-2010 because Standard 90.1-2013 is more efficient than Standard 90.1-2010. This decrease in energy usage translates to reduced emissions of carbon dioxide (CO
+                    <E T="52">2</E>
+                    ), nitrogen oxides (NO
+                    <E T="52">X</E>
+                    ), and mercury (Hg) over the thirty-year period examined in the EA. Cumulative emission reductions for 30 years of construction (2015 through 2044) and 30 years of energy reduction for each building built during that period can be estimated at up to 24,156,900 metric tons of CO
+                    <E T="52">2</E>
+                    , up to 24,564 metric tons of NO
+                    <E T="52">X</E>
+                    , and up to 0.3357 metric tons of Hg. DOE conducted a separate calculation to determine emissions reductions relative to the targets identified in the CAP. This calculation showed that the cumulative reduction in CO
+                    <E T="52">2</E>
+                     emissions through 2030 amounts to 6,234,000 metric tons of CO
+                    <E T="52">2</E>
+                    .
+                    <SU>20</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âSee discussion of CAP calculations in footnote 12 on page 23 of the EA for this rule. The EA and FONSI may be found in the docket for this rulemaking and at 
+                        <E T="03">http://energy.gov/node/984581.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">F. Review Under Executive Order 13132, âFederalismâ</HD>
+                <P>Executive Order 13132, âFederalism,â 64 FR 43255 (August 4, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive Order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive Order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations, 65 FR 13735. DOE examined this rule and determined that it does not preempt State law and does not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of Government. No further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">G. Review Under Executive Order 12988, âCivil Justice Reformâ</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â 61 FR 4729 (February 7, 1996), imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; and (3) provide a clear legal standard for affected conduct, rather than a general standard and promote simplification and burden reduction. Section 3(b) of Executive Order 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct, while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this rule meets the relevant standards of Executive Order 12988.</P>
+                <HD SOURCE="HD2">H. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) (Pub. L. 104-4) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and tribal governments and the private sector. For a proposed regulatory action likely to result in a rule that may cause the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written 
+                    <PRTPAGE P="68756"/>
+                    statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a) and (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and tribal governments on a proposed âsignificant intergovernmental mandateâ and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect small governments. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA (62 FR 12820) (also available at 
+                    <E T="03">http://energy.gov/gc/office-general-counsel</E>
+                    ). This final rule contains neither an intergovernmental mandate nor a mandate that may result in the expenditure of $100 million or more in any year by State, local, and tribal governments, in the aggregate, or by the private sector, so these requirements under the Unfunded Mandates Reform Act do not apply.
+                </P>
+                <HD SOURCE="HD2">I. Review Under the Treasury and General Government Appropriations Act of 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act of 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">J. Review Under Executive Order 12630, âGovernmental Actions and Interference With Constitutionally Protected Property Rightsâ</HD>
+                <P>The Department has determined, under Executive Order 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rightsâ 53 FR 8859 (March 18, 1988) that this rule would not result in any takings which might require compensation under the Fifth Amendment to the United States Constitution.</P>
+                <HD SOURCE="HD2">K. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (February 22, 2002), and DOE's guidelines were published at 67 FR 62446 (October 7, 2002). DOE has reviewed today's final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">L. Review Under Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Useâ</HD>
+                <P>
+                    Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to the Office of Information and Regulatory Affairs (OIRA), Office of Management and Budget, a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that: (1) Is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use. DOE's Energy Information Administration (EIA) estimates that new construction in the commercial sector will range from 1.7 billion square feet per year in 2015 to 2.4 billion square feet per year in 2040.
+                    <SU>21</SU>
+                    <FTREF/>
+                     This rule is expected to incrementally reduce the energy usage of approximately 39.4 million square feet of Federal commercial and high-rise multi-family residential construction annually.
+                    <SU>22</SU>
+                    <FTREF/>
+                     Thus, the rule represents approximately 2.3% of the expected annual US construction in 2015, falling to approximately 1.6% in the year 2040. This final rule would not have a significant adverse effect on the supply, distribution, or use of energy and, therefore, is not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âSee Table A5 of the 2015 Annual Energy Outlook (beta) at 
+                        <E T="03">http://www.eia.gov/beta/aeo/#/?id=5-AEO2015</E>
+                         or Table A5 of the 2014 Annual Energy Outlook at 
+                        <E T="03">http://www.eia.gov/oiaf/aeo/tablebrowser/#release=AEO2014&amp;subject=0-AEO2014&amp;table=5-AEO2014&amp;region=0-0&amp;cases=full2013full-d102312a,ref2014-d102413a.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        âSee Regulatory Analysis Section A. Review Under Executive Order 12866, âRegulatory Planning and Reviewâ above for origin of the 39.4 million square foot estimate.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">M. Review Under Section 32 of the Federal Energy Administration Act of 1974</HD>
+                <P>Under section 301 of the Department of Energy Organization Act (Pub. L. 95-91), DOE must comply with section 32 of the Federal Energy Administration Act of 1974 (Pub. L. 93-275), as amended by the Federal Energy Administration Authorization Act of 1977 (Pub. L. 95-70). (15 U.S.C. 788) Section 32 provides that where a proposed rule authorizes or requires use of commercial standards, the NOPR must inform the public of the use and background of such standards. In addition, section 32(c) requires DOE to consult with the Department of Justice (DOJ) and the Federal Trade Commission (FTC) concerning the impact of the commercial or industry standards on competition.</P>
+                <P>Although section 32 specifically refers to the proposed rule stage, DOE is meeting these requirements at the final rule stage because there was no proposed rule for this action. This final rule incorporates testing methods contained in the following commercial standard: ANSI/ASHRAE/IES Standard 90.1-2013, Energy Standard for Buildings Except Low-Rise Residential Buildings, 2013, American Society of Heating Refrigerating and Air-Conditioning Engineers, Inc., ISSN 1041-2336.</P>
+                <P>
+                    DOE has evaluated these standards and notes that the ASHRAE 90.1 Standard is developed under American National Standards Institute (ANSI)-approved consensus procedures, and is under continuous maintenance by a Standing Standard Project Committee. ASHRAE has established a program for regular publication of addenda, or revisions, including procedures for timely, documented, consensus action on requested changes to the ASHRAE 90.1 Standard. ANSI approved the final addendum for inclusion in the 2013 edition in September 2013. Standard 90.1-2013 was published in October 2013. However, DOE is unable to conclude whether ASHRAE Standard 90.1 fully complies with the requirements of section 32(b) of the FEAA (
+                    <E T="03">i.e.</E>
+                     whether they were developed in a manner that fully provides for public participation, comment, and review). DOE has consulted with both the Attorney General and the Chairman 
+                    <PRTPAGE P="68757"/>
+                    of the FTC about the impact on competition of using the methods contained in these standards and has received no comments objecting to their use.
+                </P>
+                <HD SOURCE="HD2">N. Description of Materials Incorporated by Reference</HD>
+                <P>
+                    In this rule, DOE incorporates by reference ANSI/ASHRAE/IES Standard 90.1-2013, Energy Standard for Buildings Except Low-Rise Residential Buildings, (I-P Edition), Copyright 2013. This U.S. standard provides minimum requirements for energy efficient designs for buildings except for low-rise residential buildings. Copies of this standard are available from the American Society of Heating Refrigerating and Air-Conditioning Engineers, Inc., 1791 Tullie Circle NE., Atlanta, GA 30329, (404) 636-8400, 
+                    <E T="03">http://www.ashrae.org.</E>
+                </P>
+                <HD SOURCE="HD1">VII. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule prior to its effective date. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VIII. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 433</HD>
+                    <P>Buildings and facilities, Energy conservation, Engineers, Federal buildings and facilities, Housing, Incorporation by reference.</P>
+                </LSTSUB>
+                <SIG>
+                    <DATED>Issued in Washington, DC, on October 23, 2015.</DATED>
+                    <NAME>David Danielson,</NAME>
+                    <TITLE>Assistant Secretary, Energy Efficiency and Renewable Energy.</TITLE>
+                </SIG>
+                <P>For the reasons set forth in the preamble, the Department of Energy amends chapter II of title 10 of the Code of Federal Regulations as set forth below:</P>
+                <REGTEXT TITLE="10" PART="433">
+                    <PART>
+                        <HD SOURCE="HED">PART 433âENERGY EFFICIENCY STANDARDS FOR DESIGN AND CONSTRUCTION OF NEW FEDERAL COMMERCIAL AND MULTI FAMILY HIGH RISE RESIDENTIAL BUILDINGS</HD>
+                    </PART>
+                    <AMDPAR>1. The authority citation for part 433 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                             42 U.S.C. 6831-6832; 6834-6835; 42 U.S.C. 7101 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="433">
+                    <AMDPAR>2. Amend Â§â433.2 by adding in alphabetical order the definition of âASHRAE Baseline Building 2013â to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â433.2 </SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">ASHRAE Baseline Building 2013</E>
+                             means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in ANSI/ASHRAE/IES Standard 90.1-2013, Energy Standard for Buildings Except Low-Rise Residential Buildings, 2013 (incorporated by reference, see Â§â433.3).
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="433">
+                    <AMDPAR>3. Amend Â§â433.3 by adding paragraph (b)(4) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â433.3 </SECTNO>
+                        <SUBJECT>Materials incorporated by reference.</SUBJECT>
+                        <STARS/>
+                        <P>(b) * * *</P>
+                        <P>(4) ANSI/ASHRAE/IES 90.1-2013, (âASHRAE 90.1-2013â), Energy Standard for Buildings Except Low-Rise Residential Buildings, I-P Edition, Copyright 2013, IBR approved for Â§Â§â433.2, 433.100, and 433.101.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="433">
+                    <AMDPAR>4. Amend Â§â433.100 by:</AMDPAR>
+                    <AMDPAR>a. Revising the introductory text of paragraphs (a)(2) and (3);</AMDPAR>
+                    <AMDPAR>b. Adding paragraph (a)(4); and</AMDPAR>
+                    <AMDPAR>c. Revising paragraph (b).</AMDPAR>
+                    <P>The revisions and addition read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â433.100 </SECTNO>
+                        <SUBJECT>Energy efficiency performance standard.</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>(2) All Federal agencies shall design new Federal buildings that are commercial and multi-family high-rise residential buildings, for which design for construction began on or after August 10, 2012, but before July 9, 2014, to:</P>
+                        <STARS/>
+                        <P>(3) All Federal agencies shall design new Federal buildings that are commercial and multi-family high-rise residential buildings, for which design for construction began on or after July 9, 2014, but before November 6, 2016 to:</P>
+                        <STARS/>
+                        <P>(4) All Federal agencies shall design new Federal buildings that are commercial and multi-family high-rise residential buildings, for which design for construction began on or after November 6, 2016 to:</P>
+                        <P>(i) Meet ASHRAE 90.1-2013, (incorporated by reference, see Â§â433.3); and</P>
+                        <P>(ii) If life-cycle cost-effective, achieve energy consumption levels, calculated consistent with paragraph (b) of this section, that are at least 30 percent below the levels of the ASHRAE Baseline Building 2013.</P>
+                        <P>(b) Energy consumption for the purposes of calculating the 30 percent savings requirements shall include the building envelope and energy consuming systems normally specified as part of the building design by ASHRAE 90.1 such as space heating, space cooling, ventilation, service water heating, and lighting, but shall not include receptacle and process loads not within the scope of ASHRAE 90.1 such as specialized medical or research equipment and equipment used in manufacturing processes.</P>
+                        <STARS/>
+                    </SECTION>
+                    <AMDPAR>5. Amend Â§â433.101 by:</AMDPAR>
+                    <AMDPAR>a. Revising the introductory text of paragraphs (a)(2) and (a)(3);</AMDPAR>
+                    <AMDPAR>b. Adding paragraph (a)(4); and</AMDPAR>
+                    <AMDPAR>c. Revising paragraph (b).</AMDPAR>
+                    <P>The revisions and addition read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â433.101 </SECTNO>
+                        <SUBJECT>Performance level determination.</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>(2) For Federal buildings for which design for construction began on or after August 10, 2012, but before July 9, 2014, each Federal agency shall determine energy consumption levels for both the ASHRAE Baseline Building 2007 and proposed building by using the Performance Rating Method found in Appendix G of ASHRAE 90.1-2007 (incorporated by reference, see Â§â433.3), except the formula for calculating the Performance Rating in paragraph G1.2 shall read as follows:</P>
+                        <STARS/>
+                        <P>(3) For Federal buildings for which design for construction began on or after July 9, 2014, but before November 6, 2016 each Federal agency shall determine energy consumption levels for both the ASHRAE Baseline Building 2010 and proposed building by using the Performance Rating Method found in Appendix G of ASHRAE 90.1-2010 (incorporated by reference, see Â§â433.3), except the formula for calculating the Performance Rating in paragraph G1.2 shall read as follows:</P>
+                        <STARS/>
+                        <P>(4) For Federal buildings for which design for construction began on or after before November 6, 2016 each Federal agency shall determine energy consumption levels for both the ASHRAE Baseline Building 2013 and proposed building by using the Performance Rating Method found in Appendix G of ASHRAE 90.1-2013 (incorporated by reference, see Â§â433.3), except the formula for calculating the Performance Rating in paragraph G1.2 shall read as follows:</P>
+                        <P>
+                            (i) Percentage improvement = 100 Ã ((Baseline building consumption â Receptacle and process 
+                            <PRTPAGE P="68758"/>
+                            loads)â (Proposed building consumption â Receptacle and process loads))/(Baseline building consumption â Receptacle and process loads) (which simplifies as follows):
+                        </P>
+                        <P>(ii) Percentage improvement = 100 Ã (Baseline building consumption â Proposed building consumption)/(Baseline building consumption â Receptacle and process loads).</P>
+                        <P>(b) Energy consumption for the purposes of calculating the 30 percent savings requirements in Â§â433.100 shall include the building envelope and energy consuming systems normally specified as part of the building design by ASHRAE 90.1 such as space heating, space cooling, ventilation, service water heating, and lighting, but shall not include receptacle and process loads not within the scope of ASHRAE 90.1 such as specialized medical or research equipment and equipment used in manufacturing processes.</P>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2015-28078 Filed 11-5-15; 8:45 am]</FRDOC>
+            <BILCOD> BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

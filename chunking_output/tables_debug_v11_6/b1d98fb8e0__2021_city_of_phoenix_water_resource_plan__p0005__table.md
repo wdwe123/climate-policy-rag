@@ -1,0 +1,9 @@
+[TABLE]
+| OF CONSTRUCTION.. | Col2 | Col3 | Col4 | Col5 | 65 |
+| --- | --- | --- | --- | --- | --- |
+|  | FIGURE 33. CII WATER USE SECTORS |  |  |  | 67 |
+|  |  |  |  | FIGURE 34. REDUCTIONS IN CII WATER USE BY SECTOR, 1986 TO 2016 | 68 |
+|  |  | FIGURE 35. WATER USE AT ALL PHOENIX HOSPITALS |  |  | 70 |
+|  |  |  | FIGURE 36. VEGETATION COVER OF SINGLE-FAMILY PARCELS |  | 73 |
+|  |  | FIGURE 37. PEAK VS OFF PEAK DEMAND, 1986-2018... |  |  | 74 |
+[/TABLE]

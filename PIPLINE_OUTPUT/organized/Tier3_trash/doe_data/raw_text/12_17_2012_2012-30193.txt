@@ -1,0 +1,1935 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 242 (Monday, December 17, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 242 (Monday, December 17, 2012)]
+[Rules and Regulations]
+[Pages 74559-74573]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-30193]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF ENERGY
+
+10 CFR Part 430
+
+[Docket No. EERE-2009-BT-TP-0013]
+RIN 1904-AB95
+
+
+Energy Conservation Program for Consumer Products: Test 
+Procedures for Residential Water Heaters, Direct Heating Equipment, and 
+Pool Heaters (Standby Mode and Off Mode)
+
+AGENCY:  Office of Energy Efficiency and Renewable Energy, Department 
+of Energy.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY:  Where appropriate, the U.S. Department of Energy (DOE) is 
+amending its test procedures for residential water heaters, direct 
+heating equipment (DHE), and pool heaters to include provisions for 
+measuring standby mode and off mode energy consumption, as required by 
+the Energy Independence and Security Act of 2007 (EISA 2007). DOE has 
+concluded that such amendments are necessary for direct heating 
+equipment and pool heaters, but test procedure amendments are not 
+necessary for residential water heaters, because the existing test 
+procedures for those products already address standby mode and off mode 
+energy use. These test procedure amendments are primarily based upon 
+provisions of the latest version of the International Electrotechnical 
+Commission (IEC) Standard 62301 (Second Edition 2011-01), ``Household 
+electrical appliances--Measurement of standby power,'' which is 
+incorporated by reference. For direct heating equipment and pool 
+heaters, this final rule also adds new calculations to determine the 
+annual energy consumption associated with product operation in standby 
+mode and off mode, and it modifies the existing energy consumption 
+equations to integrate standby mode and off mode energy consumption 
+into the calculation of overall annual energy consumption of these 
+products. For pool heaters only, the standby mode and off mode energy 
+consumption is integrated into the efficiency metric. This rulemaking 
+also adopts a number of definitions for key terms, as well as clarifies 
+the rounding guidance and sampling provisions for the new measurement 
+of standby mode and off mode.
+
+DATES:  This rule is effective January 16, 2013. The incorporation by 
+reference of certain publications listed in this rule is approved by 
+the Director of the Federal Register on January 16, 2013.
+    The compliance date for any representations relating to standby 
+mode and off mode of residential direct heating equipment and pool 
+heaters is June 17, 2013; on and after this date, any such 
+representations must be based upon results generated under these test 
+procedures and sampling plans. For purposes of compliance with energy 
+conservation standards, these test procedure amendments related to 
+standby mode and off mode are not required at this time, but their use 
+will be required upon the compliance date of the next standards final 
+rule which will address standby mode and off mode.
+
+ADDRESSES:  The docket for this rulemaking is available for review at 
+<a href="http://www.regulations.gov">www.regulations.gov</a>, including Federal Register notices, public meeting 
+attendee lists and transcripts, comments, and other supporting 
+documents/materials. All documents in the docket are listed in the 
+<a href="http://www.regulations.gov">www.regulations.gov</a> index. However, not all documents listed in the 
+index may be publicly available, such as information that is exempt 
+from public disclosure.
+    A link to the docket Web page can be found at <a href="http://www.regulations.gov">www.regulations.gov</a>. 
+This Web page will contain a link to the docket for this notice in the 
+<a href="http://www.regulations.gov">www.regulations.gov</a> Web site. The <a href="http://www.regulations.gov">www.regulations.gov</a> Web page contains 
+simple instructions on how to access all documents, including public 
+comments, in the docket.
+    For further information on how to review the docket, contact Ms. 
+Brenda Edwards at (202) 586-2945 or by email: 
+<a href="/cdn-cgi/l/email-protection#3b79495e555f5a157e5f4c5a495f487b5e5e155f545e155c544d"><span class="__cf_email__" data-cfemail="e9ab9b8c878d88c7ac8d9e889b8d9aa98c8cc78d868cc78e869f">[email&#160;protected]</span></a>.
+
+FOR FURTHER INFORMATION CONTACT: Mr. Mohammed Khan, U.S. Department of 
+Energy, Office of Energy Efficiency and Renewable Energy, Building 
+Technologies Program, EE-2J, 1000 Independence Avenue SW., Washington, 
+DC 20585-0121. Telephone: (202) 586-7892. Email: 
+<a href="/cdn-cgi/l/email-protection#3b7654535a56565e5f1570535a557b5e5e155f545e155c544d"><span class="__cf_email__" data-cfemail="b9f4d6d1d8d4d4dcdd97f2d1d8d7f9dcdc97ddd6dc97ded6cf">[email&#160;protected]</span></a>.
+    Mr. Eric Stas, U.S. Department of Energy, Office of the General 
+Counsel, GC-71, 1000 Independence Avenue SW., Washington, DC 20585. 
+Telephone: (202) 586-9507. Email: <a href="/cdn-cgi/l/email-protection#9fdaedf6fcb1ccebfeecdff7eeb1fbf0fab1f8f0e9"><span class="__cf_email__" data-cfemail="a2e7d0cbc18cf1d6c3d1e2cad38cc6cdc78cc5cdd4">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: This final rule incorporates by reference 
+into Part 430 the following standard:
+    ANSI Z21.56-2006 (``ANSI Z21.56''), Standard for Gas-Fired Pool 
+Heaters, approved December 13, 2005, IBR approved for Appendix P to 
+Subpart B.
+    Copies of the ANSI Z21.56-2006 can be purchased from the American 
+National Standards Institute, 11 West 42nd Street, New York, New York 
+10036, (212) 642-4936, or <a href="http://webstore.ansi.org">http://webstore.ansi.org</a>.
+
+Table of Contents
+
+I. Background and Authority
+II. Summary of the Final Rule
+III. Discussion
+    A. Determination Not To Amend Test Procedures for Residential 
+Water Heaters
+    B. Use of IEC Standard 62301 (Second Edition), ``Household 
+Electrical Appliances--Measurement of Standby Power''
+    C. Requirements for Unvented Heaters and Exclusion From Testing
+    D. Technical Feasibility of an Integrated Efficiency Metric for 
+Vented Heaters and Pool Heaters
+    E. Hearth Products Coverage
+    F. Review of Burner Operating Hours Estimates
+    G. Other Issues Raised in the Supplemental Notice of Proposed 
+Rulemaking
+IV. Effective Date and Compliance Date
+V. Compliance With Other EPCA Requirements
+VI. Procedural Issues and Regulatory Review
+A. Review Under Executive Order 12866
+    B. Review Under the Regulatory Flexibility Act
+    C. Review Under the Paperwork Reduction Act of 1995
+    D. Review Under the National Environmental Policy Act of 1969
+    E. Review Under Executive Order 13132
+    F. Review Under Executive Order 12988
+    G. Review Under the Unfunded Mandates Reform Act of 1995
+    H. Review Under the Treasury and General Government 
+Appropriations Act, 1999
+    I. Review Under Executive Order 12630
+    J. Review Under the Treasury and General Government 
+Appropriations Act, 2001
+    K. Review Under Executive Order 13211
+    L. Review Under Section 32 of the Federal Energy Administration 
+Act of 1974
+    M. Congressional Notification
+VII. Approval of the Office of the Secretary
+
+I. Background and Authority
+
+    Title III of the Energy Policy and Conservation Act (42 U.S.C. 6291 
+et seq.; EPCA or the Act) sets forth a variety of provisions designed 
+to improve energy efficiency. Part A \1\ of Title III (42 U.S.C. 6291-
+6309) establishes the ``Energy Conservation Program for Consumer 
+Products Other Than Automobiles,'' including
+
+[[Page 74560]]
+
+residential water heaters, direct heating equipment, and pool heaters 
+(all of which are referenced below as ``covered products'').\2\ (42 
+U.S.C. 6292(a)(4), (9), and (11))
+---------------------------------------------------------------------------
+
+    \1\ This part was originally titled Part B. It was redesignated 
+Part A in the United States Code for editorial reasons.
+    \2\ All references to EPCA refer to the statute as amended 
+through the Energy Independence and Security Act of 2007, Public Law 
+110-140.
+---------------------------------------------------------------------------
+
+    Under the Act, this program consists essentially of four parts: (1) 
+Testing; (2) labeling; (3) establishing Federal energy conservation 
+standards; and (4) certification and enforcement procedures. The 
+testing requirements consist of test procedures that manufacturers of 
+covered products must use as the basis for certifying to DOE that their 
+products comply with applicable energy conservation standards adopted 
+pursuant to EPCA and for making representations about the efficiency of 
+those products. (42 U.S.C. 6293(c); 42 U.S.C. 6295(s)) Similarly, DOE 
+must use these test procedures to determine whether the products comply 
+with standards adopted under EPCA. (42 U.S.C. 6295(s))
+    Under 42 U.S.C. 6293, EPCA sets forth criteria and procedures that 
+DOE must follow when prescribing or amending test procedures for 
+covered products. EPCA provides, in relevant part, that any test 
+procedures prescribed or amended under this section must be reasonably 
+designed to produce test results which measure energy efficiency, 
+energy use, or estimated annual operating cost of a covered product 
+during a representative average use cycle or period of use, and must 
+not be unduly burdensome to conduct. (42 U.S.C. 6293(b)(3))
+    In addition, if DOE determines that a test procedure amendment is 
+warranted, it must publish proposed test procedures and offer the 
+public an opportunity to present oral and written comments on them. (42 
+U.S.C. 6293(b)(2)) Finally, in any rulemaking to amend a test 
+procedure, DOE must determine the extent to which the proposed test 
+procedure would alter the product's measured energy efficiency. (42 
+U.S.C. 6293(e)(1)) If DOE determines that the amended test procedure 
+would alter the measured efficiency of a covered product, DOE must 
+amend the applicable energy conservation standard accordingly. (42 
+U.S.C. 6293(e)(2))
+    On December 19, 2007, the Energy Independence and Security Act of 
+2007 (EISA 2007), Public Law 110-140, was enacted. The EISA 2007 
+amendments to EPCA, in relevant part, require DOE to amend the test 
+procedures for all covered products to include measures of standby mode 
+and off mode energy consumption. Specifically, section 310 of EISA 2007 
+provides definitions of ``active mode,'' ``standby mode,'' and ``off 
+mode'' (42 U.S.C. 6295(gg)(1)(A)); however, the statute permits DOE to 
+amend these definitions in the context of a given product (42 U.S.C. 
+6295(gg)(1)(B)). The statute requires integration of such energy 
+consumption into the overall energy efficiency, energy consumption, or 
+other energy descriptor for each covered product, unless the Secretary 
+determines that: (1) The current test procedures for a covered product 
+already fully account for and incorporate the standby mode and off mode 
+energy consumption of the covered product; or (2) such an integrated 
+test procedure is technically infeasible for a particular covered 
+product, in which case the Secretary shall prescribe a separate standby 
+mode and off mode energy use test procedure for the covered product, if 
+technically feasible. (42 U.S.C. 6295(gg)(2)(A))
+    Under the statutory provisions adopted by EISA 2007, any such 
+amendment must consider the most current versions of IEC Standard 
+62301, Household electrical appliances--Measurement of standby power, 
+and IEC Standard 62087, Methods of measurement for the power 
+consumption of audio, video, and related equipment .\3\ Id. At the time 
+of enactment of EISA 2007, the most current version of the relevant IEC 
+standard was IEC Standard 62301 (First Edition 2005-06).\4\
+---------------------------------------------------------------------------
+
+    \3\ IEC standards are available for purchase at: www.iec.ch.
+    \4\ EISA 2007 directs DOE to also consider IEC Standard 62087 
+when amending its test procedures to include standby mode and off 
+mode energy consumption. See 42 U.S.C. 6295(gg)(2)(A). However, IEC 
+Standard 62087 addresses the methods ofmeasuring the power 
+consumption of audio, video, and related equipment. Accordingly, the 
+narrow scope of this particular IEC standard reduces its relevance 
+to today's rule.
+---------------------------------------------------------------------------
+
+    DOE's test procedures for residential water heaters are found in 
+the Code of Federal Regulations (CFR) at 10 CFR 430.23(e) and 10 CFR 
+part 430, subpart B, appendix E. The test procedures include provisions 
+for determining the energy efficiency (energy factor (EF)), as well as 
+the annual energy consumption of these products.
+    There are separate test procedures for the two types of direct 
+heating equipment (i.e., vented home heating equipment and unvented 
+home heating equipment), specifically 10 CFR 430.23(g) and 10 CFR part 
+430, subpart B, appendix G for unvented home heating equipment, and 10 
+CFR 430.23(o) and 10 CFR part 430, subpart B, appendix O for vented 
+home heating equipment. (Hereafter in this notice, the terms ``vented 
+heater'' and ``unvented heater'' are used as shorthand to describe the 
+two types of direct heating equipment.) The vented heater test 
+procedures include provisions for determining energy efficiency (annual 
+fuel utilization efficiency (AFUE)), as well as annual energy 
+consumption. The unvented heater test procedures currently have no 
+provisions for determining energy efficiency, as all unvented heaters 
+are considered 100-percent efficient, because there is no opportunity 
+for energy loss as is the case for vented heaters. However, for 
+unvented heaters that are the primary heating source for the home, 
+there is a calculation of annual energy consumption based on a single 
+assignment of active mode hours. For unvented heaters that are not the 
+primary heating source for the home, there are no calculation 
+provisions for either efficiency or annual energy consumption. Given 
+that unvented heaters are considered 100-percent efficient, DOE has not 
+established a test procedure for determining energy efficiency of these 
+products (and thus, has not established energy conservation standards 
+for these products), as there would be no energy savings that would 
+result from such actions.
+    DOE's test procedures for pool heaters are found at 10 CFR 
+430.23(p) and 10 CFR part 430, subpart B, appendix P. The test 
+procedures include provisions for determining two energy efficiency 
+descriptors (i.e., thermal efficiency and pool heater heating seasonal 
+efficiency), as well as seasonal energy consumption.
+    The test procedures for residential water heaters include a full-
+year accounting of energy use, both electricity and fossil fuel as 
+applicable to a given water heater. Specifically, the standby loss 
+testing in the existing test procedure is synonymous with what EISA 
+2007 asks for inclusion in all test procedures, and, the EISA 2007 
+definition of ``off mode'' is inapposite to water heater operation. 
+Accordingly, it was tentatively concluded that the current test 
+procedures for water heaters already fully account for and incorporate 
+measurement of standby mode and off mode energy consumption, as 
+required by EISA 2007.
+    It is important to note that fossil-fueled direct heating equipment 
+and pool heaters typically consume both fossil fuel and electricity. 
+Electric direct heating equipment only consumes electricity. In the 
+existing test procedures for direct heating equipment, fossil-fuel 
+energy consumption is accounted for comprehensively over a full-year 
+cycle, thereby satisfying EISA 2007
+
+[[Page 74561]]
+
+requirements for fossil-fuel standby mode and off mode energy 
+consumption. In the existing test procedures for pool heaters, fossil-
+fuel standby mode is included but off mode is not included. Electrical 
+energy consumption in standby mode and off mode is not accounted for in 
+either the direct heating equipment or pool heater test procedure.
+    Proposed amendments to account for the energy consumption in 
+standby mode and off mode of the products subject to this rulemaking 
+were included in a notice of proposed rulemaking (NOPR) that was 
+published in the Federal Register on August 30, 2010. 75 FR 52892. 
+DOE's proposal was presented and explained at a public meeting on 
+September 24, 2010 at DOE headquarters in Washington, DC. DOE invited 
+written comments, data, and information on the NOPR and accepted such 
+material through November 15, 2010. Based upon public comments, DOE 
+subsequently issued a supplemental notice of proposed rulemaking 
+(SNOPR) which would reference the updated second edition of the IEC 
+Standard 62301. 76 FR 56347 (Sept. 13, 2011). DOE invited written 
+comments, data, and information on the SNOPR through October 13, 
+2011.\5\
+---------------------------------------------------------------------------
+
+    \5\ DOE notes that it is currently considering potential 
+revisions to the test procedures for residential water heaters, 
+direct heating equipment, and pool heaters in a separate rulemaking. 
+This inquiry is more broadly focused and includes consideration of 
+active mode operation, in contrast to today's final rule, which is 
+limited to standby mode and off mode. DOE published a request for 
+information (RFI) for this rulemaking in the Federal Register on 
+October 12, 2011. 76 FR 63211.
+---------------------------------------------------------------------------
+
+II. Summary of the Final Rule
+
+    In general, DOE has retained the approach to incorporate standby 
+mode and off mode presented in the August 2010 NOPR, as well as 
+incorporation by reference of the latest version of the relevant 
+industry standard proposed in the September 2011 SNOPR, with some 
+modifications based upon public comment input.
+    As proposed in the August 2010 NOPR, DOE is amending its test 
+procedures for direct heating equipment and pool heaters to provide for 
+the measurement of electrical standby mode and off mode power by using 
+the IEC's Standard 62301, ``Household electrical appliances--
+Measurement of standby power,'' as well as language to clarify 
+application of this IEC standard. In addition, this final rule adds new 
+calculations to determine annual energy consumption associated with the 
+standby mode and off mode measured power. For pool heaters, the 
+calculations are expanded to include an off mode for fossil-fuel energy 
+consumption, which was not previously accounted for by the test 
+procedure. For vented direct heating equipment, DOE has determined that 
+it is not technically feasible to integrate standby mode and off mode 
+electrical energy consumption into the calculation of overall energy 
+efficiency (annual fuel utilization efficiency (AFUE)). This is 
+primarily because the magnitude of the electrical energy for standby 
+mode and off mode would be so comparatively small that in most cases, 
+no change in the reported AFUE would result from the integration. 
+However, the amendments for pool heaters provide for an integrated 
+efficiency metric, because, for this product, it is technically 
+feasible to integrate standby mode and off mode energy consumption into 
+the calculation of overall annual energy efficiency. The amendments for 
+unvented heaters only required measurement of standby mode and off mode 
+energy consumption and, unlike the amendments for vented heaters, do 
+not require this consumption to be integrated into an annual energy 
+consumption accounting. This is because a detailed annual energy 
+consumption accounting is not deemed appropriate for this product type 
+(i.e., no annual accounting at all for supplemental heaters and only a 
+simplified assigned value for primary heaters). No amendments are 
+prescribed for residential water heaters, because the existing test 
+procedure and metric for water heaters already account for standby mode 
+and off mode energy consumption.
+
+III. Discussion
+
+    In the August 30, 2010 NOPR and at the subsequent September 24, 
+2010 public meeting, DOE sought input from interested parties on the 
+proposed amendments to the DOE test procedures to address the standby 
+mode and off mode energy consumption of residential water heaters, 
+direct heating equipment, and pool heaters. Seven written comments were 
+received from interested parties including: Bradford White Corporation 
+(BWC), the Hearth, Patio & Barbecue Association (HPBA), the Air-
+Conditioning, Heating and Refrigeration Institute (AHRI), the American 
+Council for an Energy-Efficient Economy (ACEEE), the Association of 
+Home Appliance Manufacturers (AHAM), Natural Resources Defense Council 
+(NRDC), and Pacific Gas and Electric Company (PG&E). All comments were 
+generally supportive of the proposed amendments but asked for 
+clarification and consideration of some specific modifications to 
+possibly improve the amendments.
+    In addition, three comments were received in response to the 
+September 13, 2011 SNOPR to incorporate IEC Standard 62301 (Second 
+Edition). Comments were submitted by AHRI, AHAM, and a joint comment 
+from Appliance Standards Awareness Project, American Council for an 
+Energy-Efficiency Economy, and Northwest Energy Efficiency Alliance 
+(ASAP et al). These comments were all supportive of the incorporation 
+of IEC Standard 62301 (Second Edition).
+    The following discussion addresses the five specific issues that 
+were identified in both comment periods and at the public hearing.
+
+A. Determination Not To Amend Test Procedures for Residential Water 
+Heaters
+
+    As discussed in the August 2010 NOPR, the test procedures for 
+residential water heaters include a full-year accounting of energy use, 
+both electricity and fossil fuel as applicable to a given water heater. 
+75 FR 52892, 52895 (August 30, 2010). Specifically, the standby loss 
+testing in the existing test procedure is synonymous with what EISA 
+2007 asks for inclusion in all test procedures, and the EISA 2007 
+definition of ``off mode'' is inapposite to water heater operation. 
+Accordingly, it was tentatively concluded that the current test 
+procedures for water heaters already fully account for and incorporate 
+measurement of standby mode and off mode energy consumption, as 
+required by EISA 2007. (42 U.S.C. 6295(gg)(2)(A))
+    Bradford White and AHRI were supportive of DOE's determination that 
+the existing water heater test procedures already fully account for 
+standby mode and off mode energy consumption and that no amendments are 
+necessary. (Bradford White, No. 7 at p.1, AHRI, No. 13 at p. 2)
+    ACEEE also supported the determination, but expressed concern that 
+DOE ``does not recognize that some `residential' water heaters now have 
+a true `Off' switch and that the future may bring more water heaters 
+with `off' modes that are power consuming.'' ACEEE also opined that 
+consideration of this issue, now rather than later, would be 
+beneficial. (ACEEE, No. 14 at p. 1) DOE agrees that if a more complete 
+or accurate measure of energy consumption or energy efficiency can be 
+developed, it should be considered for adoption in the DOE test 
+procedures as soon as possible. However, there exist a number of 
+analytical questions that would need to be investigated and answered 
+before DOE could take such
+
+[[Page 74562]]
+
+action for residential water heaters, as explained below.
+    The ACEEE comment focuses on adding provisions to measure the power 
+that might be consumed during a possible off mode and not on the due 
+diligence necessary to develop a consistent and credible basis for 
+defining and measuring off mode energy consumption in the water heater 
+test procedures. DOE's market research did not identify any residential 
+water heater with an ``Off'' switch. Moreover, ACEEE did not identify 
+any basic model of water heater with an ``Off'' switch, so DOE is 
+unaware of the existence of such products and thus cannot analyze them 
+for power consumption in off mode. Consequently, DOE has concluded that 
+while ACEEE raises an issue that should be kept in mind, it remains a 
+hypothetical concern at this time. The current test procedure 
+accounting assumes residential water heaters are in service for the 
+entire year and do not have or operate in an off mode. This assumed 
+level of service is representative of how residential water heaters are 
+used in most households and, therefore, consistent with statutory 
+requirements. More specifically, EPCA requires that new or amended test 
+procedures shall be reasonably designed to produce test results which 
+measure energy efficiency, energy use, or estimated annual operating 
+cost of a covered product during a representative average use cycle or 
+period of use and shall not be unduly burdensome to conduct. (42 U.S.C. 
+6293(b)(3) (emphasis added)) This is not to say that every residential 
+water heater will be used this way in the field, but rather, it is the 
+most representative use cycle or period of use. The commenter's 
+suggested off mode that might be the subject of a DOE water heater test 
+procedure amendment would be best described as ``out of service'' mode. 
+Here, it is important to note that all water heaters can be taken out 
+of service for various reasons and by various methods (e.g., circuit 
+breakers, gas valves). DOE realizes that residential water heaters can 
+be taken out of service for various reasons, but DOE is not aware what 
+design feature of current residential water heaters would in fact 
+produce an out of service mode different (i.e., an off mode) than that 
+which would occur normally (e.g., disconnecting the power supply in a 
+unoccupied home).
+    The ACEEE comment seems to suggest that a more conveniently placed 
+``Off'' switch (one which would allow the consumer to disconnect the 
+water heater from its electrical power or fossil-fuel source) could be 
+a design feature that needs to be addressed in the test procedure. 
+Here, it is important to note that the purpose of the test procedures 
+is to develop a uniform basis of differentiation in terms of energy 
+efficiency or annual consumption that would be associated with any 
+design feature. As such, for purposes of a possible test procedure 
+amendment, a determination would need to be made regarding the consumer 
+behavioral difference that, in fact, may result from an off mode design 
+feature and what, if any, energy savings would result. As noted above, 
+DOE is not aware of any developments in this area by the water heating 
+industry. Further, DOE published a request for information (RFI) which 
+initiated a rulemaking and data collection process broadly to consider 
+amendments to DOE's test procedures for residential water heaters. 76 
+FR 63211 (Oct. 12, 2011). This RFI did identify those portions of the 
+test procedure where DOE believes amendments may be warranted, but it 
+also invited interested parties to provide comments on any aspect of 
+the residential water heater test procedure. DOE did not receive any 
+comments asking for adoption of an off period, as suggested by ACEEE.
+    This is not to say there may not be some possible energy savings 
+potential for this concept eventually, but rather that DOE believes it 
+is not appropriate to include such concept in the analytical basis of 
+the test procedure at this time.
+    In consideration of all of the above, DOE cannot, at this time take 
+action to amend the water heater test procedure in the manner suggested 
+by the commenter until the off switch concept is more fully developed 
+and the need for such amendment has been established. With that said, 
+DOE continues to monitor advancements in technologies related to all 
+regulated products, including water heaters, and it will consider 
+applicable technological improvements in its development of both test 
+procedures and energy conservation standards in the context of future 
+rulemakings.
+
+B. Use of IEC Standard 62301 (Second Edition), ``Household Electrical 
+Appliances--Measurement of Standby Power''
+
+    As noted in the August 2010 NOPR, EPCA, as amended by EISA 2007, 
+requires that test procedures be amended to include standby mode and 
+off mode energy consumption, taking into consideration the most current 
+versions of Standards 62301 and 62087 of the International 
+Electrotechnical Commission. 75 FR 52892, 52893-94 (August 30, 2010) 
+(citing 42 U.S.C. 6295(gg)(2)(A)). The August 2010 NOPR proposed to 
+amend the DOE test procedures for direct heating equipment and pool 
+heaters by referencing IEC Standard 62301 (First Edition) to obtain the 
+standby mode and off mode measured wattage. Id. at 52895. The amended 
+DOE test procedures would use these measured wattages in calculations 
+to accomplish the incorporation of standby mode and off mode energy 
+consumption into the test procedures. DOE reviewed the IEC Standard 
+62301 (First Edition) and tentatively concluded that it would be 
+generally applicable to direct heating equipment and pool heaters, 
+although some clarification would be needed. Specifically, because 
+there is a possible conflict with provisions of the existing 
+procedures, the NOPR proposed to clarify where the IEC provisions would 
+apply and where the DOE test procedure provisions would apply. Id. at 
+52897 and 52900-01. With these clarifications, the NOPR proposed to 
+reference IEC Standard 62301 (First Edition) for the wattage 
+measurements. It is noted that IEC Standard 62301 (First Edition) had 
+been incorporated by reference in 10 CFR 430.3, Materials incorporated 
+by reference, as part of the final rule amending the residential 
+furnaces and boilers test procedure. 75 FR 64621 (Oct. 20, 2010).
+    In written comments on the August 2010 NOPR, AHRI and AHAM asked 
+that DOE consider referencing a revised version of the industry 
+standard--IEC Standard 62301 (Second Edition). Both commenters cited 
+technical improvements in the latter version that they expect would 
+enhance repeatability and reproducibility of test results. (AHRI, No. 
+13 at p. 1, AHAM, No. 15 at p. 2) AHAM additionally commented that the 
+Final Draft International Standard (FDIS) version of IEC Standard 62301 
+would be preferable to the Committee Draft for Vote (CDV) version of 
+the standard, both of which were available at the time of DOE's NOPR. 
+(AHAM, No. 15 at p.2) The CDV of IEC Standard 62301 was released on 
+August 28, 2009, and the FDIS of IEC Standard 62301 was released on 
+October 29, 2010. On this matter, DOE notes that because IEC has now 
+formally adopted IEC Standard 62301 (Second Edition), DOE is no longer 
+considering earlier draft versions. In any event, the adopted version 
+is consistent with the preference suggested by AHRI and AHAM.
+    As mentioned above, since the time of the August 2010 NOPR, the IEC 
+Standard 62301 technical committee has officially revised its standard. 
+Specifically, a second edition of IEC
+
+[[Page 74563]]
+
+Standard 62301 has been issued by IEC with a final publication date of 
+January 27, 2011.
+    DOE has conducted a review of the second edition of IEC Standard 
+62301, which is consistent with the requirement in EISA 2007 for DOE to 
+consider the most current version of that standard. (42 U.S.C. 
+6295(gg)(2)(A)) As a result of its investigation, DOE agrees with AHRI 
+and AHAM that some improvement to the test procedures may be possible 
+with the incorporation of the second edition of the IEC standard as 
+applied to the products that are the subject of this rulemaking. 
+Specifically, IEC Standard 62301 (Second Edition) revises the 
+standard's power measurement accuracy provisions, based on technical 
+submissions that showed the inability to achieve the accuracy levels 
+required by the first edition for certain operating regimes with the 
+use of typical instrumentation. A more comprehensive specification of 
+required accuracy is provided in IEC Standard 62301 (Second Edition) 
+that depends upon the characteristics of the power being measured. The 
+other major change in IEC Standard 62301 (Second Edition) that relates 
+to the measurement of standby mode power consumption of covered 
+products involves the specification of stability criteria required to 
+measure that power. IEC Standard 62301 (Second Edition) contains more 
+detailed techniques to evaluate the stability of the power consumption 
+and to measure the power consumption for stable loads with less 
+burdensome methods such as direct meter reading, if certain clearly 
+described conditions are met. DOE believes that the changes 
+incorporated in IEC Standard 62301 (Second Edition) would allow for use 
+of less burdensome methods when appropriate and would ensure accurate 
+measures of standby mode energy consumption over a range of operating 
+conditions encountered by typical residential heating products.
+    As discussed above, DOE published a supplemental notice of proposed 
+rulemaking in the Federal Register on September 13, 2011 (the September 
+2011 SNOPR), which proposed to use the second edition of IEC Standard 
+62301 in lieu of the first edition. 76 FR 56347. Comments on the SNOPR 
+were received from AHAM and AHRI, and a joint comment was submitted by 
+the Appliance Standards Awareness Project, American Council for an 
+Energy-Efficient Economy, and Northwest Energy Efficiency Alliance 
+(ASAP et al). All comments were supportive of the use of IEC Standard 
+62301 (Second Edition). (AHAM, No. 22 at p. 1, AHRI, No. 24 at p. 1, 
+and ASAP et al, No. 23 at p. 1) In addition, ASAP et al added that 
+referencing the most recent version of the IEC Standard 62301 would 
+facilitate international harmonization of standby mode and off mode 
+test procedures. (ASAP et al, No. 23 at p. 1)
+    Accordingly, for the reasons discussed above, DOE is incorporating 
+IEC Standard 62301 (Second Edition) into DOE's test procedure 
+regulations for residential direct heating equipment and pool heaters. 
+To this end, this final rule adds a new reference in 10 CFR 430.3, 
+Materials incorporated by reference, for IEC Standard 62301 (Second 
+Edition) but does not remove the existing reference to IEC Standard 
+62301 (First Edition) at 10 CFR 430.3(m)(1). (Although DOE has 
+determined that the provisions of IEC Standard 62301 (Second Edition) 
+shall be applicable to residential direct heating equipment and pool 
+heaters, the Department is currently maintaining the existing reference 
+to IEC Standard 62301 (First Edition), because other covered products 
+continue to reference that standard.) In addition, DOE is issuing a 
+number of editorial changes in the various appendices (G, O, and P) 
+which are necessary for residential direct heating equipment and pool 
+heaters to allow for the correct referencing. For example, the 
+definition sections of the individual appendices need to define IEC 
+Standard 62301 as the second edition instead of the first edition. 
+Also, there are some section numbering differences in the second 
+edition which impact the text of the measurement provisions of DOE's 
+various test procedures. Finally, as an editorial improvement, DOE is 
+unifying the standby mode and off mode nomenclature used in the various 
+test procedures. Specifically, the uniform nomenclature for electrical 
+power consumption in standby mode and off mode will be P<INF>W,SB</INF> 
+and P<INF>W,OFF</INF>, respectively. All of these changes are reflected 
+in the regulatory text which can be found at the end of this final 
+rule.
+
+C. Requirements for Unvented Heaters and Exclusion From Testing
+
+    In the August 2010 NOPR, DOE proposed only to add certain 
+measurement provisions to the existing test procedures for unvented 
+heaters and not to include added or amended calculations to quantify 
+annual standby mode and off mode energy consumption. In addition, DOE 
+tentatively concluded that for some manually-controlled portable 
+heaters, no testing for standby mode or off mode is required, because 
+the units are expected to be inoperable during these modes. 75 FR 
+52892, 52898-99 (August 30, 2010). AHRI, AHAM, and NRDC were supportive 
+of the proposed amendments for unvented heaters, including the 
+exclusion from the requirement to conduct standby mode and off mode 
+testing when there is a means to disconnect the power source and 
+instructions to do so are clearly visible. AHRI and NRDC asked that the 
+exclusion provisions be clarified to avoid ambiguity and possible 
+operational problems. AHAM fully supported these provisions and offered 
+further evidence as to the appropriateness of the exclusion provisions. 
+(AHRI, No. 13 at p. 2, AHAM, No. 15 at p. 2-3, and, NRDC, No. 16 at p. 
+1-2.) AHAM restated its support for these provisions in its comments on 
+the September 2011 SNOPR. (AHAM, No. 22 at p. 2.) AHRI additionally 
+questioned the necessity of any amendments for unvented gas space 
+heaters. (AHRI, No. 13 at p. 2.)
+    The August NOPR proposed for unvented heaters to add separate 
+provisions to measure the possible standby mode and off mode energy 
+consumption for both fossil fuel and electricity. These added 
+provisions would allow for exclusion from the standby mode and off mode 
+requirements if there is means to disconnect the electric or gas power 
+source when not in use and instructions to do so are clearly visible. 
+This exclusion is identical to what is currently in the existing vented 
+heater test procedures as applied to pilot lights on manually-
+controlled heaters. DOE believes this exclusion should also apply to 
+unvented heaters so equipped.
+    After carefully considering the public comments and available 
+information, DOE reviewed the proposed provisions for unvented heaters, 
+particularly the exclusion provisions, and has reached the following 
+conclusions. For electric heaters, DOE has decided to adopt the 
+regulatory provisions, as proposed. The commenters did not provide 
+specific additional clarification, and DOE does not see where such 
+additional guidance or information would be beneficial. For gas 
+unvented heaters, DOE recognizes the point the commenters make 
+regarding clear instructions and the point that AHRI raises concerning 
+the unnecessary turning on and off of pilot lights during the heating 
+season. (AHRI, No. 13 at p. 2) However, DOE believes this issue is best 
+addressed by the industry in its development of instructions and labels 
+and not within the scope of this DOE test procedure rulemaking.
+    Regarding AHRI's suggestion to not require any amendments for 
+unvented heaters (because to AHRI's knowledge,
+
+[[Page 74564]]
+
+there are not any unvented heaters that have electrical standby mode 
+and off mode energy consumption), DOE is not convinced there is no 
+possibility for these products to experience electrical standby mode or 
+off mode energy consumption, either currently or in the future. It is 
+important to note, today's final rule does not require any testing for 
+the products that AHRI reports as having no possibility of electrical 
+standby mode or off mode energy consumption (i.e., unvented heaters 
+that have no electrical connection at all). Adopting the amendments as 
+proposed will allow DOE to meet its EISA 2007 mandate without adding 
+unnecessary burden on the manufacturers of current products of this 
+product type.
+
+D. Technical Feasibility of an Integrated Efficiency Metric for Vented 
+Heaters and Pool Heaters
+
+    The NOPR proposed an integrated thermal efficiency metric for pool 
+heaters, but did not propose an integrated annual fuel utilization 
+efficiency for vented heaters. All commenters that provided input on 
+this issue were supportive of the proposal not to integrate the standby 
+mode and off mode energy consumption into the AFUE metric for vented 
+heaters because such integration would not likely change the reported 
+AFUE numerical value. AHRI, NRDC, and PG&E all recommended that DOE 
+adopt the same approach for pool heaters. AHRI restated its opposition 
+to integrating standby mode and off mode energy consumption into the 
+efficiency metric for pool heaters when commenting on the September 
+2011 SNOPR. These commenters believed that integration would not 
+materially affect the reported value generated by the efficiency metric 
+for pool heaters. A second objection raised by these commenters 
+involved the use of the term ``integrated thermal efficiency,'' who 
+argued that this terminology has specific meaning in the pool heater 
+industry which is not consistent with the meaning proposed by DOE. 
+(AHRI, No. 13 at pp. 2-5, ACEEE, No. 14 at pp. 1-2, NRDC, No. 016 at 
+pp. 2-3, PG&G 017 at p. 2, and, AHRI, No. 24 at p. 1)
+    DOE considered proposing an integrated AFUE for vented heaters that 
+would incorporate the standby mode and off mode energy consumption into 
+the existing AFUE metric by adding this additional energy consumption 
+to the active energy consumption already captured by the AFUE quotient. 
+However, DOE has determined that such integration is technically 
+infeasible for vented heaters. This is because the electrical standby 
+mode and off mode energy usage would typically be relegated to 
+background noise vis-[agrave]-vis the much greater active mode energy 
+consumption, due to the fact that most manufacturers' ratings of AFUE 
+(as well as the current energy conservation standards) are presented to 
+the nearest whole number, and the magnitude of the energy for standby 
+mode and off mode would be so comparatively small that it would not 
+likely change the reported value. As a result, DOE expects that in most 
+cases, no change in the reported AFUE would result from integration. 
+For these reasons, DOE believes integrating electrical standby mode and 
+off mode energy consumption into the AFUE descriptor for vented heaters 
+would not provide useful or meaningful information and is, therefore, 
+technically infeasible.
+    DOE's proposed approach for vented heaters would allow for the 
+measurement of standby mode and off mode electrical \6\ energy 
+consumption of all vented heater products. Although the magnitude of 
+energy savings may be small for a given unit, it could be substantial 
+when aggregated across the full range of this covered product over 
+DOE's typical 30-year analysis period for setting standards. As 
+required by EPCA, DOE will further address the standby mode and off 
+mode electrical energy consumption of vented heaters in the next energy 
+conservation standards rulemaking. (42 U.S.C. 6295(gg)(3))
+---------------------------------------------------------------------------
+
+    \6\ Fossil-fuel standby mode and off mode energy consumption is 
+already accounted for in the AFUE metric.
+---------------------------------------------------------------------------
+
+    Unlike the integrated AFUE for vented heaters, DOE tentatively 
+concluded in the August 2010 NOPR that an integrated efficiency metric 
+for pool heaters is technically feasible and would provide measurable 
+performance differentiation. 75 FR 52892, 52900 (August 30, 2010). As 
+explained in the NOPR, this is because the standby mode and off mode 
+energy consumption for pool heaters is significant relative to the 
+active mode energy consumption, as expressed in the original thermal 
+efficiency descriptor. There were two contributing factors to this 
+conclusion: (1) The standby mode and off mode energy consumption 
+includes both fossil fuel and electrical energy consumption (thereby 
+contributing to the overall magnitude of such energy consumption), and 
+(2) pool heaters have a relatively smaller number of operating hours 
+associated with active mode energy consumption. In support of this 
+determination of a significant difference, the NOPR maintained that a 
+standing pilot light alone could move the efficiency metric a few 
+percentage points. Id. Further in support, and realizing that some pool 
+heaters do not have standing pilot lights, DOE testing shows a 1 
+percentage point difference based solely on the added electrical 
+standby mode and off mode consumption of a unit without a standing 
+pilot light. Certain commenters argued that although the relative 
+magnitude of the effect is larger for pool heaters than direct heating 
+equipment, it is still very small and, as a result, would not allow for 
+effective consumer information or government regulation. (AHRI, No. 13 
+at pp. 3-5, and, PG&G 017 at p. 2) Additional opposition to the 
+integration was pointed out in the comments of NRDC, which stated that 
+the commingling of electricity and fossil fuels in the integrated 
+metric is not preferred, because it does not allow for separate 
+analysis of the source energy value of electrical standby mode and off 
+mode energy consumption. (NRDC, No. 016 at pp. 2-3.) These commenters 
+preferred the separate metric approach for both test procedures and 
+energy conservation standards.
+    DOE has reviewed this issue, carefully considering the public 
+comments, and has determined it must maintain the integrated efficiency 
+metric approach for pool heaters because it is technically feasible to 
+do so. This is DOE's mandate under EPCA, as amended by EISA 2007. (42 
+U.S.C. 6295(gg)(2)(A)) As with vented heaters (and any other future 
+energy conservation standards rulemaking for covered consumer 
+products), DOE must address the standby mode and off mode energy 
+consumption in the next standards rulemaking. The integrated metric 
+adopted in this final rule will be the regulating metric for purposes 
+of pool heater standards, once the standard is amended to also address 
+standby mode and off mode energy consumption.
+    Finally, on the matter of the commenters' objection to the 
+terminology ``integrated thermal efficiency,'' DOE has retained this 
+terminology in this final rule, for the reasons described below. By way 
+of background, EPCA's definition of ``efficiency descriptor'' 
+specifically states that for pool heaters, the descriptor shall be 
+thermal efficiency. (42 U.S.C. 6291(22)(E)) Accordingly, the 
+``integrated thermal efficiency'' terminology was proposed to maintain 
+consistency with the statute. This approach would allow for the 
+integration and incorporation of standby mode and off mode energy 
+consumption into the test procedure as called for in 42 U.S.C. 
+6295(gg)(2)(A) and eventual incorporation in the energy
+
+[[Page 74565]]
+
+conservation standard as called for in 42 U.S.C. 6295(gg)(3). The 
+original ``thermal efficiency'' descriptor would remain in the test 
+procedure to provide the regulating basis for the current energy 
+conservation standard. Commenters pointed out that the term ``thermal 
+efficiency'' has a specific meaning in the industry. Specifically, 
+``thermal efficiency'' is based on the industry test methods (ANSI 
+Z21.56, ``Standard for Gas-Fired Pool Heaters'') and describes the pool 
+heater's performance in terms of heating water and not the unit's 
+overall performance, including the energy liability that might be 
+associated with standby mode and off mode operation. AHRI suggested 
+that the existing test procedure terminology ``heating seasonal 
+efficiency'' would be preferable, because it is an extension of thermal 
+efficiency that includes the pilot light consumption in standby mode 
+and is ideally suited for modification to include the standby mode and 
+off mode electrical energy consumption. (However, DOE notes that the 
+heating seasonal efficiency descriptor, as suggested by AHRI, does not 
+fully account for the standby hours in the non-heating season, unlike 
+DOE's integrated thermal efficiency descriptor. Moreover, DOE believes 
+that including the non-heating standby hours in a seaonal metric could 
+also cause confusion, because the metric would then be a bit of a 
+misnomer.)
+    Nevertheless, despite commenters' preference for a different metric 
+and terminology to measure the performance of pool heaters, one cannot 
+lose sight of the fact that EPCA specifically states that the 
+efficiency descriptor for pool heaters shall be thermal efficiency (42 
+U.S.C. 6291(22)(E)), and the statute also requires DOE to account for 
+standby mode and off mode energy consumption in an integrated metric, 
+if technically feasible (42 U.S.C. 6295(gg)(2)(A) and (3)). Thus, DOE 
+does not have lattitude to adopt other metrics as commenters suggested. 
+Instead, the Department is adopting integrated thermal efficiency in 
+order to implement both of these statutory requirements. Furthermore, 
+DOE also believes that there are advantages to maintaining consistency 
+of its terminology related to standby mode and off mode across the test 
+procedures for various products. DOE is confident that manufacturers 
+and other interested stakeholders will be able to grasp the relevant 
+terminology for purposes of the DOE test procedure. Accordingly, DOE 
+has today prescribed ``integrated thermal efficiency'' (TE<INF>I</INF>) 
+as the integrated efficiency descriptor for pool heaters.
+    To further clarify its test procedure regulations for pool heaters, 
+DOE is also prescribing a number of editorial changes to 10 CFR 
+430.23(p). These edits are largely housekeeping matters designed to 
+correct the references to sections of appendix P that have now changed 
+numerically because of today's final rule.
+
+E. Hearth Products Coverage
+
+    HPBA filed two sets of comments on the August 2010 NOPR. In the 
+first set of comments, HPBA concluded that the provisions related to 
+measurement of standby mode and off mode energy consumption ``will 
+probably have a minimal inpact on vented hearth heating products.'' 
+However, in its second set of comments, HPBA stated more broadly that 
+the test procedures for direct heating equipment are not applicable to 
+decorative hearth products, specifically the products covered by ANSI 
+Standard Z21.50, ``Vented Gas Fireplaces.'' According to HPBA, 
+decorative hearth products are intended to provide ambiance rather than 
+heat, so, therefore, HPBA believes decorative hearth products are not 
+covered ``direct heating equipment'' and that heating efficiency is not 
+an appropriate measure of performance for these products. Further, HPBA 
+maintains that even if heating efficiency was desired for these 
+appliances, the DOE test method is inapplicable as a means to determine 
+heating efficiency, given a number of inappropriate assumptions 
+regarding their representative average use. ACEEE recognized this 
+concern of HPBA but suggested the matter not be addressed in a test 
+method rulemaking. (HPBA, No. 8 at p. 1 and No. 12 at p. 1-4. ACEEE, 
+No. 14 at p. 1.)
+    In response, DOE notes that the scope of the current test procedure 
+rulemaking is limited to provisions related to measurement of standby 
+mode and off mode energy consumption of residential water heaters, 
+direct heating equipment, and pool heaters. HPBA concedes that the 
+specific provisions at issue here would have minimal impact on vented 
+hearth heating products. On HPBA's larger question regarding the 
+applicability of the DOE test procedure for measuring the AFUE of 
+vented hearth heaters, DOE has concluded that the test procedure does 
+provide the technical capability to generate AFUE values for all vented 
+hearth heaters. If modifications to the test procedure are warranted to 
+optimize the testing of such units, such concerns will be addressed in 
+a separate test procedure rulemaking for water heaters, direct heating 
+equipment, and pool heaters, which is currently underway. As noted 
+earlier, DOE published an RFI for that rulemaking in the Federal 
+Register on October 12, 2011. 76 FR 63211.
+    However, DOE notes that in its November 18, 2011 final rule for 
+direct heating equipment energy conservation standards, DOE adopted a 
+definition of ``vented hearth heater'' which contains an exclusion for 
+decorative hearth products. 76 FR 71836, 71859. Units that fall within 
+the exclusion would not be subject to the otherwise applicable energy 
+conservation standards, and they would likewise not be required to be 
+tested under the DOE test procedure.
+
+F. Review of Burner Operating Hours Estimates
+
+    NRDC suggested that DOE should review the burner operating hours 
+(BOH) estimate in the test procedures for each appliance type. (NRDC 
+No. 016, pp. 1-2) NRDC further added that these estimates are 
+referenced from earlier ANSI standards, some of which are well over ten 
+years old. It is noted here that these estimates are relevant to the 
+matter of this rulemaking because BOH is used as an approximation of 
+the active mode time duration for both direct heating equipment and 
+pool heaters. This concept of using the existing test procedures 
+assignment of BOH as an approximation of active mode time duration was 
+developed in the August 2010 NOPR. 75 FR 52892, 52897 (August 30, 
+2010). No comments were received objecting to this assignment. The NRDC 
+comment relates to the numerical value of the current test procedure 
+estimate and whether there is a need to update the numerical value of 
+these assignments in the test procedures.
+    DOE has reviewed this matter, and for the reasons explained below, 
+DOE has concluded that there is not a need to change the test procedure 
+estimates of BOH for direct heating equipment or pool heaters. These 
+test procedure estimates are not referenced from old ANSI standards as 
+the commenter suggests, but rather independent assignments and 
+equations developed within the various rulemakings establishing the DOE 
+test procedures. With these representative bases established, the test 
+procedures can yield uniform results. The direct heating equipment BOH 
+is based primarily on an estimate of heating degree days that would be 
+typical of where direct heating equipment is used. For the national 
+average case, 2950 heating degree days is assigned. 43 FR 20147, 20182 
+(May 10, 1978). The BOH for direct heating equipment is then calculated 
+from this heating degree day assignment and a
+
+[[Page 74566]]
+
+number of other factors that can affect the BOH of direct heating 
+equipment. Typically, the test procedure yields values of 700-800 BOH 
+for DHE. The level of national average heating degree days is 
+representative of a southern-tier U.S. location which DOE believes is 
+still appropriate for the distribution of direct heating equipment. 
+That is, the inherently smaller capacities of DHE, as compared to 
+central furnaces would suggest that DHE product types address on 
+average a relatively milder or more southern heating requirement. A 
+review of the 2009 Residential Energy Consumption Survey (available at 
+<a href="http://www.eia.gov">www.eia.gov</a>) supports this southern tier approach for DHE products. 
+Specifically, the RECS 2009 Table HC6.6, ``Space Heating in U.S. Homes, 
+By Climate Region,'' reports that a majority of households having this 
+type of product (termed in RECS 2009 as ``room heaters'' and ``wall and 
+floor pipeless furnaces'') are in the two southernmost of the five 
+climate zones used by RECS.
+    Further, a review of the 2005 Residential Energy Consumption Survey 
+(also available at <a href="http://www.eia.gov">www.eia.gov</a>) provided more data supporting DOE's 
+current approach to BOH. A weighted average of the heating degree days 
+using the distribution of room heaters and wall and floor pipeless 
+furnaces resulted in an estimate that homes in which direct heating 
+equipment is installed are subjected to an annual heating degree day 
+number of 2900. Considering the uncertainty in this value, DOE 
+considers this estimate to be highly consistent with the existing value 
+in the test method, and accordingly, DOE has concluded that there is no 
+justification for modifying the heating degree days that form the basis 
+of the determination of burner operating hours for direct heating 
+equipment. It should be noted that the data released for the 2009 RECS 
+do not yet contain sufficient information to determine this weighted 
+average more precisely. However, these data are supportive of the 
+southern tier assignment for national average heating degree days as 
+currently provided in the DOE test procedure. It is important to note 
+that the regional calculations in this test procedure allow for other 
+assignments based on geographic location.
+    Investigating this issue further, DOE looked at another source of 
+information to determine if the DHE test procedures' overall 
+calculation methodology would need amending. To this end, DOE reviewed 
+the estimates of energy consumption contained in the recent analysis 
+supporting amended energy conservation standards for DHE. 75 FR 20112 
+(April 16, 2010). That analysis reported BOH similar to that estimated 
+in the DOE test procedure (700-800 hours) for DHE used as primary 
+heating appliances; however, a smaller number is reported for BOH in 
+this analysis for some types of DHE that could be used as supplemental 
+heaters.\7\ That lower estimate is important to bear in mind in a 
+standards analysis in order to avoid overestimating the energy savings 
+that might be associated with a given standard level. However, DOE 
+believes supplemental use or any non-use of a product should not be 
+part of the test procedures' representative use calculations. Rather, a 
+better basis of the representative use calculations would be 
+calculations that include full use of the product. Given the 
+significant portion of DHE products that are used as primary heating 
+sources and the product's potential to be used on a regular basis, DOE 
+has concluded that the test procedure should assume full use. Moreover, 
+persons relying on energy use estimates when making purchasing 
+decisions and planning on frequent use of the product would not be 
+served by reducing the estimate to account for the marginal use of the 
+product by others.
+---------------------------------------------------------------------------
+
+    \7\ For more information, see the DHE life-cycle cost and 
+payback period spread sheet which is available at: <a href="http://www1.eere.energy.gov/buildings/appliance_standards/residential/heating_products_fr_spreadsheets.html">http://www1.eere.energy.gov/buildings/appliance_standards/residential/heating_products_fr_spreadsheets.html</a>.
+---------------------------------------------------------------------------
+
+     In sum, DOE has reviewed all aspects of the current BOH 
+assignments and calculations for direct heating equipment and has not 
+found any potential for systematic error or unrepresentative results. 
+More specifically, DOE did not find any research or data that 
+contradicts the representativeness of this existing basis of 
+determining direct heating equipment BOH.
+    Somewhat less complicated than direct heating equipment, the pool 
+heater test procedure includes a direct assignment of BOH, without need 
+for the complicated suite of calculations found in the DHE test 
+procedure. This simplified approach is reasonable because the energy 
+consumption of pool heaters is not typically affected by the various 
+factors accounted for in the DHE test procedure calculations (e.g., 
+oversizing, climatic effects, and the lack of modulating controls). 
+Accordingly, the pool heater test procedure assumes a single assignment 
+of 104 BOH. This assignment is based on survey data available at the 
+time proposed amendments for the test procedure were developed in 1993. 
+58 FR 44538, 44548, 44571 (August 23, 1993). On review, this level of 
+usage is still deemed representative. Specifically, the 2005 
+Residential Energy Conservation Survey (available at <a href="http://www.eia.gov">www.eia.gov</a>) 
+reports similar usage for pool heaters.
+    In sum, DOE has reviewed the numerical assignments as well as the 
+analytical basis for BOH in both the direct heating equipment and pool 
+heaters test procedures and maintains that they are representative of 
+the average use cycles that would be encountered by present day 
+appliances.
+
+G. Other Issues Raised in the September 2011 SNOPR
+
+    In addition to proposing the use of the second edition of IEC 
+Standard 62301, the September 2011 SNOPR clarified rounding guidance 
+and sampling provisions applicable to the new measures of energy 
+consumption (i.e., P<INF>W,SB</INF> and P<INF>W,OFF</INF>).
+    For these new values of energy consumption, the September 2011 
+SNOPR clarified that the rounding guidance provided in IEC Standard 
+62301 (Second Edition) would apply. 76 FR 56347, 56350-51 (Sept. 13, 
+2011). Specifically, DOE proposed to add the following sentence to the 
+measurement provisions of the proposed regulatory text, where 
+appropriate: ``The recorded standby power (P<INF>W,SB</INF>) (or off 
+mode power P<INF>W,OFF</INF>, where appropriate) shall be rounded to 
+the second decimal place, and for loads greater than or equal to 10W, 
+at least three significant figures shall be reported.'' Id. at 56353-
+54. DOE requested comments as to the adequacy and appropriateness of 
+this clarification. AHRI opined that the second decimal place rounding 
+represents an unnecessarily stringent level of precision when one 
+considers the annualized accounting of total electrical energy 
+consumption as represented in the term E<INF>SO</INF>. (AHRI No. 24 at 
+p. 2) DOE believes the IEC rounding provisions for the wattage 
+measurements are appropriate and within the capabilities of the 
+instrumentation specified in the IEC standard. Specifically, DOE's 
+review of IEC Standard 62301--compliant instrumentation has determined 
+that one can easily support this level of reporting precision. 
+Moreover, the test procedures for other DOE covered products already 
+utilize IEC Standard 62301 for the wattage measurements, and DOE 
+believes there is benefit in measuring standby mode and off mode energy 
+consumption of various covered products in a consistent manner. In sum, 
+carrying the IEC level of precision through the annualized consumption 
+calculations does not represent any additional burden, because it is 
+simply a matter of running a calculation and reporting the results. 
+Accordingly, DOE
+
+[[Page 74567]]
+
+has concluded that these comments do not justify a departure from the 
+IEC provisions, so DOE is adopting the rounding guidance as proposed.
+    The September 2011 SNOPR clarified that the sampling provisions 
+already used for the measures of energy consumption in the existing 
+test procedures for direct heating equipment and pool heaters would 
+also apply to the new measures of energy consumption for standby mode 
+and off mode. Id. at 56350-51. No comments were received regarding the 
+clarification of applicable sampling provisions for the new measures of 
+energy consumption. Accordingly, for the reasons above, DOE has decided 
+to adopt the proposed approach presented in the SNOPR in today's final 
+rule.
+
+IV. Effective Date and Compliance Date
+
+    The effective date for these amendments is January 16, 2013. At 
+that time, representations may be made about residential direct heating 
+equipment and pool heaters using the new metrics P<INF>W,SB</INF> and 
+P<INF>W,OFF</INF> reflecting standby mode and off mode energy use, as 
+well as any other measure of energy consumption which depends on 
+P<INF>W,SB</INF> and P<INF>W,OFF</INF>, which were adopted pursuant to 
+these amendments. The compliance date for any representations relating 
+to standby mode and off mode of direct heating equipment and pool 
+heaters is June 17, 2013; on or after that date, any such 
+representations must be based upon results generated under these test 
+procedures and sampling plans. However, DOE would clarify that use of 
+these proposed test procedure amendments related to standby mode and 
+off mode energy consumption would not be required for purposes of 
+energy conservation standards compliance, until the compliance date of 
+the next standards final rule that addresses standby mode and off mode.
+    More specifically, the introductory sentences to 10 CFR part 430, 
+subpart B, Appendix O for vented direct heating equipment and Appendix 
+P for pool heaters, read as follows: ``The procedures and calculations 
+that refer to standby mode and off mode energy consumption * * * need 
+not be performed to determine compliance with energy conservation 
+standards for these products at this time.'' The above statement will 
+be removed as part of a future rulemaking to amend either energy 
+conservation standards for direct heating equipment or standards for 
+pool heaters to account for standby mode and off mode energy 
+consumption, and compliance with the applicable test procedure 
+provisions will be required on the compliance date of those amended 
+energy conservation standards. A statement has also been added to the 
+introductory note to these appendices to clarify that any 
+representations pertaining to standby mode and off mode energy 
+consumption of these products that are made on or after a date 180 days 
+after the date of publication of this test procedure final rule in the 
+Federal Register must be based upon results generated under this test 
+procedure, consistent with the requirements of 42 U.S.C. 6293(c)(2). 
+Although this is a statutory requirement under 42 U.S.C. 6293(c), DOE 
+has concluded that it would be useful to explicitly state this 
+requirement in DOE's regulations.
+
+V. Compliance With Other EPCA Requirements
+
+    In amending a test procedure, EPCA directs DOE to determine to what 
+extent, if any, the test procedure would alter the measured energy 
+efficiency or measured energy use of a covered product. (42 U.S.C. 
+6293(e)(1)) If the amended test procedure alters the measured energy 
+efficiency or measured energy use, the Secretary must amend the 
+applicable energy conservation standard to the extent the amended test 
+procedure changes the energy efficiency of products that minimally 
+comply with the existing standard. (42 U.S.C. 6293(e)(2)) The current 
+energy conservation standards for vented direct heating equipment and 
+pool heaters are based on existing test procedure metrics--annual fuel 
+utilization efficiency (AFUE) and thermal efficiency (E<INF>t</INF>), 
+respectively--neither of which is affected by the inclusion of 
+electrical standby mode and off mode energy consumption in other 
+metrics adopted as part of today's final rule. There are no energy 
+conservation standards for unvented direct heating equipment. As 
+explained further below, today's test procedure final rule has no 
+effect on any current energy conservation standard.
+    As provided by EPCA, amendments to the test procedures to include 
+standby mode and off mode energy consumption shall not be used to 
+determine compliance with previously established standards. (42 U.S.C. 
+6295(gg)(2)(C)) The inclusion of a standby mode and off mode test 
+method in this final rule will not affect a manufacturer's ability, 
+using existing metrics, to demonstrate compliance with the existing 
+energy conservation standards for direct heating equipment or pool 
+heaters. The standby mode and off mode tests need not be performed to 
+determine compliance with the current energy conservation standards for 
+these products, because the current standards do not comprehensively 
+account for electrical standby mode and off mode energy consumption. 
+(For the reasons stated above, this final rule does not prescribe test 
+procedure amendments for residential water heaters. Accordingly, there 
+is no effect on water heater compliance.)
+    EPCA requires that new or amended test procedures shall be 
+reasonably designed to produce test results which measure energy 
+efficiency, energy use, or estimated annual operating cost of a covered 
+product during a representative average use cycle or period of use and 
+shall not be unduly burdensome to conduct. (42 U.S.C. 6293(b)(3)) For 
+the reasons that follow, DOE has determined that incorporation by 
+reference of IEC Standard 62301 (Second Edition), along with the other 
+modifications and additional calculations described above, satisfy this 
+requirement.
+    As noted previously, the DOE test procedures, as amended, reference 
+provisions from the incorporated IEC Standard 62301 (Second Edition) 
+for the measurement of standby mode and off mode energy consumption, 
+which is a widely-accepted and used international standard. Based on 
+its analysis of IEC Standard 62301 (Second Edition), DOE has determined 
+that the test methods and equipment that the amendments require for 
+measuring standby mode and off mode power do not differ substantially 
+from the test methods and equipment in the current DOE test procedure 
+for residential direct heating equipment and pool heaters. Therefore, 
+testing of these products pursuant to today's final rule will not 
+require any significant investment in new test facilities or equipment. 
+For these reasons, DOE does not believe that the standby mode and off 
+mode test procedure provisions will add significant costs.
+
+VI. Procedural Issues and Regulatory Review
+
+A. Review Under Executive Order 12866
+
+    The Office of Management and Budget has determined that test 
+procedure rulemakings do not constitute ``significant regulatory 
+actions'' under section 3(f) of Executive Order 12866, ``Regulatory 
+Planning and Review,'' 58 FR 51735 (Oct. 4, 1993). Accordingly, this 
+regulatory action was not subject to review under that Executive Order 
+by the Office of Information and Regulatory Affairs (OIRA) in the 
+Office of Management and Budget (OMB).
+
+[[Page 74568]]
+
+B. Review Under the Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (5 U.S.C. 601 et seq., as amended by 
+the Small Business Regulatory Enforcement Fairness Act of 1996) 
+requires preparation of an initial regulatory flexibility analysis 
+(IRFA) for any rule that, by law, must be proposed for public comment 
+and a final regulatory flexibility analysis (FRFA) for any such rule 
+that an agency adopts as a final rule, unless the agency certifies that 
+the rule, if promulgated, will not have a significant economic impact 
+on a substantial number of small entities. A regulatory flexibility 
+analysis examines the impact of the rule on small entities and 
+considers alternative ways of reducing negative effects. Also, as 
+required by Executive Order 13272, ``Proper Consideration of Small 
+Entities in Agency Rulemaking,'' 67 FR 53461 (August 16, 2002), DOE 
+published procedures and policies on February 19, 2003, to ensure that 
+the potential impacts of its rules on small entities are properly 
+considered during the DOE rulemaking process. 68 FR 7990. DOE has made 
+its procedures and policies available on the Office of the General 
+Counsel's Web site at <a href="http://www.gc.doe.gov/gc/office-general-counsel">www.gc.doe.gov/gc/office-general-counsel</a>.
+    Today's final rule adopts test procedure provisions to measure 
+standby mode and off mode energy consumption of residential direct 
+heating equipment and pool heaters, generally through the incorporation 
+by reference of IEC Standard 62301 (Second Edition) and the 
+modifications and additional calculations described in detail in the 
+August 2010 NOPR. DOE reviewed today's final rule under the provisions 
+of the Regulatory Flexibility Act and the policies and procedures 
+published on February 19, 2003. 68 FR 7990.
+    As noted above, the test procedure incorporates by reference 
+provisions from IEC Standard 62301 (Second Edition) \8\ for the 
+measurement of standby mode and off mode energy consumption. IEC 
+Standard 62301 (Second Edition) is widely accepted and used 
+internationally to measure electric power in standby mode and off mode. 
+Based on its analysis of IEC Standard 62301 (Second Edition), DOE 
+determined that the test methods and equipment that the amendments 
+require for measuring standby mode and off mode power do not differ 
+substantially from the test methods and equipment in the current DOE 
+test procedure for direct heating equipment and pool heaters. Even if 
+the testing facility decides to upgrade its measurement instrumentation 
+to meet today's rule, an applicable meter (i.e., one that complies with 
+IEC Standard 62301) would cost $3,000 or less. Therefore, testing of 
+direct heating equipment and pool heaters pursuant to today's final 
+rule will not require any significant investment in test facilities or 
+new equipment. The testing time to conduct the standby mode and off 
+mode testing on a single unit is estimated at 15 minutes to 60 minutes. 
+Assuming a laboratory technician would be present at a cost of $60 per 
+hour, this time represents a labor cost range of $15 to $60. This range 
+of cost would be related to the stability of the electrical consumption 
+being measured, with a longer testing time being required for unstable 
+measurements in order to allow for accurate averaging. It is important 
+to note, that the second edition of IEC Standard 62301 sought 
+improvement in this area by more clearly defining the stability 
+criteria and allowing for less burdensome direct meter reading methods, 
+thereby reducing testing time in cases where the criteria are met. In 
+the worst case, the impacts of the potential incremental instrument and 
+labor costs are still small compared to the overall financial 
+investment needed to undertake a business enterprise involving the 
+testing of consumer products. For these reasons, DOE has concluded that 
+the standby mode and off mode test procedure provisions will not add 
+significant costs.
+---------------------------------------------------------------------------
+
+    \8\ The August 2010 NOPR review under the Regulatory Flexibly 
+Act was regarding IEC Standard 62301 (First Edition). In the 
+subsequent September 2011 SNOPR which proposed to adopt the IEC 
+Standard 62301 (Second Edition), it was tentatively determined that 
+the second edition would be expected to reduce testing burden 
+relative to the first edition. 76 FR 56347, 56351 (Sept. 13, 2011). 
+DOE hereby confirms that conclusion in today's final rule.
+---------------------------------------------------------------------------
+
+    For the manufacturers of the three types of heating products, the 
+Small Business Administration (SBA) has set a size threshold, which 
+defines those entities classified as ``small businesses'' for the 
+purposes of the statute. DOE used the SBA's small business size 
+standards to determine whether any small entities would be subject to 
+the requirements of the rule. 65 FR 30836, 30848-49 (May 15, 2000), as 
+amended at 65 FR 53533, 53544-45 (Sept. 5, 2000) and codified at 13 CFR 
+part 121. The size standards are listed by North American Industry 
+Classification System (NAICS) code and industry description and are 
+available at <a href="http://www.sba.gov/sites/default/files/files/Size_Standards_Table">http://www.sba.gov/sites/default/files/files/Size_Standards_Table</a>(1).pdf. Residential water heater manufacturing is 
+classified under NAICS 335228--``Other Major Household Appliance 
+Manufacturing.'' DHE and pool heater manufacturing are classified under 
+NAICS 333414--``Heating Equipment (except Warm Air Furnaces) 
+Manufacturing.'' The SBA sets a threshold of 500 employees or less for 
+an entity to be considered as a small business for both of these 
+categories. However, since DOE has determined that it is not necessary 
+to establish additional standby mode and off mode test procedure 
+provisions for water heaters in this rulemaking, there is no need to 
+analyze the impact of this rulemaking on water heater manufacturers.
+    In a recent review of the residential DHE and pool heater markets, 
+DOE identified 10 manufacturers of only vented DHE, 3 manufacturers of 
+only unvented DHE, 2 manufacturers of both vented and unvented DHE, and 
+1 pool heater manufacturer that can be considered small businesses. 
+DOE's research involved reviewing several industry trade association 
+membership directories (e.g., AHRI and HPBA), product databases (e.g. 
+AHRI, CEC, and ENERGY STAR databases), individual company Web sites, 
+and marketing research tools (e.g. Dun and Bradstreet reports) to 
+create a list of all domestic small business manufacturers of direct 
+heating equipment and gas-fired pool heaters covered by this 
+rulemaking. In the August 2010 NOPR, DOE identified a similar number of 
+small business manufacturers and tentatively certified that this rule 
+would not have a significant impact on a substantial number of small 
+entities. 75 FR 52892, 52901-02 (August 30, 2010). Additionally, as 
+discussed above, DOE hereby confirms that the IEC Standard 62301 
+(Second Edition) would be expected to reduce testing burden relative to 
+the first edition and confirms that this rule would not have a 
+significant economic impact on a substantial number of small entities. 
+Accordingly, DOE has not prepared a regulatory flexibility analysis for 
+this rulemaking. DOE's certification and supporting statement of 
+factual basis was provided to the Chief Counsel for Advocacy of the SBA 
+for review under 5 U.S.C. 605(b). DOE did not receive any comments or 
+public testimony regarding a significant economic impact on any small 
+entities. Thus, DOE reaffirms and certifies that this rule will not 
+have a significant economic impact on a substantial number of small 
+entities.
+
+[[Page 74569]]
+
+C. Review Under the Paperwork Reduction Act of 1995
+
+    Manufacturers of residential direct heating equipment and pool 
+heaters must certify to DOE that their products comply with all 
+applicable energy conservation standards. In certifying compliance, 
+manufacturers must test according to the applicable DOE test 
+procedures, including any amendments adopted for those test procedures 
+on the date that compliance is required. DOE has established 
+regulations for the certification and recordkeeping requirements for 
+all covered products and commercial equipment, including residential 
+direct heating equipment and pool heaters (76 FR 12422 (March 7, 
+2011)). The collection-of-information requirement for certification and 
+recordkeeping is subject to review and approval by OMB under the 
+Paperwork Reduction Act (PRA). This requirement has been approved by 
+OMB under OMB Control Number 1910-1400. Public reporting burden for the 
+certification is estimated to average 20 hours per response, including 
+the time for reviewing instructions, searching existing data sources, 
+gathering and maintaining the data needed, and completing and reviewing 
+the collection of information.
+    Notwithstanding any other provision of the law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the PRA, unless that collection of information displays 
+a currently valid OMB Control Number.
+
+D. Review Under the National Environmental Policy Act
+
+    DOE is establishing a final rule to amend the test procedure for 
+residential direct heating equipment and pool heaters to address 
+measurement of the standby mode and off mode energy consumption of 
+these products. DOE has determined that this final rule falls into a 
+class of actions that are categorically excluded from review under the 
+National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and 
+DOE's implementing regulations at 10 CFR part 1021. Specifically, this 
+final rule, which adopts an industry standard for measurement of 
+standby mode and off mode energy consumption, amends an existing rule 
+without affecting the amount, quality, or distribution of energy usage, 
+and, therefore, will not result in any environmental impacts. Thus, 
+this rulemaking is covered by Categorical Exclusion A5 found in 10 CFR 
+part 1021, subpart D, which applies to any rulemaking that interprets 
+or amends an existing rule without changing the environmental effect of 
+that rule. Accordingly, neither an environmental assessment nor an 
+environmental impact statement is required.
+
+E. Review Under Executive Order 13132
+
+    Executive Order 13132, ``Federalism,'' imposes certain requirements 
+on Federal agencies formulating and implementing policies or 
+regulations that preempt State law or that have Federalism 
+implications. 64 FR 43255 (August 10, 1999). The Executive Order 
+requires agencies to examine the constitutional and statutory authority 
+supporting any action that would limit the policymaking discretion of 
+the States, and to carefully assess the necessity for such actions. The 
+Executive Order also requires agencies to have an accountable process 
+to ensure meaningful and timely input by State and local officials in 
+the development of regulatory policies that have Federalism 
+implications. On March 14, 2000, DOE published a statement of policy 
+describing the intergovernmental consultation process that it will 
+follow in the development of such regulations. 65 FR 13735. DOE has 
+examined this final rule and determined that it would not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government. EPCA 
+governs and prescribes Federal preemption of State regulations as to 
+energy conservation for the products that are the subject of today's 
+final rule. States can petition DOE for exemption from such preemption 
+to the extent, and based on criteria, set forth in EPCA. (42 U.S.C. 
+6297(d)) Therefore, Executive Order 13132 requires no further action.
+
+F. Review Under Executive Order 12988
+
+    Regarding the review of existing regulations and the promulgation 
+of new regulations, section 3(a) of Executive Order 12988, ``Civil 
+Justice Reform,'' 61 FR 4729 (Feb. 7, 1996), imposes on Federal 
+agencies the general duty to adhere to the following requirements: (1) 
+Eliminate drafting errors and ambiguity; (2) write regulations to 
+minimize litigation; (3) provide a clear legal standard for affected 
+conduct rather than a general standard; and (4) promote simplification 
+and burden reduction. Regarding the review required by section 3(a), 
+section 3(b) of Executive Order 12988 specifically requires that 
+Executive agencies make every reasonable effort to ensure that the 
+regulation: (1) Clearly specifies the preemptive effect, if any; (2) 
+clearly specifies any effect on existing Federal law or regulation; (3) 
+provides a clear legal standard for affected conduct while promoting 
+simplification and burden reduction; (4) specifies the retroactive 
+effect, if any; (5) adequately defines key terms; and (6) addresses 
+other important issues affecting clarity and general draftsmanship 
+under any guidelines issued by the Attorney General. Section 3(c) of 
+Executive Order 12988 requires Executive agencies to review regulations 
+in light of applicable standards in sections 3(a) and 3(b) to determine 
+whether they are met or it is unreasonable to meet one or more of them. 
+DOE has completed the required review and determined that, to the 
+extent permitted by law, this rule meets the relevant standards of 
+Executive Order 12988.
+
+G. Review Under the Unfunded Mandates Reform Act of 1995
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires each Federal agency to assess the effects of Federal 
+regulatory actions on State, local, and Tribal governments and the 
+private sector. (Pub. L. 104-4, sec. 201 (codified at 2 U.S.C. 1531)) 
+For regulatory actions likely to result in a rule that may cause 
+expenditures by State, local, and Tribal governments, in the aggregate, 
+or by the private sector, of $100 million or more in any one year 
+(adjusted annually for inflation), section 202 of UMRA requires a 
+Federal agency to publish a written statement that estimates the 
+resulting costs, benefits, and other effects on the national economy. 
+(2 U.S.C. 1532(a) and (b)) The UMRA also requires a Federal agency to 
+develop an effective process to permit timely input by elected officers 
+of State, local, and Tribal governments on a ``significant 
+intergovernmental mandate,'' and requires an agency plan for giving 
+notice and opportunity for timely input to potentially affected small 
+governments before establishing any requirements that might 
+significantly or uniquely affect them. On March 18, 1997, DOE published 
+a statement of policy on its process for intergovernmental consultation 
+under UMRA. 62 FR 12820. (This policy is also available at <a href="http://www.gc.doe.gov">http://www.gc.doe.gov</a>.) DOE examined today's final rule, which modifies the 
+current test procedures for direct heating equipment and pool heaters 
+according to UMRA and its statement of policy and determined that the 
+rule contains neither an intergovernmental mandate, nor a
+
+[[Page 74570]]
+
+mandate that may result in the expenditure by State, local, and Tribal 
+governments, in the aggregate, or by the private sector, of $100 
+million or more in any year. Accordingly, no further assessment or 
+analysis is required under UMRA.
+
+H. Review Under the Treasury and General Government Appropriations Act, 
+1999
+
+    Section 654 of the Treasury and General Government Appropriations 
+Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family 
+Policymaking Assessment for any rule that may affect family well-being. 
+This rule would not have any impact on the autonomy or integrity of the 
+family as an institution. Accordingly, DOE has concluded that it is not 
+necessary to prepare a Family Policymaking Assessment.
+
+I. Review Under Executive Order 12630
+
+    Pursuant to Executive Order 12630, ``Governmental Actions and 
+Interference with Constitutionally Protected Property Rights,'' 53 FR 
+8859 (March 15, 1988), DOE has determined that this final rule would 
+not result in any takings that might require compensation under the 
+Fifth Amendment to the United States Constitution.
+
+J. Review Under the Treasury and General Government Appropriations Act, 
+2001
+
+    Section 515 of the Treasury and General Government Appropriations 
+Act, 2001 (44 U.S.C. 3516 note) provides for Federal agencies to review 
+most disseminations of information to the public under information 
+quality guidelines established by each agency pursuant to general 
+guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 
+(Feb. 22, 2002), and DOE's guidelines were published at 67 FR 62446 
+(Oct. 7, 2002). DOE has reviewed today's final rule under the OMB and 
+DOE guidelines and has concluded that it is consistent with applicable 
+policies in those guidelines.
+
+K. Review Under Executive Order 13211
+
+    Executive Order 13211, ``Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution, or Use,'' 66 FR 28355 
+(May 22, 2001), requires Federal agencies to prepare and submit to OIRA 
+at OMB, a Statement of Energy Effects for any significant energy 
+action. A ``significant energy action'' is defined as any action by an 
+agency that promulgates or is expected to lead to promulgation of a 
+final rule, and that: (1) Is a significant regulatory action under 
+Executive Order 12866, or any successor order; and (2) is likely to 
+have a significant adverse effect on the supply, distribution, or use 
+of energy; or (3) is designated by the Administrator of OIRA as a 
+significant energy action. For any proposed significant energy action, 
+the agency must give a detailed statement of any adverse effects on 
+energy supply, distribution, or use should the proposal be implemented, 
+and of reasonable alternatives to the action and their expected 
+benefits on energy supply, distribution, and use. Today's final rule is 
+not a significant regulatory action under Executive Order 12866 or any 
+successor order; would not have a significant adverse effect on the 
+supply, distribution, or use of energy; and has not been designated by 
+the Administrator of OIRA as a significant energy action. Therefore, 
+DOE has determined that this rule is not a significant energy action. 
+Accordingly, DOE has not prepared a Statement of Energy Effects for 
+this rulemaking.
+
+L. Review Under Section 32 of the Federal Energy Administration Act of 
+1974
+
+    Under section 301 of the Department of Energy Organization Act 
+(Pub. L. 95-91; 42 U.S.C. 7101 et seq.), DOE must comply with all laws 
+applicable to the former Federal Energy Administration, including 
+section 32 of the Federal Energy Administration Act of 1974 (Pub. L. 
+93-275), as amended by the Federal Energy Administration Authorization 
+Act of 1977 (Pub. L. 95-70). (15 U.S.C. 788) Section 32 provides in 
+relevant part that where a proposed rule authorizes or requires use of 
+commercial standards, the notice of proposed rulemaking must inform the 
+public of the use and background of such standards. In addition, 
+section 32(c) requires DOE to consult with the Attorney General and the 
+Federal Trade Commission (FTC) concerning the impact of commercial or 
+industry standards on competition.
+    Certain of the amendments and revisions in this final rule 
+incorporate testing methods contained in the following commercial 
+standard, the International Electrotechnical Commission (IEC) Standard 
+62301, ``Household electrical appliances--Measurement of standby 
+power'' (Second Edition, 2011-01). DOE has evaluated this standard and 
+is unable to conclude whether it fully complies with the requirements 
+of section 32(b) of the Federal Energy Administration Act (i.e., that 
+it was developed in a manner that fully provides for public 
+participation, comment, and review). DOE has consulted with the 
+Attorney General and the Chairman of the FTC concerning the impact on 
+competition of requiring manufacturers to use the test methods 
+contained in this standard, and neither recommended against 
+incorporation of this standard.
+
+M. Congressional Notification
+
+    As required by 5 U.S.C. 801, DOE will report to Congress on the 
+promulgation of today's rule before its effective date. The report will 
+state that it has been determined that the rule is not a ``major rule'' 
+as defined by 5 U.S.C. 804(2).
+
+VII. Approval of the Office of the Secretary
+
+    The Secretary of Energy has approved publication of this final 
+rule.
+
+List of Subjects in 10 CFR Part 430
+
+    Administrative practice and procedure, Confidential business 
+information, Energy conservation, Household appliances, Imports, 
+Incorporation by reference, Intergovernmental relations, Small 
+businesses.
+
+    Issued in Washington, DC, on November 16, 2012.
+Kathleen B. Hogan,
+Deputy Assistant Secretary for Energy Efficiency, Energy Efficiency and 
+Renewable Energy.
+
+    For the reasons stated in the preamble, DOE is amending part 430 of 
+Chapter II, Subchapter D of Title 10 of the Code of Federal 
+Regulations, as set forth below:
+
+PART 430--ENERGY CONSERVATION PROGRAM FOR CONSUMER PRODUCTS
+
+0
+1. The authority citation for part 430 continues to read as follows:
+
+    Authority: 42 U.S.C. 6291-6309; 28 U.S.C. 2461 note.
+
+
+0
+2. Section 430.3 is amended by revising paragraphs (d)(16) and (m)(2) 
+to read as follows:
+
+
+Sec.  430.3  Materials incorporated by reference.
+
+* * * * *
+    (d) * * *
+    (16) ANSI Z21.56-2006, section 2.10 (``ANSI Z21.56''), Standard for 
+Gas-Fired Pool Heaters, approved December 13, 2005, IBR approved for 
+appendix P to subpart B.
+    (m) * * *
+    (2) IEC 62301 (``IEC 62301''), Household electrical appliances--
+Measurement of standby power, (Edition 2.0, 2011-01), IBR approved for 
+appendices C1, G, I, J2, O, P, and X1 to subpart B.
+* * * * *
+
+[[Page 74571]]
+
+Sec.  430.23  [Amended]
+
+0
+3. Section 430.23 is amended by:
+0
+a. Removing the words ``section 4.2 of appendix P'' in paragraph 
+(p)(1)(i) and adding in their place ``section 5.2 of appendix P''; and
+0
+b. Removing the words ``section 4.3 of appendix P'' in paragraph 
+(p)(1)(ii) and adding in their place ``section 5.3 of appendix P''.
+
+
+0
+4. Appendix G to Subpart B of Part 430 is amended in section 2 by 
+adding sections 2.3, 2.3.1, 2.4, and 2.4.1 to read as follows:
+
+Appendix G to Subpart B of Part 430--Uniform Test Method for Measuring 
+the Energy Consumption of Unvented Home Heating Equipment
+
+* * * * *
+    2. * * *
+    2.3 Pilot light measurement. Except as provided in section 2.3.1 
+of this appendix, measure the energy input rate to the pilot light 
+(Q<INF>p</INF>), with an error no greater than 3 percent, for 
+unvented heaters so equipped.
+    2.3.1 The measurement of Q<INF>p</INF> is not required for 
+unvented heaters where the pilot light is designed to be turned off 
+by the user when the heater is not in use (i.e., for units where 
+turning the control to the OFF position will shut off the gas supply 
+to the burner(s) and the pilot light). This provision applies only 
+if an instruction to turn off the unit is provided on the heater 
+near the gas control value (e.g., by label) by the manufacturer.
+    2.4 Electrical standby mode power measurement. Except as 
+provided in section 2.4.1 of this appendix, for all electric heaters 
+and unvented heaters with electrical auxiliaries, measure the 
+standby power (P<INF>W,SB</INF>) in accordance with the procedures 
+in IEC 62301 Second Edition (incorporated by reference; see Sec.  
+430.3), with all electrical auxiliaries not activated. Voltage shall 
+be as specified in section 1.4.1 Electrical supply of this appendix. 
+The recorded standby power (P<INF>W,SB</INF>) shall be rounded to 
+the second decimal place, and for loads greater than or equal to 
+10W, at least three significant figures shall be reported.
+    2.4.1 The measurement of P<INF>W,SB</INF> is not required for 
+heaters designed to be turned off by the user when the heater is not 
+in use (i.e., for units where turning the control to the OFF 
+position will shut off the electrical supply to the heater). This 
+provision applies only if an instruction to turn off the unit is 
+provided on the heater (e.g., by label) by the manufacturer.
+* * * * *
+
+
+0
+5. Appendix O to Subpart B of Part 430 is amended by:
+0
+a. Adding a Note after the heading;
+0
+b. Redesignating sections 1.1 through 1.32 as follows:
+
+------------------------------------------------------------------------
+            Old sections                         New sections
+------------------------------------------------------------------------
+1.1 to 1.14                          1.2 to 1.15
+1.15 to 1.19                         1.17 to 1.21
+1.20 and 1.21                        1.23 and 1.24
+1.22 to 1.25                         1.26 to 1.29
+1.26 to 1.32                         1.31 to 1.37
+------------------------------------------------------------------------
+
+0
+c. Adding new sections 1.1, 1.16, 1.22, 1.25 and 1.30;
+0
+d. Adding sections 3.7, 3.7.1, and 3.7.2; and
+0
+e. Revising sections 4.6.3 and 4.6.3.1, and adding section 4.7.
+
+    The additions and revisions read as follows:
+
+Appendix O to Subpart B of Part 430--Uniform Test Method for Measuring 
+the Energy Consumption of Vented Home Heating Equipment
+
+    NOTE: The procedures and calculations that refer to standby mode 
+and off mode energy consumption, (i.e., sections 3.7 and 4.7 of this 
+appendix) need not be performed to determine compliance with energy 
+conservation standards for vented heaters at this time. However, on 
+or after June 17, 2013, any representation related to standby mode 
+and off mode energy consumption of these products must be based upon 
+results generated under this test procedure, consistent with the 
+requirements of 42 U.S.C. 6293(c)(2). For vented home heating 
+equipment, the statute requires that after July 1, 2010, any adopted 
+energy conservation standard shall incorporate standby mode and off 
+mode energy consumption, and upon the compliance date for such 
+standards, compliance with the applicable provisions of this test 
+procedure will also be required.
+
+    1.0 Definitions.
+    1.1 ``Active mode'' means the condition during the heating 
+season in which the vented heater is connected to the power source, 
+and either the burner or any electrical auxiliary is activated.
+* * * * *
+    1.16 ``IEC 62301 (Second Edition)'' means the test standard 
+published by the International Electrotechnical Commission, titled 
+``Household electrical appliances--Measurement of standby power,'' 
+Publication 62301 Edition 2.0 2011-01 (incorporated by reference; 
+see Sec.  430.3).
+* * * * *
+    1.22 ``Off mode'' means the condition during the non-heating 
+season in which the vented heater is connected to the power source, 
+and neither the burner nor any electrical auxiliary is activated.
+* * * * *
+    1.25 ``Seasonal off switch'' means the control device, such as a 
+lever or toggle, on the vented heater that affects a difference in 
+off mode energy consumption as compared to standby mode consumption.
+* * * * *
+    1.30 ``Standby mode'' means the condition during the heating 
+season in which the vented heater is connected to the power source, 
+and neither the burner nor any electrical auxiliary is activated.
+* * * * *
+    3.0 * * *
+    3.7 Measurement of electrical standby mode and off mode power.
+    3.7.1 Standby power measurements. With all electrical 
+auxiliaries of the vented heater not activated, measure the standby 
+power (P<INF>W,SB</INF>) in accordance with the procedures in IEC 
+62301 (Second Edition) (incorporated by reference, see Sec.  430.3), 
+except that section 2.9, Room ambient temperature, and the voltage 
+provision of section 2.3.5, Electrical supply, of this appendix 
+shall apply in lieu of the IEC 62301 (Second Edition) corresponding 
+sections 4.2, Test room, and 4.3, Power supply. Clarifying further, 
+the IEC 62301 (Second Edition) sections 4.4, Power measuring 
+instruments, and section 5, Measurements, shall apply in lieu of 
+section 2.8, Energy flow instrumentation, of this appendix. Measure 
+the wattage so that all possible standby mode wattage for the entire 
+appliance is recorded, not just the standby mode wattage of a single 
+auxiliary. The recorded standby power (P<INF>W,SB</INF>) shall be 
+rounded to the second decimal place, and for loads greater than or 
+equal to 10W, at least three significant figures shall be reported.
+    3.7.2 Off mode power measurement. If the unit is equipped with a 
+seasonal off switch or there is an expected difference between off 
+mode power and standby mode power, measure off mode power 
+(P<INF>W,OFF</INF>) in accordance with the standby power procedures 
+in IEC 62301 (Second Edition) (incorporated by reference, see Sec.  
+430.3), except that section 2.9, Room ambient temperature, and the 
+voltage provision of section 2.3.5, Electrical supply, of this 
+appendix shall apply in lieu of the IEC 62301 (Second Edition) 
+corresponding sections 4.2, Test room, and 4.3, Power supply. 
+Clarifying further, the IEC 62301 (Second Edition) sections 4.4, 
+Power measuring instruments, and section 5, Measurements, shall 
+apply in lieu of section 2.8, Energy flow instrumentation, of this 
+appendix. Measure the wattage so that all possible off mode wattage 
+for the entire appliance is recorded, not just the off mode wattage 
+of a single auxiliary. If there is no expected difference in off 
+mode power and standby mode power, let P<INF>W,OFF</INF> = 
+P<INF>W,SB</INF>, in which case no separate measurement of off mode 
+power is necessary. The recorded off mode power (P<INF>W,OFF</INF>) 
+shall be rounded to the second decimal place, and for loads greater 
+than or equal to 10W, at least three significant figures shall be 
+reported.
+    4.0 * * *
+    4.6.3 Average annual auxiliary electrical energy consumption for 
+vented heaters. For vented heaters with single-stage controls or 
+manual controls, the average annual auxiliary electrical consumption 
+(E<INF>AE</INF>) is expressed in kilowatt-hours and defined as:
+
+E<INF>AE</INF> = BOH<INF>SS</INF>P<INF>E</INF> + E<INF>SO</INF>
+
+Where:
+
+BOH<INF>SS</INF> = as defined in 4.6.1 of this appendix
+P<INF>E</INF> = as defined in 3.1.3 of this appendix
+E<INF>SO</INF> = as defined in 4.7 of this appendix
+
+    4.6.3.1 For vented heaters with two-stage or modulating 
+controls, E<INF>AE</INF> is defined as:
+
+E<INF>AE</INF> = (BOH<INF>R</INF> + BOH<INF>H</INF>)P<INF>E</INF> + 
+E<INF>SO</INF>
+
+Where:
+
+BOH<INF>R</INF> = as defined in 4.6.1 of this appendix
+BOH<INF>H</INF> = as defined in 4.6.1 of this appendix
+
+[[Page 74572]]
+
+P<INF>E</INF> = as defined in 3.1.3 of this appendix
+E<INF>SO</INF> = as defined in 4.7 of this appendix
+* * * * *
+    4.7 Average annual electric standby mode and off mode energy 
+consumption.
+    Calculate the annual electric standby mode and off mode energy 
+consumption, E<INF>SO</INF>, defined as, in kilowatt-hours:
+
+E<INF>SO</INF> = ((P<INF>W,SB</INF> * (4160--BOH)) + 
+(P<INF>W,OFF</INF> * 4600)) * K
+
+Where:
+
+P<INF>W,SB</INF> = vented heater standby mode power, in watts, as 
+measured in section 3.7 of this appendix
+4160 = average heating season hours per year
+P<INF>W,OFF</INF> = vented heater off mode power, in watts, as 
+measured in section 3.7 of this appendix
+4600 = average non-heating season hours per year
+K = 0.001 kWh/Wh, conversion factor for watt-hours to kilowatt-hours
+BOH = burner operating hours as calculated in section 4.6.1 of this 
+appendix where for single-stage controls or manual controls vented 
+heaters BOH = BOH<INF>SS</INF> and for vented heaters equipped with 
+two-stage or modulating controls BOH = (BOH<INF>R</INF> + 
+BOH<INF>H</INF>).
+
+
+0
+6. Appendix P to Subpart B of Part 430 is revised to read as follows:
+
+Appendix P to Subpart B of Part 430--Uniform Test Method for Measuring 
+the Energy Consumption of Pool Heaters
+
+    Note: The procedures and calculations that refer to standby mode 
+and off mode energy consumption (i.e., sections 2.2, 2.3, 3.2, 4.2, 
+4.3, 5.3 equation (3), and 5.4 of this appendix P) need not be 
+performed to determine compliance with energy conservation standards 
+for pool heaters at this time. However, on or after June 17, 2013, 
+any representations related to standby mode and off mode energy 
+consumption of these products must be based upon results generated 
+under this test procedure, consistent with the requirements of 42 
+U.S.C. 6293(c)(2). For pool heaters, the statute requires that after 
+July 1, 2010, any adopted energy conservation standard shall 
+incorporate standby mode and off mode energy consumption, and upon 
+the compliance date for such standards, compliance with the 
+applicable provisions of this test procedure will also be required.
+
+    1. Definitions.
+    1.1 Active mode means the condition during the pool heating 
+season in which the pool heater is connected to the power source, 
+and the main burner, electric resistance element, or heat pump is 
+activated to heat pool water.
+    1.2 IEC 62301 (Second Edition) means the test standard published 
+by the International Electrotechnical Commission, titled ``Household 
+electrical appliances--Measurement of standby power,'' Publication 
+62301, Edition 2.0 2011-01. (incorporated by reference; see Sec.  
+430.3)
+    1.3 Off mode means the condition during the pool non-heating 
+season in which the pool heater is connected to the power source, 
+and neither the main burner, electric resistance elements, nor heat 
+pump is activated.
+    1.4 Seasonal off switch means a switch present on the pool 
+heater that effects a difference in off mode energy consumption as 
+compared to standby mode energy consumption.
+    1.5 Standby mode means the condition during the pool heating 
+season in which the pool heater is connected to the power source, 
+and neither the main burner, electric resistance elements, nor heat 
+pump is activated.
+    2. Test Method.
+    2.1 Active mode. The test method for testing pool heaters in 
+active mode is as specified in section 2.10 of ANSI Z21.56 
+(incorporated by reference; see Sec.  430.3).
+    2.2 Standby mode. The test method for testing the energy 
+consumption of pool heaters in standby mode is as described in 
+sections 3 through 5 of this appendix.
+    2.3 Off mode.
+    2.3.1 Pool heaters with a seasonal off switch.
+    For pool heaters with a seasonal off switch, no off-mode test is 
+required.
+    2.3.2 Pool heaters without a seasonal off switch.
+    For pool heaters without a seasonal off switch, the test method 
+for testing the energy consumption of the pool heater is as 
+described in sections 3 through 5 of this appendix.
+    3. Test conditions.
+    3.1 Active mode. Establish the test conditions specified in 
+section 2.10 of ANSI Z21.56 (incorporated by reference; see Sec.  
+430.3).
+    3.2 Standby mode and off mode. Following the conclusion of the 
+30-minute active mode test described in section 2.10 of ANSI Z21.56 
+(incorporated by reference; see Sec.  430.3), reduce the thermostat 
+setting to a low enough temperature to put the pool heater into 
+standby mode. Operate the pool heater in standby mode for 60 
+minutes.
+    4. Measurements.
+    4.1 Active mode. Measure the quantities delineated in section 
+2.10 of ANSI Z21.56 (incorporated by reference; see Sec.  430.3). 
+The measurement of energy consumption for oil-fired pool heaters in 
+Btu is to be carried out in appropriate units (e.g., gallons).
+    4.2 Standby mode. Record the average electric power consumption 
+during the standby mode test, P<INF>W,SB</INF>, in W, in accordance 
+with section 5 of IEC 62301 (Second Edition) (incorporated by 
+reference; see Sec.  430.3) and the fossil fuel energy consumption 
+during the standby test, Q<INF>p</INF>, in Btu. Ambient temperature 
+and voltage specifications of ANSI Z21.56 (incorporated by 
+reference; see Sec.  430.3) shall apply to this standby mode 
+testing. The recorded standby power (P<INF>W,SB</INF>) shall be 
+rounded to the second decimal place, and for loads greater than or 
+equal to 10W, at least three significant figures shall be reported.
+    4.3 Off mode.
+    4.3.1 Pool heaters with a seasonal off switch. For pool heaters 
+with a seasonal off switch, the average electric power consumption 
+during the off mode, P<INF>W,OFF</INF> = 0, and the fossil fuel 
+energy consumed during the off mode, Q<INF>off</INF> = 0.
+    4.3.2 Pool heaters without a seasonal off switch. Record the 
+average electric power consumption during the standby/off mode test, 
+P<INF>W,OFF</INF> (= P<INF>W,SB</INF>), in W, in accordance with 
+section 5 of IEC 62301 (Second Edition) (incorporated by reference; 
+see Sec.  430.3), and the fossil fuel energy consumption during the 
+off mode test, Q<INF>off</INF> (= Q<INF>p</INF>), in Btu. Ambient 
+temperature and voltage specifications of ANSI Z21.56 (incorporated 
+by reference; see Sec.  430.3) shall apply to this off mode testing. 
+The recorded off mode power (P<INF>W,OFF</INF>) shall be rounded to 
+the second decimal place, and for loads greater than or equal to 
+10W, at least three significant figures shall be reported.
+    5. Calculations.
+    5.1 Thermal efficiency. Calculate the thermal efficiency, 
+E<INF>t</INF> (expressed as a percent), as specified in section 2.10 
+of ANSI Z21.56 (incorporated by reference; see Sec.  430.3). The 
+expression of fuel consumption for oil-fired pool heaters shall be 
+in Btu.
+    5.2 Average annual fossil fuel energy for pool heaters. The 
+average annual fuel energy for pool heaters, E<INF>F</INF>, is 
+defined as:
+
+E<INF>F</INF> = BOH Q<INF>IN</INF> + (POH - BOH)Q<INF>PR</INF> + 
+(8760 - POH) Q<INF>off,R</INF>
+
+Where:
+
+BOH = average number of burner operating hours = 104 h
+POH = average number of pool operating hours = 4464 h
+Q<INF>IN</INF> = rated fuel energy input as defined according to 
+section 2.10.1 or section 2.10.2 of ANSI Z21.56, as appropriate.
+Q<INF>PR</INF> = average energy consumption rate of continuously 
+operating pilot light, if employed, = (Q<INF>P</INF>/1 h)
+Q<INF>P</INF> = energy consumption of continuously operating pilot 
+light, if employed, as measured in section 4.2 of this appendix, in 
+Btu
+8760 = number of hours in one year
+Q<INF>off,R</INF> = average off mode fossil fuel energy consumption 
+rate = Q<INF>off</INF>/(1 h)
+Q<INF>off</INF> = off mode energy consumption as defined in section 
+4.3 of this appendix
+
+    5.3 Average annual auxiliary electrical energy consumption for 
+pool heaters. The average annual auxiliary electrical energy 
+consumption for pool heaters, E<INF>AE</INF>, is expressed in Btu 
+and defined as:
+
+(1) E<INF>AE</INF> = E<INF>AE,active</INF> + 
+E<INF>AE,standby,off</INF>
+(2) E<INF>AE,active</INF> = BOH * PE<INF></INF>
+(3) E<INF>AE,standby,off</INF> = (POH - BOH) P<INF>W,SB</INF>(Btu/h) 
++ (8760 - POH) P<INF>W,OFF</INF>(Btu/h)
+
+Where:
+
+E<INF>AE,active</INF> = auxiliary electrical consumption in the 
+active mode<INF></INF>
+E<INF>AE,standby,off</INF> = auxiliary electrical consumption in the 
+standby mode and off mode
+PE = 2E<INF>c</INF>, if heater is tested according to section 2.10.1 
+of ANSI Z21.56, in Btu/h = 3.412 PE<INF>rated</INF>, if heater is 
+tested according to section 2.10.2 of ANSI Z21.56, in Btu/h
+E<INF>c</INF> = electrical consumption of the heater (converted to 
+equivalent unit of Btu), including the electrical energy to the 
+recirculating pump if used, during the 30-minute thermal efficiency 
+test, as defined in section 2.10.1 of ANSI Z21.56, in Btu per 30 
+min.
+
+[[Page 74573]]
+
+2 = conversion factor to convert unit from per 30 min. to per h.
+PE<INF>rated</INF> = nameplate rating of auxiliary electrical 
+equipment of heater, in Watts
+BOH = as defined in 5.2 of this appendix
+POH = as defined in 5.2 of this appendix
+P<INF>W,SB</INF> (Btu/h) = electrical energy consumption rate during 
+standby mode expressed in Btu/h = 3.412 P<INF>W,SB</INF>, Btu/h
+P<INF>W,SB</INF> = as defined in 4.2 of this appendix
+P<INF>W,OFF</INF> (Btu/h) = electrical energy consumption rate 
+during off mode expressed in Btu/h = 3.412 P<INF>W,OFF</INF>, Btu/h
+P<INF>W,OFF</INF> = as defined in 4.3 of this appendix
+
+    5.4 Integrated thermal efficiency.
+    5.4.1 Calculate the seasonal useful output of the pool heater 
+as:
+
+    E<INF>OUT</INF> = BOH[(E<INF>t</INF>/100)(Q<INF>IN</INF> + PE)]
+
+Where:
+
+BOH = as defined in 5.2 of this appendix
+E<INF>t</INF> = thermal efficiency as defined in 5.1 of this 
+appendix
+Q<INF>IN</INF> = as defined in 5.2 of this appendix
+PE = as defined in 5.3 of this appendix
+100 = conversion factor, from percent to fraction
+
+    5.4.2 Calculate the annual input to the pool heater as:
+
+E<INF>IN</INF> = E<INF>F</INF> + E<INF>AE</INF>
+
+Where:
+
+E<INF>F</INF> = as defined in 5.2 of this appendix
+E<INF>AE</INF> = as defined in 5.3 of this appendix
+
+    5.4.3 Calculate the pool heater integrated thermal efficiency 
+(TE<INF>I</INF>) (in percent).
+
+TE<INF>I</INF> = 100(E<INF>OUT</INF>/E<INF>IN</INF>)
+
+Where:
+
+E<INF>OUT</INF> = as defined in 5.4.1 of this appendix
+E<INF>IN</INF> = as defined in 5.4.2 of this appendix
+100 = conversion factor, from fraction to percent
+
+[FR Doc. 2012-30193 Filed 12-14-12; 8:45 a.m.]
+BILLING CODE 6450-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

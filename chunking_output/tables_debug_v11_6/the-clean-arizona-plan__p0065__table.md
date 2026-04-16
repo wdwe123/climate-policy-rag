@@ -1,0 +1,12 @@
+[TABLE]
+| 11/3/23 | Yuma County Implementation grant | Yuma County, Town of Somerton | Zoom | Virtual | Yuma County will talk among its municipalities about the highest priority. implementation projects. | Col7 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11/3/23 | Arizona Department of; in PCAP | Transportation Involvement ADOT, ASU, Governor's Office of; Resiliency | Zoom | Virtual | Identifying ADOT projects to include in; measures for PCAP |  |
+| 11/30/23 | Community Forum on; Clean Arizona Plan | Unlimited Potential, Chispa | Public; Meeting/Public; Engagement | Maricopa; County, AZ | South Phoenix, Provided feedback on proposed.; measures in the state's priority climate; action plan |  |
+| 12/4/23 | Northern Arizona Business; Leaders Roundtable on; Clean Arizona Plan | Arizona Forward Northern Arizona; members | Roundtable | Virtual | Provided feedback on proposed; measures in the state's priority climate.; action plan |  |
+| 12/4/23 | Clean Arizona Plan | Maricopa Association of Governments Tabling |  | West Phoenix,; Maricopa; County, AZ | Gathered input from the public on; proposed measures in the state's; priority climate action plan | Clean AArizonaPlan; Input Form-4.pdf; https://forms.gle/Pmh; KWojLUaSjaG2N9 |
+| 12/7/23 | Clean Arizona Plan Town; Hall | ASU, OOR | Public; Meeting/Public; Engagement | Virtual | Gathered input from the public on; proposed measures in the state's; priority climate action plan via polls; and unstructured feedback | Virtual Engagement; CAP slides.pptx-1.pdf |
+| 12/7/23 | Maricopa County; Healthcare Workers Forum; on Clean Arizona Plan | Unlimited Potential | Stakeholder; Engagement | Virtual | Gathered input from healthcare; workers on proposed measures in the; state's priority climate action plan |  |
+| 12/11/23 | Clean Arizona Plan | Maricopa Association of Governments Tabling |  | South Phoenix,; Maricopa; County, AZ | Gathered input from the public on.; proposed measures in the state's; priority climate action plan | https://forms.gle/Pmh; KWojLUaSjaG2N9; Clean Arizona Plan; Input Form-4.pdf |
+| 12/12/23 | Clean Arizona Plan Town; Hall | Coconino County, City of Sedona and; Flagstaff, ASU, ASU, Governor's; Office of Resiliency | Public Meeting; /Public; Engagement | Flagstaff,; Coconino; County, AZ | Gathered input from the public on; proposed measures in the state's; priority climate action plan | Virtual Engagement; CAP slides.pptx-1.pdf; Appendix A, Section; 2 |
+[/TABLE]

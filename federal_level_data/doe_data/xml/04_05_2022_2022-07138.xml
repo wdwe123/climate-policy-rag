@@ -1,0 +1,2313 @@
+<RULE>
+            <PREAMB>
+                <PRTPAGE P="19595"/>
+                <AGENCY TYPE="F">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 435</CFR>
+                <DEPDOC>[EERE-2022-BT-STD-0013]</DEPDOC>
+                <RIN>RIN 1904-AD56</RIN>
+                <SUBJECT>Energy Efficiency Standards for the Design and Construction of New Federal Low-Rise Residential Buildings Baseline Standards Update</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The U.S. Department of Energy (DOE) is publishing this final rule to implement provisions in the Energy Conservation and Production Act (ECPA) that require DOE to update the baseline Federal energy efficiency performance standards for the construction of new Federal low-rise residential buildings. This final rule updates the baseline Federal residential standard to the International Code Council (ICC) 2021 International Energy Conservation Code (IECC).</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective June 6, 2022. The incorporation by reference of certain material listed in this rule was approved by the Director of the Federal Register as of June 6, 2022. The incorporation by reference of other material listed in this rule was approved by the Director of the Federal Register as of March 13, 2017.</P>
+                    <P>All Federal agencies shall design new Federal buildings that are low-rise residential buildings, for which design for construction began on or after April 5, 2023, using the 2021 IECC as the baseline standard for 10 CFR part 435.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket, which includes this 
+                        <E T="04">Federal Register</E>
+                         notice and other supporting documents and materials, is available for review at 
+                        <E T="03">www.regulations.gov</E>
+                        . All documents in the docket are listed in the 
+                        <E T="03">www.regulations.gov</E>
+                         index. However, some documents listed in the index, such as those containing information that is exempt from public disclosure, may not be publicly available. The 
+                        <E T="03">www.regulations.gov</E>
+                         site contains simple instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                    <P>
+                        A link to the docket web page can be found at 
+                        <E T="03">www.energy.gov/eere/femp/notices-and-rules-related-federal-energy-management</E>
+                        . This web page will contain a link to the docket for this notice on the 
+                        <E T="03">www.regulations.gov site</E>
+                        . The 
+                        <E T="03">www.regulations.gov</E>
+                         web page will contain simple instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                    <P>
+                        For further information on how to review the docket, contact Mr. Nicolas Baker at (202) 586-8215 or by email: 
+                        <E T="03">nicolas.baker@ee.doe.gov</E>
+                        .
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Mr. Nicolas Baker, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Federal Energy Management Program, Mailstop EE-5F, 1000 Independence Avenue SW, Washington, DC 20585, (202) 586-8215, email: 
+                        <E T="03">nicolas.baker@ee.doe.gov</E>
+                        .
+                    </P>
+                    <P>
+                        Mr. Matthew Ring, U.S. Department of Energy, Office of the General Counsel, Forrestal Building, GC-33, 1000 Independence Avenue SW, Washington, DC 20585, (202) 586-2555, Email: 
+                        <E T="03">matthew.ring@hq.doe.gov</E>
+                        .
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P>DOE maintains previously-approved versions and incorporates by reference the following standard into 10 CFR part 435:</P>
+                <P>ICC International Energy Conservation Code (IECC), Redline Version, copyright 2021. (IECC 2021).</P>
+                <P>
+                    Copies of this standard is available from the International Code Council, 4051 West Flossmoor Road, Country Club Hills, IL 60478, 1-800-422-7233, 
+                    <E T="03">www.iccsafe.org/</E>
+                    .
+                </P>
+                <P>For a further discussion of this standard see section VII.N of this document.</P>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Summary</FP>
+                    <FP SOURCE="FP-2">II. Introduction</FP>
+                    <FP SOURCE="FP-2">III. Synopsis of the Final Rule</FP>
+                    <FP SOURCE="FP1-2">A. Synopsis of Changes to the IECC Between the 2015 and 2021 IECC</FP>
+                    <FP SOURCE="FP1-2">1. Description of Changes From 2015 IECC to 2018 IECC</FP>
+                    <FP SOURCE="FP1-2">2. Description of Changes From 2018 IECC to 2021 IECC</FP>
+                    <FP SOURCE="FP-2">IV. Methodology, Analytical Results, and Conclusion</FP>
+                    <FP SOURCE="FP1-2">A. Cost-Effectiveness Analysis</FP>
+                    <FP SOURCE="FP1-2">B. Monetization of Emissions Reduction Benefits</FP>
+                    <FP SOURCE="FP1-2">1. Monetization of Greenhouse Gas Emissions</FP>
+                    <FP SOURCE="FP1-2">2. Monetization of Other Air Pollutants</FP>
+                    <FP SOURCE="FP1-2">C. Conclusion</FP>
+                    <FP SOURCE="FP-2">V. Compliance Date</FP>
+                    <FP SOURCE="FP-2">VI. Reference Resources</FP>
+                    <FP SOURCE="FP-2">VII. Regulatory Analysis</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Order 12866, âRegulatory Planning and Reviewâ</FP>
+                    <FP SOURCE="FP1-2">B. Review Under the Administrative Procedure Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">E. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 13132, âFederalismâ</FP>
+                    <FP SOURCE="FP1-2">G. Review Under Executive Order 12988, âCivil Justice Reformâ</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">I. Review Under the Treasury and General Government Appropriations Act of 1999</FP>
+                    <FP SOURCE="FP1-2">J. Review Under Executive Order 12630, âGovernmental Actions and Interference With Constitutionally Protected Property Rightsâ</FP>
+                    <FP SOURCE="FP1-2">K. Review Under the Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">L. Review Under Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Useâ</FP>
+                    <FP SOURCE="FP1-2">M. Review Under Section 32 of the Federal Energy Administration Act of 1974</FP>
+                    <FP SOURCE="FP1-2">N. Description of Materials Incorporated by Reference</FP>
+                    <FP SOURCE="FP-2">VIII. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">IX. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Summary</HD>
+                <P>
+                    Section 305 of the Energy Conservation and Production Act (ECPA), as amended, requires DOE to determine whether the energy efficiency standards for new Federal buildings should be updated to reflect revisions to the IECC based on the cost-effectiveness of the revisions. (42 U.S.C. 6834(a)(3)(B)) In this rulemaking, DOE is updating the energy efficiency standards for new Federal low-rise residential buildings to IECC 2021 from IECC 2015. Accordingly, DOE conducted a cost-effectiveness analysis and determined that the 2021 IECC would be cost-effective if applied to new Federal low-rise residential buildings. DOE's assumptions and methodology for the cost-effectiveness of this rule are based on the cost-effectiveness analysis of the 2021 IECC 
+                    <PRTPAGE P="19596"/>
+                    performed by DOE's state building codes program, as well as DOE's environmental assessment (EA) for this rulemaking.
+                    <SU>1</SU>
+                    <FTREF/>
+                     Therefore, in this final rule, DOE updates the energy efficiency standards for new Federal buildings to the 2021 IECC for buildings for which design for construction begins on or after one year following publication of this final rule in the 
+                    <E T="04">Federal Register</E>
+                    . (42 U.S.C. 6834 (a)(3)(A))
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        â
+                        <E T="03">National Cost-Effectiveness of the Residential Provisions of the 2018 IECC,</E>
+                         Taylor, ZT. PNNL-28515, Pacific Northwest National Laboratory, April 2021. 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2018IECC_CE_Residential.pdf</E>
+                        .
+                    </P>
+                    <P>
+                        <E T="03">National Cost-Effectiveness of the Residential Provisions of the 2021 IECC</E>
+                        , Salcido, VR, Y Chen, Y Xie, and ZT Taylor. PNNL-31019, Pacific Northwest National Laboratory, June 2021. 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2021IECC_CostEffectiveness_Final_Residential.pdf</E>
+                        .
+                    </P>
+                    <P>
+                        Environmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for the Design and Construction of New Federal Low-Rise Residential Buildings,' Baseline Standards Update. The EA may be found in the docket for this rulemaking and at 
+                        <E T="03">www.energy.gov/nepa/doeea-2166-energy-efficiency-standards-new-federal-low-rise-residential-buildings-baseline</E>
+                        .
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">II. Introduction</HD>
+                <P>ECPA, as amended, requires DOE to establish building energy efficiency standards for all new Federal buildings. (42 U.S.C. 6834(a)(1)) The standards established under section 305(a)(1) of ECPA must contain energy efficiency measures that are technologically feasible, economically justified, and meet the energy efficiency levels in the applicable voluntary consensus energy codes specified in section 305. (42 U.S.C. 6834(a)(1)-(3))</P>
+                <P>Under section 305 of ECPA, the referenced voluntary consensus code for low-rise residential buildings is the International Code Council (ICC) International Energy Conservation Code (IECC). (42 U.S.C. 6834(a)(2)(A)) DOE codified this referenced code as the baseline Federal building standard in its existing energy efficiency standards found in 10 CFR part 435. Also pursuant to section 305 of ECPA, DOE must establish, by rule, revised Federal building energy efficiency performance standards for new Federal buildings that require such buildings to be designed to achieve energy consumption levels that are at least 30 percent below the levels established in the referenced code (baseline Federal building standard), if life-cycle cost (LCC) effective. (42 U.S.C. 6834(a)(3)(A)(i)(I))</P>
+                <P>Under section 305 of ECPA, not later than one year after the date of approval of each subsequent revision of the ASHRAE Standard or the IECC, DOE must determine whether to amend the baseline Federal building standards with the revised voluntary standard based on the cost-effectiveness of the revised voluntary standard. (42 U.S.C. 6834(a)(3)(B)) It is this requirement that this rulemaking addresses. ICC has updated the IECC from the version currently referenced in DOE's regulations at 10 CFR part 435. In this final rule, DOE revises the latest baseline Federal building standard for 10 CFR part 435 from the 2015 IECC to the 2021 IECC. DOE notes that although ICC published an update to the IECC in 2018, this rule updates 10 CFR part 435 to the 2021 IECC directly, without requiring agencies to comply with the 2018 IECC. DOE notes, however, that because development of the IECC is incremental from version to version, the 2021 IECC does include all content in the 2018 IECC that was not specifically removed or modified during the development of the 2021 IECC.</P>
+                <P>Section 306(a) of ECPA provides that each Federal agency and the Architect of the Capitol must adopt procedures to ensure that new Federal buildings will meet or exceed the Federal building energy efficiency standards established under section 305. (42 U.S.C. 6835(a)) Section 306(b) of ECPA bars the head of a Federal agency from expending Federal funds for the construction of a new Federal building unless the building meets or exceeds the applicable baseline Federal building energy standards established under section 305. (42 U.S.C. 6835(b)) Specifically, all new Federal buildings must be designed to achieve the baseline standards in the IECC for low-rise residential buildings (and ASHRAE Standard 90.1 for commercial and multi-family high-rise residential buildings) and achieve energy consumption levels at least 30 percent below these minimum baseline standards, where LCC effective. (42 U.S.C. 6834 (a)(3)(A)) When it is not LCC effective to design new Federal low-rise residential buildings to exceed IECC performance levels by 30 percent, new Federal buildings must be designed to exceed the IECC performance levels up to the percentage that is LCC effective, but at minimum meets the performance levels of the IECC. (10 CFR 435.4(c)). These requirements do not extend to renovations or modifications to existing buildings.</P>
+                <HD SOURCE="HD1">III. Synopsis of the Final Rule</HD>
+                <P>DOE is issuing this action as a final rule. As indicated in this preamble, DOE must determine whether the energy efficiency standards for new Federal buildings should be updated to reflect revisions included in the 2021 IECC based on the cost-effectiveness of the revisions. (42 U.S.C. 6834(a)(3)(B)) In this final rule, DOE determines that the energy efficiency standards for new Federal buildings should be updated to reflect the 2021 revisions to the IECC based on the cost-effectiveness of the revisions.</P>
+                <P>
+                    DOE reviewed the IECC for DOE's state building codes program and determined that the 2021 version of the IECC would achieve greater energy efficiency than the prior version (the 2018 version). (
+                    <E T="03">See</E>
+                     86 FR 40529 (July 28, 2021)) DOE also reviewed the 2018 version of the IECC and determined that the 2018 version would achieve greater energy efficiency than the prior version (the 2015 version currently referenced in 10 CFR part 435). (
+                    <E T="03">See</E>
+                     82 FR 2867 (January 10, 2017)) Both these determinations were subject to notice and comment. 
+                    <E T="03">See</E>
+                     86 FR 26710 (May 17, 2021) and 84 FR 18833 (May 2, 2019), respectively, for the 2021 IECC and 2018 preliminary determinations. DOE found that the 2021 version of the IECC would save 8.79 percent more source energy than the 2018 version of the IECCâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     and that the 2018 version of the IECC would save 1.91 percent more source energy than the 2015 version of the IECC.
+                    <SU>3</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        â
+                        <E T="03">Final Determination Regarding Energy Efficiency Improvements in the 2021 International Energy Conservation Code (IECC); Notice of determination,</E>
+                         86 FR 40529 (July 28, 2021). 
+                        <E T="03">www.regulations.gov/docket/EERE-2021-BT-DET-0010/document</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        â
+                        <E T="03">Final Determination Regarding Energy Efficiency Improvements in the 2018 International Energy Conservation Code (IECC); Notice of determination,</E>
+                         84 FR 67435 (December 10, 2019). 
+                        <E T="03">www.federalregister.gov/documents/2019/12/10/2019-26550/final-determination-regarding-energy-efficiency-improvements-in-the-2018-international-energy</E>
+                        .
+                    </P>
+                </FTNT>
+                <P>
+                    In DOE's determinations for the State building codes program, and again in this rule, DOE states that the cost-effectiveness of revisions to the voluntary codes is considered through DOE's statutorily directed involvement in the codes process. 
+                    <E T="03">See</E>
+                     86 FR 40529 (July 28, 2021). Section 307 of ECPA requires DOE to participate in the ICC code development process and to assist in determining the cost-effectiveness of the voluntary standards. (42 U.S.C. 6836) DOE is required to periodically review the economic basis of the voluntary building energy codes and participate in the industry process for review and modification, including seeking adoption of all technologically feasible and economically justified energy efficiency measures. (42 U.S.C. 6836(b))
+                </P>
+                <P>
+                    In addition to DOE's consideration of the cost-effectiveness of the 2021 IECC through its participation in the code 
+                    <PRTPAGE P="19597"/>
+                    development process, DOE conducted an independent analysis of the cost-effectiveness of the 2021 IECC compared to the 2018 IECC and 2015 IECC.
+                    <SU>4</SU>
+                    <FTREF/>
+                     The results of the analysis are discussed in section VII.A of this document. DOE's assumptions and methodology for the cost-effectiveness of this rule are based on DOE's cost-effectiveness analysis of the 2018 and 2021 IECC, as well as DOE's EA for this rulemaking.
+                    <SU>5</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        â
+                        <E T="03">National Cost-Effectiveness of the Residential Provisions of the 2018 IECC,</E>
+                         Taylor, ZT PNNL-28515, Pacific Northwest National Laboratory, April 2021. 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2018IECC_CE_Residential.pdf</E>
+                        .
+                    </P>
+                    <P>
+                        <E T="03">National Cost-Effectiveness of the Residential Provisions of the 2021 IECC</E>
+                        , Salcido, VR, Y Chen, Y Xie, and ZT Taylor. PNNL-31019, Pacific Northwest National Laboratory, June 2021. 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2021IECC_CostEffectiveness_Final_Residential.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âEnvironmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for New Federal Low-Rise Residential Buildings,' Baseline Standards Update. The EA may be found in the docket for this rulemaking and at 
+                        <E T="03">www.energy.gov/nepa/doeea-2166-energy-efficiency-standards-new-federal-low-rise-residential-buildings-baseline</E>
+                        .
+                    </P>
+                </FTNT>
+                <P>
+                    In this rule, DOE updates the energy efficiency standards applicable to new Federal buildings based on the determinations made by DOE as to the energy efficiency improvements of the 2018 IECCâ
+                    <SU>6</SU>
+                    <FTREF/>
+                     and 2021 IECC,
+                    <SU>7</SU>
+                    <FTREF/>
+                     as compared to the predecessor version (the 2015 IECC), and based on the considerations of cost-effectiveness incorporated into the codes processes, DOE's involvement in those processes, and DOE's own cost-effectiveness analysis. This final rule amends 10 CFR part 435 to update the referenced baseline Federal energy efficiency performance standards. This final rule does not make any changes to the overall requirement that agencies must design buildings to meet the baseline standard and, if LCC effective, achieve savings of at least 30 percent below the baseline standard.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        â
+                        <E T="03">Final Determination Regarding Energy Efficiency Improvements in the 2018 International Energy Conservation Code (IECC); Notice of determination,</E>
+                         84 FR 67435 (December 10, 2019). 
+                        <E T="03">www.federalregister.gov/documents/2019/12/10/2019-26550/final-determination-regarding-energy-efficiency-improvements-in-the-2018-international-energy</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        â
+                        <E T="03">Final Determination Regarding Energy Efficiency Improvements in the 2021 International Energy Conservation Code (IECC); Notice of determination,</E>
+                         86 FR 40529 (July 28, 2021). 
+                        <E T="03">www.regulations.gov/docket/EERE-2021-BT-DET-0010/document</E>
+                        .
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">A. Synopsis of Changes to the IECC Between the 2015 and 2021 IECC</HD>
+                <P>
+                    The IECC is updated every three years by the International Code Council (ICC). DOE, as part of its determination process, evaluates each new version of the IECC for low-rise residential buildings. The summaries in the following sections are taken directly from DOE's determinations and supporting analyses for the 2018 IECCâ
+                    <SU>8</SU>
+                    <FTREF/>
+                     and 2021 IECC.
+                    <SU>9</SU>
+                    <FTREF/>
+                     Section III.A.1 of this document describes the changes between the 2015 IECC and the 2018 IECC and section III.A.2 of this document describes the changes between the 2018 IECC and the 2021 IECC.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        â
+                        <E T="03">Final Determination Regarding Energy Efficiency Improvements in the 2018 International Energy Conservation Code (IECC); Notice of determination,</E>
+                         84 FR 67435 (December 10, 2019). 
+                        <E T="03">www.federalregister.gov/documents/2019/12/10/2019-26550/final-determination-regarding-energy-efficiency-improvements-in-the-2018-international-energy</E>
+                        . 
+                    </P>
+                    <P>
+                        <E T="03">National Cost-Effectiveness of the Residential Provisions of the 2018 IECC,</E>
+                         Taylor, ZT. PNNL-28515, Pacific Northwest National Laboratory, April 2021. 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2018IECC_CE_Residential.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        â
+                        <E T="03">Final Determination Regarding Energy Efficiency Improvements in the 2021 International Energy Conservation Code (IECC); Notice of determination,</E>
+                         86 FR 40529 (July 28, 2021) 
+                        <E T="03">www.regulations.gov/docket/EERE-2021-BT-DET-0010/document</E>
+                        .
+                    </P>
+                    <P>
+                        <E T="03">National Cost-Effectiveness of the Residential Provisions of the 2021 IECC,</E>
+                         Salcido VR, Y Chen, Y Xie, and ZT Taylor, PNNL-31019, Pacific Northwest National Laboratory, June 2021. 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2021IECC_CostEffectiveness_Final_Residential.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">1. Description of Changes From 2015 IECC to 2018 IECC</HD>
+                <P>In creating the 2018 IECC, ICC processed 47 approved code change proposals to the 2015 IECC. A total of 14 of these changes were found to have a direct impact on energy use and the other 33 changes were administrative or had an impact on non-energy portions of the code. DOE found that changes resulting in decreased energy use outweigh any changes expected to result in increased energy use in residential buildings. Of the 47 total changes, 11 were expected to decrease energy use, 3 were expected to increase energy use, 30 were administrative, and 3 were considered not energy related.</P>
+                <P>The 11 changes considered that are expected to decrease energy use are the following:</P>
+                <P>(1) Requires R-5 insulation under the entire slab when the slab is heated. This change will result in reduced heat loss in buildings with heated slabs, thereby reducing energy use.</P>
+                <P>(2) Lowers fenestration U-factors in climate zones 3-8. This change reduces heat loss and gain through doors and windows in six of the eight IECC climate zones.</P>
+                <P>(3) Corrects an inconsistency in the steel framing R-value equivalency table. This change effectively requires an additional R-1 continuous insulation if R-19 cavity insulation is used, resulting in decreased energy use.</P>
+                <P>(4) Adds provisions for ducts buried in attic insulation. The provisions added address buried ducts as an optional feature.</P>
+                <P>(5) Adds heat recovery ventilation (HRV)/energy recovery ventilation (ERV)-specific fan-efficacy requirements. This change replaces prior efficacy values for generic in-line fans that were considered inappropriate when HRV/ERV systems are installed.</P>
+                <P>(6) Increases high-efficacy lighting requirements from 75 percent to 90 percent of permanently installed lighting fixtures and eliminates the option of calculating percentages based on lamp counts instead of fixture counts. This change results in reduced energy use in lighting and applies to all homes complying with the IECC.</P>
+                <P>(7) Updates equation for ventilation fan energy in the Standard Reference Design of the simulated performance alternative compliance path to reference prescriptive fan-efficacy requirements. The equation in the prior code version used a term based on outdated fan efficacies. This change reduces energy when compliance is demonstrated using the performance path.</P>
+                <P>(8) Replaces definition of Energy Rating Index (ERI) with a reference to ANSI/RESNET/ICC 301, except for Reference Home ventilation rates, which are modified to be consistent with International Residential Code (IRC) requirements. This change bases the ERI target on the IRC's ventilation rates, which are lower than those in American National Standards Institute (ANSI)/Residential Energy Services Network (RESNET)/ICC 301. This reduces ventilation energy in homes meeting the target in the ERI path.</P>
+                <P>(9) Improves mandatory envelope requirements in the ERI compliance path for homes with onsite generation. This change strengthens mandatory envelope efficiency requirements and prevents degrading envelope efficiency in trade for onsite generation.</P>
+                <P>(10) Requires new heating, ventilating, and air-conditioning (HVAC) systems in additions and alterations to comply with the same requirements as systems in new homes. This change will improve efficiency in some additions and alterations.</P>
+                <P>(11) Modifies and clarifies an exception to the pool cover requirements. This change makes a modest increase to the level of site-recovered energy required to qualify for the exception.</P>
+                <P>The three changes that are expected to increase energy use are as follows:</P>
+                <P>
+                    (1) Exempts log homes designed in accordance with ICC-400 from the thermal envelope requirements of the 
+                    <PRTPAGE P="19598"/>
+                    IECC. This change results in an expected increase in energy use in log homes since ICC-400 allows less efficient walls than the IECC.
+                </P>
+                <P>(2) Allows buried ducts meeting specified insulation and air-sealing criteria to be considered equivalent to ducts located entirely within conditioned space in the simulated performance alternative compliance path. This change increases heat gain/loss into attics compared to ducts entirely within conditioned space.</P>
+                <P>(3) Raises (relaxes) ERI thresholds. This change allows higher energy use in residences under the ERI compliance path.</P>
+                <P>
+                    The remaining 33 changes were considered administrative in nature or were determined to not be energy related. These changes are discussed in more detail in Table A.2 of 
+                    <E T="03">Energy Savings Analysis: 2018 IECC for Residential Buildings.</E>
+                    <SU>10</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        â
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/EERE-2018-BT-DET-0014-0008.pdf.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2. Description of Changes From 2018 IECC to 2021 IECC</HD>
+                <P>In creating the 2021 IECC, ICC processed 119 approved code change proposals to the 2018 IECC. A total of 35 of these changes were found to have a direct impact on energy use and the other 79 changes were administrative or had an impact on non-energy portions of the code. DOE found that changes resulting in decreased energy use outweigh any changes expected to result in increased energy use in residential buildings. Of the 35 changes that were determined to directly impact energy use, 29 were expected to decrease energy use and 6 were expected to increase energy use.</P>
+                <P>The following 11 changes were determined to result in the bulk of the energy savings associated with the 2021 IECC over the 2018 IECC:</P>
+                <P>(1) Increases lamp efficacy to 65 lumens per watt and luminaires efficacy to 45 lumens per watt.</P>
+                <P>(2) Increases efficacy in the definition of high-efficacy lamps to 70 lumens per watt.</P>
+                <P>(3) Increases stringency of wood frame wall R-value requirements in climate zones 4 and 5.</P>
+                <P>(4) Increases slab insulation R-value requirements and depth in climate zones 3-5.</P>
+                <P>(5) Increases stringency for ceiling insulation in climate zones 2 and 3.</P>
+                <P>(6) Increases stringency for ceiling insulation in climate zones 4-8 and adds exception for when there is not space for R-60 in the ceiling.</P>
+                <P>(7) Increases stringency of fenestration U-factors in climate zones 3-4.</P>
+                <P>(8) Increases whole-house mechanical ventilation system fan efficacy requirements for inline fans and bathroom/utility fans.</P>
+                <P>(9) Requires ventilation systems to include heat or energy recovery in climate zones 7 and 8.</P>
+                <P>(10) Requires exterior lighting in R-2, R-3, and R-4 buildings to meet Section C405.4 of IECC.</P>
+                <P>(11) Adds new section R408, âAdditional Efficiency Package Optionsâ to reduce energy use by 5 percent regardless of the compliance path chosen.</P>
+                <HD SOURCE="HD1">IV. Methodology, Analytical Results, and Conclusion</HD>
+                <HD SOURCE="HD2">A. Cost-Effectiveness Analysis</HD>
+                <P>
+                    DOE's assumptions and methodology for the cost-effectiveness of this rule are based on the cost-effectiveness analysis of the 2018 IECCâ
+                    <SU>11</SU>
+                    <FTREF/>
+                     and 2021 IECC performed by DOE's state building codes program,
+                    <SU>12</SU>
+                    <FTREF/>
+                     as well as DOE's EA for this rulemaking.
+                    <SU>13</SU>
+                    <FTREF/>
+                     The EA identified a rate of new Federal residential construction of approximately 9.78 million square feet per year. This equates to approximately 3,824 new single-family units (9.60 million square feet) and 153 new low-rise multi-family residential units (0.19 million square feet) assumed each year. As described in the EA, this estimate is derived from consideration of data from the Federal Real Property Profile Management System (FRPP MS) extraction and Department of Defense estimates of privatized housing. DOE's cost-effectiveness analysis of the 2018 IECC provides tables for the first cost increase, the energy savings, and the LCCs associated with the 2018 IECC versus the 2015 IECC by climate zone. DOE's cost-effectiveness report does not provide national average values but does provide sufficient weighting data so that these national averages can be calculated. The weighting data provided in the cost-effectiveness report is used to generate the rows labeled âNational Averageâ in Table IV.1 through Table IV.9 in this preamble.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âDOE's cost-effectiveness report on the 2018 IECC is âNational Cost-Effectiveness of the Residential Provisions of the 2018 IECCâ, PNNL-28515, Taylor, ZT, April 2021. Available at 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2018IECC_CE_Residential.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âDOE's cost-effectiveness report on the 2021 IECC is âNational Cost-Effectiveness of the Residential Provisions of the 2021 IECCâ, PNNL-31019, Salcido 
+                        <E T="03">et al,</E>
+                         June 2021. Available at 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2021IECC_CostEffectiveness_Final_Residential.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âThe EA (DOE/EA-2166) is entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for New Federal Low-Rise Residential Buildings,' Baseline Standards Update.â The EA may be found in the docket for this rulemaking and at 
+                        <E T="03">www.energy.gov/nepa/doeea-2166-energy-efficiency-standards-new-federal-low-rise-residential-buildings-baseline</E>
+                        .
+                    </P>
+                </FTNT>
+                <P>
+                    Table IV.1 lists the increased first costs associated with the 2018 IECC for a standard 2,376 square feet prototypical home and a standard 1,200 square feet prototypical apartment/condo building.
+                    <SU>14</SU>
+                    â
+                    <SU>15</SU>
+                    <FTREF/>
+                     Based on historical data as described in the EA, DOE estimates that the majority of Federal low-rise residential construction will be single-family homes built by the Department of Defense (or their privatization contractors), along with some single-family homes and Federal low-rise multi-family buildings built by other agencies,
+                    <SU>16</SU>
+                    <FTREF/>
+                     so the results of DOE's first cost analysis are shown in full. The 
+                    <PRTPAGE P="19599"/>
+                    2018 IECC does increase the first cost of construction of new homes and apartments/condos compared to the 2015 IECC in all climate zones in the United States.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âA discussion of the DOE residential prototypes is found in DOE's cost-effectiveness report, available at 
+                        <E T="03">www.energycodes.gov/sites/default/files/2021-07/2021IECC_CostEffectiveness_Final_Residential.pdf</E>
+                        .
+                    </P>
+                    <P>
+                        <SU>15</SU>
+                        âNote that the values in Table VI.1 have been adjusted to reflect 2020$ from the table that appears in DOE's determination of energy savings for IECC 2018, which were in 2018$. This adjustment was made using the GDP deflator value to correct for inflation between 2018 and 2020. Organization for Economic Co-operation and Development, GDP Implicit Price Deflator in United States, retrieved from FRED, Federal Reserve Bank of St. Louis; 
+                        <E T="03">fred.stlouisfed.org/series/USAGDPDEFAISMEI,</E>
+                         Updated February 17, 2021.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âDOE's main source of Federal construction information, the Federal Real Property Profile Management System (FRPP MS), lists Family Housing and Barracks/Dormitories as separate categories. DOE utilized the Federal Agency information in the FRPP MS to disaggregate Federal Dormitories and Barracks to estimate new construction of dormitories, which are predominantly residential in nature, and training barracks, which include non-residential spaces. Department of Defense agencies were assumed to construct training barracks, while non-DoD agencies were assumed to construct dormitories. DOE utilized Asset Height Range information in the FRPP MS to distinguish between low-rise residential construction and multi-family high-rise construction by including only buildings estimated to be less than 30 feet in height. Once buildings to be included had been identified, the FRPP MS data was then used to estimate the square footage of buildings in the Federal Dormitories and Barracks and Family Housing categories that are assumed to be built under 10 CFR part 435 (the subject of this rulemaking) versus those more likely to be built under 10 CFR part 433 (New Federal Commercial and Multi-Family High-rise Residential). For Family Housing, DOE also utilized the square foot information in the FRPP MS to develop percentage weights for the Single-Family prototype (less than 6,000 square feet) and Low-rise Multi-family Residential (6,000 square feet and greater). The square foot demarcation was determined using the BECP assumption of approximately 1,200 square feet per multi-family housing unit, and an assumption that 5 or more housing units would define a multi-family building. While Barracks may be envisioned as long low buildings containing rows of cots, this vision is driven primarily by old-style barracks from the past. DOD's new training barracks tend to combine sleeping accommodations, classrooms, and physical training facilities and are therefore designed by DOD using the Federal commercial and high-rise multi-family requirements.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,14,12,14,12">
+                    <TTITLE>Table IV.1âTotal Incremental Construction First Cost for 2018 IECC Compared to the 2015 IECC </TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            2,376 ft
+                            <SU>2</SU>
+                             house
+                        </CHED>
+                        <CHED H="2">
+                            Slab, unheated
+                            <LI>basement, or</LI>
+                            <LI>crawlspace</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Heated
+                            <LI>basement</LI>
+                        </CHED>
+                        <CHED H="1">
+                            1,200 ft
+                            <SU>2</SU>
+                             apartment/condo
+                        </CHED>
+                        <CHED H="2">
+                            Slab, unheated
+                            <LI>basement, or</LI>
+                            <LI>crawlspace</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Heated
+                            <LI>basement</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$0</ENT>
+                        <ENT>$0</ENT>
+                        <ENT>$0</ENT>
+                        <ENT>$0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>0</ENT>
+                        <ENT>0</ENT>
+                        <ENT>0</ENT>
+                        <ENT>0</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>72</ENT>
+                        <ENT>108</ENT>
+                        <ENT>56</ENT>
+                        <ENT>74</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>72</ENT>
+                        <ENT>108</ENT>
+                        <ENT>56</ENT>
+                        <ENT>74</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>48</ENT>
+                        <ENT>72</ENT>
+                        <ENT>37</ENT>
+                        <ENT>49</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>48</ENT>
+                        <ENT>72</ENT>
+                        <ENT>37</ENT>
+                        <ENT>49</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>48</ENT>
+                        <ENT>72</ENT>
+                        <ENT>37</ENT>
+                        <ENT>49</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>48</ENT>
+                        <ENT>72</ENT>
+                        <ENT>37</ENT>
+                        <ENT>49</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>49</ENT>
+                        <ENT>74</ENT>
+                        <ENT>38</ENT>
+                        <ENT>50</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>Table IV.2 lists the increased first costs associated with the 2021 IECC for a standard 2,376 square feet prototypical home and a standard 1,200 square feet prototypical apartment/condo building. The 2021 IECC increases the first cost of construction of new homes and apartments/condos compared to the 2018 IECC in all climate zones in the United States.</P>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s100,15,25">
+                    <TTITLE>Table IV.2âTotal Incremental Construction First Costâ* for 2021 IECC Compared to the 2018 IECC</TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            2,376 ft
+                            <SU>2</SU>
+                            <LI>house</LI>
+                        </CHED>
+                        <CHED H="1">
+                            1,200 ft
+                            <SU>2</SU>
+                            <LI>apartment/condo</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$936</ENT>
+                        <ENT>$933</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>1,530</ENT>
+                        <ENT>1,146</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>1,859</ENT>
+                        <ENT>1,192</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>3,687</ENT>
+                        <ENT>1,533</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>3,569</ENT>
+                        <ENT>1,487</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>1,477</ENT>
+                        <ENT>1,102</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>2,980</ENT>
+                        <ENT>2,603</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>2,982</ENT>
+                        <ENT>2,603</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>2,372</ENT>
+                        <ENT>1,316</ENT>
+                    </ROW>
+                    <TNOTE>*âThe 2021 Cost Effectiveness report provides total incremental construction cost increase with no distinction made between the foundation type. In this particular transition from IECC 2018 to IECC 2021, the cost increase is primarily due to additional insulation requirements, window improvements, efficiency option packages, and heat recovery ventilation (only for climate zones 7 and 8).</TNOTE>
+                </GPOTABLE>
+                <P>Table IV.3 combines the incremental first costs associated with the 2018 and 2021 versions of the IECC. In addition to adjusting for inflation (as was done for the values in Table IV.1), the 2018 IECC analysis was adjusted to use the same underlying economic assumptions as the 2021 IECC, including fuel prices, fuel price escalations, labor and material costs, and sales tax rates.</P>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s100,15,25">
+                    <TTITLE>Table IV.3âTotal Incremental Construction First Cost for 2021 IECC Compared to the 2015 IECC</TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            2,376 ft
+                            <SU>2</SU>
+                            <LI>house</LI>
+                        </CHED>
+                        <CHED H="1">
+                            1,200 ft
+                            <SU>2</SU>
+                            <LI>apartment/condo</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$936</ENT>
+                        <ENT>$933</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>1,536</ENT>
+                        <ENT>1,146</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>1,938</ENT>
+                        <ENT>1,217</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>3,265</ENT>
+                        <ENT>1,386</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>3,624</ENT>
+                        <ENT>1,503</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>1,531</ENT>
+                        <ENT>1,118</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>3,035</ENT>
+                        <ENT>2,620</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>3,037</ENT>
+                        <ENT>2,620</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>2,336</ENT>
+                        <ENT>1,294</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <PRTPAGE P="19600"/>
+                <P>
+                    The United States Census Bureau tracks information on new home sales in the United States. Based on available data, the median price of a non-Federal single-family home in the United States in 2020 was $336,990.
+                    <SU>17</SU>
+                    <FTREF/>
+                     The national average incremental cost increase of $2,336 represents approximately 0.7 percent of the median cost of a new home. An estimated construction cost of $217 per square foot for new Federal dormitories and barracks was obtained from RS Means (2020).
+                    <SU>18</SU>
+                    <FTREF/>
+                     This would equate to approximately $260,400 per multi-family unit. The national average incremental cost increase of $1,294 represents approximately 0.5 percent of the approximate cost per multi-family unit. Any increase in first cost would be accompanied by a reduction in energy costs and an increase in LCC net savings.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        â
+                        <E T="03">See www.census.gov/construction/nrs/historical_data/index.html,</E>
+                         Median and Average Sale Price of Houses Sold.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âRS Means. 2020. RS Means Building Construction Cost Data, 89th Ed. Construction Publishers &amp; Consultants. Norwell, MA.
+                    </P>
+                </FTNT>
+                <P>
+                    The estimated first year energy cost savings associated with the 2018 IECC is shown in Table IV.4 and the estimated first year energy cost savings associated with the 2021 IECC is show in Table IV.5.
+                    <SU>19</SU>
+                    <FTREF/>
+                     These tables are based on a combination of single-family homes and apartments/condos as described in DOE's cost-effectiveness reports. While the weighting of homes and apartments/condos may not be identical in the private and Federal sectors, the trends are similar for both single-family homes and apartments/condos. Both the 2018 IECC and 2021 IECC save a moderate amount of energy costs over the 2015 IECC in all climate zones in the United States.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âNote that the values in Table VI.4 have been adjusted to reflect 2020$ from the table that appears in DOE's determination of energy savings for IECC 2018, which were in 2018$. This adjustment was made using the GDP deflator value to correct for inflation between 2018 and 2020. Organization for Economic Co- operation and Development, GDP Implicit Price Deflator in United States, retrieved from FRED, Federal Reserve Bank of St. Louis; 
+                        <E T="03">fred.stlouisfed.org/series/USAGDPDEFAISMEI</E>
+                        , Updated February 17, 2021.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s150,25">
+                    <TTITLE>Table IV.4âAverage First Year Energy Cost Savings for the 2018 IECC Compared to the 2015 IECC</TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            Average annual
+                            <LI>energy cost savings</LI>
+                            <LI>(2020$/dwelling-unit-yr)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$15</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>15</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>25</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>29</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>28</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>30</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>36</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>48</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>25</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s150,25">
+                    <TTITLE>Table IV.5âAverage First Year Energy Cost Savings for the 2021 IECC Compared to the 2018 IECC</TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            Average annual
+                            <LI>energy cost savings</LI>
+                            <LI>(2020$/dwelling-unit-yr)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$200</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>192</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>200</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>205</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>173</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>123</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>306</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>411</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>191</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>Table IV.6 combines the average first year energy cost savings associated with the 2018 and 2021 versions of the IECC. In addition to adjusting for inflation (as was done for the values in Table IV.4), the 2018 IECC analysis was adjusted to use the same underlying economic assumptions as the 2021 IECC, including fuel prices, fuel price escalations, labor and material costs, and sales tax rates.</P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s150,25">
+                    <TTITLE>Table IV.6âAverage First Year Energy Cost Savings for the 2015 IECC Compared to the 2021 IECC</TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            Average annual
+                            <LI>energy cost savings</LI>
+                            <LI>(2020$/dwelling-unit-yr)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$208</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>199</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>214</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="19601"/>
+                        <ENT I="01">4</ENT>
+                        <ENT>223</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>189</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>146</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>328</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>439</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>205</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    The LCC impact of the 2018 IECC is shown in Table IV.7 and the LCC impact of the 2021 IECC is shown in Table IV.8.
+                    <SU>20</SU>
+                    <FTREF/>
+                     Again, these values represent the combination of single-family homes and apartments/condos, but the trends are clear. Both the 2018 IECC and 2021 IECC have moderate LCC net savings in all climate zones in the United States.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âNote that the values in Table VI.7 have been adjusted to reflect 2020$ from the table that appears in DOE's determination of energy savings for IECC 2018, which were in 2018$. This adjustment was made using the GDP deflator value to correct for inflation between 2018 and 2020. Organization for Economic Co-operation and Development, GDP Implicit Price Deflator in United States, retrieved from FRED, Federal Reserve Bank of St. Louis; 
+                        <E T="03">fred.stlouisfed.org/series/USAGDPDEFAISMEI</E>
+                        , Updated February 17, 2021.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s150,25">
+                    <TTITLE>Table IV.7âTotal LCC Net Savings for the 2018 IECC Compared to the 2015 IECC</TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            Total LCC net savings
+                            <LI>(2020$/dwelling-unit)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$417</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>420</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>548</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>641</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>652</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>706</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>857</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>1,209</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>579</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s150,25">
+                    <TTITLE>Table IV.8âTotal LCC Net Savings for the 2021 IECC Compared to the 2018 IECC </TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            Total LCC net savings
+                            <LI>(2020$/dwelling-unit)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$3,536</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>2,854</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>2,829</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>2,243</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>1,034</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>970</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>3,783</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>6,782</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>2,320</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>Table IV.9 combines the total LCC net savings associated with the 2018 and 2021 versions of the IECC. In addition to adjusting for inflation (as was done for the values in Table IV.7), the 2018 IECC analysis was adjusted to use the same underlying economic assumptions as the 2021 IECC, including fuel prices, fuel price escalations, labor and material costs, and sales tax rates.</P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s150,25">
+                    <TTITLE>Table IV.9âTotal LCC Net Savings for the 2021 IECC Compared to the 2015 IECC </TTITLE>
+                    <TDESC>[2020$]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            Total LCC net savings
+                            <LI>(2020$/dwelling-unit)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$3,946</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>3,241</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>3,354</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="19602"/>
+                        <ENT I="01">4</ENT>
+                        <ENT>2,890</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>1,639</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>1,716</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>4,643</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>7,924</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>2,860</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>By multiplying the estimated 3,977 units of new low-rise Federal construction per year by the national average values in Table IV.3, Table IV.6, and Table IV.9, DOE estimated that the total incremental first cost estimate for Federal buildings is an increase of $9.1 million per year, that the total first year energy cost estimate is a savings of $0.8 million per year, and that the annual LCC net savings for the entire Federal low-rise residential buildings sector are estimated to be $11.4 million per year.</P>
+                <P>DOE also conducted a net benefits and costs analysis using a 30-year analysis period and an assumed building lifetime of 30 years. The building lifetime assumption was made to correspond with availability of underlying data from the cost-effectiveness analysis conducted by DOE's State building energy codes program.</P>
+                <P>DOE calculated the net present value (NPV) of the change in equipment cost and reduced operating cost associated with the difference between the IECC 2015 and the IECC 2021. The NPV is the value in the present of a time-series of costs and savings, equal to the present value of savings in operating cost minus the present value of the increased total equipment cost to consumers.</P>
+                <P>DOE determined the total increased equipment cost for each year of the analysis period (2022-2051) using the incremental construction cost described previously. DOE determined the present value of operating cost savings for each year from the beginning of the analysis period to the year when all Federal buildings constructed by 2051 have been retired, assuming a 30-year lifetime of the building.</P>
+                <P>
+                    The average annual operating cost includes the costs for energy, repair or replacement of building components (
+                    <E T="03">e.g.,</E>
+                     heating and cooling equipment, lighting, and envelope measures), and maintenance of the building. DOE determined the per-unit annual savings in operating cost based on the savings in energy costs plus replacement and maintenance cost savings, which were calculated in the underlying cost-effectiveness analysis by DOE's State building energy codes program. While DOE used the methodology and prices described previously to calculate first year energy cost savings and LCC net savings, for the NPV calculations, DOE determined the per-unit annual savings in operating cost by multiplying the per square foot annual electricity, natural gas, and fuel oil savings in energy consumption by the appropriate residential energy price from EIA's 
+                    <E T="03">AEO2021.</E>
+                    <SU>21</SU>
+                    <FTREF/>
+                     DOE forecasted energy prices based on projected average annual price changes in EIA's 
+                    <E T="03">AEO2021</E>
+                     to develop the operating cost savings through the analysis period.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âDOEâU.S. Department of Energy. 2021. Annual Energy Outlook 2021 with Projections to 2050. Washington, DC. Available at 
+                        <E T="03">www.eia.gov/outlooks/aeo/.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    DOE uses national discount rates to calculate national NPV. DOE estimated NPV using both a 3-percent and a7-percent real discount rate, in accordance with the Office of Management and Budget's guidance to Federal agencies on the development of regulatory analysis, particularly section E therein: 
+                    <E T="03">Identifying and Measuring Benefits and Costs.</E>
+                    <SU>22</SU>
+                    <FTREF/>
+                     The NPV is the sum over time of the discounted net savings.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        âOffice of Management and Budget. OMB Circular A-4, Regulatory Analysis. 2003. OMB: Washington, DC. September 17, 2003. 
+                        <E T="03">www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A4/a-4.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>The present value of increased equipment costs is the annual total cost increase in each year (the difference between the IECC 2021 and the IECC 2015), discounted to the present, and summed throughout the analysis period (2022 through 2051). Because new construction is held constant through the analysis period, the installed cost is constant.</P>
+                <P>The present value of savings in operating cost is the annual savings in operating cost (the difference between the IECC 2021 and the IECC 2015), discounted to the present and summed through the analysis period (2022 through 2051). Savings are decreases in operating cost associated with the higher energy efficiency associated with buildings designed to the IECC 2021 compared to the IECC 2015. Total annual savings in operating cost are the savings per square foot multiplied by the number of square feet that survive in a particular year through the lifetime of the buildings constructed in the last year of the analysis period.</P>
+                <HD SOURCE="HD2">B. Monetization of Emissions Reduction Benefits</HD>
+                <P>
+                    As part of the development of this rule, for the purpose of complying with the requirements of Executive Order 12866, DOE considered the estimated monetary benefits from the reduced emissions of CO
+                    <E T="52">2,</E>
+                     CH
+                    <E T="52">4</E>
+                    , N
+                    <E T="52">2</E>
+                    O, NO
+                    <E T="52">X</E>
+                    , and SO
+                    <E T="52">2</E>
+                     that are expected to result from this rule. In order to make this calculation analogous to the calculation of the NPV of consumer benefit, DOE considered the reduced emissions expected to result over the lifetime of buildings constructed in the analysis period. This section summarizes the basis for the values used for monetizing the emissions benefits and presents the values considered in this rule.
+                </P>
+                <P>
+                    On March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                    <E T="03">Louisiana</E>
+                     v. 
+                    <E T="03">Biden,</E>
+                     No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the 
+                    <PRTPAGE P="19603"/>
+                    injunction and present monetized benefits where appropriate and permissible under law.
+                </P>
+                <HD SOURCE="HD3">1. Monetization of Greenhouse Gas Emissions</HD>
+                <P>
+                    For the purpose of complying with the requirements of Executive Order 12866, DOE estimates the monetized benefits of the reductions in emissions of CO
+                    <E T="52">2</E>
+                    , CH
+                    <E T="52">4</E>
+                    , and N
+                    <E T="52">2</E>
+                    O by using a measure of the social cost (âSCâ) of each pollutant (
+                    <E T="03">e.g.,</E>
+                     SC-GHGs). These estimates represent the monetary value of the net harm to society associated with a marginal increase in emissions of these pollutants in a given year, or the benefit of avoiding that increase. These estimates are intended to include (but are not limited to) climate-change-related changes in net agricultural productivity, human health, property damages from increased flood risk, disruption of energy systems, risk of conflict, environmental migration, and the value of ecosystem services. DOE exercises its own judgment in presenting monetized climate benefits as recommended by applicable executive orders and guidance, and DOE would reach the same conclusion presented in this notice in the absence of the social cost of greenhouse gases, including the February 2021 Interim Estimates presented by the Interagency Working Group on the Social Cost of Greenhouse Gases. DOE exercises its own judgment in presenting monetized climate benefits as recommended by applicable executive orders, and DOE would reach the same conclusion presented in this notice in the absence of the social cost of greenhouse gases, including the February 2021 Interim Estimates presented by the Interagency Working Group on the Social Cost of Greenhouse Gases.
+                </P>
+                <P>
+                    DOE estimated the global social benefits of CO
+                    <E T="52">2</E>
+                    , CH
+                    <E T="52">4</E>
+                    , and N
+                    <E T="52">2</E>
+                    O reductions (
+                    <E T="03">i.e.,</E>
+                     SC-GHGs) using the estimates presented in the Technical Support Document: Social Cost of Carbon, Methane, and Nitrous Oxide Interim Estimates under Executive Order 13990 published in February 2021 by the Interagency Working Group on the Social Cost of Greenhouse Gases (IWG) (IWG, 2021). The SC-GHGs is the monetary value of the net harm to society associated with a marginal increase in emissions in a given year, or the benefit of avoiding that increase. In principle, SC-GHGs includes the value of all climate change impacts, including (but not limited to) changes in net agricultural productivity, human health effects, property damage from increased flood risk and natural disasters, disruption of energy systems, risk of conflict, environmental migration, and the value of ecosystem services. The SC-GHGs therefore, reflects the societal value of reducing emissions of the gas in question by one metric ton. The SC-GHGs is the theoretically appropriate value to use in conducting benefit-cost analyses of policies that affect CO
+                    <E T="52">2</E>
+                    , N
+                    <E T="52">2</E>
+                    O and CH
+                    <E T="52">4</E>
+                     emissions. As a member of the IWG involved in the development of the February 2021 SC-GHG TSD), the DOE agrees that the interim SC-GHG estimates represent the most appropriate estimate of the SC-GHG until revised estimates have been developed reflecting the latest, peer-reviewed science.
+                </P>
+                <P>
+                    The SC-GHGs estimates presented here were developed over many years, using transparent process, peer-reviewed methodologies, the best science available at the time of that process, and with input from the public. Specifically, in 2009, an interagency working group (IWG) that included the DOE and other executive branch agencies and offices was established to ensure that agencies were using the best available science and to promote consistency in the social cost of carbon (SC-CO
+                    <E T="52">2</E>
+                    ) values used across agencies. The IWG published SC-CO
+                    <E T="52">2</E>
+                     estimates in 2010 that were developed from an ensemble of three widely cited integrated assessment models (IAMs) that estimate global climate damages using highly aggregated representations of climate processes and the global economy combined into a single modeling framework. The three IAMs were run using a common set of input assumptions in each model for future population, economic, and CO
+                    <E T="52">2</E>
+                     emissions growth, as well as equilibrium climate sensitivity (ECS)âa measure of the globally averaged temperature response to increased atmospheric CO
+                    <SU>2</SU>
+                     concentrations. These estimates were updated in 2013 based on new versions of each IAM. In August 2016 the IWG published estimates of the social cost of methane (SC-CH
+                    <E T="52">4</E>
+                    ) and nitrous oxide (SC-N2O) using methodologies that are consistent with the methodology underlying the SC-CO
+                    <E T="52">2</E>
+                     estimates. The modeling approach that extends the IWG SC-CO
+                    <E T="52">2</E>
+                     methodology to non-CO
+                    <E T="52">2</E>
+                     GHGs has undergone multiple stages of peer review. The SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O estimates were developed by Marten et al. (2015) and underwent a standard double-blind peer review process prior to journal publication. In 2015, as part of the response to public comments received to a 2013 solicitation for comments on the SC-CO
+                    <E T="52">2</E>
+                     estimates, the IWG announced a National Academies of Sciences, Engineering, and Medicine review of the SC-CO
+                    <E T="52">2</E>
+                     estimates to offer advice on how to approach future updates to ensure that the estimates continue to reflect the best available science and methodologies. In January 2017, the National Academies released their final report, Valuing Climate Damages: Updating Estimation of the Social Cost of Carbon Dioxide, and recommended specific criteria for future updates to the SC-CO
+                    <E T="52">2</E>
+                     estimates, a modeling framework to satisfy the specified criteria, and both near-term updates and longer-term research needs pertaining to various components of the estimation process (National Academies, 2017). Shortly thereafter, in March 2017, President Trump issued Executive Order 13783, which disbanded the IWG, withdrew the previous TSDs, and directed agencies to ensure SC-CO
+                    <E T="52">2</E>
+                     estimates used in regulatory analyses are consistent with the guidance contained in OMB's Circular A-4, âincluding with respect to the consideration of domestic versus international impacts and the consideration of appropriate discount ratesâ (E.O. 13783, Section 5(c)).
+                </P>
+                <P>
+                    On January 20, 2021, President Biden issued Executive Order 13990, which re-established the IWG and directed it to ensure that the U.S. Government's estimates of the social cost of carbon and other greenhouse gases reflect the best available science and the recommendations of the National Academies (2017). The IWG was tasked with first reviewing the SC-GHG estimates currently used in Federal analyses and publishing interim estimates within 30 days of the E.O. that reflect the full impact of GHG emissions, including by taking global damages into account. The interim SC-GHG estimates published in February 2021, specifically the SC-CH
+                    <E T="52">4</E>
+                     estimates, are used here to estimate the climate benefits for this final rule. The E.O. instructs the IWG to undertake a fuller update of the SC-GHG estimates by January 2022 that takes into consideration the advice of the National Academies (2017) and other recent scientific literature.
+                </P>
+                <P>
+                    The February 2021 SC-GHG TSD provides a complete discussion of the IWG's initial review conducted under E.O. 13990. In particular, the IWG found that the SC-GHG estimates used under E.O. 13783 fail to reflect the full impact of GHG emissions in multiple ways. First, the IWG found that a global perspective is essential for SC-GHG estimates because it fully captures climate impacts that affect the United States and which have been omitted from prior U.S.-specific estimates due to 
+                    <PRTPAGE P="19604"/>
+                    methodological constraints. Examples of omitted effects include direct effects on U.S. citizens, assets, and investments located abroad, supply chains, and tourism, and spillover pathways such as economic and political destabilization and global migration. In addition, assessing the benefits of U.S. GHG mitigation activities requires consideration of how those actions may affect mitigation activities by other countries, as those international mitigation actions will provide a benefit to U.S. citizens and residents by mitigating climate impacts that affect U.S. citizens and residents. If the United States does not consider impacts on other countries, it is difficult to convince other countries to consider the impacts of their emissions on the United States. As a member of the IWG involved in the development of the February 2021 SC-GHG TSD, DOE agrees with this assessment and, therefore, in this final rule DOE centers attention on a global measure of SC-CH4. This approach is the same as that taken in DOE regulatory analyses from 2012 through 2016. Prior to that, in 2008 DOE presented Social Cost of Carbon (SCC) estimates based on values the Intergovernmental Panel on Climate Change (IPCC) identified in literature at that time. As noted in the February 2021 SC-GHG TSD, the IWG will continue to review developments in the literature, including more robust methodologies for estimating a U.S.-specific SC-GHG value, and explore ways to better inform the public of the full range of carbon impacts. As a member of the IWG, DOE will continue to follow developments in the literature pertaining to this issue.
+                </P>
+                <P>Second, the IWG found that the use of the social rate of return on capital (7 percent under current OMB Circular A-4 guidance) to discount the future benefits of reducing GHG emissions inappropriately underestimates the impacts of climate change for the purposes of estimating the SC-GHG. Consistent with the findings of the National Academies (2017) and the economic literature, the IWG continued to conclude that the consumption rate of interest is the theoretically appropriate discount rate in an intergenerational context (IWG 2010, 2013, 2016a, 2016b), and recommended that discount rate uncertainty and relevant aspects of intergenerational ethical considerations be accounted for in selecting future discount rates. As a member of the IWG involved in the development of the February 2021 SC-GHG TSD, DOE agrees with this assessment and will continue to follow developments in the literature pertaining to this issue.</P>
+                <P>While the IWG works to assess how best to incorporate the latest, peer reviewed science to develop an updated set of SC-GHG estimates, it set the interim estimates to be the most recent estimates developed by the IWG prior to the group being disbanded in 2017. The estimates rely on the same models and harmonized inputs and are calculated using a range of discount rates. As explained in the February 2021 SC-GHG TSD, the IWG has recommended that agencies to revert to the same set of four values drawn from the SC-GHG distributions based on three discount rates as were used in regulatory analyses between 2010 and 2016 and subject to public comment. For each discount rate, the IWG combined the distributions across models and socioeconomic emissions scenarios (applying equal weight to each) and then selected a set of four values recommended for use in benefit-cost analyses: An average value resulting from the model runs for each of three discount rates (2.5 percent, 3 percent, and 5 percent), plus a fourth value, selected as the 95th percentile of estimates based on a 3 percent discount rate. The fourth value was included to provide information on potentially higher-than-expected economic impacts from climate change. As explained in the February 2021 SC-GHG TSD, and DOE agrees, this update reflects the immediate need to have an operational SC-GHG for use in regulatory benefit-cost analyses and other applications that was developed using a transparent process, peer-reviewed methodologies, and the science available at the time of that process. Those estimates were subject to public comment in the context of dozens of proposed rulemakings as well as in a dedicated public comment period in 2013.</P>
+                <P>
+                    DOE's derivations of the SC-GHGs (
+                    <E T="03">i.e.,</E>
+                     SC-CO
+                    <E T="52">2</E>
+                    , SC-N
+                    <E T="52">2</E>
+                    O, and SC-CH
+                    <E T="52">4</E>
+                    ) values used for this rule are discussed in the following sections, and the results of DOE's analyses estimating the benefits of the reductions in emissions of these pollutants are presented in section VII.A.
+                </P>
+                <HD SOURCE="HD3">a. Social Cost of Carbon</HD>
+                <P>
+                    The SC-CO
+                    <E T="52">2</E>
+                     values used for this rule were generated using the values presented in the 2021 update from the IWG's February 2021 TSD. Table IV.10 shows the updated sets of SC-CO
+                    <E T="52">2</E>
+                     estimates from the latest interagency update in 5-year increments from 2020 to 2050. For purposes of capturing the uncertainties involved in regulatory impact analysis, DOE has determined it is appropriate include all four sets of SC-CO
+                    <E T="52">2</E>
+                     values, as recommended by the IWG.
+                    <SU>23</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âFor example, the February 2021 TSD discusses how the understanding of discounting approaches suggests that discount rates appropriate for intergenerational analysis in the context of climate change may be lower than 3 percent.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,12,12,12,15">
+                    <TTITLE>
+                        Table IV.10âAnnual SC-CO
+                        <E T="0732">2</E>
+                         Values From 2021 Interagency Update, 2020-2050
+                    </TTITLE>
+                    <TDESC>
+                        [2020$ per Metric Ton CO
+                        <E T="0732">2</E>
+                        ]
+                    </TDESC>
+                    <BOXHD>
+                        <CHED H="1">Year</CHED>
+                        <CHED H="1">Discount rate</CHED>
+                        <CHED H="2">
+                            5%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            3%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            2.5%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            3%
+                            <LI>95th percentile</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">2020</ENT>
+                        <ENT>14</ENT>
+                        <ENT>51</ENT>
+                        <ENT>76</ENT>
+                        <ENT>152</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2025</ENT>
+                        <ENT>17</ENT>
+                        <ENT>56</ENT>
+                        <ENT>83</ENT>
+                        <ENT>169</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2030</ENT>
+                        <ENT>19</ENT>
+                        <ENT>62</ENT>
+                        <ENT>89</ENT>
+                        <ENT>187</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2035</ENT>
+                        <ENT>22</ENT>
+                        <ENT>67</ENT>
+                        <ENT>96</ENT>
+                        <ENT>206</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2040</ENT>
+                        <ENT>25</ENT>
+                        <ENT>73</ENT>
+                        <ENT>103</ENT>
+                        <ENT>225</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2045</ENT>
+                        <ENT>28</ENT>
+                        <ENT>79</ENT>
+                        <ENT>110</ENT>
+                        <ENT>242</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2050</ENT>
+                        <ENT>32</ENT>
+                        <ENT>85</ENT>
+                        <ENT>116</ENT>
+                        <ENT>260</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <PRTPAGE P="19605"/>
+                <P>
+                    In calculating the potential global benefits resulting from reduced CO
+                    <E T="52">2</E>
+                     emissions, DOE used the values from the February 2021 TSD, adjusted to 2020$ using the implicit price deflator for gross domestic product (GDP) from the Bureau of Economic Analysis. For each of the four sets of SC-CO
+                    <E T="52">2</E>
+                     cases specified, the values for emissions in 2020 were $14, $51, $76, and $152 per metric ton avoided (values expressed in 2020$). DOE derived values from 2051 to 2070 based on estimates published by EPA.
+                    <SU>24</SU>
+                    <FTREF/>
+                     These estimates are based on methods, assumptions, and parameters identical to the 2020-2050 estimates published by the IWG. DOE derived values after 2070 based on the trend in 2060-2070 in each of the four cases. DOE derived values after 2050 using the approach described above for the SC-CO
+                    <E T="52">2</E>
+                    .
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âSee EPA, 
+                        <E T="03">Revised 2023 and Later Model Year Light-Duty Vehicle GHG Emissions Standards: Regulatory Impact Analysis,</E>
+                         Washington, DC, December 2021. Available at: 
+                        <E T="03">www.epa.gov/system/files/documents/2021-12/420r21028.pdf</E>
+                         (last accessed January 13, 2022).
+                    </P>
+                </FTNT>
+                <P>
+                    DOE multiplied the CO
+                    <E T="52">2</E>
+                     emissions reduction estimated for each year by the SC-CO
+                    <E T="52">2</E>
+                     value for that year in each of the four cases. To calculate a present value of the stream of monetary values, DOE discounted the values in each of the four cases using the specific discount rate that had been used to obtain the SC-CO
+                    <E T="52">2</E>
+                     values in each case.
+                </P>
+                <HD SOURCE="HD3">b. Social Cost of Methane and Nitrous Oxide</HD>
+                <P>
+                    The SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O values used for this rule were generated using the values presented in the 2021 update from the IWG.
+                    <SU>25</SU>
+                    <FTREF/>
+                     Table IV.11 shows the updated sets of SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O estimates from the latest interagency update in 5-year increments from 2020 to 2050. To capture the uncertainties involved in regulatory impact analysis, DOE has determined it is appropriate to include all four sets of SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O values, as recommended by the IWG.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        âSee Interagency Working Group on Social Cost of Greenhouse Gases, 
+                        <E T="03">Technical Support Document: Social Cost of Carbon, Methane, and Nitrous Oxide. Interim Estimates Under Executive Order 13990,</E>
+                         Washington, DC, February 2021. Available at: 
+                        <E T="03">www.whitehouse.gov/wp-content/uploads/2021/02/TechnicalSupportDocument_SocialCostofCarbonMethaneNitrousOxide.pdf</E>
+                         (last accessed March 17, 2021).
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="9" OPTS="L2,i1" CDEF="s25,7,7,7,10,7,7,7,10">
+                    <TTITLE>
+                        Table IV.11âAnnual SC-CH
+                        <E T="0732">4</E>
+                         and SC-N
+                        <E T="0732">2</E>
+                        O Values From 2021 Interagency Update, 2020-2050 
+                    </TTITLE>
+                    <TDESC>[2020$ per metric ton]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Year</CHED>
+                        <CHED H="1">
+                            SC-CH
+                            <E T="0732">4</E>
+                            <LI>discount rate and statistic</LI>
+                        </CHED>
+                        <CHED H="2">
+                            5%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            3%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            2.5%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            3%
+                            <LI>95th</LI>
+                            <LI>percentile</LI>
+                        </CHED>
+                        <CHED H="1">
+                            SC-N
+                            <E T="0732">2</E>
+                            O
+                            <LI>discount rate and statistic</LI>
+                        </CHED>
+                        <CHED H="2">
+                            5%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            3%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            2.5%
+                            <LI>average</LI>
+                        </CHED>
+                        <CHED H="2">
+                            3%
+                            <LI>95th</LI>
+                            <LI>percentile</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">2020</ENT>
+                        <ENT>670</ENT>
+                        <ENT>1,500</ENT>
+                        <ENT>2,000</ENT>
+                        <ENT>3,900</ENT>
+                        <ENT>5,800</ENT>
+                        <ENT>18,000</ENT>
+                        <ENT>27,000</ENT>
+                        <ENT>48,000</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2025</ENT>
+                        <ENT>800</ENT>
+                        <ENT>1,700</ENT>
+                        <ENT>2,200</ENT>
+                        <ENT>4,500</ENT>
+                        <ENT>6,800</ENT>
+                        <ENT>21,000</ENT>
+                        <ENT>30,000</ENT>
+                        <ENT>54,000</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2030</ENT>
+                        <ENT>940</ENT>
+                        <ENT>2,000</ENT>
+                        <ENT>2,500</ENT>
+                        <ENT>5,200</ENT>
+                        <ENT>7,800</ENT>
+                        <ENT>23,000</ENT>
+                        <ENT>33,000</ENT>
+                        <ENT>60,000</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2035</ENT>
+                        <ENT>1,100</ENT>
+                        <ENT>2,200</ENT>
+                        <ENT>2,800</ENT>
+                        <ENT>6,000</ENT>
+                        <ENT>9,000</ENT>
+                        <ENT>25,000</ENT>
+                        <ENT>36,000</ENT>
+                        <ENT>67,000</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2040</ENT>
+                        <ENT>1,300</ENT>
+                        <ENT>2,500</ENT>
+                        <ENT>3,100</ENT>
+                        <ENT>6,700</ENT>
+                        <ENT>10,000</ENT>
+                        <ENT>28,000</ENT>
+                        <ENT>39,000</ENT>
+                        <ENT>74,000</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2045</ENT>
+                        <ENT>1,500</ENT>
+                        <ENT>2,800</ENT>
+                        <ENT>3,500</ENT>
+                        <ENT>7,500</ENT>
+                        <ENT>12,000</ENT>
+                        <ENT>30,000</ENT>
+                        <ENT>42,000</ENT>
+                        <ENT>81,000</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2050</ENT>
+                        <ENT>1,700</ENT>
+                        <ENT>3,100</ENT>
+                        <ENT>3,800</ENT>
+                        <ENT>8,200</ENT>
+                        <ENT>13,000</ENT>
+                        <ENT>33,000</ENT>
+                        <ENT>45,000</ENT>
+                        <ENT>88,000</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>
+                    DOE multiplied the CH
+                    <E T="52">4</E>
+                     and N
+                    <E T="52">2</E>
+                    O emissions reduction estimated for each year by the SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O estimates for that year in each of the cases. To calculate a present value of the stream of monetary values, DOE discounted the values in each of the cases using the specific discount rate that had been used to obtain the SC-CH
+                    <E T="52">4</E>
+                     and SC-N
+                    <E T="52">2</E>
+                    O estimates in each case.
+                </P>
+                <HD SOURCE="HD3">2. Monetization of Other Air Pollutants</HD>
+                <P>
+                    DOE estimated the monetized value of NO
+                    <E T="52">X</E>
+                     and SO
+                    <E T="52">2</E>
+                     emissions reductions from electricity generation using benefit per ton estimates based on air quality modeling and concentration-response functions conducted for the Clean Power Plan final rule. 84 FR 32520. DOE used EPA's values for NO
+                    <E T="52">X</E>
+                     (as PM
+                    <E T="52">2.5</E>
+                    ) and SO
+                    <E T="52">2</E>
+                     for 2020, 2025, and 2030 calculated with discount rates of 3 percent and 7 percent, and EPA's values for ozone season NO
+                    <E T="52">X,</E>
+                     which do not involve discounting since the impacts are in the same year as emissions. DOE used linear interpolation to define values for the years between 2020 and 2025 and between 2025 and 2030; for years beyond 2030 the values are held constant.
+                </P>
+                <P>
+                    DOE also estimated the monetized value of NO
+                    <E T="52">X</E>
+                     and SO
+                    <E T="52">2</E>
+                     emissions reductions from site use of natural gas in buildings impacted by this rule using benefit-per-ton estimates from the EPA's Benefits Mapping and Analysis Program. Although none of the sectors covered by EPA refers specifically to residential and commercial buildings, the sector called âarea sourcesâ would be a reasonable proxy for residential and commercial buildings.
+                    <SU>26</SU>
+                    <FTREF/>
+                     The EPA document provides high and low estimates for 2025 and 2030 at 3- and7-percent discount rates.
+                    <SU>27</SU>
+                    <FTREF/>
+                     DOE used the same linear interpolation and extrapolation as it did with the values for electricity generation. DOE primarily relied on the low estimates to be conservative.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        ââArea sourcesâ represents all emission sources for which states do not have exact (point) locations in their emissions inventories. Because exact locations would tend to be associated with larger sources, âarea sourcesâ would be fairly representative of small dispersed sources like homes and businesses.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        ââArea sourcesâ are a category in the 2018 document from EPA, but are not used in the 2021 document cited above. 
+                        <E T="03">See: www.epa.gov/sites/default/files/2018-02/documents/sourceapportionmentbpttsd_2018.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    DOE multiplied the emissions reduction (in tons) in each year by the associated $/ton values, and then discounted each series using discount rates of 3 percent and 7 percent as appropriate. On March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                    <E T="03">Louisiana</E>
+                     v. 
+                    <E T="03">Biden,</E>
+                     No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of 
+                    <PRTPAGE P="19606"/>
+                    greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the injunction and present monetized benefits where appropriate and permissible under law.
+                </P>
+                <HD SOURCE="HD2">C. Conclusion</HD>
+                <P>
+                    This analysis results in a cumulative net present value (NPV) of total benefits of the rule of $0.23 billion (at a7-percent discount rate) and $0.50 billion (at a 3-percent discount rate). This NPV expresses the estimated total value of future operating cost savings minus the estimated increased building costs for new Federal construction for 2022-2051 with a 30-year lifetime and includes monetized climate and health benefits (see Table IV.12). DOE estimates climate benefits from a reduction in greenhouse gases (GHG) using four different estimates of the social cost of CO
+                    <E T="52">2</E>
+                     (âSC-CO
+                    <E T="52">2</E>
+                    â), the social cost of methane (âSC-CH
+                    <E T="52">4</E>
+                    â), and the social cost of nitrous oxide (âSC-N
+                    <E T="52">2</E>
+                    Oâ). Together these represent the social cost of GHG (SC-GHG). DOE used interim SC-GHG values developed by an Interagency Working Group on the Social Cost of Greenhouse Gases (IWG).
+                    <SU>28</SU>
+                    â
+                    <SU>29</SU>
+                    <FTREF/>
+                     DOE does not have a single central SC-GHG point estimate and it emphasizes the importance and value of considering the benefits calculated using all four SC-GHG estimates. DOE is currently only monetizing (for SO
+                    <E T="52">2</E>
+                     and NO
+                    <E T="52">X</E>
+                    ) PM
+                    <E T="52">2.5</E>
+                     precursor health benefits and (for NO
+                    <E T="52">X</E>
+                    ) ozone precursor health benefits, but will continue to assess the ability to monetize other effects such as health benefits from reductions in direct PM
+                    <E T="52">2.5</E>
+                     emissions.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        â
+                        <E T="03">See</E>
+                         Interagency Working Group on Social Cost of Greenhouse Gases, Technical Support Document: Social Cost of Carbon, Methane, and Nitrous Oxide. Interim Estimates Under Executive Order 13990, Washington, DC, February 2021. 
+                        <E T="03">https://www.whitehouse.gov/wp-content/uploads/2021/02/TechnicalSupportDocument_SocialCostofCarbonMethaneNitrousOxide.pdf.</E>
+                    </P>
+                    <P>
+                        <SU>29</SU>
+                        âOn March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                        <E T="03">Louisiana</E>
+                         v. 
+                        <E T="03">Biden,</E>
+                         No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the injunction and present monetized benefits where appropriate and permissible under law.
+                    </P>
+                </FTNT>
+                <P>
+                    The benefits and costs of the rulemaking can also be expressed in terms of annualized values. The annualized net benefit is (1) the annualized national economic value (expressed in 2020$) of the benefits from building to IECC 2021, consisting primarily of operating cost savings from using less energy, minus increases in building costs, and (2) the annualized monetary value of the benefits of climate (GHG) and health (NO
+                    <E T="52">X</E>
+                    , and SO
+                    <E T="52">2</E>
+                    ) emission reductions. Table IV.13 shows the annualized values for this rulemaking, expressed in 2020$. In the tables, total benefits for both the 3-percent and 7-percent cases are presented using the average GHG social costs with 3-percent discount rate, but the Department emphasizes the importance and value of considering the benefits calculated using all four SC-GHG cases.
+                </P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s200,12">
+                    <TTITLE>
+                        Table IV.12âSummary of Monetized Economic Benefits and Costs (
+                        <E T="01">Billion</E>
+                         2020$)
+                    </TTITLE>
+                    <TDESC>[2022-2051 plus 30-year lifetime]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">â</CHED>
+                        <CHED H="1">Billion $2020</CHED>
+                    </BOXHD>
+                    <ROW EXPSTB="01" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">3% discount rate</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">Consumer Operating Cost Savings</ENT>
+                        <ENT>0.391</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Climate Benefitsâ*</ENT>
+                        <ENT>0.114</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Health Benefitsâ**</ENT>
+                        <ENT>0.177</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">
+                            Total Benefitsâ
+                            <E T="0731">â </E>
+                        </ENT>
+                        <ENT>0.682</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">
+                            Consumer Incremental Product Costsâ
+                            <E T="0731">â â </E>
+                        </ENT>
+                        <ENT>0.179</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="05">Net Benefits</ENT>
+                        <ENT>0.503</ENT>
+                    </ROW>
+                    <ROW EXPSTB="01" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">7% discount rate</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">Consumer Operating Cost Savings</ENT>
+                        <ENT>0.168</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Climate Benefitsâ*</ENT>
+                        <ENT>0.114</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Health Benefitsâ**</ENT>
+                        <ENT>0.066</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">
+                            Total Benefitsâ
+                            <E T="0731">â </E>
+                        </ENT>
+                        <ENT>0.347</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">
+                            Consumer Incremental Product Costsâ
+                            <E T="0731">â â </E>
+                        </ENT>
+                        <ENT>0.113</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="05">Net Benefits</ENT>
+                        <ENT>0.234</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <E T="02">Note:</E>
+                         This table presents the costs and benefits associated with Federal new low-rise residential buildings built in 2022-2051. These results include benefits to consumers which accrue after 2051 from the buildings constructed in 2022-2051.
+                    </TNOTE>
+                    <TNOTE>
+                        *âClimate benefits are calculated using four different estimates of the social cost of carbon (SC-CO
+                        <E T="0732">2</E>
+                        ), methane (SC-CH
+                        <E T="0732">4</E>
+                        ), and nitrous oxide (SC-N
+                        <E T="0732">2</E>
+                        O) (model average at 2.5 percent, 3 percent, and 5 percent discount rates; 95th percentile at 3 percent discount rate). Together these represent the social cost of greenhouse gases (SC-GHG). For presentational purposes of this table, the climate benefits associated with the average SC-GHG at a 3 percent discount rate are shown, but the Department does not have a single central SC-GHG point estimate, and it emphasizes the importance and value of considering the benefits calculated using all four SC-GHG estimates. See section IV.B of this document for more details.
+                    </TNOTE>
+                    <TNOTE>
+                        **âHealth benefits are calculated using benefit-per-ton values for NO
+                        <E T="0732">X</E>
+                         and SO
+                        <E T="0732">2</E>
+                        . DOE is currently only monetizing PM
+                        <E T="0732">2.5</E>
+                         and (for NO
+                        <E T="0732">X</E>
+                        ) ozone precursor health benefits, but will continue to assess the ability to monetize other effects such as health benefits from reductions in direct PM
+                        <E T="0732">2.5</E>
+                         emissions. The health benefits are presented at real discount rates of 3 and 7 percent. See IV.B of this document for more details.
+                        <PRTPAGE P="19607"/>
+                    </TNOTE>
+                    <TNOTE>
+                        <E T="0731">â </E>
+                        âTotal and net benefits include consumer operating cost savings and benefits related to public health and climate. On March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                        <E T="03">Louisiana</E>
+                         v. 
+                        <E T="03">Biden,</E>
+                         No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the injunction and present monetized benefits where appropriate and permissible under law.
+                    </TNOTE>
+                    <TNOTE>
+                        <E T="0731">â â </E>
+                        âCosts include incremental equipment costs as well as installation costs.
+                    </TNOTE>
+                </GPOTABLE>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s150,16,16">
+                    <TTITLE>
+                        Table IV.13âAnnualized Monetized Benefits, Costs, and Net Benefits (
+                        <E T="01">Million</E>
+                         2020$)
+                    </TTITLE>
+                    <TDESC>[2022-2051 plus 30-year lifetime]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Category</CHED>
+                        <CHED H="1">Million 2020$/year</CHED>
+                        <CHED H="2">3% discount rate</CHED>
+                        <CHED H="2">7% discount rate</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Consumer Operating Cost Savings</ENT>
+                        <ENT>20.0</ENT>
+                        <ENT>13.5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Climate Benefitsâ*</ENT>
+                        <ENT>5.8</ENT>
+                        <ENT>5.8</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Health Benefitsâ**</ENT>
+                        <ENT>9.0</ENT>
+                        <ENT>5.3</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">
+                            Total Benefitsâ
+                            <E T="0731">â </E>
+                        </ENT>
+                        <ENT>34.8</ENT>
+                        <ENT>18.8</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">
+                            Costsâ
+                            <E T="0731">â â </E>
+                        </ENT>
+                        <ENT>9.1</ENT>
+                        <ENT>9.1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="05">Net Benefits</ENT>
+                        <ENT>25.7</ENT>
+                        <ENT>15.5</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <E T="02">Note:</E>
+                         This table presents the costs and benefits associated with Federal new low-rise residential buildings built in 2022-2051. These results include benefits to consumers which accrue after 2051 from the buildings constructed in 2022-2051.
+                    </TNOTE>
+                    <TNOTE>
+                        *âClimate benefits are calculated using four different estimates of the social cost of carbon (SC-CO
+                        <E T="0732">2</E>
+                        ), methane (SC-CH
+                        <E T="0732">4</E>
+                        ), and nitrous oxide (SC-N
+                        <E T="0732">2</E>
+                        O) (model average at 2.5 percent, 3 percent, and 5 percent discount rates; 95th percentile at 3 percent discount rate). Together these represent the social cost of greenhouse gases (SC-GHG). For presentational purposes of this table, the climate benefits associated with the average SC-GHG at a 3 percent discount rate are shown, but the Department does not have a single central SC-GHG point estimate, and it emphasizes the importance and value of considering the benefits calculated using all four SC-GHG estimates. See section IV.B of this document for more details.
+                    </TNOTE>
+                    <TNOTE>
+                        **âHealth benefits are calculated using benefit-per-ton values for NO
+                        <E T="0732">X</E>
+                         and SO
+                        <E T="0732">2</E>
+                        . DOE is currently only monetizing (for SO
+                        <E T="0732">2</E>
+                         and NO
+                        <E T="0732">X</E>
+                        ) PM
+                        <E T="0732">2.5</E>
+                         precursor health benefits and (for NO
+                        <E T="0732">X</E>
+                        ) ozone precursor health benefits, but will continue to assess the ability to monetize other effects such as health benefits from reductions in direct PM
+                        <E T="0732">2.5</E>
+                         emissions. The health benefits are presented at real discount rates of 3 and 7 percent. See section IV.B of this document for more details.
+                    </TNOTE>
+                    <TNOTE>
+                        <E T="0731">â </E>
+                        âTotal and net benefits include consumer operating cost savings and benefits related to public health and climate. On March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                        <E T="03">Louisiana</E>
+                         v. 
+                        <E T="03">Biden,</E>
+                         No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the injunction and present monetized benefits where appropriate and permissible under law.
+                    </TNOTE>
+                    <TNOTE>
+                        <E T="0731">â â </E>
+                        âCosts include incremental equipment costs as well as installation costs.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>Accordingly, DOE has determined that the implementation of IECC 2021 for Federal low-rise residential buildings is cost-effective. DOE is presenting monetized climate benefits in accordance with the applicable Executive Orders and DOE would reach the same conclusion presented in this notice in the absence of the social cost of greenhouse gases, including the February 2021 Interim Estimates presented by the Interagency Working Group on the Social Cost of Greenhouse Gases.</P>
+                <HD SOURCE="HD1">V. Compliance Date</HD>
+                <P>
+                    This final rule applies to new Federal low-rise residential buildings for which design for construction begins on or after one year from the publication date of this rulemaking in the 
+                    <E T="04">Federal Register</E>
+                    . (42 U.S.C. 6834(a)(1)) Such buildings must be designed to exceed the energy efficiency level of the appropriate updated voluntary standard by 30 percent if LCC effective. However, at a minimum, such buildings must achieve the energy efficiency equal to that of the appropriate updated voluntary standard. One-year lead time before the design for construction begins is consistent with DOE's previous updates to the energy efficiency baselines and the original statutory mandate for Federal building standards. One year lead time before design for construction begins helps to minimize compliance costs to agencies, which may have planned buildings in various stages of design, and allows for design changes to more fully consider LCC effective measures (as opposed to having to revise designs in development, which may make incorporation of energy efficiency measures more difficult or expensive).
+                </P>
+                <HD SOURCE="HD1">VI. Reference Resources</HD>
+                <P>
+                    DOE originally prepared this list of resources to help Federal agencies achieve building energy efficiency levels of at least 30 percent below the 2009 IECC. DOE has reviewed these resources and believes that they continue to be useful for helping agencies maximize their energy efficiency levels. DOE has updated this resource list as appropriate. These resources come in many forms and in a variety of media. Resources are provided for all buildings, as well as specifically for low-rise residential buildings. FEMP offers an online search database of tools that can help agencies reduce energy use and meet Federal laws and requirements. Tools include software, calculators, data sets, and databases created by DOE and other Federal organizations. This resource can be found at 
+                    <E T="03">www.energy.gov/eere/femp/federal-energy-management-tools.</E>
+                </P>
+                <HD SOURCE="HD2">(1) Energy Efficient ProductsâU.S. DOE Federal Energy Management Program and U.S. Environmental Protection Agency (EPA) ENERGY STAR Program</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.energy.gov/eere/femp/energy-efficient-products-and-energy-saving-technologies</E>
+                </FP>
+                <P>
+                    Federal agencies are required by EPAct 2005 and 10 CFR part 436 to 
+                    <PRTPAGE P="19608"/>
+                    specify Federal Energy Management Program (FEMP) designated or ENERGY STAR equipment, including building mechanical and lighting equipment and builder-supplied appliances, for purchase and installation in all new construction unless the agency can show that the use of such equipment is not life-cycle cost-effective. 42 U.S.C. 8259b(b) Although this rule does not specifically address the use of this equipment, ENERGY STAR and FEMP-designated products are generally more energy efficient than the corresponding minimum manufacturing standards for residential-sized appliances and equipment, and may be used to achieve part of the savings required of Federal building designs. Agencies are required to use equipment designated as high-efficiency by FEMP and/or ENERGY STAR, credit may be taken for this equipment as part of the Total Building Performance compliance path through the use of Section R401.2.5 Part 2 of the 2021 IECC. Credit given in the Total Building Performance compliance path will depend on whether the equipment efficiency required for ENERGY STAR and FEMP-designated products meets or exceeds the efficiency required for the 2021 IECC additional efficiency packages. In some cases, the efficiency required in the 2021 IECC additional efficiency packages exceeds the efficiency of the ENERGY STAR and FEMP-designated equipment, which implies that no credit will be given in the Total Building Performance compliance path. The FEMP websites, accessed through the previous links, are provided as useful resources for achieving part of the energy savings required by the rule.
+                </P>
+                <HD SOURCE="HD2">(2) Life-Cycle Cost AnalysisâU.S. DOE Federal Energy Management Program</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.energy.gov/eere/femp/building-life-cycle-cost-programs</E>
+                </FP>
+                <P>
+                    The LCC analysis rules promulgated in 10 CFR part 436 Subpart A, 
+                    <E T="03">Life-Cycle Cost Methodology and Procedures,</E>
+                     conform to requirements in the Federal Energy Management Improvement Act of 1988 (Pub. L. 100-615) and subsequent energy conservation legislation, as well as Executive Order 13693, âPlanning for Federal Sustainability in the Next Decade.â The LCC guidance and required discount rates and energy price projections are determined annually by FEMP and the Energy Information Administration, and are published in the Annual Supplement to The National Institute of Standards and Technology Handbook 135: âEnergy Price Indices and Discount Factors for Life-Cycle Cost Analysis.â
+                </P>
+                <HD SOURCE="HD2">(3) ENERGY STAR BuildingsâU.S. Environmental Protection Agency and U.S. Department of Energy</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.energystar.gov/homes</E>
+                </FP>
+                <P>ENERGY STAR is a government-backed program helping businesses and individuals protect the environment through superior energy efficiency. The EPA program requirements for ENERGY STAR-labeled homes, effective as of the date of this rule, provide a useful guide for meeting the Federal energy efficiency standard for low-rise residential buildings.</P>
+                <HD SOURCE="HD2">(4) Passive House Institute US</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.phius.org/home-page</E>
+                </FP>
+                <P>This website provides information on designing and building very low energy homes.</P>
+                <HD SOURCE="HD2">(5) U.S. DOE Office of Energy Efficiency &amp; Renewable EnergyâResidential Buildings Integration</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.energy.gov/eere/buildings/residential-buildings-integration</E>
+                </FP>
+                <P>This website provides information on energy efficient home design strategies and technologies to support energy efficiency in residences.</P>
+                <HD SOURCE="HD2">(6) 2020 National Green Building Standard, ICC 700âICC and NAHB</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">https://shop.iccsafe.org/icc-700-2020-national-green-building-standardr.html</E>
+                </FP>
+                <P>The National Green Building Standard ICC 700-2020 National Green Building StandardÂ® (NGBS) is an American National Standards Institute (ANSI)-approved, residential construction standard for voluntary, above-code building certification is a green building rating system for homes approved by the American National Standards Institute. This standard The NGBS standard provides requirements design and verification direction for building high-efficiency and green homes and multi-family buildings.</P>
+                <HD SOURCE="HD2">(7) The NGBS Green Promise</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.ngbs.com/the-ngbs-green-promise</E>
+                </FP>
+                <P>The National Green Building Standard is a green building rating system for homes approved by the American National Standards Institute.</P>
+                <HD SOURCE="HD2">(8) LEED Certification for Residential</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.usgbc.org/leed/rating-systems/residential</E>
+                </FP>
+                <P>This certification system provides requirements for building high-efficiency and green homes and multi-family buildings.</P>
+                <HD SOURCE="HD2">(9) Green GlobesâThe Green Building Initiative</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.thegbi.org/</E>
+                </FP>
+                <P>This certification provides requirements for building high-efficiency and green multi-family buildings.</P>
+                <HD SOURCE="HD2">(10) 2018 IECCâICC</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">https://shop.iccsafe.org/codes/2018-international-codes-and-references/2018-international-energy-conservation-code.html</E>
+                    â
+                    <SU>30</SU>
+                    <FTREF/>
+                </FP>
+                <FTNT>
+                    <P>
+                        <SU>30</SU>
+                        âA free read-only version of the 2018 IECC is available at 
+                        <E T="03">https://codes.iccsafe.org/content/IECC2018P4.</E>
+                    </P>
+                </FTNT>
+                <P>The interim energy efficiency standard for low-rise residential buildings between the 2015 IECC and the 2021 IECC is the 2018 IECC.</P>
+                <HD SOURCE="HD2">(11) 2021 IECCâICC</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">https://shop.iccsafe.org/codes/2021-international-codes-and-references/2021-international-energy-conservation-coder.html</E>
+                    â
+                    <SU>31</SU>
+                    <FTREF/>
+                </FP>
+                <FTNT>
+                    <P>
+                        <SU>31</SU>
+                        âA free read-only version of the 2021 IECC is available at 
+                        <E T="03">https://codes.iccsafe.org/content/IECC2021P1.</E>
+                    </P>
+                </FTNT>
+                <P>The energy efficiency standard for low-rise residential buildings is the 2021 IECC.</P>
+                <HD SOURCE="HD2">(12) Whole Building Design GuideâNational Institute of Building Sciences</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">www.wbdg.org/</E>
+                </FP>
+                <P>A portal providing one-stop access to up-to-date information on a wide range of building-related guidance, criteria, and technology from a âwhole buildingsâ perspective.</P>
+                <HD SOURCE="HD1">VII. Regulatory Analysis</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866, âRegulatory Planning and Reviewâ</HD>
+                <P>
+                    This final rule is a âsignificant regulatory actionâ under Executive Order 12866, âRegulatory Planning and Review.â 58 FR 51735 (October 4, 1993). Accordingly, this action was subject to review by the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB). OMB has completed its review. As discussed previously in this rule, DOE is required to determine, based on the cost-effectiveness, whether the standards for Federal buildings should be updated to reflect an amendment to the IECC standard. As stated in the preamble, DOE complied with the statutory language by analyzing the cost-effectiveness of the 2018 IECC and the 2021 IECC, and through DOE's involvement in the ICC code development process.
+                    <PRTPAGE P="19609"/>
+                </P>
+                <P>DOE has also reviewed this regulation pursuant to Executive Order 13563, issued on January 18, 2011. 76 FR 3281 (January 21, 2011). E.O. 13563 is supplemental to, and explicitly reaffirms the principles, structures, and definitions governing regulatory review established in Executive Order 12866.</P>
+                <P>
+                    Review under Executive Order 12866 requires an analysis of the economic effect of the rule. For this purpose, DOE estimated incremental first cost (in this case, the difference between the cost of a building designed to meet the 2021 IECC and a building designed to meet the 2015 IECC) for the Federal low-rise residential buildings sector, as well as LCC net savings. Because this update incorporates changes made in the 2018 and 2021 IECC codes, DOE has adjusted the IECC 2018 analyses to use the same underlying economic assumptions (
+                    <E T="03">e.g.,</E>
+                     fuel price escalations, labor rates, etc.) as the IECC 2021 analysis in order to estimate the cumulative impact of the two code changes. First, DOE estimated that the annual full fuel cycle national energy savings would be 0.074 trillion Btu (associated with one year of Federal construction), that the cumulative (over the 30-year analysis period) full fuel cycle national energy savings would be 0.060 quadrillion Btu, and that the cumulative (including building lifetime savings) full fuel cycle national energy savings would be 0.063 quadrillion Btu. Based on these energy savings and using the methodology described in section IV of this document, DOE estimated the resulting incremental first cost, first year energy cost savings, and annual LCC net savings. DOE estimated that the total incremental first cost is an increase of $9.1 million per year, with an average first cost increase of $2,296 per household. DOE estimated $11.3 million in annual LCC net savings for the entire Federal low-rise residential buildings sector with an average LCC net savings of $2,860 per household.
+                    <SU>32</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>32</SU>
+                        âDOE also prepared an EA for this rule that details the environmental impacts, including emissions reductions, of the rule. Environmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for New Federal Low-Rise Residential Buildings,' Baseline Standards Update. The EA may be found in the docket for this rulemaking and at 
+                        <E T="03">www.energy.gov/nepa/doeea-2166-energy-efficiency-standards-new-federal-low-rise-residential-buildings-baseline.</E>
+                    </P>
+                </FTNT>
+                <P>Table VII.1 shows the monetized economic benefits and costs expected to result from this rulemaking. Using a7-percent discount rate for consumer benefits and costs and health benefits, and a 3-percent discount rate case for GHG social (climate) costs, the estimated cost of this rulemaking is $0.113 billion in increased equipment costs, while the estimated benefits are $0.168 billion in reduced equipment operating costs, $0.114 billion in climate benefits, and $0.066 billion in health benefits. In this case, the net benefit amounts to $0.234 billion. Using a 3-percent discount rate for all benefits and costs, the estimated cost of this rulemaking is $0.179 billion in increased equipment costs, while the estimated benefits are $0.391 billion in reduced equipment operating costs, $0.114 billion in climate benefits, and $0.177 billion in health benefits. In this case, the net benefit amounts to $0.503 billion.</P>
+                <P>Table VII.2 shows the annualized monetized economic benefits and costs expected to result from this rulemaking. Using a 7-percent discount rate for consumer benefits and costs and health benefits, and a 3-percent discount rate case for GHG social (climate) costs, the estimated cost of this rulemaking is $9.1 million per year in increased equipment costs, while the estimated annual benefits are $13.5 million in reduced equipment operating costs, $5.8 million in climate benefits, and $5.3 million in health benefits. In this case, the net benefit amounts to $15.5 million per year. Using a 3-percent discount rate for all benefits and costs, the estimated cost of this rulemaking is $9.1 million per year in increased equipment costs, while the estimated annual benefits are $20.0 million in reduced equipment operating costs, $5.8 million in climate benefits, and $9.0 million in health benefits. In this case, the net benefit amounts to $25.7 million per year.</P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s158,12">
+                    <TTITLE>Table VII.1âSummary of Monetized Economic Benefits and Costs (Billion 2020$) </TTITLE>
+                    <TDESC>[2022-2051 plus 30-year lifetime]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">â</CHED>
+                        <CHED H="1">Billion $2020</CHED>
+                    </BOXHD>
+                    <ROW EXPSTB="01" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">3% discount rate</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">Consumer Operating Cost Savings</ENT>
+                        <ENT>0.391</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Climate Benefits *</ENT>
+                        <ENT>0.114</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Health Benefits **</ENT>
+                        <ENT>0.177</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">
+                            Total Benefits 
+                            <E T="0731">â </E>
+                        </ENT>
+                        <ENT>0.682</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">
+                            Consumer Incremental Product Costs 
+                            <E T="0731">â â </E>
+                        </ENT>
+                        <ENT>0.179</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="05">Net Benefits</ENT>
+                        <ENT>0.503</ENT>
+                    </ROW>
+                    <ROW EXPSTB="01" RUL="sî">
+                        <ENT I="21">
+                            <E T="02">7% discount rate</E>
+                        </ENT>
+                    </ROW>
+                    <ROW EXPSTB="00">
+                        <ENT I="01">Consumer Operating Cost Savings</ENT>
+                        <ENT>0.168</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Climate Benefits *</ENT>
+                        <ENT>0.114</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Health Benefits **</ENT>
+                        <ENT>0.066</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">
+                            Total Benefits 
+                            <E T="0731">â </E>
+                        </ENT>
+                        <ENT>0.347</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">
+                            Consumer Incremental Product Costs 
+                            <E T="0731">â â </E>
+                        </ENT>
+                        <ENT>0.113</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="05">Net Benefits</ENT>
+                        <ENT>0.234</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <E T="02">Note:</E>
+                         This table presents the costs and benefits associated with Federal new commercial and multi-family high-rise buildings built in 2022-2051. These results include benefits to consumers which accrue after 2051 from the buildings constructed in 2022-2051.
+                        <PRTPAGE P="19610"/>
+                    </TNOTE>
+                    <TNOTE>
+                        *âClimate benefits are calculated using four different estimates of the social cost of carbon (SC-CO
+                        <E T="0732">2</E>
+                        ), methane (SC-CH
+                        <E T="0732">4</E>
+                        ), and nitrous oxide (SC-N
+                        <E T="0732">2</E>
+                        O) (model average at 2.5 percent, 3 percent, and 5 percent discount rates; 95th percentile at 3 percent discount rate). Together these represent the social cost of greenhouse gases (SC-GHG). For presentational purposes of this table, the climate benefits associated with the average SC-GHG at a 3 percent discount rate are shown, but the Department does not have a single central SC-GHG point estimate, and it emphasizes the importance and value of considering the benefits calculated using all four SC-GHG estimates. See section IV.B of this document for more details.
+                    </TNOTE>
+                    <TNOTE>
+                        **âHealth benefits are calculated using benefit-per-ton values for NO
+                        <E T="52">X</E>
+                         and SO
+                        <E T="0732">2</E>
+                        . DOE is currently only monetizing (for SO
+                        <E T="0732">2</E>
+                         and NO
+                        <E T="0732">X</E>
+                        ) PM
+                        <E T="0732">2.5</E>
+                         precursor health benefits and (for NO
+                        <E T="0732">X</E>
+                        ) ozone precursor health benefits, but will continue to assess the ability to monetize other effects such as health benefits from reductions in direct PM
+                        <E T="0732">2.5</E>
+                         emissions. The health benefits are presented at real discount rates of 3 and 7 percent. See section IV.B of this document for more details.
+                    </TNOTE>
+                    <TNOTE>
+                        <E T="0731">â </E>
+                        âTotal and net benefits include consumer operating cost savings and benefits related to public health and climate. On March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                        <E T="03">Louisiana</E>
+                         v. 
+                        <E T="03">Biden,</E>
+                         No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the injunction and present monetized benefits where appropriate and permissible under law. 
+                        <E T="0731">â </E>
+                         Costs include incremental equipment costs as well as installation costs.
+                    </TNOTE>
+                </GPOTABLE>
+                <GPOTABLE COLS="3" OPTS="L2,i1" CDEF="s150,16,16">
+                    <TTITLE>Table VII.2âAnnualized Monetized Benefits, Costs, and Net Benefits (Million 2020$) </TTITLE>
+                    <TDESC>[2022-2051 plus 30-Year Lifetime]</TDESC>
+                    <BOXHD>
+                        <CHED H="1">Category</CHED>
+                        <CHED H="1">Million 2020$/year</CHED>
+                        <CHED H="2">3% Discount rate</CHED>
+                        <CHED H="2">7% Discount rate</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Consumer Operating Cost Savings</ENT>
+                        <ENT>20.0</ENT>
+                        <ENT>13.5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Climate Benefits * </ENT>
+                        <ENT>5.8</ENT>
+                        <ENT>5.8</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Health Benefits ** </ENT>
+                        <ENT>9.0</ENT>
+                        <ENT>5.3</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">
+                            Total Benefits
+                            <E T="0731">â </E>
+                        </ENT>
+                        <ENT>34.8</ENT>
+                        <ENT>24.6</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">
+                            Costs
+                            <E T="0731">â â </E>
+                        </ENT>
+                        <ENT>9.1</ENT>
+                        <ENT>9.1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="05">Net Benefits</ENT>
+                        <ENT>25.7</ENT>
+                        <ENT>15.5</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <E T="02">Note:</E>
+                         This table presents the costs and benefits associated with Federal new commercial and multi-family high-rise buildings built in 2022-2051. These results include benefits to consumers which accrue after 2051 from the buildings constructed in 2022-2051.
+                    </TNOTE>
+                    <TNOTE>
+                        *âClimate benefits are calculated using four different estimates of the social cost of carbon (SC-CO
+                        <E T="0732">2</E>
+                        ), methane (SC-CH
+                        <E T="0732">4</E>
+                        ), and nitrous oxide (SC-N
+                        <E T="0732">2</E>
+                        O) (model average at 2.5 percent, 3 percent, and 5 percent discount rates; 95th percentile at 3 percent discount rate). Together these represent the social cost of greenhouse gases (SC-GHG). For presentational purposes of this table, the climate benefits associated with the average SC-GHG at a 3 percent discount rate are shown, but the Department does not have a single central SC-GHG point estimate, and it emphasizes the importance and value of considering the benefits calculated using all four SC-GHG estimates. See section IV.B of this document for more details.
+                    </TNOTE>
+                    <TNOTE>
+                        **âHealth benefits are calculated using benefit-per-ton values for NO
+                        <E T="0732">X</E>
+                         and SO
+                        <E T="0732">2</E>
+                        . DOE is currently only monetizing (for SO
+                        <E T="0732">2</E>
+                         and NO
+                        <E T="0732">X</E>
+                        ) PM
+                        <E T="0732">2.5</E>
+                         precursor health benefits and (for NO
+                        <E T="52">X</E>
+                        ) ozone precursor health benefits, but will continue to assess the ability to monetize other effects such as health benefits from reductions in direct PM
+                        <E T="0732">2.5</E>
+                         emissions. The health benefits are presented at real discount rates of 3 and 7 percent. See section IV.B of this document for more details.
+                    </TNOTE>
+                    <TNOTE>
+                        <E T="0731">â </E>
+                        âTotal and net benefits include consumer operating cost savings and benefits related to public health and climate. On March 16, 2022, the Fifth Circuit Court of Appeals (No. 22-30087) granted the federal government's emergency motion for stay pending appeal of the February 11, 2022, preliminary injunction issued in 
+                        <E T="03">Louisiana</E>
+                         v. 
+                        <E T="03">Biden,</E>
+                         No. 21-cv-1074-JDC-KK (W.D. La.). As a result of the Fifth Circuit's order, the preliminary injunction is no longer in effect, pending resolution of the federal government's appeal of that injunction or a further court order. Among other things, the preliminary injunction enjoined the defendants in that case from âadopting, employing, treating as binding, or relying uponâ the interim estimates of the social cost of greenhouse gasesâwhich were issued by the Interagency Working Group on the Social Cost of Greenhouse Gases on February 26, 2021âto monetize the benefits of reducing greenhouse gas emissions. In the absence of further intervening court orders, DOE will revert to its approach prior to the injunction and present monetized benefits where appropriate and permissible under law.
+                    </TNOTE>
+                    <TNOTE>
+                        <E T="0731">â â </E>
+                        âCosts include incremental equipment costs as well as installation costs.
+                    </TNOTE>
+                </GPOTABLE>
+                <HD SOURCE="HD2">B. Review Under the Administrative Procedure Act</HD>
+                <P>
+                    This rule, which updates energy efficiency performance standards for the design and construction of new Federal buildings, is a rule relating to public property, and therefore is not subject to the rulemaking requirements of the Administrative Procedure Act, including the requirement to publish a notice of proposed rulemaking. (
+                    <E T="03">See</E>
+                     5 U.S.C. 553(a)(2))
+                </P>
+                <HD SOURCE="HD2">C. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires the preparation of an initial regulatory flexibility analysis for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by Executive Order 13272, âProper Consideration of Small Entities in Agency Rulemaking,â 67 FR 53461 (August 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process. 68 FR 7990. DOE has made its procedures and policies available on the Office of General Counsel's website: 
+                    <E T="03">https://energy.gov/gc/office-general-counsel.</E>
+                </P>
+                <P>As noted above, DOE has determined that a notice of proposed rulemaking is not required by 5 U.S.C. 553 or any other law for issuance of this rule. As such, the analytical requirements of the Regulatory Flexibility Act do not apply. 5 U.S.C. 605(b).</P>
+                <HD SOURCE="HD2">D. Review Under the Paperwork Reduction Act of 1995</HD>
+                <P>
+                    This rulemaking will impose no new information or record keeping requirements. Accordingly, OMB clearance is not required under the Paperwork Reduction Act. (44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    )
+                    <PRTPAGE P="19611"/>
+                </P>
+                <HD SOURCE="HD2">E. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    DOE prepared an EA (DOE/EA-2166) entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for New Federal Low-Rise Residential Buildings,' Baseline Standards Update,ââ
+                    <SU>33</SU>
+                    <FTREF/>
+                     pursuant to the Council on Environmental Quality's (CEQ) Regulations for Implementing the Procedural Provisions of the National Environmental Policy Act (40 CFR parts 1500-1508), the National Environmental Policy Act of 1969 (NEPA), as amended (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ), and DOE's NEPA Implementing Procedures (10 CFR part 1021).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>33</SU>
+                        âThe EA may be found in the docket for this rulemaking and at 
+                        <E T="03">www.energy.gov/nepa/doeea-2166-energy-efficiency-standards-new-federal-low-rise-residential-buildings-baseline.</E>
+                    </P>
+                </FTNT>
+                <P>The EA addresses the possible incremental environmental effects attributable to the application of the final rule. The only anticipated impact would be a decrease in outdoor air pollutants resulting from decreased fossil fuel consumption, either directly consumed on site or indirectly when used to generate energy that is consumed in Federal buildings. Therefore, DOE has issued a finding of no significant impact (FONSI), pursuant to NEPA, the regulations of the Council on Environmental Quality (40 CFR parts 1500-1508), and DOE's regulations for compliance with NEPA (10 CFR part 1021).</P>
+                <P>To identify the potential environmental impacts that may result from implementing the final rule on new Federal low-rise residential buildings, DOE compared the requirements of the final rule updating energy efficiency performance standards for Federal new low-rise residential buildings to 2021 IECC with the âno-action alternativeâ of using the current Federal standards (the 2015 IECC). This comparison is identical to that undertaken by DOE in its determinations of energy savings of those standards and codes.</P>
+                <P>
+                    Accordingly, DOE concludes in the EA that new Federal buildings designed and constructed to the 2021 IECC will use less energy than new Federal buildings designed and constructed to the 2015 IECC because the 2021 IECC is more efficient than 2015 IECC. This decrease in energy usage translates to reduced emissions of carbon dioxide (CO
+                    <E T="52">2</E>
+                    ), nitrogen oxides (NO
+                    <E T="52">X</E>
+                    ), and mercury (Hg) over the 30-year period examined in the EA. As reported in the EA, cumulative emission reductions for 30 years of construction and operation for Federal buildings built during that period (2022 through 2051) were estimated at up to 1.3 million metric tons of CO
+                    <E T="52">2</E>
+                    , up to 2.3 thousand tons of NO
+                    <E T="52">X</E>
+                    , up to 0.002 tons of Hg, up to 10.8 thousand tons of CH
+                    <E T="52">4</E>
+                    , up to 0.4 thousand tons of SO
+                    <E T="52">2</E>
+                    , and up to 0.01 thousand tons of N
+                    <E T="52">2</E>
+                    O. In conducting the net benefits analysis, DOE also calculated the energy savings and associated emissions corresponding to the analysis period plus the lifetime of the building (30 years) to capture the full benefits stream associated with Federal buildings constructed from 2022 through 2051. For 30 years of construction and operation including building lifetime, cumulative emission reductions were estimated at up to 2.5 million metric tons of CO
+                    <E T="52">2</E>
+                    , up to 4.3 thousand tons of NO
+                    <E T="52">X</E>
+                    , up to 0.004 tons of Hg, up to 20.8 thousand tons of CH
+                    <E T="52">4</E>
+                    , up to 0.8 thousand tons of SO
+                    <E T="52">2</E>
+                    , and up to 0.02 thousand tons of N
+                    <E T="52">2</E>
+                    O.
+                </P>
+                <HD SOURCE="HD2">F. Review under Executive Order 13132, âFederalismâ</HD>
+                <P>Executive Order 13132, âFederalism,â 64 FR 43255 (August 4, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations. 65 FR 13735. DOE examined this rule and determined that it does not preempt State law and does not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. No further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">G. Review Under Executive Order 12988, âCivil Justice Reformâ</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â 61 FR 4729 (February 7, 1996), imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity, (2) write regulations to minimize litigation, and (3) provide a clear legal standard for affected conduct, rather than a general standard and promote simplification and burden reduction. Section 3(b) of Executive Order 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation (1) clearly specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct, while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or if it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this rule meets the relevant standards of Executive Order 12988.</P>
+                <HD SOURCE="HD2">H. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) (Pub. L. 104-4) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and tribal governments as well as the private sector. For a proposed regulatory action likely to result in a rule that may cause the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a) and (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and tribal governments on a proposed âsignificant intergovernmental mandateâ and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect small governments. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA (62 FR 
+                    <PRTPAGE P="19612"/>
+                    12820) (also available at 
+                    <E T="03">https://energy.gov/gc/office-general-counsel</E>
+                    ). This final rule contains neither an intergovernmental mandate nor a mandate that may result in the expenditure of $100 million or more in any year by State, local, and tribal governments, in the aggregate, or by the private sector, so these requirements under the Unfunded Mandates Reform Act do not apply.
+                </P>
+                <HD SOURCE="HD2">I. Review Under the Treasury and General Government Appropriations Act of 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act of 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">J. Review Under Executive Order 12630, âGovernmental Actions and Interference With Constitutionally Protected Property Rightsâ</HD>
+                <P>DOE has determined, under Executive Order 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rightsâ 53 FR 8859 (March 18, 1988), that this rule would not result in any takings that might require compensation under the Fifth Amendment to the United States Constitution.</P>
+                <HD SOURCE="HD2">K. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (February 22, 2002), and DOE's guidelines were published at 67 FR 62446 (October 7, 2002). DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">L. Review Under Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Useâ</HD>
+                <P>
+                    Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA, a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that (1) is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy; or (3) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the action and their expected benefits on energy supply, distribution, and use. DOE's Energy Information Administration (EIA) estimates single-family and multi-family households in the residential sector will be approximately 120 million households averaging 1,800 square feet in the United States in 2022, with a growth rate of roughly 0.7 percent per year, which is equivalent to about 832,000 new households or approximately 1.5 billion square feet per year.
+                    <SU>34</SU>
+                    <FTREF/>
+                     This rule is expected to incrementally reduce the energy usage of approximately 9.78 million square feetâ
+                    <SU>35</SU>
+                    <FTREF/>
+                     of Federal low-rise residential construction annually. Thus, the rule represents approximately 0.65 percent of the expected annual U.S. construction in 2022, and less in every succeeding year. This final rule would not have a significant adverse effect on the supply, distribution, or use of energy and, therefore, is not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>34</SU>
+                        â
+                        <E T="03">See</E>
+                         Table A4 of the 2021 Annual Energy Outlook at 
+                        <E T="03">www.eia.gov/outlooks/aeo/excel/aeotab_4.xlsx.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>35</SU>
+                        â
+                        <E T="03">See</E>
+                         EA for this rule for the origin of the federal residential construction estimate.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">M. Review Under Section 32 of the Federal Energy Administration Act of 1974</HD>
+                <P>Under section 301 of the DOE Organization Act (Pub. L. 95-91), DOE must comply with section 32 of the Federal Energy Administration Act of 1974 (Pub. L. 93-275), as amended by the Federal Energy Administration Authorization Act of 1977 (Pub. L. 95-70). (15 U.S.C. 788) Section 32 provides that where a proposed rule authorizes or requires use of commercial standards, the NOPR must inform the public of the use and background of such standards. In addition, section 32(c) requires DOE to consult with the Department of Justice (DOJ) and the Federal Trade Commission (FTC) concerning the impact of the commercial or industry standards on competition.</P>
+                <P>Although section 32 specifically refers to the proposed rule stage, DOE is meeting these requirements at the final rule stage because there was no proposed rule for this action. This final rule incorporates testing methods contained in the following commercial standard: ICC 2021 IECC, International Energy Conservation Code, 2020, International Code Council, ISBN 978-1-60983-749-5.</P>
+                <P>
+                    DOE has evaluated these standards and notes that the IECC Standard is developed under ICC's governmental consensus standard procedures and is under a three-year maintenance cycle. ICC has established a program for regular publication of errata and revisions, including procedures for timely, documented, consensus action on requested changes to the IECC. The 2018 IECC was published in 2017 and the 2021 IECC was published in 2020. However, DOE is unable to conclude whether the IECC fully complies with the requirements of section 32(b) of the FEAA (
+                    <E T="03">i.e.,</E>
+                     whether they were developed in a manner that fully provides for public participation, comment, and review). DOE has consulted with both the Attorney General and the Chairman of the FTC about the impact on competition of using the methods contained in these standards and has received no comments objecting to their use.
+                </P>
+                <HD SOURCE="HD2">N. Description of Materials Incorporated by Reference</HD>
+                <P>
+                    In this final rule, DOE incorporates by reference the ICC 2021 International Energy Conservation Code, (IECC), Redline Version, copyright 2021. This U.S. standard provides minimum requirements for energy-efficient designs for low-rise residential buildings. Copies of this standard are available from the International Code Council, 4051 West Flossmoor Road, Country Club Hills, IL 60478, 1-888-422-7233, 
+                    <E T="03">www.iccsafe.org.</E>
+                </P>
+                <P>The Director of the Federal Register previously approved ICC International Energy Conservation Code (IECC) 2005, 2009, and 2015 Editions, for incorporation by reference in 10 CFR part 435.</P>
+                <PRTPAGE P="19613"/>
+                <HD SOURCE="HD1">VIII. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule prior to its effective date. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">IX. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 435</HD>
+                    <P>Buildings and facilities, Energy conservation, Federal buildings and facilities, Housing, Incorporation by reference.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Signing Authority</HD>
+                <P>
+                    This document of the DOE was signed on March 28, 2022, by Kelly J. Speakes-Backman, Principal Deputy Assistant Secretary for Energy Efficiency and Renewable Energy, pursuant to delegated authority from the Secretary of Energy. That document, with the original signature and date, is maintained by DOE. For administrative purposes only, and in compliance with requirements of the Office of the Federal Register, the undersigned DOE Federal Register Liaison Officer has been authorized to sign and submit the document in electronic format for publication, as an official document of the DOE. This administrative process in no way alters the legal effect of this document upon publication in the 
+                    <E T="04">Federal Register</E>
+                    .
+                </P>
+                <SIG>
+                    <DATED>Signed in Washington, DC, on March 31, 2022.</DATED>
+                    <NAME>Treena V. Garrett,</NAME>
+                    <TITLE>Federal Register Liaison Officer, U.S. Department of Energy.</TITLE>
+                </SIG>
+                <P>For the reasons set forth in the preamble, the Department of Energy amends part 435 of chapter II of title 10 of the Code of Federal Regulations as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 435âENERGY EFFICIENCY STANDARDS FOR THE DESIGN AND CONSTRUCTION OF NEW FEDERAL LOW-RISE RESIDENTIAL BUILDINGS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>1. The authority citation for part 435 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                             42 U.S.C. 6831-6832; 6834-6836; 42 U.S.C. 8253-54, 42 U.S.C. 7101 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>2. Section 435.2 is amended by:</AMDPAR>
+                    <AMDPAR>a. Removing in the definition for âIECC Baseline Building 2004â, the text âICC International Energy Conservation Code, 2004 Supplement Edition, January 2005â and adding, in its place, the text âICC IECC 2004â;</AMDPAR>
+                    <AMDPAR>b. Removing in the definition for âIECC Baseline Building 2009â, the text âICC International Energy Conservation Code, 2009 Edition, January 2009â and adding, in its place, the text âICC IECC 2009â; and</AMDPAR>
+                    <AMDPAR>c. Adding in alphanumerical order a definition for âIECC Baseline Building 2021â.</AMDPAR>
+                    <P>The addition reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â435.2</SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">IECC Baseline Building 2021</E>
+                             means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in the ICC IECC 2021 (incorporated by reference, see Â§â435.3).
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>3. Section 435.3 is amended by revising paragraph (a) and adding paragraph (b)(4) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â435.3</SECTNO>
+                        <SUBJECT>Materials incorporated by reference.</SUBJECT>
+                        <P>
+                            (a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, DOE must publish a document in the 
+                            <E T="04">Federal Register</E>
+                             and the material must be available to the public. All approved material is available for inspection at DOE, and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, 
+                            <E T="03">Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/building-technologies-office.</E>
+                             For information on the availability of this material at NARA, email: 
+                            <E T="03">fr.inspection@nara.gov,</E>
+                             or go to: 
+                            <E T="03">www.archives.gov/federal-register/cfr/ibr-locations.html.</E>
+                             The material may be obtained from the sources in the following paragraphs of this section.
+                        </P>
+                        <P>(b) * * *</P>
+                        <P>(4) ICC 2021 International Energy Conservation Code (IECC), Redline Version, Copyright 2021, (âIECC 2021â), IBR approved for Â§Â§â435.2, 435.4, and 435.5.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>4. Section 435.4 is amended by:</AMDPAR>
+                    <AMDPAR>a. Revising paragraph (a)(3) introductory text;</AMDPAR>
+                    <AMDPAR>b. Removing in paragraph (a)(3)(i), the text â2015 IECCâ and adding in its place the text âIECC 2015â; and</AMDPAR>
+                    <AMDPAR>c. Adding paragraph (a)(4).</AMDPAR>
+                    <P>The revision and addition reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â435.4</SECTNO>
+                        <SUBJECT>Energy efficiency performance standard.</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>(3) All Federal agencies shall design new Federal buildings that are low-rise residential buildings, for which design for construction began on or after January 10, 2018, but before April 5, 2023 to:</P>
+                        <STARS/>
+                        <P>(4) All Federal agencies shall design new Federal buildings that are low-rise residential buildings, for which design for construction began on or after April 5, 2023 to:</P>
+                        <P>(i) Meet the IECC 2021, (incorporated by reference, see Â§â435.3); and</P>
+                        <P>(ii) If life-cycle cost-effective, achieve energy consumption levels, calculated consistent with paragraph (b) of this section, that are at least 30 percent below the levels of the IECC Baseline Building 2021.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>5. Section 435.5 is amended by revising paragraph (c) and adding paragraph (d) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â435.5</SECTNO>
+                        <SUBJECT>Performance level determination.</SUBJECT>
+                        <STARS/>
+                        <P>(c) For new Federal buildings for which design for construction began on or after January 10, 2018 but before April 5, 2023 each Federal agency shall determine energy consumption levels for both the IECC Baseline Building 2015 and proposed building by using the Simulated Performance Alternative found in section R405 of the IECC 2015 (incorporated by reference, see Â§â435.3).</P>
+                        <P>
+                            (d) For new Federal buildings for which design for construction began on or after April 5, 2023 each Federal agency shall determine energy consumption levels for both the IECC Baseline Building 2021 and proposed building by using the Simulated Performance Alternative found in section R405 of the IECC 2021 (incorporated by reference, 
+                            <E T="03">see</E>
+                             Â§â435.3).
+                        </P>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2022-07138 Filed 4-4-22; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

@@ -1,0 +1,5 @@
+[TABLE]
+| CLIMATE DIVISION | County | Irrigation District | Nrcs - Resource Areas | Tribe | Short-term Indicators | Long-term Indicators |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7 | Cochise; Graham; Greenlee; Pima; Santa Cruz | . Avra Valley ID; Cotaro-Marana ID; . Farmer's Investment Co.; . Franklin ID; Duncan -- Virden Valley; Consolidated Canal Co.; . Pomerene WUA | . Upper Sonoran Desert; . Middle Sonoran Desert; . Lower Sonoran Desert; . Mogollon Transition; Chaparral Grasslands; . Mogollon Transition; Pinyon-Juniper-Chaparral; Mogollon Transition Oak; Pine Forests; . Mogollon Plateau; Ponderosa and mixed; Conifer Forests; . Mexican Oak-Pine Forest; and Oak S | . Pasqua-Yaqui; . San Carlos; . San Xavier; . Tohono O'odham | . 3-month SPI; 6-month SPI; . 12-month SPI | 24-month SPI; 36-month SPI; 48-month SPI; Blue River near Clifton flow; San Francisco River at Clifton; flow; Gila River at head of valley; near Solomon; San Pedro River at Palominas; San Pedro River at Charleston; Aravaipa Creek near Mammoth; Santa Cruz River near Lochiel; Leslie Creek near McNeal |
+[/TABLE]

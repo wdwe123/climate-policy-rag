@@ -1,0 +1,1345 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF THE INTERIOR</AGENCY>
+                <SUBAGY>Fish and Wildlife Service</SUBAGY>
+                <CFR>50 CFR Part 18</CFR>
+                <DEPDOC>[Docket No. FWS-R7-ES-2022-0025; FXES111607MRG01-212-FF07CAMM00]</DEPDOC>
+                <RIN>RIN 1018-BG05</RIN>
+                <SUBJECT>Marine Mammals; Incidental Take of Northern Sea Otters During Specified Activities; the Gulf of Alaska</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Fish and Wildlife Service, Interior.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>In accordance with the Marine Mammal Protection Act of 1972, as amended, and its implementing regulations, we, the U.S. Fish and Wildlife Service, finalize incidental take regulations that facilitate the authorization of nonlethal, incidental, unintentional take by harassment of small numbers of northern sea otters during marine construction and pile driving in the Gulf of Alaska coastal waters. Take may result from marine construction and pile-driving activities. This rule is effective for 5 years from the date of issuance.</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective May 19, 2023, through May 19, 2028.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        You may view this rule, the associated final environmental assessment, finding of no significant impact (FONSI), comments received, and other supporting material at 
+                        <E T="03">https://www.regulations.gov</E>
+                         under Docket No. FWS-R7-ES-2022-0025, or these documents may be requested as described under 
+                        <E T="02">FOR FURTHER INFORMATION CONTACT</E>
+                        .
+                    </P>
+                    <P>
+                        <E T="03">Information Collection Requirements:</E>
+                         This final rule is effective on the date set forth in 
+                        <E T="02">DATES</E>
+                        . We will, however, accept and consider all public comments concerning the information collection requirements received in response to this final rule. Written comments and suggestions on the information collection requirements may be submitted at any time to the Service Information Collection Clearance Officer, U.S. Fish and Wildlife Service, by email to 
+                        <E T="03">info_coll@fws.gov;</E>
+                         or by mail to 5275 Leesburg Pike, MS: PRB (JAO/3W), Falls Church, VA 22041-3803. Please reference âOMB 
+                        <PRTPAGE P="24116"/>
+                        Control Number 1018-BD63/0070â in the subject line of your comments.
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Sierra Franks, U.S. Fish and Wildlife Service, MS 341, 1011 East Tudor Road, Anchorage, AK 99503, by email at 
+                        <E T="03">R7mmmregulatory@fws.gov</E>
+                         or by telephone at 907-268-0577. Individuals in the United States who are deaf, deafblind, hard of hearing, or have a speech disability may dial 711 (TTY, TDD, or TeleBraille) to access telecommunications relay services. Individuals outside the United States should use the relay services offered within their country to make international calls to the point-of-contact in the United States.
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Executive Summary</HD>
+                <P>
+                    In accordance with the Marine Mammal Protection Act (MMPA) of 1972, as amended, and its implementing regulations, we, the U.S. Fish and Wildlife Service (Service, USFWS, or we), finalize incidental take regulations (ITR) that facilitate the authorization of nonlethal, incidental, unintentional take by harassment of small numbers of northern sea otters (
+                    <E T="03">Enhydra lutris kenyoni;</E>
+                     hereafter âotter,â âotters,â or âsea ottersâ) during marine construction and pile-driving activities in coastal waters surrounding eight United States Coast Guard (USCG) facilities in the Gulf of Alaska. This rule will be effective for 5 years from the date of issuance.
+                </P>
+                <P>This rule sets forth permissible methods of incidental nonlethal taking, mitigation measures to ensure the least practicable adverse impacts upon this species, its habitat, and the availability of this species for subsistence uses, and requirements for monitoring and reporting. This rule is based on our findings that the total takings of sea otters during pile driving and marine construction activities will impact only small numbers of animals, will have a negligible impact on this species, and will not have an unmitigable adverse impact on the availability of this species for subsistence use by Alaska Natives. We base our findings on data from research on this species; potential and documented effects on this species from similar activities; information regarding the natural history and conservation status of sea otters; and data reported from Alaska Native subsistence hunters. We also prepared an environmental assessment (EA) in accordance with National Environmental Policy Act (NEPA) requirements for this rulemaking and, after consideration of public comments, made a finding of no significant impact (FONSI).</P>
+                <HD SOURCE="HD1">Background</HD>
+                <P>Section 101(a)(5)(A) of the Marine Mammal Protection Act (MMPA; 16 U.S.C. 1371(a)(5)(A)) gives the Secretary of the Interior (Secretary) the authority to allow the incidental, but not intentional, taking of small numbers of marine mammals, in response to requests by U.S. citizens (as defined in title 50 of the Code of Federal Regulations (CFR) in part 18 at Â§â18.27(c)) engaged in a specified activity (other than commercial fishing) in a specified geographic region. The Secretary has delegated authority for implementation of the MMPA to the Service. According to the MMPA, the Service shall allow this incidental taking if we make findings that the total of such taking for the 5-year regulatory period:</P>
+                <P>(1) is of small numbers of marine mammals of a species or stock;</P>
+                <P>(2) will have a negligible impact on such species or stock; and</P>
+                <P>(3) will not have an unmitigable adverse impact on the availability of these species or stock for taking for subsistence use by Alaska Natives.</P>
+                <P>If the requisite findings are made, we issue regulations that set forth the following, where applicable:</P>
+                <P>(a) permissible methods of taking;</P>
+                <P>(b) means of effecting the least practicable adverse impact on the species or stock and its habitat and the availability of the species or stock for subsistence uses; and</P>
+                <P>(c) requirements for monitoring and reporting of such taking by harassment, including, in certain circumstances, requirements for the independent peer review of proposed monitoring plans or other research proposals.</P>
+                <P>If final regulations allowing such incidental taking are issued, we may then subsequently issue Letters of Authorization (LOA), upon request, to authorize incidental take during the specified activities.</P>
+                <P>The term âtakeâ means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill any marine mammal (16 U.S.C. 1362(13)). âHarassmentâ means any act of pursuit, torment, or annoyance which (i) has the potential to injure a marine mammal or marine mammal stock in the wild (the MMPA defines this as âLevel A harassmentâ), or (ii) has the potential to disturb a marine mammal or marine mammal stock in the wild by causing disruption of behavioral patterns, including, but not limited to, migration, breathing, nursing, breeding, feeding, or sheltering (the MMPA defines this as âLevel B harassmentâ) (16 U.S.C. 1362(18)).</P>
+                <P>The USCG's activities may result in the incidental taking of sea otters. The MMPA does not require the USCG to obtain incidental take authorization prior to engaging in activities that may incidentally take these marine mammals; however, any such taking that occurs without authorization is a violation of the MMPA.</P>
+                <HD SOURCE="HD1">Summary of Request and the Proposed Rule</HD>
+                <P>The Service first received a petition requesting ITRs from the USCG on July 2, 2021. The Service sent requests for additional information on August 12, September 13, and November 10, 2021, and February 10, 2022. We received updated versions of the petition for rulemaking on October 14, 2021, January 18, 2022, and February 28, 2022; the version received on the latter date was determined to be adequate and complete. Several revisions were made involving animal presence, ensonified areas, number of days of operations, and mitigation and monitoring protocols. Geospatial files of the work sites were received on December 3, 2021. The Service used the February 2022 information and December 2021 spatial files for analyses.</P>
+                <P>Based on our analyses, we published a proposed rule for these ITRs on August 15, 2022 (87 FR 50041). The preamble to the proposed rule provided information on several issues, including the following topics:</P>
+                <P>â¢ sea otter biology and stocks within the specified region;</P>
+                <P>â¢ potential impacts to sea otters arising from the specified activities, including effects of underwater and airborne sounds, vessel presence, effects to prey, reactions of sea otters to anthropogenic activities, and consequences of disturbance;</P>
+                <P>â¢ potential impacts of the specified activities on subsistence uses of sea otters;</P>
+                <P>â¢ the definitions of incidental take under the MMPA as well as definitions of ânegligible impact,â âunmitigable adverse impact,â âsmall numbers,â and âleast practicable adverse impactâ;</P>
+                <P>â¢ methods of analyzing and estimating take by harassment;</P>
+                <P>â¢ critical assumptions of the analyses; and</P>
+                <P>â¢ a breakdown of incidental take by harassment at each location within the specified region.</P>
+                <P>
+                    Please see the August 15, 2022 (87 FR 50041), proposed rule for further background information related to this rulemaking action.
+                    <PRTPAGE P="24117"/>
+                </P>
+                <HD SOURCE="HD1">Description of the Regulations</HD>
+                <P>These regulations facilitate the authorization of nonlethal, incidental, unintentional take of small numbers of sea otters that may result from the proposed activities based on standards set forth in the MMPA. They would not authorize or âpermitâ activities. The regulations include:</P>
+                <P>(1) Permissible methods of nonlethal taking;</P>
+                <P>(2) Measures designed to ensure the least practicable adverse impact on sea otters and their habitat, and on the availability of this species for subsistence uses; and</P>
+                <P>(3) Requirements for monitoring and reporting.</P>
+                <HD SOURCE="HD2">Description of Letters of Authorization (LOA)</HD>
+                <P>An LOA is required to conduct activities pursuant to an ITR. Under these ITRs, the USCG may request LOAs for the authorized nonlethal, incidental, Level B harassment of sea otters. Requests for LOAs must be consistent with the activity descriptions and mitigation and monitoring requirements of the ITR and be received in writing at least 30 days before the activity is to begin. Requests must include (1) an operational plan for the activity; (2) a digital geospatial file of the project footprint, (3) a site-specific marine mammal monitoring and mitigation plan that specifies the procedures to monitor and mitigate the effects of the activities on sea otters, and, if necessary, (4) Plans of Cooperation (described below). Once this information has been received, we will evaluate each request and issue the LOA if we find that the level of taking will be consistent with the findings made for the total taking allowable under the ITR. We must receive an after-action report on the monitoring and mitigation activities within 90 days after the LOA expires. For more information on requesting and receiving an LOA, refer to 50 CFR 18.27.</P>
+                <HD SOURCE="HD2">Description of Plans of Cooperation (POC)</HD>
+                <P>A POC is a documented plan describing measures to mitigate potential conflicts between planned project activities and subsistence hunting. The circumstances under which a POC must be developed and submitted with a request for an LOA are described below.</P>
+                <P>To help ensure that the USCG's activities do not have an unmitigable adverse impact on the availability of the species for subsistence hunting opportunities, requests for an LOA under this ITR must provide the Service documentation of communication and coordination with Alaska Native communities potentially affected by the proposed activity and, as appropriate, with representative subsistence hunting and co-management organizations, such as the Alaska Sea Otter and Steller Sea Lion Commission. If Alaska Native communities or representative subsistence hunting organizations express concerns about the potential impacts of project activities on subsistence activities, and such concerns are not resolved during this initial communication and coordination process, then a POC must be developed and submitted with the applicant's request for an LOA. In developing the POC, the USCG will further engage with Alaska Native communities and/or representative subsistence hunting organizations to provide information and respond to questions and concerns. The POC must provide adequate measures to ensure that project activities will not have an unmitigable adverse impact on the availability of sea otters for subsistence uses.</P>
+                <HD SOURCE="HD2">Description of the Specified Geographic Region</HD>
+                <P>The specified geographic region covered by these ITRs (USCG ITR region (figure 1)) encompasses Gulf of Alaska (GOA) coastal waters, including State waters, within 2 kilometers (km) (~1.25 miles (mi)) of eight USCG facilities within the USCG Civil Engineering Unit Juneau Area of Responsibility. These facilities are: Base Kodiak, Moorings Seward, Moorings Valdez, Moorings Cordova, Moorings Sitka, Station Juneau, Moorings Petersburg, and Base Ketchikan.</P>
+                <GPH SPAN="3" DEEP="408">
+                    <PRTPAGE P="24118"/>
+                    <GID>ER19AP23.007</GID>
+                </GPH>
+                <HD SOURCE="HD2">Description of Specified Activities</HD>
+                <P>
+                    The USCG will perform maintenance activities that will include pile repair (
+                    <E T="03">i.e.,</E>
+                     sleeve or jacket replacement), pile replacement (including removal and installation), and deck repair and replacement to maintain safe berthing for operating vessels. The in-water work will include impact pile driving of timber, steel, and concrete piles, vibratory installation and extraction of timber, steel, and concrete piles, down-the-hole drilling, power washing of piles, use of an underwater hydraulic chainsaw, and pile clipping. The USCG will also conduct above-water maintenance activities, such as power washing of decks, fender repair (camel replacement, chain replacement, utility handlers), and replacement of rub strips and ladder supports.
+                </P>
+                <P>
+                    Detailed descriptions of the proposed work are provided in the applicant's 
+                    <E T="03">Request for ITRs for Programmatic Maintenance, Repair, and Replacement Activities</E>
+                     (February 2022) and the 
+                    <E T="03">Marine Mammal Monitoring and Mitigation Plan</E>
+                     (January 2022). These documents can be obtained from the locations described above in 
+                    <E T="02">ADDRESSES</E>
+                    .
+                </P>
+                <HD SOURCE="HD2">Sum of Harassment From All Sources</HD>
+                <P>The USCG will conduct pile driving and marine construction activities over the GOA during a period of 5 years following the effective date of the final rule. A summary of total numbers of estimated takes by Level B harassment during the duration of the project by season and take category is provided in table 1. Ensuing paragraphs address impacts to each affected stock of northern sea otters.</P>
+                <PRTPAGE P="24119"/>
+                <GPOTABLE COLS="5" OPTS="L2,i1" CDEF="s50,12,12,12,12">
+                    <TTITLE>Table 1âSummary by Project Site and Stocks of Sea Otters Expected To Be Harassed Through Behavioral Disturbance, Sea Otters in Level B Harassment Ensonification Area, for Single-Year Operations and Over the 5-Year Duration of the ITR</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Location</CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>otters </LI>
+                            <LI>(single year)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>exposures </LI>
+                            <LI>(single year)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>otters </LI>
+                            <LI>(5 years)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>exposures </LI>
+                            <LI>(5 years)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Kodiak</ENT>
+                        <ENT>1</ENT>
+                        <ENT>5</ENT>
+                        <ENT>5</ENT>
+                        <ENT>25</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Total Southwest Alaska stock</ENT>
+                        <ENT>1</ENT>
+                        <ENT>5</ENT>
+                        <ENT>5</ENT>
+                        <ENT>25</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Seward</ENT>
+                        <ENT>2</ENT>
+                        <ENT>5</ENT>
+                        <ENT>2</ENT>
+                        <ENT>5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Valdez</ENT>
+                        <ENT>8</ENT>
+                        <ENT>8</ENT>
+                        <ENT>40</ENT>
+                        <ENT>40</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Cordova</ENT>
+                        <ENT>35</ENT>
+                        <ENT>210</ENT>
+                        <ENT>35</ENT>
+                        <ENT>210</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">Total Southcentral Alaska stock</ENT>
+                        <ENT>45</ENT>
+                        <ENT>223</ENT>
+                        <ENT>77</ENT>
+                        <ENT>255</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Sitka</ENT>
+                        <ENT>6</ENT>
+                        <ENT>30</ENT>
+                        <ENT>30</ENT>
+                        <ENT>150</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Juneau</ENT>
+                        <ENT>3</ENT>
+                        <ENT>30</ENT>
+                        <ENT>15</ENT>
+                        <ENT>150</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Petersburg</ENT>
+                        <ENT>10</ENT>
+                        <ENT>40</ENT>
+                        <ENT>50</ENT>
+                        <ENT>200</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="01">Ketchikan</ENT>
+                        <ENT>4</ENT>
+                        <ENT>40</ENT>
+                        <ENT>20</ENT>
+                        <ENT>200</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <ENT I="03">Total Southeast Alaska stock</ENT>
+                        <ENT>23</ENT>
+                        <ENT>140</ENT>
+                        <ENT>115</ENT>
+                        <ENT>700</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="05">
+                            <E T="03">Total all stocks</E>
+                        </ENT>
+                        <ENT>
+                            <E T="03">69</E>
+                        </ENT>
+                        <ENT>
+                            <E T="03">368</E>
+                        </ENT>
+                        <ENT>
+                            <E T="03">197</E>
+                        </ENT>
+                        <ENT>
+                            <E T="03">980</E>
+                        </ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>In a single year, we estimate five instances of take by Level B harassment of one northern sea otter from the Southwest Alaska stock due to behavioral responses or Temporary Threshold Shift (TTS) associated with noise exposure. Over the 5-year duration of these ITRs, we estimate 25 instances of take by Level B harassment of 5 northern sea otters from the Southwest Alaska stock due to behavioral responses or TTS associated with noise exposure. Although multiple instances of harassment of otters are possible, we anticipate that these events will result in only temporary changes in behavior and will not have significant consequences for the health, reproduction, or survival of affected animals. We do not anticipate these events to cause any injuries or rise to the level of Level A harassment.</P>
+                <P>In a single year, we estimate 223 instances of take by Level B harassment of 45 northern sea otters from the Southcentral Alaska stock due to behavioral responses or TTS associated with noise exposure. Over the 5-year duration of these ITRs, we estimate 255 instances of take by Level B harassment of 77 northern sea otters from the Southcentral Alaska stock due to behavioral responses or TTS associated with noise exposure. Although multiple instances of harassment of otters are possible, these events are likely to result in only temporary changes in behavior. As such, these events are unlikely to have significant consequences for the health, reproduction, or survival of affected animals and, therefore, would not rise to the level of an injury or Level A harassment.</P>
+                <P>In a single year, we estimate 140 instances of take by Level B harassment of 23 northern sea otters from the Southeast Alaska stock due to behavioral responses or TTS associated with noise exposure. Over the 5-year duration of these ITRs, we estimate 700 instances of take by Level B harassment of 115 northern sea otters from the Southeast Alaska stock due to behavioral responses or TTS associated with noise exposure. Although an estimated 700 instances of harassment of 115 otters are possible, these events are likely to result in only temporary changes in behavior. As such, these events are unlikely to have significant consequences for the health, reproduction, or survival of affected animals and, therefore, would not rise to the level of an injury or Level A harassment.</P>
+                <HD SOURCE="HD1">Determinations and Findings</HD>
+                <HD SOURCE="HD2">Small Numbers</HD>
+                <P>For our small numbers determination, we considered whether the estimated number of northern sea otters to be subjected to incidental take is small relative to the population size of the species or stock.</P>
+                <P>1. The Southwest, Southcentral, and Southeast Alaska stocks of northern sea otters range well beyond the boundaries of the specified geographic area. Meanwhile, the USCG's specified activities would impact only a small fraction of the specified geographic area. We therefore expect that only a small proportion of animals from each stock could occur proximate enough to the USCG's activities to experience any effects.</P>
+                <P>2. We estimate the USCG's proposed activities in the specified geographic region during the 5-year period of this ITR will result in take by Level B harassment of no more than:</P>
+                <P>â¢ One sea otter from the Southwest Alaska stock, representing 0.000 percent of the best available estimate of that stock (USFWS 2020) (1 Ã· 51,382 â 0.00000);</P>
+                <P>â¢ 45 sea otters from the Southcentral Alaska stock, representing 0.208 percent of the best available estimate that stock (Esslinger et al. 2021) (45 Ã· 21,617 = 0.00208); and</P>
+                <P>â¢ 23 sea otters from the Southeast Alaska stock, representing 0.087 percent of the best available estimate of that stock (Eisaguirre et al. 2021) (23 Ã· 26,347 = 0.000873).</P>
+                <P>Based on these numbers, we find that the USCG's specified activities projects will take only a small number of animals from each affected stock of northern sea otters.</P>
+                <P>We note ongoing litigation concerning a separate, recently issued, ITR in which plaintiffs assert that the Service's âsmall numbersâ analysis must aggregate the number of animals anticipated to be taken in each year contemplated by the ITR and compare that multiyear number to the population estimate applicable to 1 year. While we disagree with this approach, for the sake of providing the applicant with regulatory certainty pending resolution of that litigation, we further analyze the âsmall numbersâ question using this alternative approach and estimate the incidental take of:</P>
+                <P>
+                    â¢ 5 sea otters from the Southwest Alaska stock, representing 0.01 percent of the best available estimate of that 
+                    <PRTPAGE P="24120"/>
+                    stock (USFWS 2020) (5 Ã· 51,382 = 0.00010);
+                </P>
+                <P>â¢ 77 sea otters from the Southcentral Alaska stock, representing 0.356 percent of the best available estimate of that stock (Esslinger et al. 2021) (77 Ã· 21,617 = 0.00356); and</P>
+                <P>â¢ 115 sea otters from the Southeast Alaska stock, representing 0.437 percent of the best available estimate of that stock (Eisaguirre et al. 2021) (115 Ã· 26,347 = 0.004363).</P>
+                <P>These alternative numbers also support our finding that the USCG's specified activities will take only a small number of animals from each affected stock of northern sea otters.</P>
+                <HD SOURCE="HD2">Conclusion</HD>
+                <P>Therefore, we determine that the USCG's activities will take by Level B harassment only small numbers of the Southwest, Southcentral, and Southeast Alaska stocks of northern sea otters because: (1) Only a small proportion of the Southwest, Southcentral, and Southeast Alaska stocks of northern sea otters will overlap with the areas where the specified activities will occur; and (2) for each stock, the number of sea otters anticipated to be harassed is small relative to the population size of the stock.</P>
+                <HD SOURCE="HD2">Negligible Impact</HD>
+                <P>For our negligible impacts determination, we considered the following:</P>
+                <P>1. The applicant will implement monitoring requirements and mitigation measures designed to reduce the potential impacts of their operations on sea otters.</P>
+                <P>2. The distribution and habitat use patterns of sea otters indicate that relatively few sea otters will occur in the specified areas of activity at any particular time and, therefore, few sea otters are likely to be affected. The potential for stock-wide effects resulting from exposure to and disturbance from the specified activities is further reduced by the relatively small area of the specified activities compared to the range of the Southwest, Southcentral, and Southeast Alaska stocks of northern sea otters.</P>
+                <P>3. The documented impacts of previous anthropogenic activities on sea otters, taking into consideration cumulative effects, suggests that the types of activities analyzed for this ITR will have minimal effects and will be short-term, temporary behavioral changes.</P>
+                <P>4. The Service does not anticipate any lethal or injurious harassment take that would remove individual sea otters from the population. Nor does the Service anticipate any impacts that would hinder or prevent their successful reproduction or successful rearing. Incidental harassment events are anticipated to be limited to human interactions that lead to short-term behavioral disturbances. These disturbances would not affect the rates of recruitment or survival for sea otter stocks. This ITR does not facilitate the authorization of injurious or lethal take, and we do not anticipate any such take will occur.</P>
+                <P>We also considered the specific congressional direction in balancing the potential for a significant impact with the likelihood of that event occurring. The specific congressional direction that justifies balancing probabilities with impacts follows:</P>
+                <P>If potential effects of a specified activity are conjectural or speculative, a finding of negligible impact may be appropriate. A finding of negligible impact may also be appropriate if the probability of occurrence is low, but the potential effects may be significant. In this case, the probability of occurrence of impacts must be balanced with the potential severity of harm to the species or stock when determining negligible impact. In applying this balancing test, the Service will thoroughly evaluate the risks involved and the potential impacts on marine mammal populations. Such determination will be made based on the best available scientific information (53 FR 8474, March 15, 1988; 132 Cong. Rec. S 16305 (October 15, 1986)).</P>
+                <P>We reviewed the effects of the pile driving and marine construction on sea otters, including impacts from insertion and removal of piles, socket drilling, and underwater use of tools. Based on our review of these potential impacts, past monitoring reports, and the biology and natural history of sea otters, we conclude that the anticipated incidental take from the USCG's specified activities would not affect the rates of recruitment or survival for the Southwest, Southcentral, and Southeast Alaska stocks of northern sea otters, and would have a negligible impact on each of those stocks.</P>
+                <HD SOURCE="HD2">Least Practicable Adverse Impacts</HD>
+                <P>We evaluated the practicability and effectiveness of mitigation measures based on the nature, scope, and timing of the specified activities; the best available scientific information; and monitoring data during previously conducted activities in the specified geographic region. We determine that the mitigation measures included within the USCG's request will ensure least practicable adverse impacts on sea otters.</P>
+                <P>
+                    In evaluating what mitigation measures are appropriate to ensure the least practicable adverse impact on species or stocks and their habitat, as well as subsistence uses, we considered the manner and degree to which the successful implementation of the measures are expected to achieve this goal. We considered the nature of the potential adverse impact being mitigated (likelihood, scope, range), the likelihood that the measures will be effective if implemented, and the likelihood of effective implementation. We also considered the practicability of the measures for applicant implementation (
+                    <E T="03">e.g.,</E>
+                     cost, impact on operations). We assessed whether any additional, practicable requirements could be implemented to further reduce effects but did not identify any.
+                </P>
+                <P>To reduce the potential for disturbance from acoustic stimuli associated with the activities, the USCG has proposed mitigation measures, including the following:</P>
+                <P>â¢ Using the smallest diameter piles practicable while minimizing the overall number of piles;</P>
+                <P>â¢ Using block cushions or pile caps to reduce transmission of sounds from pile-driving into the water column;</P>
+                <P>â¢ Conducting activities that may produce in-water sound as close to low tide as possible;</P>
+                <P>â¢ Development of a marine mammal monitoring and mitigation plan;</P>
+                <P>â¢ Establishment of shutdown and monitoring zones;</P>
+                <P>â¢ Visual mitigation monitoring by designated Protected Species Observers (PSO);</P>
+                <P>â¢ Limiting in-water activity to daylight hours;</P>
+                <P>â¢ Site clearance before startup;</P>
+                <P>â¢ Soft-start procedures; and</P>
+                <P>â¢ Shutdown procedures.</P>
+                <P>
+                    These measures are further specified under Â§â18.149, 
+                    <E T="03">Mitigation.</E>
+                </P>
+                <P>
+                    The USCG considered using bubble curtains to dampen underwater sounds produced during planned activities. This was deemed to be impracticable based on safety concerns arising from the presence of contaminated sediments and unexploded ordnance at the work sites. The Service has not identified any additional (
+                    <E T="03">i.e.,</E>
+                     not already incorporated into the USCG's request or, in the case of block cushions, agreed to in subsequent communication) mitigation or monitoring measures that are practicable and would further reduce potential impacts to sea otters and their habitat.
+                </P>
+                <HD SOURCE="HD2">Impact on Subsistence Use</HD>
+                <P>
+                    The USCG's specified activities will occur at existing USCG facilities located 
+                    <PRTPAGE P="24121"/>
+                    in developed areas where firearm use is largely prohibited. The USCG's specified activities will not preclude access to any known harvest areas, and we do not anticipate that these activities will otherwise reduce the availability of sea otters for harvest. We therefore make a finding that the USCG's anticipated harassment will not have an unmitigable adverse impact on the availability of any stock of northern sea otters for taking for subsistence uses. In making this finding, we considered the timing and location of the proposed activities and the timing and location of subsistence harvest activities in the area of the proposed project.
+                </P>
+                <HD SOURCE="HD1">Monitoring and Reporting</HD>
+                <P>The purposes of the monitoring requirements are to document and provide data for assessing the effects of specified activities on sea otters; to ensure that take is consistent with that anticipated in the small numbers, negligible impact, and subsistence use analyses; and to detect any unanticipated effects on the species. Monitoring plans include steps to document when and how sea otters are encountered and their numbers and behaviors during these encounters. This information allows the Service to measure encounter rates and trends and to estimate numbers of animals potentially affected. To the extent possible, monitors will record group size, age, sex, reaction, duration of interaction, and closest approach to the project activity.</P>
+                <P>Monitoring activities will be summarized and reported in a formal report each year. The USCG must submit a final monitoring report to us no later than 90 days after the expiration of the LOA. We will base each year's monitoring objective on the previous year's monitoring results. We will require an approved plan for monitoring and reporting the effects of pile driving and marine construction activities on sea otters prior to issuance of an LOA. We will require approval of the monitoring results for continued operation under the LOA.</P>
+                <P>We find that these monitoring and reporting requirements to evaluate the potential impacts of planned activities will ensure that the effects of the activities remain consistent with the rest of the findings.</P>
+                <HD SOURCE="HD1">Summary of Changes From the Proposed Rule</HD>
+                <P>
+                    In preparing these final regulations for the incidental take of sea otters, we reviewed and considered comments and information from the public concerning our proposed rule published in the 
+                    <E T="04">Federal Register</E>
+                     on August 15, 2022 (87 FR 50041). We also reviewed and considered comments and information from the public concerning our draft EA. We are finalizing these regulations with the following changes from our proposed rule: (1) The addition of POCs to the procedures to obtain an LOA in Â§â18.145, (2) the addition of sound-dampening cushion blocks or pile caps to mitigation measures pursuant to communication with the USCG wherein the USCG clarified its intent to adopt this mitigation measure, and (3) the addition of information collection requirements in Â§â18.152.
+                </P>
+                <HD SOURCE="HD1">Summary of and Response to Comments and Recommendations</HD>
+                <P>During the public comment period, we requested written comments from the public on the proposed ITR as well as the draft EA. The comment period opened August 15, 2022, and closed September 14, 2022. We received four comment submissions; these included comments on the proposed rule and the draft EA as well as a number of publications and other documents submitted in support of those comments.</P>
+                <HD SOURCE="HD2">Response to Comments</HD>
+                <P>
+                    <E T="03">Comment 1:</E>
+                     One commenter stated that the Service failed to consider the potential for take by Level A harassment as we did not disclose the size of the area that may be ensonified to levels capable of causing Level A harassment, nor did we estimate how many animals could be present in this area. The commenter further stated that the Service determined that sea otters would not be affected by sounds at these levels because they could escape the area and because they spend much of their time with their heads above water.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The Service disagrees. For activities that may generate sound levels capable of eliciting Level A harassment, the sound isopleths appeared in the proposed rule for these ITRs published August 15, 2022 (87 FR 50041), in the maps and summary tables for each site. The Service described otters' escape response as part of the review of literature regarding documented reactions of sea otters to vessels and noise; we did not use this information to assess the level of risk of exposure of sea otters to underwater sounds. The Service does not consider the amount of time that otters spend with their head above water as a reason to use in-air noise criteria. Instead, we use the larger underwater sound isopleth radii to estimate the number of animals exposed to sounds generated by activities that generate both in-water and in-air sounds. The Service has determined that this is a more conservative approach to assess the impacts of these sound sources.
+                </P>
+                <P>We concluded that, because the sound isopleth radii for Level A harassment are all smaller than the 20-meter (m) shutdown zone prescribed in the mitigation measures, exposure of sea otters to sounds that may cause Level A harassment is not anticipated. Further, no coverage for take by Level A harassment was requested by the USCG.</P>
+                <P>
+                    <E T="03">Comment 2:</E>
+                     One commenter stated that the effects of underwater noise on sea otters could not be assessed as sea otter hearing is not fully understood and that criteria for Level A harassment had not been set by the National Marine Fisheries Service (NMFS).
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The Service agrees that a better understanding of sea otter hearing and reactions to sounds would improve our ability to analyze potential effects of anthropogenic activity. At this time, the best available syntheses of studies of sea otter hearing, behavioral response to sounds, and suggested criteria for acoustic threshold shift and injury are presented in Southall et al. 2019 and 2021. We used the thresholds established for âOther Marine Carnivoresâ to inform our estimates of exposure of sea otters to sounds that could result in harassment, which we consider the best available scientific evidence. This is similar to the approach taken by NMFS to set criteria for their trust species, 
+                    <E T="03">i.e.,</E>
+                     cetaceans, seals, and sea lions.
+                </P>
+                <P>
+                    <E T="03">Comment 3:</E>
+                     One commenter stated that the estimated incidental take did not constitute a small number under the MMPA because the total take will not have a negligible impact.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The Service disagrees. The âsmall numbersâ and ânegligible impactâ findings are made independently. Information on the definitions of small numbers and negligible impact can be found above in 
+                    <E T="03">Background</E>
+                     and in the same section in the proposed rule for these ITRs published August 15, 2022 (87 FR 50041).
+                </P>
+                <P>
+                    <E T="03">Comment 4:</E>
+                     One commenter stated that the Service should not make decisions regarding impacts to sea otters based on the outdated 2014 stock assessment reports (SAR) and should wait until updated SARs become available.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The Service disagrees. As presented in the proposed rule for these ITRs published August 15, 2022 (87 FR 50041), to evaluate potential effects to sea otters, we used both the 2014 SARs and the most recently available population estimates based on surveys 
+                    <PRTPAGE P="24122"/>
+                    conducted since the finalization of the 2014 SARs (Eisaguirre et al. 2021; Esslinger et al. 2021; USFWS 2020). We consider this information the best available scientific evidence.
+                </P>
+                <P>
+                    <E T="03">Comment 5:</E>
+                     One commenter stated that authorizing take would be inappropriate given that population dynamics of sea otters indicated that sea otters are not thriving and that threats to sea otters are increasing, particularly pathogens.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The Service disagrees. The most recent data concerning sea otter populations and threats were used to evaluate potential impacts to sea otters. No removals of sea otters are authorized, and we expect that the effects of the planned activities upon individual sea otters will be minor. We do not expect such take to have effects at the stock or population level. We find that the authorized taking would have a negligible impact on each stock of sea otters, even when cumulative effects from other factors are considered.
+                </P>
+                <P>
+                    <E T="03">Comment 6:</E>
+                     One commenter stated that the Service's NEPA analysis failed to consider cumulative impacts from the effects of MMPA authorizations for other projects, or cumulative impacts arising from both direct and indirect results of climate change.
+                </P>
+                <P>
+                    <E T="03">Response:</E>
+                     The Service disagrees. The draft EA addresses cumulative effects resulting from changes in environment arising from climate change as well as anthropogenic activities, including coastal development and industrial activity. Given the temporary nature of the effects to the behavior and distribution of individual sea otters that could potentially result from the activities covered by these and other ITRs, the Service does not see evidence supporting the notion that authorizing the Level B harassment of a small number of sea otters will appreciably contribute to detrimental cumulative effects.
+                </P>
+                <HD SOURCE="HD1">Required Determinations</HD>
+                <HD SOURCE="HD2">National Environmental Policy Act</HD>
+                <P>
+                    We have prepared an environmental assessment in accordance with the NEPA (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ). We have concluded that authorizing the nonlethal, incidental, unintentional take by Level B harassment of up to 5 incidental takes of 5 sea otters from the Southwest Alaska stock, 255 incidental takes of 77 sea otters from the Southcentral Alaska stock, and 700 incidental takes of 115 otters from the Southeast Alaska stock in Alaska during activities conducted by the USCG and its subcontractors during the regulatory period would not significantly affect the quality of the human environment, and that the preparation of an environmental impact statement for this incidental take authorization is not required by section 102(2) of NEPA or its implementing regulations. A copy of the EA and the Service's FONSI can be obtained from the locations described in 
+                    <E T="02">ADDRESSES</E>
+                    .
+                </P>
+                <HD SOURCE="HD2">Endangered Species Act</HD>
+                <P>
+                    Under the Endangered Species Act (ESA) (16 U.S.C. 1536(a)(2)), all Federal agencies are required to ensure the actions they authorize are not likely to jeopardize the continued existence of any threatened or endangered species or result in destruction or adverse modification of critical habitat. The planned activities occur within the range of Southwest Alaska, Southcentral Alaska, and Southeast Alaska stocks of northern sea otters. The first of these, the Southwest Alaska stock, is listed as threatened under the ESA, whereas the Southcentral Alaska and Southeast Alaska stocks are not listed under the ESA. Prior to issuance of this ITR, the Service conducted intra-Service consultation under section 7 of the ESA on our issuance of an ITR. These evaluations and findings are available on the Service's website at 
+                    <E T="03">https://ecos.fws.gov/ecp/report/biological-opinion.</E>
+                </P>
+                <HD SOURCE="HD2">Government-to-Government Coordination</HD>
+                <P>It is our responsibility to communicate and work directly on a Government-to-Government basis with federally recognized Alaska Native Tribes and organizations in developing programs for healthy ecosystems. We seek their full and meaningful participation in evaluating and addressing conservation concerns for protected species. It is our goal to remain sensitive to Alaska Native culture, and to make information available to Alaska Natives. Our efforts are guided by the following policies and directives:</P>
+                <P>
+                    (1) 
+                    <E T="03">The Native American Policy of the Service</E>
+                     (January 20, 2016);
+                </P>
+                <P>
+                    (2) the 
+                    <E T="03">Alaska Native Relations Policy of the U.S. Fish and Wildlife Service</E>
+                     (currently in draft form; see 87 FR 66255, November 3, 2022);
+                </P>
+                <P>
+                    (3) 
+                    <E T="03">Executive Order 13175</E>
+                     (January 9, 2000);
+                </P>
+                <P>
+                    (4) 
+                    <E T="03">Department of the Interior Secretary Orders 3206</E>
+                     (June 5, 1997), 
+                    <E T="03">3225</E>
+                     (January 19, 2001), 
+                    <E T="03">3317</E>
+                     (December 1, 2011), 
+                    <E T="03">3342</E>
+                     (October 21, 2016), and 
+                    <E T="03">3403</E>
+                     (November 15, 2021), including 
+                    <E T="03">Director's Order 227</E>
+                     (September 8, 2022);
+                </P>
+                <P>
+                    (5) the 
+                    <E T="03">Alaska Government-to-Government Policy</E>
+                     (a departmental memorandum issued January 18, 2001); and
+                </P>
+                <P>
+                    (6) the 
+                    <E T="03">Department of the Interior's policies on consultation with Alaska Native Tribes and organizations</E>
+                     (November 30, 2022).
+                </P>
+                <P>We have evaluated possible effects of the planned activities on federally recognized Alaska Native Tribes and organizations. The Service has determined that, due to this project's locations and activities, the Tribal organizations and communities across the Gulf of Alaska, as well as relevant Alaska Native Claims Settlement Act (ANCSA) corporations, will not be impacted by this project. Regardless, the Service has contacted Tribal organizations in neighboring communities, as well as relevant ANCSA corporations, to inform them of the availability of this authorization and offer them the opportunity to consult.</P>
+                <HD SOURCE="HD2">Regulatory Planning and Review</HD>
+                <P>Executive Order 12866 provides that the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB) will review all significant rules for a determination of significance. The OMB has designated this rule as not significant.</P>
+                <P>Executive Order 13563 reaffirms the principles of Executive Order 12866 while calling for improvements in the Nation's regulatory system to promote predictability, to reduce uncertainty, and to use the best, most innovative, and least burdensome tools for achieving regulatory ends. The Executive order directs agencies to consider regulatory approaches that reduce burdens and maintain flexibility and freedom of choice for the public where these approaches are relevant, feasible, and consistent with regulatory objectives. Executive Order 13563 emphasizes further that regulations must be based on the best available science and that the rulemaking process must allow for public participation and an open exchange of ideas. We have developed this rule in a manner consistent with these requirements.</P>
+                <P>
+                    The OIRA bases its determination of significance upon the following four criteria: (a) Whether the rule will have an annual effect of $100 million or more on the economy or adversely affect an economic sector, productivity, jobs, the environment, or other units of the government; (b) Whether the rule will create inconsistencies with other Federal agencies' actions; (c) Whether the rule will materially affect entitlements, grants, user fees, loan programs, or the rights and obligations 
+                    <PRTPAGE P="24123"/>
+                    of their recipients; and (d) Whether the rule raises novel legal or policy issues.
+                </P>
+                <P>Expenses will be related to, but not necessarily limited to: the development of applications for LOAs; monitoring, recordkeeping, and reporting activities conducted during project operations; development of activity- and species-specific marine mammal monitoring and mitigation plans; and coordination with Alaska Natives to minimize effects of operations on subsistence hunting. Realistically, costs of compliance with this rule are minimal in comparison to those related to actual marine construction operations. The actual costs to develop the petition for promulgation of regulations and LOA requests do not exceed $200,000 per year, short of the âmajor ruleâ threshold that would require preparation of a regulatory impact analysis.</P>
+                <HD SOURCE="HD2">Congressional Review Act</HD>
+                <P>We have determined that this rule is not a major rule under 5 U.S.C. 804(2), the Congressional Review Act. The rule is also not likely to result in a major increase in costs or prices for consumers, individual industries, or government agencies or have significant adverse effects on competition, employment, productivity, innovation, or on the ability of United States-based enterprises to compete with foreign-based enterprises in domestic or export markets.</P>
+                <HD SOURCE="HD2">Regulatory Flexibility Act</HD>
+                <P>
+                    We have determined that this rule will not have a significant economic effect on a substantial number of small entities under the Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ). The USCG, and their contractors conducting pile driving and marine construction activities in the GOA, are the only entities subject to these ITRs. Therefore, neither a regulatory flexibility analysis nor a small entity compliance guide is required.
+                </P>
+                <HD SOURCE="HD2">Takings Implications</HD>
+                <P>This rule does not have takings implications under Executive Order 12630 because it facilitates the authorization of nonlethal, incidental, but not intentional, take of sea otters by pile driving and marine construction and, thereby, exempts these companies from civil and criminal liability as long as they operate in compliance with the terms of their LOAs. Therefore, a takings implications assessment is not required.</P>
+                <HD SOURCE="HD2">Federalism Effects</HD>
+                <P>This rule does not contain policies with federalism implications sufficient to warrant preparation of a federalism assessment under Executive Order 13132. The MMPA gives the Secretary of the Interior and, by delegation, the Service the authority and responsibility to protect sea otters.</P>
+                <HD SOURCE="HD2">Unfunded Mandates Reform Act</HD>
+                <P>
+                    In accordance with the Unfunded Mandates Reform Act (2 U.S.C. 1501 
+                    <E T="03">et seq.</E>
+                    ), this rule will not âsignificantly or uniquelyâ affect small governments. A small government agency plan is not required. The Service has determined and certifies pursuant to the Unfunded Mandates Reform Act that this rulemaking will not impose a cost of $100 million or more in any given year on local or State governments or private entities. This rule will not produce a Federal mandate of $100 million or greater in any year, 
+                    <E T="03">i.e.,</E>
+                     it is not a âsignificant regulatory actionâ under the Unfunded Mandates Reform Act.
+                </P>
+                <HD SOURCE="HD2">Civil Justice Reform</HD>
+                <P>The Departmental Solicitor's Office has determined that this regulation does not unduly burden the judicial system and meets the applicable standards provided in sections 3(a) and 3(b)(2) of Executive Order 12988.</P>
+                <HD SOURCE="HD2">Paperwork Reduction Act</HD>
+                <P>
+                    This final rule contains a collection of information we submitted to the OMB. All information collections require approval under the Paperwork Reduction Act of 1995 (PRA; 44 U.S.C. 3501 
+                    <E T="03">et seq.</E>
+                    ). We may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB previously reviewed and approved the information collection requirements associated with incidental take of marine mammals and assigned OMB Control Number 1018-0070 (expires January 31, 2024).
+                </P>
+                <P>
+                    While the new regulations in 50 CFR part 18, subpart L, pertain only to the incidental taking of northern sea otters (while engaged in activities associated with or in support of marine construction activities in the Gulf of Alaska), the below listed information collections approved by the OMB also included previously existing requirements associated with the incidental taking of polar bears (
+                    <E T="03">Ursus maritimus</E>
+                    ), Pacific walruses (
+                    <E T="03">Odobenus rosmarus divergens</E>
+                    ), and northern sea otters in Alaska brought into compliance with the PRA.
+                </P>
+                <P>
+                    The Marine Mammal Protection Act of 1972, as amended (MMPA; 16 U.S.C. 1361 
+                    <E T="03">et seq.</E>
+                    ), imposed, with certain exceptions, a moratorium on the taking of marine mammals. Section 101(a)(5)(A) of the MMPA directs the Secretary of the Interior to allow, upon request by citizens of the United States, the taking of small numbers of marine mammals incidental to specified activities (other than commercial fishing) if the Secretary makes certain findings and prescribes specific regulations that, among other things, establish permissible methods of taking. This is a nonform collection. Respondents must comply with the regulations at 50 CFR 18.27, which outline the procedures and requirements for submitting a request. Specific regulations governing authorized incidental take of marine mammal activities are contained in 50 CFR part 18, subparts J (incidental take of polar bears and Pacific walruses in the Beaufort Sea), K (incidental take of northern sea otters in the Cook Inlet), and L (incidental take of northern sea otters in the Gulf of Alaska). These regulations provide the applicant with a detailed description of information that we need to evaluate the proposed activity and determine if it is appropriate to issue specific regulations and, subsequently, LOAs. We use the information to verify the findings required to issue incidental take regulations, to decide if we should issue an LOA, and (if an LOA is issued) what conditions should be included in the LOA. In addition, we analyze the information to determine impacts to polar bears, Pacific walruses, northern sea otters, and the availability of those marine mammals for subsistence purposes of Alaska Natives. The OMB approved the below listed revisions to existing and new reporting and/or recordkeeping requirements identified below:
+                </P>
+                <P>
+                    (1) 
+                    <E T="03">Addition of New Subpart</E>
+                    âWith this final rule, we added a new subpart, 50 CFR part 18, subpart L (U.S. Coast Guard), for a period of 5 years effective from the date of final issuance of these ITRs. This new subpart does not require new information collections beyond those contained in this submission, which were previously approved by OMB. The addition of subpart L does, however, require an adjustment to the previously approved burden for the application, reporting, and recordkeeping burden requirements.
+                </P>
+                <P>(2) We also revised the previously approved âOnsite Monitoring and Observation Reportsâ information collection to split it into three separate information collections to more accurately account for burden for the various components under this specific section of the regulations:</P>
+                <P>
+                    a. 
+                    <E T="03">In-Season Monitoring (Activity Progress Reports)</E>
+                     (50 CFR 
+                    <PRTPAGE P="24124"/>
+                    18.127(a)(1))âActivity progress reports. Holders of an LOA must:
+                </P>
+                <P>â¢ Notify the Service at least 48 hours prior to the onset of activities;</P>
+                <P>â¢ Provide the Service weekly progress reports of any significant changes in activities and/or locations; and</P>
+                <P>â¢ Notify the Service within 48 hours after ending of activities.</P>
+                <P>
+                    b. 
+                    <E T="03">In-Season Monitoring (Polar Bear Observation Reports)</E>
+                     (50 CFR 18.127(a)(3))âHolders of an LOA must report, within 48 hours, all observations of polar bears and potential polar bear dens, during any industry activity. Upon request, monitoring report data must be provided in a common electronic format (to be specified by the Service). Information in the observation report must include, but is not limited to:
+                </P>
+                <P>â¢ Date, time, and location of observation;</P>
+                <P>â¢ Number of polar bears;</P>
+                <P>â¢ Sex and age of polar bears (if known);</P>
+                <P>â¢ Observer name and contact information;</P>
+                <P>â¢ Weather, visibility, sea state, and sea-ice conditions at the time of observation;</P>
+                <P>â¢ Estimated closest distance of polar bears from personnel and facilities;</P>
+                <P>â¢ Industry activity at time of sighting;</P>
+                <P>â¢ Possible attractants present;</P>
+                <P>â¢ Polar bear behavior;</P>
+                <P>â¢ Description of the encounter;</P>
+                <P>â¢ Duration of the encounter; and</P>
+                <P>â¢ Mitigation actions taken.</P>
+                <P>
+                    c. 
+                    <E T="03">Notification of LOA Incident Report</E>
+                     (50 CFR 18.127(b))âHolders of an LOA must report, as soon as possible, but within 48 hours, all LOA incidents during any industry activity. An LOA incident is any situation when specified activities exceed the authority of an LOA, when a mitigation measure was required but not enacted, or when injury or death of a marine mammal occurs. Reports must include:
+                </P>
+                <P>â¢ All information specified for an observation report;</P>
+                <P>â¢ A complete detailed description of the incident; and</P>
+                <P>â¢ Any other actions taken.</P>
+                <P>In addition to the revisions described above, we are bringing the following existing regulatory requirements contained in part 18 not previously approved by OMB under the PRA into compliance:</P>
+                <P>
+                    (1) 
+                    <E T="03">Mitigation</E>
+                    â
+                    <E T="03">Interaction Plan</E>
+                     (50 CFR 18.126(a)(1)(iii))âAll holders of an LOA must have an approved polar bear safety, awareness, and interaction plan on file with the Service's Marine Mammals Management Office and onsite and provide polar bear awareness training to certain personnel. Interaction plans must include:
+                </P>
+                <P>
+                    â¢ The type of activity and where and when the activity will occur (
+                    <E T="03">i.e.,</E>
+                     a summary of the plan of operation);
+                </P>
+                <P>â¢ A food, waste, and other âbear attractantsâ management plan;</P>
+                <P>â¢ Personnel training policies, procedures, and materials;</P>
+                <P>â¢ Site-specific walrus and polar bear interaction risk evaluation and mitigation measures;</P>
+                <P>â¢ Polar bear avoidance and encounter procedures; and</P>
+                <P>â¢ Polar bear observation and reporting procedures.</P>
+                <P>
+                    (2) 
+                    <E T="03">Mitigation</E>
+                    â
+                    <E T="03">3rd-Party Notifications</E>
+                     (50 CFR 18.126(a)(2) and (e)(1))âAll applicants for an LOA must contact affected subsistence communities and hunter organizations to discuss potential conflicts caused by the activities and provide the Service documentation of communications as described in Â§â18.122.
+                </P>
+                <P>
+                    (3) 
+                    <E T="03">Mitigation</E>
+                    â
+                    <E T="03">Requests for Exemption Waivers</E>
+                     (50 CFR 18.126(c)(4))âExemption waivers to the operating conditions in 50 CFR 18.126(c) may be issued by the Service on a case-by-case basis, based upon a review of seasonal ice conditions and available information on walrus and polar bear distributions in the area of interest.
+                </P>
+                <P>
+                    (4) 
+                    <E T="03">Mitigation</E>
+                    â
+                    <E T="03">Plan of Cooperation</E>
+                     (50 CFR 18.126(e)(2))âWhen appropriate, a holder of an LOA will be required to develop and implement a Service-approved POC. The POC must include a description of the procedures by which the holder of the LOA will work and consult with potentially affected subsistence hunters and a description of specific measures that have been or will be taken to avoid or minimize interference with subsistence hunting of walruses and polar bears and to ensure continued availability of the species for subsistence use. The Service will review the POC to ensure that any potential adverse effects on the availability of the animals are minimized. The Service will reject POCs if they do not provide adequate safeguards to ensure the least practicable adverse impact on the availability of walruses and polar bears for subsistence use.
+                </P>
+                <P>We also renewed the existing reporting and/or recordkeeping requirements identified below:</P>
+                <P>
+                    (1) 
+                    <E T="03">Application for Regulations</E>
+                    âRegulations at 50 CFR part 18 require the applicant to provide information on the activity as a whole, which includes, but is not limited to, an assessment of total impacts by all persons conducting the activity. Applicants can find specific requirements in 50 CFR part 18, subparts J, K, and L. These regulations provide the applicant with a detailed description of information that we need to evaluate the proposed activity and determine whether to issue specific regulations and, subsequently, LOAs. The required information includes:
+                </P>
+                <P>â¢ A description of the specific activity or class of activities that can be expected to result in incidental taking of marine mammals.</P>
+                <P>â¢ The dates and duration of such activity and the specific geographical region where it will occur.</P>
+                <P>â¢ Based on the best available scientific information, each applicant must also provide:</P>
+                <FP SOURCE="FP-1">âAn estimate of the species and numbers of marine mammals likely to be taken by age, sex, and reproductive conditions;</FP>
+                <FP SOURCE="FP-1">
+                    âThe type of taking (
+                    <E T="03">e.g.,</E>
+                     disturbance by sound, injury or death resulting from collision, etc.) and the number of times such taking is likely to occur;
+                </FP>
+                <FP SOURCE="FP-1">âA description of the status, distribution, and seasonal distribution (when applicable) of the affected species or stocks likely to be affected by such activities;</FP>
+                <FP SOURCE="FP-1">âThe anticipated impact of the activity upon the species or stocks; and</FP>
+                <FP SOURCE="FP-1">âThe anticipated impact of the activity on the availability of the species or stocks for subsistence uses.</FP>
+                <P>â¢ The anticipated impact of the activity upon the habitat of the marine mammal populations and the likelihood of restoration of the affected habitat.</P>
+                <P>â¢ The availability and feasibility (economic and technological) of equipment, methods, and manner of conducting such activity or other means of effecting the least practicable adverse impact upon the affected species or stocks, their habitat, and, where relevant, on their availability for subsistence uses, paying particular attention to rookeries, mating grounds, and areas of similar significance. (The applicant and those conducting the specified activity and the affected subsistence users are encouraged to develop mutually agreeable mitigating measures that will meet the needs of subsistence users.)</P>
+                <P>â¢ Suggested means of accomplishing the necessary monitoring and reporting that will result in increased knowledge of the species through an analysis of the level of taking or impacts and suggested means of minimizing burdens by coordinating such reporting requirements with other schemes already applicable to persons conducting such activity.</P>
+                <P>
+                    â¢ Suggested means of learning of, encouraging, and coordinating research opportunities, plans, and activities 
+                    <PRTPAGE P="24125"/>
+                    relating to reducing such incidental taking from such specified activities, and evaluating its effects.
+                </P>
+                <P>â¢ Applicants must develop and implement a site-specific (or umbrella plan addressing site-specific considerations), Service-approved marine mammal monitoring and mitigation plan to monitor and evaluate the effectiveness of mitigation measures and the effects of activities on marine mammals and the subsistence use of these species.</P>
+                <P>â¢ Applicants must also provide trained, qualified, and Service-approved onsite observers to carry out monitoring and mitigation activities identified in the marine mammal monitoring and mitigation plan.</P>
+                <P>This information is necessary for the Service to anticipate the impact of the activity on the species or stocks and on the availability of the species or stocks for subsistence uses. Under requirements of the MMPA, we cannot authorize a take unless the total of all takes will have a negligible impact on the species or stocks and, where appropriate, will not have an unmitigable adverse impact on the availability of the species or stocks for subsistence uses. These requirements ensure that applicants are aware of related monitoring and research efforts they can apply to their situation, and that the monitoring and reporting that we impose are the least burdensome to the applicant.</P>
+                <P>
+                    (2) 
+                    <E T="03">Final Monitoring Report</E>
+                    âThe results of monitoring and mitigation efforts identified in the marine mammal monitoring and mitigation plan must be submitted to the Service for review within 90 days of the expiration of an LOA. Upon request, final report data must be provided in a common electronic format (to be specified by the Service). Information in the final (or annual) report must include, but is not limited to:
+                </P>
+                <P>â¢ Copies of all observation reports submitted under the LOA;</P>
+                <P>â¢ A summary of the observation reports;</P>
+                <P>â¢ A summary of monitoring and mitigation efforts including areas, total hours, total distances, and distribution;</P>
+                <P>â¢ Analysis of factors affecting the visibility and detectability of walruses and polar bears during monitoring;</P>
+                <P>â¢ Analysis of the effectiveness of mitigation measures;</P>
+                <P>â¢ Analysis of the distribution, abundance, and behavior of walruses and/or polar bears observed; and</P>
+                <P>â¢ Estimates of take in relation to the specified activities.</P>
+                <P>
+                    (3) 
+                    <E T="03">Requests for Letters of Authorization (LOA)</E>
+                    âLOAs, which may be issued only to U.S. citizens, are required to conduct activities pursuant to any specific regulations established. Once specific regulations are effective, the Service will, to the maximum extent possible, process subsequent requests for LOAs within 30 days after receipt of the request by the Service. All LOAs will specify the period of validity and any additional terms and conditions appropriate for the specific request. Issuance of LOAs will be based on a determination that the level of taking will be consistent with the findings made for the total taking allowable under the specific regulations.
+                </P>
+                <P>
+                    (4) 
+                    <E T="03">Onsite Monitoring and Observation Reports</E>
+                     (See revision section above.)âThe regulations also require that each holder of an LOA submit a monitoring report indicating the nature and extent of all takes of marine mammals that occurred incidentally to the specific activity. Since the inception of incidental take authorizations for polar bears, Pacific walruses (walruses), and northern sea otters (otters), we have required monitoring and reporting during oil and gas industry activities. The purpose of monitoring and reporting requirements is to assess the effects of industrial activities on polar bears, walruses, and otters to ensure that take is minimal to marine mammal populations, and to detect any unanticipated effects of take. The monitoring focus has been site-specific, area-specific, or population-specific. Site-specific monitoring measures animal-human encounter rates, outcomes of encounters, and trends of animal activity in the industrial areas, such as polar bear numbers, behavior, and seasonal use. Area-specific monitoring includes analyzing animal spatial and temporal use trends, sex/age composition, and risk assessment to unpredictable events, such as oil spills. Population-specific monitoring includes investigating species' life-history parameters, such as population size, recruitment, survival, physical condition, status, and mortality.
+                </P>
+                <P>
+                    (5) 
+                    <E T="03">Polar Bear Den Detection Report</E>
+                    âHolders of an LOA seeking to carry out onshore activities in known or suspected polar bear denning habitat during the denning season must make efforts to locate occupied polar bear dens within and near proposed areas of operation. They may use any appropriate tool, such as forward-looking infrared imagery and/or polar bear scent-trained dogs, in concert with denning habitat maps along the Alaskan coast. In accordance with 50 CFR 18.128(b)(1) and (b)(2), LOA holders must report all observed or suspected polar bear dens to us prior to the initiation of activities. We use this information to determine the appropriate terms and conditions in an individual LOA in order to minimize potential impacts and disturbance to polar bears.
+                </P>
+                <P>Holders of an LOA seeking to carry out onshore activities during the denning season (November-April) must conduct two separate surveys for occupied polar bear dens in all denning habitat within 1.6 km (1 mi) of proposed activities using aerial infrared (AIR) imagery. Further, all denning habitat within 1.6 km (1 mi) of areas of proposed seismic surveys must be surveyed three separate times with AIR technology.</P>
+                <P>Flight crews will record and report environmental parameters including air temperature, dew point, wind speed and direction, cloud ceiling, and percent humidity, and a flight log will be provided to the Service within 48 hours of the flight.</P>
+                <P>
+                    <E T="03">Title of Collection:</E>
+                     Incidental Take of Marine Mammals During Specified Activities, 50 CFR 18.27 and 50 CFR part 18, subparts J, K, and L.
+                </P>
+                <P>
+                    <E T="03">OMB Control Number:</E>
+                     1018-0070.
+                </P>
+                <P>
+                    <E T="03">Form Numbers:</E>
+                     None.
+                </P>
+                <P>
+                    <E T="03">Type of Review:</E>
+                     Revision of a currently approved collection.
+                </P>
+                <P>
+                    <E T="03">Respondents/Affected Public:</E>
+                     Individuals/households, private sector (oil and gas industry companies), State/local/Tribal governments, and Federal Government.
+                </P>
+                <P>
+                    <E T="03">Respondent's Obligation:</E>
+                     Required to obtain or retain a benefit.
+                </P>
+                <P>
+                    <E T="03">Frequency of Collection:</E>
+                     On occasion.
+                </P>
+                <P>
+                    <E T="03">Total Estimated Annual Non-Hour Burden Cost:</E>
+                     $200,000 (associated with the polar bear den detection survey and report).
+                    <PRTPAGE P="24126"/>
+                </P>
+                <GPOTABLE COLS="6" OPTS="L2,nj,tp0,i1" CDEF="s50,12,12,12,12,12">
+                    <TTITLE>â</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Type of action</CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>annual </LI>
+                            <LI>respondents</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Number of 
+                            <LI>responses </LI>
+                            <LI>each</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Total annual 
+                            <LI>responses</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Average 
+                            <LI>completion </LI>
+                            <LI>time</LI>
+                            <LI>(hours)</LI>
+                        </CHED>
+                        <CHED H="1">
+                            Total annual 
+                            <LI>burden hours</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">Incidental Take of Marine MammalsâApplication for Regulations:</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>3</ENT>
+                        <ENT>1</ENT>
+                        <ENT>3</ENT>
+                        <ENT>20</ENT>
+                        <ENT>450</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>130</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>2</ENT>
+                        <ENT>1</ENT>
+                        <ENT>2</ENT>
+                        <ENT>20</ENT>
+                        <ENT>300</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>130</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">RequestsâLetters of Authorization:</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>15</ENT>
+                        <ENT>4</ENT>
+                        <ENT>60</ENT>
+                        <ENT>8</ENT>
+                        <ENT>1,440</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>16</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>5</ENT>
+                        <ENT>4</ENT>
+                        <ENT>20</ENT>
+                        <ENT>8</ENT>
+                        <ENT>480</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>16</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">Final Monitoring Report:</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>15</ENT>
+                        <ENT>4</ENT>
+                        <ENT>60</ENT>
+                        <ENT>8</ENT>
+                        <ENT>1,440</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>42</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>5</ENT>
+                        <ENT>4</ENT>
+                        <ENT>20</ENT>
+                        <ENT>8</ENT>
+                        <ENT>480</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>42</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">Polar Bear Den Detection Report</E>
+                             (50 CFR 18.126(b)(1)(iv)):
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>4</ENT>
+                        <ENT>1</ENT>
+                        <ENT>4</ENT>
+                        <ENT>8</ENT>
+                        <ENT>200</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>42</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">In-season MonitoringâActivity Progress Reports</E>
+                             (50 CFR 18.127(a)(1)) 
+                            <E T="03">NEW (Revised):</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>.5</ENT>
+                        <ENT>1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>.5</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>.5</ENT>
+                        <ENT>1</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>.5</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">In-season MonitoringâPolar Bear Observation Reports</E>
+                             (50 CFR 18.127(a)(3)) 
+                            <E T="03">NEW (Revised):</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>15</ENT>
+                        <ENT>4.5</ENT>
+                        <ENT>68</ENT>
+                        <ENT>.25</ENT>
+                        <ENT>85</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>1</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>1</ENT>
+                        <ENT>7</ENT>
+                        <ENT>7</ENT>
+                        <ENT>.25</ENT>
+                        <ENT>9</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>1</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">Notification of LOA Incident Report</E>
+                             (50 CFR 18.127(b)) 
+                            <E T="03">NEW (Revised):</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>2</ENT>
+                        <ENT>1</ENT>
+                        <ENT>2</ENT>
+                        <ENT>.25</ENT>
+                        <ENT>2</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>.5</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>.25</ENT>
+                        <ENT>1</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>.5</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">MitigationâInteraction Plan</E>
+                             (50 CFR 18.126(a)(1)(iii)) 
+                            <E T="03">NEW (Existing):</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>12</ENT>
+                        <ENT>1</ENT>
+                        <ENT>12</ENT>
+                        <ENT>2</ENT>
+                        <ENT>96</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>6</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>3</ENT>
+                        <ENT>1</ENT>
+                        <ENT>3</ENT>
+                        <ENT>2</ENT>
+                        <ENT>24</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>6</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">Mitigationâ3rd Party Notifications</E>
+                             (50 CFR 18.126(a)(2) and (e)(1)) 
+                            <E T="03">NEW (Existing):</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>12</ENT>
+                        <ENT>3</ENT>
+                        <ENT>36</ENT>
+                        <ENT>1</ENT>
+                        <ENT>72</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>1</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>3</ENT>
+                        <ENT>3</ENT>
+                        <ENT>9</ENT>
+                        <ENT>1</ENT>
+                        <ENT>18</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>1</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">MitigationâRequests for Exemption Waivers</E>
+                             (50 CFR 18.126(c)(4)) 
+                            <E T="03">NEW (Existing):</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>2</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>1</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>2</ENT>
+                    </ROW>
+                    <ROW RUL="sî">
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>1</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="22">
+                            <E T="03">MitigationâPlan of Cooperation</E>
+                             (50 CFR 18.126(e)(2)) 
+                            <E T="03">NEW (Existing):</E>
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâPrivate Sector</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>10</ENT>
+                        <ENT>40</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">RecordkeepingâPrivate Sector</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>30</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">ReportingâGovernment</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>1</ENT>
+                        <ENT>10</ENT>
+                        <ENT>40</ENT>
+                    </ROW>
+                    <ROW RUL="n,sî">
+                        <PRTPAGE P="24127"/>
+                        <ENT I="03">RecordkeepingâGovernment</ENT>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT O="xl"/>
+                        <ENT>30</ENT>
+                        <ENT O="xl"/>
+                    </ROW>
+                    <ROW>
+                        <ENT I="05">Totals</ENT>
+                        <ENT>104</ENT>
+                        <ENT/>
+                        <ENT>313</ENT>
+                        <ENT/>
+                        <ENT>5,183</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>On August 15, 2022, we published a proposed rule (87 FR 50041) soliciting comments on this collection of information for 60 days, ending on October 14, 2022. No comments on this collection of information were received.</P>
+                <P>As part of our continuing effort to reduce paperwork and respondent burdens, we invite the public and other Federal agencies to comment on any aspect of this information collection, including:</P>
+                <P>(1) Whether or not the collection of information is necessary for the proper performance of the functions of the agency, including whether or not the information will have practical utility;</P>
+                <P>(2) The accuracy of our estimate of the burden for this collection of information, including the validity of the methodology and assumptions used;</P>
+                <P>(3) Ways to enhance the quality, utility, and clarity of the information to be collected; and</P>
+                <P>
+                    (4) Ways to minimize the burden of the collection of information on those who are to respond, including through the use of appropriate automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, 
+                    <E T="03">e.g.,</E>
+                     permitting electronic submission of response.
+                </P>
+                <HD SOURCE="HD2">Energy Effects</HD>
+                <P>Executive Order 13211 requires agencies to prepare statements of energy effects when undertaking certain actions. This rule provides exceptions from the MMPA's taking prohibitions for entities engaged in specified pile driving and marine construction activities in the specified geographic region. These specified activities are unrelated to the oil and gas industry or any other energy-related industry. Therefore, this rule is not expected to significantly affect energy supplies, distribution, or use and does not constitute a significant energy action. No statement of energy effects is required.</P>
+                <HD SOURCE="HD1">References</HD>
+                <P>
+                    For a list of the references cited in this rule, see Docket No. FWS-R7-ES-2022-0025, available at 
+                    <E T="03">https://www.regulations.gov.</E>
+                </P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 50 CFR Part 18</HD>
+                    <P>Administrative practice and procedure, Alaska, Imports, Indians, Marine mammals, Reporting and recordkeeping requirements, Transportation.</P>
+                </LSTSUB>
+                <HD SOURCE="HD1">Regulation Promulgation</HD>
+                <P>For the reasons set forth in the preamble, the Service amends part 18, subchapter B of chapter 1, title 50 of the Code of Federal Regulations as set forth below.</P>
+                <PART>
+                    <HD SOURCE="HED">PART 18âMARINE MAMMALS</HD>
+                </PART>
+                <REGTEXT TITLE="50" PART="18">
+                    <AMDPAR>1. The authority citation of 50 CFR part 18 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                             16 U.S.C. 1361 
+                            <E T="03">et seq.</E>
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="50" PART="18">
+                    <AMDPAR>2. Add subpart L, consisting of Â§Â§â18.142 through 18.152, to read as follows:</AMDPAR>
+                    <SUBPART>
+                        <HD SOURCE="HED">Subpart LâNonlethal Taking of Marine Mammals Incidental to Pile Driving and Marine Construction Activities in the Gulf of Alaska</HD>
+                    </SUBPART>
+                    <CONTENTS>
+                        <SECHD>Sec.</SECHD>
+                        <SECTNO>18.142</SECTNO>
+                        <SUBJECT>Specified activities covered by this subpart.</SUBJECT>
+                        <SECTNO>18.14 </SECTNO>
+                        <SUBJECT>Specified geographic region where this subpart applies.</SUBJECT>
+                        <SECTNO>18.144</SECTNO>
+                        <SUBJECT>Dates this subpart is in effect.</SUBJECT>
+                        <SECTNO>18.145</SECTNO>
+                        <SUBJECT>Procedure to obtain a Letter of Authorization (LOA).</SUBJECT>
+                        <SECTNO>18.146</SECTNO>
+                        <SUBJECT>How the Service will evaluate a request for an LOA.</SUBJECT>
+                        <SECTNO>18.147</SECTNO>
+                        <SUBJECT>Authorized take allowed under an LOA.</SUBJECT>
+                        <SECTNO>18.148</SECTNO>
+                        <SUBJECT>Prohibited take under an LOA.</SUBJECT>
+                        <SECTNO>18.149</SECTNO>
+                        <SUBJECT>Mitigation.</SUBJECT>
+                        <SECTNO>18.150</SECTNO>
+                        <SUBJECT>Monitoring.</SUBJECT>
+                        <SECTNO>18.151</SECTNO>
+                        <SUBJECT>Reporting requirements.</SUBJECT>
+                        <SECTNO>18.152</SECTNO>
+                        <SUBJECT>Information collection requirements.</SUBJECT>
+                    </CONTENTS>
+                    <SECTION>
+                        <SECTNO>Â§18.142</SECTNO>
+                        <SUBJECT>Specified activities covered by this subpart.</SUBJECT>
+                        <P>
+                            Regulations in this subpart apply to the nonlethal incidental, but not intentional, take, as defined in Â§â18.3 and under section 3 of the Marine Mammal Protection Act (16 U.S.C. 1371 
+                            <E T="03">et seq.</E>
+                            ), of small numbers of northern sea otters (
+                            <E T="03">Enhydra lutris kenyoni;</E>
+                             hereafter âsea ottersâ) by the U.S. Coast Guard (hereafter âUSCGâ or âthe applicantâ) while engaged in activities associated with or in support of marine construction activities in the Gulf of Alaska. The applicant is a U.S. citizen as defined in Â§â18.27(c).
+                        </P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.143</SECTNO>
+                        <SUBJECT>Specified geographic region where this subpart applies.</SUBJECT>
+                        <P>(a) The specified geographic region encompasses areas within 2 kilometers (km) (~1.25 miles (mi)) of eight USCG facilities within the USCG Civil Engineering Unit, Juneau Area of Responsibility. These facilities are: Base Kodiak, Moorings Seward, Moorings Valdez, Moorings Cordova, Moorings Sitka, Station Juneau, Moorings Petersburg, and Base Ketchikan.</P>
+                        <P>(b) The geographic area of the incidental take regulations (ITRs) in this subpart includes all Alaska State waters within the areas listed in paragraph (a) of this section as well as all adjacent rivers, estuaries, and coastal lands where sea otters may occur.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.144</SECTNO>
+                        <SUBJECT>Dates this subpart is in effect.</SUBJECT>
+                        <P>Regulations in this subpart are effective from May 19, 2023, until May 19, 2028.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.145</SECTNO>
+                        <SUBJECT>Procedure to obtain a Letter of Authorization (LOA).</SUBJECT>
+                        <P>
+                            (a) The applicant must submit the request for authorization to the U.S. Fish and Wildlife Service (Service) Alaska Region Marine Mammals Management Office (MMM), MS 341, 1011 East Tudor Road, Anchorage, Alaska, 99503, or by email at 
+                            <E T="03">r7mmmregulatory@fws.gov,</E>
+                             at least 30 days prior to the start of the planned activity.
+                        </P>
+                        <P>(b) The request for an LOA must comply with the requirements set forth in Â§Â§â18.149 through 18.151 and must include the following information:</P>
+                        <P>(1) An operational plan for the activity;</P>
+                        <P>(2) A digital geospatial file of the project footprint, including sound isopleths;</P>
+                        <P>(3) A site-specific marine mammal monitoring and mitigation plan that specifies the procedures to monitor and mitigate the effects of the activities on sea otters; and</P>
+                        <P>(4) When appropriate, a plan of cooperation, which is a documented plan that describes measures to mitigate potential conflicts between planned project activities and subsistence hunting.</P>
+                    </SECTION>
+                    <SECTION>
+                        <PRTPAGE P="24128"/>
+                        <SECTNO>Â§â18.146</SECTNO>
+                        <SUBJECT>How the Service will evaluate a request for an LOA.</SUBJECT>
+                        <P>(a) The Service will evaluate each request for an LOA to determine if the proposed activity is consistent with the analysis and findings made for the regulations in this subpart. Depending on the results of the evaluation, we may issue the LOA, add further conditions, or deny the LOA.</P>
+                        <P>(b) Once issued, the Service may withdraw or suspend an LOA if the project activity is modified in a way that undermines the results of the previous evaluation, if the conditions of the regulations in this subpart are not being substantially complied with, or if the taking allowed is or may be having more than a negligible impact on the affected stock of sea otters or an unmitigable adverse impact on the availability of sea otters for subsistence uses.</P>
+                        <P>(c) The Service will make decisions concerning withdrawals of an LOA, either on an individual or class basis, only after notice and opportunity for public comment in accordance with Â§â18.27(f)(5). The requirement for notice and public comment will not apply should we determine that an emergency exists that poses a significant risk to the well-being of the species or stocks of sea otters.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.147</SECTNO>
+                        <SUBJECT>Authorized take allowed under an LOA.</SUBJECT>
+                        <P>(a) To incidentally take sea otters pursuant to the regulations in this subpart, the USCG must apply for and obtain an LOA in accordance with Â§Â§â18.27(f) and 18.145. The applicant is a U.S. citizen as defined in Â§â18.27(c).</P>
+                        <P>(b) An LOA allows for the nonlethal, incidental, but not intentional take by harassment of sea otters during activities specified in Â§â18.142 within the Gulf of Alaska ITR region described in Â§â18.143.</P>
+                        <P>(c) Each LOA will set forth:</P>
+                        <P>(1) Permissible methods of incidental take;</P>
+                        <P>
+                            (2) Means of effecting the least practicable adverse impact (
+                            <E T="03">i.e.,</E>
+                             mitigation) on the species, its habitat, and the availability of the species for subsistence uses; and
+                        </P>
+                        <P>(3) Requirements for monitoring and reporting.</P>
+                        <P>(d) Issuance of the LOA(s) must be based on a determination that the level of take will be consistent with the findings made for the total allowable take under the regulations in this subpart.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.148</SECTNO>
+                        <SUBJECT>Prohibited take under an LOA.</SUBJECT>
+                        <P>(a) Except as otherwise provided in this subpart, prohibited taking is described in Â§â18.11 as well as: intentional take, lethal incidental take of sea otters, and any take that fails to comply with this subpart or with the terms and conditions of an LOA.</P>
+                        <P>(b) If project activities cause unauthorized take, the applicant must take the following actions:</P>
+                        <P>(1) Cease activities immediately (or reduce activities to the minimum level necessary to maintain safety) and report the details of the incident to the Service MMM at 1-800-362-5148 (business hours) within 48 hours; and</P>
+                        <P>(2) Suspend further activities until the Service has reviewed the circumstances, determined whether additional mitigation measures are necessary to avoid further unauthorized taking, and notified the applicant that project activities may resume.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.149 </SECTNO>
+                        <SUBJECT>Mitigation.</SUBJECT>
+                        <P>
+                            (a) 
+                            <E T="03">Mitigation measures for all LOAs.</E>
+                             The applicant, including all personnel operating under the applicant's authority (or âoperators,â including contractors, subcontractors, and representatives) must undertake the following activities to avoid and minimize take of sea otters by harassment.
+                        </P>
+                        <P>(1) Implement policies and procedures to avoid interactions with and minimize to the greatest extent practicable adverse impacts on sea otters, their habitat, and the availability of these marine mammals for subsistence uses.</P>
+                        <P>
+                            (2) Develop avoidance and minimization policies and procedures, in cooperation with the Service, that include temporal or spatial activity restrictions to be used in response to the presence of sea otters engaged in a biologically significant activity (
+                            <E T="03">e.g.,</E>
+                             resting, feeding, hauling out, mating, or nursing).
+                        </P>
+                        <P>(3) Cooperate with the Service's MMM Office and other designated Federal, State, and local agencies to monitor and mitigate the impacts of pile driving and marine construction activities on sea otters.</P>
+                        <P>(4) Allow Service personnel or the Service's designated representative to board project vessels or visit project worksites for the purpose of monitoring impacts to sea otters and subsistence uses of sea otters at any time throughout project activities so long as it is safe to do so.</P>
+                        <P>(5) Designate trained and qualified protected species observers (PSOs) to monitor for the presence of sea otters, initiate mitigation measures, and monitor, record, and report the effects of the activities on sea otters. The applicant is responsible for providing training to PSOs to carry out mitigation and monitoring.</P>
+                        <P>(6) Have an approved mitigation and monitoring plan on file with the Service MMM and onsite that includes the following information:</P>
+                        <P>
+                            (i) The type of activity and where and when the activity will occur (
+                            <E T="03">i.e.,</E>
+                             a summary of the plan of operation);
+                        </P>
+                        <P>(ii) Personnel training policies, procedures, and materials;</P>
+                        <P>(iii) Site-specific sea otter interaction risk evaluation and mitigation measures;</P>
+                        <P>(iv) Sea otter avoidance and encounter procedures; and</P>
+                        <P>(v) Sea otter observation and reporting procedures.</P>
+                        <P>
+                            (b) 
+                            <E T="03">Mitigation measures for in-water noise-generating work.</E>
+                             The applicant must carry out the following measures:
+                        </P>
+                        <P>(1) Construction activities must be conducted using equipment that generates the lowest practicable levels of underwater sound within the range of frequencies audible to sea otters.</P>
+                        <P>(2) During all pile-installation activities, regardless of predicted sound levels, a physical interaction shutdown zone of 20 meters (m) (66 feet (ft)) must be enforced. If a sea otter enters the shutdown zone, in-water activities must be delayed until either the animal has been visually observed outside the shutdown zone or 15 minutes have elapsed since the last observation time without redetection of the animal.</P>
+                        <P>(3) If the impact driver has been idled for more than 30 minutes, an initial set of three strikes from the impact driver must be delivered at reduced energy, followed by a 1-minute waiting period, before full-powered proofing strikes.</P>
+                        <P>(4) In-water activity must be conducted in daylight. If environmental conditions prevent visual detection of sea otters within the shutdown zone, in-water activities must be stopped until visibility is regained.</P>
+                        <P>(5) All in-water work along the shoreline must be conducted during low tide when the site is dewatered to the maximum extent practicable.</P>
+                        <P>(6) When an impact hammer is used, noise-dampening block cushions or pile caps will be placed between the hammer and pile.</P>
+                        <P>
+                            (c) 
+                            <E T="03">Mitigation measures for vessel operations.</E>
+                             Vessel operators must take every precaution to avoid harassment of sea otters when a vessel is operating near these animals. The applicant must carry out the following measures:
+                        </P>
+                        <P>(1) Vessels must remain at least 500 m (1,640 ft) from rafts of sea otters unless safety is a factor. Vessels must reduce speed and maintain a distance of 100 m (328 ft) from all sea otters unless safety is a factor.</P>
+                        <P>
+                            (2) Vessels must not be operated in such a way as to separate members of 
+                            <PRTPAGE P="24129"/>
+                            a group of sea otters from other members of the group and must avoid alongshore travel in shallow water (&lt;20 m (~66 ft)) whenever practicable.
+                        </P>
+                        <P>(3) When weather conditions require, such as when visibility drops, vessels must adjust speed accordingly to avoid the likelihood of injury to sea otters.</P>
+                        <P>(4) Vessel operators must be provided written guidance for avoiding collisions and minimizing disturbances to sea otters. Guidance will include measures identified in paragraph (c) of this section.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.150 </SECTNO>
+                        <SUBJECT>Monitoring.</SUBJECT>
+                        <P>(a) Operators must work with PSOs to apply mitigation measures and must recognize the authority of PSOs, up to and including stopping work, except where doing so poses a significant safety risk to personnel.</P>
+                        <P>(b) Duties of PSOs include watching for and identifying sea otters, recording observation details, documenting presence in any applicable monitoring zone, identifying and documenting potential harassment, and working with operators to implement all appropriate mitigation measures.</P>
+                        <P>(c) A sufficient number of PSOs will be available to meet the following criteria: 100 percent monitoring of exclusion zones during all daytime periods of underwater noise-generating work; a maximum of 4 consecutive hours on watch per PSO; a maximum of approximately 12 hours on watch per day per PSO.</P>
+                        <P>(d) All PSOs will complete a training course designed to familiarize individuals with monitoring and data collection procedures. A field crew leader with prior experience as a sea otter observer will supervise the PSO team. Initially, new or inexperienced PSOs will be paired with experienced PSOs so that the quality of marine mammal observations and data recording is kept consistent. Resumes for candidate PSOs will be made available for the Service to review.</P>
+                        <P>(e) Observers will be provided with reticule binoculars (10Ã42), big-eye binoculars or spotting scopes (30Ã), inclinometers, and range finders. Field guides, instructional handbooks, maps, and a contact list will also be made available.</P>
+                        <P>(f) Observers will collect data using the following procedures:</P>
+                        <P>(1) All data will be recorded onto a field form or database.</P>
+                        <P>(2) Global positioning system data, sea state, wind force, and weather will be collected at the beginning and end of a monitoring period, every hour in between, at the change of an observer, and upon sightings of sea otters.</P>
+                        <P>(3) Observation records of sea otters will include date; time; the observer's locations, heading, and speed (if moving); weather; visibility; number of animals; group size and composition (adults/juveniles); and the location of the animals (or distance and direction from the observer).</P>
+                        <P>(4) Observation records will also include initial behaviors of the sea otters, descriptions of project activities and underwater sound levels being generated, the position of sea otters relative to applicable monitoring and mitigation zones, any mitigation measures applied, and any apparent reactions to the project activities before and after mitigation.</P>
+                        <P>(5) For all sea otters in or near a mitigation zone, observers will record the distance from the vessel to the sea otter upon initial observation, the duration of the encounter, and the distance at last observation in order to monitor cumulative sound exposures.</P>
+                        <P>(6) Observers will note any instances of animals lingering close to or traveling with vessels for prolonged periods of time.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.151 </SECTNO>
+                        <SUBJECT>Reporting requirements.</SUBJECT>
+                        <P>(a) Operators must notify the Service at least 48 hours prior to commencement of activities.</P>
+                        <P>(b) Monthly reports will be submitted to the Service MMM for all months during which noise-generating work takes place. The monthly report will contain and summarize the following information: dates, times, weather, and sea conditions (including the Beaufort Scale's sea state and wind force conditions) when sea otters were sighted; the number, location, distance from the sound source, and behavior of the sea otters; the associated project activities; and a description of the implementation and effectiveness of mitigation measures with a discussion of any specific behaviors the sea otters exhibited in response to mitigation.</P>
+                        <P>(c) A final report will be submitted to the Service within 90 days after the expiration of each LOA. It will include the following:</P>
+                        <P>(1) A summary of monitoring efforts (hours of monitoring, activities monitored, number of PSOs, and, if requested by the Service, the daily monitoring logs).</P>
+                        <P>
+                            (2) A description of all project activities, along with any additional work yet to be done. Factors influencing visibility and detectability of marine mammals (
+                            <E T="03">e.g.,</E>
+                             sea state, number of observers, and fog and glare) will be discussed.
+                        </P>
+                        <P>
+                            (3) A description of the factors affecting the presence and distribution of sea otters (
+                            <E T="03">e.g.,</E>
+                             weather, sea state, and project activities). An estimate will be included of the number of sea otters exposed to noise at received levels greater than or equal to 160 dB
+                            <E T="52">RMS</E>
+                             re: 1 Î¼Pa (decibels root-mean squared referenced to 1 microPascal) (based on visual observation).
+                        </P>
+                        <P>(4) A description of changes in sea otter behavior resulting from project activities and any specific behaviors of interest.</P>
+                        <P>(5) A discussion of the mitigation measures implemented during project activities and their observed effectiveness for minimizing impacts to sea otters. Sea otter observation records will be provided to the Service in the form of electronic database or spreadsheet files.</P>
+                        <P>
+                            (d) All reports must be submitted by email to 
+                            <E T="03">fw7_mmm_reports@fws.gov.</E>
+                        </P>
+                        <P>
+                            (e) Injured, dead, or distressed sea otters that are not associated with project activities (
+                            <E T="03">e.g.,</E>
+                             animals known to be from outside the project area, previously wounded animals, or carcasses with moderate to advanced decomposition or scavenger damage) must be reported to the Service within 24 hours of the discovery to either the Service MMM (1-800-362-5148, business hours); or the Alaska SeaLife Center in Seward (1-888-774-7325, 24 hours a day); or both. Photographs, video, location information, or any other available documentation must be provided to the Service.
+                        </P>
+                        <P>(f) Operators must notify the Service upon project completion or end of the work season.</P>
+                    </SECTION>
+                    <SECTION>
+                        <SECTNO>Â§â18.152</SECTNO>
+                        <SUBJECT>Information collection requirements.</SUBJECT>
+                        <P>The Office of Management and Budget (OMB) has approved the information collection requirements contained in this part and assigned OMB Control Number 1018-0070. Federal agencies may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Direct comments regarding the burden estimate or any other aspect of the information collection to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b). </P>
+                    </SECTION>
+                </REGTEXT>
+                <SIG>
+                    <NAME>Shannon Estenoz,</NAME>
+                    <TITLE>Assistant Secretary for Fish and Wildlife and Parks.</TITLE>
+                </SIG>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2023-08258 Filed 4-18-23; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 4333-15-P</BILCOD>
+        </RULE>

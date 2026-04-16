@@ -1,0 +1,5 @@
+[TABLE]
+| Normal (Reduce Vulnerability) | State Government Will: | Communities/Utilities Need to: | Individuals Need to: |
+| --- | --- | --- | --- |
+|  | Require all State Agencies to; Develop & Submit a Drought; Plan; Distribute conservation tips to; all regions of the state (Office; of Water Conservation); Require all state facilities to; separately meter and; annually report monthly; water use -- Release this; information through media; or other p | Develop, Submit & Implement; Drought/Conservation Plan; . Develop and pass water; waste and other; appropriate drought; response ordinances (e.g.,; turf requirements for non-; residential customers,; drought-related water; schedules, etc.); Discourage developers from; requiring turf in residential | Practice appropriate; conservation strategies; . Install low-water use; landscaping; . Repair leaks in irrigation; system; . Reset irrigation timers; seasonally; . Implement water; harvesting techniques; Convert high water using; plumbing and fixtures with; low-flow fixtures; . Avoid outdoor waterin |
+[/TABLE]

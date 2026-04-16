@@ -1,0 +1,8 @@
+[TABLE]
+| ID | Hazard Addressed: Action: | Priority: .Estimated Completion: Potential Funding Source: Objective Satisfied: | Status | Disposition | Explanation |
+| --- | --- | --- | --- | --- | --- |
+| 2.0 | Flooding; Assist local jurisdictions in acquiring, or otherwise; mitigating, property located in the 100-year floodplain,; beginning with repetitive loss properties. | . High; Ongoing/Annually; Existing Staff/Budget; .4&7 | Ongoing | Keep. |  |
+| 2.1 | Dam Failure; Provide information to county and local emergency; management and floodplain management officials; regarding the status, potential hazards, and risks.; associated with deficient dams to ensure they make.; better informed decisions regarding planning and; development. | . Medium; : Ongoing/Annually; Existing Staff/Budget; 1,2,4,&5 | Ongoing | Keep |  |
+| 2.2 | Dam Failure; Identify adequate funding sources within the dam repair; program, which is designed to assist the state and the; dam owners in the protection of life and property.; Report to the Director of ADWR | .High; : Ongoing/Annually; Existing Staff/Budget | Ongoing | Keep | ADwR has used monies from the Dam Repair Fund to leverage.; Federal funds (approx.. 2 Federal dollars for each ADwR dollar) to; assist dam owners who participate in the High Hazard Potential.; Dam program with FEMA and the NDSP. |
+| 2.3 | Flooding; Continue to encourage and educate local officials and.; renters who live in areas that are flood prone to acquire; flood insurance through the NFIP. | . Medium; . Ongoing; Existing Staff/Budget; : 1,2,3,&4 | Ongoing | Keep |  |
+[/TABLE]

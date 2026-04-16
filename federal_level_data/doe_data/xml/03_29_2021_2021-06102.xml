@@ -1,0 +1,656 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF ENERGY</AGENCY>
+                <SUBAGY>Federal Energy Regulatory Commission</SUBAGY>
+                <CFR>18 CFR Parts 153 and 157</CFR>
+                <DEPDOC>[Docket No. RM20-18-000]</DEPDOC>
+                <SUBJECT>Waiver of the Water Quality Certification Requirements of Section 401(a)(1) of the Clean Water Act</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Federal Energy Regulatory Commission, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>
+                        In this final rule, the Federal Energy Regulatory Commission (Commission) is amending its regulations pursuant to section 401(a)(1) of the Clean Water Act to establish a categorial reasonable period of time for a state or tribal certifying authority to act on a water quality certification request for proposed natural gas and liquified natural gas projects. The Commission is allowing certifying authorities up to one year after receipt of a request for water quality 
+                        <PRTPAGE P="16299"/>
+                        certification, filed in connection with a requested Commission-issued section 7 certificate of public convenience and necessity or section 3 authorization under the Natural Gas Act, to grant or deny the request.
+                    </P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The rule will become effective June 28, 2021.</P>
+                </EFFDATE>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P/>
+                    <FP SOURCE="FP-1">
+                        David Swearingen (Technical Information), Office of Energy Projects, Federal Energy Regulatory Commission, 888 First Street NE, Washington, DC 20426, (202) 502-6173, 
+                        <E T="03">david.swearingen@ferc.gov</E>
+                    </FP>
+                    <FP SOURCE="FP-1">
+                        Karin Larson (Legal Information), Office of the General Counsel, Federal Energy Regulatory Commission, 888 First Street NE, Washington, DC 20426, (202) 502-8236, 
+                        <E T="03">karin.larson@ferc.gov</E>
+                    </FP>
+                    <FP SOURCE="FP-1">
+                        Rachael Warden (Legal Information), Office of the General Counsel, Federal Energy Regulatory Commission, 888 First Street NE, Washington, DC 20426, (202) 502-8717, 
+                        <E T="03">rachael.warden@ferc.gov</E>
+                    </FP>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P/>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <GPOTABLE COLS="2" OPTS="L0,tp0,g1,t1,i1" CDEF="s200,15">
+                    <TTITLE>â</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">â</CHED>
+                        <CHED H="1">Paragraph Nos.</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">I. Background</ENT>
+                        <ENT>1</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">II. Notice of Proposed Rulemaking</ENT>
+                        <ENT>4</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">III. Discussion</ENT>
+                        <ENT>5</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">A. Setting Case-by-Case Periods of Time for Certifying Authorities To Act</ENT>
+                        <ENT>8</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">B. Flexibility for Certifying Authorities To Act</ENT>
+                        <ENT>10</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">C. Binding Effect on Other Agencies</ENT>
+                        <ENT>12</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">D. Clarification of Notification in the Case of Waiver</ENT>
+                        <ENT>14</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">IV. Regulatory Requirements</ENT>
+                        <ENT>16</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">A. Information Collection Statement</ENT>
+                        <ENT>16</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">B. Environmental Analysis</ENT>
+                        <ENT>17</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">C. Regulatory Flexibility Act</ENT>
+                        <ENT>18</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">D. Document Availability</ENT>
+                        <ENT>20</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="03">E. Effective Date and Congressional Notification</ENT>
+                        <ENT>23</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD1">I. Background</HD>
+                <P>
+                    1. Section 401 of the Clean Water Act (CWA)â
+                    <SU>1</SU>
+                    <FTREF/>
+                     is a direct grant of authority to statesâ
+                    <SU>2</SU>
+                    <FTREF/>
+                     to review for compliance with appropriate federal, state, and tribal water quality requirements any discharge into a water of the United States that may result from a proposed activity that requires a federal license or permit. Section 401(a)(1) of the CWA requires that an applicant for a federal license or permit to conduct activities that may result in a discharge into the navigable waters of the United States, such as a Federal Energy Regulatory Commission (Commission) hydroelectric project license, or a Natural Gas Act (NGA) certificate of public convenience and necessity for a natural gas pipeline, or an authorization for an LNG terminal, must provide the federal permitting agency a water quality certification from the state in which the discharge originates or evidence of waiver thereof.
+                    <SU>3</SU>
+                    <FTREF/>
+                     Pursuant to the CWA, if the state âfails or refuses to act on a request for certification, within a reasonable period of time (which shall not exceed one year) after receipt of such request,â then certification is waived.
+                    <SU>4</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        â33 U.S.C. 1341(a)(1).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âIndian tribes that have been approved for âtreatment as a stateâ status may also have the authority under section 401 to issue water quality certifications.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        â33 U.S.C. 1341(a)(1).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    2. The Commission's practice has been to deem the one-year waiver period to commence when the certifying agency receives the request. In 1987, the Commission promulgated subsections 4.34(b)(5)(iii) and 5.23(b)(2)â
+                    <SU>5</SU>
+                    <FTREF/>
+                     of its regulations governing hydropower licensing proceedings to provide that a certifying agency is deemed to have waived certification if it has not denied or granted certification by one year after the date it received a written certification request.
+                    <SU>6</SU>
+                    <FTREF/>
+                     Accordingly, subsections 4.34(b)(5)(iii) and 5.23(b)(2)â
+                    <SU>7</SU>
+                    <FTREF/>
+                     of the Commission's regulations establish for hydroelectric projects a categorical âreasonable period of timeâ of one year.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        â18 CFR 4.34(b)(5)(iii) and 5.23(b)(2). Part 4 of the Commission's regulations governs applicants using the traditional licensing process and part 5 governs applicants using the integrated license application process.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        â
+                        <E T="03">Waiver of the Water Quality Certification Requirements of Section 401(a)(1) of the Clean Water Act,</E>
+                         Order No. 464, FERC Stats. &amp; Regs. Â¶â30,730 (1987) (cross-referenced at 38 FERC Â¶â61,146).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        â18 CFR 4.34(b)(5)(iii) and 5.23(b)(2).
+                    </P>
+                </FTNT>
+                <P>
+                    3. While no comparable regulation exists for NGA infrastructure proceedings, the Commission's practice is to also categorically apply a one-year waiver period for water quality certification applications filed in connection to a proposed natural gas or liquefied natural gas infrastructure project application.
+                    <SU>8</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        â
+                        <E T="03">Constitution Pipeline Co., LLC,</E>
+                         162 FERC Â¶â61,014, at P 16 (explaining that since 1987 the Commission has consistently determined, both by regulation and in our orders on proposed projects, that the reasonable period of time for action under section 401 is one year after the date the certifying agency receives a request for certification), 
+                        <E T="03">reh'g denied,</E>
+                         164 FERC Â¶â61,029 (2018).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">II. Notice of Proposed Rulemaking</HD>
+                <P>
+                    4. On September 9, 2020, the Commission issued a Notice of Proposed Rulemaking (NOPR) proposing to codify the Commission's practice and establish a categorical waiver period of one year for water quality certification applications filed in connection with a proposed natural gas or liquefied natural gas infrastructure project application.
+                    <SU>9</SU>
+                    <FTREF/>
+                     In response to the NOPR, the Commission received five comments. The Interstate Natural Gas Association of America (INGAA),
+                    <SU>10</SU>
+                    <FTREF/>
+                     U.S. Department of the Interior (Interior), National Fuel Gas Supply Corporation and Empire Pipeline, Inc. (collectively, 
+                    <PRTPAGE P="16300"/>
+                    National Fuel),
+                    <SU>11</SU>
+                    <FTREF/>
+                     the Natural Gas Supply Association and the Center for LNG (collectively, NGSA),
+                    <SU>12</SU>
+                    <FTREF/>
+                     and a group of state Attorneys General (States)â
+                    <SU>13</SU>
+                    <FTREF/>
+                     and California regulatory agencies (California Water Boards)â
+                    <SU>14</SU>
+                    <FTREF/>
+                     filed comments. The proposal set forth in the NOPR, the comments received in response to the NOPR, and the Commission's determinations are discussed below.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        â
+                        <E T="03">Waiver of the Water Quality Certification Requirements of Section 401(a)(1) of the Clean Water Act,</E>
+                         85 FR 66287, 172 FERC Â¶â61,213 (Oct. 19, 2020) (NOPR). As explained in the NOPR, part of the impetus for establishing a categorical waiver period was the executive order entitled 
+                        <E T="03">Promoting Energy Infrastructure and Economic Growth.</E>
+                         Exec. Order 13868 of Apr. 10, 2019, 84 FR 15495 (Apr. 15, 2019). Executive Order 13868 directed the Environmental Protection Agency (EPA) to update its regulations governing water quality certification under CWA section 401 and mandated that section 401 implementing agencies, such as the Commission, initiate a rulemaking to ensure their respective agencies' regulations are consistent with the EPA's final rule and with the policies set forth in the executive order. 84 FR at 15496. Executive Order 13868 was revoked on January 20, 2021, by the executive order entitled 
+                        <E T="03">Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis.</E>
+                         Exec. Order 13990 of Jan. 20, 2021, 86 FR 7037, 7041 (Jan. 25, 2021). Because this final rule will simply codify the Commission's existing, long-standing practice, described above, and is not premised on the EPA's final rule, this rule is not affected by E.O. 13868.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        âINGAA is a trade association representing 26 interstate natural gas transmission pipeline systems.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âNational Fuel Gas Supply Corporation and Empire Pipeline, Inc., are interstate pipeline companies that own and operate Commission-regulated pipeline facilities in New York and Pennsylvania.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âThe Natural Gas Supply Association is a trade association focusing on the downstream natural gas industry, and the Center for LNG is a committee of the organization that advocates for public policies that advance the use of LNG.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âThe Attorneys General of Maryland, Connecticut, Illinois, Maine, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, Oregon, Pennsylvania, Rhode Island, Vermont, Virginia, and the District of Columbia are represented in the comments.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âThe California State Water Resources Control Board and the nine California Regional Water Quality Control Boards are represented in the comments.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">III. Discussion</HD>
+                <P>
+                    5. The NOPR explained that the Commission believes that the benefits of setting a categorical waiver period of one year, as permitted by the CWA, best serves the public interest by avoiding uncertainty associated with open-ended and varying certification deadlines.
+                    <SU>15</SU>
+                    <FTREF/>
+                     We noted that it would be administratively inefficient and a potential source of controversy to establish reasonable time periods on a case-by-case basis; that state certifying agencies may vary in terms of their procedures for reviewing requests for water quality certification; that natural gas projects before the Commission include highly complex proposals that may well take a state a significant time to review; and that studies of the discharge may at times be warranted.
+                    <SU>16</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âNOPR, 172 FERC Â¶â61,213 at P 6 (citing Order No. 464, FERC Stats. &amp;  Regs. Â¶â30,730; 
+                        <E T="03">Constitution Pipeline Co., LLC,</E>
+                         162 FERC Â¶â61,014 at PP 16-17, 20, 
+                        <E T="03">reh'g denied,</E>
+                         164 FERC Â¶â61,029 at P 10).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    6. Given those factors, we found it reasonable to provide the maximum time permitted under the CWA, 
+                    <E T="03">i.e.,</E>
+                     a categorical one-year waiver period. The Commission proposed to add this categorical one-year waiver period to its regulations governing applications for authorizations under sections 3 and 7 of the NGA for liquefied natural gas and natural gas facilities in parts 153 and 157.
+                </P>
+                <P>
+                    7. In response to the Commission's request for comments on the NOPR, the States and California Water Boards, NGSA, and INGAA filed supportive comments.
+                    <SU>17</SU>
+                    <FTREF/>
+                     The States and California Water Boards agree that requests for authorization under sections 3 and 7 of the NGA tend to involve complex projects and support allowing certifying authorities the maximum time permitted under the CWA to act.
+                    <SU>18</SU>
+                    <FTREF/>
+                     NGSA states that the Commission's proposed rule will provide regulatory consistency and certainty and agrees with the Commission's interpretation that the one-year period for review begins upon the certifying authority's receipt of a request for section 401 water quality certification.
+                    <SU>19</SU>
+                    <FTREF/>
+                     INGAA comments that the proposed regulatory revisions are consistent with the plain reading of the CWA and agrees that it would be inefficient to set the reasonable period of time on a case-by-case basis.
+                    <SU>20</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âNational Fuel also supports INGAA's comments and supports the Commission's codification of a certification period into its regulations. National Fuel's November 18, 2020 Comments at 1.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âStates and California Water Boards' November 18, 2020 Comments at 2-3. The States and California Water Boards also note their continuing objections to the EPA's revisions under 40 CFR part 121, 
+                        <E T="03">id.</E>
+                         at 3-4, which are outside the scope of this NOPR and final rule.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âNGSA's November 18, 2020 Comments at 2-9.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âINGAA's November 18, 2020 Comments at 3-4.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">A. Setting Case-by-Case Periods of Time for Certifying Authorities To Act</HD>
+                <P>
+                    8. National Fuel contends that the Commission need not adopt the one-year period as its categorical reasonable period of time, arguing that simple projects or those that do not raise significant concerns under the CWA could merit a shorter reasonable period of time.
+                    <SU>21</SU>
+                    <FTREF/>
+                     National Fuel suggests that an applicant could assist the Commission in identifying such suitable projects.
+                    <SU>22</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âNational Fuel's November 18, 2020 Comments at 2.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        â
+                        <E T="03">Id.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    9. As the Commission has explained in orders on proposed projects, the establishment of the categorical one-year waiver period confers substantial benefits to the applicant, the certifying agency, and the Commission, including: Avoiding the difficulty of having to construe divergent state requirements, including what is a triggering request for certification, which provides certainty to all parties; refraining from intruding on states' authority to create and apply procedural regulations; and best serving the public interest by avoiding the uncertainty associated with varying and open-ended certification deadlines.
+                    <SU>23</SU>
+                    <FTREF/>
+                     For those reasons, and because setting varied limits would require additional time and potentially result in controversy, we believe that whatever benefit may be conferred to a particular applicant by considering an alternate waiver period on a case-by-case basis is outweighed by the benefits described above in continuing to adhere to the one-year waiver period. We therefore decline to entertain the proposal to consider case-by-case alternate waiver periods.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âSee 
+                        <E T="03">Constitution Pipeline Co., LLC,</E>
+                         162 FERC Â¶â61,014 at PP 16-17, 20, 
+                        <E T="03">reh'g denied,</E>
+                         164 FERC Â¶â61,029 at P 10.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Flexibility for Certifying Authorities To Act</HD>
+                <P>
+                    10. The States and California Water Boards urge the Commission to provide certifying authorities with as much flexibility as possible in completing their section 401 reviews.
+                    <SU>24</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âStates and California Water Boards' November 18, 2020 Comments at 4.
+                    </P>
+                </FTNT>
+                <P>
+                    11. As explained above, under the CWA, if the state âfails or refuses to act on a request for certification, within a reasonable period of time (which shall not exceed  one year) after receipt of such request,â then certification is waived.
+                    <SU>25</SU>
+                    <FTREF/>
+                     In categorically establishing a one-year waiver period for water quality certification applications, the Commission is providing states with the maximum time allowed under the statute and therefore the broadest amount of flexibility allowed under the CWA.
+                    <SU>26</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>25</SU>
+                        â33 U.S.C. 1341(a)(1).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>26</SU>
+                        â
+                        <E T="03">See Placer Cnty. Water Agency,</E>
+                         169 FERC Â¶â61,046 (2019) (explaining that section 401's plain language establishes a âbright-line ruleâ that âthe timeline for a state's action regarding a request for certification `shall not exceed one year' after `receipt of such request'ââ (quoting 
+                        <E T="03">New York DEC</E>
+                         v. 
+                        <E T="03">FERC,</E>
+                         884 F.3d 450, 455 (2d Cir. 2018)).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">C. Binding Effect on Other Agencies</HD>
+                <P>
+                    12. INGAA notes that other agencies âhave previously determined that a reasonable period of time should generally be less than one yearâ and notes that the Commission's reasonable period of time cannot bind other lead federal permitting agencies.
+                    <SU>27</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>27</SU>
+                        âINGAA's November 18, 2020 Comments at 4-5.
+                    </P>
+                </FTNT>
+                <P>
+                    13. As relevant to this final rule, the Commission is the lead federal agency for authorizations under sections 3 and 7 of the NGA for liquefied natural gas and natural gas facilities. We recognize that other federal agencies may be lead agency for any number of other types of projects requiring a water quality certification under the CWA, and we are not attempting to bind any other agency with this final rule.
+                    <PRTPAGE P="16301"/>
+                </P>
+                <HD SOURCE="HD2">D. Clarification of Notification in the Case of Waiver</HD>
+                <P>
+                    14. Interior requests clarification on what action the Commission would take to notify or coordinate with federal agencies if the categorical one-year waiver period set by the Commission for the certifying authority lapses.
+                    <SU>28</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>28</SU>
+                        âInterior's November 17, 2020 Comments at 1 (explaining that Interior is concerned it will not have adequate information about baseline water quality conditions and that certain statutes require its Bureau of Land Management to prevent degradation  to waters it manages, regardless of whether a certifying authority has waived under section 401).
+                    </P>
+                </FTNT>
+                <P>
+                    15. By statute, waiver is automatic.
+                    <SU>29</SU>
+                    <FTREF/>
+                     However, a state certifying agency would be on notice that waiver occurred when the applicant files a request for authorization to proceed with construction in which the applicant must document that it has received all applicable authorizations required under federal law or evidence of waiver thereof.
+                    <SU>30</SU>
+                    <FTREF/>
+                     Interested agencies may receive filings in a project docket, such as copies of water quality certification applications or requests for authorization to proceed with construction,  by registering and subscribing to the project docket at 
+                    <E T="03">https://ferconline.ferc.gov/eSubscription.aspx.</E>
+                     In any case, federal agencies should take whatever steps they deem necessary to carry out their statutory mandates, regardless of state action or inaction under the CWA.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>29</SU>
+                        â33 U.S.C. 1341(a)(1). If the certifying authority âfails or refuses to act on a request for certification, within a reasonable period of time (which shall not exceed  one year) after receipt of such request,â then certification is waived.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>30</SU>
+                        âIn addition, pursuant to the EPA's regulations, 40 CFR 121.9(c), if waiver occurs, the Commission's Office of Energy Projects will issue a notice of waiver in the FERC docket for the applicable project.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">IV. Regulatory Requirements</HD>
+                <HD SOURCE="HD2">A. Information Collection Statement</HD>
+                <P>
+                    16. The Paperwork Reduction Actâ
+                    <SU>31</SU>
+                    <FTREF/>
+                     requires each federal agency to seek and obtain the Office of Management and Budget's (OMB) approval before undertaking a collection of information (
+                    <E T="03">i.e.,</E>
+                     reporting, recordkeeping, or public disclosure requirements) directed to ten or more persons or contained in a rule of general applicability. OMB regulations require approval of certain information collection requirements contained in final rules published in the 
+                    <E T="04">Federal Register</E>
+                    .
+                    <SU>32</SU>
+                    <FTREF/>
+                     This final rule does not contain any information collection requirements. The Commission is therefore not required to submit this rule to OMB for review.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>31</SU>
+                        â44 U.S.C. 3501-3521.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>32</SU>
+                        â
+                        <E T="03">See</E>
+                         5 CFR 1320.12.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Environmental Analysis</HD>
+                <P>
+                    17. The Commission is required to prepare an Environmental Assessment or an Environmental Impact Statement for any action that may have a significant effect on  the human environment.
+                    <SU>33</SU>
+                    <FTREF/>
+                     The Commission has categorically excluded certain actions from this requirement as not having a significant effect on the human environment, including the promulgation of rules that are clarifying, corrective, or procedural, or that do not substantially change the effect of legislation or the regulations being amended.
+                    <SU>34</SU>
+                    <FTREF/>
+                     This final rule proposes to categorically establish a reasonable period of time for a certifying agency to act on a water quality certification request for natural gas and liquified natural gas projects with an application pending with the Commission. Because this final rule is procedural in nature, preparation of an Environmental Assessment or an Environmental Impact Statement is not required.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>33</SU>
+                        â
+                        <E T="03">Regulations Implementing the National Environmental Policy Act of 1969,</E>
+                         Order No. 486, FERC Stats. &amp; Regs. Â¶â30,783 (1987) (cross-referenced at 41 FERC Â¶â61,284).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>34</SU>
+                        â18 CFR 380.4(a)(2)(ii).
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">C. Regulatory Flexibility Act</HD>
+                <P>
+                    18. The Regulatory Flexibility Act of 1980 (RFA)â
+                    <SU>35</SU>
+                    <FTREF/>
+                     generally requires a description and analysis of final rules that will have significant economic impact on a substantial number of small entities. The RFA mandates consideration of regulatory alternatives  that accomplish the stated objectives of a final rule and minimize any significant economic impact on a substantial number of small entities.
+                    <SU>36</SU>
+                    <FTREF/>
+                     In lieu of preparing a regulatory flexibility analysis, an agency may certify that a final rule will not have a significant economic impact on a substantial number of small entities.
+                    <SU>37</SU>
+                    <FTREF/>
+                     The Small Business Administration's (SBA) Office of Size Standards develops the numerical definition of a small business.
+                    <SU>38</SU>
+                    <FTREF/>
+                     The SBA has established a size standard for pipelines transporting natural gas, stating that a firm is small if its annual receipts (including its affiliates) are less than $30 million.
+                    <SU>39</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>35</SU>
+                        â5 U.S.C. 601-612.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>36</SU>
+                        â
+                        <E T="03">Id.</E>
+                         603(c).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>37</SU>
+                        â
+                        <E T="03">Id.</E>
+                         605(b).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>38</SU>
+                        â13 CFR 121.101.
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>39</SU>
+                        â13 CFR 121.201, subsection 486.
+                    </P>
+                </FTNT>
+                <P>19. This final rule would apply to entities, a small number of which may be small businesses, with an application for a project pending with the Commission under  section 3 or 7 of the NGA that require a water quality certification under section 401(a)(1) of the CWA. However, the final rule would have no effect on these entities, regardless of their status as a small entity or not, as the rule imposes no action or requirement on those entities. Accordingly, pursuant to section 605(b) of the RFA, the Commission certifies that this final rule will not have a significant economic impact on a substantial number of small entities.</P>
+                <HD SOURCE="HD2">D. Document Availability</HD>
+                <P>
+                    20. In addition to publishing the full text of this document in the 
+                    <E T="04">Federal Register</E>
+                    , the Commission provides all interested persons an opportunity to view and/or print the contents of this document via the internet through the Commission's Home Page (
+                    <E T="03">http://www.ferc.gov</E>
+                    ). At this time, the Commission has suspended access to the Commission's Public Reference Room due to the March 13, 2020 proclamation declaring a National Emergency concerning the Novel Coronavirus Disease (COVID-19).
+                </P>
+                <P>21. From the Commission's Home Page on the internet, this information is available on eLibrary. The full text of this document is available on eLibrary in PDF and Microsoft Word format for viewing, printing, and/or downloading. To access this document in eLibrary, type the docket number excluding the last three digits of this document in the docket number field.</P>
+                <P>
+                    22. User assistance is available for eLibrary and the Commission's website during normal business hours from the Commission's Online Support at (202) 502-6652 (toll free at 1-866-208-3676) or email at 
+                    <E T="03">ferconlinesupport@ferc.gov,</E>
+                     or the Public Reference Room at (202) 502-8371, TTY (202) 502-8659. Email the Public Reference Room at 
+                    <E T="03">public.referenceroom@ferc.gov.</E>
+                </P>
+                <HD SOURCE="HD2">E. Effective Date and Congressional Notification</HD>
+                <P>
+                    23. These regulations are effective June 28, 2021. The Commission has determined, with the concurrence of the Administrator of the Office of Information and Regulatory Affairs of OMB, that this rule is not a major rule as defined in section 251 of the Small Business Regulatory Enforcement Fairness Act of 1996.
+                    <SU>40</SU>
+                    <FTREF/>
+                     This rule is being submitted to the Senate, House, Government Accountability Office, and Small Business Administration.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>40</SU>
+                        â5 U.S.C. 804(2).
+                    </P>
+                </FTNT>
+                <LSTSUB>
+                    <PRTPAGE P="16302"/>
+                    <HD SOURCE="HED">List of Subjects</HD>
+                    <CFR>18 CFR Part 153</CFR>
+                    <P>Exports, Natural gas, Reporting and recordkeeping requirements.</P>
+                    <CFR>18 CFR Part 157</CFR>
+                    <P>Administrative practice and procedure, Natural gas, Reporting and recordkeeping requirements.</P>
+                </LSTSUB>
+                <SIG>
+                    <P>By the Commission.</P>
+                    <DATED>Issued: Issued March 18, 2021.</DATED>
+                    <NAME>Nathaniel J. Davis, Sr.,</NAME>
+                    <TITLE>Deputy Secretary.</TITLE>
+                </SIG>
+                <P>
+                    In consideration of the foregoing, the Commission amends parts 153 and 157, chapter I, title 18, 
+                    <E T="03">Code of Federal Regulations,</E>
+                     as follows:
+                </P>
+                <PART>
+                    <HD SOURCE="HED">PART 153âAPPLICATIONS FOR AUTHORIZATION TO CONSTRUCT, OPERATE, OR MODIFY FACILITIES USED FOR THE EXPORT OR IMPORT OF NATURAL GAS</HD>
+                </PART>
+                <REGTEXT TITLE="18" PART="153">
+                    <AMDPAR>1. The authority citation for part 153 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 15 U.S.C. 717b, 717o; E.O. 10485; 3 CFR, 1949-1953 Comp., p. 970, as amended by E.O. 12038, 3 CFR, 1978 Comp., p. 136, DOE Delegation Order No. 0204-112, 49 FR 6684 (February 22, 1984). </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="18" PART="153">
+                    <AMDPAR>2. Revise Â§â153.4 to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â153.4 </SECTNO>
+                        <SUBJECT>General requirements.</SUBJECT>
+                        <P>The procedures in Â§Â§â157.5, 157.6, 157.8, 157.9, 157.10, 157.11, 157.12, 157.22, and 157.23 of this chapter are applicable to the applications described in this subpart.</P>
+                    </SECTION>
+                </REGTEXT>
+                <PART>
+                    <HD SOURCE="HED">PART 157âAPPLICATIONS FOR CERTIFICATES OF PUBLIC CONVENIENCE AND NECESSITY AND FOR ORDERS PERMITTING AND APPROVING ABANDONMENT UNDER SECTION 7 OF THE NATURAL GAS ACT</HD>
+                </PART>
+                <REGTEXT TITLE="18" PART="157">
+                    <AMDPAR>3. The authority citation for part 157 is revised to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P> 15 U.S.C. 717-717w, 3301-3432; 33 U.S.C. 1341(a)(1); 42 U.S.C. 7101-7352.</P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="18" PART="157">
+                    <AMDPAR>4. Revise Â§â157.22 to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â157.22 </SECTNO>
+                        <SUBJECT>Schedule for final decisions on a request for a Federal authorization.</SUBJECT>
+                        <P>
+                            (a) For an application under section 3 or 7 of the Natural Gas Act that requires a Federal authorizationâ
+                            <E T="03">i.e.,</E>
+                             a permit, special use authorization, certification, opinion, or other approvalâfrom a Federal agency or officer, or State agency or officer acting pursuant to delegated Federal authority, a final decision on a request for a Federal authorization is due no later than 90 days after the Commission issues its final environmental document, unless a schedule is otherwise established by Federal law.
+                        </P>
+                        <P>(b) For requests for a water quality certification submitted pursuant to section 401(a)(1) of the Federal Water Pollution Control Act (Clean Water Act) in connection with a project for which authorization is sought from the Commission under section 3 or 7 of the Natural Gas Act, the reasonable period of time during which the certifying agency may act on the water quality certification request is one year from the certifying agency's receipt of the request. A certifying agency is deemed to have waived the certification requirements of section 401(a)(1) of the Clean Water Act if the certifying agency has not denied or granted certification by one year after the date the certifying agency received a written request for certification.</P>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2021-06102 Filed 3-26-21; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 6717-01-P</BILCOD>
+        </RULE>

@@ -1,0 +1,859 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF AGRICULTURE </AGENCY>
+                <SUBAGY>Commodity Credit Corporation </SUBAGY>
+                <CFR>7 CFR Part 1437 </CFR>
+                <RIN>RIN 0560-AG20 </RIN>
+                <SUBJECT>Noninsured Crop Disaster Assistance Program </SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Commodity Credit Corporation, USDA. </P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Interim rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Commodity Credit Corporation (CCC) amends the regulations with respect to the Noninsured Crop Disaster Assistance Program (NAP). This interim rule amends the NAP regulations to remove area requirements, announce new requirements regarding the filing of applications, payment of service fees, and reporting of crop acreage, yield, and production. These regulatory amendments are designed to improve the overall operation of the program and to conform the regulations with changes to the program made in recent legislation. </P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>The rule is effective March 19, 2002. Comments must be received by April 18, 2002, to be assured of consideration. </P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        Comments should be addressed to Steve Peterson, Chief, Noninsured Assistance Programs Branch (NAPB); Production, Emergencies, and Compliance Division (PECD); Farm Service Agency (FSA); United States Department of Agriculture, STOP 0517, 1400 Independence Avenue, SW., Washington, DC 20250-0517; e-mail 
+                        <E T="03">Steve_Peterson@wdc.fsa.usda.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Steve Peterson, Chief, Noninsured Assistance Programs Branch (NAPB); Production, Emergencies, and Compliance Division (PECD); Farm Service Agency (FSA); United States Department of Agriculture, STOP 0517, 1400 Independence Avenue, SW, Washington, DC 20250-0517; telephone (202) 720-5172; facsimile (202) 690-3646; e-mail 
+                        <E T="03">StevePeterson@wdc.fsa.usda.gov.</E>
+                    </P>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <HD SOURCE="HD1">Executive Order 12866 </HD>
+                <P>This rule is issued in conformance with Executive Order 12866 and has been determined to be economically significant and therefore has been reviewed by the Office of Management and Budget (OMB). A summary of the Cost-Benefit Assessment follows the Background section. </P>
+                <HD SOURCE="HD1">Regulatory Flexibility Act </HD>
+                <P>It has been determined that the Regulatory Flexibility Act is not applicable to this rule because neither FSA nor the CCC is required by 5 U.S.C. 533 or any other provision of law to publish a notice of proposed rulemaking with respect to the subject matter of this rule. </P>
+                <HD SOURCE="HD1">Environmental Evaluation </HD>
+                <P>It has been determined by an environmental evaluation that this action will have no significant impact on the quality of the human environment. Therefore, neither an environmental assessment nor an environmental impact statement is needed. </P>
+                <HD SOURCE="HD1">Executive Order 12988 </HD>
+                <P>The rule has been reviewed in accordance with Executive Order 12988. The provisions of this rule preempt State laws to the extent such laws are inconsistent with the provisions of this rule. Before any judicial action may be brought concerning the provisions of this rule, the administrative remedies must be exhausted. </P>
+                <HD SOURCE="HD1">Executive Order 12372 </HD>
+                <P>This program is not subject to the provisions of Executive Order 12372, which require intergovernmental consultation with State and local officials. See the Notice related to 7 CFR Part 3015, subpart V, published at 49 FR 29115 (June 24, 1983). Unfunded Mandates Reform Act of 1995 (UMRA) </P>
+                <P>This rule contains no Federal mandates under the regulatory provisions of Title II of the UMRA for State, local, and tribal governments or the private sector. Thus, this rule is not subject to the requirements of sections 202 and 205 of the UMRA. </P>
+                <HD SOURCE="HD1">Paperwork Reduction Act </HD>
+                <P>
+                    This rule amends current regulations to reference changes to NAP made by amendments to section 196 of the Federal Agriculture Improvement and Reform Act of 1996 (1996 Act). The Paperwork Reduction Act generally requires a 60-day public comment period and OMB review of the information collections before regulations may be promulgated. However, section 161 of the 1996 Act provided that the Secretary issue regulations without regard to the Paperwork Reduction Act. A separate notice announcing a 60-day comment period will be published and OMB approval sought under the provisions of 44 U.S.C. chapter 35. 
+                    <PRTPAGE P="12447"/>
+                </P>
+                <HD SOURCE="HD1">Executive Order 12612 </HD>
+                <P>It has been determined that this rule does not have sufficient Federalism implications to warrant the preparations of a Federalism Assessment. The provisions contained in this rule will not have a substantial direct effect on States or their political subdivisions, or on the distribution of power and responsibilities among the various levels of Government. </P>
+                <HD SOURCE="HD1">Federal Assistance Programs </HD>
+                <P>This program is listed in the Catalog of Federal Domestic Assistance under No. 10.450. </P>
+                <HD SOURCE="HD1">Background </HD>
+                <P>This rule re-writes, in their entirety, the Noninsured Crop Disaster Assistance Program (NAP) regulations to improve the overall administration of the program and to conform with statutory amendments to section 196 of the Federal Agriculture Improvement and Reform Act of 1996 made in section 109 of the Agricultural Risk Protection Act of 2000 (Pub. L. 106-224; June 20, 2000) (âARPA 2000â). Section 171(b)(2)(g) of ARPA 2000 specified that the amendments to NAP would not be effective until the 2001 crop year. Also, prior to enactment of ARPA 2000, section 101 of the Omnibus Consolidated Appropriations Act, 2000 (Pub. L. 106-113; November 29, 1999) provided that beginning with the 1999 crop year CCC should provide up to $20 million to eligible producers without regard to the regulatory requirement for area crop losses. CCC put into place procedures to identify and provide assistance to producers who would have been eligible for assistance if not for the area crop loss requirement. </P>
+                <P>The changes made to NAP by ARPA 2000 were significant and involved major changes in the way producers will qualify or retain eligibility for NAP. There, the NAP statute was amended to remove the area crop loss requirement entirely. In addition, the statute has been amended to require an application and collection of a service fee. Producers now must apply for NAP no later than the application closing date announced by the Secretary. Additionally, producers must now pay a service fee of $100 per crop per administrative county, or $300 per producer per administrative county, up to a maximum, for all counties for the producer, of $900. Service fees for limited resource producers may be waived. CCC will use the definition of limited resource farmer provided in FCIC regulations found at 7 CFR 457.8 for the purpose of defining limited resource producers. Typically, under current regulations, limited resource producers have an annual gross income of $20,000 or less from all sources for the last 2 years, or farm less than 25 acres with most of their income of $20,000 or less per year coming from farming. This criteria, for NAP purposes, is subject to change as 7 CFR 457.8 is amended. Because of the timing involved, for certain 2001 and 2002 crops, special time periods have been created for submission of the application for NAP coverage and service fees. To maintain eligibility for 2001 and 2002 crops, producers who otherwise would be late in filing the application must apply and pay the service fee within 30 days of publication of this rule. NAP continues to require crop reporting as a condition of eligibility. Every year producers must provide records of crop acreage, yields, and production. </P>
+                <P>As a condition of eligibility, NAP benefits are earned only when a loss or prevented planting occur as a result of an eligible loss condition (disaster) as opposed to some other reason. It is a producer's responsibility to show that the producer's claimed loss or prevented planting was the result of an eligible cause. Accordingly, for clarification purposes, this rule better describes (without any change to policy) those loss conditions and crops for which benefits under this part might be exacted. For example, a definition of âcontrolled environmentâ has been added; the definition of ânatural disasterâ has been removed and the term is discussed under Â§â1437.9 âCauses of Loss;â sections were added discussing several crops for which coverage is available; and generally, language in various sections have been amended for clarity. Effective for the 2002 and succeeding crop years the exclusion of unseeded forage on Federal- and State-owned land as an eligible crop is removed. </P>
+                <HD SOURCE="HD1">Cost-Benefit Assessment </HD>
+                <P>NAP expenditures for crop years 1996 through 1998 averaged about $43 million per year. Outlays generally occur in the fiscal year following the crop year. The President's budget baseline (prior to enactment of Public Law 106-224) assumed the NAP program would cost $90 million each year. Outlays have never reached that expectation, in part due to generally favorable weather conditions throughout the U.S. and to the reluctance of producers to report acreage and production when the area loss threshold had not been triggered. But that very reluctance to report makes it difficult for the area loss threshold to trigger. </P>
+                <P>The 2000 Act, by removing the area trigger requirement, removed this impediment. That is, if a producer has the requisite crop loss (50 percent or more), the producer will be eligible to receive NAP benefits. The producer no longer has to farm in an area where the yield for the crop had to fall below 65 percent of the expected area yield to receive a payment. </P>
+                <P>Participation in the 1999 Crop Disaster Program (CDP) provides some insight into the cost of the NAP program. The CDP provided payments to producers who suffered a 35-percent crop loss. Eligible crops include insurable crops (crops eligible for crop insurance) and non-insurable crops (crops eligible for NAP). Total claims for the CDP program were about $2 billion (before application of the payment limit and before the national factor). Out of the $2 billion, about $375 million was paid out for crops that are eligible for NAP; the remaining funds went to crops that were eligible for crop insurance. </P>
+                <P>The CDP paid producers for quantity losses in excess of 35 percent at 65 percent of the market price. The NAP program pays producers for quantity losses in excess of 50 percent at 55 percent of the market price. When the CDP applications were screened for those producers meeting the more restrictive loss requirements and adjustments were made in the payment rates, the $375 million in benefits for non-insured crops under CDP dropped to about $150 million under the NAP. </P>
+                <P>The number of NAP participants ranged from a low of about 6,500 in 1997 to a high of over 25,000 in 1996. More than 50,000 producers received CDP benefits for crops eligible for NAP. Each producer received, on average, payments for about two crops. If 75,000 producers were to enroll in the new NAP, averaging two crops per producer, about $15 million would be collected annually in service fees. </P>
+                <P>The total cost of NAP would be $147 million annually ($162 million in benefits less the $15 million in service fees). Compared with projected NAP outlays in the President's Budget of $90 million, CCC outlays would increase by $57 million annually. Compared with average NAP outlays of $43 million in fiscal years 1997 to 1999, CCC outlays would increase by $104 million annually. The outlays would partially offset lower income due to the weather-related crop losses. Farm income would increase by a like amount. </P>
+                <P>
+                    The above cost projections assume that unseeded forage on Federal and State lands is eligible for NAP benefits. 
+                    <PRTPAGE P="12448"/>
+                    It is estimated that 62 million acres of unseeded forage on Federal and State lands would become eligible under the new rule. If 10 percent of these acres could not be grazed due to a natural disaster, CCC outlays would increase by $12 million. 
+                </P>
+                <P>This rule is issued as an interim rule and will be effective while comments are being received. As this rule implements provisions of the Federal Agriculture Improvement and Reform Act of 1996, section 161 of that Act exempts this rule from prior comment. Likewise section 172 of ARPA 2000 suggests quick implementation. Delay in implementing the new statutory law would be contrary to the public interest and law. Likewise, as to 5 U.S.C. 808 it has been determined for the same reasons that a lay-over for Congressional review would be contrary to public interest. Similarly, for those amendments not compelled by recent statutory changes, the improvement of the program should benefit the overall administration of the program and corrections based on comments can be made as needed. Accordingly, it has been determined that it would be contrary to the public interest to withhold those changes and those changes likewise are made effective immediately. All of the corrections and amendments are set out in the full text of 7 CFR part 1437 in this interim rule. Comments, favorable and unfavorable, are solicited on all aspects of the rule. </P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 7 CFR Part 1437 </HD>
+                    <P>Agricultural commodities, Disaster Assistance, Reporting and record keeping requirements.</P>
+                </LSTSUB>
+                  
+                <REGTEXT TITLE="7" PART="1437">
+                    <AMDPAR>For the reasons set out above, 7 CFR part 1437 is revised to read as follows: </AMDPAR>
+                    <PART>
+                        <HD SOURCE="HED">PART 1437âNONINSURED CROP DISASTER ASSISTANCE PROGRAM</HD>
+                        <CONTENTS>
+                            <SUBPART>
+                                <HD SOURCE="HED">Subpart AâGeneral Provisions </HD>
+                                <SECHD>Sec. </SECHD>
+                                <SECTNO>1437.1</SECTNO>
+                                <SUBJECT>Applicability. </SUBJECT>
+                                <SECTNO>1437.2</SECTNO>
+                                <SUBJECT>Administration. </SUBJECT>
+                                <SECTNO>1437.3</SECTNO>
+                                <SUBJECT>Definitions. </SUBJECT>
+                                <SECTNO>1437.4</SECTNO>
+                                <SUBJECT>Eligibility. </SUBJECT>
+                                <SECTNO>1437.5</SECTNO>
+                                <SUBJECT>Coverage period. </SUBJECT>
+                                <SECTNO>1437.6</SECTNO>
+                                <SUBJECT>Application for coverage and service fee. </SUBJECT>
+                                <SECTNO>1437.7</SECTNO>
+                                <SUBJECT>Records. </SUBJECT>
+                                <SECTNO>1437.8</SECTNO>
+                                <SUBJECT>Unit division. </SUBJECT>
+                                <SECTNO>1437.9</SECTNO>
+                                <SUBJECT>Causes of loss. </SUBJECT>
+                                <SECTNO>1437.10</SECTNO>
+                                <SUBJECT>Notice of loss and application for payment. </SUBJECT>
+                                <SECTNO>1437.11</SECTNO>
+                                <SUBJECT>Average market price and payment factors. </SUBJECT>
+                                <SECTNO>1437.12</SECTNO>
+                                <SUBJECT>Crop definition. </SUBJECT>
+                                <SECTNO>1437.13</SECTNO>
+                                <SUBJECT>Multiple benefits. </SUBJECT>
+                                <SECTNO>1437.14</SECTNO>
+                                <SUBJECT>Payment and income limitations. </SUBJECT>
+                                <SECTNO>1437.15</SECTNO>
+                                <SUBJECT>Miscellaneous provisions. </SUBJECT>
+                            </SUBPART>
+                            <SUBPART>
+                                <HD SOURCE="HED">Subpart BâDetermining Yield Coverage Using Actual Production History </HD>
+                                <SECTNO>1437.101</SECTNO>
+                                <SUBJECT>Actual production history. </SUBJECT>
+                                <SECTNO>1437.102</SECTNO>
+                                <SUBJECT>Yield determinations. </SUBJECT>
+                                <SECTNO>1437.103</SECTNO>
+                                <SUBJECT>Determining payments for low yield. </SUBJECT>
+                                <SECTNO>1437.104</SECTNO>
+                                <SUBJECT>Honey. </SUBJECT>
+                                <SECTNO>1437.105</SECTNO>
+                                <SUBJECT>Maple sap. </SUBJECT>
+                                <SECTNO>1437.106-1437.200</SECTNO>
+                                <SUBJECT>[Reserved] </SUBJECT>
+                            </SUBPART>
+                            <SUBPART>
+                                <HD SOURCE="HED">Subpart CâDetermining Coverage for Prevented Planted Acreage </HD>
+                                <SECTNO>1437.201</SECTNO>
+                                <SUBJECT>Prevented planting acreage. </SUBJECT>
+                                <SECTNO>1437.202</SECTNO>
+                                <SUBJECT>Determining payments for prevented planting. </SUBJECT>
+                                <SECTNO>1437.203-1437.300</SECTNO>
+                                <SUBJECT>[Reserved] </SUBJECT>
+                            </SUBPART>
+                            <SUBPART>
+                                <HD SOURCE="HED">Subpart DâDetermining Coverage Using Value </HD>
+                                <SECTNO>1437.301</SECTNO>
+                                <SUBJECT>Value loss. </SUBJECT>
+                                <SECTNO>1437.302</SECTNO>
+                                <SUBJECT>Determining payments. </SUBJECT>
+                                <SECTNO>1437.303</SECTNO>
+                                <SUBJECT>Aquaculture, including ornamental fish. </SUBJECT>
+                                <SECTNO>1437.304</SECTNO>
+                                <SUBJECT>Floriculture. </SUBJECT>
+                                <SECTNO>1437.305</SECTNO>
+                                <SUBJECT>Ornamental nursery. </SUBJECT>
+                                <SECTNO>1437.306</SECTNO>
+                                <SUBJECT>Christmas tree crops. </SUBJECT>
+                                <SECTNO>1437.307</SECTNO>
+                                <SUBJECT>Mushrooms. </SUBJECT>
+                                <SECTNO>1437.308</SECTNO>
+                                <SUBJECT>Ginseng. </SUBJECT>
+                                <SECTNO>1437.309</SECTNO>
+                                <SUBJECT>Turfgrass sod. </SUBJECT>
+                                <SECTNO>1437.310-1437.400</SECTNO>
+                                <SUBJECT>[Reserved] </SUBJECT>
+                            </SUBPART>
+                            <SUBPART>
+                                <HD SOURCE="HED">Subpart EâDetermining Coverage of Forage Intended for Animal Consumption </HD>
+                                <SECTNO>1437.401</SECTNO>
+                                <SUBJECT>Forage. </SUBJECT>
+                                <SECTNO>1437.402</SECTNO>
+                                <SUBJECT>Carrying capacity. </SUBJECT>
+                                <SECTNO>1437.403</SECTNO>
+                                <SUBJECT>Determining payments. </SUBJECT>
+                                <SECTNO>1437.404</SECTNO>
+                                <SUBJECT>Information collection requirements under the Paperwork Reduction Act; OMB control number.</SUBJECT>
+                            </SUBPART>
+                        </CONTENTS>
+                        <AUTH>
+                            <HD SOURCE="HED">Authority:</HD>
+                            <P>
+                                15 U.S.C. 714 
+                                <E T="03">et seq.</E>
+                                ; and 7 U.S.C. 7333. 
+                            </P>
+                        </AUTH>
+                        <SUBPART>
+                            <HD SOURCE="HED">Subpart AâGeneral Provisions </HD>
+                            <SECTION>
+                                <SECTNO>Â§â1437.1</SECTNO>
+                                <SUBJECT>Applicability. </SUBJECT>
+                                <P>(a) The Noninsured Crop Disaster Assistance Program (NAP) is intended to provide eligible producers of eligible crops coverage equivalent to the catastrophic risk protection level of crop insurance. NAP is designed to help reduce production risks faced by producers of commercial crops or other agricultural commodities. NAP will reduce financial losses that occur when natural disasters cause a catastrophic loss of production or where producers are prevented from planting an eligible crop. </P>
+                                <P>(b) The provisions contained in this part are applicable to eligible producers and eligible crops for which catastrophic coverage under section 508(b) the Federal Crop Insurance Act (7 U.S.C. 1508(b)), as amended, or its successors, is not available. </P>
+                                <P>(c) The regulations of this part are applicable to the 2001 and subsequent crop years. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.2</SECTNO>
+                                <SUBJECT>Administration. </SUBJECT>
+                                <P>(a) NAP is administered under the general supervision of the Executive Vice-President, CCC (who also serves as Administrator, Farm Service Agency), and shall be carried out by State and county FSA committees (State and county committees). </P>
+                                <P>(b) State and county committees, and representatives and their employees, do not have authority to modify or waive any of the provisions of the regulations of this part. </P>
+                                <P>(c) The State committee shall take any action required by the regulations of this part that the county committee has not taken. The State committee shall also: </P>
+                                <P>(1) Correct, or require a county committee to correct, any action taken by such county committee that is not in accordance with the regulations of this part; or </P>
+                                <P>(2) Require a county committee to withhold taking any action that is not in accordance with this part. </P>
+                                <P>(d) No provision or delegation to a State or county committee shall preclude the Executive Vice-President, CCC, or a designee, from determining any question arising under the program or from reversing or modifying any determination made by a State or county committee. </P>
+                                <P>(e) The Deputy Administrator may authorize State and county committees to waive or modify deadlines (except statutory deadlines) in cases where lateness to file does not adversely affect operation of the program. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.3</SECTNO>
+                                <SUBJECT>Definitions. </SUBJECT>
+                                <P>The definitions and program parameters set out in this section shall be applicable for all purposes of administering the Noninsured Crop Disaster Assistance Program provided for in this part. Although the terms defined in part 718 of this title and part 1400 of this chapter shall also be applicable, the definitions set forth in this section shall govern for all purposes of administering the Program. </P>
+                                <P>
+                                    <E T="03">Actual Production History (APH)</E>
+                                     means the farm's operative production history established in accordance with subpart B of this part. 
+                                </P>
+                                <P>
+                                    <E T="03">Administrative county office</E>
+                                     means the county FSA office designated to make determinations, handle official records, and issue payments for the producer in accordance with 7 CFR part 718. 
+                                </P>
+                                <P>
+                                    <E T="03">Animal Unit Days (AUD)</E>
+                                     means an expression of expected or actual stocking rate for pasture or forage. 
+                                </P>
+                                <P>
+                                    <E T="03">Application Closing Date</E>
+                                     means the last date, as determined by CCC, producers can submit an application for coverage for noninsured crops for the specified crop year. 
+                                </P>
+                                <P>
+                                    <E T="03">Catastrophic coverage</E>
+                                     means a catastrophic risk protection (CAT) level 
+                                    <PRTPAGE P="12449"/>
+                                    of crop insurance available in accordance with section 508(b) of the Federal Crop Insurance Act, as amended. 
+                                </P>
+                                <P>
+                                    <E T="03">Catastrophic loss</E>
+                                     meansâ 
+                                </P>
+                                <P>(1) Loss, as the result of an eligible cause of loss, that entails as determined by CCC: </P>
+                                <P>(i) Prevented planting of greater than 35 percent of the intended crop acreage; a yield loss of greater than 50 percent of the approved yield; or value loss of greater than 50 percent of the pre-disaster value; or </P>
+                                <P>(ii) AUD loss of greater than 50 percent of the expected AUD. </P>
+                                <P>(2)The quantity will not be reduced for any quality consideration unless a zero value is established. </P>
+                                <P>
+                                    <E T="03">Controlled environment</E>
+                                     means, with respect to those crops for which a controlled environment is expected to be provided, including but not limited to ornamental nursery, aquaculture (including ornamental fish), and floriculture, an environment in which everything that can practicably be controlled with structures, facilities, growing media (including but not limited to water, soil, or nutrients) by the producer, is in fact controlled by the producer. 
+                                </P>
+                                <P>
+                                    <E T="03">Crop year</E>
+                                     means the calendar year in which the crop is normally harvested or in which the majority of the crop would have been harvested. For value loss and other specific commodities, see the applicable subpart and section of this part. For crops for which catastrophic coverage is available, the crop year will be as defined by such coverage. 
+                                </P>
+                                <P>
+                                    <E T="03">Fiber</E>
+                                     means a slender and greatly elongated natural plant filament, e.g. cotton, flax, etc. used in manufacturing, as determined by CCC. 
+                                </P>
+                                <P>
+                                    <E T="03">Final planting date</E>
+                                     means the date which marks the end of the planting period for the crop and in particular the last day, as determined by CCC, the crop can be planted to reasonably expect to achieve 100 percent of the expected yield in the intended harvest year or planting period. 
+                                </P>
+                                <P>
+                                    <E T="03">Food</E>
+                                     means a material consisting essentially of protein, carbohydrates, and fat used in the body to sustain growth, repair, and vital processes including the crops used for the preparation of food, as determined by CCC. 
+                                </P>
+                                <P>
+                                    <E T="03">Good farming practices</E>
+                                     means the cultural practices generally used for the crop to make normal progress toward maturity and produce at least the individual unit approved yield. These practices are normally those recognized by Cooperative State Research, Education, and Extension Service as compatible with agronomic and weather conditions. 
+                                </P>
+                                <P>
+                                    <E T="03">Harvested</E>
+                                     means the producer has removed the crop from the field by hand, mechanically, or by grazing of livestock. The crop is considered harvested once it is removed from the field and placed in a truck or other conveyance or is consumed through the act of grazing. Crops normally placed in a truck or other conveyance and taken off the crop acreage, such as hay are considered harvested when in the bale, whether removed from the field or not. 
+                                </P>
+                                <P>
+                                    <E T="03">Industrial crop</E>
+                                     means a commercial crop, or other agricultural commodity utilized in manufacturing. Industrial crops include caster beans, chia, crambe, crotalaria, cuphea, guar, guayule, hesperaloe, kenaf, lesquerella, meadowfoam, milkweed, plantago, ovato, sesame and other crops specifically designated by CCC. 
+                                </P>
+                                <P>
+                                    <E T="03">Intended Use</E>
+                                     means for a crop or a commodity, the end use for which it is grown and produced. 
+                                </P>
+                                <P>
+                                    <E T="03">Multiple planted</E>
+                                     means the same crop is planted and harvested during two or more distinct planting periods in the same crop year, as determined by CCC. 
+                                </P>
+                                <P>
+                                    <E T="03">Normal harvest date</E>
+                                     means the date harvest of the crop is normally completed in the administrative county, as determined by CCC. 
+                                </P>
+                                <P>
+                                    <E T="03">Seed crop</E>
+                                     means propagation stock commercially produced for sale as seed stock for eligible crops. 
+                                </P>
+                                <P>
+                                    <E T="03">Seeded forage</E>
+                                     means forage on acreage mechanically seeded with forage vegetation at regular intervals, at least every 7 years, in accordance with good farming practices. 
+                                </P>
+                                <P>
+                                    <E T="03">T-Yield</E>
+                                     means the yield which is based on the county expected yield of the crop for the crop year and is used on an adjusted or unadjusted basis to calculate the approved yield for crops covered under the NAP when less than four years of actual, assigned, or appraised yields are available in the APH data base. 
+                                </P>
+                                <P>
+                                    <E T="03">Transitional yield</E>
+                                     means an estimated yield of that name provided in the Federal Crop Insurance Corporation (FCIC) actuarial table which is used to calculate an average/approved APH yield for crops insured under the Federal Crop Insurance Act when less than four years of actual, temporary, and/or assigned yields are available on a crop by county basis. 
+                                </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.4</SECTNO>
+                                <SUBJECT>Eligibility. </SUBJECT>
+                                <P>(a) Noninsured crop disaster assistance for low yield or prevented planting is available to producers of eligible commercial crops or other agricultural commodities, as determined by CCC, for which: </P>
+                                <P>(1) Catastrophic coverage is not available; or </P>
+                                <P>(2) Catastrophic coverage is available in the administrative county, however, the eligible commercial crop or other agricultural commodity is affected by an eligible cause of loss, as determined by CCC, that is not covered by the catastrophic coverage. </P>
+                                <P>(b) Noninsured crop disaster assistance for low yields or prevented planting is available only when loss of the crop occurs as a result of an eligible cause of loss, as determined by CCC. </P>
+                                <P>(c) When other conditions are met, NAP may be available for an eligible loss of: </P>
+                                <P>(1) Any commercial crop grown for food, excluding livestock and their by-products; </P>
+                                <P>(2) Any commercial crop planted and grown for livestock consumption, including but not limited to grain and forage crops; except for the 2001 and preceding crop years assistance for forage produced on Federal- and State-owned lands is available only for seeded forage. </P>
+                                <P>(3) Any commercial crop grown for fiber, excluding trees grown for wood, paper, or pulp products; and </P>
+                                <P>(4) Any commercial production of: </P>
+                                <P>(i) Aquacultural species (including ornamental fish); </P>
+                                <P>(ii) Floricultural crops; </P>
+                                <P>(iii) Ornamental nursery plants; </P>
+                                <P>(iv) Christmas tree crops; </P>
+                                <P>(v) Turfgrass sod; </P>
+                                <P>(vi) Industrial crops; and </P>
+                                <P>(vii) Seed crops. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.5</SECTNO>
+                                <SUBJECT>Coverage period. </SUBJECT>
+                                <P>(a) The coverage period is the time during which coverage is available against loss of production of the eligible crop as a result of natural disaster. </P>
+                                <P>(b) The coverage period for annual crops, including annual forage crops, begins the later of 30 calendar days after the date the application for coverage is filed; or the date the crop is planted, not to exceed the final planting date; and ends on the earlier of the date harvest is complete; the normal harvest date of the crop in the area; the date the crop is abandoned; or the date the crop is destroyed. </P>
+                                <P>(c) Except as otherwise specified in this part, the coverage period for biennial and perennial crops begins 30 calendar days after the application closing date; and ends as determined by CCC. </P>
+                                <P>
+                                    (d) Except as otherwise specified in this part, the coverage period for value loss crops, including ornamental nursery, aquaculture, Christmas tree crops, ginseng, and turfgrass sod; and other eligible crops, including 
+                                    <PRTPAGE P="12450"/>
+                                    floriculture and mushrooms begins 30 calendar days after the application closing date; and ends the last day of the crop year, as determined by CCC. 
+                                </P>
+                                <P>(e) The coverage period for honey begins 30 calendar days after the application closing date and ends the last day of the crop year, as determined by CCC. </P>
+                                <P>(f) The coverage period for maple sap begins 30 calendar days after the application closing date and ends on the earlier of the date harvest is complete; or the normal harvest date. </P>
+                                <P>(g) For biennial and perennial forage crops the coverage period begins the later of 30 calendar days after the application closing date; for first year seedings, the date the crop was planted; or the date following the normal harvest date. The coverage ends on the normal harvest date of the subsequent year. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.6</SECTNO>
+                                <SUBJECT>Application for coverage and service fee.</SUBJECT>
+                                <P>(a) With respect to each crop, commodity or acreage, producers must file an application for coverage under this part no later than the application closing date. </P>
+                                <P>(b) The service fee must be paid at the time of the application. The service fee is $100 per crop per administrative county, up to $300 per producer per administrative county, but not to exceed $900 per producer. </P>
+                                <P>(c) The service fee will be applied per administrative county by crop definition and planting period, as determined by CCC. </P>
+                                <P>(d) Limited resource farmers may request that the service fee be waived and must request such a waiver prior to, or at the same time the application for coverage is filed. For this purpose, a âlimited resource farmerâ shall be given the meaning assigned by 7 CFR 457.8. </P>
+                                <P>(e) For 2001 and 2002 crops for which the application closing date would normally have been established prior to March 19, 2002, or established within 60 calendar days after March 19, 2002, producers must within 30 calendar days after March 19, 2002: </P>
+                                <P>(1) Submit a 2001 or 2002 crop application for coverage, as applicable, and pay the applicable service fee; and </P>
+                                <P>(2) Certify the 2000 and 2001 crop year production for the crop, if applicable. </P>
+                                <P>(f) For 2001 and 2002 crops which have suffered damage or loss, producers must, in addition to paragraph (e)(1) of this section, have complied with all requirements of this part prior to its revision on March 19, 2002, (and contained in the 7 CFR, parts 1200 to 1599, edition revised as of January 1, 2002) including having filed a timely: </P>
+                                <P>(1) Report of acreage; </P>
+                                <P>(2) Notice of loss; and </P>
+                                <P>(3) Application for payment. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.7</SECTNO>
+                                <SUBJECT>Records. </SUBJECT>
+                                <P>(a) Producers must maintain records of crop acreage, acreage yields, and production for the crop for which an application for coverage is filed in accordance with Â§â1437.5. For those crops or commodities for which it is impractical, as determined by CCC, to maintain crop acreage, yields or production, producers must maintain records, in addition to the available records required by this section, as may be required in subparts C, D and E, of this part. Producers must retain records of the production and acreage yield for a minimum of 3 years for each crop for which an application for coverage is filed in accordance with Â§â1437.6. Producers may be selected on a random or targeted basis and be required to provide records acceptable to CCC to support the certification provided. For each crop for which producers file an application for payment in accordance with Â§â1437.10 that is harvested, producers must provide documentary evidence of production, acceptable to CCC, and the date harvest was completed. Such documentary evidence must be filed not later than the application closing date for the crop in the subsequent crop year. Records of a previous crop year's production for inclusion in the actual production history database used to calculate an approved yield for the current crop year must be certified by the producer no later than the application closing date for the crop in the current crop year. Production data provided after the application closing date in the current crop year for the crop may be included in the actual production history data base for the calculation of subsequent approved yield calculations if accompanied by acceptable records of production as determined by CCC. Records of production acceptable to CCC may include: </P>
+                                <P>(1) Commercial receipts, settlement sheets, warehouse ledger sheets, or load summaries if the eligible crop was sold or otherwise disposed of through commercial channels provided the records are reliable or verifiable as determined by CCC; and </P>
+                                <P>(2) Such documentary evidence such as contemporaneous measurements, truck scale tickets, and contemporaneous diaries, as is necessary in order to verify the information provided if the eligible crop has been fed to livestock, or otherwise disposed of other than through commercial channels, provided the records are reliable or verifiable as determined by CCC. If the crop will be disposed of through retail sales, such as: roadside stands, u-pick, etc. and the producer will not be able to certify acceptable records of production, the producer must request an appraisal of the unit acreage prior to harvest of the crop acreage. </P>
+                                <P>(b) Producers must provide verifiable evidence, as determined by CCC, of: </P>
+                                <P>(1) An interest in the commodity produced or control of the crop acreage on which the commodity was grown at the time of disaster; and </P>
+                                <P>(2) The authority of the applicable individual to execute program documents. </P>
+                                <P>(c) Reports of acreage planted or intended but prevented from being planted must be provided to CCC at the administrative FSA office for the acreage no later than the date specified by CCC for each crop and location. Reports of acreage filed beyond the date specified by CCC for the crop and location may, however, be considered timely filed if all the provisions of 7 CFR 718.103 are met. In the case of a crop-share arrangement, all producers will be bound by the acreage report filed by the landowner or operator unless the producer files a separate acreage report prior to the date specified by CCC for the crop and location. Reports of acreage planted or intended and prevented from being planted must include all of the following information: </P>
+                                <P>(1) Number of acres of the eligible crop in the administrative county (for each planting in the event of multiple planting) in which the producer has a share; </P>
+                                <P>(2) Zero acres planted when the producer's crop for which an application for coverage was filed, is not planted; </P>
+                                <P>(3) The producer's share of the eligible crop at the time an application for coverage was filed; </P>
+                                <P>(4) The FSA farm serial number; </P>
+                                <P>(5) The identity of the crop, practices, intended uses, and for forage crops, the predominant species or type and variety of the vegetation; </P>
+                                <P>(6) The identity of all producers sharing in the crop; </P>
+                                <P>(7) The date the crop was planted or planting was completed, including the age of the perennial crops; and </P>
+                                <P>(8) The acreage intended but prevented from being planted. </P>
+                                <P>
+                                    (d) Producers receiving a guaranteed payment for planted acreage, as opposed to receiving a payment only upon delivery of the production must provide documentation of any written or verbal contract or arrangement with the buyer to CCC. Net production, as determined 
+                                    <PRTPAGE P="12451"/>
+                                    by CCC, may be adjusted upward by the amount of production corresponding to the amount of the contract payment received. 
+                                </P>
+                                <P>(e) Producers must provide documentation of any salvage value received by or made available for the quantity of the crop or commodity that cannot be marketed or sold in any market, as determined by CCC and any value received by or made available for a secondary use of the crop or commodity. </P>
+                                <P>(f) Producers requesting payment under this part must maintain records which substantiate gross revenue for the tax year preceding the crop year for which coverage is requested. </P>
+                                <P>(g) Producers requesting a waiver of service fees as a limited resource producer must maintain records which substantiate annual gross income for the two tax years preceding the crop year for which coverage is requested. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.8</SECTNO>
+                                <SUBJECT>Unit division. </SUBJECT>
+                                <P>Except as determined by CCC, a unit shall be all acreage of the eligible crop in the administrative county operated by the same producer(s). In cases where the owners of land are also producers, units shall be further divided based on ownership interest of the land. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.9</SECTNO>
+                                <SUBJECT>Causes of loss. </SUBJECT>
+                                <P>(a) To be eligible for benefits under this part, crops must be damaged or prevented from being planted by drought, flood or other natural disasters and conditions related thereto. Not all named perils are eligible causes of loss for all crops. Eligible causes of loss include: </P>
+                                <P>(1) Damaging weather occurring prior to or during harvest, including but not limited to drought, hail, excessive moisture, freeze, tornado, hurricane, excessive wind, or any combination thereof; </P>
+                                <P>(2) Adverse natural occurrence occurring prior to or during harvest, such as earthquake, flood, or volcanic eruption; and </P>
+                                <P>(3) A related condition, including but not limited to heat, insect infestation, or disease, which occurs as a result of an adverse natural occurrence or damaging weather occurring prior to or during harvest, that directly causes, accelerates, or exacerbates the destruction or deterioration of an eligible crop, as determined by the Secretary. </P>
+                                <P>(b) Ineligible causes of loss include but are not limited to: </P>
+                                <P>(1) Factors or circumstances that are not the result of an eligible cause of loss affecting specific crop or commodity; </P>
+                                <P>(2) The negligence or malfeasance of the producer; </P>
+                                <P>(3) The failure of the producer to reseed to the same crop in those areas and under such circumstances where it is customary to reseed; </P>
+                                <P>(4) Failure of the producer to follow good farming practices, as determined by CCC; </P>
+                                <P>(5) Water contained or released by any governmental, public, or private dam or reservoir project, if an easement exists on the acreage affected for the containment or release of the water; </P>
+                                <P>(6) Failure or breakdown of irrigation equipment or facilities; or </P>
+                                <P>(7) Except for tree crops and perennials, inadequate irrigation resources at the beginning of the crop year; </P>
+                                <P>(8) A loss of inventory (or yield as applicable) of aquiculture (including ornamental fish), floriculture or ornamental nursery stemming from drought or any failure to provide water, soil, or growing media to such crop for any reason; </P>
+                                <P>(9) Any failure to provide a controlled environment or exercise good nursery practices where such controlled environment or practices are a condition of eligibility under this part. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.10 </SECTNO>
+                                <SUBJECT>Notice of loss and application for payment. </SUBJECT>
+                                <P>(a) At least one producer having a share in the unit must provide a notice of loss to CCC in the administrative FSA office for the unit, within: </P>
+                                <P>(1) For prevented planting claims, 15 calendar days after the final planting date, </P>
+                                <P>(2) For low yield claims and allowable value loss, the earlier of: </P>
+                                <P>(i) 15 calendar days after the damaging weather or adverse natural occurrence, or date loss of the crop or commodity becomes apparent for low yield claims; and </P>
+                                <P>(ii) 15 calendar days after the normal harvest date. </P>
+                                <P>(b) For each crop for which a notice of loss is filed, producers must provide the following information: </P>
+                                <P>(1) Crop by type or variety, as applicable; </P>
+                                <P>(2) The cause of the crop damage; </P>
+                                <P>(3) Date the loss occurred, as applicable; </P>
+                                <P>(4) Date the damage or loss became apparent; </P>
+                                <P>(5) The existence of a guaranteed payment through a contract or agreement for planted acreage as opposed to delivery of production, if one exists; </P>
+                                <P>(6) Type of crop loss occurred, e.g. prevented planting or low yield; </P>
+                                <P>(7) Practices employed to grow the crop, e.g. irrigated or non-irrigated; </P>
+                                <P>(8) For prevented planting: </P>
+                                <P>(i) Total acreage intended to be planted to the crop in the administrative county; </P>
+                                <P>(ii) Total acreage planted by the producer to the crop in the administrative county; </P>
+                                <P>(iii) Whether a purchase, delivery, or arrangement for purchase or delivery was made for seed, chemicals, fertilizer, etc; and </P>
+                                <P>(iv) What and when land preparation measures, e.g. cultivation, etc. were completed and indicate what has been done or will be done with the acreage, e.g. abandoned, replanted, etc. </P>
+                                <P>(9) For low yield: </P>
+                                <P>(i) Total acreage planted by the producer to the crop in the administrative county; </P>
+                                <P>(ii) Total acreage of the crop in the administrative county affected; </P>
+                                <P>(iii) What and when land preparation measures and practices, e.g. cultivation, planting, irrigated, etc. were completed before and after the loss; and </P>
+                                <P>(iv) What will be done with the affected crop acreage, e.g. harvested, destroyed and replanted to a different crop, abandoned, etc. </P>
+                                <P>(10) Any such other information requested by CCC to establish the loss. </P>
+                                <P>(c) A notice of loss provided beyond the time specified in paragraph (a) of this section may be considered timely filed if, at the discretion of CCC, provided at such time to permit an authorized CCC representative the opportunity to: </P>
+                                <P>(1) Verify the information on the notice of loss by inspection of the specific acreage or crop involved; and </P>
+                                <P>(2) Determine, based on information obtained by inspection of the specific acreage or crop involved, that an eligible cause of loss, as opposed to other circumstance, caused the claimed damage or loss. </P>
+                                <P>(d) Crop acreage that will not be harvested, i.e. acreage that is to be abandoned or destroyed or in the case of forage acreage intended to be mechanically harvested but grazed, must be left intact and producers must request, in the administrative FSA office for the acreage, a crop appraisal and release of crop acreage by a FCIC- or CCC-approved loss adjustor: </P>
+                                <P>(1) Prior to destruction or abandonment of the crop acreage; or </P>
+                                <P>(2) No later than the normal harvest date, as determined by CCC. </P>
+                                <P>(e) Producers must apply for payments prior to the earlier of the: </P>
+                                <P>(1) Date an application for coverage is filed for the crop for the subsequent crop year; or </P>
+                                <P>(2) Application closing date for the crop for the subsequent crop year. </P>
+                            </SECTION>
+                            <SECTION>
+                                <PRTPAGE P="12452"/>
+                                <SECTNO>Â§â1437.11 </SECTNO>
+                                <SUBJECT>Average market price and payment factors. </SUBJECT>
+                                <P>(a) An average market price will be used to calculate assistance under this part and will be: </P>
+                                <P>(1) A dollar value per the applicable unit of measure of the eligible crop; </P>
+                                <P>(2) Determined on a harvested basis without the inclusion of transportation, storage, processing, marketing, or other post-harvest expenses, as determined by CCC; </P>
+                                <P>(3) Comparable with established FCIC prices; and </P>
+                                <P>(4) Determined, as practicable, for each intended use of a crop within a State for a crop year. </P>
+                                <P>(b) For these purposes, where needed, an Animal-unit-days (AUD) value will be based on the national average price of corn and the daily requirement of 13.6 megacalories of net energy for maintenance of 1 animal unit. </P>
+                                <P>(c) Payment factors will be used to calculate assistance for crops produced with significant and variable harvesting expenses that are not incurred because the crop acreage was prevented planted or planted but not harvested, as determined by CCC. </P>
+                                <P>(d) An adjusted market price will be calculated based on the provisions in this section and others as may apply. A final payment price will be determined by multiplying, as appropriate, the average market price by the applicable payment factor (i.e. harvested, unharvested, or prevented planting) by 55 percent or, by multiplying the applicable AUD (as adjusted, if adjusted) by 55 percent. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.12 </SECTNO>
+                                <SUBJECT>Crop definition. </SUBJECT>
+                                <P>(a) For the purpose of providing benefits under this part, CCC will, at its discretion, define crops as specified in this section. </P>
+                                <P>(b) CCC may separate or combine types and varieties as a crop when specific credible information as determined by CCC is provided showing the crop of a specific type or variety has a significantly different or similar value when compared to other types or varieties, as determined by CCC. </P>
+                                <P>(c) CCC may recognize two or more different crops planted on the same acreage intended for harvest during the same crop year as two or more separate crops. The crop acreage may include a crop intended for harvest before planting of a succeeding crop or a succeeding crop interseeded with the preceding crop prior to intended harvest of the preceding crop. The acreage must be in an area where the practice is recognized as a good farming practice, as determined by CCC, and all crops are recognized by CCC as able to achieve the expected yield, as determined by CCC. </P>
+                                <P>(d) CCC may consider crop acreage that is harvested more than once during the same crop year from the same plant as a single crop. The acreage must be in an area where the practice is recognized as a good farming practice, as determined by CCC. </P>
+                                <P>(e) CCC may consider each planting period of multiple planted acreage as a separate crop. The acreage must be in an area where the practice is recognized as a good farming practice, as determined by CCC. </P>
+                                <P>(f) CCC may define forage as separate crops according to the intended method of harvest, either mechanical harvest or grazed. </P>
+                                <P>(g) Forage acreage intended to be grazed may be further defined as warm and cool season forage crops. </P>
+                                <P>(h) Forage acreage intended to be mechanically harvested may be defined as a separate crop from grazed forage and may be separated based upon the commodity used as forage, to the extent such separation is allowed under paragraph (b) of this section. </P>
+                                <P>(i) Crop acreage intended for the production of seed may be considered a separate crop from other intended uses, as determined by CCC, if all the following criteria apply: </P>
+                                <P>(1) The specific crop acreage is seeded, or intended to be seeded, with an intent of producing commercial seed as its primary intended use; </P>
+                                <P>(2) There is no possibility of other commercial uses of production from the same crop without regard to market conditions; and </P>
+                                <P>(3) The growing period of the specific crop acreage is uniquely conducive to the production of commercial seed and not conducive to the production of any other intended use of the crop, (e.g. vernalization in a biennial crop such as carrots and onions) and that accommodation renders the possibility of production for any other intended use of the crop improbable. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.13 </SECTNO>
+                                <SUBJECT>Multiple benefits. </SUBJECT>
+                                <P>(a) If a producer is eligible to receive payments under this part and benefits under any other program administered by the Secretary for the same crop loss, the producer must choose whether to receive the other program benefits or payments under this part, but shall not be eligible for both. The limitation on multiple benefits prohibits a producer from being compensated more than once for the same loss. </P>
+                                <P>
+                                    (b) The limitation on multiple benefits in paragraph (a) of this section shall not apply in any respect to Emergency Loans under subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 
+                                    <E T="03">et seq</E>
+                                    ). 
+                                </P>
+                                <P>(c) The restriction on multiple benefits does not relieve the producer from the requirements of making a production and acreage report. </P>
+                                <P>(d) If the other USDA program benefits are not available until after an application for benefits has been filed under this part, the producer may, to avoid this restriction on such other benefits, refund the total amount of the payment to the administrative FSA office from which the payment was received. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.14 </SECTNO>
+                                <SUBJECT>Payment and income limitations. </SUBJECT>
+                                <P>(a) NAP payments shall not be made in excess of $100,000 per person per crop year under this part. </P>
+                                <P>(b) NAP payments shall not be made to a person who has qualifying gross revenues in excess of $2 million for the most recent tax year preceding the year for which assistance is requested. Qualifying gross revenue means: </P>
+                                <P>(1) With respect to a person who receives more than 50 percent of such person's gross income from farming, ranching, and forestry operations, the annual gross income for the taxable year from such operations; and </P>
+                                <P>(2) With respect to a person who receives 50 percent or less of such person's gross income from farming, ranching, and forestry operations, the person's total gross income for the taxable year from all sources. </P>
+                                <P>(c) CCC will pay, for up to one year, simple interest on payments to producers which are delayed. Interest will be paid on the net amount ultimately found to be due, and will begin accruing on the 31st day after the date the producer signs, dates, and submits a properly completed application for payment on the designated form, or the 31st day after a disputed application is adjudicated. Interest will be paid unless the reason for failure to timely pay is due to the producer's failure to provide information or other material necessary for the computation of payment, or there was a genuine dispute concerning eligibility for payment. </P>
+                                <P>(d) Rules set out in 7 CFR part 1400 shall apply in implementing the restrictions of this section. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.15 </SECTNO>
+                                <SUBJECT>Miscellaneous provisions. </SUBJECT>
+                                <P>(a) To be eligible for benefits under this part, producers must be in compliance with the highly erodible land and wetlands provisions of part 12 of this title. </P>
+                                <P>
+                                    (b) The provisions of Â§â718.11 of this title, providing for ineligibility for 
+                                    <PRTPAGE P="12453"/>
+                                    benefits for offenses involving controlled substances, shall apply. 
+                                </P>
+                                <P>(c) A person shall be ineligible to receive assistance under this part for the crop year plus two subsequent crop years if it is determined by the State or county committee or an official of FSA that such person has: </P>
+                                <P>(1) Adopted any scheme or other device that tends to defeat the purpose of a program operated under this part; </P>
+                                <P>(2) Made any fraudulent representation with respect to such program; or </P>
+                                <P>(3) Misrepresented any fact affecting a program determination. </P>
+                                <P>(d) All amounts paid by CCC to any such producer, applicable to the crop year in which a violation of this part occurs, must be refunded to CCC together with interest and other amounts as determined appropriate to the circumstances by CCC. </P>
+                                <P>(e) All persons with a financial interest in the operation receiving benefits under this part shall be jointly and severally liable for any refund, including related charges, which is determined to be due CCC for any reason under this part. </P>
+                                <P>(f) In the event that any request for assistance or payments under this part was established as result of erroneous information or a miscalculation, the assistance or payment shall be recalculated and any excess refunded with applicable interest. </P>
+                                <P>(g) The liability of any person for any penalty under this part or for any refund to CCC or related charge arising in connection therewith shall be in addition to any other liability of such person under any civil or criminal fraud statute or any other provision of law including, but not limited to: 18 U.S.C. 286, 287, 371, 641, 651, 1001 and 1014; 15 U.S.C. 714m; and 31 U. S. C. 3729. </P>
+                                <P>(h) The appeal regulations at parts 11 and 780 of this title apply to decisions made according to this part. </P>
+                                <P>(i) Any payment or portion thereof to any person shall be made without regard to questions of title under State law and without regard to any claim or lien against the crop, or proceeds thereof. </P>
+                                <P>(j) For the purposes of 28 U.S.C. 3201(e), the Secretary hereby waives the restriction on receipt of funds or benefits under this program but only as to beneficiaries who as a condition of such waiver agree to apply the benefits to reduce the amount of the judgement lien. </P>
+                                <P>(k) The provisions of parts 1400, 1403 and 1404 of this chapter apply to NAP. </P>
+                                <P>(l) In the case of death, incompetence or disappearance of any person who is eligible to receive payments under this part, such payments will be disbursed in accordance with part 707 of this title. </P>
+                            </SECTION>
+                        </SUBPART>
+                        <SUBPART>
+                            <HD SOURCE="HED">Subpart BâDetermining Yield Coverage Using Actual Production History </HD>
+                            <SECTION>
+                                <SECTNO>Â§â1437.101 </SECTNO>
+                                <SUBJECT>Actual production history. </SUBJECT>
+                                <P>Actual production history will be used, except as otherwise indicated in this part, as the basis for providing noninsured crop disaster assistance. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.102 </SECTNO>
+                                <SUBJECT>Yield determinations. </SUBJECT>
+                                <P>(a) Payments based on yields shall be made on âapproved yieldsâ, which shall be calculated based on the producer's APH for that period up to ten years for which, of the first time such a yield is calculated, there are consecutive years, beginning with the most recent completed year, of actual production history for the producer. If there are not four such consecutive years of history (excluding years when the crop was out of rotation), then such first âapproved yieldâ shall be constructed by creating a four year history as provided for in this part. After the first such approved yield is constructed, years will be added to that history in the manner provided for in this section, dropping, as needed, previous years from the history to the extent that the current history would be a history or base of ten years. For the first approved yield, as needed to construct a four-year history, history will be supplied using T-yields, as set out in paragraph (b) of this section. </P>
+                                <P>(b) The county expected yield: </P>
+                                <P>(1) Is the âT-yieldâ for the crop, and is the Olympic average (disregarding the high and low yields) of yields in the county the 5 consecutive crop years immediately preceding the previous crop year. (Example: For the 2001 crop year, the base period would be 1995 through 1999). </P>
+                                <P>(2) Will be the same as the FCIC transitional yield if crop insurance is available for the crop, (but not necessarily for the cause of loss if excluded by policy provisions), in the administrative county. </P>
+                                <P>(3) Will be calculated so as to be comparable to the FCIC transitional yield most reasonable to the area if crop insurance was available for the crop (but not necessarily for the cause of loss) in contiguous counties, but not in the immediate county. </P>
+                                <P>(c) Available historical information will be used to establish the county expected yields. Historical information is available from sources including, but is not limited to, National Agricultural Statistics Service data, Cooperative State Research, Education, and Extension Service records, Federal Crop Insurance Data, credible non-government studies, yields in similar areas, and reported actual yield data. Such yields will be based on the acreage intended for harvest. </P>
+                                <P>(d) County expected yields may be adjusted for: </P>
+                                <P>(1) Yield variations due to different farming practices in the administrative county such as: irrigated, nonirrigated, and organic practices; and </P>
+                                <P>(2) Cultural practices, including the age of the planting when such practices are different from those used on acreage to establish the yield. </P>
+                                <P>(e) A T-yield will be used in the actual production history database when less than four consecutive crop years of actual, assigned, or zero yields, as applicable, are available. For those producers who have land physically located in multiple counties and administered out of one county office, the T-yield for all land for the producer will be based on the administrative county's expected yield for that crop. Where a four-year base must be constructed for the producer's first approved yield because the producer does not have at least four consecutive years of actual history starting with the most recent year, then: </P>
+                                <P>(1) If an approved yield had not previously been calculated for the crop and there are no production records available for the most recent crop year, or if there is no formula provided for the producer under paragraphs (e)(2) through (4) of this section, then the approved yield for the current crop year will be calculated on the simple average of 65 percent of the applicable T-yield for each of the four years of the constructed base; </P>
+                                <P>(2) If certified acceptable production records are available for only the most recent crop year and there are no zero (credited) or assigned yields in the producer's history, the approved yield for the current crop year will be calculated on the simple average of the one actual yield plus 80 percent of the applicable T-Yield for the missing crop years. </P>
+                                <P>(3) If certified acceptable production records are available for only the two most recent crop years and there are no zero (credited) or assigned yields in the APH database, the approved yield for the current crop year will be calculated on the simple average of the two actual yields plus 90 percent of the applicable T-yield for the missing years. </P>
+                                <P>
+                                    (4) If certified acceptable production records are available for only the three most recent crop years and there are no zero (credited) or assigned yields in the APH database, the approved yield will be calculated on the simple average of 
+                                    <PRTPAGE P="12454"/>
+                                    the three actual yields plus 100 percent of the applicable T-Yield for the missing year. 
+                                </P>
+                                <P>(f) CCC will reduce unadjusted T-yields placed in the actual production history database when, as determined by CCC, an unadjusted T-yield does not accurately reflect the productive capability of specific crop acreage. </P>
+                                <P>(g) An actual yield includes the total amount of harvested and appraised production on a per acre, or other basis, as applicable. </P>
+                                <P>(h) Once an approved yield has been calculated for any year, then thereafter an assigned yield will be used to update or extend the producer's actual production history (or base) database when producers fail to certify a report of production after the approved yield was calculated and the following standards shall apply: </P>
+                                <P>(1) The assigned one-year yield will be equal to 75 percent of the approved yield calculated for the most recent crop year for which producers do not certify a report of production. </P>
+                                <P>(2) Producers may have only one assigned yield in the actual production history database. </P>
+                                <P>(3) Producers may replace an assigned yield with an actual yield by providing a certification of production and production records for the applicable crop year in accordance with Â§â1437.7. </P>
+                                <P>(4) If the acreage of a crop in the administrative county in which the unit is located for the crop year increases by more than 100 percent over any year in the preceding seven crop years, or significantly from the previous crop years, as determined by CCC, producers may not receive an assigned yield and will receive a zero credited yield, unless producers provide: </P>
+                                <P>(i) Detailed documentation of production costs, acres planted, and yield for the crop year for which the producer is requesting assistance, or </P>
+                                <P>(ii) If CCC determines those records are inadequate, proof that the eligible crop, had it been harvested, could have been marketed at a reasonable price. </P>
+                                <P>(5) Notwithstanding paragraph (h)(4) of this section an assigned yield may be used if: </P>
+                                <P>(i) The planted acreage for the crop has been inspected by a third party acceptable to CCC, or </P>
+                                <P>(ii) The FSA county executive director, with the concurrence of the FSA state executive director, makes a recommendation for an exemption from the requirements and such recommendation is approved by CCC. </P>
+                                <P>(6) A zero credited yield will be used to the extent provided for in paragraph (i) of this section. </P>
+                                <P>(i) A zero credited yield will be placed in the actual production history database for each crop year, following the crop year containing an assigned yield, for which producers do not certify a report of production. A zero credited yield may be replaced with an actual yield by providing a certification of production and production records for the applicable crop year in accordance with Â§â1437.7. </P>
+                                <P>(j) An approved yield is calculated as the simple average of a minimum of four, not to exceed a maximum of 10 consecutive crop year yields for the crops, or as determined by CCC and as provided in this section. </P>
+                                <P>(1) If, for one or more actual production history crop years used to establish the approved yield, the actual or appraised yield is less than 65 percent of the current crop year T-yield due to losses incurred in a disaster year, as determined by CCC, producers may request CCC replace the applicable yield with a yield equal to 65 percent of the current crop year T-yield. </P>
+                                <P>(2) If approved yields were calculated for any of the 1995 through 2000 crop years, and subsequently in that period production was not certified, producers may request CCC replace the missing yields for such years with yields equal to the higher of 65 percent of the current crop year T-yield or the missing crop years actual yield. </P>
+                                <P>(3) If producers add land in the farming operation and do not have available production records for the added land CCC will calculate an approved yield for the new unit by utilizing the actual production history yields for the existing unit. In the event the crop suffers a loss greater than 50 percent of the initial approved yield for the crop year and unit acreage has increased by more than 75 percent of the historical average acreage, CCC may adjust the approved yield, as determined by CCC. </P>
+                                <P>(k) If a producer is a new producer, the approved yield may be based on unadjusted T-Yields or a combination of actual yields and unadjusted T-Yields. A new producer is a person who has not been actively engaged in farming for a share of the production of the eligible crop in the administrative county for more than two APH crop years. Formation or dissolution of an entity which includes individuals with more than two APH crop years of production history during the base period does not qualify the new entity as a new producer for APH determination purposes. </P>
+                                <P>(l) If producers qualify as a new producer and have produced the crop for 1 or 2 crop years, producers must provide to CCC at the administrative FSA office serving the area in which the crop is located, a certification and records of production for those crop years. </P>
+                                <P>(m) Further adjustments may be made as necessary to accomplish the purposes of this program. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.103 </SECTNO>
+                                <SUBJECT>Determining payments for low yield. </SUBJECT>
+                                <P>(a) Except to the extent that the loss calculation provisions of other subparts apply, and subject to limitations set out elsewhere in this part and in this title and to the availability of funds, payments under this part shall be made on eligible crops with eligible losses by: </P>
+                                <P>(1) Multiplying the total eligible acreage planted to the eligible crop by the producers share, and subject to provisions for specific crops provided elsewhere in this part; </P>
+                                <P>(2) Multiplying the product of paragraph (a)(1) of this section by 50 percent of the approved yield per acre for the commodity for the producer. </P>
+                                <P>(3) Subtracting net production of the total eligible acreage from the product of paragraph (a)(2) of this section; </P>
+                                <P>(4) Multiplying the difference calculated under paragraph (a)(3) of this section by the final payment price calculated under Â§â1437.11, and then </P>
+                                <P>(5) Subtracting the value of salvage and secondary use. </P>
+                                <P>(b) Further adjustments may be made as needed to accomplish the purposes and goals of the program. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.104 </SECTNO>
+                                <SUBJECT>Honey. </SUBJECT>
+                                <P>(a) Honey production eligible for benefits under this part includes table and non-table honey produced commercially. </P>
+                                <P>(b) All of a producer's honey will be considered a single crop, regardless of type or variety of floral source or intended use. </P>
+                                <P>(c) The crop year for honey production is the calendar year, January 1 through December 31. </P>
+                                <P>(d) In addition to filing a report of acreage in accordance with Â§â1437.7, honey producers must provide a record of colonies to CCC. The report of colonies must be filed before the crop year for which producers seek to maintain coverage. The report of colonies shall include: </P>
+                                <P>(1) The address of the producer's headquarters and FSA farm serial number, if available; </P>
+                                <P>(2) Names and shares of each person sharing in the honey produced from the unit; </P>
+                                <P>
+                                    (3) The number of all colonies of bees belonging to the unit; 
+                                    <PRTPAGE P="12455"/>
+                                </P>
+                                <P>(4) The names of counties in which colonies of bees are located as of the date of the report; and </P>
+                                <P>(5) A certification of the number of colonies reported including all colonies from which production is expected. </P>
+                                <P>(e) The honey unit shall consist of all the producer's bee colonies, regardless of location. </P>
+                                <P>(f) Producers must designate a FSA office as the control office for the honey operation. Producers must complete the following actions only in the control office: </P>
+                                <P>(1) File an application for coverage; </P>
+                                <P>(2) File a report of colonies; </P>
+                                <P>(3) Report total unit production; and </P>
+                                <P>(4) Request to change a unit's control office. </P>
+                                <P>(g) Actions that may be taken in any Administrative FSA office includes: </P>
+                                <P>(1) Designating or selecting another control office; or </P>
+                                <P>(2) Filing a notice of loss in accordance with Â§â1437.10. </P>
+                                <P>(h) Producers must notify the control office designated in accordance with paragraph (f) of this section within 30 calendar days of the date of: </P>
+                                <P>(1) Any changes in the total number of colonies; and </P>
+                                <P>(2) The movement of any colonies into any additional counties. </P>
+                                <P>(i) Payments will be based on the amount of losses for this community in excess of a 50 percent loss level at a rate determined in accord with this part and the authorizing legislation. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.105 </SECTNO>
+                                <SUBJECT>Maple sap. </SUBJECT>
+                                <P>(a) NAP assistance for maple sap is limited to maple sap produced on private property for sale as sap or syrup. Eligible maple sap must be produced from trees that: </P>
+                                <P>(1) Are located on land the producer controls by ownership or lease; </P>
+                                <P>(2) Are managed for production of maple sap; </P>
+                                <P>(3) Are at least 30 years old and 12 inches in diameter; and </P>
+                                <P>(4) Have a maximum of 4 taps per tree according to the tree's diameter. </P>
+                                <P>(b) The crop year for maple sap production is the calendar year, January 1 through December 31. </P>
+                                <P>(c) If producers file an application for coverage in accordance with Â§â1437.6, tree acreage containing trees from which maple sap is produced or is to be produced must be reported to CCC no later than the beginning of the crop year. </P>
+                                <P>(d) In addition to the applicable records required under Â§â1437.7, producers must report the: </P>
+                                <P>(1) Total number of eligible trees on the unit; </P>
+                                <P>(2) Average size and age of producing trees; and </P>
+                                <P>(3) Total number of taps placed or anticipated for the tapping season. </P>
+                                <P>(e) A maximum county-expected-yield for maple sap shall be 10 gallons of sap per tap per crop year unless acceptable documentary evidence, as determined by CCC, is available to CCC to support a higher county-expected-yield. </P>
+                                <P>(f) The average market price for maple sap must be established for the value of the sap before processing into syrup. If price data is available only for maple syrup, this data must be converted to a maple sap basis. The wholesale price for a gallon of maple syrup shall be multiplied by 0.00936 to arrive at the average market price of a gallon of maple sap. </P>
+                                <P>(g) The actual production history for maple sap shall be recorded on the basis of gallons of sap per tap. </P>
+                                <P>(h) The unit's expected production is determined by: </P>
+                                <P>(1) Multiplying the number of taps placed in eligible trees; by </P>
+                                <P>(2) The approved per tap yield as determined in accordance with Â§â1437.102. </P>
+                                <P>(i) Payments will be based on the amount of losses for this community in excess of a 50 percent loss level at a rate determined in accord with this part and the authorizing legislation. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§Â§â1437.106-1437.200 </SECTNO>
+                                <SUBJECT>[Reserved] </SUBJECT>
+                            </SECTION>
+                        </SUBPART>
+                        <SUBPART>
+                            <HD SOURCE="HED">Subpart CâDetermining Coverage for Prevented Planted Acreage </HD>
+                            <SECTION>
+                                <SECTNO>Â§â1437.201 </SECTNO>
+                                <SUBJECT>Prevented planting acreage. </SUBJECT>
+                                <P>(a) Prevented planting is the inability to plant an eligible crop with proper equipment during the planting period as a result of an eligible cause of loss, as determined by CCC. </P>
+                                <P>(b) The eligible cause of loss that prevented planting must have: </P>
+                                <P>(1) Occurred after a previous planting period for the crop and </P>
+                                <P>(2) Before the final planting date for the crop in the applicable crop year or in the case of multiple plantings, the harvest date of the first planting in the applicable planting period, and </P>
+                                <P>(3) Generally affected other producers in the area, as determined by CCC. </P>
+                                <P>(c) Producers must be prevented from planting more than 35 percent of the total eligible acreage intended for planting to the eligible crop and in the case of multiple planting, more than 35 percent of the total eligible acres intended to be planted within the applicable planting period. </P>
+                                <P>(d) Eligible prevented planting acreage will be determined on the basis of the producer's intent to plant the crop acreage, and possession of, or access to, resources to plant, grow, and harvest the crop, as applicable. </P>
+                                <P>(e) Acreage ineligible for prevented planting coverage includes, but is not limited to: </P>
+                                <P>(1) Acreage which planting history or conservation plans indicate would remain fallow for crop rotation purposes; and </P>
+                                <P>(2) Acreage used for conservation purposes or intended to be or considered to have been left unplanted under any program administered by USDA, including the Conservation Reserve and Wetland Reserve Programs. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.202 </SECTNO>
+                                <SUBJECT>Determining payments for prevented planting. </SUBJECT>
+                                <P>(a) Subject to limitations, availability of funds, and specific provisions dealing with specific crops, a payment for prevented planting will be determined by: </P>
+                                <P>(1) Multiplying the producer's total eligible acreage intended for planting to the eligible crop by the producer's share; </P>
+                                <P>(2) Multiplying the product of paragraph (a)(1) of this section by 65 percent; </P>
+                                <P>(3) Subtracting the total acres planted from the product of paragraph (a)(2) of this section; </P>
+                                <P>(4) Multiplying the product of paragraph (a)(3) of this section by 50 percent of the producer's approved yield; </P>
+                                <P>(5) Multiplying the product of paragraph (a)(4) of this section by the final payment price for the producer's crop as calculated by the agency under Â§â1437.11. </P>
+                                <P>(b) Yields for purposes of paragraph (a) of this section shall be calculated in the same manner as for low-yield claims.</P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§Â§â1437.203-1437.300</SECTNO>
+                                <SUBJECT>[Reserved] </SUBJECT>
+                            </SECTION>
+                        </SUBPART>
+                        <SUBPART>
+                            <HD SOURCE="HED">Subpart DâDetermining Coverage Using Value </HD>
+                            <SECTION>
+                                <SECTNO>Â§â1437.301 </SECTNO>
+                                <SUBJECT>Value loss. </SUBJECT>
+                                <P>
+                                    (a) Special provisions are required to assess losses and calculate assistance for a few crops and commodities which do not lend themselves to yield loss situations. Assistance for these commodities is calculated based on the loss of value at the time of disaster. The agency shall determine which crops shall be treated as value-loss crops, but unless otherwise announced, such crops shall be limited to those identified in Â§Â§â1437.303 through 1437.309 as value loss crops. Lost productions of value loss crops shall be compensable only under this subpart. 
+                                    <PRTPAGE P="12456"/>
+                                </P>
+                                <P>(b) The crop year for all value loss crops is October 1 through September 30. </P>
+                                <P>(c) Producers must file an application for coverage in accordance with Â§â1437.6, and must: </P>
+                                <P>(1) Provide a report of the crop, commodity, and facility to CCC for the acreage or facility, in a form prescribed by CCC, no later than the beginning of the crop year. </P>
+                                <P>(2) Maintain a verifiable inventory of the eligible crop throughout the crop year; and </P>
+                                <P>(3) Provide an accurate accounting of the inventory, as required by CCC. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.302 </SECTNO>
+                                <SUBJECT>Determining payments. </SUBJECT>
+                                <P>Subject to all restrictions and the availability of funds, value loss payments for qualifying losses will be determined by: </P>
+                                <P>(a) Multiplying the field market value of the crop before the disaster by 50 percent; </P>
+                                <P>(b) Subtracting the sum of the field market value after the disaster and value of ineligible causes of loss from the result from paragraph (a)(1) of this section; </P>
+                                <P>(c) Multiplying the result from paragraph (a)(2) of this section by the producer's share; </P>
+                                <P>(d) Multiplying the result from paragraph (a)(3) of this section by 55 percent plus whatever factor deemed appropriate to reflect savings from non-harvesting of the damaged crop or other factors as appropriate; </P>
+                                <P>(e) Multiplying the salvage value by the producer's share; </P>
+                                <P>(f) Subtracting the result from paragraph (a)(5) of this section from the result from paragraph (a)(4) of this section. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.303 </SECTNO>
+                                <SUBJECT>Aquaculture, including ornamental fish. </SUBJECT>
+                                <P>(a) Aquaculture is a value loss crop and is compensable only in accord with restrictions set in this section. Eligible aquacultural species shall only include: </P>
+                                <P>(1) Any species of aquatic organisms grown as food for human consumption as determined by CCC. </P>
+                                <P>(2) Fish raised as feed for other fish that are consumed by humans; and </P>
+                                <P>(3) Ornamental fish propagated and reared in an aquatic medium. </P>
+                                <P>(b) The aquacultural facility must be: </P>
+                                <P>(1) A commercial enterprise on private property; </P>
+                                <P>(2) Owned or leased by the producer, with readily identifiable boundaries; and </P>
+                                <P>(3) Managed and maintained using good aquacultural growing practices. </P>
+                                <P>(c) Producers must: </P>
+                                <P>(1) Ensure adequate and proper flood prevention, growing medium, fertilization or feeding, irrigation and water quality, predator control, and disease control; and </P>
+                                <P>(2) Have control of the waterbed. </P>
+                                <P>(d) Eligible aquacultural species must be: </P>
+                                <P>(1) Placed in the facility and not be indigenous to the facility; and </P>
+                                <P>(2) Kept in a controlled environment; and </P>
+                                <P>(3) Planted or seeded in containers, wire baskets, net pens, or similar device designed for the protection and containment of the seeded aquacultural species. </P>
+                                <P>(e) In the crop year in which a notice of loss is filed, producers may be required, at the discretion of CCC, to provide evidence that the aquacultural species are produced in a facility in accordance with paragraphs (b), (c) and (d) of this section. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.304 </SECTNO>
+                                <SUBJECT>Floriculture. </SUBJECT>
+                                <P>(a) Floriculture, except for seed crops as specified in paragraph (d) of this section, is a value loss crop and is compensable only in accord with restrictions set in this section. Eligible floriculture shall be limited to commercial production of: </P>
+                                <P>(1) Field-grown flowers, including flowers grown in containers or other growing medium maintained in a field setting according to industry standards, as determined by CCC; and </P>
+                                <P>(2) Tubers and bulbs, for use as propagation stock of eligible floriculture plants; and </P>
+                                <P>(3) Seed for propagation of eligible floriculture plants. </P>
+                                <P>(b) Floriculture does not include flowering plants indigenous to the location of the floriculture facility or acreage. </P>
+                                <P>(c) Eligible floriculture must be grown in a region or controlled environment conducive to the successful production of flowers, tubers, and bulbs, as determined by CCC. </P>
+                                <P>(d) Claims on losses on the production of flower seed for propagation of eligible floriculture plants will not be treated under âvalue lossâ rules, but under the rules for normal production low yield crops under subpart B of this part. </P>
+                                <P>(e) The facility or acreage for eligible floriculture must be managed and maintained using good floriculture growing practices. At a minimum, producers are responsible for providing a controlled environment and must ensure adequate and proper fertilization, irrigation, weed control, insect and disease control, and rodent and wildlife control. </P>
+                                <P>(f) In the crop year in which a notice of loss is filed, producers may be required, at the discretion of CCC, to provide evidence the floriculture is produced in accordance with paragraph (e) of this section. </P>
+                                <P>(g) Flowers having any dollar value shall be counted as having full value for loss calculations. Damaged plants that are determined able to rejuvenate or determined to be merely stunted shall be counted as worth full value. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.305 </SECTNO>
+                                <SUBJECT>Ornamental nursery. </SUBJECT>
+                                <P>(a) Eligible ornamental nursery stock is a value loss crop and is compensable only in accord with restrictions set out in this section. Eligible ornamental nursery stock is limited to field-grown and containerized decorative plants grown in a controlled environment for commercial sale. </P>
+                                <P>(b) The property upon which the nursery stock is located must be owned or leased by the producer. </P>
+                                <P>(c) The eligible nursery stock must be placed in the ornamental nursery facility and not be indigenous to the facility. </P>
+                                <P>(d) The facility must be managed and cared for using good nursery growing practices for the geographical region. At a minimum producers must provide a controlled environment and ensure adequate and proper flood prevention, growing medium, fertilization, irrigation, insect and disease control, weed control, rodent and wildlife control, and over-winterization storage facilities. </P>
+                                <P>(e) An ornamental plant having any value as an ornamental plant, or a damaged ornamental plant that may rejuvenate and re-establish value as a ornamental plant, shall be considered as worth full value based on the age or size of the plant at the time of disaster. </P>
+                                <P>(f) In the crop year in which a notice of loss is filed, producers may be required, at the discretion of CCC, to provide evidence the ornamental nursery is maintained in accordance with this section. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.306 </SECTNO>
+                                <SUBJECT>Christmas tree crops. </SUBJECT>
+                                <P>(a) A Christmas tree is a value loss crop and may generate a claim for benefits under this part only if the tree was grown exclusively for commercial use as a Christmas tree, and only if other requirements of this section are met. </P>
+                                <P>(b) The unit of measure for all Christmas tree crops is a plant. </P>
+                                <P>(c) A Christmas tree having any value as a Christmas tree, or a damaged Christmas tree that may rejuvenate and re-establish value as a Christmas tree, shall be considered as worth full value based on the age of the tree at the time of disaster. </P>
+                            </SECTION>
+                            <SECTION>
+                                <PRTPAGE P="12457"/>
+                                <SECTNO>Â§â1437.307 </SECTNO>
+                                <SUBJECT>Mushrooms. </SUBJECT>
+                                <P>(a) Eligible mushrooms is a value loss crop and is only compensable in accord with the restrictions of this section. To be eligible, the mushrooms must be grown as a commercial crop in a facility with a controlled environment utilizing good mushroom growing practices. The facility must be located on private property either owned or leased by the producer. </P>
+                                <P>(b) The controlled environment for eligible mushrooms must include primary and backup systems for: </P>
+                                <P>(1) Temperature and humidity controls; </P>
+                                <P>(2) Proper and adequate lighting; and </P>
+                                <P>(3) Positive air pressurization and filtration. </P>
+                                <P>(c) The growing medium must consist of a substrate (a habitat and nutrient base) sterilized by heat treatment. </P>
+                                <P>(d) Good mushroom growing practices must be used, and they consist of proper and adequate insect and disease control and the maintenance of a sterile environment. Maintaining a sterile environment includes at a minimum: </P>
+                                <P>(1) Adequate hygiene; </P>
+                                <P>(2) Overall cleanliness; </P>
+                                <P>(3) Isolation or minimum contact procedures; </P>
+                                <P>(4) Use of footpaths; and </P>
+                                <P>(5) Availability and frequent utilization of wash-down facilities. </P>
+                                <P>(e) In the crop year in which a notice of loss is filed, producers may be required, at the discretion of CCC, to provide evidence the mushrooms are maintained in accordance with this section. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.308 </SECTNO>
+                                <SUBJECT>Ginseng. </SUBJECT>
+                                <P>(a) Ginseng is a value loss crop and is compensable only as allowed in this section. Ginseng is eligible only if: </P>
+                                <P>(1) The ginseng includes stratified seeds for use as propagation stock in a commercial ginseng operation or rootlet for commercial sale that are grown in a controlled, cultivatable environment on private property either owned or leased by the producer; and </P>
+                                <P>(2) The ginseng is grown using good ginseng growing practices with all plant needs supplied and under control of the producer; </P>
+                                <P>(b) Ginseng will not be eligible to generate benefits under this part if it: </P>
+                                <P>(1) Is indigenous to the facility; </P>
+                                <P>(2) Is grown solely for medicinal purposes; and </P>
+                                <P>(3) Includes wild ginseng rootlet that is harvested and transplanted from woodland grown ginseng. </P>
+                                <P>(c) Good ginseng growing practices must be followed, and include, but are not limited to: </P>
+                                <P>(1) Adequate drainage; </P>
+                                <P>(2) Proper and adequate shade; </P>
+                                <P>(3) Accurate pH level; </P>
+                                <P>(4) Adequate and timely fertilization, including an adequate supply to ensure nutrient reserves to the ginseng plants and customary application equipment; </P>
+                                <P>(5) Adequate pest control, including but not limited to, weed, rodent, and wildlife control; and </P>
+                                <P>(6) Disease control. </P>
+                                <P>(d) Ginseng producers must: </P>
+                                <P>(1) Provide a report of inventory of all ginseng, as determined by CCC; </P>
+                                <P>(2) Provide production and sales records necessary to determine the value of eligible ginseng; </P>
+                                <P>(3) Allow a CCC-certified loss adjustor to verify loss, including physically removing representative samples; </P>
+                                <P>(4) Maintain and provide, as determined by CCC, adequate records of fertilization, and pest and disease controls used or put into place during the crop year; and </P>
+                                <P>(5) Possess a valid food processing licence issued by the applicable State Department of Agriculture or equivalent and subject to food regulations administered by the Food and Drug Administration. </P>
+                                <P>(e) In the crop year in which a notice of loss is filed, producers may be required, at the discretion of CCC, to provide evidence the ginseng was produced in accordance with this section. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.309 </SECTNO>
+                                <SUBJECT>Turfgrass sod. </SUBJECT>
+                                <P>(a) Turfgrass sod is a value loss crop and is the upper stratum of soil bound by mature grass and plant roots into a thick mat produced in commercial quantities for sale. </P>
+                                <P>(b) Specific species, types or varieties of grass intended for turfgrass sod will be considered a separate crop without regard to other intended uses. </P>
+                                <P>(c) The unit of measure for all turfgrass sod shall be a square yard. </P>
+                                <P>(d) Turfgrass sod having any value shall be considered as worth full value. </P>
+                                <P>(e) In addition to the records required in Â§â1437.7, producers seeking payment must provide information to CCC regarding the average number of square yards per acre and all unharvested areas. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§Â§â1437.310-1437.400 </SECTNO>
+                                <SUBJECT>[Reserved]</SUBJECT>
+                            </SECTION>
+                        </SUBPART>
+                        <SUBPART>
+                            <HD SOURCE="HED">Subpart EâDetermining Coverage of Forage Intended for Animal Consumption</HD>
+                            <SECTION>
+                                <SECTNO>Â§â1437.401 </SECTNO>
+                                <SUBJECT>Forage. </SUBJECT>
+                                <P>(a) Forage eligible to generate benefits under this part is limited to vegetation produced for animal consumption in a commercial operation using acceptable farming, pasture and range management practices for the location necessary to sustain sufficient quality and quantity of the vegetation so as to be suitable for grazing livestock or mechanical harvest. Forage to be mechanically harvested shall be treated under the rules for low-yield crops as calculated under Â§â1437.103. Claims on forage for grazing benefits will, contrariwise, be determined under this subpart. However, the provisions in this subpart shall govern for all claims including forage for mechanical harvest. </P>
+                                <P>(b) Producers of forage must, in addition to the records required in Â§â1437.7, specify the intended method of harvest of all acreage intended as forage for livestock consumption as either mechanically or grazed. </P>
+                                <P>(c) Producers must, in the administrative FSA office for the unit, request an appraisal prior to the onset of grazing of any intended mechanically harvested forage acreage that will be both mechanically harvested and grazed. </P>
+                                <P>(d) Forage acreage reported to FSA as intended to be mechanically harvested which is subsequently completely grazed will be considered for crop definition purposes as mechanically harvested. Expected production of the specific acreage will be calculated on the basis of carrying capacity. </P>
+                                <P>(e) Small grain forage is the specific acreage of wheat, barley, oats, triticale, or rye intended for use as forage. Small grain forage shall be considered separate crops and distinct from any other forage commodities and other intended uses of the small grain commodity. In addition to the records required in Â§â1437.7 producers must specify whether the intended forage crop is intended for fall/winter, spring, or total season forage. In addition to other eligibility requirements, CCC will consider other factors, such as, water sources and available fencing, and adequate fertilization to determine small grain forage eligibility, yields, and production. </P>
+                                <P>(f) CCC will establish forage losses of acreage intended to be grazed on the basis of: </P>
+                                <P>(1) For improved pasture, as determined by CCC, a similar percentage of loss of mechanically harvested forage acreage on the farm, or similar farms in the area; or </P>
+                                <P>(2) For native pasture, as determined by CCC, the percentage of loss as determined by two independent assessments of pasture conditions. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.402 </SECTNO>
+                                <SUBJECT>Carrying capacity. </SUBJECT>
+                                <P>
+                                    (a) CCC will establish a carrying capacity for all grazed forage present in the county for purposes of 
+                                    <PRTPAGE P="12458"/>
+                                    administering this program and to that end: 
+                                </P>
+                                <P>(1) Multiple carrying capacities may be determined for a specific vegetation if factors, such as soil type, elevation, and topography, result in a significant difference of carrying capacity within the county. </P>
+                                <P>(2) CCC may establish separate carrying capacities for irrigated and non-irrigated forage acreage when acreage of traditionally irrigated forage (forage actually irrigated 3 of the last 5 crop years) is present in the county. </P>
+                                <P>(b) Producers may provide evidence that unit forage management and maintenance practices are improvements over those practices generally associated with the established carrying capacity. Based on this evidence, CCC may adjust the expected AUD for the specific forage acreage upward for the crop year NAP assistance is requested by: </P>
+                                <P>(1) Three percent when at least 1 practice was completed at least 1 time in the previous 5 crop years and such practice can be expected to have a positive impact on the forage's carrying capacity in the crop year NAP assistance is requested; </P>
+                                <P>(2) Five percent when 2 or more practices were completed at least 1 time in the previous 5 crop years and such practices can be expected to have a positive impact on the forage's carrying capacity in the crop year NAP assistance is requested; and </P>
+                                <P>(3) Greater than 5 percent when producers provide acceptable records, as determined by CCC, of higher forage production or an increase in animal units supported on the specific forage acreage in 3 of the 5 crop years immediately before the crop year NAP assistance is requested. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.403 </SECTNO>
+                                <SUBJECT>Determining payments. </SUBJECT>
+                                <P>Subject to payment limits, availability of funds, and other limits as may apply, payments for losses of forage reported to FSA as intended to be grazed will be determined by: </P>
+                                <P>(a) Multiplying the eligible acreage by the producer's share; </P>
+                                <P>(b) Dividing the result from paragraph (a) of this section by the carrying capacity or adjusted per day carrying capacity established for the specific acreage, as determined by CCC; </P>
+                                <P>(c) Multiplying the result from paragraph (b) of this section by the number of days established as the grazing period; </P>
+                                <P>(d) Adding adjustments of AUD for practices and production to the product of paragraph (c) of this section; </P>
+                                <P>(e) Multiplying the result from paragraph (d) of this section by the applicable percentage of loss established by CCC; </P>
+                                <P>(f) Multiplying the amount of AUD lost to other causes, as determined by CCC, by the producer's share; </P>
+                                <P>(g) Subtracting the result from paragraph (f) of this section from the result from paragraph (e) of this section; </P>
+                                <P>(h) Multiplying the result from paragraph (d) of this section by 0.50; </P>
+                                <P>(i) Subtracting the result from paragraph (h) of this section from the result from paragraph (g) of this section; and </P>
+                                <P>(j) Multiplying the result from paragraph (i) of this section by the AUD value established in accordance with Â§â1437.11, and then by 55 percent. </P>
+                            </SECTION>
+                            <SECTION>
+                                <SECTNO>Â§â1437.404 </SECTNO>
+                                <SUBJECT>Information collection requirements under the Paperwork Reduction Act; OMB control number. </SUBJECT>
+                                <P>An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB control number for the regulation in this part is 0560-0175. </P>
+                            </SECTION>
+                        </SUBPART>
+                        <SIG>
+                            <DATED>Signed at Washington, DC, on March 8, 2002. </DATED>
+                            <NAME>James R. Little, </NAME>
+                            <TITLE>Executive Vice President, Commodity Credit Corporation. </TITLE>
+                        </SIG>
+                    </PART>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 02-6212 Filed 3-18-02; 8:45 am] </FRDOC>
+            <BILCOD>BILLING CODE 3410-05-P</BILCOD>
+        </RULE>

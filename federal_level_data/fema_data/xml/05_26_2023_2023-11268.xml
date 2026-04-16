@@ -1,0 +1,447 @@
+<NOTICE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF HOMELAND SECURITY</AGENCY>
+                <SUBAGY>Federal Emergency Management Agency</SUBAGY>
+                <DEPDOC>[Docket ID: FEMA-2023-0009]</DEPDOC>
+                <SUBJECT>Community Disaster Resilience Zones and the National Risk Index</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Federal Emergency Management Agency, Department of Homeland Security.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Notice and request for information.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The Federal Emergency Management Agency (FEMA) is issuing this notice and request for information (RFI) to seek input from the public on implementation of the Community Disaster Resilience Zones Act of 2022, including updates to the methodology and data used for the National Risk Index and any other hazard assessment products; potential improvements to FEMA's provision of hazard data; the process used to designate community disaster resilience zones; financial and technical assistance for resilience or mitigation projects primarily benefitting community disaster resilience zones; and the community disaster resilience zone project application and certification process.</P>
+                </SUM>
+                <DATES>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>Comments must be received no later than July 25, 2023.</P>
+                </DATES>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        Submit comments at 
+                        <E T="03">www.regulations.gov</E>
+                         under Docket ID: FEMA-2023-0009. Follow the instructions for submitting comments. All submissions received must include the agency name and Docket ID, and will be posted, without change, to the Federal eRulemaking Portal at 
+                        <E T="03">www.regulations.gov</E>
+                         and will include any personal information you provide. Therefore, submitting this information makes it public. You may wish to read the Privacy and Security Notice that is available via a link on the homepage of 
+                        <E T="03">www.regulations.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <P>
+                        Pamela Williams, Assistant Administrator, Grants Programs, Resilience, Federal Emergency Management Agency, 
+                        <E T="03">FEMA-CDRZ-RFI@fema.dhs.gov,</E>
+                         202-212-8007.
+                    </P>
+                    <HD SOURCE="HD1">I. Public Participation</HD>
+                    <P>
+                        Interested persons are invited to comment on this notice by submitting written data, views, or arguments using the method identified in the 
+                        <E T="02">ADDRESSES</E>
+                         section.
+                    </P>
+                    <P>
+                        <E T="03">Instructions:</E>
+                         All submissions must include the agency name and Docket ID for this notice. All comments received will be posted without change to 
+                        <E T="03">www.regulations.gov.</E>
+                         Commenters are encouraged to identify the number of the specific question or questions to which they are responding.
+                    </P>
+                    <P>
+                        <E T="03">Docket:</E>
+                         For access to the docket to read background documents or comments received, go to 
+                        <E T="03">www.regulations.gov</E>
+                         and search for the Docket ID.
+                    </P>
+                    <HD SOURCE="HD1">II. Background</HD>
+                    <HD SOURCE="HD2">A. Community Disaster Resilience Zones Act</HD>
+                    <P>
+                        The Community Disaster Resilience Zones Act of 2022, Public Law 117-255, 136 Stat. 2363, amended title II of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 
+                        <E T="03">et seq.</E>
+                        ) (Stafford Act) to add a new section 206 (42 U.S.C. 5136) that requires the: (1) maintenance of a natural hazard assessment program and development and maintenance of products for the public's use that show the risk of natural hazards through use of risk ratings at the census tract level; and (2) designation of, at the census tract level, community disaster resilience zones based on the natural hazard risk ratings derived from a natural hazard risk product maintained by the natural hazard assessment program.
+                    </P>
+                    <P>Section 206 also provides FEMA the discretion to: (1) increase the Federal cost share to not more than 90 percent under the Building Resilient Infrastructure and Communities grant program for mitigation projects within, or primarily benefiting, a community disaster resilience zone; (2) provide financial and technical assistance to State, local, Tribal, and Territorial governments for project planning assistance to carry out activities in preparation for a mitigation project; and (3) establish a process for FEMA certification, and provide certification for mitigation projects within, or primarily benefiting, a community disaster resilience zone.</P>
+                    <HD SOURCE="HD2">B. FEMA National Risk Index</HD>
+                    <P>
+                        In November 2020, FEMA announced the availability of the National Risk Index with limited access to data. On August 16, 2021, FEMA released a full web application which enhanced the data and report functionality.
+                        <SU>1</SU>
+                        <FTREF/>
+                         The National Risk Index data and application were updated on March 23, 2023 (detailed below). The National Risk Index is a publicly available dataset and online mapping application that identifies the U.S. communities at most risk for 18 different natural hazards. The 18 hazard types evaluated by the National Risk Index were chosen after reviewing FEMA-approved State Hazard Mitigation Plans for all 50 states in early 2016.
+                        <SU>2</SU>
+                        <FTREF/>
+                         The National Risk Index application visualizes natural hazard risk metrics and includes important data about expected annual losses, social vulnerability, and community resilience.
+                        <SU>3</SU>
+                        <FTREF/>
+                         All National Risk Index data 
+                        <PRTPAGE P="34172"/>
+                        are publicly available in spatial and tabular formats. The National Risk Index data are derived probabilistic data sources or built from historic event and historic loss information, and are aggregated to the county and census tract levels, thus providing a baseline risk assessment and natural hazard risk profiles. While natural hazard occurrences can induce secondary natural hazard occurrences, only primary natural hazard occurrences (and not their results or after-effects) are considered in the National Risk Index.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>1</SU>
+                            âFEMA, 
+                            <E T="03">National Risk Index for Natural Hazards, https://www.fema.gov/nri.</E>
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>2</SU>
+                            âMore information about data availability can be found in FEMA's National Risk Index Technical Documentation. FEMA, 
+                            <E T="03">National Risk Index, Technical Documentation,</E>
+                             Chapters 5-1 to 5-2 (March 2023), 
+                            <E T="03">https://www.fema.gov/sites/default/files/documents/fema_national-risk-index_technical-documentation.pdf.</E>
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>3</SU>
+                            âMore information about these risk components can be found in FEMA's 
+                            <E T="03">National Risk Index Technical Documentation</E>
+                             (March 2023), 
+                            <E T="03">http://www.fema.gov/sites/default/files/documents/fema_national-risk-index_technical-documentation.pdf;</E>
+                             FEMA, 
+                            <E T="03">Data Glossary, https://hazards.fema.gov/nri/data-glossary</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <P>Currently, the National Risk Index does not account for future conditions or anticipated impacts due to climate change.</P>
+                    <P>With current National Risk Index information, users can discover a holistic view of their community's baseline and current risk from natural hazards via online maps and data downloads. With improved understanding of natural hazard risk, users can take action to reduce it and build more resilient communities. Potential users might be planners and emergency managers at the State, local, Tribal, Territorial, and Federal levels; as well as other decision makers, private sector entities and interested members of the public. The interactive mapping application can help decision makers better prepare for and mitigate natural hazard events by providing standardized risk data for planning and an overview of multiple risk factors. In turn, these data can help State, local, Tribal, or Territorial governments develop FEMA-approved hazard mitigation plans, required to apply for and/or receive certain FEMA assistance and mitigation grants. More importantly, use of these data can help all users plan for disasters and increase resilience.</P>
+                    <P>
+                        The National Risk Index is different from other traditional hazard data and models because of the scope and scale of its analyses. For communities that do not have access to natural hazard risk assessment services, the National Risk Index is a valuable product since it uses authoritative data from a variety of Federal, State, local, academic, non-profit, and private sector partners and contributors,
+                        <SU>4</SU>
+                        <FTREF/>
+                         and provides users analysis of their risk to a natural hazard. The National Risk Index leverages best-available source data and methods to provide a holistic view of the current and baseline community-level risk nationwide by combining multiple hazards with socioeconomic and built environment factors.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>4</SU>
+                            âFEMA, 
+                            <E T="03">Risk Index Contributors, https://hazards.fema.gov/nri/contributors</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <P>
+                        In addition to Federal collaborators, the National Risk Index incorporates data from a wide range of relevant sources across the country to ensure the tool's robustness.
+                        <SU>5</SU>
+                        <FTREF/>
+                         This includes more than 90 partners across the public and private sectors, including State, regional and local government agencies; academia; private organizations; and nonprofits. Data were collected from best available resources between 2018 and 2023.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>5</SU>
+                            âMore information on the review and selection process for data used in the National Risk Index is available in the Technical Documentation. See FEMA, 
+                            <E T="03">National Risk Index, Technical Documentation,</E>
+                             2-4 to 2-6 (March 2023), 
+                            <E T="03">https://www.fema.gov/sites/default/files/documents/fema_national-risk-index_technical-documentation.pdf.</E>
+                        </P>
+                    </FTNT>
+                    <P>
+                        FEMA publishes and maintains a publicly available National Risk Index-specific Technical Document to highlight the National Risk Index research and methodologies for developing all components of the tool.
+                        <SU>6</SU>
+                        <FTREF/>
+                         Previously released National Risk Index data versions, documentation, and data updates documentation are available through the National Risk Index Data Archive.
+                        <SU>7</SU>
+                        <FTREF/>
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>6</SU>
+                            âFEMA, 
+                            <E T="03">National Risk Index, Technical Documentation</E>
+                             (March 2023), 
+                            <E T="03">https://www.fema.gov/sites/default/files/documents/fema_national-risk-index_technical-documentation.pdf.</E>
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>7</SU>
+                            âFEMA, 
+                            <E T="03">National Risk Index Data Archive, https://hazards.fema.gov/nri/data-archive</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <HD SOURCE="HD1">III. Using the National Risk Index as the Natural Hazard Risk Product</HD>
+                    <HD SOURCE="HD2">A. Alignment With Community Disaster Resilience Zones Act Requirements</HD>
+                    <P>Section 206(c) (42 U.S.C. 5136(c)) specifies the natural hazard risk product must (1) show the risk of natural hazards; and (2) include ratings and data for loss exposure, social vulnerability, community resilience, and any other element determined necessary by the President. Section 206(e) (42 U.S.C. 5136(e)) requires FEMA to receive public input on the methodology and data used for the product.</P>
+                    <P>As currently maintained, the National Risk Index meets the Community Disaster Resilience Zones Act requirements for a natural hazard risk product that can serve as the basis for community disaster resilience zone designations under section 206(d) (42 U.S.C. 5136(d)). The National Risk Index includes three components to define natural hazard risk: (1) a community's expected annual loss, based on hazard frequency, exposure, and historic loss ratio for buildings, population equivalence, and agriculture; (2) social vulnerability; and (3) community resilience.</P>
+                    <P>Overall risk index scores and individual natural hazard risk index scores are calculated for each county and census tract included in the National Risk Index. An overall risk index score measures the risk of a location considering all 18 natural hazards included in the index. An individual natural hazard risk index score measures the risk of a location for a single natural hazard.</P>
+                    <P>The National Risk Index uses the following equation to derive a risk index score, which is described in more detail below:</P>
+                    <GPH SPAN="3" DEEP="24">
+                        <GID>EN26MY23.028</GID>
+                    </GPH>
+                    <P>
+                        <E T="03">Expected Annual Loss</E>
+                         measures the potential average annual expected loss of building value, population/population equivalence (monetized fatalities and injuries), and agricultural (crop and livestock) value due to natural hazards. Data sources include, but are not limited to FEMA, the National Aeronautics and Space Administration (NASA), National Oceanic and Atmospheric Administration (NOAA), U.S. Census, U.S. Department of Agriculture (USDA), and U.S. Geological Survey (USGS), and are detailed in the National Risk Index Technical Documentation.
+                        <SU>8</SU>
+                        <FTREF/>
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>8</SU>
+                            âFEMA, 
+                            <E T="03">National Risk Index, Technical Documentation</E>
+                             (March 2023), 
+                            <E T="03">https://www.fema.gov/sites/default/files/documents/fema_national-risk-index_technical-documentation.pdf.</E>
+                        </P>
+                    </FTNT>
+                    <P>
+                        <E T="03">Social Vulnerability</E>
+                         measures the susceptibility of populations to the adverse impacts of natural hazards. A relatively higher social vulnerability score indicates that the community is 
+                        <PRTPAGE P="34173"/>
+                        either more likely to experience adverse impacts or that the impacts will be more severe. The National Risk Index currently uses the U.S. Department of Health and Human Services' Centers for Disease Control and Prevention, Social Vulnerability Index to measure social vulnerability.
+                        <SU>9</SU>
+                        <FTREF/>
+                         The Centers for Disease Control and Prevention, Social Vulnerability Index does not have data for American Samoa, Guam, Northern Mariana Islands, or United States Virgin Islands.
+                        <SU>10</SU>
+                        <FTREF/>
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>9</SU>
+                            âOther tools measure social vulnerability using different analyses. See, 
+                            <E T="03">e.g.,</E>
+                             Council on Environmental Quality, 
+                            <E T="03">Climate and Economic Justice Screening Tool, Methodology, https://screeningtool.geoplatform.gov/en/methodology#3/33.47/-97.5</E>
+                             (last visited May 2, 2023).
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>10</SU>
+                            âSociodemographic census variables for Guam, American Samoa, the U.S. Virgin Islands, the Northern Mariana Islands are unavailable or are not collected at the geographic resolutions required for CDC/ATSDR SVI. See 
+                            <E T="03">CDC/ATSDR SVI Frequently Asked Questions (FAQ), https://www.atsdr.cdc.gov/placeandhealth/svi/faq_svi.html</E>
+                             (Oct. 26, 2022).
+                        </P>
+                    </FTNT>
+                    <P>
+                        <E T="03">Community Resilience</E>
+                         measures the ability of a community to prepare for anticipated natural hazards, adapt to changing conditions, and withstand and recover rapidly from disruptions.
+                        <SU>11</SU>
+                        <FTREF/>
+                         The National Risk Index uses the Baseline Resilience Indicators for Communities indexâ
+                        <SU>12</SU>
+                        <FTREF/>
+                         to measure community resilience. The Baseline Resilience Indicators for Communities is a place-based measurement of community resilience accounting for social, economic, community capital, institutional, infrastructural, and environmental resilience factors. A community with a relatively higher community resilience score indicates that community is more likely to absorb adverse natural hazard impacts. The Baseline Resilience Indicators for Communities does not have data for U.S. territories, and the data are only available at the county level.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>11</SU>
+                            âThis is based on a National Institute of Standards and Technology definition. See 
+                            <E T="03">National Risk Index, Technical Documentation</E>
+                             at 4-3; National Institute of Standards and Technology, 
+                            <E T="03">Community Resilience, https://www.nist.gov/community-resilience</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>12</SU>
+                            âUniversity of South Carolina, Hazard and Vulnerability Research Institute, 
+                            <E T="03">Baseline Resilience Indicators for Communities Index, 2020 Update, https://sc.edu/study/colleges_schools/artsandsciences/centers_and_institutes/hvri/data_and_resources/bric/index.php</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <P>The National Risk Index is only a snapshot of natural hazard risk primarily based on historically derived and generated hazard information (data collection timeframes are detailed in the National Risk Index Technical Documentation). This produces a baseline for natural hazard risk across the U.S. As the landscape of natural hazards, the built environment, and land use change over time, the National Risk Index must be updated to reflect these changes and to anticipate future conditions. To understand effects of changing climate on natural hazard risk, future conditions data are needed to support the creation of future natural hazard risk data. This includes, but is not limited to, natural hazard frequency, exposure, intensity and duration, building stock, population and demographics, and crop and livestock data.</P>
+                    <HD SOURCE="HD2">B. Updates to the National Risk Index</HD>
+                    <P>To further improve its suitability for Community Disaster Resilience Zone Act implementation, FEMA made several data and methodology changes to the National Risk Index as detailed below. These changes improve accuracy, address user feedback and needs, enable measurement of risk over time, and support future integration of climate change data.</P>
+                    <P>As part of the National Risk Index data version 1.19.0 release on March 23, 2023, the following changes were made:</P>
+                    <P>â¢ Update to census tract geographies to reflect 2020 U.S. Census modifications.</P>
+                    <P>â¢ Migration from the University of South Carolina Social Vulnerability Index (SoVIÂ®) to the Centers for Disease Control and Prevention, Social Vulnerability Index for use as the social vulnerability component of the National Risk Index.</P>
+                    <P>â¢ Generation of Expected Annual Loss data for some natural hazards for American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.</P>
+                    <P>â¢ Inclusion of precalculated Expected Annual Loss Rates within schema and data downloads.</P>
+                    <P>
+                        â¢ Enhancements to land cover/land use data, including updated building and population equivalence (monetized fatalities and injuries)â
+                        <SU>13</SU>
+                        <FTREF/>
+                         values.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>13</SU>
+                            âFEMA quantifies loss of life and injury using a Value of Statistical Life figure, which was increased in 2021. 
+                            <E T="03">See</E>
+                             Benefit-Cost Analysis Sustainment and Enhancements: Draft Standard Economic Values Methodology Report, Version 11.0, at 17 (September 2022), 
+                            <E T="03">https://www.fema.gov/sites/default/files/documents/fema_standard-economic-values-methodology-report_092022.pdf.</E>
+                             This Value of Statistical Life figure was updated again after the National Risk Index data version 1.19.0 was released. See Department of Transportation, 
+                            <E T="03">Departmental Guidance on Valuation of a Statistical Life in Economic Analysis</E>
+                             (May 1, 2023), 
+                            <E T="03">https://www.transportation.gov/office-policy/transportation-policy/revised-departmental-guidance-on-valuation-of-a-statistical-life-in-economic-analysis.</E>
+                             The newly updated figure may be integrated into future National Risk Index data updates.
+                        </P>
+                    </FTNT>
+                    <P>â¢ Hazard specific methodology updates for coastal flooding, drought, earthquake, hurricane, landslide, tornado, and tsunami.</P>
+                    <P>â¢ Development of Hazard Risk Value metric.</P>
+                    <P>â¢ Modification to how Social Vulnerability and Community Resilience values are applied to Expected Annual Loss.</P>
+                    <P>â¢ Conversion of Composite and Individual Hazard Risk Scores to Percentiles.</P>
+                    <P>â¢ Historic hazard data period of record updates.</P>
+                    <P>â¢ Enhanced methodology to estimate Historic Loss Ratio values separately for urban and rural communities.</P>
+                    <P>â¢ Application enhancements to static pages, map viewer, map sidebar, and reports.</P>
+                    <P>
+                        Current National Risk Index data and methodologies are detailed in the National Risk Index Technical Documentation, and more information about these and previous changes to data and methodologies are available in the Data Version and Update Documentation found on the National Risk Index Data Archive Page.
+                        <SU>14</SU>
+                        <FTREF/>
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>14</SU>
+                            âFEMA, 
+                            <E T="03">National Risk Index, Technical Documentation</E>
+                             (March 2023), 
+                            <E T="03">https://www.fema.gov/sites/default/files/documents/fema_national-risk-index_technical-documentation.pdf;</E>
+                             FEMA, 
+                            <E T="03">National Risk Index Data Archive</E>
+                             (March 2023), 
+                            <E T="03">https://hazards.fema.gov/nri/data-archive.</E>
+                        </P>
+                    </FTNT>
+                    <HD SOURCE="HD1">IV. Designating Community Disaster Resilience Zones and Targeting Assistance</HD>
+                    <P>Section 206(d) (42 U.S.C. 5136(d)) requires that FEMA designate zones at the census tract level based on the natural hazard risk ratings derived from a natural hazard risk product maintained by the natural hazard assessment program. At a minimum, the community disaster resilience zones must include the 50 census tracts with the highest individual hazard risk ratings nationwide and at least one percent of high-risk census tracts in each State, maintaining a geographic balance across coastal, inland, urban, suburban, and rural areas and including census tracts on Tribal lands. The risk ratings used to designate the zones may also use any other elements determined by the President. Section 206(d)(4) specifies that community disaster resilience zone designations shall be effective for a period of no less than five years.</P>
+                    <P>
+                        As amended by the Community Disaster Resilience Zones Act, section 206(h) (42 U.S.C. 5136(h)) provides FEMA the discretion to provide financial and technical assistance to State, local, Tribal, and Territorial governments that plan to perform a resilience or mitigation project within, 
+                        <PRTPAGE P="34174"/>
+                        or that primarily benefits, a community disaster resilience zone. Section 206(h)(2) specifies that the purpose of this assistance is to support activities or preparation for a resilience or mitigation project or seek an evaluation and certification for a resilience or mitigation project before permanent work of the project begins. Section 206(h)(4) provides that FEMA may use funding it sets aside pursuant to section 203(i) of the Stafford Act (42 U.S.C. 5133(i)) to fund the financial and technical assistance for resilience or mitigation project planning.
+                    </P>
+                    <HD SOURCE="HD1">V. Questions for Commenters</HD>
+                    <P>Consistent with the requirements of the Community Disaster Resilience Zones Act, FEMA seeks input from the public on the methodology and data used for its hazard assessment products, and other potential improvements to FEMA's provision of hazard data to inform future updates. Additionally, FEMA requests initial comment on the process used to designate these zones and the types of financial and technical assistance for resilience or mitigation projects that would benefit identified communities and serve as a catalyst for additional resilience investments in these communities. The following list of questions is non-exhaustive and is meant to assist members of the public in the formulation of comments. It is not intended to restrict the issues that commenters may address:</P>
+                    <HD SOURCE="HD2">A. Risk AssessmentâGeneral Questions</HD>
+                    <P>1. How does your organization use risk assessment products and associated risk ratings? What products do you use and why are they useful? How does your organization vet risk assessment tools and products? Are there additional data, information, analysis capabilities, or metrics that would be useful? Are there data that you do not currently have access to, but would like?</P>
+                    <P>
+                        2. Does your organization use the National Risk Index? How does your organization use the National Risk Index? What are the time horizons for decisions your organization is making using the National Risk Index (
+                        <E T="03">e.g.,</E>
+                         projects that will take place in 5, 20, 50+ years)? Are there specific features or aspects of the National Risk Index that you find particularly useful? Are there specific features or aspects that you would like to change? Does the addition of Expected Annual Loss Rate help in how your organization understands relative natural hazard risk? Would providing additional built in data filters (
+                        <E T="03">e.g.,</E>
+                         Hazard Mitigation Plan Status, National Flood Insurance Program participation, FEMA Disaster Declarations, Justice40 initiative investments, etc.) benefit the usability of National Risk Index data?
+                    </P>
+                    <P>
+                        3. Risk Assessment capability within FEMA traditionally uses nationally available data. Some tools (including but not limited to Hazusâ
+                        <SU>15</SU>
+                        <FTREF/>
+                         and he Resilience Analysis and Planning Toolâ
+                        <SU>16</SU>
+                        <FTREF/>
+                        ) allow users to upload local information for decision support. How can FEMA work with State, local, Tribal, and Territorial partners to understand what more detailed information exists and how it can be incorporated into national level decision support tools? Should FEMA maintain products with baseline natural hazard risk data from consistently available national data sources and an enhanced product with additional local information? Are there specific features or aspects of the National Risk Index that you find particularly useful including features that could be added or altered?
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>15</SU>
+                            âFEMA, Hazus Software, 
+                            <E T="03">https://www.fema.gov/flood-maps/products-tools/hazus</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>16</SU>
+                            âFEMA, Resilience Analysis &amp; Planning Tool (RAPT), 
+                            <E T="03">https://www.fema.gov/emergency-managers/practitioners/resilience-analysis-and-planning-tool</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <P>4. Is there potential to combine or integrate FEMA's hazard assessment products with other tools? If so, which tools and how?</P>
+                    <P>5. Are there ways that FEMA could provide better outreach to communities and individuals with fewer resources to encourage use of its hazard assessment products? Are there partnerships that FEMA could explore to improve its outreach (and if so, with whom)? What other ways can FEMA and its partners present data and information to users to make data actionable? What other support could FEMA provide to help communities act on this information?</P>
+                    <HD SOURCE="HD2">B. Risk AssessmentâMethodology</HD>
+                    <P>1. In general, how could FEMA improve its National Risk Index methodology used to understand, measure, and communicate community-level natural hazard risk across the country? Are there any potential biases within the National Risk Index data or methods? What methods exist for addressing these biases?</P>
+                    <P>2. Do you have any feedback on the formula used to derive the National Risk Index risk ratings or the specific data used to measure expected annual loss, social vulnerability, or community resilience? </P>
+                    <GPH SPAN="3" DEEP="23">
+                        <GID>EN26MY23.029</GID>
+                    </GPH>
+                    <P>3. The National Risk Index incorporates Expected Annual Loss information for 18 different natural hazards. Are there ways that the National Risk Index could better represent these data? If so, how? What research exists to help guide FEMA in the development of Expected Annual Loss beyond the current methodology? What additional information should FEMA consider for the Expected Annual Loss factor?</P>
+                    <P>4. While the National Risk Index incorporates the Centers for Disease Control and Preventions' Social Vulnerability Index, are there ways that the National Risk Index could better represent the broader societal impacts of natural hazards and/or measure how different populations are vulnerable to natural hazards? If so, how and based on what research? What research exists to explain the validity or predictability of social vulnerability factors and models?</P>
+                    <P>5. The National Risk Index incorporates the Baseline Resilience Indicators for Communities as the Community Resilience component. Are there ways the National Risk Index could better represent resilient communities? If so, how? Recognizing that the Baseline Resilience Indicators for Communities does not currently include Territories, how can the Community Resilience component better measure Territories? What research exists to explain the validity or predictability of community resilience models?</P>
+                    <HD SOURCE="HD2">C. Risk AssessmentâData</HD>
+                    <P>
+                        1. What mechanism exists or could be created to ensure that the National Risk Index is using the best available data? What additional information should be considered when developing the National Risk Index? How would these resources be incorporated? How often 
+                        <PRTPAGE P="34175"/>
+                        should this information be reviewed and incorporated? How often should the National Risk Index data be updated?
+                    </P>
+                    <P>2. What additional data sources should FEMA consider for the National Risk Index? Are these data sources national, including full U.S. Territory coverage or local/State equivalent specific, and are they publicly available? What is the period of record? How often are these data sources updated?</P>
+                    <P>3. Can FEMA leverage new technologies to refine its risk assessment products? If so, what are they, and how can FEMA use new technologies?</P>
+                    <P>4. What data could FEMA use to include place-based approaches for the U.S. Territories, including but not limited to frequency, exposure, and historic loss ratio data for hazards or social vulnerability and community resilience data?</P>
+                    <HD SOURCE="HD2">D. Climate Change and Future Conditions Data</HD>
+                    <P>
+                        1. How should FEMA incorporate climate change and future conditions data into the National Risk Index? What tools/data sources should FEMA consider (
+                        <E T="03">e.g.,</E>
+                         Climate Risk &amp; Resilience Portal,
+                        <SU>17</SU>
+                        <FTREF/>
+                         Climate Mapping for Resilience and Adaptation Tool,
+                        <SU>18</SU>
+                        <FTREF/>
+                         or U.S. Climate Resilience Toolkitâ
+                        <SU>19</SU>
+                        <FTREF/>
+                        ) when expanding the National Risk Index to include anticipated impacts due to climate change? Who should FEMA consult with and include when developing this possible expansion?
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>17</SU>
+                            âArgonne National Laboratory, Climate Risk &amp; Resilience Portal (ClimRR), 
+                            <E T="03">https://disgeoportal.egs.anl.gov/ClimRR/</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>18</SU>
+                            âU.S. Global Change Research Program, Climate Mapping for Resilience and Adaption, 
+                            <E T="03">https://resilience.climate.gov/</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>19</SU>
+                            âU.S. Global Change Research Program, U.S. Climate Resilience Toolkit, 
+                            <E T="03">https://toolkit.climate.gov/</E>
+                             (last visited Mar. 23, 2023).
+                        </P>
+                    </FTNT>
+                    <P>2. How could the National Risk Index incorporate âderivative climate change,â and/or the cascading effects of natural hazard incidents? Which data or models could be utilized to show this relationship?</P>
+                    <P>
+                        3. What solutions exist that account for potential future resilience efforts (including but not limited to future building codes, land use planning and zoning, or nature-based solutions)? What existing data or methods are publicly available to support climate change data integration into the National Risk Index? What future conditions data and information exist to support the non-hazard components (
+                        <E T="03">i.e.,</E>
+                         economic, infrastructural, coping capacity) of the National Risk Index? What future population growth and movement, demographics, landscape change, building development, agriculture, cultivated crops, etc. information exists and how can these be applied to the existing National Risk Index framework? Are these linked with specific emissions scenarios? If not, how could they be linked to expected emissions?
+                    </P>
+                    <HD SOURCE="HD2">E. Questions To Identify Community Disaster Resilience Zones</HD>
+                    <P>1. In accordance with the legislation, FEMA will designate community disaster resilience zones at the census tract level. How can FEMA best communicate this designation once it has been made to the relevant jurisdictions and communities? What additional data and information would be useful to communities who are designated community disaster resilience zones? Would it be beneficial for FEMA to use a phased in approach or announce in stages, making adjustments to the selection methodology based on lessons learned, feedback and results? If so, what data and information should FEMA consider for a phased approach and how frequently should these designations be reviewed and how? How can FEMA best include climate change, land use change, and demographic changes in these designations?</P>
+                    <P>2. In addition to the census tracts based National Risk Index risk ratings and inclusion of Tribal lands, the legislation directs consideration of coastal, inland, urban, suburban, and rural areas for geographic balance. What additional criteria should FEMA consider in determining how to achieve geographic balance?</P>
+                    <P>3. In the absence of social vulnerability and community resilience data for the U.S. Territories, how should FEMA help Territories prioritize census tracts and resources based on the level of risk and vulnerability in each community, as well as the unique characteristics of each community, so that resources can be allocated more efficiently and effectively to support disaster resilience efforts?</P>
+                    <P>4. How should FEMA work with State, local, Tribal and Territorial Governments in designating zones? How can FEMA Partner with States, Tribes and Territorial government in working with local governments with community disaster resilience zones? What can FEMA do to help ensure community disaster resilience zones are supported by State, local, Tribal, and Territorial resilience efforts? Are there specific considerations that should be taken into account when designating zones in Tribes and Territories?</P>
+                    <P>5. In what ways could FEMA encourage collaboration across jurisdictional boundaries to support a community's ability to reduce hazard risk?</P>
+                    <P>6. What are the significant barriers that potential community disaster resilience zones face in accessing and leveraging Federal resources, and how can FEMA and other Federal agencies assist them in overcoming these barriers and make this process more equitable?</P>
+                    <HD SOURCE="HD2">F. Resilience or Mitigation Project Planning Assistance</HD>
+                    <P>1. What would be the most useful and equitable way for FEMA to provide financial and technical assistance to benefit communities with Community Disaster Resilience Zones to plan, apply for, and evaluate resilience or mitigation projects?</P>
+                    <P>2. How can FEMA support comprehensive community resilience planning to benefit community disaster resilience zones and the larger communities those census tracts lie within?</P>
+                    <P>3. How should FEMA engage with State, local, Tribal, Territorial, and nongovernmental levels to provide technical assistance to benefit communities within Community Disaster Resilience Zones?</P>
+                    <P>4. What activities could FEMA undertake to help community disaster resilience zones understand and implement the types of projects, activities, or services that would minimize/reduce natural hazard risk?</P>
+                    <P>5. What are potential unintended consequences of designating these zones and/or implementing other parts of this legislation that should be considered?</P>
+                    <HD SOURCE="HD2">G. Community Disaster Resilience Zone Project Application and Certification Process and Other Investment Opportunities</HD>
+                    <P>
+                        1. As amended by the Community Disaster Resilience Zones Act, section 206(i) of the Stafford Act (42 U.S.C. 5136(i)) provides FEMA the discretion to execute an evaluation and certification program for projects within, or primarily benefiting, a community disaster resilience zone. FEMA may evaluate prospective projects to determine if the project is designed to reduce injuries, loss of life, or damage and destruction of property, such as damage to critical services and facilities; and substantially reduces the risk of, or increases resilience to, future damage, hardship, loss, or suffering. What is the most equitable way for FEMA to implement a certification process to minimize applicant burden while ensuring the most beneficial 
+                        <PRTPAGE P="34176"/>
+                        projects move forward, given this criteria? How should FEMA determine the extent to which proposed projects benefit the individual census tract(s) and promote comprehensive community-wide resilience?
+                    </P>
+                    <P>2. How can the identified community disaster resilience zones and FEMA's assistance amplify other Federal and non-Federal programs to direct resources to communities with high risk to natural hazards, high social vulnerability and low community resilience? What other programs would be complementary?</P>
+                    <P>3. How can FEMA monitor progress of improving resilience in community disaster resilience zones over time? What are key data and other metrics that can be used to monitor and evaluate progress?</P>
+                    <P>
+                        4. In what ways could FEMA use the community disaster resilience zone designation as a catalyst for Federal and non-Federal funding, 
+                        <E T="03">e.g.,</E>
+                         encouraging communities with the designation to partner with non-governmental entities, such as private non-profit organizations, philanthropy, and private equity, to drive investments to benefit designated communities?
+                    </P>
+                    <P>5. For mitigation projects that benefit large areas covering many census tracts, how can FEMA help applicants determine if the project is âwithinâ or âprimarily benefitsâ a community disaster resilience zone? What tools or resources would help potential applicants design projects that prioritize these identified communities? How should these projects be evaluated for their efficacy in reducing natural hazard risk?</P>
+                    <HD SOURCE="HD2">H. Community Disaster Resilience Zone Projects Causing Displacement</HD>
+                    <P>1. How can FEMA best ensure any residents displaced by resilience or mitigation projects receive equitable treatment?</P>
+                    <P>2. How can FEMA ensure comprehensive community engagement is a central component of any community resilience planning and project implementation for Community Disaster Resilience Zones?</P>
+                    <P>3. How can FEMA work with local jurisdictions designated as Community Disaster Resilience Zones to support community driven relocation, where appropriate?</P>
+                    <SIG>
+                        <NAME>Deanne Criswell,</NAME>
+                        <TITLE>Administrator, Federal Emergency Management Agency.</TITLE>
+                    </SIG>
+                </FURINF>
+            </PREAMB>
+            <FRDOC>[FR Doc. 2023-11268 Filed 5-25-23; 8:45 am]</FRDOC>
+            <BILCOD>BILLING CODE 9110-12-P</BILCOD>
+        </NOTICE>

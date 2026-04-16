@@ -1,0 +1,1062 @@
+<RULE>
+            <PREAMB>
+                <AGENCY TYPE="N">DEPARTMENT OF ENERGY</AGENCY>
+                <CFR>10 CFR Part 435</CFR>
+                <DEPDOC>[Docket No. EERE-2016-BT-STD-0003]</DEPDOC>
+                <RIN>RIN 1904-AD56</RIN>
+                <SUBJECT>Energy Efficiency Standards for the Design and Construction of New Federal Low-Rise Residential Buildings' Baseline Standards Update</SUBJECT>
+                <AGY>
+                    <HD SOURCE="HED">AGENCY:</HD>
+                    <P>Office of Energy Efficiency and Renewable Energy, Department of Energy.</P>
+                </AGY>
+                <ACT>
+                    <HD SOURCE="HED">ACTION:</HD>
+                    <P>Final rule.</P>
+                </ACT>
+                <SUM>
+                    <HD SOURCE="HED">SUMMARY:</HD>
+                    <P>The U.S. Department of Energy (DOE) is publishing this final rule to implement provisions in the Energy Conservation and Production Act (ECPA) that require DOE to update the baseline Federal energy efficiency performance standards for the construction of new Federal low-rise residential buildings. This rule updates the baseline Federal residential standard to the International Code Council (ICC) 2015 International Energy Conservation Code (IECC).</P>
+                </SUM>
+                <EFFDATE>
+                    <HD SOURCE="HED">DATES:</HD>
+                    <P>This rule is effective March 13, 2017.</P>
+                    <P>The incorporation by reference of a certain publication listed in this rule was approved by the Director of the Federal Register as of March 13, 2017.</P>
+                    <P>All Federal agencies shall design new Federal buildings that are low-rise residential buildings, for which design for construction began on or after January 10, 2018, using the 2015 IECC as the baseline standard for 10 CFR part 435.</P>
+                </EFFDATE>
+                <ADD>
+                    <HD SOURCE="HED">ADDRESSES:</HD>
+                    <P>
+                        The docket, which includes 
+                        <E T="04">Federal Register</E>
+                         notices, public meeting attendee lists and transcripts, comments, and other supporting documents/materials, is available for review at 
+                        <E T="03">https://www.regulations.gov/docketBrowser?rpp=25&amp;po=0&amp;D=EERE-2016-BT-STD-0003</E>
+                        ]. All documents in the docket are listed in the 
+                        <E T="03">regulations.gov</E>
+                         index. However, some documents listed in the index, such as those containing information that is exempt from public disclosure, may not be publicly available. The 
+                        <E T="03">regulations.gov</E>
+                         site contains simple instructions on how to access all documents, including public comments, in the docket.
+                        <PRTPAGE P="2858"/>
+                    </P>
+                    <P>
+                        A link to the docket Web page can be found at 
+                        <E T="03">http://www.regulations.gov/</E>
+                        #!docketDetail;D=EERE-2016-BT-STD-0003. This Web page will contain a link to the docket for this rule on the 
+                        <E T="03">www.regulations.gov</E>
+                         site. The 
+                        <E T="03">www.regulations.gov</E>
+                         Web page will contain simple instructions on how to access all documents, including public comments, in the docket.
+                    </P>
+                    <P>
+                        For further information on how to review the docket, contact Mr. Nicolas Baker at (202) 586-8215 or by email: 
+                        <E T="03">nicolas.baker@ee.doe.gov.</E>
+                    </P>
+                </ADD>
+                <FURINF>
+                    <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                    <FP SOURCE="FP-1">
+                        Nicolas Baker, U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Federal Energy Management Program, Mailstop EE-5F, 1000 Independence Avenue SW., Washington, DC 20585, (202) 586-8215, email: 
+                        <E T="03">nicolas.baker@ee.doe.gov.</E>
+                    </FP>
+                    <FP SOURCE="FP-1">
+                        Kavita Vaidyanathan, U.S. Department of Energy, Office of the General Counsel, Forrestal Building, GC-33, 1000 Independence Avenue SW., Washington, DC 20585, (202) 586-0669, email: 
+                        <E T="03">kavita.vaidyanathan@hq.doe.gov.</E>
+                    </FP>
+                </FURINF>
+            </PREAMB>
+            <SUPLINF>
+                <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                <P>This final rule incorporates by reference the following standard into 10 CFR part 435: ICC International Energy Conservation Code (IECC), 2015 Edition (âIECC 2015â), May 30, 2014.</P>
+                <P>
+                    Copies of this standard are available from the International Code Council, 4051 West Flossmoor Road, Country Club Hills, IL 60478, 1-800-422-7233, 
+                    <E T="03">http://www.iccsafe.org/.</E>
+                </P>
+                <P>
+                    Also, a copy of this standard is available for inspection at U.S. Department of Energy (DOE), Office of Energy Efficiency and Renewable Energy, Federal Energy Management Program, 8th Floor, 956 L'Enfant Plaza SW., Suite 8000, Washington, DC 20024. For information on the availability of this standard at DOE, contact Mr. Cyrus Nasseri at (202) 586-9138, or email 
+                    <E T="03">Cyrus.nasseri@ee.doe.gov.</E>
+                </P>
+                <P>This standard is discussed in greater detail in section VI.N of this document.</P>
+                <HD SOURCE="HD1">Table of Contents</HD>
+                <EXTRACT>
+                    <FP SOURCE="FP-2">I. Executive Summary of the Final Rule</FP>
+                    <FP SOURCE="FP-2">II. Introduction</FP>
+                    <FP SOURCE="FP-2">III. Synopsis of the Final Rule</FP>
+                    <FP SOURCE="FP1-2">A. Updated Definition of New Federal Building</FP>
+                    <FP SOURCE="FP1-2">B. Adding Explicit Mention of Mechanical Ventilation Requirements in the 2015 IECC</FP>
+                    <FP SOURCE="FP1-2">C. Expanding the List of Energy End-Uses that must be included in the 30 Percent Savings Calculation</FP>
+                    <FP SOURCE="FP1-2">D. Other Energy Efficiency Requirements</FP>
+                    <FP SOURCE="FP1-2">E. Synopsis of Changes to the IECC Between the 2009 and 2015 Versions</FP>
+                    <FP SOURCE="FP-2">IV. Compliance Date</FP>
+                    <FP SOURCE="FP-2">V. Reference Resources</FP>
+                    <FP SOURCE="FP1-2">A. Resources for Low-Rise Residential Buildings.</FP>
+                    <FP SOURCE="FP-2">VI. Regulatory Analysis</FP>
+                    <FP SOURCE="FP1-2">A. Review Under Executive Order 12866, âRegulatory Planning and Reviewâ</FP>
+                    <FP SOURCE="FP1-2">B. Administrative Procedure Act</FP>
+                    <FP SOURCE="FP1-2">C. Review Under the Regulatory Flexibility Act</FP>
+                    <FP SOURCE="FP1-2">D. Review Under the Paperwork Reduction Act of 1995</FP>
+                    <FP SOURCE="FP1-2">E. Review Under the National Environmental Policy Act of 1969</FP>
+                    <FP SOURCE="FP1-2">F. Review Under Executive Order 13132, âFederalismâ</FP>
+                    <FP SOURCE="FP1-2">G. Review Under Executive Order 12988, âCivil Justice Reformâ</FP>
+                    <FP SOURCE="FP1-2">H. Review Under the Unfunded Mandates Reform Act of 1995</FP>
+                    <FP SOURCE="FP1-2">I. Review Under the Treasury and General Government Appropriations Act of 1999</FP>
+                    <FP SOURCE="FP1-2">J. Review Under Executive Order 12630, âGovernmental Actions and Interference With Constitutionally Protected Property Rightsâ</FP>
+                    <FP SOURCE="FP1-2">K. Review Under the Treasury and General Government Appropriations Act, 2001</FP>
+                    <FP SOURCE="FP1-2">L. Review Under Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Useâ</FP>
+                    <FP SOURCE="FP1-2">M. Review Under Section 32 of the Federal Energy Administration Act of 1974</FP>
+                    <FP SOURCE="FP1-2">N. Description of Materials Incorporated by Reference</FP>
+                    <FP SOURCE="FP-2">VII. Congressional Notification</FP>
+                    <FP SOURCE="FP-2">VIII. Approval of the Office of the Secretary</FP>
+                </EXTRACT>
+                <HD SOURCE="HD1">I. Executive Summary of the Final Rule</HD>
+                <P>
+                    Section 305 of the Energy Conservation and Production Act (ECPA), as amended, requires DOE to determine whether the energy efficiency standards for new Federal buildings should be updated to reflect revisions to the IECC based on the cost-effectiveness of the revisions. (42 U.S.C. 6834(a)(3)(B)) Accordingly, DOE conducted a cost-effectiveness analysis that found the 2015 IECC to be cost-effective. DOE's assumptions and methodology for the cost-effectiveness of this rule are based on DOE's cost-effectiveness analysis of 2015 IECC, as well as DOE's Environmental Assessment (EA) for this rulemaking.
+                    <SU>1</SU>
+                    <FTREF/>
+                     Therefore, in this final rule, DOE updates the energy efficiency standards for new Federal buildings to the 2015 IECC for buildings for which design for construction began on or after one year after the rule is published in the 
+                    <E T="04">Federal Register</E>
+                    . (42 U.S.C. 6834(a)(3)(A)). Federal buildings are defined as follows: âany building to be constructed by, or for the use of, any Federal agency. Such term shall include buildings built for the purpose of being leased by a Federal agency, and privatized military housing.â (42 U.S.C. 6832(6)). This term does not include renovations or modifications to existing buildings.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>1</SU>
+                        âThe Environmental Assessment (EA) (DOE/EA-2020) is entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for New Federal Low-Rise Residential Buildings,' Baseline Standards Updateâ. The EA may be found in the docket for this rulemaking and at 
+                        <E T="03">https://energy.gov/sites/prod/files/2016/12/f34/EA-2020-FEA-2016.pdf.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">II. Introduction</HD>
+                <P>ECPA, as amended, requires DOE to establish building energy efficiency standards for all new Federal buildings. (42 U.S.C. 6834(a)(1)) The standards established under section 305(a)(1) of ECPA must contain energy efficiency measures that are technologically feasible, economically justified, and meet the energy efficiency levels in the applicable voluntary consensus energy codes specified in section 305. (42 U.S.C. 6834(a)(1)-(3))</P>
+                <P>Under section 305 of ECPA, the referenced voluntary consensus code for low-rise residential buildings is the International Code Council (ICC) International Energy Conservation Code (IECC). (42 U.S.C. 6834(a)(2)(A)). DOE codified this referenced code as the baseline Federal building standard in its existing energy efficiency standards found in 10 CFR part 435. Also pursuant to section 305 of ECPA, DOE must establish, by rule, revised Federal building energy efficiency performance standards for new Federal buildings that require such buildings to be designed to achieve energy consumption levels that are at least 30 percent below the levels established in the referenced code (baseline Federal building standard), if life-cycle cost-effective. (42 U.S.C. 6834(a)(3)(A)(i)(I))</P>
+                <P>
+                    Under section 305 of ECPA, not later than one year after the date of approval of each subsequent revision of the ASHRAE Standard or the IECC, DOE must determine whether to amend the baseline Federal building standards with the revised voluntary standard based on the cost-effectiveness of the revised voluntary standard. (42 U.S.C. 6834(a)(3)(B)) It is this requirement that this rulemaking addresses. ICC has updated the IECC from the version currently referenced in DOE's regulations at 10 CFR part 435. In this rule, DOE revises the latest baseline Federal building standard for 10 CFR part 435 from the 2009 IECC to the 2015 IECC. DOE notes that although ICC published an update to the IECC in 2012, this rule updates 10 CFR part 435 to the 2015 IECC directly, without requiring agencies to comply with the 2012 IECC. DOE notes however that because development of the IECC is incremental from version to version, the 2015 IECC does include all content in 
+                    <PRTPAGE P="2859"/>
+                    the 2012 IECC that was not specifically removed or modified during the development of the 2015 IECC. DOE evaluated the 2012 IECC as well and found it to be technologically feasible and economically justified.
+                    <SU>2</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>2</SU>
+                        âSee DOE's determination for the 2012 IECC at 
+                        <E T="03">http://www.gpo.gov/fdsys/pkg/FR-2012-05-17/pdf/2012-12000.pdf.</E>
+                         See DOE's analysis of the cost-effectiveness of the 2012 IECC at 
+                        <E T="03">https://www.energycodes.gov/sites/default/files/documents/NationalResidentialCostEffectiveness.pdf.</E>
+                         See DOE's analysis of the cost savings of the 2009 IECC and 2012 IECC at 
+                        <E T="03">https://www.energycodes.gov/sites/default/files/documents/NationalResidentialEnergyAnalysis.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Section 306(a) of ECPA provides that each Federal agency and the Architect of the Capitol must adopt procedures to ensure that new Federal buildings will meet or exceed the Federal building energy efficiency standards established under section 305. (42 U.S.C. 6835(a)) ECPA Section 306(b) bars the head of a Federal agency from expending Federal funds for the construction of a new Federal building unless the building meets or exceeds the applicable baseline Federal building energy standards established under section 305. (42 U.S.C. 6835(b)) Specifically, all new Federal buildingsâ
+                    <SU>3</SU>
+                    <FTREF/>
+                     must be designed to achieve the baseline standards in the International Energy Conservation Code for low-rise residential buildings (and ASHRAE Standard 90.1 for commercial and multi-family high-rise residential buildings) and achieve energy consumption levels at least 30 percent below these minimum baseline standards, where life-cycle cost-effective. (42 U.S.C. 6834(a)(3)(A)). This requirement does not extend to renovations or modifications to existing buildings.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>3</SU>
+                        â42 U.S.C. 6832 defines âFederal buildingsâ as any building to be constructed by, or for the use of, any Federal agency. Such term shall include buildings built for the purpose of being leased by a Federal agency, and privatized military housing. DOE's codifications of this definition in 10 CFR 435 and 10 CFR 433 include a second sentence defining ânew buildingsâ, resulting in the definition of ânew Federal buildingsâ as âNew Federal building means any building to be constructed by, or for the use of, any Federal agency which is not legally subject to State or local building codes or similar requirements. A new building is a building constructed on a site that previously did not have a building or a complete replacement of an existing building from the foundation up.â
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD1">III. Synopsis of the Final Rule</HD>
+                <P>DOE is issuing this action as a final rule. As indicated in this preamble, DOE must determine whether the energy efficiency standards for new Federal buildings should be updated to reflect revisions to the 2015 IECC based on the cost-effectiveness of the revisions. (42 U.S.C. 6834(a)(3)(B)) In this final rule, DOE determines that the energy efficiency standards for new Federal buildings should be updated to reflect the 2015 revisions to the IECC based on the cost-effectiveness of the revisions.</P>
+                <P>
+                    DOE reviewed the IECC for DOE's state building codes program and determined that the 2015 version of the IECC would achieve greater energy efficiency than the prior version (the 2012 version). (See 80 FR 33250 (June 11, 2015)) DOE also reviewed the 2012 version of the IECC and determined that the 2012 version would achieve greater energy efficiency than the prior version (the 2009 version currently referenced in 10 CFR part 435). (See 77 FR 29322 (May 17, 2012)) Both these determinations were subject to notice and comment. See 79 FR 57915 (September 26, 2014) and 76 FR 42688 (July 19, 2011) respectively for the 2015 IECC and 2012 preliminary determinations. DOE found that the 2015 version of the IECC would save 0.87% more source energy than the 2012 version of the IECCâ
+                    <SU>4</SU>
+                    <FTREF/>
+                     and that the 2012 version of the IECC would save 24% more source energy than the 2009 version of the IECC.
+                    <SU>5</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>4</SU>
+                        â
+                        <E T="03">Determination Regarding Energy Efficiency Improvements in the 2015 International Energy Conservation Code (IECC); Notice of determination,</E>
+                         80 FR 33250 (June 11, 2015)
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>5</SU>
+                        âEnergy savings of the 2012 IECC over the 2009 IECC are shown in Table 1 of Energy Use Savings for a Typical New Residential Dwelling Unit Based on the 2009 and 2012 IECC as Compared to the 2006 IECCâLetter Report (PNNL-88603) (available at 
+                        <E T="03">https://www.energycodes.gov/sites/default/files/documents/NationalResidentialEnergyAnalysis.pdf,</E>
+                         rather than the actual published determination.
+                    </P>
+                </FTNT>
+                <P>In DOE's determination for the state building codes program, and again in this rule, DOE states that the cost-effectiveness of revisions to the voluntary codes is considered through DOE's statutorily directed involvement in the codes process. See 80 FR 33250. Section 307 of ECPA requires DOE to participate in the ICC code development process and to assist in determining the cost-effectiveness of the voluntary standards. (42 U.S.C. 6836) DOE is required to periodically review the economic basis of the voluntary building energy codes and participate in the industry process for review and modification, including seeking adoption of all technologically feasible and economically justified energy efficiency measures. (42 U.S.C. 6836(b))</P>
+                <P>
+                    In addition to DOE's consideration of the cost-effectiveness of the 2015 IECC through its participation in the codes development process, DOE conducted an independent analysis of the cost-effectiveness of the 2015 IECC compared to the 2012 IECC and 2009 IECC. The results of the analysis are discussed in section A. Review Under Executive Order 12866, âRegulatory Planning and Reviewâ.
+                    <SU>6</SU>
+                    <FTREF/>
+                     DOE's assumptions and methodology for the cost-effectiveness of this rule are based on DOE's cost-effectiveness analysis of the 2015 IECC, as well as DOE's Environmental Assessment (EA) for this rulemaking.
+                    <SU>7</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>6</SU>
+                        â
+                        <E T="03">National Cost-Effectiveness of the Residential Provisions of the 2015 IECC,</E>
+                         Mendon, V.V. 
+                        <E T="03">et al.</E>
+                         PNNL-24240, Pacific Northwest National Laboratory, June 2015. 
+                        <E T="03">https://www.energycodes.gov/sites/default/files/documents/2015IECC_CE_Residential.pdf.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>7</SU>
+                        âThe Environmental Assessment (EA) (DOE/EA-2020) is entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for New Federal Low-Rise Residential Buildings,' Baseline Standards Updateâ. The EA may be found in the docket for this rulemaking and at 
+                        <E T="03">https://energy.gov/sites/prod/files/2016/12/f34/EA-2020-FEA-2016.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    In this rule, DOE updates the energy efficiency standards applicable to new Federal buildings based on the determinations made by DOE as to the energy efficiency improvements of the 2015 IECCâ
+                    <SU>8</SU>
+                    <FTREF/>
+                     and 2012 IECC,
+                    <SU>9</SU>
+                    <FTREF/>
+                     as compared to the predecessor version (the 2009 IECC), and based on the considerations of cost-effectiveness incorporated into the codes processes, DOE's involvement in those processes, and DOE's own cost-effectiveness analysis. This final rule amends 10 CFR part 435 to update the referenced baseline Federal energy efficiency performance standards. This final rule does not make any changes to the overall requirement that agencies must design buildings to meet the baseline standard and, if life-cycle cost-effective, achieve savings of at least 30% below the baseline standard. The statutory requirement to achieve savings of at least 30% below the levels established for the 2012 and 2015 IECC updates, applies to Federal agencies in the determinations they make for individual buildings, but not to DOE's overall determination for the purpose of this rule.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>8</SU>
+                        â
+                        <E T="03">Determination Regarding Energy Efficiency Improvements in the 2015 International Energy Conservation Code (IECC); Notice of determination.</E>
+                         80 FR 33250 (June 11, 2015).
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>9</SU>
+                        â
+                        <E T="03">Updating State Residential Building Energy Efficiency Codes,</E>
+                         77 FR 29322 (May 17, 2012).
+                    </P>
+                </FTNT>
+                <P>
+                    Three changes made to 10 CFR part 435 in this rule warrant further discussion. These changes are: (1) Updated the definition of âFederal buildingsâ to meet the requirements of 42 U.S.C. 6832(6); (2) explicit reference to the new mechanical ventilation requirements found in the 2015 IECC to Â§â435.4; and (3) expanded list of energy end-uses that must be considered in the 30 percent savings calculation. Each of these changes is discussed in this preamble. DOE is also providing a synopsis of the major changes made to 
+                    <PRTPAGE P="2860"/>
+                    the IECC between the 2009 IECC and the 2015 IECC to provide more detail regarding what the change in baseline standard means.
+                </P>
+                <HD SOURCE="HD2">A. Updated Definition of New Federal Building</HD>
+                <P>
+                    The definition of âNew Federal buildingâ in 10 CFR part 435 has not previously been updated to match what is found in 42 U.S.C. 6832(6). The Energy Independence and Security Act of 2007 (EISA 2007) updated the definition of âFederal buildingâ to include privatized military family housing and leased buildings. This rule makes that update by revising the definition of âNew Federal buildingâ to mean âany new building (including a complete replacement of an existing building from the foundation up) to be constructed by, or for the use of, any federal agency.
+                    <SU>10</SU>
+                    <FTREF/>
+                     Such term shall include buildings built for the purpose of being leased by a federal agency, and privatized military housing.â DOE believes that the main impact of this definition change for this rule will be that privatized military housing will now be required to follow the requirements of 10 CFR part 435 for energy efficiency instead of using prevailing energy efficiency standards. For example, privatized military family housing constructed in the state of Georgia must meet the requirements of 10 CFR part 435, which may or may not be the same as the Georgia energy code. This change is made solely to bring 10 CFR part 435 into agreement with 42 U.S.C. 6832(6).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>10</SU>
+                        â42 U.S.C. 6832 defines âFederal agencyâ as âany department, agency, corporation, or other entity or instrumentality of the executive branch of the Federal Government, including the United States Postal Service, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation.â
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">B. Adding Explicit Mention of Mechanical Ventilation Requirements in the 2015 IECC</HD>
+                <P>
+                    The 2015 IECC includes explicit mechanical ventilation requirements for new homes. Previous editions of the IECC (prior to the 2012 IECC, but including the 2009 IECC) referred to in 10 CFR part 435 did not explicitly require mechanical ventilation. DOE believes that ensuring adequate ventilation is critical to ensuring good indoor air quality and has therefore explicitly added a mention of this requirement in 10 CFR part 435. DOE believes the main impact of this change will be to require agencies to use the newest residential ventilation standards. The 2015 IECC explicitly mentions the 2015 International Mechanical Code (IMC)â
+                    <SU>11</SU>
+                    <FTREF/>
+                     and the 2015 International Residential Code (IRC)â
+                    <SU>12</SU>
+                    <FTREF/>
+                     as optional sources of ventilation requirements. The 2015 IECC also allows âother approved meansâ of mechanical ventilation.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>11</SU>
+                        âThe 2015 IMC is available for read-only viewing at 
+                        <E T="03">http://codes.iccsafe.org/app/book/toc/2015/I-Codes/2015%20IMC%20HTML/index.html.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>12</SU>
+                        âThe 2015 IRC is available for read-only viewing at 
+                        <E T="03">http://codes.iccsafe.org/app/book/toc/2015/I-Codes/2015%20IRC%20HTML/index.html.</E>
+                    </P>
+                </FTNT>
+                <P>Specifically, Section R403.5 of the 2015 IECC requires that âthe building shall be provided with ventilation that meets the requirements of the International Residential Code or International Mechanical Code, as applicable, or with other approved means of ventilation. Outdoor air intakes and exhausts shall have automatic or gravity dampers that close when the ventilation system is not operatingâ. Section R403.5.1 of the 2015 IECC also requires that âMechanical ventilation system fans shall meet the requirements of Table R403.5.1.â Table R403.5.1 sets minimum efficacy for range hoods, in-line fans, and bathroom and utility room fans. DOE's 2012 IECC determination (previously footnoted) states that the 2009 IECC does not require any mechanical ventilation. Section R403.5 of the 2012 IECC refers to the 2012 International Residential Code and International Mechanical Code which, in tandem with the 2012 IECC, require that a mechanical ventilation system meet these requirements or other approved means of ventilation in new homes.</P>
+                <P>
+                    DOE believes that the primary technical authority on residential ventilation is the American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) Standard 62.2 committee. Their latest standardâASHRAE Standard 62.2-2013,
+                    <SU>13</SU>
+                    <FTREF/>
+                     is the source of many of the requirements in the 2015 IMC and 2015 IRC and could therefore be used as an âother approved meansâ by agencies. If agencies wish to develop their own mechanical ventilation standards, they may choose to request an interpretation from the ASHRAE Standard 62.2 committee as to whether or not the agency's own standard is an acceptable substitute. Agencies may submit a request for interpretation to the committee using the procedures outlined at 
+                    <E T="03">https://www.ashrae.org/standards-research--technology/standards-forms--procedures/how-to-request-an-interpretation.</E>
+                     Neither the 2015 IMC, nor 2015 IRC, nor ASHRAE Standard 62.2-2013 are incorporated by reference in this rule as they are options that an agency may choose to use.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>13</SU>
+                        âStandard 62.2-2013 is available for read-only viewing at 
+                        <E T="03">https://www.ashrae.org/standards-research--technology/standards--guidelines/other-ashrae-standards-referenced-in-code.</E>
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">C. Expanding the List of Energy End-Uses That Must Be Included in the 30 Percent Savings Calculation</HD>
+                <P>Under the current 10 CFR 435.4, Federal agencies that are designing new Federal buildings that are low-rise residential buildings must only consider space heating, space cooling and domestic water heating when making the 30% savings calculation required in 10 CFR part 435 because the 2004 IECC and 2009 IECC only included those requirements. In addition to those three elements, the 2015 IECC includes explicit mechanical ventilation requirements that, the energy used for mechanical ventilation should be included in the 30 percent savings calculation required in 10 CFR part 435 as well. Also, both the 2015 IECC and the 2009 IECC (the current baseline standard for 10 CFR part 435) contain requirements for high-efficacy lighting and, therefore, lighting should be included in the 30 percent savings calculation as well. DOE believes that the impact of this change on agencies should be minimal as ventilation and lighting end-uses should be part of the output of any residential whole building simulation tool that an agency might be using for its calculations.</P>
+                <P>
+                    This rule also updates the methodology used in the 30 Percent Savings Calculation by directing agencies to use the Simulated Performance Alternative in the 2015 IECC as opposed to the Simulated Performance Alternative in the 2009 IECC. Updates to the Simulation Performance Alternative in the 2015 IECC from the Simulated Performance Alternative in the 2009 IECC include three clarifications to the documentation, calculation procedure, and calculation software tools sections that point out that all subsections in these sections must be addressed, as well as a number of editorial changes to call out specific sections in the 2015 IECC. There were also a few more technical changes to the Simulated Performance Alternative, including a change to the calculation method for the internal shade fraction, a change to the treatment of air exchange rates, a change to the default heating system assumption in cases where electric heating without a heat pump is used, and a change in how thermal distribution system efficiency is treated. There are also new requirements for compliance documentation associated with the Simulated Performance Alternative in the 2015 IECC. These 
+                    <PRTPAGE P="2861"/>
+                    requirements, while part of the 2015 IECC, do not apply to Federal buildings as they are associated with applications for building permits and certificates of occupancy required from local code officials.
+                </P>
+                <HD SOURCE="HD2">D. Other Energy Efficiency Requirements</HD>
+                <P>DOE also notes that there are a number of statutory provisions, regulations, Executive Orders, and memoranda of understanding that govern energy consumption in new Federal buildings. These include, but are not limited to, the Executive Order 13693 (80 FR 15871 (March 25, 2015)); sections 323, 431, 433, 434, and 523 of the Energy Independence and Security Act of 2007 (EISA 2007); section 109 of the Energy Policy Act of 2005 (Pub. L. 109-58); and 10 CFR parts 433 and 435. This rule supports and does not supplant these other applicable requirements and goals for new Federal buildings. For example, by designing buildings to meet the 2015 IECC baseline, Federal agencies also help achieve the energy intensity reductions mandated under section 431 of EISA 2007.</P>
+                <P>
+                    Of particular significance is the Administration's Climate Action Plan, (CAP), issued June 2013, in which the President affirmed that the Federal government must position itself as a leader in clean energy and energy efficiency, and pledged that Federal agencies must surpass previous greenhouse gas reduction achievements, through a combination of consuming 20 percent of Federal electricity from renewable sources by 2020, and by pursuing greater energy efficiency in Federal buildings.
+                    <SU>14</SU>
+                    <FTREF/>
+                     Additionally, the President directed that efficiency standards for appliances and Federal buildings set in the first and second terms combined would reduce carbon pollution by at least 3 billion metric tons cumulatively by 2030âequivalent to nearly one-half of the carbon pollution from the entire U.S. energy sector for one year. This rule, which DOE estimates will avoid cumulative emissions of 690,200 metric tons of carbon dioxide through 2030, directly supports the Administration's undertaking to make energy efficiency in Federal buildings an essential stratagem in the government's enduring achievement of the greenhouse gas reduction goals set out in the CAP.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>14</SU>
+                        âThe President's Climate Action Plan, Office of the Executive Office of the President, 
+                        <E T="03">https://www.whitehouse.gov/sites/default/files/image/president27sclimateactionplan.pdf,</E>
+                         June 2013.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">E. Synopsis of Changes to the IECC Between the 2009 and 2015 IECC</HD>
+                <P>
+                    The IECC is updated every three years by the International Code Council (ICC). Between the 2009 IECC and the 2015 IECC, the ICC also issued the 2012 IECC. DOE, as part of its determination process, evaluates each new version of the IECC for low-rise residential buildings. The following summaries are taken directly from DOE's determinations and supporting analyses for the 2012 IECCâ
+                    <SU>15</SU>
+                    <FTREF/>
+                     and 2015 IECC.
+                    <SU>16</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>15</SU>
+                        âSee determination at 
+                        <E T="03">http://www.gpo.gov/fdsys/pkg/FR-2012-05-17/pdf/2012-12000.pdf</E>
+                        . See analysis of energy savings at 
+                        <E T="03">https://www.energycodes.gov/sites/default/files/documents/NationalResidentialEnergyAnalysis.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>16</SU>
+                        âSee determination at 
+                        <E T="03">https://www.regulations.gov/document?D=EERE-2014-BT-DET-0030-0007</E>
+                        .
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD3">2012 IECC Changes</HD>
+                <P>
+                    In creating the 2012 IECC, ICC processed 27 sets of approved code change proposals. Overall, DOE found that the majority of changes in the 2012 IECC appear to be positive (
+                    <E T="03">i.e.,</E>
+                     have a positive impact on energy savings) within the context of the determination analysis. Of the 27 sets of changes:
+                </P>
+                <FP SOURCE="FP-1">â¢ 14 were considered beneficial;</FP>
+                <FP SOURCE="FP-1">â¢ 9 were considered neutral;</FP>
+                <FP SOURCE="FP-1">â¢ 2 were considered detrimental; and</FP>
+                <FP SOURCE="FP-1">â¢ 2 were considered to have an unquantifiable impact.</FP>
+                <P>In the 2012 IECC, DOE noted the following 14 sets of improvements:</P>
+                <P>1. Increases in prescriptive insulation levels of walls, roofs and floors,</P>
+                <P>2. Decrease (improvement) in U-factor allowances for fenestration,</P>
+                <P>3. Decrease (improvement) in allowable Solar Heat Gain Coefficient (SHGC) for fenestration in warm climates,</P>
+                <P>4. Infiltration control: Mandated whole house pressure test with strict allowances for air leakage rates,</P>
+                <P>5. Wall insulation when structural sheathing is used,</P>
+                <P>6. Ventilation fan efficiency,</P>
+                <P>7. LightingâIncreased fraction of lamps required to be high-efficacy,</P>
+                <P>8. Air distribution systemsâleakage control requirements,</P>
+                <P>9. Hot water pipe insulation and length requirements,</P>
+                <P>10. Skylight definition change,</P>
+                <P>11. Penalizing electric resistance heating in the performance compliance path,</P>
+                <P>12. Fireplace air leakage control,</P>
+                <P>13. Insulating covers for in-ground spas, and</P>
+                <P>14. Baffles for attic insulation.</P>
+                <P>DOE also noted the following two changes that decrease the efficiency of the 2012 IECC:</P>
+                <P>1. Steel-framed wall insulation, and</P>
+                <P>2. Air barrier location.</P>
+                <P>DOE also noted another two changes the effect of which was unclear:</P>
+                <P>1. Fenestration SHGC requirement in climate zone 4, and</P>
+                <P>2. Interior shading assumptions in the performance compliance path.</P>
+                <P>DOE also noted nine additional changes that had no apparent impact on the energy performance of the 2012 IECC:</P>
+                <P>1. Clarification of the scope of the residential building section of the IECC,</P>
+                <P>2. Definition of a whole house ventilation system,</P>
+                <P>3. A requirement for the results of the air leakage test to be put on the certificate,</P>
+                <P>4. Inclusion of Visual Transmittance (VT) in the code,</P>
+                <P>5. Clarification of recessed lighting leakage rates,</P>
+                <P>6. Introduction of ASHRAE Test Procedure 193 for HVAC equipment leakage test rates,</P>
+                <P>7. Introduction of a new test standard for home ventilation systems,</P>
+                <P>8. Clarification for the requirement for thermal distribution system design in the Simulated Performance Alternative, and</P>
+                <P>9. Moving of a requirement for sizing of equipment from an IRC reference into the IECC.</P>
+                <P>All of these changes are discussed in more detail in DOE's 2012 Determination.</P>
+                <HD SOURCE="HD3">2015 IECC Changes</HD>
+                <P>
+                    In creating the 2015 IECC, ICC processed 76 approved code change proposals. Overall, DOE found that the vast majority of changes in the 2015 IECC appear to be neutral (
+                    <E T="03">i.e.,</E>
+                     have no direct impact on energy savings) within the context of the determination analysis. DOE also found that beneficial changes (
+                    <E T="03">i.e.,</E>
+                     increased energy savings) outweigh any changes with a detrimental effect on energy efficiency in residential buildings. Of the 76 total changes:
+                </P>
+                <FP SOURCE="FP-1">â¢ 6 were considered beneficial;</FP>
+                <FP SOURCE="FP-1">â¢ 62 were considered neutral;</FP>
+                <FP SOURCE="FP-1">â¢ 5 were considered negligible;</FP>
+                <FP SOURCE="FP-1">â¢ 2 were considered detrimental; and</FP>
+                <FP SOURCE="FP-1">â¢ 1 was considered to have an unquantifiable impact.</FP>
+                <P>
+                    The 6 changes considered beneficial are:
+                    <PRTPAGE P="2862"/>
+                </P>
+                <GPOTABLE COLS="2" OPTS="L2,tp0,i1" CDEF="s100,r150">
+                    <TTITLE>â</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Nature of change</CHED>
+                        <CHED H="1">Reason for evaluation</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Increases insulation requirements for return ducts in attics from R-6 to R-8</ENT>
+                        <ENT>Modestly reduces conduction losses from return ducts in attics.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Adds requirements for demand-activated control on hot water circulation systems and heat trace systems. Makes IECC, IRC, and IPC consistent and clarifies requirements for these systems</ENT>
+                        <ENT>Demand activated control reduces the runtime of circulation pumps.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Deletes requirement for domestic hot water (DHW) pipe insulation to kitchen and the generic requirement on long/large-diameter pipes. However, adds DHW pipe insulation for 
+                            <FR>3/4</FR>
+                            -inch pipes
+                        </ENT>
+                        <ENT>
+                            Energy lost due to the elimination of hot water pipe insulation on the kitchen pipe is typically more than made up by added insulation requirements for pipes 
+                            <FR>3/4</FR>
+                             inches in diameter, the most common size for trunk lines.
+                        </ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Adds demand control requirements for recirculating systems that use a cold water supply pipe to return water to the tank</ENT>
+                        <ENT>Demand activated control reduces the runtime of circulation pumps.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Revises language requiring the code to apply to historic buildings if no âcompromise to the historic nature and function of the buildingâ occurs</ENT>
+                        <ENT>Additional buildings must meet the code requirements.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Adds requirement for outdoor setback control for hot water boilers that controls the boiler water temperature based on the outdoor temperature</ENT>
+                        <ENT>Lowering boiler water temperature during periods of moderate outdoor temperature reduces energy consumption of the boiler.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>The two changes were considered detrimental were:</P>
+                <GPOTABLE COLS="2" OPTS="L2,tp0,i1" CDEF="s100,r150">
+                    <TTITLE>â</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Nature of change</CHED>
+                        <CHED H="1">Reason for evaluation</CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Slightly increases sunroom U-factor</ENT>
+                        <ENT>Applies to only climate zones 2 and 3; impacts only thermally isolated sunrooms.</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Defines a new âTropicalâ climate zone and adds an optional compliance path for semi-conditioned residential buildings with a list of pre-defined criteria to be deemed as code compliant in this climate zone</ENT>
+                        <ENT>Exception to code requirements applicable to a small number of homes in tropical areas.</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <FP>The remaining 68 changes were primarily editorial in nature. These changes are discussed in more detail in Table III.1 in DOE's 2015 IECC Determination.</FP>
+                <HD SOURCE="HD1">IV. Compliance Date</HD>
+                <P>
+                    This final rule applies to new Federal low-rise residential buildings for which design for construction begins on or after one year from the publication date of this rulemaking in the 
+                    <E T="04">Federal Register</E>
+                    . (42 U.S.C. 6834(a)(1)) Such buildings must be designed to exceed the energy efficiency level of the appropriate updated voluntary standard by 30 percent if life-cycle cost-effective. However, at a minimum, such buildings must achieve the energy efficiency equal to that of the appropriate updated voluntary standard. One year lead time before the design for construction begins is consistent with DOE's previous updates to the energy efficiency baselines and the original statutory mandate for Federal building standards. One year lead time before design for construction begins helps minimize compliance costs to agencies, which may have planned buildings in various stages of design, and allows for design changes to more fully consider life-cycle cost-effective measures (as opposed to having to revise designs in development, which may make incorporation of energy efficiency measure more difficult or expensive).
+                </P>
+                <HD SOURCE="HD1">V. Reference Resources</HD>
+                <P>The Department originally prepared this list of resources to help Federal agencies achieve building energy efficiency levels of at least 30 percent below the 2009 IECC. The Department has reviewed these resources and believes that they continue to be useful for helping agencies maximize their energy efficiency levels. The Department has updated this resource list as appropriate. These resources come in many forms and in a variety of media. Resources are provided for all buildings, and also specifically for low-rise residential buildings.</P>
+                <HD SOURCE="HD2">A. Resources for Low-Rise Residential Buildings</HD>
+                <HD SOURCE="HD3">1. Energy Efficient ProductsâU.S. DOE Federal Energy Management Program and U.S. Environmental Protection Agency (EPA) ENERGY STAR Program </HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://energy.gov/eere/femp/energy-and-water-efficient-products</E>
+                </FP>
+                <P>Federal agencies are required to specify Federal Energy Management Program (FEMP) designated or ENERGY STAR equipment, including building mechanical and lighting equipment and builder-supplied appliances, for purchase and installation in all new construction. 42 U.S.C. 8259b(b) Although this rule does not specifically address the use of this equipment, ENERGY STAR and FEMP-Designated products are generally more energy efficient than the corresponding requirements of the 2015 IECC, and may be used to achieve part of the savings required of Federal building designs. Therefore, DOE lists this Web site as a potential resource.</P>
+                <HD SOURCE="HD3">2. Life-Cycle Cost AnalysisâU.S. DOE Federal Energy Management Program</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://energy.gov/sites/prod/files/2015/06/f23/ashb15.pdf</E>
+                </FP>
+                <P>
+                    The life-cycle cost analysis rules promulgated in 10 CFR part 436 Subpart A 
+                    <E T="03">Life-Cycle Cost Methodology and Procedures</E>
+                     conform to requirements in the Federal Energy Management Improvement Act of 1988 (Pub. L. 100-615) and subsequent energy conservation legislation, as well as Executive Order 13693, 
+                    <E T="03">Planning for Federal Sustainability in the Next Decade.</E>
+                     The life-cycle cost guidance and required discount rates and energy price projections are determined annually by FEMP and the Energy Information Administration, and are published in the Annual Supplement to The National Institute of Standards and Technology Handbook 135: âEnergy 
+                    <PRTPAGE P="2863"/>
+                    Price Indices and Discount Factors for Life-Cycle Cost Analysisâ.
+                </P>
+                <HD SOURCE="HD3">3. ENERGY STAR BuildingsâU.S. Environmental Protection Agency and U.S. Department of Energy</HD>
+                <FP SOURCE="FP-1">
+                    (
+                    <E T="03">http://www.energystar.gov/homes</E>
+                    )
+                </FP>
+                <P>ENERGY STAR is a government-backed program helping businesses and individuals protect the environment through superior energy efficiency. The EPA program requirements for ENERGY STAR-labeled homes, effective as of the date of this rule, provide a useful guide for meeting the Federal energy efficiency standard for low-rise residential buildings.</P>
+                <HD SOURCE="HD3">4. Passive House Institute US</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://www.phius.org/home-page</E>
+                </FP>
+                <P>This Web site provides information on designing and building very low energy homes.</P>
+                <HD SOURCE="HD3">5. Energy Efficient Home DesignâU.S. DOE Building Technologies Program</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://energy.gov/energysaver/energy-efficient-home-design</E>
+                </FP>
+                <P>This Web site provides information on energy efficient home design strategies, and technologies to support energy efficiency in residences.</P>
+                <HD SOURCE="HD3">6. 2012 National Green Building StandardâICC and NAHB</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://shop.iccsafe.org/2012-national-green-building-standard-icc-700-2012.html</E>
+                </FP>
+                <P>This standard provides requirements for building high-efficiency and green homes and multi-family buildings.</P>
+                <HD SOURCE="HD3">7. LEED for HomesâUS Green Building Council</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://www.usgbc.org/articles/getting-know-leed-homes-design-and-construction</E>
+                </FP>
+                <P>This certification system provides requirements for building high-efficiency and green homes and multi-family buildings.</P>
+                <HD SOURCE="HD3">8. Green GlobesâThe Green Building Initiative</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://www.thegbi.org/</E>
+                </FP>
+                <P>This certification provides requirements for building high-efficiency and green multi-family buildings.</P>
+                <HD SOURCE="HD3">9. 2015 IECCâICC</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://shop.iccsafe.org/codes/2015-international-codes-and-references/2015-international-energy-conservation-coder-1.html</E>
+                </FP>
+                <P>The baseline energy efficiency standard for low-rise residential buildings is the 2015 IECC.</P>
+                <HD SOURCE="HD3">10. Whole Building Design GuideâNational Institute of Building Sciences</HD>
+                <FP SOURCE="FP-1">
+                    <E T="03">http://www.wbdg.org/</E>
+                </FP>
+                <P>A portal providing one-stop access to up-to-date information on a wide range of building-related guidance, criteria and technology from a âwhole buildingsâ perspective.</P>
+                <HD SOURCE="HD1">VI. Regulatory Analysis</HD>
+                <HD SOURCE="HD2">A. Review Under Executive Order 12866, âRegulatory Planning and Reviewâ</HD>
+                <P>This final rule is a âsignificant regulatory actionâ under Executive Order 12866, âRegulatory Planning and Review.â 58 FR 51735 (October 4, 1993). Accordingly, this action was subject to review by the Office of Information and Regulatory Affairs in the Office of Management and Budget (OMB). OMB has completed its review. As discussed previously in this rule, DOE is required to determine, based on the cost-effectiveness, whether the standards for Federal buildings should be updated to reflect an amendment to the IECC standard. As stated in this preamble, DOE complied with the statutory language by analyzing the cost-effectiveness of the 2015 IECC, and through DOE's involvement in the ICC code development process, including consideration of the cost-effectiveness of the 2015 IECC.</P>
+                <P>DOE has also reviewed this regulation pursuant to Executive Order 13563, issued on January 18, 2011. 76 FR 3281 (January 21, 2011). E.O. 13563 is supplemental to and explicitly reaffirms the principles, structures, and definitions governing regulatory review established in Executive Order 12866.</P>
+                <P>Review under Executive Order 12866 requires an analysis of the economic effect of the rule. For this purpose, DOE estimated incremental first cost (in this case, the difference between the cost of a building designed to meet the 2015 IECC and a building designed to meet the 2009 IECC) for the Federal low-rise residential buildings sector, as well as life-cycle cost net savings. DOE determined that the total incremental first cost estimate is an increase of $4.1 million per year, with an average first cost increase of $2,051 per household. DOE estimated $14.8 million in annual life-cycle cost (LCC) net savings for the entire Federal low-rise residential buildings sector with an average life-cycle cost net savings of $7,421 per household.</P>
+                <P>
+                    DOE's assumptions and methodology for the cost-effectiveness of this rule are based on DOE's cost-effectiveness analysis of the 2015 IECC,
+                    <SU>17</SU>
+                    <FTREF/>
+                     as well as DOE's Environmental Assessment (EA) for this rulemaking.
+                    <SU>18</SU>
+                    <FTREF/>
+                     The EA identified a rate of new Federal residential construction of 4,936 homes per year. As described in the EA, this estimate is derived from consideration of data from a number of sources. DOE's cost-effectiveness analysis of the 2015 IECC provides tables for the first cost increase, the energy savings, and the life cycle costs associated with the 2015 IECC versus the 2012 IECC and 2009 IECC by climate zone. DOE's cost-effectiveness report does not provide national average values, but does provide sufficient weighting data so that these national averages can be calculated. The weighting data provided in the cost-effectiveness report is used to generate the rows labeled âNational Averageâ in Tables 1, 2, and 3 in this preamble.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>17</SU>
+                        âDOE's Cost Effectiveness report on the 2015 IECC is âNational Cost-Effectiveness of the Residential Provisions of the 2015 IECCâ, PNNL-24240, Mendon 
+                        <E T="03">et al,</E>
+                         June 2015. Available at 
+                        <E T="03">https://www.energycodes.gov/sites/default/files/documents/2015IECC_CE_Residential.pdf</E>
+                        .
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>18</SU>
+                        âThe Environmental Assessment (EA) (DOE/EA-2020) is entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for New Federal Low-Rise Residential Buildings,' Baseline Standards Updateâ. The EA may be found in the docket for this rulemaking and at 
+                        <E T="03">https://energy.gov/sites/prod/files/2016/12/f34/EA-2020-FEA-2016.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>
+                    Table 1 lists the increased first costs associated with the 2015 IECC for a standard 2,400 ft
+                    <SU>2</SU>
+                     prototypical home and a standard 1,200 ft
+                    <SU>2</SU>
+                     prototypical apartment/condo building. DOE believes that the majority of Federal low-rise residential construction will be single family homes built by the Department of Defense (or their 
+                    <PRTPAGE P="2864"/>
+                    privatization contractors), but there is a possibility that some Federal low-rise multi-family buildings could be built,
+                    <SU>19</SU>
+                    <FTREF/>
+                     so the results of DOE's first cost analysis are shown in full. The 2015 IECC does increase the first cost of construction of new homes and apartments/condos compared to the 2009 IECC in all climate zones in the United States.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>19</SU>
+                        âDOE's main source of Federal construction information, the Federal Real Property Profile, does list Family Housing and Barracks/Apartments as separate categories but does not differentiate Barracks/Apartments on the basis of number of stories. DOE assumes the all Family Housing would fall under this rule, while Barracks/Apartments are regulated under the Federal building energy efficiency standards for commercial and high-rise multi-family buildings. While Barracks may be envisioned long low buildings containing rows of cots, this vision is driven primarily by old-style barracks from the past. DOD's new training barracks tend to combine sleeping accommodations, class rooms, and physical training facilities and are therefore designed by DOD using the Federal commercial and high-rise multi-family requirements.
+                    </P>
+                </FTNT>
+                <GPOTABLE COLS="6" OPTS="L2,i1" CDEF="s50,25,12,12,12,12">
+                    <TTITLE>Table 1âTotal Incremental First Cost for 2015 IECC Compared to the 2009 IECC</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            2,400 ftâ
+                            <SU>2</SU>
+                             house
+                        </CHED>
+                        <CHED H="2">Slab-on-grade</CHED>
+                        <CHED H="2">Unheated basement, or crawlspace</CHED>
+                        <CHED H="2">
+                            Heated 
+                            <LI>basement</LI>
+                        </CHED>
+                        <CHED H="1">
+                            1,200 ftâ
+                            <SU>2</SU>
+                             apartment/condoâ
+                            <SU>a</SU>
+                        </CHED>
+                        <CHED H="2">Slab, unheated basement, or crawlspace</CHED>
+                        <CHED H="2">
+                            Heated 
+                            <LI>basement</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$1,585</ENT>
+                        <ENT>$1,553</ENT>
+                        <ENT>$1,553</ENT>
+                        <ENT>$848</ENT>
+                        <ENT>$848</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            1-tropicalâ
+                            <SU>b</SU>
+                        </ENT>
+                        <ENT>1,152</ENT>
+                        <ENT>1,152</ENT>
+                        <ENT>1,152</ENT>
+                        <ENT>848</ENT>
+                        <ENT>848</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>1,920</ENT>
+                        <ENT>1,888</ENT>
+                        <ENT>1,888</ENT>
+                        <ENT>968</ENT>
+                        <ENT>968</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>2,495</ENT>
+                        <ENT>2,463</ENT>
+                        <ENT>2,463</ENT>
+                        <ENT>1,175</ENT>
+                        <ENT>1,175</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>2,005</ENT>
+                        <ENT>1,973</ENT>
+                        <ENT>1,973</ENT>
+                        <ENT>1,012</ENT>
+                        <ENT>1,012</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>1,493</ENT>
+                        <ENT>1,461</ENT>
+                        <ENT>1,715</ENT>
+                        <ENT>827</ENT>
+                        <ENT>865</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>2,718</ENT>
+                        <ENT>2,686</ENT>
+                        <ENT>2,686</ENT>
+                        <ENT>1,266</ENT>
+                        <ENT>1,266</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>2,718</ENT>
+                        <ENT>2,686</ENT>
+                        <ENT>2,686</ENT>
+                        <ENT>1,266</ENT>
+                        <ENT>1,266</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>2,718</ENT>
+                        <ENT>2,686</ENT>
+                        <ENT>2,686</ENT>
+                        <ENT>1,266</ENT>
+                        <ENT>1,266</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>2,060</ENT>
+                        <ENT>2,028</ENT>
+                        <ENT>2,081</ENT>
+                        <ENT>1,026</ENT>
+                        <ENT>1,034</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">
+                            Foundation Weightâ
+                            <SU>c</SU>
+                        </ENT>
+                        <ENT>0.479</ENT>
+                        <ENT>0.379</ENT>
+                        <ENT>0.142</ENT>
+                        <ENT>0.858</ENT>
+                        <ENT>0.142</ENT>
+                    </ROW>
+                    <TNOTE>
+                        <SU>a</SU>
+                        âFor multifamily homes with an oil-fired boiler, an additional incremental cost of $30.55 for the outdoor air temperature reset applies to all climate zones.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>b</SU>
+                        âThis cost applies to 35% of all new single-family homes in the tropical climate zone. The tropical climate zone accounts for around 50% of all new single-family construction starts in climate zone 1.
+                    </TNOTE>
+                    <TNOTE>
+                        <SU>c</SU>
+                        âFoundation weights from Table 1.3 of the 2015 IECC Cost-Effectiveness Report.
+                    </TNOTE>
+                </GPOTABLE>
+                <P>The first cost data shown in Table 1 can be further aggregated by foundation type using the foundation type weightings found in the 2015 IECC Cost-Effectiveness report (and also shown in Table 1 in the row labeled âFoundation Weightsâ). The results of that weighting indicate that the typical first cost of a home would be $2,051 and that of an apartment/condo would be $1,027. These first cost increases should be compared to the estimated first cost of new Federal low-rise residential construction, but that information is not typically publicly available. Instead, DOE has chosen to compare these costs to typical costs in the private sector.</P>
+                <P>
+                    The National Association of Realtors (NAR) in a press release dated September 21, 2015 states that the median U.S. single family home price was $230,200 in August 2015.
+                    <SU>20</SU>
+                    <FTREF/>
+                     The $2,051 cost increase represents approximately 0.9% of the average cost of a new home. As previously stated, DOE does not believe that a large fraction of Federal low-rise construction falls under this rule, but for comparison, the same NAR press release lists the price for condominiums at $217,400. The $1,027 cost increase for condominiums represents a 0.5% increase. Any increase in first cost would be accompanied by a reduction in energy costs and an increase in life cycle cost savings.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>20</SU>
+                        âSee 
+                        <E T="03">http://www.realtor.org/news-releases/2015/09/existing-home-sales-stall-in-august-prices-moderate.</E>
+                    </P>
+                </FTNT>
+                <P>The estimated energy cost savings associated with the 2015 IECC is shown in Table 2. This table is based on a combination of single-family homes and apartments/condos as described in DOE's cost-effectiveness report. While the weighting of homes and apartments/condos may not be identical in the private and Federal sectors, the trends are similar for both single-family homes and apartments/condos. The 2015 IECC saves a considerable amount of energy costs over the 2009 IECC in all climate zones in the United States.</P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s25,15">
+                    <TTITLE>Table 2âAverage Annual Energy Cost Savings for the 2015 IECC Compared to the 2009 IECC</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            Average annual energy cost
+                            <LI>savings</LI>
+                            <LI>($/residence-yr)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>$179</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>220</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>256</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>353</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>353</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>497</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>841</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">8</ENT>
+                        <ENT>1,199</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>315</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>The life-cycle cost impact of the 2015 IECC is shown in Table 3. Again, these values represent the combination of single-family homes and apartments/condos, but the trends are clear. The 2015 IECC has large life cycle cost-savings in all climate zones in the U.S.</P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s25,15">
+                    <TTITLE>Table 3âTotal Life Cycle Cost Savings for the 2015 IECC Compared to the 2009 IECC</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Climate zone</CHED>
+                        <CHED H="1">
+                            Total life cycle cost savings
+                            <LI>($/residence-yr)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">1</ENT>
+                        <ENT>+$4,418</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">2</ENT>
+                        <ENT>+5,725</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">3</ENT>
+                        <ENT>+6,569</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">4</ENT>
+                        <ENT>+8,088</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">5</ENT>
+                        <ENT>+7,697</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">6</ENT>
+                        <ENT>+11,231</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">7</ENT>
+                        <ENT>+17,525</ENT>
+                    </ROW>
+                    <ROW>
+                        <PRTPAGE P="2865"/>
+                        <ENT I="01">8</ENT>
+                        <ENT>+24,003</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">National Average</ENT>
+                        <ENT>+7,421</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <P>Multiplying the estimated 4936 new Federal homes per year by the national average values in Tables 1, 2, and 3 provides a summary of annual cost increases, energy savings, and first cost-increases for the entire Federal low-rise sector shown in Table 4.</P>
+                <GPOTABLE COLS="2" OPTS="L2,i1" CDEF="s25,15">
+                    <TTITLE>Table 4âAnnual National Average First Cost Increase, Energy Savings, and Life Cycle Cost Savings for Federal Low Rise Residential Sector for the 2015 IECC Compared to 2009 IECC</TTITLE>
+                    <BOXHD>
+                        <CHED H="1">Metric</CHED>
+                        <CHED H="1">
+                            Annual national average fist cost increase
+                            <LI>(million)</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="01">Incremental First Cost Increase</ENT>
+                        <ENT>$9.24</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Energy Savings</ENT>
+                        <ENT>1.55</ENT>
+                    </ROW>
+                    <ROW>
+                        <ENT I="01">Life Cycle Cost Savings</ENT>
+                        <ENT>36.6</ENT>
+                    </ROW>
+                </GPOTABLE>
+                <HD SOURCE="HD2">B. Administrative Procedure Act</HD>
+                <P>DOE notes that the determination regarding the 2015 IECC in the context of State building codes was subject to notice and comment in evaluating the voluntary consensus codes. See 79 FR 57915 (September 26, 2014) for the preliminary determination and 80 FR 33250 (June 11, 2015) for the final determination. DOE also notes that the determination regarding the 2012 IECC in the context of State building codes was subject to notice and comment in evaluating the voluntary consensus codes. See 76 FR 42688 (July 19, 2011) for the preliminary determination and 77 FR 29322 (May 17, 2012) for the final determination. The determinations made in the context of the State codes are equally applicable in the context of Federal buildings. DOE finds that providing notice and comment on the determinations again in the context of Federal buildings would be unnecessary. The fact that the voluntary consensus codes apply to Federal buildings as opposed to the general building stock does not require a different evaluation of energy efficiency and cost-effectiveness. Additionally, DOE notes that this rule, which updates energy efficiency performance standards for the design and construction of new Federal buildings, is a rule relating to public property, and therefore is not subject to the rulemaking requirements of the Administrative Procedure Act, including the requirement to publish a notice of proposed rulemaking. (See 5 U.S.C. 553(a)(2))</P>
+                <HD SOURCE="HD2">C. Review Under the Regulatory Flexibility Act</HD>
+                <P>
+                    The Regulatory Flexibility Act (5 U.S.C. 601 
+                    <E T="03">et seq.</E>
+                    ) requires the preparation of an initial regulatory flexibility analysis for any rule that by law must be proposed for public comment, unless the agency certifies that the rule, if promulgated, will not have a significant economic impact on a substantial number of small entities. As required by Executive Order 13272, 
+                    <E T="03">Proper Consideration of Small Entities in Agency Rulemaking,</E>
+                     67 FR 53461 (August 16, 2002), DOE published procedures and policies on February 19, 2003, to ensure that the potential impacts of its rules on small entities are properly considered during the rulemaking process, 68 FR 7990. The Department has made its procedures and policies available on the Office of General Counsel's Web site: 
+                    <E T="03">http://energy.gov/gc/office-general-counsel.</E>
+                </P>
+                <P>DOE has determined that a notice of proposed rulemaking is not required by 5 U.S.C. 553 or any other law for issuance of this rule. As such, the analytical requirements of the Regulatory Flexibility Act do not apply.</P>
+                <HD SOURCE="HD2">D. Review Under the Paperwork Reduction Act of 1995</HD>
+                <P>
+                    This rulemaking will impose no new information or record keeping requirements. Accordingly, Office of Management and Budget (OMB) clearance is not required under the Paperwork Reduction Act. (44 U.S.C. 3501 
+                    <E T="03">et seq</E>
+                    ).
+                </P>
+                <HD SOURCE="HD2">E. Review Under the National Environmental Policy Act of 1969</HD>
+                <P>
+                    The Department prepared an Environmental Assessment (EA) (DOE/EA-2020) entitled, âEnvironmental Assessment for Final Rule, 10 CFR part 435, `Energy Efficiency Standards for New Federal Low-Rise Residential Buildings,' Baseline Standards Update,ââ
+                    <SU>21</SU>
+                    <FTREF/>
+                     pursuant to the Council on Environmental Quality's (CEQ) Regulations for Implementing the Procedural Provisions of the National Environmental Policy Act (40 CFR parts 1500-1508), the National Environmental Policy Act of 1969 (NEPA), as amended (42 U.S.C. 4321 
+                    <E T="03">et seq.</E>
+                    ), and DOE's NEPA Implementing Procedures (10 CFR part 1021).
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>21</SU>
+                        âThe EA may be found in the docket for this rulemaking and at 
+                        <E T="03">https://energy.gov/sites/prod/files/2016/12/f34/EA-2020-FEA-2016.pdf.</E>
+                    </P>
+                </FTNT>
+                <P>The EA addresses the possible incremental environmental effects attributable to the application of the final rule. The only anticipated impact would be a decrease in outdoor air pollutants resulting from decreased fossil fuel burning for energy use in Federal buildings. Therefore, DOE has issued a Finding of No Significant Impact (FONSI), pursuant to NEPA, the regulations of the Council on Environmental Quality (40 CFR parts 1500-1508), and DOE's regulations for compliance with NEPA (10 CFR part 1021).</P>
+                <P>To identify the potential environmental impacts that may result from implementing the final rule on new Federal low-rise residential buildings, DOE compared the requirements of the final rule updating energy efficiency performance standard for Federal new low-rise residential buildings to 2015 IECC with the âno-action alternativeâ of using the current Federal standards (the 2009 IECC). This comparison is identical to that undertaken by DOE in its determinations of energy savings of those standards and codes.</P>
+                <P>
+                    Accordingly, DOE concludes in the EA that new Federal buildings designed and constructed to the 2015 IECC will use less energy than new Federal buildings designed and constructed to the 2009 IECC because the 2015 IECC is more efficient than 2009 IECC. This decrease in energy usage translates to reduced emissions of carbon dioxide (CO
+                    <E T="52">2</E>
+                    ), nitrogen oxides (NO
+                    <E T="52">X</E>
+                    ), and mercury (Hg) over the thirty-year period examined in the EA. Cumulative emission reductions for 30 years of construction (2018 through 2047) and 30 years of energy reduction for each building built during that period can be estimated at up to 4,114,800 metric tons of CO
+                    <E T="52">2</E>
+                    , up to 3,147 metric tons of NO
+                    <E T="52">X</E>
+                    , and up to 0.0338 metric tons of Hg. DOE conducted a separate calculation to determine emissions reductions relative to the targets identified in the CAP. This calculation showed that the cumulative reduction in CO
+                    <E T="52">2</E>
+                     emissions through 2030 amounts to 690,220 metric tons of CO
+                    <E T="52">2</E>
+                    .
+                    <SU>22</SU>
+                    <FTREF/>
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>22</SU>
+                        âSee discussion of CAP calculations in footnote 12 on page 23 of the EA for this rule. The EA may be found in the docket for this rulemaking and at 
+                        <E T="03">https://energy.gov/sites/prod/files/2016/12/f34/EA-2020-FEA-2016.pdf.</E>
+                    </P>
+                </FTNT>
+                <PRTPAGE P="2866"/>
+                <HD SOURCE="HD2">F. Review Under Executive Order 13132, âFederalismâ</HD>
+                <P>Executive Order 13132, âFederalism,â 64 FR 43255 (August 4, 1999), imposes certain requirements on agencies formulating and implementing policies or regulations that preempt State law or that have federalism implications. The Executive Order requires agencies to examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and to carefully assess the necessity for such actions. The Executive Order also requires agencies to have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. On March 14, 2000, DOE published a statement of policy describing the intergovernmental consultation process it will follow in the development of such regulations, 65 FR 13735. DOE examined this rule and determined that it does not preempt State law and does not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of Government. No further action is required by Executive Order 13132.</P>
+                <HD SOURCE="HD2">G. Review Under Executive Order 12988, âCivil Justice Reformâ</HD>
+                <P>With respect to the review of existing regulations and the promulgation of new regulations, section 3(a) of Executive Order 12988, âCivil Justice Reform,â 61 FR 4729 (February 7, 1996), imposes on Federal agencies the general duty to adhere to the following requirements: (1) Eliminate drafting errors and ambiguity; (2) write regulations to minimize litigation; and (3) provide a clear legal standard for affected conduct, rather than a general standard and promote simplification and burden reduction. Section 3(b) of Executive Order 12988 specifically requires that Executive agencies make every reasonable effort to ensure that the regulation: (1) Clearly specifies the preemptive effect, if any; (2) clearly specifies any effect on existing Federal law or regulation; (3) provides a clear legal standard for affected conduct, while promoting simplification and burden reduction; (4) specifies the retroactive effect, if any; (5) adequately defines key terms; and (6) addresses other important issues affecting clarity and general draftsmanship under any guidelines issued by the Attorney General. Section 3(c) of Executive Order 12988 requires Executive agencies to review regulations in light of applicable standards in section 3(a) and section 3(b) to determine whether they are met or it is unreasonable to meet one or more of them. DOE has completed the required review and determined that, to the extent permitted by law, this rule meets the relevant standards of Executive Order 12988.</P>
+                <HD SOURCE="HD2">H. Review Under the Unfunded Mandates Reform Act of 1995</HD>
+                <P>
+                    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) (Pub. L. 104-4) requires each Federal agency to assess the effects of Federal regulatory actions on State, local, and tribal governments and the private sector. For a proposed regulatory action likely to result in a rule that may cause the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector of $100 million or more in any one year (adjusted annually for inflation), section 202 of UMRA requires a Federal agency to publish a written statement that estimates the resulting costs, benefits, and other effects on the national economy. (2 U.S.C. 1532(a) and (b)) The UMRA also requires a Federal agency to develop an effective process to permit timely input by elected officers of State, local, and tribal governments on a proposed âsignificant intergovernmental mandateâ and requires an agency plan for giving notice and opportunity for timely input to potentially affected small governments before establishing any requirements that might significantly or uniquely affect small governments. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA (62 FR 12820) (also available at 
+                    <E T="03">http://energy.gov/gc/office-general-counsel</E>
+                    ). This final rule contains neither an intergovernmental mandate nor a mandate that may result in the expenditure of $100 million or more in any year by State, local, and tribal governments, in the aggregate, or by the private sector, so these requirements under the Unfunded Mandates Reform Act do not apply.
+                </P>
+                <HD SOURCE="HD2">I. Review Under the Treasury and General Government Appropriations Act of 1999</HD>
+                <P>Section 654 of the Treasury and General Government Appropriations Act of 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family Policymaking Assessment for any rule that may affect family well-being. This final rule would not have any impact on the autonomy or integrity of the family as an institution. Accordingly, DOE has concluded that it is not necessary to prepare a Family Policymaking Assessment.</P>
+                <HD SOURCE="HD2">J. Review Under Executive Order 12630, âGovernmental Actions and Interference With Constitutionally Protected Property Rightsâ</HD>
+                <P>The Department has determined, under Executive Order 12630, âGovernmental Actions and Interference with Constitutionally Protected Property Rightsâ 53 FR 8859 (March 18, 1988) that this rule would not result in any takings which might require compensation under the Fifth Amendment to the United States Constitution.</P>
+                <HD SOURCE="HD2">K. Review Under the Treasury and General Government Appropriations Act, 2001</HD>
+                <P>Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) provides for agencies to review most disseminations of information to the public under guidelines established by each agency pursuant to general guidelines issued by OMB. OMB's guidelines were published at 67 FR 8452 (February 22, 2002), and DOE's guidelines were published at 67 FR 62446 (October 7, 2002). DOE has reviewed this final rule under the OMB and DOE guidelines and has concluded that it is consistent with applicable policies in those guidelines.</P>
+                <HD SOURCE="HD2">L. Review Under Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Useâ</HD>
+                <P>
+                    Executive Order 13211, âActions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,â 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to the Office of Information and Regulatory Affairs (OIRA), Office of Management and Budget, a Statement of Energy Effects for any proposed significant energy action. A âsignificant energy actionâ is defined as any action by an agency that promulgated or is expected to lead to promulgation of a final rule, and that: (1) Is a significant regulatory action under Executive Order 12866, or any successor order; and (2) is likely to have a significant adverse effect on the supply, distribution, or use of energy, or (3) is designated by the Administrator of OIRA as a significant energy action. For any proposed significant energy action, the agency must give a detailed statement of any adverse effects on energy supply, distribution, or use should the proposal be implemented, and of reasonable alternatives to the 
+                    <PRTPAGE P="2867"/>
+                    action and their expected benefits on energy supply, distribution, and use. DOE's Energy Information Administration (EIA) estimates that new construction in the residential sector will range from average about 81 million households in the US in 2016, with a growth rate of roughly 0.8% per year which is equivalent to about 648,000 new households per year.
+                    <SU>23</SU>
+                    <FTREF/>
+                     This rule is expected to incrementally reduce the energy usage of approximately 4936â
+                    <SU>24</SU>
+                    <FTREF/>
+                     units of Federal low-rise residential construction annually. Thus, the rule represents approximately 0.76% of the expected annual U.S. construction in 2017, and less in every succeeding year. This final rule would not have a significant adverse effect on the supply, distribution, or use of energy and, therefore, is not a significant energy action. Accordingly, DOE has not prepared a Statement of Energy Effects.
+                </P>
+                <FTNT>
+                    <P>
+                        <SU>23</SU>
+                        âSee Table A4 of the 2016 Annual Energy Outlook at 
+                        <E T="03">http://www.eia.gov/forecasts/aeo/.</E>
+                    </P>
+                </FTNT>
+                <FTNT>
+                    <P>
+                        <SU>24</SU>
+                        âSee Environmental Assessment for this rule for origin of the 4936 homes estimate.
+                    </P>
+                </FTNT>
+                <HD SOURCE="HD2">M. Review Under Section 32 of the Federal Energy Administration Act of 1974</HD>
+                <P>Under section 301 of the Department of Energy Organization Act (Pub. L. 95-91), DOE must comply with section 32 of the Federal Energy Administration Act of 1974 (Pub. L. 93-275), as amended by the Federal Energy Administration Authorization Act of 1977 (Pub. L. 95-70). (15 U.S.C. 788) Section 32 provides that where a proposed rule authorizes or requires use of commercial standards, the NOPR must inform the public of the use and background of such standards. In addition, section 32(c) requires DOE to consult with the Department of Justice (DOJ) and the Federal Trade Commission (FTC) concerning the impact of the commercial or industry standards on competition.</P>
+                <P>Although section 32 specifically refers to the proposed rule stage, DOE is meeting these requirements at the final rule stage because there was no proposed rule for this action. This final rule incorporates testing methods contained in the following commercial standard: ICC 2015 IECC, International Energy Conservation Code, 2014, International Code Council, ISBN 978-1-60983-486-9.</P>
+                <P>
+                    DOE has evaluated these standards and notes that the IECC Standard is developed under ICC's governmental consensus standard procedures, and is under a three-year maintenance cycle. ICC has established a program for regular publication of errata and revisions, including procedures for timely, documented, consensus action on requested changes to the IECC. The 2015 IECC was published in 2014. However, DOE is unable to conclude whether the IECC fully complies with the requirements of section 32(b) of the FEAA (
+                    <E T="03">i.e.,</E>
+                     whether they were developed in a manner that fully provides for public participation, comment, and review). DOE has consulted with both the Attorney General and the Chairman of the FTC about the impact on competition of using the methods contained in these standards and has received no comments objecting to their use.
+                </P>
+                <HD SOURCE="HD2">N. Description of Materials Incorporated by Reference</HD>
+                <P>
+                    In this rule, DOE incorporates by reference the ICC 2015 IECC, International Energy Conservation Code, Copyright 2014. This U.S. standard provides minimum requirements for energy efficient designs for low-rise residential buildings. Copies of this standard are available from the International Code Council, 4051 West Flossmoor Road, Country Club Hills, IL 60478, 1-888-422-7233, 
+                    <E T="03">http://www.iccsafe.org.</E>
+                </P>
+                <HD SOURCE="HD1">VII. Congressional Notification</HD>
+                <P>As required by 5 U.S.C. 801, DOE will report to Congress on the promulgation of this rule prior to its effective date. The report will state that it has been determined that the rule is not a âmajor ruleâ as defined by 5 U.S.C. 804(2).</P>
+                <HD SOURCE="HD1">VIII. Approval of the Office of the Secretary</HD>
+                <P>The Secretary of Energy has approved publication of this final rule.</P>
+                <LSTSUB>
+                    <HD SOURCE="HED">List of Subjects in 10 CFR Part 435</HD>
+                    <P>Buildings and facilities, Energy conservation, Federal buildings and facilities, Housing, Incorporation by reference.</P>
+                </LSTSUB>
+                <SIG>
+                    <DATED>Issued in Washington, DC, on December 28, 2016.</DATED>
+                    <NAME>David J. Friedman,</NAME>
+                    <TITLE>Acting Assistant Secretary, Energy Efficiency and Renewable Energy.</TITLE>
+                </SIG>
+                <P>For the reasons set forth in the preamble, the Department of Energy amends part 435 of chapter II of title 10 of the Code of Federal Regulations as set forth below:</P>
+                <PART>
+                    <HD SOURCE="HED">PART 435âENERGY EFFICIENCY STANDARDS FOR THE DESIGN AND CONSTRUCTION OF NEW FEDERAL LOW-RISE RESIDENTIAL BUILDINGS</HD>
+                </PART>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>1. The authority citation for part 435 continues to read as follows:</AMDPAR>
+                    <AUTH>
+                        <HD SOURCE="HED">Authority:</HD>
+                        <P>
+                            42 U.S.C. 6831-6832; 6834-6836; 42 U.S.C. 8253-54, 42 U.S.C. 7101 
+                            <E T="03">et seq.</E>
+                              
+                        </P>
+                    </AUTH>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>2. Section 435.2 is amended by:</AMDPAR>
+                    <AMDPAR>a. Adding in alphabetical order the definition of âIECC Baseline Building 2015â; and</AMDPAR>
+                    <AMDPAR>b. Revising the definition of âNew Federal buildingâ.</AMDPAR>
+                    <P>The revision and addition read as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â435.2 </SECTNO>
+                        <SUBJECT>Definitions.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            <E T="03">IECC Baseline Building 2015</E>
+                             means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in the ICC IECC 2015 (incorporated by reference, see Â§â435.3).
+                        </P>
+                        <STARS/>
+                        <P>
+                            <E T="03">New Federal building</E>
+                             means any new building (including a complete replacement of an existing building from the foundation up) to be constructed by, or for the use of, any federal agency. Such term shall include buildings built for the purpose of being leased by a federal agency, and privatized military housing.
+                        </P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>3. Revise Â§â435.3(b) to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â435.3 </SECTNO>
+                        <SUBJECT>Materials incorporated by reference.</SUBJECT>
+                        <STARS/>
+                        <P>
+                            (b) 
+                            <E T="03">ICC.</E>
+                             International Code Council, 4051 West Flossmoor Road, Country Club Hills, IL 60478, 1-888-422-7233, or go to 
+                            <E T="03">http://www.iccsafe.org/.</E>
+                        </P>
+                        <P>(1) ICC International Energy Conservation Code (IECC), 2004 Supplement Edition (âIECC 2004â), January 2005, IBR approved for Â§Â§â435.2, 435.4, 435.5;</P>
+                        <P>(2) ICC International Energy Conservation Code (IECC), 2009 Edition (âIECC 2009â), January 2009, IBR approved for Â§Â§â435.2, 435.4, 435.5.</P>
+                        <P>(3) ICC International Energy Conservation Code (IECC), 2015 Edition (âIECC 2015â), published May 30, 2014, IBR approved for Â§Â§â435.2, 435.4, 435.5.</P>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>4. Section 435.4 is amended by:</AMDPAR>
+                    <AMDPAR>a. Revising the introductory text of paragraph (a)(2);</AMDPAR>
+                    <AMDPAR>b. Adding paragraph (a)(3); and</AMDPAR>
+                    <AMDPAR>c. Revising paragraph (b).</AMDPAR>
+                    <P>The revisions and addition reads as follows:</P>
+                    <SECTION>
+                        <SECTNO>Â§â435.4</SECTNO>
+                        <SUBJECT> Energy efficiency performance standard.</SUBJECT>
+                        <P>(a) * * *</P>
+                        <P>
+                            (2) All Federal agencies shall design new Federal buildings that are low-rise residential buildings, for which design for construction began on or after 
+                            <PRTPAGE P="2868"/>
+                            August 10, 2012, but before January 10, 2018 to:
+                        </P>
+                        <STARS/>
+                        <P>(3) All Federal agencies shall design new Federal buildings that are low-rise residential buildings, for which design for construction began on or after January 10, 2018 to:</P>
+                        <P>(i) Meet the IECC 2015, (incorporated by reference, see Â§â435.3), including the mandatory mechanical ventilation requirements in Section R403.6 of the 2015 IECC; and</P>
+                        <P>(ii) If life-cycle cost-effective, achieve energy consumption levels, calculated consistent with paragraph (b) of this section, that are at least 30 percent below the levels of the IECC Baseline Building 2015.</P>
+                        <P>(b)(1) For new Federal low-rise residential buildings whose design for construction began before January 10, 2018, energy consumption for the purposes of calculating the 30 percent savings shall include space heating, space cooling, and domestic water heating.</P>
+                        <P>(2) For new Federal low-rise residential buildings whose design for construction began on or after before January 10, 2018, energy consumption for the purposes of calculating the 30 percent savings shall include space heating, space cooling, lighting, mechanical ventilation, and domestic water heating.</P>
+                        <STARS/>
+                    </SECTION>
+                </REGTEXT>
+                <REGTEXT TITLE="10" PART="435">
+                    <AMDPAR>5. Revise Â§â435.5 to read as follows:</AMDPAR>
+                    <SECTION>
+                        <SECTNO>Â§â435.5</SECTNO>
+                        <SUBJECT> Performance level determination.</SUBJECT>
+                        <P>(a) For new Federal buildings for which design for construction began on or after January 3, 2007, but before August 10, 2012, each Federal agency shall determine energy consumption levels for both the IECC Baseline Building 2004 and proposed building by using the Simulated Performance Alternative found in section 404 of the IECC 2004 (incorporated by reference, see Â§â435.3).</P>
+                        <P>(b) For new Federal buildings for which design for construction began on or after August 10, 2012, but before January 10, 2018, each Federal agency shall determine energy consumption levels for both the IECC Baseline Building 2009 and proposed building by using the Simulated Performance Alternative found in section 405 of the IECC 2009 (incorporated by reference, see Â§â435.3).</P>
+                        <P>(c) For new Federal buildings for which design for construction began on or after January 10, 2018 each Federal agency shall determine energy consumption levels for both the IECC Baseline Building 2015 and proposed building by using the Simulated Performance Alternative found in section R405 of the IECC 2015 (incorporated by reference, see Â§â435.3).</P>
+                    </SECTION>
+                </REGTEXT>
+            </SUPLINF>
+            <FRDOC>[FR Doc. 2017-00025 Filed 1-9-17; 8:45 am]</FRDOC>
+            <BILCOD> BILLING CODE 6450-01-P</BILCOD>
+        </RULE>

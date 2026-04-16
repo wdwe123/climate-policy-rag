@@ -1,0 +1,2467 @@
+<html>
+<head>
+<title>Federal Register, Volume 88 Issue 106 (Friday, June 2, 2023)</title>
+</head>
+<body><pre>
+[Federal Register Volume 88, Number 106 (Friday, June 2, 2023)]
+[Rules and Regulations]
+[Pages 36217-36236]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2023-11341]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF ENERGY
+
+10 CFR Part 431
+
+[EERE-2019-BT-TP-0041]
+RIN 1904-AE57
+
+
+Energy Conservation Program: Test Procedure for Commercial Warm 
+Air Furnaces
+
+AGENCY: Office of Energy Efficiency and Renewable Energy, Department of 
+Energy.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Department of Energy (DOE) is amending the Federal 
+test procedures for commercial warm air furnaces (CWAFs) to incorporate 
+the latest versions of the industry test standards that are currently 
+incorporated by reference. DOE is also establishing a new metric, 
+Thermal Efficiency Two (TE2), and corresponding test procedure. Use of 
+the newly established test procedure would become mandatory at such 
+time as compliance with amended energy conservation standards based on 
+TE2 is required, should DOE adopt such standards. DOE also is adopting 
+additional specifications for CWAFs with multiple flue outlets or small 
+flue outlets.
+
+DATES: The effective date of this rule is July 3, 2023. These 
+amendments will be mandatory for CWAF equipment testing starting May 
+28, 2024. The incorporation by reference of certain material listed in 
+this rule is approved by the Director of the Federal Register on July 
+3, 2023.
+
+ADDRESSES: The docket, which includes Federal Register notices, public 
+meeting attendee lists and transcripts, comments, and other supporting 
+documents/materials, is available for review at <a href="http://www.regulations.gov">www.regulations.gov</a> 
+under docket number EERE-2019-BT-TP-0041. All documents in the docket 
+are listed in the <a href="http://www.regulations.gov">www.regulations.gov</a> index. However, not all documents 
+listed in the index may be publicly available, such as those containing 
+information that is exempt from public disclosure.
+    A link to the docket web page can be found at: <a href="http://www.regulations.gov/docket/EERE-2019-BT-TP-0041">www.regulations.gov/docket/EERE-2019-BT-TP-0041</a>. The docket web page contains instructions 
+on how to access all documents, including public comments, in the 
+docket.
+    For further information on how to review the docket, contact the 
+Appliance and Equipment Standards Program staff at (202) 287-1445 or by 
+email: <a href="/cdn-cgi/l/email-protection#14556464787d757a77714760757a707566706745617167607d7b7a675471713a707b713a737b62"><span class="__cf_email__" data-cfemail="7b3a0b0b17121a15181e280f1a151f1a091f082a0e1e080f121415083b1e1e551f141e551c140d">[email&#160;protected]</span></a>.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Julia Hegarty, U.S. Department of 
+Energy, Office of Energy Efficiency and Renewable Energy, Building 
+Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC 
+20585-0121. Telephone: (240) 597-6737. Email: 
+<a href="/cdn-cgi/l/email-protection#82c3f2f2eeebe3ece1e7d1f6e3ece6e3f0e6f1d3f7e7f1f6ebedecf1c2e7e7ace6ede7ace5edf4"><span class="__cf_email__" data-cfemail="96d7e6e6fafff7f8f5f3c5e2f7f8f2f7e4f2e5c7e3f3e5e2fff9f8e5d6f3f3b8f2f9f3b8f1f9e0">[email&#160;protected]</span></a>.
+    Mr. Eric Stas, U.S. Department of Energy, Office of the General 
+Counsel, GC-33, 1000 Independence Avenue SW, Washington, DC 20585-0121. 
+Telephone: (202) 586-5827. Email: <a href="/cdn-cgi/l/email-protection#ace9dec5cf82ffd8cddfecc4dd82c8c3c982cbc3da"><span class="__cf_email__" data-cfemail="80c5f2e9e3aed3f4e1f3c0e8f1aee4efe5aee7eff6">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+[[Page 36218]]
+
+    DOE incorporates by reference the following industry standards into 
+part 431:
+    ANSI/AHRI 1500-2015 Performance Rating of Commercial Space Heating 
+Boilers (``AHRI 1500-2015'');
+    Copies of AHRI 1500-2015 can be obtained from the Air-Conditioning, 
+Heating, and Refrigeration Institute (AHRI), 2311 Wilson Blvd., Suite 
+400, Arlington, VA 22201, (703) 524-8800, or online at: 
+<a href="http://www.ahrinet.org">www.ahrinet.org</a>.
+    CSA/ANSI Z21.47:21, Gas-fired central furnaces (``ANSI Z21.47-
+2021'');
+    ANSI/ASME PTC 19.3-1974 (R2004), Supplement to ASME Performance 
+Test Codes: Part 3: Temperature Measurement, Instruments and Apparatus;
+    ANSI/ASHRAE 103-2022, Method of Testing for Annual Fuel Utilization 
+Efficiency of Residential Central Furnaces and Boilers (``ASHRAE 103-
+2022'');
+    Copies of ANSI Z21.47-2021, ANSI/ASME PTC 19.3-1974 (R2004) and 
+ANSI/ASHRAE 103-2022, can be obtained from the American National 
+Standards Institute (ANSI), 25 W 43rd Street, 4th Floor, New York, NY 
+10036, (212) 642-4900, or online at: <a href="http://www.webstore.ansi.org">www.webstore.ansi.org</a>.
+    ASTM D240-09, Standard Test Method for Heat of Combustion of Liquid 
+Hydrocarbon Fuels by Bomb Calorimeter;
+    ASTM D396-14a, Standard Specification for Fuel Oils;
+    ASTM D4809-09a, Standard Test Method for Heat of Combustion of 
+Liquid Hydrocarbon Fuels by Bomb Calorimeter (Precision Method);
+    ASTM D5291-10, Standard Test Methods for Instrumental Determination 
+of Carbon, Hydrogen, and Nitrogen in Petroleum Products and Lubricants;
+    ASTM E230/E230M-17, Standard Specification for Temperature-
+Electromotive Force (emf) Tables for Standardized Thermocouples (``ASTM 
+E230/E230M-17'');
+    Copies of ASTM D240-09, ASTM D396-14a, ASTM D4809-09a, ASTM D5291-
+10, and ASTM E230/E230M-17 can be obtained from ASTM International, 100 
+Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428, (877) 
+909-2786 or online at: <a href="http://www.astm.org">www.astm.org</a>.
+    NFPA 97-2003, Standard Glossary of Terms Relating to Chimneys, 
+Vents, and Heat-Producing Appliances.
+    Copies of NFPA 97-2003 can be obtained from the National Fire 
+Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169-
+7471, (1-800-344-3555) or online at: <a href="http://www.nfpa.org">www.nfpa.org</a>.
+    UL 727, Standard for Safety Oil-Fired Central Furnaces (``UL 727-
+2018'');
+    Copies of UL 727-2018 can be obtained from Underwriters 
+Laboratories, Inc. (UL), 333 Pfingsten Road, Northbrook, IL 60062, 
+(847) 272-8800 or online at: <a href="http://www.standardscatalog.ul.com">www.standardscatalog.ul.com</a>.
+    For a further discussion of these standards, see section IV.N of 
+this document.
+
+Table of Contents
+
+I. Authority and Background
+    A. Authority
+    B. Background
+II. Synopsis of the Final Rule
+III. Discussion
+    A. Scope of Applicability
+    B. Updates to Industry Standards
+    1. UL 727
+    2. HI BTS and AHRI 1500
+    3. ANSI Z21.47
+    4. ASHRAE 103
+    C. ``Thermal Efficiency Two'' Metric
+    1. Jacket Loss
+    2. Part-Load Performance
+    D. Electrical Energy Consumption
+    E. Other Test Procedure Updates and Clarifications
+    1. Flue Temperature Measurement in Models With Multiple Flue 
+Outlets
+    2. Flue Temperature Measurement in Models With Vent Space 
+Limitations
+    3. Flue Loss Determination
+    4. General Approach
+    F. Effective and Compliance Dates
+    G. Test Procedure Costs
+IV. Procedural Issues and Regulatory Review
+    A. Review Under Executive Orders 12866, 13563, and 14094
+    B. Review Under the Regulatory Flexibility Act
+    C. Review Under the Paperwork Reduction Act of 1995
+    D. Review Under the National Environmental Policy Act of 1969
+    E. Review Under Executive Order 13132
+    F. Review Under Executive Order 12988
+    G. Review Under the Unfunded Mandates Reform Act of 1995
+    H. Review Under the Treasury and General Government 
+Appropriations Act, 1999
+    I. Review Under Executive Order 12630
+    J. Review Under Treasury and General Government Appropriations 
+Act, 2001
+    K. Review Under Executive Order 13211
+    L. Review Under Section 32 of the Federal Energy Administration 
+Act of 1974
+    M. Congressional Notification
+    N. Description of Materials Incorporated by Reference
+V. Approval of the Office of the Secretary
+
+I. Authority and Background
+
+    CWAFs are included in the list of ``covered equipment'' for which 
+DOE is authorized to establish and amend energy conservation standards 
+and test procedures. (42 U.S.C. 6311(1)(J)) DOE's energy conservation 
+standards and test procedures for CWAFs are currently prescribed at 
+subpart D of part 431 of title 10 of the Code of Federal Regulations 
+(CFR). The following sections discuss DOE's authority to establish and 
+amend test procedures for CWAFs and relevant background information 
+regarding DOE's consideration of test procedures for this equipment.
+
+A. Authority
+
+    The Energy Policy and Conservation Act, as amended (EPCA),\1\ among 
+other things, authorizes DOE to regulate the energy efficiency of a 
+number of consumer products and certain industrial equipment. (42 
+U.S.C. 6291-6317) Title III, Part C \2\ of EPCA, Public Law 94-163 (42 
+U.S.C. 6311-6317, as codified) added by Public Law 95-619, Title IV, 
+section 441(a), established the Energy Conservation Program for Certain 
+Industrial Equipment, which sets forth a variety of provisions designed 
+to improve energy efficiency. This covered equipment includes CWAFs, 
+the subject of this final rule. (42 U.S.C. 6311(1)(J))
+---------------------------------------------------------------------------
+
+    \1\ All references to EPCA in this document refer to the statute 
+as amended through the Energy Act of 2020, Public Law 116-260 (Dec. 
+27, 2020), which reflect the last statutory amendments that impact 
+Parts A and A-1 of EPCA.
+    \2\ For editorial reasons, upon codification in the U.S. Code, 
+Part C was redesignated Part A-1.
+---------------------------------------------------------------------------
+
+    The energy conservation program under EPCA consists essentially of 
+four parts: (1) testing, (2) labeling, (3) Federal energy conservation 
+standards, and (4) certification and enforcement procedures. Relevant 
+provisions of EPCA include definitions (42 U.S.C. 6311), energy 
+conservation standards (42 U.S.C. 6313), test procedures (42 U.S.C. 
+6314), labeling provisions (42 U.S.C. 6315), and the authority to 
+require information and reports from manufacturers (42 U.S.C. 6316; 42 
+U.S.C. 6296).
+    The Federal testing requirements consist of test procedures that 
+manufacturers of covered equipment must use as the basis for: (1) 
+certifying to DOE that their equipment complies with the applicable 
+energy conservation standards adopted pursuant to EPCA (42 U.S.C. 
+6316(b); 42 U.S.C. 6296), and (2) making other representations about 
+the efficiency of that equipment (42 U.S.C. 6314(d)). Similarly, DOE 
+uses these test procedures to determine whether the equipment complies 
+with relevant standards promulgated under EPCA.
+    Federal energy efficiency requirements for covered equipment 
+established under EPCA generally supersede State laws and regulations 
+concerning energy conservation testing, labeling, and standards. (42 
+U.S.C. 6316(a) and 42 U.S.C. 6316(b); 42 U.S.C. 6297) DOE may, however, 
+grant waivers
+
+[[Page 36219]]
+
+of Federal preemption in limited circumstances for particular State 
+laws or regulations, in accordance with the procedures and other 
+provisions of EPCA. (42 U.S.C. 6316(b)(2)(D))
+    Under 42 U.S.C. 6314, EPCA also sets forth the criteria and 
+procedures DOE must follow when prescribing or amending test procedures 
+for covered equipment. Specifically, EPCA requires that any test 
+procedures prescribed or amended under this section must be reasonably 
+designed to produce test results which reflect energy efficiency, 
+energy use or estimated annual operating cost of a given type of 
+covered equipment (or class thereof) during a representative average 
+use cycle and requires that test procedures not be unduly burdensome to 
+conduct. (42 U.S.C. 6314(a)(2))
+    EPCA requires that the test procedure for CWAFs be those generally 
+accepted industry testing procedures or rating procedures developed or 
+recognized by the Air-Conditioning, Heating, and Refrigeration 
+Institute (AHRI) or by the American Society of Heating, Refrigerating 
+and Air-Conditioning Engineers (ASHRAE), as referenced in ASHRAE 
+Standard 90.1, ``Energy Standard for Buildings Except Low-Rise 
+Residential Buildings'' (ASHRAE Standard 90.1). (42 U.S.C. 
+6314(a)(4)(A)) Further, if such industry test procedure is amended, DOE 
+must amend its test procedure to be consistent with the amended 
+industry test procedure, unless DOE determines, by rule published in 
+the Federal Register and supported by clear and convincing evidence, 
+that such amended test procedure would not meet the requirements in 42 
+U.S.C. 6314(a)(2) and (3) related to representative use and test 
+burden, in which case DOE may establish an amended test procedure that 
+does satisfy those statutory provisions. (42 U.S.C. 6314(a)(4)(B) and 
+(C))
+    EPCA also requires that, at least once every seven years, DOE 
+evaluate test procedures for each type of covered equipment, including 
+CWAFs, to determine whether amended test procedures would more 
+accurately or fully comply with the requirements for the test 
+procedures to not be unduly burdensome to conduct and be reasonably 
+designed to produce test results that reflect energy efficiency, energy 
+use, and estimated operating costs during a representative average use 
+cycle. (42 U.S.C. 6314(a)(1)-(3))
+    In addition, if DOE determines that a test procedure amendment is 
+warranted, the Department must publish proposed test procedures in the 
+Federal Register and afford interested persons an opportunity (of not 
+less than 45 days duration) to present oral and written data, views, 
+and arguments on the proposed test procedures. (42 U.S.C. 6314(b)) If 
+DOE determines that test procedure revisions are not appropriate, DOE 
+must publish in the Federal Register its determination not to amend the 
+test procedures. (42 U.S.C. 6314(a)(1)(A)(ii)) As discussed further in 
+section I.B of this document, in January 2023, ASHRAE released the 
+latest version of ASHRAE Standard 90.1 (ASHRAE Standard 90.1-2022), 
+which updated the referenced industry standards for testing CWAFs to 
+reflect the most recent versions of those standards that are currently 
+available, thereby triggering DOE's rulemaking obligations under EPCA. 
+DOE is publishing this final rule amending the test procedure for CWAFs 
+in satisfaction of both the ``ASHRAE trigger'' requirement under 42 
+U.S.C. 6314(a)(4)(B) and the 7-year-lookback review requirement 
+specified in EPCA under 42 U.S.C. 6314(a)(1).
+
+B. Background
+
+    DOE's current test procedure for CWAFs is codified at 10 CFR 
+431.76, ``Uniform test method for the measurement of energy efficiency 
+of commercial warm air furnaces.'' The currently applicable test 
+procedure incorporates by reference two industry standards for testing 
+gas-fired CWAFs: American National Standards Institute (ANSI) Z21.47-
+2012, ``Standard for Gas-fired Central Furnaces'' (ANSI Z21.47-2012), 
+which is used for all types of gas-fired CWAFs; and ANSI/American 
+Society of Heating, Refrigeration, and Air-conditioning Engineers 
+(ASHRAE) Standard 103-2007, ``Method of Testing for Annual Fuel 
+Utilization Efficiency of Residential Central Furnaces and Boilers'' 
+(ANSI/ASHRAE 103-2007), which is specifically used for testing 
+condensing gas-fired CWAFs. 10 CFR 431.76 (c)(1), (d)(2), (e)(1), and 
+(f)(1); 10 CFR 431.75(b)(1) and (c)(1). The current test procedure also 
+incorporates by reference two industry standards for testing oil-fired 
+CWAFs: Hydronics Institute Division of AHRI (HI) BTS-2000 Rev 06.07, 
+``Method to Determine Efficiency of Commercial Space Heating Boilers'' 
+(HI BTS-2000) \3\ and Underwriters Laboratories (UL) standard UL 727-
+2006, ``Standard for Safety Oil-Fired Central Furnaces'' (UL 727-
+2006).\4\ 10 CFR 431.76(c)(2), (d)(1), and (e)(2); 10 CFR 471.75(d)(1) 
+and (e)(2).
+---------------------------------------------------------------------------
+
+    \3\ DOE determined that UL 727-1994 did not provide a procedure 
+for calculating the percent flue loss of the furnace, which is 
+necessary in calculating the TE, and, therefore, incorporated by 
+reference provisions from HI BTS-2000 to calculate the flue loss for 
+oil-fired CWAFs. 69 FR 61916, 61917, 61940 (Oct. 21, 2004).
+    \4\ UL 727-1994 is also incorporated by reference in 10 CFR 
+431.75 but is no longer referenced in the test method specified in 
+10 CFR 431.76, which references only UL 727-2006.
+---------------------------------------------------------------------------
+
+    DOE most recently amended the test procedure for CWAFs in a final 
+rule published in the Federal Register on July 17, 2015, which updated 
+the test procedure for gas-fired CWAFs to incorporate by reference the 
+latest versions of the industry standards available at the time (i.e., 
+ANSI Z21.47-2012 and ANSI/ASHRAE 103-2007). 80 FR 42614 (July 2015 
+final rule). At the time of the July 2015 final rule, UL 727-2006 and 
+HI BTS-2000 were still the most recent versions of those industry 
+standards.
+    Under EPCA's seven-year-lookback provision, DOE initiated a test 
+procedure rulemaking for CWAFs by publishing a request for information 
+(RFI) in the Federal Register on May 5, 2020 (May 2020 RFI). 85 FR 
+26626. The May 2020 RFI solicited public comments, data, and 
+information on aspects of the existing DOE test procedure for CWAFs, 
+including whether there are any issues with the current test procedure 
+and whether it is in need of updates or revisions. Id.
+    DOE published a notice of proposed rulemaking (NOPR) for the CWAFs 
+test procedure in the Federal Register on February 25, 2022 that 
+presented DOE's proposals to amend that test procedure. 87 FR 10726 
+(February 2022 NOPR). DOE held a webinar public meeting related to this 
+NOPR on March 29, 2022. DOE received comments in response to the 
+February 2022 NOPR from the interested parties listed in Table I.1.
+
+[[Page 36220]]
+
+
+
+ Table I.1--List of Commenters With Written Submissions or Oral Comments
+                  in Response to the February 2022 NOPR
+------------------------------------------------------------------------
+                                   Abbreviation used
+          Commenter(s)            in this Final Rule    Commenter type
+------------------------------------------------------------------------
+AAON Inc........................  AAON..............  Manufacturer.
+Air-Conditioning, Heating, and    AHRI..............  Manufacturer Trade
+ Refrigeration Institute.                              Association.
+American Gas Association and      AGA and APGA......  Utility Trade
+ American Public Gas Association.                      Association.
+Appliance Standards Awareness     Joint Advocates...  Efficiency
+ Project, and Natural Resources                        Advocacy
+ Defense Council.                                      Organization.
+California Energy Commission....  CEC...............  Efficiency
+                                                       Advocacy
+                                                       Organization.
+Carrier Corporation.............  Carrier...........  Manufacturer.
+Daikin Comfort Technologies       Daikin............  Manufacturer.
+ Manufacturing.
+Lennox International Inc........  Lennox............  Manufacturer.
+New York State Energy Research    NYSERDA...........  State Agency.
+ and Development Authority.
+Northwest Energy Efficiency       NEEA..............  Efficiency
+ Alliance.                                             Advocacy
+                                                       Organization.
+Pacific Gas and Electric          CA IOUs...........  Utilities.
+ Company, San Diego Gas and
+ Electric, and Southern
+ California Edison
+ (collectively, the ``California
+ Investor-Owned Utilities'').
+Rheem Manufacturing.............  Rheem.............  Manufacturer.
+------------------------------------------------------------------------
+
+    A parenthetical reference at the end of a comment quotation or 
+paraphrase provides the location of the item in the public record.\5\ 
+To the extent that interested parties have provided written comments 
+that are substantively similar to any oral comments provided during the 
+March 29, 2022 NOPR webinar public meeting, DOE cites the written 
+comments throughout this final rule. For the party that provided 
+substantive oral comments at the March 29, 2022 NOPR webinar public 
+meeting but did not submit written comments, DOE cites the public 
+meeting transcript.
+---------------------------------------------------------------------------
+
+    \5\ The parenthetical reference provides a reference for 
+information located in the docket of DOE's rulemaking to develop 
+test procedures for CWAFs. (Docket No. EERE-2019-BT-TP-0041, which 
+is maintained at <a href="http://www.regulations.gov">www.regulations.gov</a>). The references are arranged 
+as follows: (commenter name, comment docket ID number, page of that 
+document).
+---------------------------------------------------------------------------
+
+    Since publication of the February 2022 NOPR, DOE would note the 
+following additional developments which are relevant to this rulemaking 
+proceeding. As discussed, EPCA requires DOE to use industry test 
+procedures developed or recognized by AHRI or ASHRAE as referenced in 
+ASHRAE Standard 90.1. (42 U.S.C. 6314(a)(4)(A)-(B)) The latest update 
+to ASHRAE Standard 90.1 was released in January 2023 (ASHRAE Standard 
+90.1-2022). ASHRAE Standard 90.1-2022 references ANSI Z21.47-2021 as 
+the test method for gas-fired CWAFs and UL 727-2018 as the test method 
+for oil-fired CWAFs. This action by ASHRAE triggered DOE's rulemaking 
+obligations under EPCA. As noted previously, in such cases, EPCA 
+requires DOE to amend the Federal test procedure to be consistent with 
+these amended industry test procedures, unless DOE determines, by rule 
+published in the Federal Register and supported by clear and convincing 
+evidence, that to do so would not meeting the statutory requirements 
+related to representativeness and not being unduly burdensome. (42 
+U.S.C. 6314(a)(4)(B)) Furthermore, EPCA also requires that, at least 
+once every seven years, DOE evaluate test procedures for each class of 
+covered equipment, including those for CWAFs, to determine whether 
+amended test procedures would more accurately or fully comply with the 
+requirements for the test procedures to not be unduly burdensome to 
+conduct and be reasonably designed to produce test results that reflect 
+energy efficiency, energy use, and estimated operating costs during a 
+representative average use cycle. (42 U.S.C. 6314(a)(1)) This 
+rulemaking satisfies both of these statutory obligations.
+
+II. Synopsis of the Final Rule
+
+    In this final rule, DOE is amending its test procedures for CWAFs 
+as follows:
+    (1) Reorganize the setup and testing provisions in 10 CFR 431.76 
+related to the determination of thermal efficiency (TE) into the newly 
+established 10 CFR part 431, subpart D, appendix A (appendix A);
+    (2) Incorporate by reference the most recent versions of the 
+currently referenced industry standards:
+    <bullet> UL 727-2018 (previously UL 727-2006) for testing oil-fired 
+CWAFs;
+    <bullet> AHRI 1500-2015 (previously HI BTS-2000) for performing 
+fuel oil analysis and for calculating flue loss of oil-fired CWAFs;
+    <bullet> ANSI Z21.47-2021 (previously ANSI Z21.47-2012) for testing 
+gas-fired CWAFs; and
+    <bullet> ANSI/ASHRAE 103-2022 (previously ANSI/ASHRAE 103-2007) for 
+testing condensing gas-fired CWAFs;
+    (3) Incorporate by reference the standards referenced in UL 727-
+2018 (i.e., NFPA 97-2003 and ANSI/ASTM E230/230M-17), AHRI 1500-2015 
+(i.e., ASTM D396-14a, ASTM D240-09, ASTM D4809-09a, and ASTM D5291-10), 
+and ANSI Z21.47-2021 (i.e., ANSI/ASME PTC 19.3-1974 (R2004)) that are 
+necessary for performing the DOE test procedure;
+    (4) Clarify how to test units with multiple flue outlets, and units 
+with flue outlets having a cross-sectional area of 3.14 square inches 
+or less; and
+    (5) Establish a new test procedure at 10 CFR part 431, subpart D, 
+appendix B (appendix B), which generally requires testing as in 
+appendix A, but which establishes a new metric, ``TE2.'' The new TE2 
+metric accounts for jacket losses and part-load operation in addition 
+to accounting for flue losses. Manufacturers can use appendix B to make 
+voluntary representations of TE2; representations using this test 
+procedure are not mandatory until such time as compliance is required 
+with amended energy conservation standards based on TE2, should DOE 
+adopt such standards.
+    The amendments adopted in this final rule are summarized in Table 
+II.1 compared to the test procedure prior to amendment, as well as the 
+reason for the change.
+
+[[Page 36221]]
+
+
+
+                          Table II.1--Summary of Changes in the Amended Test Procedure
+----------------------------------------------------------------------------------------------------------------
+    DOE test procedure prior to                                       Applicable test
+             amendment                 Amended test procedures           procedure              Attribution
+----------------------------------------------------------------------------------------------------------------
+Referenced UL 727-2006 for testing   Incorporate by reference UL  appendix A and          Align with industry
+ oil-fired CWAFs.                     727-2018 for testing oil-    appendix B.             standard update.
+                                      fired CWAFs, and the
+                                      standards referenced in UL
+                                      727-2018 that are
+                                      necessary in performing
+                                      the DOE test procedure
+                                      (i.e., NFPA 97-2003 and
+                                      ANSI/ASTM E230/E230M-17).
+Referenced HI BTS-2000 for           Incorporate by reference     appendix A and          Align with industry
+ performing fuel oil analysis and     AHRI 1500-2015 for           appendix B.             standard update.
+ for calculating flue loss of oil-    performing fuel oil
+ fired CWAFs.                         analysis and for
+                                      calculating flue loss of
+                                      oil-fired CWAFs and the
+                                      standards referenced in
+                                      AHRI 1500-2015 that are
+                                      necessary in performing
+                                      the DOE test procedure
+                                      (i.e., ASTM D396-14a, ASTM
+                                      D240-09, ASTM D4809-09a,
+                                      and ASTM D5291-10).
+Referenced ANSI Z21.47-2012 for      Incorporate by reference     appendix A and          Align with industry
+ testing gas-fired CWAFs.             ANSI Z21.47-2021 for         appendix B.             standard update.
+                                      testing gas-fired CWAFs,
+                                      and the standards
+                                      referenced in ANSI Z21.47-
+                                      2021 that are necessary in
+                                      performing the DOE test
+                                      procedure (i.e., ANSI/ASME
+                                      PTC 19.3-1974 (R2004)).
+Referenced ANSI/ASHRAE 103-2007 for  Incorporate by reference     appendix A and          Align with industry
+ testing condensing gas-fired CWAFs.  ANSI/ASHRAE 103-2022 for     appendix B.             standard update.
+                                      testing condensing gas-
+                                      fired CWAFs.
+Did not specify how to test units    Adds specifications for      appendix A and          Additional
+ with multiple flue outlets.          units with multiple flue     appendix B.             specification to
+                                      outlets. Measurements made                           improve consistency
+                                      in each flue outlet shall                            and repeatability in
+                                      be averaged or adjusted                              testing.
+                                      using a weighted average,
+                                      depending on the input
+                                      capacity of the furnace
+                                      module associated with
+                                      each flue outlet.
+Did not specify how to test units    Adds specifications to       appendix A and          Additional
+ with flue outlets that are too       address units with small     appendix B.             specification to
+ small to fit nine thermocouples.     flue outlets. Units with                             improve consistency
+                                      flue outlets that are 3.14                           and repeatability in
+                                      inches or smaller in cross-                          testing.
+                                      sectional area may
+                                      optionally use 5
+                                      thermocouples.
+Efficiency metric (TE) only          Establishes a new metric     appendix B............  Improve
+ accounted for flue losses and does   (TE2) that accounts for                              representativeness.
+ not account for jacket losses or     flue losses, jacket
+ part-load operation.                 losses, and part-load
+                                      operation.
+----------------------------------------------------------------------------------------------------------------
+
+    DOE has determined that the adopted amendments for the test 
+procedure at appendix A described in section III of this document will 
+not alter the measured TE of CWAFs, that the test procedures are not 
+unduly burdensome to conduct, and that the test procedures more 
+accurately produce test results that reflect energy efficiency, energy 
+use, and estimated operating costs of CWAFs during a representative 
+average use cycle.
+    DOE has determined that the additional amendments for appendix B, 
+which adopt TE2 as a new efficiency metric for CWAFs, do alter the 
+reported efficiency of CWAFs. However, testing in accordance with the 
+TE2 test procedure is not required until such time as compliance is 
+required with any amended energy conservation standards based on 
+appendix B. Prior to such date, voluntary representations of TE2 may be 
+made, but they must be based upon use of the test procedure in appendix 
+B.
+    The amendments adopted in this final rule are discussed in detail 
+in section III of this document.
+    The effective date for the amended test procedures adopted in this 
+final rule is 30 days after publication of this document in the Federal 
+Register. Representations of energy use or energy efficiency must be 
+based on testing in accordance with the amended test procedures 
+beginning 360 days after the date of publication of this final rule in 
+the Federal Register.
+
+III. Discussion
+
+    In the following sections, DOE describes the adopted amendments to 
+the test procedures for CWAFs. DOE also discusses issues raised by 
+commenters on the February 2022 NOPR, along with DOE's responses.
+
+A. Scope of Applicability
+
+    This rulemaking applies to CWAFs. EPCA defines ``warm air furnace'' 
+as a self-contained oil-fired or gas-fired furnace designed to supply 
+heated air through ducts to spaces that require it and includes 
+combination warm air furnace/electric air conditioning units, but does 
+not include unit heaters and duct furnaces. (42 U.S.C. 6311(11)(A)) DOE 
+codified the statutory definition of ``warm air furnace'' at 10 CFR 
+431.72. DOE defines a CWAF as a warm air furnace that is industrial 
+equipment, and that has a capacity (rated maximum input) of 225,000 
+British thermal units (Btu) per hour or more. 10 CFR 431.72.
+    In response to the February 2022 NOPR, NEEA recommended that DOE 
+expand the scope of CWAF coverage to include 3-phase units with a 
+capacity less than 225,000 Btu/h. NEEA asserted that failing to do so 
+would leave a significant portion of the CWAF market unregulated, and 
+the commenter noted that DOE has recently proposed closing a similar 
+regulatory gap for 3-phase small commercial air conditioners and heat 
+pumps and variable refrigerant flow air conditioners and heat pumps 
+with cooling capacities less than 65,000 btu/h. (NEEA, No. 24 at p. 8)
+    In response, DOE notes that NEEA made the same recommendation in a 
+comment submitted in response to a notice of proposed determination 
+(``NOPD'') for CWAF energy conservation standards that was published in 
+the Federal Register on April 26, 2022 (April 2022 NOPD). 87 FR 24455 
+(See Docket No. EERE-2019-BT-STD-0042, comment 34 at p. 6) 
+Subsequently, in a final determination published in the Federal 
+Register on December 23, 2022 (December 2022 Final Determination), DOE 
+declined to
+
+[[Page 36222]]
+
+amend the CWAF definition to include three-phase furnaces with 
+capacities less than 225,000 Btu/h due to the limited potential to 
+achieve energy savings from doing so. 87 FR 78821, 78826. DOE maintains 
+its position from the December 2022 Final Determination that such 
+equipment represents a small portion of the overall CWAF market, which 
+at present does not provide an opportunity for significant energy 
+savings.
+
+B. Updates to Industry Standards
+
+    As discussed, prior to the amendments adopted in this final rule, 
+DOE incorporated by reference in 10 CFR part 431, subpart D, the 
+following industry test procedures: UL 727-2006, HI-BTS 2000, ANSI 
+Z21.47-2012, and ANSI/ASHRAE Standard 103-2007. Updated versions of 
+each of these test standards have been published since they were 
+incorporated into the DOE test procedure. These updated test standards 
+are UL 727-2018 (update to UL 727-2006), AHRI 1500-2015 (update to HI-
+BTS 2000), ANSI Z21.47-2021 (update to ANSI Z21.47-2016), and ANSI/
+ASHRAE Standard 103-2022 \6\ (update to ANSI/ASHRAE Standard 103-2007).
+---------------------------------------------------------------------------
+
+    \6\ The February 2022 TP NOPR proposed to incorporate by 
+reference ANSI/ASHRAE 103-2017; however, in 2022, ASHRAE published a 
+more recent version of the standard, ANSI/ASHRAE 103-2022.
+---------------------------------------------------------------------------
+
+    In the February 2022 NOPR, DOE noted several differences between 
+versions of the industry standards incorporated by reference at that 
+time and the more recent versions of the industry standards and sought 
+comment on these changes. 87 FR 10726, 10730-10735 (Feb. 25, 2022). 
+Stakeholder comments in response these proposals in the February 2022 
+NOPR are discussed in the following sections. In response to the 
+updates to the relevant industry standards, DOE is amending the Federal 
+test procedure for CWAFs to incorporate by reference in 10 CFR part 
+431, subpart D, the following updated industry standards: UL 727-2018, 
+AHRI 1500-2015, ANSI Z21.47-2021, and ANSI/ASHRAE 103-2022.
+    As discussed, prior to the effective date of the amendments adopted 
+in this final rule, the DOE test procedure for CWAFs was specified in 
+10 CFR 431.76. In this final rule, DOE is reorganizing the CWAF test 
+procedures into two appendixes to subpart D of 10 CFR part 431: 
+appendix A (using the current TE metric) and appendix B (using the new 
+TE2 metric). DOE is reorganizing the test procedures in this way 
+because, as discussed in section III.C of this document, DOE is 
+establishing appendix B for determining the TE2. In contrast, the 
+establishment of appendix A is editorial and for reorganization 
+purposes. DOE has determined that creating separate appendixes for the 
+determination of the two different metrics would help clarify which 
+appendix corresponds to which metric. Relevant to both appendices, DOE 
+is incorporating by reference the industry standards, as discussed in 
+the following sections.
+1. UL 727
+    The CWAF test procedure, prior to the amendments adopted in this 
+final rule, required use of those procedures contained in UL 727-2006 
+that are relevant to the steady-state efficiency measurement (i.e., UL 
+727-2006 sections 1 through 3; 37 through 42 (except for sections 40.4 
+and 40.6.2 through 40.6.7); 43.2; and 44 through 46).
+    In the February 2022 NOPR, DOE proposed to amend the test procedure 
+to reference UL 727-2018. 87 FR 10726, 10731 (Feb. 25, 2022). 
+Additionally, DOE proposed to explicitly identify the provisions of UL 
+727-2018 that are applicable to the DOE test procedure for CWAFs, 
+because DOE tentatively determined that the scope section of UL 727-
+2018 is not applicable since the scope of the DOE test procedure is 
+defined separately in 10 CFR 431.76(a). Id.
+    The February 2022 NOPR also discussed that UL 727-2018 has 
+different language pertaining to temperature measurements and using 
+potentiometers and thermocouples, and it also incorporates different 
+ANSI references regarding these topics as compared to UL 727-2006. DOE 
+tentatively determined that there was not sufficient evidence to 
+indicate that the updates in UL 727-2018 would not meet the 
+requirements of EPCA at 42 U.S.C. 6314(a)(2) and (3); therefore, DOE 
+proposed to also incorporate by reference the updated ANSI standard 
+(i.e., ANSI/ASTM E230/E230M-17) referenced by UL 727-2018. 87 FR 10726, 
+10732 (Feb. 25, 2022).
+    Finally, in the February 2022 NOPR, DOE discussed that UL 727-2018 
+references NFPA 97M, ``Standard Glossary of Terms Relating to Chimneys, 
+Gas Vents and Heat Producing Appliances'' (NFPA 97M) for definitions of 
+the terms ``combustible'' and ``noncombustible'' but does not specify 
+which version of NFPA 97M. DOE tentatively concluded that NFPA 97M is 
+an outdated standard and that NFPA 97-2003, ``Standard Glossary of 
+Terms Relating to Chimneys, Vents, and Heat-Producing Appliances'' 
+(NFPA 97-2003) should be referenced for these definitions instead. 
+Therefore, DOE proposed to replace references to NFPA 97M in UL 727-
+2018 with references to NFPA 97-2003. Id.
+    DOE received comments from Daikin, Carrier, and AHRI supporting the 
+proposal to reference NFPA 97-2003 rather than NFPA 97M. (Daikin, No. 
+25 at p. 1; Carrier, No. 22 at p. 2; AHRI, No. 17 at p. 2) DOE did not 
+receive any comments in response to the proposals related to 
+incorporating by reference UL 727-2018.
+    For the reasons summarized in this document and discussed in the 
+February 2022 NOPR, DOE is amending the DOE test procedure to 
+incorporate by reference UL 727-2018, as well as incorporating the 
+additional industry standards related to UL 727-2018.
+2. HI BTS and AHRI 1500
+    Prior to the amendments adopted in this final rule, DOE's test 
+procedure for oil-fired CWAFs referenced sections of HI BTS-2000 that 
+are relevant to fuel oil analysis and calculating percent flue loss 
+(i.e., HI BTS-2000 sections 8.2.2, 11.1.4, 11.1.5, and 11.1.6.2). (See 
+10 CFR 431.76(c)(2) and (e)(2) in effect as of January 1, 2022.) DOE's 
+test procedure included these provisions because DOE previously 
+determined that UL 727 does not provide a procedure for calculating the 
+percent flue loss of the furnace, which is necessary in calculating the 
+TE. Therefore, DOE incorporated by reference provisions from HI BTS-
+2000 to calculate the flue loss for oil-fired CWAFs. 69 FR 61916, 
+61917, 61940 (Oct. 21, 2004).
+    In the February 2022 NOPR, DOE explained that in 2015, HI BTS-2000 
+was replaced with AHRI 1500-2015. 87 FR 10726, 10732 (Feb. 25, 2022). 
+The February 2022 NOPR also discussed that the DOE test procedure 
+references fuel oil analysis requirements in HI BTS-2000 and that the 
+fuel oil analysis requirements are different in AHRI 1500-2015. DOE 
+tentatively determined that the differences would not impact the 
+performance of a CWAF under test because the fuel oil analysis 
+requirements in AHRI 1500-2015 are essentially equivalent to those in 
+HI BTS-2000. As a result, DOE proposed to incorporate by reference AHRI 
+1500-2015, including its fuel oil analysis specifications. 87 FR 10726, 
+10733 (Feb. 25, 2022).
+    In addition, in the February 2022 NOPR DOE noted that section 
+11.1.4 of HI BTS-2000 requires that the carbon dioxide (CO<INF>2</INF>) 
+value used in the calculation of the dry flue gas loss for
+
+[[Page 36223]]
+
+oil must be the measured CO<INF>2,</INF>\7\ while section C7.2.4 of 
+AHRI 1500-2015 (previously section 11.1.4 in HI BTS-2000) includes the 
+option to calculate CO<INF>2</INF> using the measured oxygen 
+(O<INF>2</INF>) value instead of directly measuring the CO<INF>2</INF> 
+value. 87 FR 10726, 10733 (Feb. 25, 2022). DOE tentatively determined 
+that calculating CO<INF>2</INF> using a measured O<INF>2</INF> value, 
+as specified in AHRI 1500-2015, would provide results equivalent to the 
+CO<INF>2</INF> measurement currently required by the DOE test method, 
+and that allowing a calculated value of CO<INF>2</INF> would harmonize 
+with the latest industry standard without increasing test burden. As 
+such, DOE proposed to adopt the optional method specified in AHRI 1500-
+2015 that allows for calculation CO<INF>2</INF> using a measured 
+O<INF>2</INF> value and requested comment on this proposal. Id.
+---------------------------------------------------------------------------
+
+    \7\ The DOE test procedure at 10 CFR 431.76(d) also states that 
+CO<INF>2</INF> must be measured.
+---------------------------------------------------------------------------
+
+    AHRI supported the proposal to adopt the optional method specified 
+in AHRI 1500-2015 that allows for calculation CO<INF>2</INF> using a 
+measured O<INF>2</INF> value. (AHRI, No. 17 at p. 2) DOE did not 
+receive any other comments related to its proposal to incorporate by 
+reference AHRI 1500-2015. Therefore, for the reasons discussed here and 
+in the February 2022 NOPR, DOE is adopting the proposals related to 
+this topic made in the February 2022 NOPR.
+3. ANSI Z21.47
+    Prior to the amendments adopted in this final rule, the CWAF test 
+procedure required the use of procedures contained in ANSI Z21.47-2012 
+that are relevant to the steady-state efficiency measurement (i.e., 
+sections 1.1, 2.1 through 2.6, 2.39, and 4.2.1 of ANSI Z21.47-2012).
+    In the February 2022 NOPR, DOE proposed to replace the 
+incorporation by reference of ANSI Z21.47-2012 with ANSI Z21.47-2021. 
+87 FR 10726, 10734 (Feb. 25, 2022). DOE explained in the February 2022 
+NOPR that all of the differences it had identified between the two 
+versions of the standard were non-substantive and would not impact the 
+test method or result. Id. However, DOE also noted that ANSI Z21.47-
+2012 requires burner operating characteristics tests to be conducted 
+with test gas G (i.e., butane-air), while ANSI Z21.47-2021 allows 
+testing for premix burners to be done with test gas H (i.e., propane-
+air) instead of test gas G at the manufacturer's option. In the 
+February 2022 NOPR, DOE stated that the burner operating 
+characteristics tests (including which test gas is used for them) do 
+not affect the TE measurement of a CWAF and requested comment on 
+whether the option provided in section 5.4a of ANSI Z21.47-2021 to use 
+test gas H when performing the three burner characteristics tests would 
+impact the representativeness or burden of the thermal efficiency test. 
+Id.
+    Lennox, Daikin, Carrier, and AHRI stated that section 5.4a of ANSI 
+Z21.47-2021 is used for safety certification testing, and is unrelated 
+to TE, and, therefore, recommended DOE should not reference this 
+section. (Lennox, No. 19 at p. 3; Daikin, No. 25 at p. 2; Carrier, No. 
+22 at p. 2; AHRI, No. 17 at p. 2) Rheem also stated that the thermal 
+efficiency test is not affected by the burner operating characteristics 
+test. (Rheem, Public Meeting Transcript, No. 15 at p. 11) DOE received 
+no other comments related to its proposal to incorporate by reference 
+ANSI Z21.47-2021.
+    For the reasons discussed here and in the February 2022 NOPR, DOE 
+is amending the test procedure for CWAFs to replace the incorporation 
+by reference of ANSI Z21.47-2012 with ANSI Z21.47-2021. In addition, 
+DOE agrees with stakeholders that section 5.4a of ANSI Z21.47-2021 does 
+not impact TE, and, therefore, does not need to be referenced in the 
+DOE test procedure for CWAFs. As such, DOE is not including reference 
+to this section in the DOE test procedure.
+4. ANSI/ASHRAE 103
+    Prior to adoption of the amendments in this final rule, DOE's test 
+procedure for gas-fired condensing CWAFs referenced ANSI/ASHRAE 103-
+2007. In the February 2022 NOPR, DOE proposed to amend the test 
+procedure by removing the reference to ANSI/ASHRAE 103-2007 and to 
+instead reference ANSI/ASHRAE 103-2017, having determined that the only 
+differences between the standards in the sections utilized by the CWAF 
+test method were editorial in nature. 87 FR 10726, 10735. An updated 
+version of ANSI/ASHRAE 103, ANSI/ASHRAE 103-2022, has since been 
+released. DOE reviewed ANSI/ASHRAE 103-2022 and determined that, for 
+the sections utilized in the test methods for CWAFs, there is no 
+difference between the two versions of the standard.
+    DOE did not receive any comments in response to its proposal to 
+reference ANSI/ASHRAE 103-2017.
+    Accordingly, for the reasons explained previously and because DOE 
+has found there is no difference between ANSI/ASHRAE 103-2017 and ANSI/
+ASHRAE 103-2022 in the sections utilized for the CWAFs test procedure, 
+DOE is amending the test procedures for CWAFs to incorporate by 
+reference ANSI/ASHRAE 103-2022.
+
+C. Thermal Efficiency Two Metric
+
+    As previously discussed, EPCA requires that the test procedures for 
+CWAFs be those generally accepted industry testing procedures or rating 
+procedures developed or recognized by AHRI or ASHRAE, as referenced in 
+ASHRAE Standard 90.1. (42 U.S.C. 6314(a)(4)(A)) If such an industry 
+test procedure or rating procedure is amended, the Secretary shall 
+amend the test procedure for the product as necessary to be consistent 
+with the amended industry test procedure or rating procedure unless the 
+Secretary determines, by rule, published in the Federal Register and 
+supported by clear and convincing evidence, that to do so would not 
+meet the requirements in 42 U.S.C. 6314(a)(2) and (3) related to 
+representative use and test burden.\8\ (42 U.S.C. 6314(a)(4)(B))
+---------------------------------------------------------------------------
+
+    \8\ 42 U.S.C. 6314(a)(2) requires that test procedures be 
+reasonably designed to produce test results which reflect energy 
+efficiency, energy use, and estimated operating costs of a type of 
+industrial equipment (or class thereof) during a representative 
+average use cycle (as determined by the Secretary), and shall not be 
+unduly burdensome to conduct. 42 U.S.C. 6314(a)(3) requires that if 
+the test procedure is a procedure for determining estimated annual 
+operating costs, such procedure shall provide that such costs shall 
+be calculated from measurements of energy use in a representative 
+average-use cycle (as determined by the Secretary), and from 
+representative average unit costs of the energy needed to operate 
+such equipment during such cycle.
+---------------------------------------------------------------------------
+
+    In the February 2022 NOPR, DOE tentatively determined that a test 
+procedure that includes jacket loss and accounts for part-load 
+operation would better produce test results that reflect energy 
+efficiency, energy use, and estimated operating costs of CWAFs during a 
+representative average use cycle. 87 FR 10726, 10735 (Feb. 25, 2022). 
+Therefore, DOE proposed to account for these factors by establishing a 
+new test procedure and metric for CWAFs, termed TE2. DOE proposed to 
+establish appendix A to subpart D of 10 CFR part 431 as the test method 
+for calculating TE and to establish a new appendix B to subpart D of 10 
+CFR part 431, which would contain the new test method for TE2. The 
+proposed test procedure at appendix B would generally adopt the same 
+changes proposed for the current test procedure at appendix A but would 
+additionally account for jacket losses and part load operation. 87 FR 
+10726, 10735-10737 (Feb. 25, 2022). Additionally, DOE proposed that 
+manufacturers would be permitted to make voluntary representations 
+using TE2, and that mandatory use of the TE2 test procedure
+
+[[Page 36224]]
+
+would be required at such time as compliance is required with amended 
+energy conservation standards based on TE2, should DOE adopt such 
+standards. 87 FR 10726, 10737.
+    DOE received several comments supporting DOE's proposed test 
+procedure for TE2 in the February 2022 NOPR. NYSERDA generally 
+supported DOE's efforts to establish the TE2 metric because it will 
+improve representativeness of CWAF field performance. (NYSERDA, No. 16 
+at p. 2) The Joint Advocates supported DOE's proposal to establish the 
+TE2 metric, noting that the current TE metric only accounts for flue 
+losses, which provides little incentive to manufacturers to adopt 
+technologies that impact efficiency in the field, and not just TE. The 
+Joint Advocates, therefore, stated that the TE2 metric would better 
+reflect a representative average use cycle and would encourage design 
+changes that would reduce energy consumption. (Joint Advocates, No. 21 
+at p. 1)
+    DOE also received several comments opposing the proposed test 
+procedure for TE2. Lennox stated that the proposed new TE2 efficiency 
+metric and methodology is a significant change that would significantly 
+increase the test burden, with the commenter asserting that DOE has not 
+provided supporting data that would justify these changes. Lennox 
+argued that introducing such changes at the NOPR stage did not allow 
+stakeholders sufficient time to fully evaluate their impacts and 
+provide comment. Lennox noted that in standards rulemakings, DOE has 
+declined to adopt or propose more-stringent standards due to lack of 
+clear and convincing evidence that standards would be economically 
+justified, and the commenter asserted that in their review of current 
+CWAF test procedure and standards rulemakings, DOE has not provided 
+clear and convincing evidence to establish the TE2 metric. Therefore, 
+Lennox recommended that DOE should limit its test procedure amendments 
+to those related to TE; otherwise, if DOE continues to pursue TE2, the 
+commenter argued that DOE should revert back to the RFI stage so as to 
+allow for more stakeholder engagement regarding the proposals in the 
+TE2 metric. Lennox also argued against adoption of the TE2 metric 
+because of the associated cumulative regulatory burden. (Lennox, No. 19 
+at pp. 1-2) AHRI opposed adoption of the TE2 test procedure and metric 
+because there was no reference to such a proposal for a new metric or 
+any form of part-load testing in the May 2020 RFI and because DOE 
+failed to include key stakeholders in the development of TE2. In 
+addition, the commenter stated that there is not sufficient data or 
+justification indicating that such a change to the metric would result 
+in any additional energy savings. AHRI stated that the proposal to 
+adopt the TE2 metric is premature, and that if DOE wishes to do so, DOE 
+should go back to the RFI stage, conduct tests, and release data 
+showing the new test procedure is significantly more representative 
+than the current test procedure. AHRI also argued that the proposed TE2 
+metric is not economically justified, and that if DOE were to adopt 
+energy conservation standards based on such a metric, a crosswalk would 
+run the risk of inadvertently pushing compliant units out of the market 
+to produce a standard that can only be met through use of condensing 
+technology. Therefore, AHRI urged DOE to continue using the current TE 
+metric. (AHRI, No. 17 at pp. 2-3) Daikin agreed with AHRI on this 
+issue. (Daikin, No. 25 at p. 2) AGA and APGA stated that while they are 
+supportive of AHRI's comments overall, they wish to reiterate that they 
+do not support DOE adopting the TE2 metric because it is not clear that 
+it is more representative than the existing DOE test procedure, and 
+because there is no evidence to support that the proposed TE2 test 
+procedure would result in a significant change in energy savings. AGA 
+and APGA also expressed concern that adopting energy conservation 
+standards based on the TE2 metric would result in a standard that could 
+only be met through use of condensing technology. (AGA and APGA, No. 23 
+at p. 2) Carrier acknowledged that including jacket loss and part load 
+operation in the thermal efficiency metric would create a more 
+representative metric but asserted that more investigation and analysis 
+needs to be completed before doing so. (Carrier, No. 22 at p. 2)
+    In response, DOE notes that the TE metric only accounts for flue 
+losses as measured while the CWAF is operating at its maximum input 
+rate. Through testing of other similar appliances (e.g., consumer 
+furnaces), DOE has found that the efficiency can vary when the unit 
+operates at different fuel input rates; hence, test methods for such 
+appliances require testing at multiple fuel input rates. Therefore, DOE 
+concludes that including more than one fuel input rate will improve 
+representativeness of CWAF energy efficiency as compared to only 
+testing at the maximum input rate, since it will capture performance at 
+additional operating points. Regarding jacket losses, DOE has found 
+that CWAFs are often installed outside, and as a result, jacket losses 
+can contribute significantly to overall equipment energy use. Thus, DOE 
+concludes that accounting for jacket losses results in a metric that is 
+more representative of CWAF performance than a metric that ignores such 
+losses. Further, DOE notes that the methods proposed for determining 
+TE2, which require testing to determine jacket loss and TE, are already 
+in use in either industry standards (e.g., ANSI Z21.47) or DOE's own 
+test method for CWAFs. Therefore, manufacturers should be familiar with 
+the methods of testing such that reverting to an RFI would not be 
+necessary to provide time for additional input. While DOE recognizes 
+that additional testing at the minimum input rate and for jacket loss 
+would increase test burden, which is discussed in more detail in 
+section III.G, of this document, DOE has concluded that the benefit of 
+the increased representativeness offsets the additional test burden. 
+Additionally, DOE would make clear that representations using the TE2 
+metric are not mandatory until such time as compliance with a standard 
+denominated in terms of the TE2 metric is required, should DOE adopt 
+such a standard. In this rulemaking, DOE is not amending standards to 
+be based on TE2; rather, DOE is making available an optional test 
+method, should manufacturers wish to make representations of efficiency 
+using a more comprehensive metric. If, in a future energy conservation 
+standards rulemaking, DOE considers whether to adopt an energy 
+conservation standard based on the TE2 metric, DOE would further weigh 
+the benefits and burdens of doing so at that time, including the 
+potential additional energy savings that could be achieved through use 
+of TE2 as the regulatory metric as compared to TE and whether there is 
+economic justification for doing so. Based on these considerations, DOE 
+has determined to adopt the proposals in the February 2022 NOPR 
+regarding establishing TE2 and appendix B. The following sections 
+discuss the different components of TE2 (i.e., jacket loss and part-
+load operation) and specific comments from interested parties on those 
+topics in more detail.
+1. Jacket Loss
+    In the February 2022 NOPR, DOE proposed to adopt section 5.40 of 
+ANSI Z21.47-2021 for the purpose of measuring jacket loss for the TE2 
+metric. 87 FR 10726, 10737 (Feb. 25, 2022). DOE also proposed to 
+incorporate the jacket loss into the TE2 metric by subtracting it 
+(along with flue losses) from 100 percent after applying a jacket loss 
+factor to account for installation
+
+[[Page 36225]]
+
+location. DOE proposed to apply a jacket loss factor of 1.7 for CWAFs 
+designed for indoor installation in an unheated space (i.e., isolated 
+combustion system), 3.3 for CWAFs designed for outdoor installation 
+(including, but not limited to, CWAFs that are weatherized, or approved 
+for resistance to wind, rain, or snow), or 0 for CWAFs designed for 
+installation indoors within a heated space, which is consistent with 
+the values found in ANSI/ASHRAE 103-2017. Id. DOE received multiple 
+comments regarding the proposed jacket loss test procedure to be used 
+in determining TE2.
+    NEEA, the CA IOUs, and the CEC generally supported DOE's proposals 
+to include jacket loss in the TE2 metric. (NEEA, No. 24, at p. 1; CA 
+IOUs, No. 20, at p. 1; CEC, No. 18, at p. 2) The CA IOUs and the CEC 
+also specifically noted that the jacket loss factors are appropriate. 
+(CA IOUs, No. 20, at p. 1; CEC, No. 18, at p. 2)
+    Daikin, Carrier, and AHRI generally opposed DOE's proposal to 
+include jacket loss in the TE2 metric. (Daikin, No. 25 at p. 2; Carrier 
+No. 22 at pp. 2-3; AHRI No. 17 at p. 3) More specifically, Daikin 
+stated that the burden for conducting a jacket loss test is excessive 
+and is duplicative given that ASHRAE Standard 90.1 already requires a 
+maximum jacket loss of 0.75 percent. (Daikin, No. 25 at p. 2) Carrier 
+also stated that the jacket loss test, in particular the setup and data 
+acquisition, creates additional burden on manufacturers, and that this 
+increases with the size of the unit being tested. (Carrier No. 22 at 
+pp. 2-3) Additionally, Carrier stated that more clarity is needed on 
+how to properly run the test, as the industry has several methods to 
+conduct it. (Id.) Carrier stated that while other equipment includes 
+jacket loss in their calculation of efficiency (e.g., residential 
+furnaces and AFUE), it is hard to scale this to CWAFs. Carrier also 
+noted that with ASHRAE Standard 90.1 limiting jacket loss to 0.75 
+percent, many large CWAFs may be very close to this value. 
+Additionally, Carrier stated that including the 3.3 factor for 
+weatherized equipment creates a sizeable impact to the thermal 
+efficiency, and that if a future energy conservation standard for TE2 
+is not set correctly, it would require products to operate in a range 
+that condensing may occur. (Id.) AHRI stated that jacket losses are 
+measured on the furnace jacket, not on the rooftop unit (RTU) 
+jacket,\9\ and that furnace jackets are typically embedded far inside 
+the RTU, which requires the CUAC/HP to be taken apart in order to reach 
+the CWAF jacket. AHRI stated that this is an extremely burdensome task, 
+and that manufacturers are already required to comply with ASHRAE 
+Standard 90.1, which requires jacket loss to be less than 0.75 percent 
+(although AHRI also noted that only the worst-case models are tested). 
+AHRI also stated that the additional granularity of a thermal 
+efficiency rating that incorporates jacket loss would be negligible. 
+(AHRI No. 17 at p. 3 and 5) Rheem stated that jacket losses have to be 
+below 1.5 percent for equipment sold in Canada and below 0.75 percent 
+for equipment to comply with ASHRAE Standard 90.1. (Rheem, Public 
+Meeting Transcript, No. 15 at p. 24)
+---------------------------------------------------------------------------
+
+    \9\ RTUs are packaged units that can include both a commercial 
+unitary air conditioner (CUAC) and a CWAF and are designed for 
+installation on the rooftop of commercial buildings.
+---------------------------------------------------------------------------
+
+    In response, DOE recognizes that performing an additional test to 
+determine the jacket loss of a CWAF is more burdensome than not testing 
+for jacket loss; however, as previously discussed, DOE has concluded 
+that including jacket loss in the TE2 metric will provide a more 
+representative measure of energy efficiency. DOE disagrees with AHRI 
+that jacket losses would be negligible, as the percentage loss is 
+included directly in the TE2 calculation. As noted by Carrier, many 
+CWAFs may be close to the 0.75 percent requirement. Because the jacket 
+loss percentage is multiplied by the jacket loss factor, for 
+weatherized CWAFs designed to be installed outdoors (which represent 
+the majority of CWAFs on the market and which have a jacket loss factor 
+of 3.3) a jacket loss of 0.75 percent could result in a difference in 
+TE2 of nearly 2.5 percent as compared to a unit with negligible jacket 
+losses, which DOE considers significant.
+    Regarding Carrier's concerns that burden increases with the size of 
+the unit, DOE acknowledges that additional testing burden would be 
+incurred if manufacturers decide to test according to TE2, and may 
+increase more significantly for larger units. However, DOE has 
+concluded that this burden would be outweighed by the anticipated 
+improvement in representativeness. DOE also notes that CWAFs are 
+eligible to use alternative efficiency determination methods (AEDMs,), 
+which are typically used by manufacturers to mitigate burden, 
+especially for testing larger commercial equipment. Further discussion 
+of the testing burden posed by TE2 is included in section III.G. of 
+this document.
+    Although DOE recognizes that TE2 testing would be more burdensome 
+as compared to TE, DOE has concluded that the TE2 test method is not 
+unduly burdensome. Further discussion of the cost of testing is 
+included in section III.G of this document. Additionally, DOE notes 
+that the use of TE2 is optional at this time, and this final rule does 
+not amend or otherwise impact the energy conservation standards for 
+CWAFs. If DOE should propose amended standards in the future 
+denominated in terms of the TE2 metric, DOE would consider concerns 
+regarding condensing operation at that time. Lastly, DOE agrees with 
+Carrier that additional clarity regarding how to conduct the test is 
+warranted. In particular, DOE notes that section 5.40 of ANSI Z21.47-
+2021 is not specific as to what constitutes the ``jacket.'' Therefore, 
+DOE clarifies that it applies the term as defined by the CSA Group 
+standard CSA P.8-2022, ``Thermal Efficiencies of Industrial and 
+Commercial Gas-Fired Package Furnaces.'' CSA P.8-2022 defines the 
+jacket as the surfaces surrounding the heating section of the furnace. 
+The jacket includes all surfaces separating the heating section from 
+the supply air, outside air, or condenser section, including the bottom 
+surface separating the heating section from the basepan. DOE has 
+included a description of the jacket in accordance with this definition 
+in section 1.2 of appendix B.
+2. Part-Load Performance
+    In the February 2022 NOPR, DOE proposed to require that, for CWAFs 
+with two-stage or modulating burners, the flue loss be determined at 
+both the maximum and minimum input rates on the nameplate of the unit 
+and that the jacket loss be determined at the maximum input rate and 
+optionally at the minimum input rate. If the jacket loss were 
+determined only at the maximum input rate, DOE proposed to assign an 
+equivalent value at the minimum input rate. DOE proposed that TE2 would 
+then be calculated as the average of the efficiencies determined at 
+both the maximum and minimum input rates using the flue loss and jacket 
+loss determined at each input rate, which reflects an average use case 
+of 50 percent of the time operating at full load and 50 percent of the 
+time operating at part-load. 87 FR 10726, 10738 (Feb. 25, 2022).
+    In response to the February 2022 NOPR, AHRI stated that unlike for 
+air-conditioning equipment, the range in variability in performance 
+between part-load and full-load is small and that adding part-load 
+performance into the
+
+[[Page 36226]]
+
+measurement of CWAF performance would not add to market clarity, 
+especially given the burden of retesting all CWAFs on the market to 
+assess performance according to such a test procedure. (AHRI, No. 17 at 
+pp. 3-4)
+    DOE also received comments from several stakeholders supporting the 
+inclusion of part-load performance in TE2. Specifically, NEEA supported 
+the inclusion of part-load operation in the proposed TE2 metric and 
+noted that they have observed cases where CWAFs have had reduced 
+efficiency at part-load when compared to full-load. Therefore, NEEA 
+concluded that including part-load efficiency in TE2 will create a more 
+representative efficiency metric. (NEEA, No. 24 at p. 6) The CA IOUs 
+supported DOE's efforts to incorporate part-load operation within the 
+TE2 metric and agreed with DOEs assertion in the February 2022 NOPR 
+that most CWAFs have two or more stages of heating, that CWAFs spend a 
+substantial time operating in part-load, and that including part-load 
+performance in a TE2 metric would increase representativeness. (CA 
+IOUs, No. 20 at pp. 1-2) The CEC supported including part-load 
+performance in the TE2 metric and noted that CWAFs spend a large 
+percentage of time in part-load operation. (CEC, No. 18 at p. 2) 
+Carrier stated that part-load performance should be part of the CWAF 
+test procedure. (Carrier, No. 22 at pp. 3-4)
+    As discussed previously, DOE has observed during testing of similar 
+products that efficiency can differ at full load as compared to part 
+load and has concluded that adding testing during part-load operation 
+would improve representativeness as compared to a test method that only 
+requires operation at the maximum input. Therefore, DOE is adopting 
+part-load testing in the TE2 metric, as initially proposed in the 
+February 2022 NOPR. Regarding the need to re-test CWAFs currently rated 
+to the TE metric, DOE notes that testing to determine TE2 would not be 
+required until the compliance date of any energy conservation standards 
+based on that metric. However, DOE concludes that the improved 
+representativeness of the TE2 metric would outweigh the additional test 
+burden.
+    DOE also received several comments regarding the proposal to weight 
+both full-load and part-load operation at 50 percent when calculating 
+TE2.
+    The CA IOUs encouraged DOE to continue to evaluate what full-load 
+and part-load weighting factors would improve representativeness of an 
+average use cycle; however, the CA IOUs stated that they do not oppose 
+DOE's proposal to use 50 percent weighting factors, given the lack of 
+national data on such full-load and part-load performance. (CA IOUs, 
+No. 20 at p. 2) The CEC supported the DOE's proposal to equally weight 
+full-load and part-load operation, but also stated that DOE should 
+continue to evaluate the average use cycle of CWAFs. (CEC, No. 18 at p. 
+2)
+    NEEA recommended DOE reconsider the proposed weighting of low and 
+high fire in the TE2 metric. NEEA presented a figure showing the 
+modeled proportion of time at high fire and low fire for three 
+locations in Canada (Winnipeg, Montreal, and Toronto) and two building 
+types (retail and warehouse). The commenter stated that modeling has 
+shown that, in colder North American climate zones (5A, 6A, and 7), the 
+ratio of high fire to low fire is only close to 50/50 for warehouses in 
+these cold climates, but for other use types, the ratio was closer to 
+30 percent at low fire and 70 percent at high fire. NEEA stated that 
+because the U.S. generally has warmer climate zones than Canada, NEEA 
+would expect increased part-load operation in the U.S., and, therefore, 
+it argued that a 50/50 weighting would not be representative of CWAFs 
+in the U.S. (NEEA, No. 24 at pp. 6-7)
+    The Joint Advocates encouraged DOE to further consider alternative 
+weighting factors for full-load and part-load operation that they argue 
+may be more representative of average use. The Joint Advocates also 
+noted that the February 2022 NOPR refers to an estimate from NEEA that 
+CWAFs spend about 10 to 20 percent of their time operating at full 
+load, but that DOE did not use that estimate because the Department 
+tentatively determined that the climate regions from which the estimate 
+was derived were not representative of the U.S. The Joint Advocates 
+urged DOE to reconsider the NEEA estimate because they understand that 
+while total operating hours will vary significantly based on climate 
+region, the percentage of time spent at full load is relatively 
+constant across climate regions. (Joint Advocates, No. 21 at p. 2)
+    Rheem stated that it is not appropriate to average the maximum and 
+minimum thermal efficiencies and noted that in ANSI/ASHRAE 103 (i.e., 
+the ASHRAE test method for consumer furnaces) there is a method for 
+determining the weightings, and the unit does not run at the maximum 
+input very often. Rheem suggested that the minimum input rate should be 
+weighted more than the maximum input rate. (Rheem, Public Meeting 
+Transcript, No. 15 at pp. 27-28) Daikin also stated that 50 percent 
+weighting factors for full-load and part-load performance are not 
+appropriate. Further, Daikin stated that the approach to weighting 
+full-load and part-load operation in ANSI/ASHRAE 103 cannot be used for 
+CWAFs because it was generated for residential products and the 
+operational profile of commercial products is radically different. 
+(Daikin, No. 25 at p. 2) Carrier commented that time spent at part-load 
+is much longer than full-load, and, therefore, DOE's proposed 50 
+percent weighting factor is not appropriate. Carrier recommended that 
+more investigation and analysis should be performed to determine 
+appropriate weighting factors that account for all types of furnaces 
+(i.e., two-stage, multi-stage, and modulating). (Carrier, No. 22 at pp. 
+3-4) AHRI also stated that the 50 percent weighting factors proposed by 
+DOE in the February 2022 NOPR are not representative. (AHRI, No. 17 at 
+p. 4)
+    In response, DOE notes that the modeling presented by NEEA shows 
+that in the three regions in Canada, the percentage of time a CWAF 
+could operate at high fire versus low fire varied greatly, with CWAFs 
+in some applications operating as little as approximately 25 percent of 
+time in high fire (and 75 percent in low fire), while CWAFs in other 
+applications were modeled to operate more than 70 percent of time in 
+high fire (and 30 percent in low fire). Warehouses in all three 
+locations were modeled to operate in high fire over 50 percent of the 
+time, while retail buildings in all three locations were modeled to 
+operate in high fire less than 50 percent of the time. Although NEEA 
+claimed that the warmer climate in the U.S. would result in less time 
+operating at full load, that is not necessarily the case as CWAFs in 
+the U.S. would likely be sized differently from those in Canada due to 
+the reduced heating loads. As noted by the Joint Advocates, while total 
+operating hours will vary significantly based on climate region, the 
+percentage of time spent at full load could remain relatively constant 
+across climate regions. Although several commenters asserted that 
+weighting equally at 50 percent in full-load and in part-load is not 
+representative, no other commenters presented alternative data, nor is 
+DOE aware of any data that would be useful to better characterize the 
+appropriate weighting factors. Therefore, in this final rule, DOE is 
+adopting a calculation method that weights full-load and part-load 
+operation equally. Should DOE become aware of any new data regarding 
+time spent operating at each input rate or data specific to different 
+furnace types in the future, DOE could consider
+
+[[Page 36227]]
+
+revising the calculation accordingly in a subsequent rulemaking.
+
+D. Electrical Energy Consumption
+
+    In the February 2022 NOPR, DOE tentatively determined not to 
+account for electrical energy consumption of CWAF auxiliary power 
+components (e.g., controls and/or combustion blowers/fans) or the 
+supply air fan in the CWAF test procedure. 87 FR 10726, 10739 (Feb. 25, 
+2022). Specifically, regarding supply fan energy consumption, DOE noted 
+that CWAFs are typically installed within the same cabinet as a CUAC 
+and that this energy is generally accounted for in the current CUAC 
+test procedure, although furnace-only operation hours are not included. 
+As such, DOE tentatively determined that energy consumption during 
+furnace-only operation hours would be better addressed in a future 
+amendment to the CUAC test procedure. Id. Regarding auxiliary power 
+consumption, DOE tentatively determined that including such power 
+consumption into a CWAF performance metric would have a negligible 
+impact on the measured energy efficiency of a CWAF. Id.
+    In response to the February 2022 NOPR, NYSERDA encouraged DOE to 
+measure fan energy consumption during furnace-only operation in the 
+CWAF test procedure. (NYSERDA, No. 16 at p. 2) NEEA also recommended 
+that DOE account for electricity consumption used in a CUAC, including 
+fan and auxiliary energy use, that relates to CWAF energy consumption. 
+In relation to DOE's tentative determination in the February 2022 NOPR 
+that such energy consumption would be better addressed in a future 
+amendment to the CUAC test procedure, NEEA stated such an approach 
+would likely leave out the portion of the hours during the year where 
+fan energy is consumed when only the CWAF is operating. NEEA stated 
+that it understands DOE's desire for fan energy to ``be captured in a 
+single test procedure,'' but the commenter argued that this goal is not 
+achievable when cooling and heating efficiencies are regulated 
+separately and also not achievable in a market as diverse as that for 
+commercial HVAC. Additionally, NEEA mentioned that because fan and 
+other auxiliary electrical end uses are integral to the function of any 
+CWAF, it is critical than any CWAF TP and performance metric account 
+for them. (NEEA, No. 24 at p. 4)
+    After carefully considering these comments, DOE maintains its 
+position presented in February 2022 NOPR that, at present, integrating 
+the auxiliary electrical energy consumption into the efficiency metric 
+for CWAF would result in negligible impact. Further, DOE also maintains 
+that the fan efficiency is better accounted for in a single test method 
+that addresses all fan energy consumption. Accordingly, DOE is 
+proposing to address the supply air fan energy use for CWAFs, including 
+during operation in heating-only mode, in the ongoing CUACs test 
+procedure rulemaking. Therefore, DOE is not adopting measures of 
+auxiliary electrical energy use or the electrical energy use of the 
+supply air fan in this final rule.
+
+E. Other Test Procedure Updates and Clarifications
+
+    In the February 2022 NOPR, DOE used the terms ``vent hoods,'' 
+``vent pipes,'' and ``flue outlets'' to describe the section of a CWAF 
+that carries the flue gas away from the unit. DOE received a comment 
+from AAON recommending DOE use the term ``flue outlets,'' because it is 
+the most accurate way to describe those components. (AAON, No. 14 at p. 
+1) In response, DOE has determined it appropriate to use only the term 
+``flue outlet(s)'' in order to prevent confusion associated with using 
+multiple terms to refer to the same outlet. As such, DOE will use the 
+term ``flue outlet(s)'' in this final rule, as well as in appendix A 
+and appendix B.
+1. Flue Temperature Measurement in Models With Multiple Flue Outlets
+    In the February 2022 NOPR, DOE proposed to add instructions to 
+clarify the test method for models with multiple flue outlets. 87 FR 
+10726, 10740 (Feb. 25, 2022). DOE proposed that measurements used to 
+calculate TE (e.g., flue gas temperature, CO<INF>2</INF> in flue 
+gasses), be made separately for each flue outlet, and that they are 
+weighted proportionally to the size of each flue outlet when 
+calculating flue loss. Further, DOE proposed that test requirements, 
+such as determining when equilibrium conditions occur based on the flue 
+gas temperature, are determined based these weighted measurements. DOE 
+noted that this proposal is predicated on the assumption that the 
+amount (i.e., mass flow) of flue exhaust exiting each flue outlet is 
+proportional to the outlet size. DOE recognized that ``size'' of the 
+flue outlet may be measured in various ways, and, therefore, the 
+Department proposed to specify that flue outlet size would be 
+determined by calculating the outlet face area. DOE sought comments on 
+these proposals. Id.
+    Lennox stated that the size of the flue outlet may not be 
+representative of the amount of flue exhaust passing through the flue 
+outlet, and that DOE should consider relying on the supplemental 
+testing instructions or review the input capacity for each heating 
+section as the weighted average instead of the cross-sectional area of 
+the flue outlet. (Lennox, No. 19 at p. 3) AHRI and Carrier supported 
+clarifying how to test units with multiple flue outlets but recommended 
+that the measurement and performance rating for each flue outlet should 
+be based on input rating of each furnace module instead of the size of 
+the flue outlet. (AHRI, No. 17 at p. 4; Carrier, No. 22 at p. 4)
+    Based on these comments DOE understands that the flue outlet size 
+may not directly correspond to the mass flow of flue gases exiting from 
+that outlet. Consequently, DOE agrees that the fuel input rating for 
+each furnace module would be a better indicator of the flue gases 
+exiting the outlet for that specific module. Therefore, DOE amends the 
+test procedure to clarify that for units with multiple flue gas 
+outlets, the measurements used to calculate TE (e.g., flue gas 
+temperature, CO<INF>2</INF> in flue gasses) are to be made separately 
+for each flue outlet, and are to be weighted proportionally to the 
+input capacity associated with the furnace module.
+2. Flue Temperature Measurement in Models With Vent Space Limitations
+    In the February 2022 NOPR, DOE noted that section 5.16 of ANSI 
+Z21.47-2021 specifies measuring the flue gas temperature using nine 
+individual thermocouples placed in specific locations; however, these 
+sections do not provide guidance on how to measure the flue gas 
+temperature if the vent size constrains the space where the 
+thermocouples are to be placed to the point that normal operation of 
+the unit is inhibited when nine thermocouples are installed. 87 FR 
+10726, 10740 (Feb. 25, 2022). DOE proposed to specify in the DOE test 
+procedure that when testing gas-fired and oil-fired CWAFs, the flue gas 
+temperatures shall be measured using nine individual thermocouples when 
+the flue outlet is larger than 2 inches in diameter and may optionally 
+be measured using five individual thermocouples when the flue outlet is 
+2 inches or smaller in diameter, which DOE noted aligns with the 
+approach in ANSI/ASHRAE 103-2017. Id. at 87 FR 10741.
+    AAON stated that flue outlet geometry in CWAFs can vary in shape 
+and that the diagram referenced in ANSI/ASHRAE 103 only accounts for a 
+circular geometry. Consequently, AAON recommended that the number 
+thermocouples needed for testing should be determined by the cross-
+
+[[Page 36228]]
+
+sectional area of the flue outlet. (AAON, No. 14 at p. 1) Similarly, 
+Lennox noted that not all flue outlets are round, and, therefore, the 
+commenter suggested that the number of thermocouples used during the 
+test should be determined using the face area of the flue outlet. 
+(Lennox, No. 19 at p. 3) Carrier agreed that fewer thermocouples should 
+be used for units with smaller flue outlets, but also recommended the 
+determination be based on cross-sectional face area, not diameter, 
+since flue outlets are not always circular. (Carrier, No. 22 at p. 4) 
+AHRI supported DOE's proposal that the number of thermocouples used be 
+dependent on the flue outlet size; however, similar to other 
+commenters, AHRI recommend that DOE base the determination of how many 
+thermocouples to use on the cross-sectional area of the outlet, rather 
+than the diameter. AHRI also further recommended DOE review and align 
+its provisions with the requirement outlined in Figure 10 of AHRI 103. 
+(AHRI, No. 17 at p. 4)
+    DOE agrees that the determination of the number of thermocouples 
+used in the flue outlet should be based on the area of the flue outlet, 
+rather than diameter, because some flue outlets may not be circular. 
+Therefore, DOE is adopting a modification to its February 2022 proposal 
+so that the optional allowance to use 5 thermocouples rather than 9 in 
+models with flue outlets that are 2 inches or less in diameter applies 
+based on the cross-sectional area of the flue outlet. For a circular 
+flue with a diameter of 2 inches, the area would be 3.14 square inches; 
+thus, DOE is amending the test procedure to allow optional use of 5 
+thermocouples when testing models with a flue outlet that has a cross 
+sectional area of 3.14 square inches or less.
+3. Flue Loss Determination
+    Section 2.39 of ANSI Z21.47-2012 and section 5.40 of ANSI Z21.47-
+2021 reference Annex I for the determination of flue loss that is used 
+in the TE calculation. Annex I includes two methods for determining 
+flue loss--one method that uses a calculation, and one method that uses 
+nomographs shown in Figures I.1 and I.2 of ANSI Z21.47-2021. The 
+nomograph method may only be used when the heating value, specific 
+gravity, and flue gas CO<INF>2</INF> of a CWAF fall within a specified 
+range.\10\ If these conditions are met, either calculation method may 
+be used. In the February 2022 NOPR, DOE proposed to require that the 
+calculation method must be used when determining flue loss because the 
+nomograph method is not applicable for all tests, and the calculation 
+method is likely to provide better repeatability by eliminating 
+subjective differences in interpreting the nomograph. 87 FR 10726, 
+10741 (Feb. 25, 2022).
+---------------------------------------------------------------------------
+
+    \10\ Heating value for natural gas or propane must be 970-1100 
+Btu/ft\3\ or 2466-2542 Btu/ft\3\, respectively. Specific gravity for 
+natural gas or propane must be 0.57-0.70 or 1.522-15.74, 
+respectively. Ultimate carbon dioxide for natural gas or propane 
+must be 11.7-12.2% or 13.73-13.82%, respectively.
+---------------------------------------------------------------------------
+
+    DOE received comments from Daikin, Carrier, Lennox, Rheem, and AHRI 
+that supported this proposal, and received no other comments on this 
+topic. (Daikin, No. 25 at p. 3; Lennox, No. 19 at p. 3; Carrier, No. 22 
+at p. 5; Rheem, Public Meeting Transcript, No. 15 at p. 21; AHRI, No. 
+17 at p. 4) Based on the previously discussed rationale, DOE has 
+determined that requiring the calculation method will help improve test 
+repeatability. As such, DOE is requiring that the calculation method, 
+not the nomograph method, from Annex I in ANSI Z21.47-2021 be used for 
+the determination of flue loss.
+4. General Approach
+    In response to the February 2022 NOPR, DOE received several 
+comments regarding its general approach to the test method for CWAFs.
+    AGA and APGA recommend DOE consider implementing the 
+recommendations for the recent National Academies of Sciences 
+Engineering and Medicine (NASEM) on appliance standards rulemakings, 
+whether for test procedures or energy conservation standards. (AGA and 
+APGA, No. 23 at pp. 2-3)
+    Given that this is a test procedure rulemaking for which DOE must 
+meet specific statutory criteria as outlined in 42 U.S.C. 6314, the 
+recommendations in the NASEM report, which pertain specifically to the 
+processes by which DOE analyzes energy conservation standards, are not 
+applicable. DOE will consider this comment in a separate rulemaking 
+considering all covered product and covered equipment categories.
+    DOE also received comments from the Joint Advocates and NEEA 
+recommending that DOE consider a ``whole box'' approach for measuring 
+the performance of CWAFs, similar to the approach found in CSA P.8-
+2022, ``Thermal Efficiencies of Industrial and Commercial Gas-fired 
+Package Furnaces.'' \11\ (Joint Advocates, No. 21 at pp. 1-2, NEEA, No. 
+24 at pp. 1-5) More specifically, the Joint Advocates and NEEA stated 
+that while they supported DOE's efforts to establish TE2, they 
+encouraged DOE to evaluate the potential use of CSA P.8-2022. They 
+asserted that CSA P.8 would more accurately represent overall 
+efficiency of a CWAF because the new heating metric in that standard 
+(i.e., ``total heating season coefficient of performance'') calculates 
+the efficiency of a CWAF using a more holistic approach, by 
+incorporating factors such as burner efficiency, total enclosure heat 
+losses, fan energy consumption, and heat gains from heat recovery. Id. 
+Similarly, NYSERDA also encouraged DOE to consider any forthcoming 
+updates that may better measure the holistic energy use of CWAFs. 
+(NYSERDA, No. 16 at p. 2)
+---------------------------------------------------------------------------
+
+    \11\ CSA P.8-2022 is available for purchase at: 
+<a href="http://www.csagroup.org/store/product/CSA%20P.8:22/">www.csagroup.org/store/product/CSA%20P.8:22/</a>. (Last accessed Jan. 
+31, 2023).
+---------------------------------------------------------------------------
+
+    As discussed in section I.A of this document, EPCA requires that 
+the test procedures for CWAFs be those generally accepted industry 
+testing procedures or rating procedures developed or recognized by AHRI 
+or ASHRAE, as referenced in ASHRAE Standard 90.1. (42 U.S.C. 
+6314(a)(4)(A)) If such an industry test procedure or rating procedure 
+is amended, the Secretary shall amend the test procedure for the 
+product as necessary to be consistent with the amended industry test 
+procedure or rating procedure unless the Secretary determines, by rule, 
+published in the Federal Register and supported by clear and convincing 
+evidence, that to do so would not meet the requirements in 42 U.S.C. 
+6314(a)(2) and (3) related to representative use and test burden. (42 
+U.S.C. 6314(a)(4)(B)) In this case, the industry test standards 
+referenced by ASHRAE Standard 90.1 are ANSI Z21.47 for gas-fired CWAFs 
+and UL 727 for oil-fired CWAFs. The test methods adopted in this final 
+rule incorporate by reference those industry standards, and are 
+generally consistent with and build upon those industry standards by 
+providing clarifications or other modifications, as necessary, to meet 
+the requirements of EPCA. DOE has determined that the test procedures 
+for CWAFs adopted in this final rule will produce test results which 
+reflect energy efficiency of CWAFs during a representative average use 
+cycle, are not unduly burdensome to conduct, as required by EPCA. 
+Further, DOE notes that the scope of CSA P.8-2022 indicates that the 
+standard is intended to provide ``cold climate'' performance criteria 
+that is representative of use in colder climates found in Canada and 
+other northern locations, which may not be representative of the U.S. 
+as a whole.
+
+[[Page 36229]]
+
+Therefore, DOE did not find it necessary to move to a test method that 
+uses the approach taken by CSA P.8-2022. In response to NYSERDA, DOE 
+will continue to monitor future applicable industry test standard 
+updates related to CWAFs.
+
+F. Effective and Compliance Dates
+
+    The effective date for the adopted CWAFs test procedure amendments 
+is 30 days after the date of publication of this final rule in the 
+Federal Register.
+    Regarding the compliance date, EPCA prescribes that all 
+representations of energy efficiency and energy use, including those 
+made on marketing materials and product labels, must be made in 
+accordance with an amended test procedure for CWAFs, beginning 360 days 
+after the date of publication of this final rule in the Federal 
+Register. (42 U.S.C. 6314(d)(1))
+    To the extent the modified test procedure adopted in this final 
+rule is required only for the evaluation under updated CWAF energy 
+conservation standards (i.e., standards denominated in terms of the new 
+TE2 metric), compliance with the amended test procedure does not 
+require use of such modified test procedure provisions until the 
+compliance date of such updated standards, if adopted.
+
+G. Test Procedure Costs
+
+    EPCA requires that the test procedures for CWAFs be those generally 
+accepted industry testing procedures or rating procedures developed or 
+recognized by either AHRI or ASHRAE, as referenced in ASHRAE Standard 
+90.1. (42 U.S.C. 6314(a)(4)(A)) Further, if such an industry test 
+procedure is amended, DOE must amend its test procedure to be 
+consistent with the amended industry test procedure unless DOE 
+determines, by rule published in the Federal Register and supported by 
+clear and convincing evidence, that such an amended test procedure 
+would not meet the requirements in 42 U.S.C. 6314(a)(2)-(3) related to 
+representative use and test burden. (42 U.S.C. 6314(a)(4)(B))
+    In this final rule, DOE is amending the test procedure for CWAFs 
+for determining TE by incorporating by reference the most up-to-date 
+versions of the industry test standards referenced in the DOE test 
+procedure, and by providing additional detail for the test setup for 
+models with multiple flue outlets and models with flue outlets having 
+space limitations. DOE has determined that these amendments to the test 
+procedure for determining TE would not be unduly burdensome for 
+manufacturers to conduct, and that the test procedures for this 
+equipment are consistent with the industry test procedure updates. DOE 
+has also determined that the amendments to the test procedure for 
+determining TE would improve the representativeness, accuracy, and 
+reproducibility of the test results and would not be unduly burdensome 
+to conduct. DOE expects that the test procedure in appendix A for 
+determining TE will not increase testing costs.
+    DOE is also establishing a new metric for CWAFs, TE2, and a new 
+appendix B, which includes the test procedure for determining TE2. In 
+the February 2022 NOPR, DOE estimated that the additional test cost due 
+to the additional part-load test and jacket loss test required for the 
+TE2 metric would be $2,200, compared to the DOE test procedure using 
+the TE metric, which DOE estimated to be $4,200 at a third-party 
+laboratory (i.e., a total estimated cost of $6,400 per tested unit for 
+the amended TE2 test procedure). Therefore, assuming two units are 
+tested per basic model,\12\ DOE estimated the testing cost associated 
+with the newly proposed appendix B test procedure to be $12,800 per 
+basic model. 87 FR 10726, 10741-10742 (Feb. 25, 2022). DOE also noted 
+that in accordance with 10 CFR 429.41, CWAF manufacturers may elect to 
+use an AEDM to rate models for the TE2 metric, which significantly 
+reduces testing costs to industry. DOE estimated the per-manufacturer 
+cost to develop and validate an AEDM to determine TE2 for CWAF 
+equipment to be $17,300. DOE estimated a cost of $46 per basic model 
+for determining energy efficiency using a validated AEDM.\13\ 87 FR 
+10726, 10742 (Feb. 25, 2022). Additionally, DOE has determined that the 
+appendix B test procedure and TE2 calculation would alter the measured 
+energy efficiency of a CWAF.
+---------------------------------------------------------------------------
+
+    \12\ Per the sampling requirements specified at 10 CFR 
+429.11(b), manufacturers are required to test at least two units to 
+determine the rating for a basic model, except if only one unit of 
+the basic model is produced.
+    \13\ DOE's estimated initial cost to develop and validate an 
+AEDM includes (1) 80 hours to develop the AEDM based on existing 
+simulation tools; (2) an additional 16 hours to validate the AEDM 
+for two basic models at the cost of an engineering calibration 
+technician wage of $46 per hour; and (3) the cost of third-party 
+testing of two units per validation class (as required in 10 CFR 
+429.70(c)(2)(iv)). DOE estimated the additional per basic model cost 
+to determine efficiency using an AEDM assuming 1 hour per basic 
+model at the cost of an engineering calibration technician wage of 
+$46 per hour.
+---------------------------------------------------------------------------
+
+    DOE received multiple comments on the test cost and burden 
+associated with performing the TE2 test procedure. Rheem generally 
+stated that measuring jacket loss is very labor-intensive due to the 
+need to take apart the unit and presents a burden to manufacturers. 
+(Rheem, Public Meeting Transcript, No. 15 at pp. 23-24) AHRI asserted 
+that there are external costs associated with this proposed test 
+procedure change that DOE has not accounted for, including bandwidth 
+limitations at laboratory facilities that would cause manufacturers to 
+test internally and which could delay testing of new units while 
+existing models are retested. (AHRI, No. 17 at p. 5) AHRI also asserted 
+that DOE did not accurately account for the cost of performing a jacket 
+loss test at full-load and part-load because determining compliance 
+with ASHRAE Standard 90.1 requires that only the worst-case unit in a 
+product line needs to be tested, but TE2 would require manufacturers to 
+run the jacket loss test twice every time a unit is tested. AHRI also 
+stated that there are no AEDMs currently available for TE2 and 
+developing an AEDM is extremely costly due to the number of variables 
+that need to be accounted for and modeled accurately (e.g., fan 
+capacity, cabinet geometry, variation in size of the heater, and the 
+inclusion of dampers, energy recovery ventilators (ERVs), and heat 
+recovery ventilators (HRVs) in the airflow path). AHRI also disagreed 
+with the Department's estimate that the associated rerating costs would 
+be approximately $17,400, because manufacturers will need to validate 
+any new AEDM by testing at least two (2) basic models, which will have 
+associated manufacturing and test costs. Instead, AHRI estimated that 
+the cost of the test samples alone will reach upwards of $30,000 
+(without accounting for the AEDM development cost or test time), and 
+that the test time must include a minimum of several days to set up for 
+each sample, with laboratory time being very expensive. (Id.) Daikin 
+supported AHRI's comments on this topic and added that testing cost and 
+burden will increase substantially if manufacturers must assess part-
+load conditions and jacket loss. Daikin noted that if ambient 
+conditions must be controlled in psychometric rooms to conduct jacket 
+loss testing, it could impact availability of those test rooms for 
+other equipment such as commercial unitary air conditioners and heat 
+pumps. (Daikin, No. 25 at p. 3) Carrier stated that DOE underestimated 
+the cost to validate an AEDM, because CWAF sizes vary between 225,000 
+Btu/h and 2,000,000 Btu/h (which can lead to an extremely large 
+variation in cost). Carrier stated that to create an accurate
+
+[[Page 36230]]
+
+AEDM, a manufacturer would need to consider a ``worst case'' model, and 
+that this can cost upwards of $50,000. (Carrier, No. 22 at p. 5)
+    In response, DOE notes that the estimated cost of testing for TE2 
+presented in the February 2022 NOPR is based on actual price quotations 
+from third-party laboratories. Additionally, the estimated cost to 
+develop an AEDM reflects 80 hours to develop the AEDM based on existing 
+simulation tools, plus an additional 16 hours to validate the AEDM at a 
+rate of $46 per hour, plus the cost to conduct the test on two units as 
+required by 10 CFR 429.70(c)(2)(iv). DOE recognizes that depending on 
+each individual manufacturer's approach to testing and rating their 
+models (whether based on actual testing, AEDMs, or a combination of 
+approaches) and the number of models they would need to rate with TE2, 
+test costs could vary significantly. DOE's estimates are intended to 
+represent the typical or most likely costs given the various pathways 
+available for rating TE2. However, DOE recognizes that the costs could 
+be higher. Although TE2 testing will be cost more than the current TE 
+test method due to the need to perform jacket loss testing and testing 
+at the minimum input capacity, DOE has concluded that the additional 
+costs are not unduly burdensome and are justified due to the improved 
+representativeness of TE2 as compared to TE. Further, because there is 
+no requirement to make representations with TE2 at this time, DOE does 
+not view laboratory bandwidth limitations as a significant issue. 
+However, if DOE were to transition to standards based on the TE2 metric 
+in the future, which would require manufacturers to make 
+representations of TE2, DOE notes that it would provide a lead time 
+before compliance is required, consistent with the requirements of 
+EPCA,\14\ which should alleviate any laboratory bandwidth issues.
+---------------------------------------------------------------------------
+
+    \14\ Under 42 U.S.C. 6313(a)(6)(C)(iv), if DOE amends standards 
+pursuant to a six-year-lookback review initiated under 42 U.S.C. 
+6313(a)(6)(C)(i), amended standards apply a minimum of three years 
+after publication of the amended standards. Under 42 U.S.C. 
+6313(a)(6)(D)(i), if DOE amends standards pursuant to an amendment 
+to ASHRAE Standard 90.1 levels, amended standards apply a minimum of 
+2 years after the effective date of the minimum energy efficiency 
+requirement in the amended ASHRAE Standard 90.1.
+---------------------------------------------------------------------------
+
+IV. Procedural Issues and Regulatory Review
+
+A. Review Under Executive Orders 12866, 13563, and 14094
+
+    Executive Order (E.O.) 12866, ``Regulatory Planning and Review,'' 
+58 FR 51735 (Oct. 4, 1993), as supplemented and reaffirmed by E.O. 
+13563, ``Improving Regulation and Regulatory Review,'' 76 FR 3821 (Jan. 
+21, 2011) and amended by E.O. 14094, ``Modernizing Regulatory Review,'' 
+88 FR 21879 (April 11, 2023), requires agencies, to the extent 
+permitted by law, to: (1) propose or adopt a regulation only upon a 
+reasoned determination that its benefits justify its costs (recognizing 
+that some benefits and costs are difficult to quantify); (2) tailor 
+regulations to impose the least burden on society, consistent with 
+obtaining regulatory objectives, taking into account, among other 
+things, and to the extent practicable, the costs of cumulative 
+regulations; (3) select, in choosing among alternative regulatory 
+approaches, those approaches that maximize net benefits (including 
+potential economic, environmental, public health and safety, and other 
+advantages; distributive impacts; and equity); (4) to the extent 
+feasible, specify performance objectives, rather than specifying the 
+behavior or manner of compliance that regulated entities must adopt; 
+and (5) identify and assess available alternatives to direct 
+regulation, including providing economic incentives to encourage the 
+desired behavior, such as user fees or marketable permits, or providing 
+information upon which choices can be made by the public. DOE 
+emphasizes as well that E.O. 13563 requires agencies to use the best 
+available techniques to quantify anticipated present and future 
+benefits and costs as accurately as possible. In its guidance, the 
+Office of Information and Regulatory Affairs (OIRA) in the Office of 
+Management and Budget (OMB) has emphasized that such techniques may 
+include identifying changing future compliance costs that might result 
+from technological innovation or anticipated behavioral changes. For 
+the reasons stated in the preamble, this final regulatory action is 
+consistent with these principles.
+    Section 6(a) of E.O. 12866 also requires agencies to submit 
+``significant regulatory actions'' to OIRA for review. OIRA has 
+determined that this final regulatory action does not constitute a 
+``significant regulatory action'' under section 3(f) of E.O. 12866. 
+Accordingly, this action was not submitted to OIRA for review under 
+E.O. 12866.
+
+B. Review Under the Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (5 U.S.C. 601 et seq.) requires 
+preparation of a final regulatory flexibility analysis (FRFA) for any 
+final rule where the agency was first required by law to publish a 
+proposed rule for public comment, unless the agency certifies that the 
+rule, if promulgated, will not have a significant economic impact on a 
+substantial number of small entities. As required by Executive Order 
+13272, ``Proper Consideration of Small Entities in Agency Rulemaking,'' 
+67 FR 53461 (August 16, 2002), DOE published procedures and policies on 
+February 19, 2003, to ensure that the potential impacts of its rules on 
+small entities are properly considered during the DOE rulemaking 
+process. 68 FR 7990. DOE has made its procedures and policies available 
+on the Office of the General Counsel's website: <a href="http://www.energy.gov/gc/office-general-counsel">www.energy.gov/gc/office-general-counsel</a>. DOE reviewed this final rule under the 
+provisions of the Regulatory Flexibility Act and the procedures and 
+policies published on February 19, 2003.
+    On February 25, 2022, DOE published in the Federal Register a 
+notice of proposed rulemaking (February 2022 NOPR) proposing to update 
+the references in the Federal test procedure to the most recent version 
+of the relevant industry test procedures as they relate to CWAFs, as 
+well as to adopt a new TE2 metric. Specifically, DOE proposed to adopt 
+two appendices to 10 CFR 431.76--appendix A for determining TE and 
+appendix B for determining TE2. The TE test method in appendix A is 
+similar to the current method for TE, with several clarifications and 
+updates to incorporate by reference the most recent versions of 
+appliable industry test standards. The TE2 test method in appendix B 
+builds upon the TE test method in appendix A, but also accounts for 
+jacket losses and operation at the minimum input rating.
+    As part of the February 2022 NOPR, DOE conducted its initial 
+regulatory flexibility analysis (IRFA). 87 FR 10726, 10742-10744 (Feb. 
+25, 2022). DOE used the Small Business Administration (SBA) small 
+business size standards to determine whether manufacturers qualify as 
+small businesses, which are listed by North American Industry 
+Classification System (NAICS).\15\ The SBA considers a business entity 
+to be a small business, if, together with its affiliates, it employs 
+less than a threshold number of workers specified in 13 CFR part 121. 
+CWAF manufacturers are classified under NAICS code 333415, ``Air-
+Conditioning and Warm Air Heating Equipment and Commercial and 
+Industrial Refrigeration Equipment Manufacturing.'' In 13 CFR
+
+[[Page 36231]]
+
+121.201, the SBA sets a threshold of 1,250 employees or fewer for an 
+entity to be considered as a small business for this category.
+---------------------------------------------------------------------------
+
+    \15\ The size standards are listed by NAICS code and industry 
+description and are available at: <a href="http://www.sba.gov/document/support-table-size-standards">www.sba.gov/document/support-table-size-standards</a> (Last accessed Feb. 8, 2022).
+---------------------------------------------------------------------------
+
+    DOE relied on publicly-available databases to identify potential 
+small businesses that manufacture equipment covered by this rulemaking. 
+DOE utilized the California Energy Commission's Modernized Appliance 
+Efficiency Database System (MAEDbS) \16\ and DOE's Certification 
+Compliance Database (CCD) \17\ to identify potential small businesses 
+that manufacture CWAFs covered by this rulemaking. DOE identified eight 
+original equipment manufacturers (OEMs) of CWAFs affected by this 
+rulemaking. DOE screened out companies that do not meet the definition 
+of a ``small business'' or are foreign-owned and operated. DOE 
+identified one small, domestic OEM for consideration. DOE used 
+subscription-based business information tools (e.g., Dun & Bradstreet 
+reports \18\) to determine headcount and revenue of the small business.
+---------------------------------------------------------------------------
+
+    \16\ MAEDbS can be accessed at <a href="http://cacertappliances.energy.ca.gov/Pages/ApplianceSearch.aspx">cacertappliances.energy.ca.gov/Pages/ApplianceSearch.aspx</a> (Last accessed Feb. 8, 2022).
+    \17\ Certified equipment in the CCD is listed by product class 
+and can be accessed at <a href="http://www.regulations.doe.gov/certification-data/#q=Product_Group_s%3A*">www.regulations.doe.gov/certification-data/#q=Product_Group_s%3A*</a> (Last accessed July 15, 2021).
+    \18\ The Dun & Bradstreet Hoovers subscription login is 
+accessible online at <a href="http://app.dnbhoovers.com/">app.dnbhoovers.com/</a> (Last accessed Feb. 8, 
+2023).
+---------------------------------------------------------------------------
+
+    In the February 2022 NOPR, DOE determined the one small 
+manufacturer had average annual revenues of approximately $3.3 million. 
+Additionally, DOE identified four basic models from the small 
+manufacturer. DOE estimated the re-rating costs for the manufacturer to 
+be approximately $17,400 when making use of AEDMs. The cost for this 
+small manufacturer to re-rate all basic models was estimated to be less 
+than 1 percent of annual revenue. DOE also estimated the re-rating cost 
+for the small manufacturer based on physical testing of all four models 
+based on third-party laboratory testing. Relying on pricing quotes from 
+third-party laboratories, DOE estimated costs of approximately $51,200 
+for the small business. The cost for this small manufacturer to re-rate 
+all basic models with physical testing was estimated to be less than 
+1.6 percent of annual revenue. 87 FR 10726, 10744 (Feb. 25, 2022).
+    DOE did not receive any comments on the number of small entities in 
+response to the February 2022 NOPR. As discussed in section III.G of 
+this document, DOE received several comments that suggested that the 
+February 2022 NOPR underestimated the cost of testing for TE2 
+generally. However, as discussed previously, the estimated cost of 
+testing for TE2 presented in the February 2022 NOPR is based on actual 
+price quotations from third-party laboratories. Additionally, the 
+estimated cost to develop an AEDM reflects 80 hours to develop the AEDM 
+based on existing simulation tools, plus an additional 16 hours to 
+validate the AEDM at a rate of $46 per hour, plus the cost to conduct 
+the test on two units as required by 10 CFR 429.70(c)(2)(iv). Although 
+DOE recognizes that each individual manufacturer's approach to testing 
+and rating their models (whether based on actual testing, AEDMs, or a 
+combination of approaches) could cause test costs to vary 
+significantly, DOE's estimates are intended to represent the typical or 
+most likely costs given the various pathways available for rating TE2, 
+and, therefore, DOE maintained its estimates from the February 2022 
+NOPR for this final rule.
+    On the basis of the de minimis compliance burden, DOE concludes and 
+certifies that the cost effects accruing from this test procedure final 
+rule would not have a ``significant economic impact on a substantial 
+number of small entities,'' and that the preparation of a FRFA is not 
+warranted. DOE will transmit a certification and supporting statement 
+of factual basis to the Chief Counsel for Advocacy of the Small 
+Business Administration for review under 5 U.S.C. 605(b).
+
+C. Review Under the Paperwork Reduction Act of 1995
+
+    Manufacturers of CWAFs must certify to DOE that their products 
+comply with any applicable energy conservation standards. To certify 
+compliance, manufacturers must first obtain test data for their 
+products according to the DOE test procedures, including any amendments 
+adopted for those test procedures. DOE has established regulations for 
+the certification and recordkeeping requirements for all covered 
+consumer products and commercial equipment, including CWAFs. (See 
+generally 10 CFR part 429.) The collection-of-information requirement 
+for the certification and recordkeeping is subject to review and 
+approval by OMB under the Paperwork Reduction Act (PRA). This 
+requirement has been approved by OMB under OMB control number 1910-
+1400. Public reporting burden for the certification is estimated to 
+average 35 hours per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information.
+    DOE is not amending the certification or reporting requirements for 
+CWAFs in this final rule. Instead, DOE may consider proposals to amend 
+the certification requirements and reporting for CWAFs under a separate 
+rulemaking regarding appliance and equipment certification. DOE will 
+address changes to OMB Control Number 1910-1400 at that time, as 
+necessary.
+    Notwithstanding any other provision of the law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the PRA, unless that collection of information displays 
+a currently valid OMB Control Number.
+
+D. Review Under the National Environmental Policy Act of 1969
+
+    DOE has analyzed this regulation in accordance with the National 
+Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.; NEPA) and 
+DOE's NEPA implementing regulations (10 CFR part 1021). In this final 
+rule, DOE establishes test procedure amendments that it expects will be 
+used to develop and implement future energy conservation standards for 
+CWAFs. DOE has determined that this rule falls into a class of actions 
+that are categorically excluded from review under NEPA and DOE's 
+implementing regulations, because it is a rulemaking that interprets or 
+amends an existing rule or regulation that does not change the 
+environmental effect of the rule or regulation being amended. 
+Specifically, DOE has determined that adopting test procedures for 
+measuring energy efficiency of consumer products and industrial 
+equipment is consistent with activities identified in 10 CFR part 1021, 
+subpart D, appendix A, sections A5 and A6. Accordingly, neither an 
+environmental assessment nor an environmental impact statement is 
+required.
+
+E. Review Under Executive Order 13132
+
+    Executive Order 13132, ``Federalism,'' 64 FR 43255 (August 10, 
+1999), imposes certain requirements on agencies formulating and 
+implementing policies or regulations that preempt State law or that 
+have federalism implications. The Executive order requires agencies to 
+examine the constitutional and statutory authority supporting any 
+action that would limit the policymaking discretion of the States and 
+to carefully assess the necessity for such actions. The Executive order 
+also requires agencies to have an accountable process to ensure 
+meaningful and timely input by State
+
+[[Page 36232]]
+
+and local officials in the development of regulatory policies that have 
+federalism implications. On March 14, 2000, DOE published a statement 
+of policy describing the intergovernmental consultation process it will 
+follow in the development of such regulations. 65 FR 13735. DOE 
+examined this final rule and has determined that it will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government. EPCA 
+governs and prescribes Federal preemption of State regulations as to 
+energy conservation for the products that are the subject of this final 
+rule. States can petition DOE for exemption from such preemption to the 
+extent, and based on criteria, set forth in EPCA. (42 U.S.C. 6297(d)) 
+No further action is required by Executive Order 13132.
+
+F. Review Under Executive Order 12988
+
+    Regarding the review of existing regulations and the promulgation 
+of new regulations, section 3(a) of Executive Order 12988, ``Civil 
+Justice Reform,'' 61 FR 4729 (Feb. 7, 1996), imposes on Federal 
+agencies the general duty to adhere to the following requirements: (1) 
+eliminate drafting errors and ambiguity; (2) write regulations to 
+minimize litigation; (3) provide a clear legal standard for affected 
+conduct rather than a general standard; and (4) promote simplification 
+and burden reduction. Section 3(b) of Executive Order 12988 
+specifically requires that executive agencies make every reasonable 
+effort to ensure that the regulation: (1) clearly specifies the 
+preemptive effect, if any; (2) clearly specifies any effect on existing 
+Federal law or regulation; (3) provides a clear legal standard for 
+affected conduct while promoting simplification and burden reduction; 
+(4) specifies the retroactive effect, if any; (5) adequately defines 
+key terms; and (6) addresses other important issues affecting clarity 
+and general draftsmanship under any guidelines issued by the Attorney 
+General. Section 3(c) of Executive Order 12988 requires Executive 
+agencies to review regulations in light of applicable standards in 
+sections 3(a) and 3(b) to determine whether they are met or it is 
+unreasonable to meet one or more of them. DOE has completed the 
+required review and determined that, to the extent permitted by law, 
+this final rule meets the relevant standards of Executive Order 12988.
+
+G. Review Under the Unfunded Mandates Reform Act of 1995
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires each Federal agency to assess the effects of Federal 
+regulatory actions on State, local, and Tribal governments and the 
+private sector. Public Law 104-4, sec. 201 (codified at 2 U.S.C. 1531). 
+For a regulatory action resulting in a rule that may cause the 
+expenditure by State, local, and Tribal governments, in the aggregate, 
+or by the private sector of $100 million or more in any one year 
+(adjusted annually for inflation), section 202 of UMRA requires a 
+Federal agency to publish a written statement that estimates the 
+resulting costs, benefits, and other effects on the national economy. 
+(2 U.S.C. 1532(a), (b)) The UMRA also requires a Federal agency to 
+develop an effective process to permit timely input by elected officers 
+of State, local, and Tribal governments on a proposed ``significant 
+intergovernmental mandate,'' and requires an agency plan for giving 
+notice and opportunity for timely input to potentially affected small 
+governments before establishing any requirements that might 
+significantly or uniquely affect small governments. On March 18, 1997, 
+DOE published a statement of policy on its process for 
+intergovernmental consultation under UMRA. 62 FR 12820; also available 
+at <a href="http://www.energy.gov/gc/office-general-counsel">www.energy.gov/gc/office-general-counsel</a>. DOE examined this final 
+rule according to UMRA and its statement of policy and determined that 
+the rule contains neither an intergovernmental mandate, nor a mandate 
+that may result in the expenditure of $100 million or more in any year, 
+so these requirements do not apply.
+
+H. Review Under the Treasury and General Government Appropriations Act, 
+1999
+
+    Section 654 of the Treasury and General Government Appropriations 
+Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family 
+Policymaking Assessment for any rule that may affect family well-being. 
+This final rule will not have any impact on the autonomy or integrity 
+of the family as an institution. Accordingly, DOE has concluded that it 
+is not necessary to prepare a Family Policymaking Assessment.
+
+I. Review Under Executive Order 12630
+
+    DOE has determined under Executive Order 12630, ``Governmental 
+Actions and Interference with Constitutionally Protected Property 
+Rights,'' 53 FR 8859 (March 18, 1988), that this regulation will not 
+result in any takings that might require compensation under the Fifth 
+Amendment to the U.S. Constitution.
+
+J. Review Under Treasury and General Government Appropriations Act, 
+2001
+
+    Section 515 of the Treasury and General Government Appropriations 
+Act, 2001 (44 U.S.C. 3516 note) provides for agencies to review most 
+disseminations of information to the public under guidelines 
+established by each agency pursuant to general guidelines issued by 
+OMB. OMB's guidelines were published at 67 FR 8452 (Feb. 22, 2002), and 
+DOE's guidelines were published at 67 FR 62446 (Oct. 7, 2002). Pursuant 
+to OMB Memorandum M-19-15, ``Improving Implementation of the 
+Information Quality Act'' (April 24, 2019), DOE published updated 
+guidelines which are available at <a href="http://www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf">www.energy.gov/sites/prod/files/2019/12/f70/DOE%20Final%20Updated%20IQA%20Guidelines%20Dec%202019.pdf</a>. DOE 
+has reviewed this final rule under the OMB and DOE guidelines and has 
+concluded that it is consistent with applicable policies in those 
+guidelines.
+
+K. Review Under Executive Order 13211
+
+    Executive Order 13211, ``Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution, or Use,'' 66 FR 28355 
+(May 22, 2001), requires Federal agencies to prepare and submit to OMB, 
+a Statement of Energy Effects for any significant energy action. A 
+``significant energy action'' is defined as any action by an agency 
+that promulgated or is expected to lead to promulgation of a final 
+rule, and that: (1) is a significant regulatory action under Executive 
+Order 12866, or any successor order; and (2) is likely to have a 
+significant adverse effect on the supply, distribution, or use of 
+energy; or (3) is designated by the Administrator of OIRA as a 
+significant energy action. For any significant energy action, the 
+agency must give a detailed statement of any adverse effects on energy 
+supply, distribution, or use if the regulation is implemented, and of 
+reasonable alternatives to the action and their expected benefits on 
+energy supply, distribution, and use.
+    This regulatory action to amend the test procedure for measuring 
+the energy efficiency of CWAFs is not a significant regulatory action 
+under Executive Order 12866. Moreover, it would not have a significant 
+adverse effect on the supply, distribution, or use of energy, nor has 
+it been designated as a significant energy action by the Administrator 
+of OIRA. Therefore, it is not a significant energy
+
+[[Page 36233]]
+
+action, and, accordingly, DOE has not prepared a Statement of Energy 
+Effects.
+
+L. Review Under Section 32 of the Federal Energy Administration Act of 
+1974
+
+    Under section 301 of the Department of Energy Organization Act 
+(Pub. L. 95-91; 42 U.S.C. 7101), DOE must comply with section 32 of the 
+Federal Energy Administration Act of 1974, as amended by the Federal 
+Energy Administration Authorization Act of 1977. (15 U.S.C. 788; FEAA) 
+Section 32 essentially provides in relevant part that, where a proposed 
+rule authorizes or requires use of commercial standards, the notice of 
+proposed rulemaking must inform the public of the use and background of 
+such standards. In addition, section 32(c) requires DOE to consult with 
+the Attorney General and the Chairman of the Federal Trade Commission 
+(FTC) concerning the impact of the commercial or industry standards on 
+competition.
+    The amendments to the Federal test procedure for CWAFs contained in 
+this final rule adopt testing methods contained in certain sections of 
+the following commercial standards: AHRI 1500-2015 (which in turn 
+references ASTM D240-09, ASTM D396-14a, ASTM D4809-09a, and ASTM D5291-
+10), ANSI Z21.47-2021 (which in turn references ANSI/ASME PTC 19.3-1974 
+(R2004)), ANSI/ASHRAE 103-2022, and UL 727-2018 (which in turn 
+references ASTM E230/E230M-17 and NFPA 97-2003). DOE has evaluated 
+these standards and is unable to conclude whether they fully comply 
+with the requirements of section 32(b) of the FEAA (i.e., whether they 
+were developed in a manner that fully provides for public 
+participation, comment, and review). DOE has consulted with both the 
+Attorney General and the Chairman of the FTC about the impact on 
+competition of using the methods contained in these standards and has 
+received no comments objecting to their use.
+
+M. Congressional Notification
+
+    As required by 5 U.S.C. 801, DOE will report to Congress on the 
+promulgation of this rule before its effective date. The report will 
+state that it has been determined that the final rule is not a ``major 
+rule'' as defined by 5 U.S.C. 804(2).
+
+N. Description of Materials Incorporated by Reference
+
+    In this final rule, DOE incorporates by reference the following 
+test standards:
+    AHRI 1500-2015 provides instruction for how to perform fuel oil 
+analysis and for how to calculate flue loss of oil-fired CWAFs.
+    Copies of AHRI 1500-2015 can be obtained from the Air-Conditioning, 
+Heating, and Refrigeration Institute (AHRI), 2311 Wilson Blvd., Suite 
+400, Arlington, VA 22201, (703) 524-8800, or online at: 
+<a href="http://www.ahrinet.org">www.ahrinet.org</a>.
+    ANSI Z21.47-2021 provides instruction for how to test gas-fired 
+CWAFs.
+    ANSI/ASHRAE 103-2022 provides instruction for how to test 
+residential furnaces and boilers, which DOE is referencing for the 
+purpose of providing instruction for testing condensing gas-fired 
+CWAFs.
+    ANSI/ASME PTC 19.3-1974 (R2004) is referenced by ANSI Z21.47-2021 
+and specifies thermocouple requirements for when testing gas-fired 
+CWAFs.
+    Copies of ANSI Z21.47-2021, ANSI/ASHRAE 103-2022, and ANSI/ASME PTC 
+19.3-1974 (R2004), can be obtained the from the American National 
+Standards Institute (ANSI), 25 W 43rd Street, 4th Floor, New York, NY 
+10036, (212) 642-4900, or online at: <a href="http://www.webstore.ansi.org">www.webstore.ansi.org</a>.
+    ASTM D240-09 is referenced in AHRI 1500-2015, and it contains fuel 
+oil heating value requirements.
+    ASTM D396-14a is referenced in AHRI 1500-2015, and it contains 
+general fuel oil requirements.
+    ASTM D4809-09a is referenced in AHRI 1500-2015, and it contains 
+fuel oil hydrogen and carbon content requirements.
+    ASTM D5291-10 is referenced in AHRI 1500-2015, and it contains fuel 
+oil density requirements.
+    ASTM E230/E230M-17 is referenced in UL 727-2018, and it specifies 
+thermocouple requirements for when testing oil-fired CWAFs.
+    Copies of ASTM D240-09, ASTM D396-14a, ASTM D4809-09a, ASTM D5291-
+10, and ASTM E230/E230M-17 can be obtained from ASTM International, 100 
+Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428, (877) 
+909-2786 or online at: <a href="http://www.astm.org">www.astm.org</a>.
+    NFPA 97-2003 is referenced in UL 727-2018 and provides definitions 
+for the terms ``combustible'' and ``noncombustible.''
+    Copies of NFPA 97-2003 can be obtained from the National Fire 
+Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169-
+7471, 1-800-344-3555 or online at: <a href="http://www.nfpa.org">www.nfpa.org</a>.
+    UL 727-2018 provides instruction for how to test oil-fired CWAFs.
+    Copies of UL 727-2018 can be obtained from Underwriters 
+Laboratories, Inc. (UL), 333 Pfingsten Road, Northbrook, IL 60062, 
+(847) 272-8800, or online at: <a href="http://www.standardscatalog.ul.com">www.standardscatalog.ul.com</a>.
+
+V. Approval of the Office of the Secretary
+
+    The Secretary of Energy has approved publication of this final 
+rule.
+
+List of Subjects in 10 CFR Part 431
+
+    Administrative practice and procedure, Confidential business 
+information, Energy conservation test procedures, Incorporation by 
+reference, and Reporting and recordkeeping requirements.
+
+Signing Authority
+
+    This document of the Department of Energy was signed on May 22, 
+2023, by Francisco Alejandro Moreno, Acting Assistant Secretary for 
+Energy Efficiency and Renewable Energy, pursuant to delegated authority 
+from the Secretary of Energy. That document with the original signature 
+and date is maintained by DOE. For administrative purposes only, and in 
+compliance with requirements of the Office of the Federal Register, the 
+undersigned DOE Federal Register Liaison Officer has been authorized to 
+sign and submit the document in electronic format for publication, as 
+an official document of the Department of Energy. This administrative 
+process in no way alters the legal effect of this document upon 
+publication in the Federal Register.
+
+    Signed in Washington, DC, on May 23, 2023.
+Treena V. Garrett,
+Federal Register Liaison Officer, U.S. Department of Energy.
+
+    For the reasons stated in the preamble, DOE amends part 431 of 
+chapter II of title 10, Code of Federal Regulations as set forth below:
+
+PART 431--ENERGY EFFICIENCY PROGRAM FOR CERTAIN COMMERCIAL AND 
+INDUSTRIAL EQUIPMENT
+
+0
+1. The authority citation for part 431 continues to read as follows:
+
+    Authority: 42 U.S.C. 6291-6317; 28 U.S.C. 2461 note.
+
+
+0
+2. Amend Sec.  431.72 by adding in alphabetical order a definition for 
+``Thermal efficiency two'' to read as follows:
+
+
+Sec.  431.72  Definitions concerning commercial warm air furnaces.
+
+* * * * *
+    Thermal efficiency two for a commercial warm air furnace equals 100
+
+[[Page 36234]]
+
+percent minus percent flue loss and jacket loss.
+* * * * *
+
+0
+3. Revise Sec.  431.75 to read as follows:
+
+
+Sec.  431.75   Materials incorporated by reference.
+
+    (a) Certain material is incorporated by reference into this subpart 
+with the approval of the Director of the Federal Register in accordance 
+with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other 
+than that specified in this section, DOE must publish a document in the 
+Federal Register and the material must be available to the public. All 
+approved incorporation by reference (IBR) material is available for 
+inspection at DOE, and at the National Archives and Records 
+Administration (NARA). Contact DOE at: the U.S. Department of Energy, 
+Office of Energy Efficiency and Renewable Energy, Building Technologies 
+Program, 1000 Independence Ave. SW, EE-5B, Washington, DC 20585, (202) 
+586-9127, <a href="/cdn-cgi/l/email-protection#91d3e4f8fdf5f8fff6e2d1f4f4bff5fef4bff6fee7"><span class="__cf_email__" data-cfemail="6e2c1b07020a0700091d2e0b0b400a010b40090118">[email&#160;protected]</span></a>, <a href="http://www.energy.gov/eere/buildings/building-technologies-office">www.energy.gov/eere/buildings/building-technologies-office</a>. For information on the availability of this 
+material at NARA, visit: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a> or email: <a href="/cdn-cgi/l/email-protection#b7d1c599ded9c4c7d2d4c3ded8d9f7d9d6c5d699d0d8c1"><span class="__cf_email__" data-cfemail="aec8dc80c7c0dddecbcddac7c1c0eec0cfdccf80c9c1d8">[email&#160;protected]</span></a>. The material may be 
+obtained from the sources in the following paragraphs of this section.
+    (b) AHRI. Air-Conditioning, Heating, and Refrigeration Institute, 
+2311 Wilson Blvd., Suite 400, Arlington, VA 22201, (703) 524-8800, or 
+online at: <a href="http://www.ahrinet.org">www.ahrinet.org</a>.
+    (1) ANSI/AHRI 1500-2015 (``AHRI 1500-2015''), Performance Rating of 
+Commercial Space Heating Boilers, ANSI-approved November 28, 2014; IBR 
+approved for appendix A to this subpart.
+    (2) [Reserved]
+    (c) ANSI. American National Standards Institute. 25 W 43rd Street, 
+4th Floor, New York, NY 10036. (212) 642-4900 or online at: 
+<a href="http://www.ansi.org">www.ansi.org</a>.
+    (1) CSA/ANSI Z21.47:21, (``ANSI Z21.47-2021''), Gas-fired central 
+furnaces, ANSI-approved April 21, 2021; IBR approved for appendices A 
+and B to this subpart.
+    (2) [Reserved]
+    (d) ASHRAE. American Society of Heating, Refrigerating and Air-
+Conditioning Engineers Inc., 180 Technology Parkway NW, Peachtree 
+Corners, Georgia 30092, (404) 636-8400, or online at: <a href="http://www.ashrae.org">www.ashrae.org</a>.
+    (1) ANSI/ASHRAE 103-2022 (``ASHRAE 103-2022''), Method of Testing 
+for Annual Fuel Utilization Efficiency of Residential Central Furnaces 
+and Boilers, approved January 10, 2022; IBR approved for appendix A to 
+this subpart.
+    (2) [Reserved]
+    (e) ASME. American Society of Mechanical Engineers, Service Center, 
+22 Law Drive, P.O. Box 2900, Fairfield, NJ 07007, (973) 882-1170, or 
+online at: <a href="http://www.asme.org">www.asme.org</a>.
+    (1) ANSI/ASME PTC 19.3-1974 (R2004), Supplement to ASME Performance 
+Test Codes: Part 3: Temperature Measurement, Instruments and Apparatus, 
+reaffirmed 2004; IBR approved for appendix A to this subpart.
+    (2) [Reserved]
+    (f) ASTM. ASTM International, 100 Barr Harbor Drive, P.O. Box C700, 
+West Conshohocken, PA 19428, (877) 909-2786, or online at: 
+<a href="http://www.astm.org/">www.astm.org/</a>.
+    (1) ASTM D240-09, Standard Test Method for Heat of Combustion of 
+Liquid Hydrocarbon Fuels by Bomb Calorimeter, approved July 1, 2009; 
+IBR approved for appendix A to this subpart.
+    (2) ASTM D396-14a, Standard Specification for Fuel Oils, approved 
+October 1, 2014; IBR approved for appendix A to this subpart.
+    (3) ASTM D4809-09a, Standard Test Method for Heat of Combustion of 
+Liquid Hydrocarbon Fuels by Bomb Calorimeter (Precision Method); 
+approved September 1, 2009; IBR approved for appendix A to this 
+subpart.
+    (4) ASTM D5291-10, Standard Test Methods for Instrumental 
+Determination of Carbon, Hydrogen, and Nitrogen in Petroleum Products 
+and Lubricants, approved May 1, 2010; IBR approved for appendix A to 
+this subpart.
+    (5) ASTM E230/E230M-17 (``ASTM E230/E230M-17''), Standard 
+Specification for Temperature-Electromotive Force (emf) Tables for 
+Standardized Thermocouples, approved November 1, 2017; IBR approved for 
+appendix A to this subpart.
+    (g) NFPA. National Fire Protection Association, 1 Batterymarch 
+Park, Quincy, MA 02169-7471, 1-800-344-3555, or online at: 
+<a href="http://www.nfpa.org">www.nfpa.org</a>.
+    (1) NFPA 97 (``NFPA 97-2003''), Standard Glossary of Terms Relating 
+to Chimneys, Vents, and Heat-Producing Appliances; copyright 2023; IBR 
+approved for appendix A to this subpart.
+    (2) [Reserved]
+    (h) UL. Underwriters Laboratories, Inc., 333 Pfingsten Road, 
+Northbrook, IL 60062, (847) 272-8800, or online at: <a href="http://www.ul.com">www.ul.com</a>.
+    (1) UL 727 (``UL 727-2018''), Standard for Safety Oil-Fired Central 
+Furnaces, Tenth Edition, published January 31, 2018; IBR approved for 
+appendix A to this subpart.
+    (2) [Reserved]
+
+0
+4. Revise Sec.  431.76 to read as follows:
+
+
+Sec.  431.76   Uniform test method for the measurement of energy 
+efficiency of commercial warm air furnaces.
+
+    (a) Scope. This section prescribes the test requirements used to 
+measure the energy efficiency of commercial warm air furnaces with a 
+rated maximum input of 225,000 Btu per hour or more.
+    (b) Testing and calculations--(1) Thermal efficiency. Test in 
+accordance with appendix A to subpart D of this part when making 
+representations of thermal efficiency.
+    (2) Thermal efficiency two. Test in accordance with appendix B to 
+subpart D of this part when making representations of thermal 
+efficiency two.
+
+0
+5. Appendix A to subpart D of part 431 is added to read as follows:
+
+Appendix A to Subpart D of Part 431--Uniform Test Method for 
+Measurement of the Energy Efficiency of Commercial Warm Air Furnaces 
+(Thermal Efficiency)
+
+    Note:  On and after May 28, 2024, any representations made with 
+respect to the energy use or efficiency of commercial warm air 
+furnaces must be made in accordance with the results of testing 
+pursuant to this section. At that time, manufacturers must use the 
+relevant procedures specified in this appendix, which reference ANSI 
+Z21.47-2021, ASHRAE 103-2022, UL 727-2018, or AHRI 1500-2015. On and 
+after July 3, 2023 and prior to May 28, 2024, manufacturers must 
+test commercial warm air furnaces in accordance with this appendix 
+or 10 CFR 431.76 as it appeared on January 1, 2023. DOE notes that, 
+because testing under this section is required as of May 28, 2024, 
+manufacturers may wish to begin using this amended test procedure as 
+soon as possible. Any representations made with respect to the 
+energy use or efficiency of such commercial warm air furnaces must 
+be made in accordance with whichever version is selected.
+    Manufacturers must use the results of testing under appendix B 
+to this subpart to determine compliance with any standards for 
+commercial warm air furnaces that use the thermal efficiency 2 (TE2) 
+metric.
+
+    0. Incorporation by reference.
+    In Sec.  431.75, DOE incorporated by reference the entire 
+standard for AHRI 1500-2015, ANSI Z21.47-2021, ASHRAE 103-2022, ASME 
+PTC 19.3-1974 (R2004), ASTM D240-09, ASTM D396-14a, ASTM D4809-09a, 
+ASTM D5291-10, ASTM E230/E230M-17, NFPA 97-2003, and UL 727-2018. 
+However, for standards AHRI 1500-2015, ANSI Z21.47-2021, ASHRAE 103-
+2022, and UL 727-2018, only the enumerated provisions of those 
+documents apply to this appendix, as follows:
+
+[[Page 36235]]
+
+    0.1 ANSI Z21.47-2021
+    (a) Sections 5.1, 5.1.4, 5.2, 5.3, 5.4, 5.5, 5.5.1, 5.6, and 
+7.2.1 as specified in section 1.1 of this appendix;
+    (b) Section 5.40 as specified in sections 1.1 and 3.1 of this 
+appendix;
+    (c) Section 5.2.8 as specified in section 4.1 of this appendix;
+    (d) Annex I as specified in section 3.1 of this appendix.
+    0.2 ASHRAE 103-2022
+    (a) Sections 7.2.2.4, 7.8, and 9.2 as specified in section 2.2 
+of this appendix;
+    (b) Sections 11.3.7.1 and 11.3.7.2 as specified in section 4.1 
+of this appendix.
+    0.3 UL 727-2018
+    (a) Sections 2, 3, 37, 38 and 39, 40, 40.6, 41, 42, 43.2, 44, 
+45, and 46 as specified in section 1.2 of this appendix;
+    (b) Figure 40.3 as specified in section 2.1 of this appendix.
+    0.4 AHRI 1500-2015
+    (a) Section C3.2.1.1 as specified in section 1.2 of this 
+appendix;
+    (b) Sections C7.2.4, C7.2.5, and C7.2.6.2 as specified in 
+section 3.2 of this appendix.
+    1. Test setup and Testing. Where this section prescribes use of 
+ANSI Z21.47-2021 or UL 727-2018, perform only the procedures 
+pertinent to the measurement of the steady-state efficiency, as 
+specified in this section.
+    1.1 Gas-fired commercial warm air furnaces. The test setup, 
+including flue requirement, instrumentation, test conditions, and 
+measurements for determining thermal efficiency are as specified in 
+section 1.3 of this appendix, and the following sections of ANSI 
+Z21.47-2021: 5.1 (General, including ASME PTC 19.3-1974 (R2004) as 
+referenced in Section 5.1.4), 5.2 (Basic test arrangements), 5.3 
+(Test ducts and plenums), 5.4 (Test gases), 5.5 (Test pressures and 
+burner adjustments), 5.6 (Static pressure and air flow adjustments), 
+5.40 (Thermal efficiency), and 7.2.1 (Basic test arrangements for 
+direct vent central furnaces). If section 1.3 of this appendix and 
+ANSI Z21.47-2021 have conflicting provisions (e.g., the number of 
+thermocouples that should be used when testing units with flue 
+outlets that have a cross-sectional area of 3.14 square inches or 
+less), follow the provisions in section 1.3 of this appendix. The 
+thermal efficiency test must be conducted only at the normal inlet 
+test pressure, as specified in section 5.5.1 of ANSI Z21.47-2021, 
+and at the maximum hourly Btu input rating specified by the 
+manufacturer for the product being tested.
+    1.2 Oil-fired commercial warm air furnaces. The test setup, 
+including flue requirement, instrumentation, test conditions, and 
+measurement for measuring thermal efficiency is as specified in 
+section 1.3 of this appendix and the following sections of UL 727-
+2018: 2 (Units of Measurement), 3 (Glossary, except that the 
+definitions for ``combustible'' and ``non-combustible'' in sections 
+3.11 and 3.27 shall be as referenced in NFPA 97-2003), 37 (General), 
+38 and 39 (Test Installation), 40 (Instrumentation, except 40.4 and 
+40.6.2 through 40.6.7 which are not required for the thermal 
+efficiency test, and including ASTM E230/E230M-17 as referenced in 
+Sections 40.6), 41 (Initial Test Conditions), 42 (Combustion Test--
+Burner and Furnace), 43.2 (Operation Tests), 44 (Limit Control 
+Cutout Test), 45 (Continuity of Operation Test), and 46 (Air Flow, 
+Downflow or Horizontal Furnace Test). If section 1.3 of this 
+appendix and UL 727-2018 have conflicting provisions (e.g., the 
+number of thermocouples that should be used when testing units with 
+flue outlets that have a cross-sectional area of 3.14 inches or 
+less), follow the provisions in section 1.3 of this appendix. 
+Conduct a fuel oil analysis for heating value, hydrogen content, 
+carbon content, pounds per gallon, and American Petroleum Institute 
+(API) gravity as specified in section C3.2.1.1 of AHRI 1500-2015, 
+including the applicable provisions of ASTM D240-09, ASTM D4809-09a, 
+ASTM D5291-10, and ASTM D396-14a, as referenced. The steady-state 
+combustion conditions, specified in section 42.1 of UL 727-2018, are 
+attained when variations of not more than 5 [deg]F in the measured 
+flue gas temperature occur for three consecutive readings taken 15 
+minutes apart.
+    1.3 Additional test setup requirements for gas-fired and oil-
+fired commercial warm air furnaces
+    1.3.1 Thermocouple setup for gas-fired and oil-fired commercial 
+warm air furnaces with flue outlets that have a cross-sectional area 
+of 3.14 square inches or less. For units with flue outlets having a 
+cross-sectional area of 3.14 square inches or less, the flue gas 
+temperatures may optionally be measured using five individual 
+thermocouples, instead of nine thermocouples.
+    1.3.2 Procedure for flue gas measurements when testing units 
+with multiple flue outlets. For units that have multiple flue 
+outlets, record flue gas measurements (e.g., flue gas temperature, 
+CO<INF>2</INF> in the flue gasses) separately for each individual 
+flue outlet and calculate a weighted-average value based on the 
+readings of all flue outlets. To determine the weighted average for 
+each measurement, first determine the input rating of the furnace 
+module associated with each flue outlet. Then multiply the ratio of 
+the input rating for the furnace module associated with each 
+individual flue outlet to the total nameplate input rating of the 
+furnace (i.e., the input rating associated with each individual flue 
+outlet divided by the total nameplate input rating) by that flue 
+outlet's respective component measurement and the sum of all of the 
+products of the calculations for all of the flue outlets to 
+determine the weighted-average values. Use the weighted-average 
+values to determine flue loss, and whether equilibrium conditions 
+are met before the official test period.
+    2. Additional test measurements
+    2.1 Determination of flue CO<INF>2</INF> (carbon dioxide) or 
+O<INF>2</INF> (oxygen) for oil-fired commercial warm air furnaces. 
+In addition to the flue temperature measurement specified in section 
+40.6.8 of UL 727-2018, locate one or two sampling tubes within six 
+inches downstream from the flue temperature probe (as indicated on 
+Figure 40.3 of UL 727-2018). If an open end tube is used, it must 
+project into the flue one-third of the chimney connector diameter. 
+If other methods of sampling the flue gas are used, place the 
+sampling tube so as to obtain an average sample. There must be no 
+air leak between the temperature probe and the sampling tube 
+location. Collect the flue gas sample at the same time the flue gas 
+temperature is recorded. The CO<INF>2</INF> or O<INF>2</INF> 
+concentration of the flue gas must be as specified by the 
+manufacturer for the product being tested, with a tolerance of 
+<plus-minus>0.1 percent. Determine the flue CO<INF>2</INF> or 
+O<INF>2</INF> using an instrument with a reading error no greater 
+than <plus-minus>0.1 percent.
+    2.2 Procedure for the measurement of condensate for a gas-fired 
+condensing commercial warm air furnace. The test procedure for the 
+measurement of the condensate from the flue gas under steady-state 
+operation must be conducted as specified in sections 7.2.2.4, 7.8, 
+and 9.2 of ASHRAE 103-2022 under the maximum rated input conditions. 
+This condensate measurement must be conducted for an additional 30 
+minutes of steady-state operation after completion of the steady-
+state thermal efficiency test specified in section 1.1 of this 
+appendix.
+    3. Calculation of thermal efficiency
+    3.1 Gas-fired commercial warm air furnaces. Use the calculation 
+procedure specified in Section 5.40, Thermal efficiency, of ANSI 
+Z21.47-2021. When determining the flue loss that is used in the 
+calculation of thermal efficiency, the calculation method specified 
+in Annex I of ANSI Z21.47-2021 shall be used.
+    3.2 Oil-fired commercial warm air furnaces. Calculate the 
+percent flue loss (in percent of heat input rate) by following the 
+procedure specified in sections C7.2.4, C7.2.5, and C7.2.6.2 of the 
+AHRI 1500-2015. The thermal efficiency must be calculated as: 
+Thermal Efficiency (percent) = 100 percent - flue loss (in percent).
+    4. Procedure for the calculation of the additional heat gain and 
+heat loss, and adjustment to the thermal efficiency, for a 
+condensing commercial warm air furnace.
+    4.1 Calculate the latent heat gain from the condensation of the 
+water vapor in the flue gas, and calculate heat loss due to the flue 
+condensate down the drain, as specified in sections 11.3.7.1 and 
+11.3.7.2 of ASHRAE 103-2022, with the exception that in the equation 
+for the heat loss due to hot condensate flowing down the drain in 
+section 11.3.7.2, the assumed indoor temperature of 70 [deg]F and 
+the temperature term T<INF>OA</INF> must be replaced by the measured 
+room temperature as specified in section 5.2.8 of ANSI Z21.47.
+    4.2 Adjustment to the thermal efficiency for condensing 
+commercial warm air furnaces. Adjust the thermal efficiency as 
+calculated in section 3.1 of this appendix by adding the latent 
+gain, expressed in percent, from the condensation of the water vapor 
+in the flue gas, and subtracting the heat loss (due to the flue 
+condensate down the drain), also expressed in percent, both as 
+calculated in section 4.1 of this appendix, to obtain the thermal 
+efficiency of a condensing furnace.
+
+0
+6. Appendix B to subpart D of part 431 is added to read as follows:
+
+[[Page 36236]]
+
+Appendix B to Subpart D of Part 431-Uniform Test Method for Measurement 
+of the Energy Efficiency of Commercial Warm Air Furnaces (Thermal 
+Efficiency Two)
+
+    Note:  Manufacturers must use the results of testing under this 
+appendix B to determine compliance with any standards for commercial 
+warm air furnaces that use the thermal efficiency 2 (TE2) metric. In 
+addition, manufacturers may optionally make representations of 
+energy use or efficiency of this equipment using TE2 as determined 
+using this appendix starting on July 3, 2023.
+
+    0. Incorporation by Reference.
+    In Sec.  431.75, DOE incorporates by reference the entire 
+standard ANSI Z21.47-2021. However, only section 5.40 and Appendix J 
+of ANSI Z21.47-2021 apply, as specified in sections 1.2 and 1.6 of 
+this appendix.
+    1. Testing
+    1.1 Set up and test the unit according to sections 0 through 4 
+of appendix A to this subpart, while operating the unit at the 
+maximum nameplate input rate (i.e., full load). Calculate thermal 
+efficiency (TE) using the procedure specified in sections 3 and 4 of 
+appendix A to this subpart.
+    1.2 For commercial warm air furnaces that are designed for 
+outdoor installation (including but not limited to CWAFs that are 
+weatherized, or approved for resistance to wind, rain, or snow), or 
+indoor installation within an unheated space (i.e., isolated 
+combustion systems), determine the jacket loss using Section 5.40 
+and Annex J of ANSI Z21.47-2021 while the unit is operating at the 
+maximum nameplate input. The jacket shall consist of the surfaces 
+surrounding the heating section of the furnace. The jacket includes 
+all surfaces separating the heating section from the supply air, 
+outside air, or condenser section, including the bottom surface 
+separating the heating section from the basepan.
+    1.3 For commercial warm air furnaces that are designed only for 
+indoor installation within a heated space, jacket loss shall be 
+zero. For commercial warm air furnaces that are designed for indoor 
+installation within a heated or unheated space, multiply the jacket 
+loss determined in section 1.2 of this appendix by 1.7. For all 
+other commercial warm air furnaces, including commercial warm air 
+furnaces that are designed for outdoor installation (including but 
+not limited to CWAFs that are weatherized, or approved for 
+resistance to wind, rain, or snow), multiply the jacket loss 
+determined in section 1.2 of this appendix by 3.3.
+    1.4 Subtract the jacket loss determined in section 1.3 of this 
+appendix from the TE determined in section 1.1 of this appendix to 
+determine the full-load efficiency.
+    1.5 Set up and test the unit according to sections 0 through 4 
+of appendix A to this subpart, while operating the unit at the 
+nameplate minimum input rate (i.e., part load). Calculate TE using 
+the procedure specified in sections 3 and 4 of appendix A to this 
+subpart.
+    1.6 For commercial warm air furnaces that are designed for 
+outdoor installation (including but not limited to CWAFs that are 
+weatherized, or approved for resistance to wind, rain, or snow), or 
+indoor installation within an unheated space (i.e., isolated 
+combustion systems), determine the jacket loss using Section 5.40 
+and Annex J of ANSI Z21.47-2021 while the unit is operating at the 
+minimum nameplate input. Alternatively, the jacket loss determined 
+in section 1.2 of this appendix at the maximum nameplate input may 
+be used.
+    1.7 For commercial warm air furnaces that are designed only for 
+indoor installation within a heated space, jacket loss shall be 
+zero. For commercial warm air furnaces that are designed for indoor 
+installation within a heated or unheated space, multiply the jacket 
+loss determined in section 1.6 of this appendix by 1.7. For all 
+other commercial warm air furnaces, including commercial warm air 
+furnaces that are designed for outdoor installation (including but 
+not limited to CWAFs that are weatherized, or approved for 
+resistance to wind, rain, or snow), multiply the jacket loss 
+determined in section 1.6 of this appendix by 3.3.
+    1.8 Subtract the jacket loss determined in section 1.7 of this 
+appendix from the TE determined in section 1.5 of this appendix to 
+determine the part-load efficiency.
+    1.9 Calculate TE2 by taking the average of the full-load and 
+part-load efficiencies as determined in sections 1.4 and 1.8 of this 
+appendix, respectively.
+
+[FR Doc. 2023-11341 Filed 6-1-23; 8:45 am]
+BILLING CODE 6450-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
