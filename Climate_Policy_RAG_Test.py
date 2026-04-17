@@ -14,7 +14,6 @@ _BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, _BASE_DIR)
 
 POLICY_CSV = os.path.join(_BASE_DIR, "pdf_data", "metadata", "Policy Data Sheet - structured_text.csv")
-_IS_CLOUD  = bool(os.environ.get("QDRANT_URL", ""))  # True when running on Streamlit Cloud
 
 # ─── Page Config ──────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -83,11 +82,10 @@ def geo_summary(geo):
 st.title("🌿 Climate Policy RAG")
 st.caption("Native American Climate Policy Assistant · AZ / NM / OK")
 
-# Cloud mode: API key comes from Streamlit Secrets — no input shown
-# Local mode: show password input so developer can enter key without restarting
-if _IS_CLOUD:
-    api_key = os.environ.get("PORTKEY_API_KEY", "")
-else:
+hdr_left, hdr_right = st.columns([3, 1])
+with hdr_left:
+    pass
+with hdr_right:
     api_key = st.text_input("Portkey API Key",
                             value=os.environ.get("PORTKEY_API_KEY", ""),
                             type="password", label_visibility="collapsed",
@@ -355,8 +353,7 @@ if search_clicked and query.strip() and "level_results" in dir() and level_resul
             st.markdown(f"**Document:** {doc}")
             st.markdown(f"**Section:** {sec}　　**Pages:** {pages}")
             if url: st.markdown(f"**URL:** [{url}]({url})")
-            if not _IS_CLOUD:
-                st.caption(f"Local path: {path}")
+            st.caption(f"Local path: {path}")
             st.markdown("**Text Preview:**")
             st.text(text[:600] + ("..." if len(text) > 600 else ""))
 
