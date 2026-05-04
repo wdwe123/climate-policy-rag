@@ -120,15 +120,11 @@ _TRIBE_LABELS = {"tribes_az": "AZ Tribes", "tribes_nm": "NM Tribes", "tribes_ok"
 _CITY_LABELS  = {"cities_az": "AZ Cities", "cities_nm": "NM Cities", "cities_ok": "OK Cities"}
 
 def build_folium_map(marker_latlon: tuple | None = None) -> folium.Map:
+    """每次构建完整 folium Map，GeoJSON 数据来自 load_all_layers() 缓存（无文件 I/O）。"""
     layers = load_all_layers()
 
-    m = folium.Map(
-        location=[35.5, -107.5],
-        zoom_start=6,
-        tiles="CartoDB positron",
-    )
+    m = folium.Map(location=[35.5, -107.5], zoom_start=6, tiles="CartoDB positron")
 
-    # State boundaries
     folium.GeoJson(
         layers["state"],
         name="State Boundaries",
@@ -142,7 +138,6 @@ def build_folium_map(marker_latlon: tuple | None = None) -> folium.Map:
         ),
     ).add_to(m)
 
-    # County boundaries
     county_group = folium.FeatureGroup(name="Counties", show=True)
     for key in ("counties_az", "counties_nm", "counties_ok"):
         folium.GeoJson(
@@ -158,7 +153,6 @@ def build_folium_map(marker_latlon: tuple | None = None) -> folium.Map:
         ).add_to(county_group)
     county_group.add_to(m)
 
-    # Tribal boundaries (per-state groups for toggling)
     for key, color in _TRIBE_COLORS.items():
         group = folium.FeatureGroup(name=_TRIBE_LABELS[key], show=True)
         folium.GeoJson(
@@ -174,7 +168,6 @@ def build_folium_map(marker_latlon: tuple | None = None) -> folium.Map:
         ).add_to(group)
         group.add_to(m)
 
-    # City boundaries (default hidden to keep map clean)
     for key, label in _CITY_LABELS.items():
         group = folium.FeatureGroup(name=label, show=False)
         folium.GeoJson(
@@ -190,7 +183,8 @@ def build_folium_map(marker_latlon: tuple | None = None) -> folium.Map:
         ).add_to(group)
         group.add_to(m)
 
-    # Clicked marker
+    folium.LayerControl(collapsed=False).add_to(m)
+
     if marker_latlon:
         folium.Marker(
             location=marker_latlon,
@@ -199,5 +193,4 @@ def build_folium_map(marker_latlon: tuple | None = None) -> folium.Map:
             tooltip="Clicked location",
         ).add_to(m)
 
-    folium.LayerControl(collapsed=False).add_to(m)
     return m

@@ -1,8 +1,13 @@
 # Large data files — do NOT commit
 qdrant_storage/
+qdrant_storage.zip
 pdf_data/data/
 pdf_data/metadata/policy_metadata.jsonl
 pdf_data/metadata/policy_metadata_3.jsonl
+
+# Docs / notes — local only
+docs/
+api.txt
 
 # Jupyter / Python
 __pycache__/

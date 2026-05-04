@@ -1,0 +1,242 @@
+{
+  "recall@5": 0.9231,
+  "mrr@5": 0.9038,
+  "n_queries": 26,
+  "n_hits": 24,
+  "details": [
+    {
+      "note": "Navajo AZ climate adaptation",
+      "query": "What climate change adaptation strategies does Navajo Nation use for water resources?",
+      "hit": true,
+      "rank": 2,
+      "recall@5": 1.0,
+      "rr": 0.5,
+      "elapsed_s": 13.1
+    },
+    {
+      "note": "Hopi AZ hazard mitigation",
+      "query": "What natural disaster risks are identified in the Hopi Tribe hazard mitigation plan?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 5.5
+    },
+    {
+      "note": "Havasupai AZ hazard mitigation",
+      "query": "How does Havasupai Tribe prepare for floods and wildfires?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.4
+    },
+    {
+      "note": "White Mountain Apache env code",
+      "query": "What environmental regulations apply to development on White Mountain Apache land?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.9
+    },
+    {
+      "note": "Kaibab Paiute adaptive mgmt",
+      "query": "What water management findings does the Kaibab-Paiute Tribe ten-year report show?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.3
+    },
+    {
+      "note": "Sandia Pueblo NM climate",
+      "query": "What are Sandia Pueblo's priorities for reducing greenhouse gas emissions?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.3
+    },
+    {
+      "note": "Tesuque Pueblo NM climate",
+      "query": "What climate vulnerabilities does Tesuque Pueblo face and how do they plan to adapt?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.6
+    },
+    {
+      "note": "Acoma Pueblo NM water quality",
+      "query": "What are Acoma Pueblo's water quality standards and environmental monitoring programs?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.4
+    },
+    {
+      "note": "Picuris Pueblo NM energy",
+      "query": "What renewable energy or solar projects has Picuris Pueblo implemented?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.4
+    },
+    {
+      "note": "Zia Pueblo NM energy",
+      "query": "What energy efficiency programs does Zia Pueblo have?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 3.6
+    },
+    {
+      "note": "Navajo NM community climate report",
+      "query": "What are Navajo Nation community leaders' recommendations on climate change in New Mexico?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.5
+    },
+    {
+      "note": "Zuni Pueblo NM climate",
+      "query": "What climate adaptation plan has Zuni Pueblo developed?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.4
+    },
+    {
+      "note": "Choctaw Nation OK climate",
+      "query": "What are Choctaw Nation's priority actions for reducing carbon emissions?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.5
+    },
+    {
+      "note": "Muscogee Creek Nation OK climate",
+      "query": "How does Muscogee Creek Nation address climate adaptation and vulnerability?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.7
+    },
+    {
+      "note": "Delaware Tribe OK climate",
+      "query": "What climate vulnerabilities and adaptation strategies has Delaware Tribe of Indians identified?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.5
+    },
+    {
+      "note": "Kickapoo Tribe OK climate",
+      "query": "What are Kickapoo Tribe's climate priorities and action plan?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.6
+    },
+    {
+      "note": "Kiowa Tribe OK climate",
+      "query": "What climate adaptation plan does Kiowa Tribe have?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.5
+    },
+    {
+      "note": "Arizona State drought plan",
+      "query": "What are Arizona's drought preparedness measures and water conservation policies?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 2.1
+    },
+    {
+      "note": "Arizona clean energy plan",
+      "query": "What is Arizona's plan for clean energy and reducing greenhouse gas emissions?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 1.9
+    },
+    {
+      "note": "Arizona SHMP 2023",
+      "query": "What natural hazards does Arizona's state hazard mitigation plan address?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 1.9
+    },
+    {
+      "note": "Oklahoma energy security",
+      "query": "What is Oklahoma's energy security strategy and renewable energy goals?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 1.7
+    },
+    {
+      "note": "New Mexico climate resilience plan",
+      "query": "What is New Mexico's climate adaptation and resilience plan?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 1.9
+    },
+    {
+      "note": "Federal CWA 106 tribal guidance",
+      "query": "What does Clean Water Act Section 106 require for tribal water quality programs?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 1.9
+    },
+    {
+      "note": "Federal EPA GAP tribal capacity",
+      "query": "How can tribes build environmental program capacity through EPA grants?",
+      "hit": true,
+      "rank": 1,
+      "recall@5": 1.0,
+      "rr": 1.0,
+      "elapsed_s": 1.7
+    },
+    {
+      "note": "Federal Choctaw water rights settlement",
+      "query": "What is the water settlement agreement for Choctaw Nation water rights?",
+      "hit": false,
+      "rank": 0,
+      "recall@5": 0.0,
+      "rr": 0.0,
+      "elapsed_s": 3.7
+    },
+    {
+      "note": "Federal OK Arbuckle drought",
+      "query": "What drought contingency planning approaches exist for the Arbuckle-Simpson Aquifer in Oklahoma?",
+      "hit": false,
+      "rank": 0,
+      "recall@5": 0.0,
+      "rr": 0.0,
+      "elapsed_s": 1.8
+    }
+  ]
+}

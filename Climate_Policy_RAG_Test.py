@@ -30,6 +30,12 @@ if "map_marker" not in st.session_state:
 for _k in ("dd_state", "dd_tribe", "dd_county", "dd_city"):
     if _k not in st.session_state:
         st.session_state[_k] = "(Auto)"
+if "sl_top_k" not in st.session_state:
+    st.session_state.sl_top_k = 8
+if "sl_top_n" not in st.session_state:
+    st.session_state.sl_top_n = 5
+if "sl_chunks" not in st.session_state:
+    st.session_state.sl_chunks = 2
 
 # ─── URL → Policy Name lookup ─────────────────────────────────────────────────
 @st.cache_resource(show_spinner=False)
@@ -123,16 +129,16 @@ with col_left:
     if _folium_ok:
         mu = mu_mod
 
-        # Map marker status
-        marker_info, marker_clear = st.columns([5, 1])
-        with marker_info:
+        # st_folium 不兼容 @st.fragment，直接在主流程渲染；base map 已 lru_cache，全页 rerun 足够快
+        mi_col, mc_col = st.columns([5, 1])
+        with mi_col:
             if st.session_state.map_geo and _has_geo(st.session_state.map_geo):
                 st.info(f"📍 **{geo_summary(st.session_state.map_geo)}**  "
                         f"(lat={st.session_state.map_marker[0]:.3f}, "
                         f"lon={st.session_state.map_marker[1]:.3f})")
             else:
                 st.caption("Click the map to place a location marker.")
-        with marker_clear:
+        with mc_col:
             if st.button("✕ Clear", use_container_width=True):
                 st.session_state.map_geo    = None
                 st.session_state.map_marker = None
@@ -140,40 +146,39 @@ with col_left:
                     st.session_state[k] = "(Auto)"
                 st.rerun()
 
-        # Map fragment (only reruns on click, not zoom/pan)
-        @st.fragment
-        def _map_fragment():
-            fmap = mu.build_folium_map(marker_latlon=st.session_state.map_marker)
-            result = st_folium(fmap, height=480, use_container_width=True,
-                               key="folium_map", returned_objects=["last_clicked"])
-            if result and result.get("last_clicked"):
-                lat = result["last_clicked"]["lat"]
-                lon = result["last_clicked"]["lng"]
-                if st.session_state.map_marker != (lat, lon):
-                    st.session_state.map_marker = (lat, lon)
-                    region = mu.identify_region(lat, lon)
-                    st.session_state.map_geo = region
-                    _s = ["(Auto)", "Arizona", "New Mexico", "Oklahoma"]
-                    st.session_state.dd_state  = region["states"][0]  if region["states"]  and region["states"][0]  in _s else "(Auto)"
-                    st.session_state.dd_tribe  = region["tribes"][0]  if region["tribes"]  else "(Auto)"
-                    st.session_state.dd_county = region["counties"][0] if region["counties"] else "(Auto)"
-                    st.session_state.dd_city   = region["cities"][0]  if region["cities"]  else "(Auto)"
-                    if not _has_geo(region):
-                        st.warning("Outside coverage area (AZ / NM / OK). Filter not applied.")
-                    st.rerun(scope="app")
+        fmap = mu.build_folium_map(marker_latlon=st.session_state.map_marker)
+        result = st_folium(fmap, height=480, use_container_width=True,
+                           key="folium_map", returned_objects=["last_clicked"])
+        if result and result.get("last_clicked"):
+            lat = result["last_clicked"]["lat"]
+            lon = result["last_clicked"]["lng"]
+            if st.session_state.map_marker != (lat, lon):
+                st.session_state.map_marker = (lat, lon)
+                region = mu.identify_region(lat, lon)
+                st.session_state.map_geo = region
+                _s = ["(Auto)", "Arizona", "New Mexico", "Oklahoma"]
+                st.session_state.dd_state  = region["states"][0]  if region["states"]  and region["states"][0]  in _s else "(Auto)"
+                st.session_state.dd_tribe  = region["tribes"][0]  if region["tribes"]  else "(Auto)"
+                st.session_state.dd_county = region["counties"][0] if region["counties"] else "(Auto)"
+                st.session_state.dd_city   = region["cities"][0]  if region["cities"]  else "(Auto)"
+                if not _has_geo(region):
+                    st.warning("Outside coverage area (AZ / NM / OK). Filter not applied.")
+                st.rerun()
 
-        _map_fragment()
+    # Geo filter dropdowns — fragment 隔离，选择不触发整页重跑
+    @st.fragment
+    def _dropdown_fragment():
+        st.markdown("**Geographic Filter**")
+        st.caption("Syncs with map marker · overrides auto-detection from query")
+        g1, g2 = st.columns(2)
+        with g1:
+            st.selectbox("State",  state_options,  key="dd_state")
+            st.selectbox("County", county_options, key="dd_county")
+        with g2:
+            st.selectbox("Tribe",  tribe_options,  key="dd_tribe")
+            st.selectbox("City",   city_options,   key="dd_city")
 
-    # Geo filter dropdowns (2×2 grid)
-    st.markdown("**Geographic Filter**")
-    st.caption("Syncs with map marker · overrides auto-detection from query")
-    g1, g2 = st.columns(2)
-    with g1:
-        sel_state  = st.selectbox("State",  state_options,  key="dd_state")
-        sel_county = st.selectbox("County", county_options, key="dd_county")
-    with g2:
-        sel_tribe  = st.selectbox("Tribe",  tribe_options,  key="dd_tribe")
-        sel_city   = st.selectbox("City",   city_options,   key="dd_city")
+    _dropdown_fragment()
 
     if st.button("Reset All Filters", use_container_width=True):
         for k in ("dd_state", "dd_tribe", "dd_county", "dd_city"):
@@ -182,151 +187,196 @@ with col_left:
         st.session_state.map_marker = None
         st.rerun()
 
-    # Advanced settings
-    with st.expander("⚙️ Advanced Settings"):
-        top_k          = st.slider("Candidates per level (top_k)",      5, 15, 8)
-        top_n          = st.slider("Results per level (top_n)",         2, 10, 5)
-        chunks_per_lvl = st.slider("Chunks per level sent to LLM",      1, top_n, min(2, top_n))
-        st.caption("Models: gemini-embedding-001 · claude-haiku-4-5 (rerank) · claude-sonnet-4-6 (gen)")
+    # Advanced settings — fragment 隔离，slider 变化不触发整页重跑
+    @st.fragment
+    def _settings_fragment():
+        with st.expander("⚙️ Advanced Settings"):
+            # top_k 独立，range 固定
+            top_k_v = st.slider("Candidates per level (top_k)", 5, 15, key="sl_top_k")
+            # top_n: 先 clamp session_state，再同时传 key= 和 value=
+            # key= 保证正常拖拽时 Streamlit 自动记录交互结果
+            # value= 保证 max 变化导致 widget 重新初始化时不会重置到 min_value
+            if st.session_state.sl_top_n > top_k_v:
+                st.session_state.sl_top_n = top_k_v
+            top_n_v = st.slider("Results per level (top_n)", 2, top_k_v,
+                                value=st.session_state.sl_top_n, key="sl_top_n")
+            # chunks: 同上
+            if st.session_state.sl_chunks > top_n_v:
+                st.session_state.sl_chunks = top_n_v
+            st.slider("Chunks per level sent to LLM", 1, top_n_v,
+                      value=st.session_state.sl_chunks, key="sl_chunks")
+            st.caption("Models: gemini-embedding-001 · claude-haiku-4-5 (rerank) · claude-sonnet-4-6 (gen)")
+
+    _settings_fragment()
+    top_k          = st.session_state.sl_top_k
+    top_n          = st.session_state.sl_top_n
+    chunks_per_lvl = st.session_state.sl_chunks
 
 # ─────────────────────────────────────────────────────────────────────────────
-# RIGHT COLUMN: Search + Answer
+# RIGHT COLUMN: Search + Answer (fragment 在列内定义，避免跨容器写 widget)
 # ─────────────────────────────────────────────────────────────────────────────
+def build_dropdown_geo():
+    tribes   = [st.session_state.dd_tribe]  if st.session_state.dd_tribe  != "(Auto)" else []
+    counties = [st.session_state.dd_county] if st.session_state.dd_county != "(Auto)" else []
+    cities   = [st.session_state.dd_city]   if st.session_state.dd_city   != "(Auto)" else []
+    states   = [st.session_state.dd_state]  if st.session_state.dd_state  != "(Auto)" else []
+    if any([tribes, counties, cities, states]):
+        return {"tribes": tribes, "counties": counties, "cities": cities, "states": states}
+    return None
+
 with col_right:
+    @st.fragment
+    def _search_fragment():
+        retriever_m = load_retriever()
+        generator_m = load_generator()
+        url_map     = load_url_map()
 
-    # Build geo override from dropdowns
-    def build_dropdown_geo():
-        tribes   = [sel_tribe]  if sel_tribe  != "(Auto)" else []
-        counties = [sel_county] if sel_county != "(Auto)" else []
-        cities   = [sel_city]   if sel_city   != "(Auto)" else []
-        states   = [sel_state]  if sel_state  != "(Auto)" else []
-        if any([tribes, counties, cities, states]):
-            return {"tribes": tribes, "counties": counties, "cities": cities, "states": states}
-        return None
+        top_k          = st.session_state.sl_top_k
+        top_n          = st.session_state.sl_top_n
+        chunks_per_lvl = st.session_state.sl_chunks
 
-    map_geo      = st.session_state.map_geo if _has_geo(st.session_state.map_geo) else None
-    dropdown_geo = build_dropdown_geo()
+        map_geo      = st.session_state.map_geo if _has_geo(st.session_state.map_geo) else None
+        dropdown_geo = build_dropdown_geo()
 
-    # Conflict detection
-    conflict_msg = None
-    if map_geo and dropdown_geo:
-        conflict_msg = mu_mod.detect_conflict(map_geo, dropdown_geo)
+        conflict_msg = None
+        if map_geo and dropdown_geo:
+            conflict_msg = mu_mod.detect_conflict(map_geo, dropdown_geo)
 
-    if conflict_msg:
-        st.error(f"⚠️ Geographic conflict — search disabled.\n\n{conflict_msg}\n\n"
-                 "Clear the map marker (✕ Clear) or reset the dropdowns.")
-        active_geo = None
-        can_search = False
-    elif map_geo:
-        st.info(f"📍 Using map location: **{geo_summary(map_geo)}**")
-        active_geo = map_geo
-        can_search = True
-    elif dropdown_geo:
-        st.info(f"🔽 Using dropdown filter: **{geo_summary(dropdown_geo)}**")
-        active_geo = dropdown_geo
-        can_search = True
-    else:
-        st.caption("Geographic filter: auto-detected from query text.")
-        active_geo = None
-        can_search = True
+        if conflict_msg:
+            st.error(f"⚠️ Geographic conflict — search disabled.\n\n{conflict_msg}\n\n"
+                     "Clear the map marker (✕ Clear) or reset the dropdowns.")
+            active_geo = None
+            can_search = False
+        elif map_geo:
+            st.info(f"📍 Using map location: **{geo_summary(map_geo)}**")
+            active_geo = map_geo
+            can_search = True
+        elif dropdown_geo:
+            st.info(f"🔽 Using dropdown filter: **{geo_summary(dropdown_geo)}**")
+            active_geo = dropdown_geo
+            can_search = True
+        else:
+            st.caption("Geographic filter: auto-detected from query text.")
+            active_geo = None
+            can_search = True
 
-    # Search input
-    query = st.text_input("Enter your query",
-                          placeholder="e.g. What flooding plans are available for Apache County?",
-                          label_visibility="collapsed")
+        query = st.text_input("Enter your query",
+                              placeholder="e.g. What flooding plans are available for Apache County?",
+                              label_visibility="collapsed")
 
-    btn_col, clr_col = st.columns([2, 1])
-    with btn_col:
-        search_clicked = st.button("🔍 Search", type="primary",
-                                   use_container_width=True, disabled=not can_search)
-    with clr_col:
-        if st.button("Clear", use_container_width=True):
+        btn_col, clr_col = st.columns([2, 1])
+        with btn_col:
+            search_clicked = st.button("🔍 Search", type="primary",
+                                       use_container_width=True, disabled=not can_search)
+        with clr_col:
+            if st.button("Clear", use_container_width=True):
+                st.session_state.pop("_level_results", None)
+                st.rerun()
+
+        if search_clicked and query.strip():
+            if len(query.strip()) < 5:
+                st.warning("Please enter a more specific query.")
+                st.stop()
+            if not api_key:
+                st.error("Please enter your Portkey API Key (top right).")
+                st.stop()
+
+            with st.spinner("Retrieving and reranking across all geographic levels..."):
+                level_results = retriever_m.search_all_levels(
+                    query,
+                    top_k_per_level=top_k,
+                    top_n_per_level=top_n,
+                    geo_override=active_geo,
+                )
+
+            if not level_results:
+                st.session_state.pop("_level_results", None)
+                st.warning("No relevant results found.")
+                st.stop()
+
+            for lvl_data in level_results.values():
+                for r in lvl_data["chunks"]:
+                    p = r["payload"]
+                    p["display_name"] = get_display_name(
+                        p.get("doc_title", ""), p.get("source_url", ""), url_map)
+
+            st.session_state["_level_results"] = level_results
+            st.session_state["_last_query"]    = query
+
+            first_chunks = next(
+                (d["chunks"] for d in level_results.values() if d["chunks"]), [])
+            geo      = first_chunks[0].get("geo", {}) if first_chunks else {}
+            geo_tier = first_chunks[0].get("geo_tier", "none") if first_chunks else "none"
+            st.session_state["_geo_debug"] = {"geo": geo, "geo_tier": geo_tier}
+
+            any_relevant = any(d["has_results"] for d in level_results.values())
+            if not any_relevant:
+                st.session_state["_gen_result"] = None
+            else:
+                gen_input = []
+                for lv in retriever_m.LEVEL_ORDER:
+                    lvl_data = level_results.get(lv, {})
+                    if lvl_data.get("has_results"):
+                        gen_input.extend(lvl_data["chunks"][:chunks_per_lvl])
+                gen_input = sorted(gen_input,
+                                   key=lambda x: x.get("cross_score", 0), reverse=True)
+
+                level_summary = {
+                    lv: {"geo_label": d["geo_label"], "has_results": d["has_results"]}
+                    for lv, d in level_results.items()
+                }
+
+                with st.spinner("Generating answer..."):
+                    gen_result = generator_m.generate_answer(
+                        query, gen_input, level_summary=level_summary)
+
+                # 存入 session_state：st.rerun() 会丢弃当前渲染，必须持久化后再刷
+                st.session_state["_gen_result"] = gen_result
+
+            # 全页刷新后由 elif 分支读取并显示答案 + chunk 区全宽展示
             st.rerun()
 
-    # ── Search execution ───────────────────────────────────────────────────────
-    if search_clicked and query.strip():
-        if len(query.strip()) < 5:
-            st.warning("Please enter a more specific query.")
-            st.stop()
-        if not api_key:
-            st.error("Please enter your Portkey API Key (top right).")
-            st.stop()
+        elif search_clicked:
+            st.warning("Please enter a query.")
 
-        retriever = load_retriever()
-        generator = load_generator()
-        url_map   = load_url_map()
+        # 全页刷新后：从 session_state 恢复答案显示
+        elif st.session_state.get("_level_results"):
+            level_results = st.session_state["_level_results"]
 
-        with st.spinner("Retrieving and reranking across all geographic levels..."):
-            level_results = retriever.search_all_levels(
-                query,
-                top_k_per_level=top_k,
-                top_n_per_level=top_n,
-                geo_override=active_geo,
-            )
+            # Geo entity detection（从 session_state 恢复）
+            geo_debug = st.session_state.get("_geo_debug", {})
+            if geo_debug:
+                geo      = geo_debug.get("geo", {})
+                geo_tier = geo_debug.get("geo_tier", "none")
+                with st.expander("Geographic Entity Detection (debug)", expanded=False):
+                    c1, c2, c3, c4, c5 = st.columns(5)
+                    c1.metric("Start Level", geo_tier)
+                    c2.metric("Tribe",  ", ".join(geo.get("tribes",   [])) or "—")
+                    c3.metric("County", ", ".join(geo.get("counties", [])) or "—")
+                    c4.metric("City",   ", ".join(geo.get("cities",   [])) or "—")
+                    c5.metric("State",  ", ".join(geo.get("states",   [])) or "—")
+                    searched = [f"{retriever_m.LEVEL_LABEL[lv]} ({'✅' if d['has_results'] else '❌'})"
+                                for lv, d in level_results.items()]
+                    st.caption("Levels searched: " + "  →  ".join(searched))
 
-        if not level_results:
-            st.warning("No relevant results found.")
-            st.stop()
+            any_relevant  = any(d["has_results"] for d in level_results.values())
+            if not any_relevant:
+                st.warning("No relevant policy documents found across any geographic level. "
+                           "Try a more specific question.")
+            elif st.session_state.get("_gen_result"):
+                gen_result = st.session_state["_gen_result"]
+                st.subheader("Answer")
+                st.markdown(gen_result["answer"])
+                st.caption(f"Model: {gen_result['model']} · {gen_result['input_chunks']} chunks")
 
-        # Inject display_name into every chunk payload
-        for lvl_data in level_results.values():
-            for r in lvl_data["chunks"]:
-                p = r["payload"]
-                p["display_name"] = get_display_name(
-                    p.get("doc_title", ""), p.get("source_url", ""), url_map)
-
-        # Debug expander: show geo entities + which levels were searched
-        first_chunks = next(
-            (d["chunks"] for d in level_results.values() if d["chunks"]), [])
-        geo      = first_chunks[0].get("geo", {}) if first_chunks else {}
-        geo_tier = first_chunks[0].get("geo_tier", "none") if first_chunks else "none"
-        with st.expander("Geographic Entity Detection (debug)", expanded=False):
-            c1, c2, c3, c4, c5 = st.columns(5)
-            c1.metric("Start Level", geo_tier)
-            c2.metric("Tribe",  ", ".join(geo.get("tribes",   [])) or "—")
-            c3.metric("County", ", ".join(geo.get("counties", [])) or "—")
-            c4.metric("City",   ", ".join(geo.get("cities",   [])) or "—")
-            c5.metric("State",  ", ".join(geo.get("states",   [])) or "—")
-            searched = [f"{retriever.LEVEL_LABEL[lv]} ({'✅' if d['has_results'] else '❌'})"
-                        for lv, d in level_results.items()]
-            st.caption("Levels searched: " + "  →  ".join(searched))
-
-        # Check if any level has results
-        any_relevant = any(d["has_results"] for d in level_results.values())
-        if not any_relevant:
-            st.warning("No relevant policy documents found across any geographic level. "
-                       "Try a more specific question.")
-        else:
-            # Build gen_input: up to chunks_per_lvl chunks per level that has results
-            gen_input = []
-            for lv in retriever.LEVEL_ORDER:
-                lvl_data = level_results.get(lv, {})
-                if lvl_data.get("has_results"):
-                    gen_input.extend(lvl_data["chunks"][:chunks_per_lvl])
-            gen_input = sorted(gen_input,
-                               key=lambda x: x.get("cross_score", 0), reverse=True)
-
-            # Build level_summary for generator
-            level_summary = {
-                lv: {"geo_label": d["geo_label"], "has_results": d["has_results"]}
-                for lv, d in level_results.items()
-            }
-
-            with st.spinner("Generating answer..."):
-                gen_result = generator.generate_answer(
-                    query, gen_input, level_summary=level_summary)
-
-            st.subheader("Answer")
-            st.markdown(gen_result["answer"])
-            st.caption(f"Model: {gen_result['model']} · {gen_result['input_chunks']} chunks")
-
-    elif search_clicked:
-        st.warning("Please enter a query.")
+    _search_fragment()
 
 # ══════════════════════════════════════════════════════════════════════════════
-# FULL-WIDTH: Retrieved Chunks (grouped by geographic level)
+# FULL-WIDTH: Retrieved Chunks（主流程，全宽，从 session_state 读结果）
 # ══════════════════════════════════════════════════════════════════════════════
-if search_clicked and query.strip() and "level_results" in dir() and level_results:
+level_results = st.session_state.get("_level_results")
+if level_results:
+    retriever_m = load_retriever()
 
     def render_chunk(r, i):
         p      = r["payload"]
@@ -357,21 +407,19 @@ if search_clicked and query.strip() and "level_results" in dir() and level_resul
             st.markdown("**Text Preview:**")
             st.text(text[:600] + ("..." if len(text) > 600 else ""))
 
-    LEVEL_ICONS = {
-        "tribe": "🏘️", "city": "🏙️", "county": "🗺️",
-        "state": "📍", "federal": "🏛️",
-    }
+    LEVEL_ICONS = {"tribe": "🏘️", "city": "🏙️", "county": "🗺️",
+                   "state": "📍", "federal": "🏛️"}
     total_chunks = sum(len(d["chunks"]) for d in level_results.values())
     st.divider()
     st.subheader(f"Retrieved Chunks ({total_chunks} total across {len(level_results)} levels)")
 
     chunk_counter = 1
-    for lv in retriever.LEVEL_ORDER:
+    for lv in retriever_m.LEVEL_ORDER:
         lvl_data = level_results.get(lv)
         if lvl_data is None:
             continue
         icon      = LEVEL_ICONS.get(lv, "📄")
-        label     = retriever.LEVEL_LABEL[lv]
+        label     = retriever_m.LEVEL_LABEL[lv]
         geo_label = lvl_data["geo_label"]
         chunks    = lvl_data["chunks"]
 
