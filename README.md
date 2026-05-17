@@ -1,4 +1,4 @@
-*Contributors: *
+**Contributors:**
 
 Xiaokan Tian: xt2284@nyu.edu
 
@@ -7,19 +7,19 @@ Yao Zhao: yz11700@nyu.edu
 Yin Su: ys4339@nyu.edu
 
 
-Mentor:
+**Mentor:**
 
 Anton Rozhkov: ar8843@nyu.edu
 
 Github: https://github.com/arozhk 
 
 
-Sponsor: 
+**Sponsor:**
 
 Ladan Mozaffarian: ladan.mozaffarian@ou.edu
 
 
-Department: 
+**Department:**
 
 New York University, Tandon School of Engineering, Urban Data Science 
 
