@@ -1,4 +1,4 @@
-Contributors: 
+*Contributors: *
 
 Xiaokan Tian: xt2284@nyu.edu
 
